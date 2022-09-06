@@ -1,0 +1,6 @@
+Iran 's supreme leader Ayatollah Ali Khamenei said the nation 's nuclear program is necessary because its vast oil and gas reserves can not last forever .,B-geo O O O B-per I-per I-per O O O O O O O O O O O O O O O O O O O O,NNP POS JJ NN NNP NNP NNP VBD DT NN POS JJ NN VBZ JJ IN PRP$ JJ NN CC NN NNS MD RB VB RB .
+Iran 's state-run television Saturday quoted Khamenei as saying nations must have alternate energy sources to avoid being at the mercy of domineering countries .,B-geo O O O B-tim O B-per O O O O O O O O O O O O O O O O O O,NNP POS JJ NN NNP VBD NNP IN VBG NNS MD VB JJ NN NNS TO VB VBG IN DT NN IN VBG NNS .
+"Khamenei lashed out at critics of Iran 's nuclear program , calling them narrow-minded .",B-per O O O O O B-geo O O O O O O O O,"NNP VBD RP IN NNS IN NNP POS JJ NN , VBG PRP JJ ."
+The U.S. accuses Iran of using its civilian nuclear program as a cover up to build nuclear weapons .,O B-geo O B-geo O O O O O O O O O O O O O O O,DT NNP VBZ NNP IN VBG PRP$ JJ JJ NN IN DT NN IN TO VB JJ NNS .
+"Iran has always rejected those charges , insisting its atomic program is peaceful in nature .",B-geo O O O O O O O O O O O O O O O,"NNP VBZ RB VBN DT NNS , VBG PRP$ JJ NN VBZ JJ IN NN ."
+Iranian officials have said it has every right to pursue its goals .,B-gpe O O O O O O O O O O O O,JJ NNS VBP VBN PRP VBZ DT NN TO VB PRP$ NNS .

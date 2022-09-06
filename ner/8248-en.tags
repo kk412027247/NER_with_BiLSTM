@@ -1,0 +1,5 @@
+"Sixty years ago , fifteen-year old Roman Ferencevych lived through the waning months of World War II in war-shattered Berlin , far from his native Ukraine .",B-tim O O O O O B-per I-per O O O O O O B-eve I-eve I-eve O O B-geo O O O O O B-geo O,"CD NNS RB , JJ JJ NNP NNP VBD IN DT VBG NNS IN NNP NNP NNP IN JJ NNP , RB IN PRP$ JJ NNP ."
+"After the war , he found himself in the United States -- a displaced person , a refugee , and an American soldier .",O O O O O O O O O B-geo I-geo O O O O O O O O O O B-gpe O O,"IN DT NN , PRP VBD PRP IN DT NNP NNPS IN DT JJ NN , DT NN , CC DT JJ NN ."
+Here he shares his memories of that turbulent time .,O O O O O O O O O O,RB PRP VBZ PRP$ NNS IN DT JJ NN .
+"The day the war ended in Germany , Hear Roman Ferencevych describe life in a Displaced Persons ' Camp",O O O O O O B-geo O O B-per I-per O O O O O O O O,"DT NN DT NN VBD IN NNP , VB NNP NNP VBP NN IN DT JJ NNS POS NNP"
+Roman Ferencevych talks about the goals of the Ukrainian Community in the U.S.,B-per I-per O O O O O O B-gpe B-org O O B-geo,NNP NNP NNS IN DT NNS IN DT JJ NNP IN DT NNP

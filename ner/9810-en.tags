@@ -1,0 +1,10 @@
+NATO says Afghan forces and NATO-led troops have detained a senior Taleban commander in southern Afghanistan .,B-org O B-gpe O O O O O O O O B-org O O B-geo I-geo O,NNP VBZ JJ NNS CC JJ NNS VBP VBN DT JJ NNP NN IN JJ NNP .
+"In a statement released Wednesday , NATO said the militant was arrested Tuesday night during a raid in Helmand province .",O O O O B-tim O B-org O O O O O B-tim I-tim O O O O B-geo O O,"IN DT NN VBN NNP , NNP VBD DT NN VBD VBN NNP NN IN DT NN IN NNP NN ."
+"NATO did not name the Taleban commander , but said he was wanted for questioning by Afghan security officials .",B-org O O O O B-org O O O O O O O O O O B-gpe O O O,"NNP VBD RB VB DT NNP NN , CC VBD PRP VBD VBN IN VBG IN JJ NN NNS ."
+It said the detained man had gone to Helmand after fleeing a recent NATO operation in neighboring Kandahar .,O O O O O O O O B-geo O O O O B-org O O O B-geo O,PRP VBD DT JJ NN VBD VBN TO VB IN VBG DT JJ NNP NN IN VBG NNP .
+"The arrest occurred as new U.S. Defense Secretary Robert Gates met with Afghan President Hamid Karzai in the capital , Kabul .",O O O O O B-org I-org O B-per I-per O O B-gpe B-per I-per I-per O O O O B-org O,"DT NN VBD IN JJ NNP NNP NNP NNP NNP VBD IN JJ NNP NNP NNP IN DT NN , NNP ."
+Gates and Afghan officials discussed ways to defeat the Taleban insurgency .,B-per O B-gpe O O O O O O B-org O O,NNP CC JJ NNS VBD NNS TO VB DT NNP NN .
+The hardline Islamic group has increased its attacks in recent months .,O O B-org I-org O O O O O O O O,DT JJ NNP NN VBZ VBN PRP$ NNS IN JJ NNS .
+"Last year , an estimated four-thousand people were killed by insurgency-related violence .",O O O O O O O O O O O O O,"JJ NN , DT JJ JJ NNS VBD VBN IN JJ NN ."
+Gates wraps up his trip to Afghanistan Wednesday .,B-per O O O O O B-geo B-tim O,NNP VBZ RP PRP$ NN TO NNP NNP .
+"On Tuesday , he expressed concern about increasing attacks in Afghanistan by militants from neighboring Pakistan .",O B-tim O O O O O O O O B-geo O O O O B-geo O,"IN NNP , PRP VBD NN IN VBG NNS IN NNP IN NNS IN VBG NNP ."

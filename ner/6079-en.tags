@@ -1,0 +1,7 @@
+China 's official news agency says 96 miners are missing following an explosion at a coal mine in the country 's northern province of Hebei .,B-geo O O O O O O O O O O O O O O O O O O O O O O O B-geo O,NNP POS JJ NN NN VBZ CD NNS VBP VBG VBG DT NN IN DT NN NN IN DT NN POS JJ NN IN NNP .
+"In the country 's latest mine accident , Xinhua said some 123 people were underground when the blast occurred , but 27 later escaped .",O O O O O O O O B-org O O O O O O O O O O O O O O O O,"IN DT NN POS JJS NN NN , NNP VBD DT CD NNS VBD RB WRB DT NN VBD , CC CD RB VBD ."
+"Overall , at least 171 people have died in Chinese mine accidents in the last two weeks .",O O O O O O O O O B-gpe O O O O O B-tim O O,"RB , IN JJS CD NNS VBP VBN IN JJ NN NNS IN DT JJ CD NNS ."
+"At a coal mine in Henan province , officials said divers would search flooded mine shafts for 42 workers missing since Friday when a nearby river overflowed .",O O O O O B-geo O O O O O O O O O O O O O O O B-tim O O O O O O,"IN DT NN NN IN NNP NN , NNS VBD NNS MD VB VBN NN NNS IN CD NNS VBG IN NNP WRB DT JJ NN VBN ."
+Attempts to pump water out of the mine have been unsuccessful .,O O O O O O O O O O O O,NNS TO VB NN IN IN DT NN VBP VBN JJ .
+"China 's mines are the deadliest in the world , with thousands of miners killed each year .",B-geo O O O O O O O O O O O O O O B-tim O O,"NNP POS NNS VBP DT JJS IN DT NN , IN NNS IN NNS VBN DT NN ."
+The recent series of deadly accidents .,O O O O O O O,DT JJ NN IN JJ NNS .

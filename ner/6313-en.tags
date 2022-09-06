@@ -1,0 +1,8 @@
+"Chinese health officials have confirmed a new case of bird flu in a man hospitalized in critical condition in Guangdong province , near Hong Kong .",B-gpe O O O O O O O O O O O O O O O O O O B-geo O O O B-geo I-geo O,"JJ NN NNS VBP VBN DT JJ NN IN NN NN IN DT NN VBN IN JJ NN IN NNP NN , IN NNP NNP ."
+The case has caused Hong Kong to declare a three-week ban on live poultry from the mainland .,O O O O B-geo I-geo O O O B-tim O O O O O O O O,DT NN VBZ VBN NNP NNP TO VB DT JJ NN IN JJ NN IN DT NN .
+Chinese state media say the infection brings the country 's total of human cases of bird flu to 19 .,B-gpe O O O O O O O O O O O O O O O O O O O,JJ NN NNS VBP DT NN VBZ DT NN POS NN IN JJ NNS IN NN NN TO CD .
+Reports say the 31-year-old patient in the town of Shenzhen developed fever and pneumonia-like symptoms June 3 .,O O O O O O O O O B-geo O O O O O B-tim I-tim O,NNS VBP DT JJ NN IN DT NN IN NNP VBD NN CC JJ NNS NNP CD .
+"Earlier Thursday , the World Health Organization confirmed that a seven-year-old Indonesian girl who died last month was infected with bird flu .",O B-tim O O B-org I-org I-org O O O O B-gpe O O O O O O O O O O O,"RBR NNP , DT NNP NNP NNP VBD IN DT JJ JJ NN WP VBD JJ NN VBD VBN IN NN NN ."
+That means 38 people in Indonesia have now died of bird flu .,O O O O O B-geo O O O O O O O,DT VBZ CD NNS IN NNP VBP RB VBN IN NN NN .
+Avian flu has killed more than 125 people around the world since late 2003 .,O O O O O O O O O O O O O B-tim O,JJ NN VBZ VBN JJR IN CD NNS IN DT NN IN JJ CD .
+Most of the victims have been in Asia .,O O O O O O O B-geo O,JJS IN DT NNS VBP VBN IN NNP .

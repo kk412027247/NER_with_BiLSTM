@@ -1,0 +1,6 @@
+The death toll from a coal mining accident in northwestern China rose to 32 Wednesday after searchers recovered the body of the last missing miner .,O O O O O O O O O O B-geo O O O B-tim O O O O O O O O O O O,DT NN NN IN DT NN NN NN IN JJ NNP VBD TO CD NNP IN NNS VBD DT NN IN DT JJ JJ NN .
+China 's state-run media say 39 people were working at the privately-owned coal mine in Shaanxi province on Saturday when a gas explosion occurred .,B-geo O O O O O O O O O O O O O O B-geo O O B-tim O O O O O O,NNP POS JJ NNS VBP CD NNS VBD VBG IN DT JJ NN NN IN NNP NN IN NNP WRB DT NN NN VBD .
+"Seven miners managed to reach the surface , but the others were trapped .",O O O O O O O O O O O O O O,"CD NNS VBD TO VB DT NN , CC DT NNS VBD VBN ."
+"The Xinhua news agency says police have detained the owner and managers of the mine , but provided no other details .",O B-org O O O O O O O O O O O O O O O O O O O O,"DT NNP NN NN VBZ NNS VBP VBN DT NN CC NNS IN DT NN , CC VBD DT JJ NNS ."
+Chinese mines are among the most dangerous in the world .,B-gpe O O O O O O O O O O,JJ NNS VBP IN DT RBS JJ IN DT NN .
+"Thousands of people are killed every year in explosions , cave-ins and floods , despite government crackdowns on safety violations .",O O O O O O O O O O O O O O O O O O O O O,"NNS IN NNS VBP VBN DT NN IN NNS , NNS CC NNS , IN NN NNS IN NN NNS ."

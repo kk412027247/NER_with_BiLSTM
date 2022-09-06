@@ -1,0 +1,5 @@
+"Unidentified gunmen have fired on a car carrying a Czech diplomat in Afghanistan , injuring his two bodyguards .",O O O O O O O O O B-gpe O O B-geo O O O O O O,"JJ NNS VBP VBN IN DT NN VBG DT JJ NN IN NNP , VBG PRP$ CD NNS ."
+"Filip Velach , the Czech charge d'affaires , was not hurt in the attack which took place about 100 kilometers outside the capital , Kabul .",B-per I-per O O B-gpe O O O O O O O O O O O O O O O O O O O B-org O,"NNP NNP , DT JJ NN NNS , VBD RB VBN IN DT NN WDT VBD NN IN CD NNS IN DT NN , NNP ."
+The three sought safety in a house and were later rescued by NATO 's International Security Assistance Force .,O O O O O O O O O O O O B-org I-org I-org I-org I-org I-org O,DT CD VBD NN IN DT NN CC VBD RB VBN IN NNP POS NNP NNP NNP NNP .
+"Last month , the Czech Republic opened a diplomatic office in Kabul , headed by Velach .",O O O O B-gpe B-geo O O O O O B-geo O O O B-per O,"JJ NN , DT JJ NNP VBD DT JJ NN IN NNP , VBN IN NNP ."
+More than 150 Czech troops are currently serving in Afghanistan .,O O O B-gpe O O O O O B-geo O,JJR IN CD JJ NNS VBP RB VBG IN NNP .

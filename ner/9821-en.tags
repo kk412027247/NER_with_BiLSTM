@@ -1,0 +1,9 @@
+Kenyan police say an al-Qaida suspect wanted for his role in the 1998 bombings of two U.S. embassies has narrowly escaped capture .,B-gpe O O O B-org O O O O O O O B-tim I-tim I-tim I-tim B-geo O O O O O O,JJ NNS VBP DT NNP NN VBN IN PRP$ NN IN DT CD NNS IN CD NNP NNS VBZ RB VBN NN .
+Senior officers say Fazul Abdullah Mohammed escaped a police raid in the Kenyan coastal town of Malindi late Saturday .,O O O B-org I-org I-org O O O O O O B-gpe O O O B-geo O B-tim O,JJ NNS VBP NNP NNP NNP VBD DT NN NN IN DT JJ JJ NN IN NNP JJ NNP .
+"They say police arrested two people believed to be Mohammed 's associates , and seized two passports and a laptop computer in the raid .",O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBP NNS VBD CD NNS VBN TO VB VBN POS NNS , CC VBD CD NNS CC DT NN NN IN DT NN ."
+"Mohammed is high on the United States ' wanted list for his alleged role in the August seventh , 1998 attacks on embassies in Nairobi , Kenya and Dar es Salaam , Tanzania .",O O O O O B-geo I-geo O O O O O O O O O B-tim I-tim I-tim I-tim O O O O B-geo O B-geo O B-geo I-geo I-geo O B-geo O,"NNP VBZ JJ IN DT NNP NNPS POS JJ NN IN PRP$ JJ NN IN DT NNP JJ , CD NNS IN NNS IN NNP , NNP CC NNP VBZ NNP , NNP ."
+The bombings killed more than 220 people .,O O O O O O O O,DT NNS VBD JJR IN CD NNS .
+Mohammed is originally from the Comoros Islands .,O O O O O B-org I-org O,NNP VBZ RB IN DT NNP NNP .
+He has spent recent years in Somalia .,O O O O O O B-geo O,PRP VBZ VBN JJ NNS IN NNP .
+Police say he may have come to Malindi to seek medical help .,O O O O O O O B-geo O O O O O,NNS VBP PRP MD VB VBN TO NNP TO VB JJ NN .
+The United States is offering a $ 5-million reward for information leading to his capture .,O B-geo I-geo O O O O O O O O O O O O O,DT NNP NNPS VBZ VBG DT $ CD NN IN NN VBG TO PRP$ NN .

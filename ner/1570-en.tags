@@ -1,0 +1,9 @@
+Australia 's cricket team has a 179-run lead over India after the second day of their first test match in Melbourne .,B-geo O O O O O O O O B-geo O O B-tim I-tim O O O O O O B-geo O,NNP POS NN NN VBZ DT JJ NN IN NNP IN DT JJ NN IN PRP$ JJ NN NN IN NNP .
+The hosts started the day Thursday at 337-9 and were soon all out for 343 .,O O O O B-tim I-tim O O O O O O O O B-tim O,DT NNS VBD DT NN NNP IN CD CC VBD RB DT RP IN CD .
+"But Australian bowlers Stuart Clark and Brett Lee made sure India was not able to get its offense going , with both men taking four wickets .",O B-gpe O B-per I-per O B-per I-per O O B-geo O O O O O O O O O O O O O O O O,"CC JJ NNS NNP NNP CC NNP NNP VBD JJ NNP VBD RB JJ TO VB PRP$ NN VBG , IN DT NNS VBG CD NNS ."
+Clark ( 4-28 ) took two wickets from three balls either side of the tea break .,B-per O O O O O O O O O O O O O O O O,NNP LRB CD RRB VBD CD NNS IN CD NNS CC NN IN DT NN NN .
+Lee ( 4-46 ) knocked out India 's lower order on the rapidly deteriorating Melbourne Cricket Ground pitch .,B-per O O O O O B-geo O O O O O O O B-org I-org I-org O O,NNP LRB CD RRB VBD RP NNP POS JJR NN IN DT RB VBG NNP NNP NNP NN .
+The visitors managed only 196 all out in their first innings .,O O O O B-tim I-tim O O O O O O,DT NNS VBD RB CD DT RP IN PRP$ JJ NNS .
+Australia then scored 32 without loss in its second innings .,B-geo O O O O O O O O O O,NNP RB VBD CD IN NN IN PRP$ JJ NN .
+This is the first of four tests between the two countries .,O O O O O O O O O O O O,DT VBZ DT NN IN CD NNS IN DT CD NNS .
+Australia and India will also play a triangular series that also features Sri Lanka beginning February 3rd .,B-geo O B-geo O O O O O O O O O B-per B-gpe O B-tim I-tim O,NNP CC NNP MD RB VB DT JJ NN WDT RB VBZ NNP NNP VBG NNP CD .

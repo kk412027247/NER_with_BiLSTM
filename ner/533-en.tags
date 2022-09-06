@@ -1,0 +1,8 @@
+"The head of the U.N. refugee agency 's local office , Laila Nassif said two boats carrying some 300 migrants capsized in the Red Sea .",O O O O B-geo O O O O O O B-per I-per O O O O O O O O O O B-geo I-geo O,"DT NN IN DT NNP NN NN POS JJ NN , NNP NNP VBD CD NNS VBG DT CD NNS VBN IN DT NNP NNP ."
+The official said another boat with 120 migrants overturned in the Arabian Sea .,O O O O O O O O O O O B-geo I-geo O,DT NN VBD DT NN IN CD NNS VBN IN DT NNP NNP .
+Nassif said Saturday that about 110 people from the boats had been rescued .,B-per O B-tim O O O O O O O O O O O,NNP VBD NNP IN IN CD NNS IN DT NNS VBD VBN VBN .
+Yemen 's official news agency reports Sunday that rescue efforts continue but that many people are still missing and feared to have drowned .,B-per O O O O O B-tim O O O O O O O O O O O O O O O O O,NNP POS JJ NN NN VBZ NNP IN NN NNS VBP CC IN JJ NNS VBP RB VBG CC VBN TO VB VBN .
+"Each year , tens of thousands of Somalis and Ethiopians try to reach Yemen in hopes of escaping poverty or conflict in their homelands .",O O O O O O O B-gpe O B-gpe O O O B-geo O O O O O O O O O O O,"DT NN , NNS IN NNS IN NNS CC NNS VBP TO VB NNP IN NNS IN VBG NN CC NN IN PRP$ NNS ."
+Hundreds die on the journey because of accidents and brutal treatment from smugglers .,O O O O O O O O O O O O O O,NNS VBP IN DT NN IN IN NNS CC JJ NN IN NNS .
+Most of the ships cross the Gulf of Aden .,O O O O O O B-geo I-geo I-geo O,JJS IN DT NNS VBP DT NNP IN NNP .
+"The U.N. refugee agency says more than 50,000 people made the journey last year , and that at least 590 drowned trying .",O B-geo O O O O O O O O O O O O O O O O O O O O O,"DT NNP NN NN VBZ JJR IN CD NNS VBD DT NN JJ NN , CC IN IN JJS CD VBD VBG ."

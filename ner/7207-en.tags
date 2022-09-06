@@ -1,0 +1,4 @@
+"There has been some positive news coming out of the International Conference on Alzheimer 's , held July 26-31 in Chicago , Illinois .",O O O O O O O O O B-geo I-geo I-geo O B-geo O O O B-tim I-tim I-tim B-geo O B-geo O,"EX VBZ VBN DT JJ NN VBG IN IN DT NNP NNP IN NNP POS , VBN NNP CD IN NNP , NNP ."
+Two preliminary studies show progress with use of an antihistamine and a nasal spray .,O O O O O O O O O O O O O O O,CD JJ NNS VBP NN IN NN IN DT NN CC DT JJ NN .
+But researchers say lifestyle factors and heredity also play a crucial role in determining whether you develop Alzheimer 's .,O O O O O O O O O O O O O O O O O B-geo O O,CC NNS VBP JJ NNS CC NN RB VB DT JJ NN IN VBG IN PRP VBP NNP POS .
+VOA 's Melinda Smith has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

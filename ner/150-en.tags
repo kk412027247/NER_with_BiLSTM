@@ -1,0 +1,7 @@
+Officials in Iraq say two bomb attacks in the country have killed at least seven people and wounded about 20 others .,O O B-geo O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP CD NN NNS IN DT NN VBP VBN IN JJS CD NNS CC VBN IN CD NNS .
+"In the deadliest attack Sunday , a bomb exploded in a market in the eastern town of Khalis in Diyala province , killing four people .",O O O O B-tim O O O O O O O O O O O O B-geo O B-geo O O O O O O,"IN DT JJS NN NNP , DT NN VBD IN DT NN IN DT JJ NN IN NNP IN NNP NN , VBG CD NNS ."
+"Officials say the bomb targeted the town 's mayor , whose condition was unclear .",O O O O O O O O O O O O O O O,"NNS VBP DT NN VBD DT NN POS NN , WP$ NN VBD JJ ."
+Diyala province still sees frequent insurgent attacks despite significant drops in violence elsewhere in Iraq .,B-geo O O O O O O O O O O O O O B-geo O,NNP NN RB VBZ JJ JJ NNS IN JJ NNS IN NN RB IN NNP .
+"In the other incident , a female suicide bomber blew herself up at a hospital near the western town of Fallujah in Anbar province , killing three people .",O O O O O O O O O O O O O O O O O O O O B-geo O B-geo O O O O O O,"IN DT JJ NN , DT JJ NN NN VBD PRP RP IN DT NN IN DT JJ NN IN NNP IN NNP NN , VBG CD NNS ."
+Anbar is a former stronghold of al-Qaida insurgents .,B-geo O O O O O B-org O O,NNP VBZ DT JJ NN IN NNP NNS .
+U.S. forces handed over security control of the province to Iraqi forces two months ago .,B-geo O O O O O O O O O B-gpe O B-tim O O O,NNP NNS VBD IN NN NN IN DT NN TO JJ NNS CD NNS RB .

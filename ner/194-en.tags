@@ -1,0 +1,8 @@
+U.S. auto giant General Motors is reported to be in preliminary talks with Chrysler about a possible merger .,B-geo O O B-org I-org O O O O O O O O B-per O O O O O,NNP NN NN NNP NNP VBZ VBN TO VB IN JJ NNS IN NNP IN DT JJ NN .
+The New York Times and The Wall Street Journal cite people familiar with the discussions .,O B-org I-org I-org I-org I-org I-org I-org I-org O O O O O O O,DT NNP NNP NNP CC DT NNP NNP NNP VBP NNS JJ IN DT NNS .
+"They say the talks began last month between GM and Cerberus Capital Management , a private equity firm that owns Chrysler .",O O O O O O O O B-org I-org I-org I-org I-org O O O O O O O B-per O,"PRP VBP DT NNS VBD JJ NN IN NNP CC NNP NNP NNP , DT JJ NN NN WDT VBZ NNP ."
+"The possible merger could reduce the so-called "" Big Three "" automakers of Detroit to the Big Two .",O O O O O O O O O O O O O B-geo O O B-org O O,DT JJ NN MD VB DT JJ LQU NNP CD RQU NNS IN NNP TO DT NNP CD .
+Ford is also based in Detroit .,B-per O O O O B-geo O,NNP VBZ RB VBN IN NNP .
+"The New York Times reports Cerberus is also in talks with other automakers , including Nissan and Renault .",O B-org I-org I-org O B-org O O O O O O O O O B-per O B-per O,"DT NNP NNP NNP VBZ NNP VBZ RB IN NNS IN JJ NNS , VBG NNP CC NNP ."
+The global financial crisis has increased fears the Unites States ' biggest automakers could be forced into bankruptcy .,O O O O O O O O B-geo I-geo O O O O O O O O O,DT JJ JJ NN VBZ VBN NNS DT NNP NNPS POS JJS NNS MD VB VBN IN NN .
+Car sales have fallen sharply and analysts say potential car buyers can not get loans .,O O O O O O O O O O O O O O O O,NN NNS VBP VBN RB CC NNS VBP JJ NN NNS MD RB VB NNS .

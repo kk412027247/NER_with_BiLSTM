@@ -1,0 +1,7 @@
+"Palestinian militants fired two rockets into southern Israel late Tuesday , following Israeli airstrikes near the Gaza Strip 's border with Egypt .",B-gpe O O O O O O B-geo O B-tim O O B-gpe O O O B-geo I-geo O O O B-geo O,"JJ NNS VBD CD NNS IN JJ NNP JJ NNP , VBG JJ NNS IN DT NNP NNP POS NN IN NNP ."
+Israeli military officials say no one was hurt in the rocket attack .,B-gpe O O O O O O O O O O O O,JJ JJ NNS VBP DT NN VBD VBN IN DT NN NN .
+"Earlier on Tuesday , Israeli aircraft bombed at least six smuggling tunnels near the southern Gaza town of Rafah .",O O B-tim O B-gpe O O O O O O O O O O B-geo O O B-org O,"RB IN NNP , JJ NN VBD IN JJS CD VBG NNS IN DT JJ NNP NN IN NNP ."
+"Israeli military officials say one of the airstrikes triggered a secondary explosion , indicating that explosives were present in the tunnel .",B-gpe O O O O O O O O O O O O O O O O O O O O O,"JJ JJ NNS VBP CD IN DT NNS VBD DT JJ NN , VBG IN NNS VBD JJ IN DT NN ."
+At least four people were reported wounded in the strikes .,O O O O O O O O O O O,IN JJS CD NNS VBD VBN VBN IN DT NNS .
+Israel launched a three-week offensive against the Palestinian militant group Hamas in Gaza in response to the rocket attacks .,B-geo O O B-tim O O O B-gpe O O B-org O B-geo O O O O O O O,NNP VBD DT JJ NN IN DT JJ JJ NN NNP IN NNP IN NN TO DT NN NNS .
+"Both Hamas and Israel declared separate cease-fires last month , but the violence continues almost daily .",O B-org O B-geo O O O O O O O O O O O O O,"DT NNP CC NNP VBD JJ NNS JJ NN , CC DT NN VBZ RB RB ."

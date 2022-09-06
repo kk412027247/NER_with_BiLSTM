@@ -1,0 +1,6 @@
+The Netherlands ' defense ministry says a car bomb explosion wounded five Dutch soldiers in southern Afghanistan on Friday .,O B-geo O O O O O O O O O O B-gpe O O B-geo I-geo O B-tim O,DT NNP POS NN NN VBZ DT NN NN NN VBD CD JJ NNS IN JJ NNP IN NNP .
+The ministry said in a statement Saturday that the bomb blew up near a NATO convoy in the volatile Uruzgan province .,O O O O O O B-tim O O O O O O O B-org O O O O B-geo O O,DT NN VBD IN DT NN NNP IN DT NN VBD RP IN DT NNP NN IN DT JJ NNP NN .
+"In a similar incident , NATO officials say a roadside bomb struck a coalition vehicle in Afghanistan 's southern Kandahar province Saturday .",O O O O O B-org O O O O O O O O O O B-geo O B-geo I-geo O B-tim O,"IN DT JJ NN , NNP NNS VBP DT NN NN VBD DT NN NN IN NNP POS JJ NNP NN NNP ."
+Officials say that blast did not cause any casualties .,O O O O O O O O O O,NNS VBP IN NN VBD RB VB DT NNS .
+"Meanwhile , the governor of Kandahar province , Assadullah Khalid , said Afghan authorities have detained two men suspected of planning suicide attacks on Afghan targets .",O O O O O B-geo O O B-per I-per O O B-gpe O O O O O O O O O O O B-gpe O O,"RB , DT NN IN NNP NN , NNP NNP , VBD JJ NNS VBP VBN CD NNS VBN IN VBG NN NNS IN JJ NNS ."
+He said the men are from Pakistan 's southwestern Baluchistan province .,O O O O O O B-geo O O B-geo O O,PRP VBD DT NNS VBP IN NNP POS JJ NNP NN .

@@ -1,0 +1,4 @@
+"World oil prices fell $ 2 a barrel on Friday , closing below $ 50 dollars a barrel for the first time since mid-February .",O O O O O O O O O B-tim O O O O O O O O O O B-tim I-tim I-tim I-tim O,"NNP NN NNS VBD $ CD DT NN IN NNP , VBG IN $ CD NNS DT NN IN DT JJ NN IN JJ ."
+Crude oil for June delivery was selling at $ 49.50 a barrel at the close of New York trading .,O O O B-tim O O O O O O O O O O O O B-geo I-geo O O,JJ NN IN NNP NN VBD VBG IN $ CD DT NN IN DT NN IN NNP NNP NN .
+The decline follows reports that crude oil supplies are growing and economic growth is slowing in the key U.S. market .,O O O O O O O O O O O O O O O O O O B-geo O O,DT NN VBZ NNS IN JJ NN NNS VBP VBG CC JJ NN VBZ VBG IN DT JJ NNP NN .
+Prices spiked earlier when investors thought supplies could not keep up with robust demand .,O O O O O O O O O O O O O O O,NNS VBD JJR WRB NNS VBD NNS MD RB VB RP IN JJ NN .

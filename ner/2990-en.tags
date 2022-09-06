@@ -1,0 +1,5 @@
+Authorities in Indian Kashmir say at least 15 people died when a bus veered off a steep mountain road and plunged into a gorge .,O O B-gpe B-geo O O O O O O O O O O O O O O O O O O O O O,NNS IN JJ NNP VBP IN JJS CD NNS VBD WRB DT NN VBD RP DT JJ NN NN CC VBD IN DT NN .
+Reports from the area Wednesday say at least 15 other people on the bus were injured but survived the accident .,O O O O B-tim O O O O O O O O O O O O O O O O,NNS IN DT NN NNP VBP IN JJS CD JJ NNS IN DT NN VBD VBN CC VBD DT NN .
+"Survivors ' accounts indicate the driver lost control of the bus on a sharp curve , and the vehicle plunged 250 meters down a mountainside .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS POS NNS VBP DT NN VBD NN IN DT NN IN DT JJ NN , CC DT NN VBD CD NNS IN DT NN ."
+Villagers and police used ropes to reach the wreck .,O O O O O O O O O O,NNS CC NNS VBD NNS TO VB DT NN .
+"The bus had been traveling through the Tajouri district , nearly 200 kilometers northwest of Jammu city , Indian Kashmir 's winter capital .",O O O O O O O B-geo O O O O O O O B-geo O O B-geo I-geo O O O O,"DT NN VBD VBN VBG IN DT NNP NN , RB CD NNS JJS IN NNP NN , NNP NNP POS NN NN ."

@@ -1,0 +1,9 @@
+"Iranian authorities say a bomb exploded at a military parade in the northwest and has killed at least 12 people , wounding 70 others .",B-gpe O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP DT NN VBD IN DT JJ NN IN DT NN CC VBZ VBN IN JJS CD NNS , VBG CD NNS ."
+Reports from Mahabad say most of the victims are women and children .,O O B-geo O O O O O O O O O O,NNS IN NNP VBP JJS IN DT NNS VBP NNS CC NNS .
+The wives of two military officers are said to be among those killed .,O O O O O O O O O O O O O O,DT NNS IN CD JJ NNS VBP VBN TO VB IN DT VBN .
+The bomb went off at a military parade in the northwestern town Wednesday morning .,O O O O O O O O O O O O B-tim I-tim O,DT NN VBD RP IN DT JJ NN IN DT JJ NN NNP NN .
+"Similar events are being held around the country as it marks the beginning of the Iran-Iraq war , 30 years ago .",O O O O O O O O O O O O O O O O O O B-tim O O O,"JJ NNS VBP VBG VBN IN DT NN IN PRP VBZ DT NN IN DT NNP NN , CD NNS RB ."
+No one immediately claimed responsibility for the blast .,O O O O O O O O O,DT NN RB VBD NN IN DT NN .
+"But provincial Governor Vahid Jalalzadeh blamed what he called "" counter-revolutionary groups . """,O O B-org I-org I-org O O O O O O O O O,CC JJ NNP NNP NNP VBD WP PRP VBD RQU JJ NNS . LQU
+The phrase is often used to refer to Kurdish militants in the region .,O O O O O O O O O O O O O O,DT NN VBZ RB VBN TO VB TO VB NNS IN DT NN .
+Mahabad lies close to the borders of Turkey and Iraq and is home to many ethnic Kurds and minority Sunni Muslims .,B-geo O O O O O O B-geo O B-geo O O O O O O O O O B-per I-per O,NNP VBZ RB TO DT NNS IN NNP CC NNP CC VBZ NN TO JJ JJ NNS CC NN NNP NNPS .

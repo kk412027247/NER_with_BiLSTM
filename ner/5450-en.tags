@@ -1,0 +1,4 @@
+"For the first time , Americans can go on the Internet to find out more about the quality of care at their local hospitals .",O O O O O B-gpe O O O O O O O O O O O O O O O O O O O,"IN DT JJ NN , NNS MD VB IN DT NN TO VB RP RBR IN DT NN IN NN IN PRP$ JJ NNS ."
+"The data also includes hospital death rates for the most common fatal illnesses , such as heart attacks , heart failure and pneumonia .",O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNS RB VBZ NN NN NNS IN DT RBS JJ JJ NNS , JJ IN NN NNS , NN NN CC NN ."
+"In the case of children , the survey also evaluates the medical treatment for asthma .",O O O O O O O O O O O O O O O O,"IN DT NN IN NNS , DT NN RB VBZ DT JJ NN IN NN ."
+VOA 's Melinda Smith says this information measures whether a hospital is performing up to national standards .,B-org O B-per I-per O O O O O O O O O O O O O O,NNP POS NNP NNP VBZ DT NN VBZ IN DT NN VBZ VBG RP TO JJ NNS .

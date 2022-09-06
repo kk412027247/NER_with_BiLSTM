@@ -1,0 +1,4 @@
+"The beginning of traditional Chinese medicine dates back more than 2,000 years .",O O O O B-gpe O O O O O O O O,DT NN IN JJ JJ NN VBZ RB JJR IN CD NNS .
+But it was not until the 17th century A.D. that westerners first heard about those ancient treatments from Jesuit missionaries who traveled to Asia .,O O O O O O B-tim I-tim I-tim O O O O O O O O O B-org O O O O B-geo O,CC PRP VBD RB IN DT JJ NN NNP IN NNS RB VBD IN DT JJ NNS IN NNP NNS WP VBD TO NNP .
+"Now , an American doctor has traveled to China to study the effectiveness of an unusual source of medicine - toad venom .",O O O B-gpe O O O O B-geo O O O O O O O O O O O O O O,"RB , DT JJ NN VBZ VBN TO NNP TO VB DT NN IN DT JJ NN IN NN IN NN NN ."
+VOA 's Melinda Smith reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

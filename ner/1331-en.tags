@@ -1,0 +1,6 @@
+Weather forecasters are advising residents in the southeastern United States to monitor a tropical storm off Florida 's east coast .,O O O O O O O O B-geo I-geo O O O O O O B-geo O O O O,NNP NNS VBP VBG NNS IN DT JJ NNP NNPS TO VB DT JJ NN IN NNP POS JJ NN .
+"The National Weather Center says Tropical Storm Ophelia could dump eight centimeters of rain in parts of Florida and southeastern Georgia , with isolated maximum amounts up to 13 centimeters .",O B-org I-org I-org O B-org I-org I-org O O O O O O O O O B-geo O O B-geo O O O O O O O O O O,"DT NNP NNP NNP VBZ NNP NNP NNP MD VB CD NNS IN NN IN NNS IN NNP CC JJ NNP , IN JJ NN VBZ RP TO CD NNS ."
+"The storm , packing winds of near 95 kilometers per hour , is about 100 kilometers from Cape Canaveral , Florida .",O O O O O O O O O O O O O O O O O B-geo I-geo O B-geo O,"DT NN , VBG NNS IN IN CD NNS IN NN , VBZ IN CD NNS IN NNP NNP , NNP ."
+The weather center says the system is stationary and not expected to move much Thursday .,O O O O O O O O O O O O O O B-tim O,DT NN NN VBZ DT NN VBZ JJ CC RB VBN TO VB RB NNP .
+Some strengthening is forecast .,O O O O O,DT NN VBZ VBN .
+A tropical storm warning is in effect for parts of Florida 's east coast .,O O O O O O O O O O B-geo O O O O,DT JJ NN NN VBZ IN NN IN NNS IN NNP POS JJ NN .

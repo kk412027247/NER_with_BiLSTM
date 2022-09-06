@@ -1,0 +1,8 @@
+Russia 's state-run natural gas monopoly Gazprom has warned Ukraine that it will reduce supplies to that country if Kyiv fails to pay more than $ 1 billion it owes by the end of the month .,B-geo O O O O O B-org O O B-geo O O O O O O O O O B-org O O O O O O O O O O O O B-tim I-tim O O O,NNP POS JJ JJ NN NN NNP VBZ VBN NNP IN PRP MD VB NNS TO DT NN IN NNP VBZ TO VB JJR IN $ CD CD PRP VBZ IN DT NN IN DT NN .
+A Gazprom statement says Russia has fully complied with its contract on deliveries to Ukraine .,O B-org O O B-geo O O O O O O O O O B-geo O,DT NNP NN VBZ NNP VBZ RB VBN IN PRP$ NN IN NNS TO NNP .
+But it says that country 's debt has topped $ 1.3 billion .,O O O O O O O O O O O O O,CC PRP VBZ IN NN POS NN VBZ VBN $ CD CD .
+The firm says it has informed its European clients of the problem .,O O O O O O O O O O O O O,DT NN VBZ PRP VBZ VBN PRP$ JJ NNS IN DT NN .
+"In Brussels , the European Commission urged a speedy settlement of the issue .",O B-geo O O B-org I-org O O O O O O O O,"IN NNP , DT JJ NNP VBD DT JJ NN IN DT NN ."
+The announcement triggered memories of a January 2006 price dispute when Gazprom halted natural gas shipments to Ukraine .,O O O O O O B-tim I-tim O O O B-org O O O O O B-geo O,DT NN VBD NNS IN DT NNP CD NN NN WRB NNP VBD JJ NN NNS TO NNP .
+That sharply reduced the flow of gas to European Union countries that depend on Russia for a quarter of their supplies .,O O O O O O O O B-org I-org O O O O B-geo O O O O O O O,DT RB VBD DT NN IN NN TO NNP NNP NNS WDT VBP IN NNP IN DT NN IN PRP$ NNS .
+Russia responded by accusing Ukraine of siphoning off gas being shipped to qestern Europe through Ukrainian pipelines .,B-geo O O O B-geo O O O O O O O B-geo I-geo O B-gpe O O,NNP VBD IN VBG NNP IN VBG RP NN VBG VBN TO VB NNP IN JJ NNS .

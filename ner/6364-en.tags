@@ -1,0 +1,7 @@
+A preliminary medical study has indicated that an ingredient in chocolate may improve the circulation of blood in the brain and heart .,O O O O O O O O O O O O O O O O O O O O O O O,DT JJ JJ NN VBZ VBN IN DT NN IN NN MD VB DT NN IN NN IN DT NN CC NN .
+"Scientists at the American Association for the Advancement of Science discussed the findings Sunday at a convention in San Francisco , California .",O O O B-org I-org O O B-org I-org I-org O O O B-tim O O O O B-geo I-geo O B-geo O,"NNS IN DT NNP NNP IN DT NNP IN NNP VBD DT NNS NNP IN DT NN IN NNP NNP , NNP ."
+"They said flavinols , an anti-oxidant found in cocoa beans , can increase blood flow to the brain .",O O O O O O O O O O O O O O O O O O O,"PRP VBD NNS , DT JJ VBN IN NN NNS , MD VB NN NN TO DT NN ."
+But researchers caution us not to start eating chocolate for its health benefits .,O O O O O O O O O O O O O O,CC NNS VBP PRP RB TO VB VBG NN IN PRP$ NN NNS .
+They say the flavinols are removed from most chocolate because they have a bitter taste .,O O O O O O O O O O O O O O O O,PRP VBP DT NNS VBP VBN IN JJS NN IN PRP VBP DT JJ NN .
+Scientists say larger-scale testing is needed to back up the early research .,O O O O O O O O O O O O O,NNS VBP JJ NN VBZ VBN TO VB RP DT JJ NN .
+They also say eating high-calorie foods - like chocolate - can lead to health problems .,O O O O O O O O O O O O O O O O,PRP RB VBP VBG JJ NNS : IN NN : MD VB TO NN NNS .

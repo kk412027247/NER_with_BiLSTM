@@ -1,0 +1,6 @@
+"Every year millions of unwanted dogs and cats in the U.S. are brought to animal shelters , where the hope is that they will be adopted .",O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O,"DT NN NNS IN JJ NNS CC NNS IN DT NNP VBP VBN TO NN NNS , WRB DT NN VBZ IN PRP MD VB VBN ."
+"The reality is that about half of them will be euthanized , because there are simply not enough homes for them .",O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ IN IN NN IN PRP MD VB VBN , IN EX VBP RB RB JJ NNS IN PRP ."
+"Dealing with abandoned , abused and unwanted pets is a public health and safety issue that concerns most local governments in the U.S.",O O O O O O O O O O O O O O O O O O O O O O B-geo,"VBG IN JJ , JJ CC JJ NNS VBZ DT JJ NN CC NN NN WDT VBZ RBS JJ NNS IN DT NNP"
+But the task would be immensely more difficult if it were not for the support and expertise of privately funded animal rescue clinics .,O O O O O O O O O O O O O O O O O O O O O O O O,CC DT NN MD VB RB RBR JJ IN PRP VBD RB IN DT NN CC NN IN RB VBN NN NN NNS .
+VOA 's George Dwyer reports on how one American animal shelter is working to help control the local pet population .,B-org O B-per I-per O O O O B-gpe O O O O O O O O O O O O,NNP POS NNP NNP VBZ IN WRB CD JJ NN NN VBZ VBG TO VB VB DT JJ NN NN .
+Ruth Reader narrates .,B-per I-per O O,NNP NNP VBZ .

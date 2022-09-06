@@ -1,0 +1,6 @@
+The Zaragoza airport in northern Spain was evacuated Wednesday after it received threats made in the name of the Basque separatist group ETA .,O B-geo O O O B-geo O O B-tim O O O O O O O O O O B-geo O O B-org O,DT NNP NN IN JJ NNP VBD VBN NNP IN PRP VBD NNS VBN IN DT NN IN DT NNP NN NN NNP .
+Officials say they received word that a rocket launcher had been set up to carry out an attack during a two-hour time frame .,O O O O O O O O O O O O O O O O O O O O O B-tim I-tim O,NNS VBP PRP VBD NN IN DT NN NN VBD VBN VBN RP TO VB RP DT NN IN DT JJ NN NN .
+Police found no explosives or any evidence an attack was planned .,O O O O O O O O O O O O,NNP VBD DT NNS CC DT NN DT NN VBD VBN .
+The airport has been reopened .,O O O O O O,DT NN VBZ VBN VBN .
+"ETA fired a rocket at the Zaragoza airport in June , but no one was hurt .",B-org O O O O O B-geo O O B-tim O O O O O O O,"NNP VBD DT NN IN DT NNP NN IN NNP , CC DT NN VBD VBN ."
+ETA has been blamed for more than 800 deaths since the 1960s when it began its armed campaign for an independent Basque state in northern Spain and southwestern France .,B-org O O O O O O O O O O B-tim O O O O O O O O O B-geo O O O B-geo O O B-geo O,NNP VBZ VBN VBN IN JJR IN CD NNS IN DT NNS WRB PRP VBD PRP$ JJ NN IN DT JJ JJ NN IN JJ NNP CC JJ NNP .

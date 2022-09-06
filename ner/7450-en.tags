@@ -1,0 +1,6 @@
+"People across Asia and the world have greeted the Lunar New Year with family meals , prayers and massive fireworks displays .",O O B-geo O O O O O O B-org I-org I-org O O O O O O O O O O,"NNS IN NNP CC DT NN VBP VBN DT NNP NNP NN IN NN NNS , NNS CC JJ NNS NNS ."
+"In China , residents set off thousands of firecrackers in Beijing late Saturday to ring in the Year of the Pig .",O B-geo O O O O O O O O B-geo O B-tim O O O O O B-tim O B-tim O,"IN NNP , NNS VBD RP NNS IN NNS IN NNP JJ NNP TO VB IN DT NN IN DT NNP ."
+"In London , the Chinese community ushered in the new year with a parade , dancing and fireworks .",O B-geo O O B-gpe O O O O B-tim O O O O O O O O O,"IN NNP , DT JJ NN VBD IN DT JJ NN IN DT NN , VBG CC NNS ."
+Chinese traditionally set off firecrackers to scare away evil spirits and encourage good fortune for the new year .,B-gpe O O O O O O O O O O O O O O O B-tim O O,NNS RB VBP RP NNS TO VB RB JJ NNS CC VB JJ NN IN DT JJ NN .
+The pig is one of 12 animals and symbols on the 12-year Chinese zodiac calendar .,O O O O O O O O O O O O B-gpe O O O,DT NN VBZ CD IN CD NNS CC NNS IN DT JJ JJ NN NN .
+"According to customary superstition , people born in the Year of the Pig are usually honest , straightforward and hardworking .",O O O O O O O O O O B-tim O B-tim O O O O O O O O,"VBG TO JJ NN , NNS VBN IN DT NN IN DT NNP VBP RB JJ , JJ CC JJ ."

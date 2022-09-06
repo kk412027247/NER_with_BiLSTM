@@ -1,0 +1,8 @@
+"Iran has tested new Russian-built air defenses , as part of two-day war games off the Persian Gulf and Sea of Oman .",B-org O O O O O O O O O O O O O O O B-geo I-geo O B-geo I-geo I-geo O,"NNP VBZ VBN JJ JJ NN NNS , IN NN IN JJ NN NNS IN DT NNP NNP CC NNP IN NNP ."
+"Iran 's Revolutionary Guard commander , Brigadier General Hossein Salami , told state-run media that the military and air force are "" enhancing the defensive capabilities . """,B-org O B-org I-org O O B-per I-per I-per I-per O O O O O O O O O O O O O O O O O O,"NNP POS NNP NNP NN , NNP NNP NNP NNP , VBD JJ NNS IN DT NN CC NN NN VBP LQU VBG DT JJ NNS . RQU"
+He said they test-fired their new Russian defense missile system called TOR-M1 .,O O O O O O B-gpe O O O O B-art O,PRP VBD PRP VBD PRP$ JJ JJ NN NN NN VBD NNP .
+Russia completed delivery of the system last month .,B-org O O O O O O O O,NNP VBD NN IN DT NN JJ NN .
+Wednesday 's test comes as the United States moves a second aircraft carrier to the Gulf .,B-tim O O O O O B-org I-org O O O O O O O B-geo O,NNP POS NN VBZ IN DT NNP NNPS VBZ DT JJ NN NN TO DT NNP .
+U.S. Defense Secretary Robert Gates said Friday the Bush administration is not planning to go to war with Iran .,B-org O B-per I-per I-per O B-tim O B-org O O O O O O O O O B-org O,NNP NNP NNP NNP NNP VBD NNP DT NNP NN VBZ RB VBG TO VB TO NN IN NNP .
+The United States and other Western nations accuse Tehran of seeking nuclear weapons .,O B-geo I-geo O O O O O B-org O O O O O,DT NNP NNPS CC JJ JJ NNS VBP NNP IN VBG JJ NNS .
+But Iran maintains its nuclear program is solely for peaceful purposes .,O B-org O O O O O O O O O O,CC NNP VBZ PRP$ JJ NN VBZ RB IN JJ NNS .

@@ -1,0 +1,7 @@
+The Polynesian Maori reached New Zealand in about A.D. 800 .,O O O O B-geo I-geo O O O O O,DT JJ NNP VBD NNP NNP IN IN NNP CD .
+"In 1840 , their chieftains entered into a compact with Britain , the Treaty of Waitangi , in which they ceded sovereignty to Queen Victoria while retaining territorial rights .",O B-tim O O O O O O O O B-geo O B-geo I-geo I-geo I-geo O O O O O O O B-per I-per O O O O O,"IN CD , PRP$ NNS VBD IN DT NN IN NNP , DT NNP IN NNP , IN WDT PRP VBD NN TO NNP NNP IN VBG JJ NNS ."
+"In that same year , the British began the first organized colonial settlement .",O O O O O O B-gpe O O O O O O O,"IN DT JJ NN , DT NNS VBD DT JJ JJ NN NN ."
+A series of land wars between 1843 and 1872 ended with the defeat of the native peoples .,O O O O O B-tim I-tim I-tim I-tim O O O O O O O O O,DT NN IN NN NNS IN CD CC CD VBN IN DT NN IN DT JJ NNS .
+The British colony of New Zealand became an independent dominion in 1907 and supported the UK militarily in both world wars .,O B-gpe O O B-geo I-geo O O O O O B-tim O O O B-org O O O O O O,DT JJ NN IN NNP NNP VBD DT JJ NN IN CD CC VBD DT NNP RB IN DT NN NNS .
+New Zealand 's full participation in a number of defense alliances lapsed by the 1980s .,B-geo I-geo O O O O O O O O O O O O B-tim O,NNP NNP POS JJ NN IN DT NN IN NN NNS VBD IN DT NNS .
+"In recent years , the government has sought to address longstanding Maori grievances .",O B-tim O O O O O O O O O O O O,"IN JJ NNS , DT NN VBZ VBN TO VB JJ NNP NNS ."

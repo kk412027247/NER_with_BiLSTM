@@ -1,0 +1,9 @@
+"Thousands of anti-war protesters have marched in London joining protests in Japan , Australia and elsewhere in the world ahead of the third anniversary of the U.S.-led invasion of Iraq .",O O O O O O O B-geo O O O B-geo O B-geo O O O O O O O O O O O O O O O B-geo O,"NNS IN JJ NNS VBP VBN IN NNP VBG NNS IN NNP , NNP CC RB IN DT NN RB IN DT JJ NN IN DT JJ NN IN NNP ."
+"In London , thousands gathered in a square in the city 's center Saturday , chanting anti-war slogans .",O B-geo O O O O O O O O O O O B-tim O O O O O,"IN NNP , NNS VBD IN DT NN IN DT NN POS NN NNP , VBG JJ NNS ."
+"Some carried posters called President Bush the "" world 's number one terrorist . """,O O O O B-per I-per O O O O O O O O O,DT VBD NNS VBD NNP NNP DT LQU NN POS NN CD NN . RQU
+Others posters called for the ouster of British Prime Minister Tony Blair .,O O O O O O O O B-per O B-per I-per O,NNS NNS VBD IN DT NN IN NNP NNP NNP NNP NNP .
+Britain has the second largest contingent of troops in Iraq behind the United States .,B-geo O O O O O O O O B-geo O O B-geo I-geo O,NNP VBZ DT JJ JJS NN IN NNS IN NNP IN DT NNP NNPS .
+"Organizers say demonstrations over the next three days are part of what they call "" global days of action "" protesting the war .",O O O O O O B-tim O O O O O O O O O O O O O O O O O,NNS VBP NNS IN DT JJ CD NNS VBP NN IN WP PRP VBP LQU JJ NNS IN NN RQU VBG DT NN .
+"Protests were also reported in South Korea , Pakistan , Turkey and Greece .",O O O O O B-geo I-geo O B-geo O B-geo O B-geo O,"NNS VBD RB VBN IN NNP NNP , NNP , NNP CC NNP ."
+Organizers say they expect more than 200 protests worldwide today .,O O O O O O O O O B-tim O,NNS VBP PRP VBP JJR IN CD NNS JJ NN .
+"The war in Iraq began March 19 , 2003 .",O O O B-geo O B-tim I-tim I-tim I-tim O,"DT NN IN NNP VBD NNP CD , CD ."

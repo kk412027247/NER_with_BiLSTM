@@ -1,0 +1,9 @@
+People in Bangladesh are bracing for a cyclone that will likely make landfall in the next few days .,O O B-geo O O O O O O O O O O O O O B-tim O O,NNS IN NNP VBP VBG IN DT NN WDT MD RB VB NN IN DT JJ JJ NNS .
+"Cyclone Nargis is about 1,000 kilometers from the southeastern port city of Chittagong .",O B-per O O O O O O O O O O B-geo O,NNP NNP VBZ IN CD NNS IN DT JJ JJ NN IN NNP .
+Meteorologists are warning the storm could become a powerful Category Four cyclone .,O O O O O O O O O O O O O,NNS VBP VBG DT NN MD VB DT JJ NNP NNP NN .
+Authorities are telling residents to stay alert and be prepared to evacuate .,O O O O O O O O O O O O O,NNS VBP VBG NNS TO VB NN CC VB VBN TO VB .
+"There is also concern the storm has the potential to damage a bumper rice crop , although the country 's Agriculture Ministry spokesman , Abdulla Al-Shahin , is denying reports officials have asked farmers to rush harvesting the rice .",O O O O O O O O O O O O O O O O O O O O B-org I-org O O B-per I-per O O O O O O O O O O O O O O,"EX VBZ RB NN DT NN VBZ DT JJ TO VB DT NN NN NN , IN DT NN POS NNP NNP NN , NNP NNP , VBZ VBG NNS NNS VBP VBN NNS TO VB VBG DT NN ."
+Farmers in Bangladesh have been in the fields harvesting the crop .,O O B-geo O O O O O O O O O,NNP IN NNP VBP VBN IN DT NNS VBG DT NN .
+Completing the harvest could take another two weeks .,O O O O O O B-tim O O,VBG DT NN MD VB DT CD NNS .
+"The country is still recovering from Cyclone Sidr , which hit last November , killing an estimated 3,500 people and leaving another two million homeless .",O O O O O O B-org I-org O O O O B-tim O O O O O O O O O O O O O,"DT NN VBZ RB VBG IN NNP NNP , WDT VBD JJ NNP , VBG DT JJ CD NNS CC VBG DT CD CD NN ."
+The cyclone also destroyed roughly two million tons of rice .,O O O O O O O O O O O,DT NN RB VBD RB CD CD NNS IN NN .

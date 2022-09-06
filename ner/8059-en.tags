@@ -1,0 +1,16 @@
+"Come one , Come all to the Inaugural Jameson Grill",O O O O O O O B-org I-org I-org,"VBN CD , VBN DT TO DT NNP NNP NNP"
+"The only fund raising event in the world where you can bring your entire family , other employees , or maybe even your neighbors .",O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN VBG NN IN DT NN WRB PRP MD VB PRP$ JJ NN , JJ NNS , CC RB RB PRP$ NNS ."
+"Saturday , September 20 , 1997 , from 2:00 p.m. until 7:00 p.m. , marks a special day , as Jameson Camp will hold its first ever Jameson Grill .",B-tim O B-tim I-tim I-tim I-tim O O B-tim I-tim O B-tim I-tim O O O O O O O B-org I-org O O O O O B-org I-org O,"NNP , NNP CD , CD , IN NN NN IN NN NN , VBZ DT JJ NN , IN NNP NNP MD VB PRP$ JJ RB NNP NNP ."
+A fund raiser dedicated to you and your family having fun ! !,O O O O O O O O O O O O O,DT NN NN VBN TO PRP CC PRP$ NN VBG NN . .
+"For this event , when you purchase a corporate picnic table , you will be able to bring 16 people .",O O O O O O O O O O O O O O O O O O O O O,"IN DT NN , WRB PRP VBP DT JJ NN NN , PRP MD VB JJ TO VB CD NNS ."
+"( and if you need room for a couple of more , we can swing that too ! )",O O O O O O O O O O O O O O O O O O O,"LRB CC IN PRP VBP NN IN DT NN IN JJR , PRP MD VB IN RB . RRB"
+The Grill will feature enough activities that you and your kids will have a tough time deciding what to do .,O B-org O O O O O O O O O O O O O O O O O O O,DT NNP MD VB JJ NNS IN PRP CC PRP$ NNS MD VB DT JJ NN VBG WP TO VB .
+"From basketball , kickball , volleyball , archery , crafts , an egg toss , and even a walk through our creek , you will have plenty to do to get you good and hungry .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN NN , NN , NN , NN , NNS , DT NN NN , CC RB DT NN IN PRP$ NN , PRP MD VB NN TO VB TO VB PRP JJ CC JJ ."
+"Hungry , you bet ! We 'll prepare a hog roast and hot dogs for the kids , with all the fixings .",O O O O O O O O O O O O O O O O O O O O O O O,"NNP , PRP VBD . PRP MD VB DT NN NN CC JJ NNS IN DT NNS , IN PDT DT NNS ."
+"In addition , we will have soft drinks and a raffle , so that you can walk home with a great prize !",O O O O O O O O O O O O O O O O O O O O O O O,"IN NN , PRP MD VB JJ NNS CC DT NN , IN IN PRP MD VB NN IN DT JJ NN ."
+"The Jameson Grill has been designed to be nothing but fun for you , your family , employees , and maybe even your neighbors .",O B-org I-org O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ VBN VBN TO VB NN CC NN IN PRP , PRP$ NN , NNS , CC RB RB PRP$ NNS ."
+Join in this wonderful event and help Jameson Camp continue to provide the year-round support that gives kids a chance to create dreams .,O O O O O O O B-org I-org O O O O O O O O O O O O O O O,NNP IN DT JJ NN CC VB NNP NNP VBP TO VB DT JJ NN WDT VBZ NNS DT NN TO VB NNS .
+"Simply fill out the enclosed card , and we will see you at the Grill !",O O O O O O O O O O O O O O B-org O,"RB VB RP DT VBN NN , CC PRP MD VB PRP IN DT NNP ."
+One of our volunteers will be contacting you soon .,O O O O O O O O O O,CD IN PRP$ NNS MD VB VBG PRP RB .
+Questions ?,O O,NNS .
+"Call Pat Bray at 241-2661 or e-mail , jcfundrzr@aol.com",O B-per I-per O O O O O O,"VB NNP NNP IN CD CC VB , NNP"

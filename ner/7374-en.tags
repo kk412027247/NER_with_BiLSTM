@@ -1,0 +1,8 @@
+The Chinese state news agency says 21 miners were killed in a mine explosion in southwestern China last week .,O B-gpe O O O O O O O O O O O O O O B-geo O O O,DT JJ NN NN NN VBZ CD NNS VBD VBN IN DT NN NN IN JJ NNP JJ NN .
+"The accident happened Thursday at a small mine in Panzhihua , in Sichuan province .",O O O B-tim O O O O O B-geo O O B-geo O O,"DT NN VBD NNP IN DT JJ NN IN NNP , IN NNP NN ."
+Xinhua news agency says 10 miners survived the disaster .,B-org O O O O O O O O O,NNP NN NN VBZ CD NNS VBD DT NN .
+It says a preliminary investigation found the blast was caused by poor management practices .,O O O O O O O O O O O O O O O,PRP VBZ DT JJ NN VBD DT NN VBD VBN IN JJ NN NNS .
+It did not explain the delay in reporting the blast .,O O O O O O O O O O O,PRP VBD RB VB DT NN IN VBG DT NN .
+"China has the deadliest mines in the world , despite government efforts to improve safety .",B-geo O O O O O O O O O O O O O O O,"NNP VBZ DT JJS NNS IN DT NN , IN NN NNS TO VB NN ."
+"More than 1,000 miners have been killed this year .",O O O O O O O O O O,JJR IN CD NNS VBP VBN VBN DT NN .
+Mine producers ignore safety regulations to fulfill soaring energy demands brought on by China 's booming economy .,O O O O O O O O O O O O O B-geo O O O O,NNP NNS VBP NN NNS TO VB VBG NN NNS VBN RP IN NNP POS JJ NN .

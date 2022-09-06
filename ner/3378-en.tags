@@ -1,0 +1,8 @@
+Ethiopia 's prime minister and opposition leaders have met to discuss for the first time together disputed parliamentary elections in May .,B-gpe O O O O O O O O O O O O O O O O O O O B-tim O,NNP POS JJ NN CC NN NNS VBP VBN TO VB IN DT JJ NN RB VBD JJ NNS IN NNP .
+Friday 's talks between Prime Minister Meles Zenawi and the two main opposition groups were set up to ease tensions sparked by the elections .,B-tim O O O B-per I-per I-per I-per O O O O O O O O O O O O O O O O O,NNP POS NNS IN NNP NNP NNP NNP CC DT CD JJ NN NNS VBD VBN RP TO VB NNS VBN IN DT NNS .
+"Shortly after the vote , security forces opened fire on anti-government protesters , killing at least 36 people .",O O O O O O O O O O O O O O O O O O O,"RB IN DT NN , NN NNS VBD NN IN JJ NNS , VBG IN JJS CD NNS ."
+A top official in one opposition party says the talks included the possibility of establishing a coalition government and opposition access to state-run media .,O O O O O O O O O O O O O O O O O O O O O O O O O,DT JJ NN IN CD NN NN VBZ DT NNS VBD DT NN IN VBG DT NN NN CC NN NN TO JJ NNS .
+The discussions are expected to continue .,O O O O O O O,DT NNS VBP VBN TO VB .
+"The latest election results show Mr. Zenawi 's ruling party and its allies have won 263 seats , 11 short of the majority needed to form a new government .",O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O,"DT JJS NN NNS VBP NNP NNP POS VBG NN CC PRP$ NNS VBP VBN CD NNS , CD NN IN DT NN VBN TO VB DT JJ NN ."
+Opposition groups have won 170 seats .,O O O O O O O,NN NNS VBP VBN CD NNS .
+Opposition leaders have rejected the results and called for new elections in 299 constituencies .,O O O O O O O O O O O O O O O,NN NNS VBP VBN DT NNS CC VBN IN JJ NNS IN CD NNS .

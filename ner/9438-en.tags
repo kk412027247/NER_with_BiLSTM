@@ -1,0 +1,8 @@
+China is reporting its ninth human bird flu death .,B-geo O O O O O O O O O,NNP VBZ VBG PRP$ JJ JJ NN NN NN .
+"Officials confirmed Sunday that a 32-year-old man in Guangdong province , which borders Hong Kong , died from the H5N1 virus last week .",O O B-tim O O O O O B-geo O O O O B-geo I-geo O O O O O O O O O,"NNS VBD NNP IN DT JJ NN IN NNP NN , WDT VBZ NNP NNP , VBD IN DT NNP NN JJ NN ."
+Authorities in Hong Kong have announced a ban on poultry and live bird imports from Guangdong .,O O B-geo I-geo O O O O O O O O O O O B-geo O,NNS IN NNP NNP VBP VBN DT NN IN NN CC JJ NN NNS IN NNP .
+"Meanwhile , French officials report finding bird flu in a dead wild bird on the Mediterranean coast .",O O B-gpe O O O O O O O O O O O O O O O,"RB , JJ NNS VBP VBG NN NN IN DT JJ JJ NN IN DT NNP NN ."
+This is several hundred kilometers south of France 's other bird flu outbreak on a turkey farm .,O O O O O O O B-geo O O O O O O O O O O,DT VBZ JJ CD NNS RB IN NNP POS JJ NN NN NN IN DT NN NN .
+More than 40 countries have banned French poultry imports .,O O O O O O B-gpe O O O,JJR IN CD NNS VBP VBN JJ NN NNS .
+"Also , Poland is reporting its first H5N1 cases in two swans in the northern city of Torun .",O O B-org O O O O O O O O O O O O O O B-geo O,"RB , NNP VBZ VBG PRP$ JJ NNP NNS IN CD NNS IN DT JJ NN IN NNP ."
+"Bird flu has killed at least 94 people worldwide since 2003 , mostly in Asia .",O O O O O O O O O O B-tim O O O B-geo O,"NN NN VBZ VBN IN JJS CD NNS JJ IN CD , RB IN NNP ."

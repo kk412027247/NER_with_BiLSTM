@@ -1,0 +1,9 @@
+"Taleban militants in Afghanistan bombed a convoy carrying a provincial governor and later opened fire on the vehicles , killing one official .",B-org O O B-geo O O O O O O O O O O O O O O O O O O O,"NNP NNS IN NNP VBD DT NN VBG DT JJ NN CC RB VBD NN IN DT NNS , VBG CD NN ."
+Authorities said the governor of eastern Lagham province was unhurt in the attack Saturday .,O O O O O O B-geo O O O O O O B-tim O,NNS VBD DT NN IN JJ NNP NN VBD JJ IN DT NN NNP .
+They said one official in the provincial government was killed by gunfire .,O O O O O O O O O O O O O,PRP VBD CD NN IN DT JJ NN VBD VBN IN NN .
+A Taleban spokesman claimed responsibility for the attack .,O B-org O O O O O O O,DT NNP NN VBD NN IN DT NN .
+Police said they had detained several suspects .,O O O O O O O O,NNS VBD PRP VBD VBN JJ NNS .
+"Meanwhile , Afghan officials said a roadside bomb killed six members of a security force in eastern Paktia province .",O O B-gpe O O O O O O O O O O O O O O B-geo O O,"RB , JJ NNS VBD DT NN NN VBD CD NNS IN DT NN NN IN JJ NNP NN ."
+"In Kandahar province , two NATO soldiers were killed and three wounded by militants firing rocket propelled grenades and small arms .",O B-geo O O O B-org O O O O O O O O O O O O O O O O,"IN NNP NN , CD NNP NNS VBD VBN CC CD VBN IN NNS VBG NN VBD NNS CC JJ NNS ."
+Coalition officials did not release the nationality of the troops involved .,O O O O O O O O O O O O,NN NNS VBD RB VB DT NN IN DT NNS VBN .
+"Friday , a suicide attack on a NATO convoy in Kandahar killed one NATO soldier and eight Afghan civilians .",B-tim O O O O O O B-org O O B-geo O O B-org O O O B-gpe O O,"NNP , DT NN NN IN DT NNP NN IN NNP VBD CD NNP NN CC CD JJ NNS ."

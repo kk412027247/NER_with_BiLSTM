@@ -1,0 +1,7 @@
+"Ethiopians vote Sunday in a second round of elections for local government positions , despite an opposition boycott and criticism from a prominent international human rights group .",B-gpe O B-tim O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS NN NNP IN DT JJ NN IN NNS IN JJ NN NNS , IN DT NN NN CC NN IN DT JJ JJ JJ NNS NN ."
+The first round of voting was last Sunday .,O O O O O O O B-tim O,DT JJ NN IN NN VBD JJ NNP .
+Opposition leaders claim that most of their candidates were disqualified from running or intimidated into dropping out .,O O O O O O O O O O O O O O O O O O,NN NNS VBP IN JJS IN PRP$ NNS VBD VBN IN VBG CC VBN IN VBG RP .
+"The ruling EPRDF party has denied those allegations , saying the electoral board registered every candidate who had the proper credentials .",O O B-org O O O O O O O O O O O O O O O O O O O,"DT NN NNP NN VBZ VBN DT NNS , VBG DT JJ NN VBD DT NN WP VBD DT JJ NNS ."
+"The rights group Human Rights Watch agrees with the opposition 's view , calling the elections "" a rubber stamp "" for the ruling party 's domination of power .",O O O B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNS NN NNP NNP NNP VBZ IN DT NN POS NN , VBG DT NNS LQU DT NN NN LQU IN DT VBG NN POS NN IN NN ."
+"Approximately four million seats in parliament , city councils and neighborhood councils are at stake in the elections .",O O O O O O O O O O O O O O O O O O O,"RB CD CD NNS IN NN , NN NNS CC NN NNS VBP IN NN IN DT NNS ."
+Ethiopia has 26 million registered voters .,B-geo O O O O O O,NNP VBZ CD CD JJ NNS .

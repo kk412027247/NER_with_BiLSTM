@@ -1,0 +1,7 @@
+"A happy event has turned to tragedy at the Beijing Zoo , where officials say a giant panda accidentally crushed and killed her newborn cub .",O O O O O O O O O B-art I-art O O O O O O O O O O O O O O O,"DT JJ NN VBZ VBN TO NN IN DT NNP NNP , WRB NNS VBP DT JJ NN RB VBN CC VBN PRP$ JJ NN ."
+The cub was one of two born Friday to 8-year-old mother Yinghua .,O O O O O O O B-tim O O O B-per O,DT NN VBD CD IN CD VBN NNP TO JJ NN NNP .
+"But in what zookeepers say is normal panda behavior , Yinghua abandoned one of the cubs , which has been removed to an incubator in Sichuan province .",O O O O O O O O O O B-per O O O O O O O O O O O O O O B-geo O O,"CC IN WP NNS VBP VBZ JJ NN NN , NNP VBD CD IN DT NNS , WDT VBZ VBN VBN TO DT NN IN NNP NN ."
+Xinhua news agency quoted zoo official Zhang Jingguo saying the mother was looking for the remaining cub in order to nurse it when she rolled over and crushed it early Saturday .,B-org O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O B-tim O,NNP NN NN VBN NN NN NNP NNP VBG DT NN VBD VBG IN DT VBG NN IN NN TO VB PRP WRB PRP VBD RB CC VBN PRP JJ NNP .
+He said pandas are known for their poor eyesight .,O O O O O O O O O O,PRP VBD NNS VBP VBN IN PRP$ JJ NN .
+"Pandas are among the world 's most endangered species , with only about 300 living in captivity and 1,600 in the wild .",O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP IN DT NN POS RBS JJ NNS , IN RB IN CD NN IN NN CC CD IN DT NN ."
+The Beijing Zoo has seven pandas .,O B-art I-art O O O O,DT NNP NNP VBZ CD NNS .

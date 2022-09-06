@@ -1,0 +1,7 @@
+Indonesia 's top bird flu official says the country hopes to cut human cases from the virus to zero by the end of 2007 .,B-org O O O O O O O O O O O O O O O O O O O O B-tim I-tim I-tim O,NNP POS JJ NN NN NN VBZ DT NN VBZ TO VB JJ NNS IN DT NN IN CD IN DT NN IN CD .
+"Speaking with reporters Friday , Bayu Krisnamurthi said Indonesia does not want to see any new human cases of the H5N1 strain of bird flu by the end of next year .",O O O B-tim O B-org I-org O B-geo O O O O O O O O O O O O O O O O O O B-tim I-tim O O O,"VBG IN NNS NNP , NNP NNP VBD NNP VBZ RB VB TO VB DT JJ JJ NNS IN DT NNP NN IN NN NN IN DT NN IN JJ NN ."
+Indonesia plans to boost public awareness of the disease and restructure its poultry industry to reach its goal .,B-org O O O O O O O O O O O O O O O O O O,NNP VBZ TO VB JJ NN IN DT NN CC VB PRP$ NN NN TO VB PRP$ NN .
+"International aid will nearly double next year , increasing to $ 65 million .",O O O O O O O O O O O O O O,"JJ NN MD RB VB JJ NN , VBG TO $ CD CD ."
+Indonesia has the world 's highest death toll from bird flu - 57 .,B-geo O O O O O O O O O O B-tim I-tim O,NNP VBZ DT NN POS JJS NN NN IN NN NN IN CD .
+The latest bird flu victim died on November 28 .,O O O O O O O B-tim I-tim O,DT JJS NN NN NN VBD IN NNP CD .
+"The H5N1 strain of bird flu has killed more than 150 people worldwide since 2003 , with most of the deaths in Asia .",O B-nat O O O O O O O O O O O B-tim I-tim O O O O O O O B-geo O,"DT NNP NN IN NN NN VBZ VBN JJR IN CD NNS JJ IN CD , IN JJS IN DT NNS IN NNP ."

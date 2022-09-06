@@ -1,0 +1,8 @@
+"ConocoPhillips , the third-largest U.S.-based oil company , reports an 89 percent jump in profits to a record $ 3.8 billion for the third quarter .",B-org O O O O O O O O O O O O O O O O O O O O O O B-tim I-tim O,"NNS , DT JJ JJ NN NN , VBZ DT CD NN NN IN NNS TO DT NN $ CD CD IN DT JJ NN ."
+Earnings for the three-month period ending in September reflected strong prices for the company 's crude oil and natural gas .,O O O B-tim I-tim I-tim I-tim I-tim O O O O O O O O O O O O O,NNS IN DT JJ NN VBG IN NNP VBD JJ NNS IN DT NN POS JJ NN CC JJ NN .
+"ConocoPhillips ' officials say their U.S. Gulf Coast operations were "" significantly "" hurt by hurricanes , but say repairs to refineries and other facilities are well under way .",B-org O O O O B-geo I-geo I-geo O O O O O O O O O O O O O O O O O O O O O O,"NNS POS NNS VBP PRP$ NNP NNP NNP NNS VBD LQU RB RQU VBN IN NNS , CC VBP NNS TO NNS CC JJ NNS VBP RB IN NN ."
+"They call the company 's operating performance "" good . """,O O O O O O O O O O O,PRP VBP DT NN POS NN NN LQU JJ . LQU
+Conoco is the first of the major U.S. oil companies to report third-quarter earnings .,B-org O O O O O O B-geo O O O O O O O,NNP VBZ DT NN IN DT JJ NNP NN NNS TO VB JJ NNS .
+"ExxonMobil , the world 's largest publicly traded company , is scheduled to release results on Thursday .",B-org O O O O O O O O O O O O O O O B-tim O,"NNP , DT NN POS JJS RB VBN NN , VBZ VBN TO VB NNS IN NNP ."
+"Chevron , the number two producer , is set to report earnings on October 28 .",B-per O O O O O O O O O O O O B-tim I-tim O,"NNP , DT NN CD NN , VBZ VBN TO VB NNS IN NNP CD ."
+An investment analyst says those companies are also expected to report increased profits .,O O O O O O O O O O O O O O,DT NN NN VBZ DT NNS VBP RB VBN TO VB JJ NNS .

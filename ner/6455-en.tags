@@ -1,0 +1,9 @@
+The European Parliament has started its own investigation into reports of CIA secret prisons in Eastern Europe .,O B-org I-org O O O O O O O O B-org O O O B-geo I-geo O,DT NNP NNP VBZ VBN PRP$ JJ NN IN NNS IN NNP JJ NNS IN NNP NNP .
+The lawmakers agreed Thursday in Brussels to set up a 46-member committee to look into the matter .,O O O B-tim O B-geo O O O O O O O O O O O O,DT NNS VBD NNP IN NNP TO VB RP DT JJ NN TO VB IN DT NN .
+Several EU countries have set up their own probes .,O B-org O O O O O O O O,JJ NNP NNS VBP VBN RP PRP$ JJ NNS .
+The committee will recommend what political action should be taken against any country deemed to be involved .,O O O O O O O O O O O O O O O O O O,DT NN MD VB WP JJ NN MD VB VBN IN DT NN VBN TO VB VBN .
+Reports saying the CIA has secret detention centers in Europe first appeared in November in the Washington Post newspaper .,O O O B-org O O O O O B-geo O O O B-tim O O B-org I-org O O,NNS VBG DT NNP VBZ JJ NN NNS IN NNP RB VBD IN NNP IN DT NNP NNP NN .
+Human rights groups subsequently singled out Poland and Romania as possible sites for such facilities .,O O O O O O B-gpe O B-per O O O O O O O,JJ NNS NNS RB VBD RP NNP CC NNP IN JJ NNS IN JJ NNS .
+Both countries denied any involvement .,O O O O O O,DT NNS VBD DT NN .
+"Meanwhile , Bulgaria 's Foreign Minister Ivaylo Kalfin has denied there are secret CIA prisons in his country .",O O B-geo O O O B-per I-per O O O O O B-org O O O O O,"RB , NNP POS NNP NNP NNP NNP VBZ VBN EX VBP JJ NNP NNS IN PRP$ NN ."
+His comment comes after a Swiss newspaper said local security officials had intercepted an Egyptian government document mentioning CIA prisons in several eastern European countries including Bulgaria and Ukraine .,O O O O O B-gpe O O O O O O O O B-gpe O O O B-org O O O O O O O B-geo O B-geo O,PRP$ NN VBZ IN DT JJ NN VBD JJ NN NNS VBD VBN DT JJ NN NN VBG NNP NNS IN JJ JJ JJ NNS VBG NNP CC NNP .

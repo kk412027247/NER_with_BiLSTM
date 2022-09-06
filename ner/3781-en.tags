@@ -1,0 +1,7 @@
+The U.S. military says a roadside bomb has killed an American soldier in eastern Afghanistan .,O B-geo O O O O O O O O B-gpe O O B-geo I-geo O,DT NNP NN VBZ DT NN NN VBZ VBN DT JJ NN IN JJ NNP .
+The blast in Paktika province wounded another U.S. service member and an Afghan soldier .,O O O B-geo O O O B-geo O O O O B-gpe O O,DT NN IN NNP NN VBD DT NNP NN NN CC DT JJ NN .
+"In neighboring Zabul province , suspected Taleban insurgents killed an Afghan intelligence officer Thursday .",O O B-geo O O O B-org O O O B-gpe O O B-tim O,"IN JJ NNP NN , JJ NNP NNS VBD DT JJ NN NN NNP ."
+"And in Helmand province , a Muslim cleric was wounded by unidentified gunmen riding a motorcycle .",O O B-geo O O O B-org O O O O O O O O O O,"CC IN NNP NN , DT NNP NN VBD VBN IN JJ NNS VBG DT NN ."
+A purported Taleban spokesman claimed responsibility for those two attacks .,O O B-org O O O O O O O O,DT JJ NNP NN VBD NN IN DT CD NNS .
+"Meanwhile , the United States and Afghanistan agreed in principle to transfer most Afghans in U.S. custody to the Afghan government .",O O O B-geo I-geo O B-geo O O O O O O B-gpe O B-geo O O O B-gpe O O,"RB , DT NNP NNPS CC NNP VBD IN NN TO VB RBS NNS IN NNP NN TO DT JJ NN ."
+A spokesman for Afghan President Hamid Karzai says prisoners from the Guantanamo Bay detention center and U.S. facilities in Afghanistan will be among those handed over .,O O O B-gpe B-per I-per I-per O O O O B-geo I-geo O O O B-geo O O B-geo O O O O O O O,DT NN IN JJ NNP NNP NNP VBZ NNS IN DT NNP NNP NN NN CC NNP NNS IN NNP MD VB IN DT VBN RP .

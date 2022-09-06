@@ -1,0 +1,8 @@
+Vice President Joe Biden has sworn in former Dallas Mayor Ron Kirk as the new U.S. trade representative .,B-per I-per I-per I-per O O O O B-geo B-per I-per I-per O O O B-geo O O O,NNP NNP NNP NNP VBZ VBN IN JJ NNP NNP NNP NNP IN DT JJ NNP NN NN .
+Biden delivered the oath in a ceremony Friday at the White House complex .,B-per O O O O O O B-tim O O B-org I-org O O,NNP VBD DT NN IN DT NN NNP IN DT NNP NNP NN .
+The vice president said Kirk will be responsible for working to open markets throughout the world to create new opportunities and higher living standards for American families and businesses .,O O O O B-per O O O O O O O O O O O O O O O O O O O O B-gpe O O O O,DT NN NN VBD NNP MD VB JJ IN VBG TO JJ NNS IN DT NN TO VB JJ NNS CC JJR NN NNS IN JJ NNS CC NNS .
+Kirk was sworn in two days after the U.S. Senate voted overwhelmingly to confirm his nomination .,B-per O O O B-tim O O O B-org I-org O O O O O O O,NNP VBD VBN IN CD NNS IN DT NNP NNP VBD RB TO VB PRP$ NN .
+He is the first African-American in the trade post .,O O O O O O O O O O,PRP VBZ DT JJ NN IN DT NN NN .
+He has vowed to pursue new trade deals but also to work to ensure that U.S. trading partners are not violating existing agreements .,O O O O O O O O O O O O O O O B-geo O O O O O O O O,PRP VBZ VBN TO VB JJ NN NNS CC RB TO VB TO VB IN NNP NN NNS VBP RB VBG VBG NNS .
+Kirk 's confirmation followed earlier revelations about a personal tax issue .,B-per O O O O O O O O O O O,NNP POS NN VBD JJR NNS IN DT JJ NN NN .
+He was among a number of President Barack Obama 's nominees to run into problems because of tax concerns .,O O O O O O B-per I-per I-per O O O O O O O O O O O,PRP VBD IN DT NN IN NNP NNP NNP POS NNS TO VB IN NNS IN IN NN NNS .

@@ -1,0 +1,8 @@
+Crude oil prices fell about $ 1 in Tuesday 's trading .,O O O O O O O O B-tim O O O,JJ NN NNS VBD RB $ CD IN NNP POS NN .
+The price drop came after the dollar gained strength when the head of the U.S. central bank signaled that the Federal Reserve has finished cutting interest rates and might increase them .,O O O O O O O O O O O O O O B-geo O O O O O B-org I-org O O O O O O O O O O,DT NN NN VBD IN DT NN VBD NN WRB DT NN IN DT NNP JJ NN VBD IN DT NNP NNP VBZ VBN VBG NN NNS CC MD VB PRP .
+Higher interest rates in a country tend to boost the value of its currency .,O O O O O O O O O O O O O O O,JJR NN NNS IN DT NN VBZ TO VB DT NN IN PRP$ NN .
+"The cost of a barrel of oil for future delivery hit $ 133.43 a barrel in New York , reversing gains made in earlier trading .",O O O O O O O O O O O O O O O O B-geo I-geo O O O O O O O O,"DT NN IN DT NN IN NN IN JJ NN VBD $ CD DT NN IN NNP NNP , VBG NNS VBN IN JJR NN ."
+"The price of oil is down significantly from the record high of $ 139.12 last week , but about double the cost at this time last year .",O O O O O O O O O O O O O O O O O O O O O O O O B-tim O O O,"DT NN IN NN VBZ RB RB IN DT NN NN IN $ CD JJ NN , CC IN RB DT NN IN DT NN JJ NN ."
+Soaring crude oil prices have pushed retail gasoline prices above $ 1.06 a liter in the United States .,O O O O O O O O O O O O O O O O B-geo I-geo O,VBG JJ NN NNS VBP VBN JJ NN NNS IN $ CD DT NN IN DT NNP NNPS .
+"Gasoline is sold in gallons in the United States , a unit of about 3.8 liters .",O O O O O O O B-geo I-geo O O O O O O O O,"NNP VBZ VBN IN NNS IN DT NNP NNPS , DT NN IN IN CD NNS ."
+Gasoline prices recently exceeded the $ 4 a gallon mark .,O O O O O O O O O O O,NN NNS RB VBD DT $ CD DT NN NN .

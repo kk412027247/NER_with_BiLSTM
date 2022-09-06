@@ -1,0 +1,8 @@
+Italian opera star Luciano Pavarotti has been hospitalized for medical tests in his hometown in northern Italy .,B-gpe O O B-per I-per O O O O O O O O O O O B-geo O,JJ NN NN NNP NNP VBZ VBN VBN IN JJ NNS IN PRP$ NN IN JJ NNP .
+A spokesman for the Modena Polyclinic says Pavarotti was admitted earlier this week .,O O O O B-geo I-geo O B-per O O O O O O,DT NN IN DT NNP NNP VBZ NNP VBD VBN RBR DT NN .
+The hospital is to issue a statement later Thursday .,O O O O O O O B-tim I-tim O,DT NN VBZ TO VB DT NN RB NNP .
+The 71-year-old underwent surgery for pancreatic cancer last year .,O O O O O O O O O O,DT JJ VBD NN IN NN NN JJ NN .
+The illness forced him to cancel his 2006 farewell opera tour .,O O O O O O O O O O O O,DT NN VBD PRP TO VB PRP$ CD JJ NN NN .
+"The beloved classical singer has impressed opera aficionados with his tenor voice , performing challenging works in nearly every major opera and concert hall around the world .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN NN VBZ VBN NN NNS IN PRP$ NN NN , VBG JJ NNS IN RB DT JJ NN CC NN NN IN DT NN ."
+He has also won fans with his warm personality off the stage .,O O O O O O O O O O O O O,PRP VBZ RB VBN NNS IN PRP$ JJ NN IN DT NN .
+"Throughout his career , Pavarotti has used his celebrity to raise millions of dollars for the U.N. refugee agency and other charitable causes .",O O O O B-per O O O O O O O O O O O B-geo O O O O O O O,"IN PRP$ NN , NNP VBZ VBN PRP$ NN TO VB NNS IN NNS IN DT NNP NN NN CC JJ JJ NNS ."

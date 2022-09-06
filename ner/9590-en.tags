@@ -1,0 +1,6 @@
+"Iraqi police say a roadside bomb exploded Thursday near a convoy carrying Abed Theyab , the country 's higher education minister .",B-gpe O O O O O O B-tim O O O O B-per I-per O O O O O O O O,"JJ NNS VBP DT NN NN VBD NNP IN DT NN VBG NNP NNP , DT NN POS JJR NN NN ."
+Theyab escaped unhurt .,B-per O O O,NNP VBD NN .
+Officials say the blast occurred in central Baghdad .,O O O O O O O B-geo O,NNS VBP DT NN VBD IN JJ NNP .
+At least two civilians were wounded in the attack .,O O O O O O O O O O,IN JJS CD NNS VBD VBN IN DT NN .
+Another roadside bomb blast in central Baghdad today killed an Iraqi security official .,O O O O O O B-geo B-tim O O B-gpe O O O,DT NN NN NN IN JJ NNP NN VBD DT JJ NN NN .
+"Violence in Iraq has fallen sharply in recent months , but roadside bomb attacks are still a daily occurrence , often targeting soldiers , police and government officials .",O O B-geo O O O O B-tim O O O O O O O O O O O O O O O O O O O O O,"NN IN NNP VBZ VBN RB IN JJ NNS , CC NN NN NNS VBP RB DT JJ NN , RB VBG NNS , NNS CC NN NNS ."

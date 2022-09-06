@@ -1,0 +1,3 @@
+Russian Defense Minister Sergei Ivanov says Russia will soon begin testing a new intercontinental ballistic missile system .,B-gpe B-per I-per I-per I-per O B-geo O O O O O O O O O O O,JJ NNP NNP NNP NNP VBZ NNP MD RB VB VBG DT JJ JJ JJ NN NN .
+The Russian minister told reporters his country would develop weapons based on the Topol-M mobile missiles and the sea-based Bulava system .,O B-gpe O O O O O O O O O O O O O O O O O B-org O O,DT JJ NN VBD NNS PRP$ NN MD VB NNS VBN IN DT JJ JJ NNS CC DT JJ NNP NN .
+The Interfax news agency quotes Mr. Ivanov as saying Moscow plans to produce nuclear weapons that can penetrate any defense system .,O B-org O O O B-per I-per O O B-org O O O O O O O O O O O O,DT NNP NN NN VBZ NNP NNP IN VBG NNP VBZ TO VB JJ NNS WDT MD VB DT NN NN .

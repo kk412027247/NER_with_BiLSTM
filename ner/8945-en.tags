@@ -1,0 +1,5 @@
+Bermuda was first settled in 1609 by shipwrecked English colonists headed for Virginia .,B-geo O O O O B-tim O O B-gpe O O O B-geo O,NNP VBD JJ VBN IN CD IN JJ JJ NNS VBN IN NNP .
+Tourism to the island to escape North American winters first developed in Victorian times .,O O O O O O O B-gpe O O O O O O O,NN TO DT NN TO VB JJ JJ NNS RB VBD IN JJ NNS .
+"Tourism continues to be important to the island 's economy , although international business has overtaken it in recent years .",O O O O O O O O O O O O O O O O O O B-tim O O,"NN VBZ TO VB JJ TO DT NN POS NN , IN JJ NN VBZ VBN PRP IN JJ NNS ."
+Bermuda has developed into a highly successful offshore financial center .,B-gpe O O O O O O O O O O,NNP VBZ VBN IN DT RB JJ JJ JJ NN .
+"Although a referendum on independence from the UK was soundly defeated in 1995 , the present government has reopened debate on the issue .",O O O O O O O B-org O O O O B-tim O O O O O O O O O O O,"IN DT NN IN NN IN DT NNP VBD RB VBN IN CD , DT JJ NN VBZ VBN NN IN DT NN ."

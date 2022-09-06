@@ -1,0 +1,8 @@
+The U.S. military has suffered one of its single-worst troop losses in Iraq in a roadside bomb blast near the western city of Fallujah .,O B-geo O O O O O O O O O O B-geo O O O O O O O O O O B-geo O,DT NNP NN VBZ VBN CD IN PRP$ JJ NN NNS IN NNP IN DT NN NN NN IN DT JJ NN IN NNP .
+"In a statement Friday , the military said 10 Marines were killed and 11 wounded Thursday while they patrolled the area on foot .",O O O B-tim O O O O B-tim B-per O O O O O B-tim O O O O O O O O,"IN DT NN NNP , DT NN VBD CD NNS VBD VBN CC CD VBD NNP IN PRP VBD DT NN IN NN ."
+The device that exploded was built from several large artillery shells .,O O O O O O O O O O O O,DT NN WDT VBD VBD VBN IN JJ JJ NN NNS .
+U.S. troops have been conducting anti-insurgent operations to secure the area ahead of this month 's parliamentary election .,B-geo O O O O O O O O O O O O O O O O O O,NNP NNS VBP VBN VBG JJ NNS TO VB DT NN RB IN DT NN POS JJ NN .
+Another Marine was killed in Fallujah earlier this week .,O B-org O O O B-geo O O O O,DT NN VBD VBN IN NNP RBR DT NN .
+The U.S. military also reported the deaths of four American soldiers .,O B-geo O O O O O O O B-gpe O O,DT NNP NN RB VBD DT NNS IN CD JJ NNS .
+"Three were killed in a road accident near Balad today , and another died Thursday following a rocket attack in Ramadi .",O O O O O O O O B-geo B-tim O O O O B-tim O O O O O B-geo O,"CD VBD VBN IN DT NN NN IN NNP NN , CC DT VBD NNP VBG DT NN NN IN NNP ."
+U.S. and Iraqi troops are conducting joint operations in Ramadi to disrupt al-Qaida-in-Iraq terrorists operating in the Euphrates River Valley .,B-geo O B-gpe O O O O O O B-geo O O O O O O O B-org I-org I-org O,NNP CC JJ NNS VBP VBG JJ NNS IN NNP TO VB JJ NNS VBG IN DT NNP NNP NNP .

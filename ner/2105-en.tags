@@ -1,0 +1,8 @@
+"Janne Happonen of Finland has won his first World Cup ski jumping competition , with leaps of 124 and 129 meters on the large hill in Lahti , Finland .",B-per I-per O B-geo O O O O O O O O O O O O O O O O O O O O O O B-geo O B-geo O,"NNP NNP IN NNP VBZ VBN PRP$ JJ NNP NNP NN VBG NN , IN NNS IN CD CC CD NNS IN DT JJ NN IN NNP , NNP ."
+"The 21-year-old Happonen , who won a silver medal in the team event at the Turin Games , earned 270.3 points Sunday .",O O B-per O O O O O O O O O O O O B-geo O O O O O B-tim O,"DT JJ NNP , WP VBD DT NN NN IN DT NN NN IN DT NNP NNPS , VBD CD NNS NNP ."
+That put him 2.7 points ahead of overall World Cup leader Jakub Janda of the Czech Republic .,O O O O O O O O O O O B-per I-per O O B-gpe B-geo O,DT VBD PRP CD NNS RB IN JJ NNP NNP NN NNP NNP IN DT JJ NNP .
+Janda made jumps of 128 and 123.5 meters .,B-per O O O O O O O O,NNP VBD NNS IN CD CC CD NNS .
+Michael Uhrmann of Germany finished third with 266.1 points from jumps of 120.5 and 131 meters .,B-per I-per O B-geo O O O O O O O O O O O O O,NNP NNP IN NNP VBD JJ IN CD NNS IN NNS IN CD CC CD NNS .
+"Janda , who has five victories this season , extended his overall lead ahead of Finland 's Janne Ahonen .",B-per O O O O O O O O O O O O O O B-geo O B-per I-per O,"NNP , WP VBZ CD NNS DT NN , VBD PRP$ JJ NN RB IN NNP POS NNP NNP ."
+"The Czech leads the standings with 1,058 points , 112 ahead of Ahonen .",O B-gpe O O O O O O O O O O B-per O,"DT NN VBZ DT NNS IN CD NNS , CD RB IN NNP ."
+Andreas Kuttel of Switzerland is third overall with 739 points .,B-per I-per O B-geo O O O O O O O,NNP NNP IN NNP VBZ JJ JJ IN CD NNS .

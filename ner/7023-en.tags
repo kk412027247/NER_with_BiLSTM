@@ -1,0 +1,7 @@
+Afghanistan 's border police say a U.S.-led coalition warplane has mistakenly killed 12 police officers in the eastern part of the country .,B-geo O O O O O O O O O O O O O O O O O O O O O O,NNP POS NN NNS VBP DT JJ NN NN VBZ RB VBN CD NNS NNS IN DT JJ NN IN DT NN .
+Afghan Commander Abdul Rahman said the aircraft attacked a patrol Thursday in Paktika province .,B-gpe O B-per I-per O O O O O O B-tim O B-geo O O,JJ NNP NNP NNP VBD DT NN VBD DT NN NNP IN NNP NN .
+A coalition spokesman says the report is being investigated .,O O O O O O O O O O,DT NN NN VBZ DT NN VBZ VBG VBN .
+He had no further details .,O O O O O O,PRP VBD DT JJ NNS .
+U.S.-backed coalition forces began investigating in April two cases in which civilians and Afghan security forces may have been killed by friendly fire .,O O O O O O B-tim O O O O O O B-gpe O O O O O O O O O O,JJ NN NNS VBD VBG IN NNP CD NNS IN WDT NNS CC JJ NN NNS MD VB VBN VBN IN JJ NN .
+Coalition forces are hunting down Taleban insurgents in the province .,O O O O O B-org O O O O O,NN NNS VBP VBG RP NNP NNS IN DT NN .
+"Earlier , Afghan officials said two suicide bomb attacks in the south of the country wounded seven Afghan policemen and one foreign soldier .",O O B-gpe O O O O O O O O O O O O O O B-gpe O O O O O O,"RB , JJ NNS VBD CD NN NN NNS IN DT NN IN DT NN VBD CD JJ NNS CC CD JJ NN ."

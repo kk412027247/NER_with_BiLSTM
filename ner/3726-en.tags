@@ -1,0 +1,8 @@
+"Japan says it hopes to resolve a lengthy dispute with North Korea over kidnappings when the two countries resume talks Thursday , after a one-year break .",B-geo O O O O O O O O O B-geo I-geo O O O O O O O O B-tim O O O B-tim O O,"NNP VBZ PRP VBZ TO VB DT JJ NN IN NNP NNP IN NNS WRB DT CD NNS VBP NNS NNP , IN DT JJ NN ."
+"Japanese negotiators are to arrive Wednesday , in Beijing , a day ahead of the scheduled talks .",B-gpe O O O O B-tim O O B-geo O O O O O O O O O,"JJ NNS VBP TO VB NNP , IN NNP , DT NN RB IN DT JJ NNS ."
+North Korea has admitted kidnapping Japanese citizens in the 1970s and 1980s to train its spies .,B-geo I-geo O O O B-gpe O O O B-tim I-tim I-tim O O O O O,NNP NNP VBZ VBN VBG JJ NNS IN DT NNS CC NNS TO VB PRP$ NNS .
+It has admitted to 13 abductions and has returned five kidnap victims along with their families .,O O O O O O O O O O O O O O O O O,PRP VBZ VBN TO CD NNS CC VBZ VBN CD NN NNS IN IN PRP$ NNS .
+North Korea says the other eight abductees are dead .,B-geo I-geo O O O O O O O O,NNP NNP VBZ DT JJ CD NNS VBP JJ .
+Tokyo says Pyongyang has never provided conclusive proof of the deaths .,B-geo O B-geo O O O O O O O O O,NNP VBZ NNP VBZ RB VBN JJ NN IN DT NNS .
+Japan says there are several other cases of suspected abductions that North Korea has not properly investigated .,B-geo O O O O O O O O O O B-geo I-geo O O O O O,NNP VBZ EX VBP JJ JJ NNS IN JJ NNS IN NNP NNP VBZ RB RB VBN .
+The dispute has prevented North Korea from establishing diplomatic ties with Japan .,O O O O B-geo I-geo O O O O O B-geo O,DT NN VBZ VBN NNP NNP IN VBG JJ NNS IN NNP .

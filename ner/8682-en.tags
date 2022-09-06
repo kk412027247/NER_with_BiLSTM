@@ -1,0 +1,6 @@
+"There are less than three months until the election , an election that will decide the next President of the United States .",O O O O B-tim O B-tim O B-tim O O O O O O O O B-per O O B-geo I-geo O,"EX VBP JJR IN CD NNS IN DT NN , DT NN WDT MD VB DT JJ NNP IN DT NNP NNPS ."
+"The man elected will be the president of all Americans , not just the Democrats or the Republicans .",O O O O O O O O O B-gpe O O O O O O O O O,"DT NN VBN MD VB DT NN IN DT NNS , RB RB DT NNPS CC DT NNPS ."
+"To show our solidarity as Americans , let 's all get together and show each other our support for the candidate of our choice .",O O O O O B-gpe O O O O O O O O O O O O O O O O O O O,"TO VB PRP$ NN IN NNS , VB PRP DT VBP RB CC VB DT JJ PRP$ NN IN DT NN IN PRP$ NN ."
+"It 's time that we all came together , Democrats and Republicans alike .",O O O O O O O O O O O O O O,"PRP VBZ NN IN PRP DT VBD RB , NNPS CC NNPS RB ."
+"If you support the policies and character of President George W. Bush , please drive with your headlights on during the day .",O O O O O O O O B-per I-per I-per I-per O O O O O O O B-tim O B-tim O,"IN PRP VBP DT NNS CC NN IN NNP NNP NNP NNP , VBP NN IN PRP$ NNS IN IN DT NN ."
+"If you support John Kerry , please drive with your headlights off at night .",O O O B-per I-per O O O O O O O O B-tim O,"IN PRP VBP NNP NNP , RB VB IN PRP$ NNS RP IN NN ."

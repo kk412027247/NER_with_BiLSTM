@@ -1,0 +1,8 @@
+Chinese officials say the death toll from Sunday 's coal mine blast has risen to 161 amid confusion about the number of miners working at the time of the blast .,B-gpe O O O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP DT NN NN IN NNP POS NN NN NN VBZ VBN TO CD IN NN IN DT NN IN NNS VBG IN DT NN IN DT NN .
+China 's state-run media had said 221 miners were reported working underground at the time of the explosion at the Dongfeng mine in Qitaihe .,B-geo O O O O O O O O O O O O O O O O O O O B-geo O O B-geo O,NNP POS JJ NNS VBD VBN CD NNS VBD VBN VBG RB IN DT NN IN DT NN IN DT NNP NN IN NNP .
+"But with Wednesday 's discovery of 11 more bodies , officials say the earlier count was too low .",O O B-tim O O O O O O O O O O O O O O O O,"CC IN NNP POS NN IN CD JJR NNS , NNS VBP DT JJR NN VBD RB JJ ."
+They have not provided a new total .,O O O O O O O O,PRP VBP RB VBN DT JJ NN .
+Officials say 10 miners are now thought to be missing .,O O O O O O O O O O O,NNS VBP CD NNS VBP RB VBN TO VB VBG .
+Only 72 miners have been found alive since coal dust exploded at the mine in China 's northeastern province of Heilongjiang .,O O O O O O O O O O O O O O O B-geo O O O O B-geo O,RB CD NNS VBP VBN VBN JJ IN NN NN VBD IN DT NN IN NNP POS JJ NN IN NNP .
+China 's mining industry is the world 's most dangerous .,B-geo O O O O O O O O O O,NNP POS NN NN VBZ DT NN POS RBS JJ .
+"Government figures indicate some 6,000 people last year died in mine accidents .",O O O O O O O O O O O O O,NN NNS VBP DT CD NNS JJ NN VBD IN NN NNS .

@@ -1,0 +1,9 @@
+"China 's ministry of health says 34 people have died from a disease , caused by streptococcus suis bacteria , carried by pigs .",B-geo O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NN IN NN VBZ CD NNS VBP VBN IN DT NN , VBN IN JJ NNS NNS , VBN IN NNS ."
+"On Saturday , the ministry released new figures saying 174 cases of the illness , commonly called swine flu , have been identified .",O B-tim O O O O O O O O O O O O O O O O O O O O O O,"IN NNP , DT NN VBD JJ NNS VBG CD NNS IN DT NN , RB VBN NN NN , VBP VBN VBN ."
+That is an increase of 22 over Friday 's figure .,O O O O O O O B-tim O O O,DT VBZ DT NN IN CD IN NNP POS NN .
+There were three additional deaths in the same period .,O O O O O O O O O O,EX VBD CD JJ NNS IN DT JJ NN .
+China 's official news agency Xinhua reports that one of the new cases came from Guangdong province near Hong Kong .,B-geo O O O O B-org O O O O O O O O O B-geo O O B-geo I-geo O,NNP POS JJ NN NN NNP VBZ IN CD IN DT JJ NNS VBD IN NNP NN IN NNP NNP .
+"That would be the first case outside Sichuan province , where the outbreak began .",O O O O O O O B-geo O O O O O O O,"DT MD VB DT JJ NN IN NNP NN , WRB DT NN VBD ."
+Xinhua says a slaughterhouse worker in Guangdong was treated and released from the hospital .,B-org O O O O O B-geo O O O O O O O O,NNP VBZ DT NN NN IN NNP VBD VBN CC VBN IN DT NN .
+Those infected have handled infected pigs or infected pork .,O O O O O O O O O O,DT VBN VBP VBN JJ NNS CC JJ NN .
+China says there has been no human-to-human transmission of the disease .,B-geo O O O O O O O O O O O,NNP VBZ EX VBZ VBN DT JJ NN IN DT NN .

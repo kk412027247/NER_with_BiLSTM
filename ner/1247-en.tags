@@ -1,0 +1,6 @@
+"A major winter storm has hit both the U.S. midwest and northeastern part of the country , as well as eastern Canada .",O O O O O O O O B-geo O O O O O O O O O O O O B-geo O,"DT JJ NN NN VBZ VBN DT DT NNP NN CC JJ NN IN DT NN , RB RB IN JJ NNP ."
+Sunday 's wintry blast caused hazardous driving conditions and resulted in hundreds of flight cancellations at local airports .,B-tim O O O O O O O O O O O O O O O O O O,NNP POS NN NN VBD JJ NN NNS CC VBD IN NNS IN NN NNS IN JJ NNS .
+Officials say both Chicago and Boston have received up more than 25 centimeters of snow .,O O O B-geo O B-geo O O O O O O O O O O,NNS VBP DT NNP CC NNP VBP VBN RP RBR IN CD NNS IN NN .
+"In addition , authorities say at least 40 centimeters is expected in Canada .",O O O O O O O O O O O O B-geo O,"IN NN , NNS VBP IN JJS CD NNS VBZ VBN IN NNP ."
+The storm follows last week 's ice storm in the U.S. Midwest which contributed to the death of at least 13 people and left thousands of homes and businesses without power .,O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O,DT NN VBZ JJ NN POS NN NN IN DT NNP NNP WDT VBD TO DT NN IN IN JJS CD NNS CC VBD NNS IN NNS CC NNS IN NN .
+Canadian meteorologists call the storm a dangerous one .,B-gpe O O O O O O O O,JJ NNS VBP DT NN DT JJ CD .

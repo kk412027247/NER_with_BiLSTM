@@ -1,0 +1,8 @@
+Health officials in Indonesia say tests show that a girl who died on Thursday was infected with bird flu .,O O O B-geo O O O O O O O O O B-tim O O O O O O,NNP NNS IN NNP VBP NNS VBP IN DT NN WP VBD IN NNP VBD VBN IN NN NN .
+The World Health Organization has yet to confirm the cause of death .,O B-org I-org I-org O O O O O O O O O,DT NNP NNP NNP VBZ RB TO VB DT NN IN NN .
+Authorities say the girl lived in a city on the outskirts of Jakarta .,O O O O O O O O O O O O B-geo O,NNS VBP DT NN VBD IN DT NN IN DT NNS IN NNP .
+"Meanwhile , WHO officials say 54 people under quarantine in Indonesia are receiving daily medical exams and the anti-viral drug Tamiflu as a precaution .",O O O O O O O O O O B-geo O O O O O O O O O B-geo O O O O,"RB , WP NNS VBP CD NNS IN NN IN NNP VBP VBG JJ JJ NNS CC DT JJ NN NNP IN DT NN ."
+All came in contact with seven family members who died from the virus last month .,O O O O O O O O O O O O O O O O,DT VBD IN NN IN CD NN NNS WP VBD IN DT NN JJ NN .
+"In Europe , the European Union is expanding an import ban on Romanian poultry because of spreading instances of the deadly H5N1 strain of bird flu .",O B-geo O O B-org I-org O O O O O O B-gpe O O O O O O O O O O O O O O,"IN NNP , DT NNP NNP VBZ VBG DT NN NN IN JJ NN IN IN VBG NNS IN DT JJ NNP NN IN NN NN ."
+The EU restrictions now apply to the entire country .,O B-org O O O O O O O O,DT NNP NNS RB VBP TO DT JJ NN .
+They previously applied only to parts of Romania .,O O O O O O O B-geo O,PRP RB VBD RB TO NNS IN NNP .

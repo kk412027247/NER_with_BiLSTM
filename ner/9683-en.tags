@@ -1,0 +1,8 @@
+Japan 's Prime Minister Taro Aso has unveiled a nearly $ 300 billion economic stimulus package to bolster the world 's second largest economy and help it survive the global financial crisis .,B-geo O B-per I-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP POS NNP NNP NNP NNP VBZ VBN DT RB $ CD CD JJ NN NN TO VB DT NN POS JJ JJS NN CC VB PRP VB DT JJ JJ NN .
+Mr. Aso announced the plan Thursday .,B-per I-per O O O B-tim O,NNP NNP VBD DT NN NNP .
+"It includes tax cuts , benefits to households , a reduction in highway tolls , and loans to help small businesses .",O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ NN NNS , NNS TO NNS , DT NN IN NN NNS , CC NNS TO VB JJ NNS ."
+"The stimulus package is the first drafted under Mr. Aso , who took over a month ago , replacing former Prime Minister Yasuo Fukuda .",O O O O O O O O B-per I-per O O O O O O O O O O B-per I-per I-per I-per O,"DT NN NN VBZ DT RB VBN IN NNP NNP , WP VBD RP DT NN RB , VBG JJ NNP NNP NNP NNP ."
+Mr. Fukuda stepped down over political deadlock in parliament and perceived mishandling of the economy .,B-per I-per O O O O O O O O O O O O O O,NNP NNP VBD RB IN JJ NN IN NN CC VBN NN IN DT NN .
+The media and politicians have widely expected Mr. Aso to hold snap elections after taking office .,O O O O O O O B-per I-per O O O O O O O O,DT NNS CC NNS VBP RB VBN NNP NNP TO VB JJ NNS IN VBG NN .
+"But , he says he wants to first focus on the economy .",O O O O O O O O O O O O O,"CC , PRP VBZ PRP VBZ TO JJ NN IN DT NN ."
+Elections in Japan must take place by September 2009 .,O O B-geo O O O O B-tim I-tim O,NNS IN NNP MD VB NN IN NNP CD .

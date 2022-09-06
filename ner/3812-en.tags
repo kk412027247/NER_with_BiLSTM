@@ -1,0 +1,8 @@
+"A relatively strong earthquake rocked southeastern Iran , Saturday , a day after a 5.7 magnitude quake shook a northeastern province , injuring at least 170 people .",O O O O O O B-geo O B-tim O O O O O O O O O O O O O O O O O O O,"DT RB JJ NN VBD JJ NNP , NNP , DT NN IN DT CD NN NN VBD DT JJ NN , VBG IN JJS CD NNS ."
+Iranian state media say Saturday 's quake had a 5.7 magnitude .,B-gpe O O O B-tim O O O O O O O,JJ NN NNS VBP NNP POS NN VBD DT CD NN .
+The U.S. Geological Survey says it had a magnitude of 5.3 .,O B-org I-org I-org O O O O O O O O,DT NNP NNP NNP VBZ PRP VBD DT NN IN CD .
+"The quake jolted the Negar region of Kerman province around mid-morning , local time .",O O O O O O O B-geo O O B-tim O O O O,"DT NN VBD DT JJ NN IN NNP NN IN NN , JJ NN ."
+There have been no reports of damage or injuries .,O O O O O O O O O O,EX VBP VBN DT NNS IN NN CC NNS .
+The U.S. Geological Survey says Friday 's quake was centered near the northeastern city of Torbat-e-Heydariyeh .,O B-org I-org I-org O B-tim O O O O O O O O O B-geo O,DT NNP NNP NNP VBZ NNP POS NN VBD VBN IN DT JJ NN IN NNP .
+Iran is located on major seismic fault lines .,B-geo O O O O O O O O,NNP VBZ VBN IN JJ JJ NN NNS .
+"The worst recent quake in Iran occurred in 2003 , killing about 30,000 people and destroying much of the ancient southern city of Bam .",O O O O O B-geo O O B-tim O O O O O O O O O O O O O O B-geo O,"DT JJS JJ NN IN NNP VBD IN CD , VBG IN CD NNS CC VBG NN IN DT JJ JJ NN IN NNP ."

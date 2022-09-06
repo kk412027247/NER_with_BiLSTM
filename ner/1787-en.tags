@@ -1,0 +1,9 @@
+"Astronauts at the International Space Station have completed the second spacewalk of five , during the shuttle Endeavour 's 11-day mission at the station .",O O B-geo I-geo I-geo I-geo O O O O O O O O O O O O O O O O O O O,"NNS IN DT NNP NNP NNP VBP VBN DT JJ NN IN CD , IN DT NN NNP POS JJ NN IN DT NN ."
+"Astronauts Dave Wolf and Tom Marshburn undertook a 6-hour , 53-minute spacewalk Monday to conduct maintenance work at the station .",O B-per I-per O B-per I-per O O O O O O B-tim O O O O O O O O,"NNS NNP NNP CC NNP NNP VBD DT JJ , JJ NN NNP TO VB NN NN IN DT NN ."
+The walk coincided with the 40th anniversary of man 's landing on the moon .,O O O O O B-tim O O O O O O O O O,DT NN VBD IN DT JJ NN IN NN POS NN IN DT NN .
+Wolf and astronaut Tim Kopra completed the first spacewalk of the mission during a 5.5-hour operation Saturday .,B-per O O B-per I-per O O O O O O O O O O O B-tim O,NNP CC JJ NNP NNP VBD DT JJ NN IN DT NN IN DT JJ NN NNP .
+They installed an external platform on the massive Japanese lab at the space station .,O O O O O O O O B-gpe O O O O O O,PRP VBD DT JJ NN IN DT JJ JJ NN IN DT NN NN .
+"The lab is known as Kibo , or "" hope . """,O O O O O B-geo O O O O O O,"DT NN VBZ VBN IN NNP , CC RQU NN . LQU"
+The platform will allow scientists to conduct experiments in the vacuum of space .,O O O O O O O O O O O O O O,DT NN MD VB NNS TO VB NNS IN DT NN IN NN .
+"With the shuttle crew 's visit , there are 13 astronauts aboard the space station , the most ever .",O O O O O O O O O O O O O O O O O O O O,"IN DT NN NN POS NN , EX VBP CD NNS IN DT NN NN , DT RBS RB ."
+"Kopra is taking the place of Japan 's Koichi Wakata , who has been on the space station since March .",B-gpe O O O O O B-gpe O B-per I-per O O O O O O O O B-tim I-tim O,"NNP VBZ VBG DT NN IN NNP POS NNP NNP , WP VBZ VBN IN DT NN NN IN NNP ."

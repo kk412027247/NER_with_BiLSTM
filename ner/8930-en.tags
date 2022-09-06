@@ -1,0 +1,8 @@
+Iran 's main reformist party is accusing President Mahmoud Ahmadinejad of hurting the nation 's poor .,B-geo O O O O O O B-per I-per I-per O O O O O O O,NNP POS JJ NN NN VBZ VBG NNP NNP NNP IN VBG DT NN POS NN .
+"At an annual meeting of the Islamic Iran Participation Front Thursday , party leader Mohsen Mirdamadi attacked both the president 's foreign and economic policies .",O O O O O O B-geo I-geo I-geo I-geo B-tim O O O B-per I-per O O O O O O O O O O,"IN DT JJ NN IN DT NNP NNP NNP NNP NNP , NN NN NNP NNP VBD DT DT NN POS JJ CC JJ NNS ."
+The party hopes to field former president Mohammad Khatami to challenge Mr. Ahmadinejad in next year 's presidential election .,O O O O O O O B-per I-per O O B-per B-geo O O O O O O O,DT NN VBZ TO VB JJ NN NNP NNP TO VB NNP NNP IN JJ NN POS JJ NN .
+Mr. Khatami has not yet said if he will run .,B-per I-per O O O O O O O O O,NNP NNP VBZ RB RB VBN IN PRP MD VB .
+Mr. Ahmadinejad said Wednesday Iran must base its budget on oil worth as little as $ 30 a barrel .,B-per B-geo O B-tim B-geo O O O O O O O O O O O O O O O,NNP NNP VBD NNP NNP MD VB PRP$ NN IN NN NN RB RB IN $ CD DT NN .
+It is a drastic downward revision likely to lead to spending cuts .,O O O O O O O O O O O O O,PRP VBZ DT JJ JJ NN JJ TO VB TO NN NNS .
+"In recent months , when oil was nearly $ 150 a barrel , the president promised to spread the nation 's oil wealth .",O O O O O O O O O O O O O O O O O O O O O O O O,"IN JJ NNS , WRB NN VBD RB $ CD DT NN , DT NN VBD TO VB DT NN POS NN NN ."
+"But with the plummeting price , and inflation at about 30 percent , he has had to postpone his economic reform plans .",O O O O O O O O O O O O O O O O O O O O O O O,"CC IN DT VBG NN , CC NN IN IN CD NN , PRP VBZ VBN TO VB PRP$ JJ NN NNS ."

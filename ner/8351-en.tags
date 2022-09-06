@@ -1,0 +1,7 @@
+Authorities in the western U.S. state of California are investigating a crash at a popular off-road race that killed eight people .,O O O O B-geo O O B-geo O O O O O O O O O O O O O O,NNS IN DT JJ NNP NN IN NNP VBP VBG DT NN IN DT JJ JJ NN WDT VBD CD NNS .
+"A dozen more were injured , some seriously .",O O O O O O O O O,"DT NN RBR VBD VBN , DT RB ."
+"The accident occurred Saturday ( evening - 0240 GMT Sunday ) just as the race , called the California 200 , was starting .",O O O B-tim O O O B-tim I-tim I-tim O O O O O O O O B-geo O O O O O,"DT NN VBD NNP LRB NN IN CD NNP NNP RRB RB IN DT NN , VBD DT NNP CD , VBD VBG ."
+The driver of a truck participating in the race lost control .,O O O O O O O O O O O O,DT NN IN DT NN VBG IN DT NN VBD NN .
+The vehicle plowed into a crowd of spectators who had gathered at a dry lake bed in southern California for the annual event .,O O O O O O O O O O O O O O O O O B-geo I-geo O O O O O,DT NN VBD IN DT NN IN NNS WP VBD VBN IN DT JJ NN NN IN JJ NNP IN DT JJ NN .
+"The 200-mile race involving a variety of off-road vehicles was being held near the city of Lucerne Valley in the Mojave desert , 165 kilometers northeast of Los Angeles .",O O O O O O O O O O O O O O O O B-geo I-geo O O B-geo O O O O O O B-geo I-geo O,"DT JJ NN VBG DT NN IN JJ NNS VBD VBG VBN IN DT NN IN NNP NNP IN DT NNP NN , CD NNS RB IN NNP NNP ."
+It had been scheduled to last through the night before the accident brought it to an abrupt end .,O O O O O O O O O O O O O O O O O O O,PRP VBD VBN VBN TO VB IN DT NN IN DT NN VBD PRP TO DT JJ NN .

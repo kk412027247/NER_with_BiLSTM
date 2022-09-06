@@ -1,0 +1,8 @@
+Chad 's government is extending emergency measures by six months in an effort to quell ethnic conflicts in the country 's east .,B-geo O O O O O O O B-tim O O O O O O O O O O O O O O,NNP POS NN VBZ VBG NN NNS IN CD NNS IN DT NN TO VB JJ NNS IN DT NN POS NN .
+Prime Minister Pascal Yoadimnadji told lawmakers that more time is needed to restore peace and reconciliation .,B-per I-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP NNP VBD NNS IN JJR NN VBZ VBN TO VB NN CC NN .
+He also accused the government in neighboring Sudan of fueling the conflict .,O O O O O O O B-geo O O O O O,PRP RB VBD DT NN IN VBG NNP IN VBG DT NN .
+Sudan denies the claim .,B-geo O O O O,NNP VBZ DT NN .
+"Chad first declared a state of emergency last week , because of fighting between ethnic Arab and ethnic African communities .",B-geo O O O O O O O O O O O O O O B-gpe O O B-gpe O O,"NNP RB VBD DT NN IN NN JJ NN , IN IN VBG IN JJ JJ CC JJ JJ NNS ."
+"Officials say 400 people have died in recent attacks , and thousands of others have fled their homes .",O O O O O O O O O O O O O O O O O O O,"NNS VBP CD NNS VBP VBN IN JJ NNS , CC NNS IN NNS VBP VBN PRP$ NNS ."
+United Nations officials say Chadian villagers described being attacked by Arab nomads from Chad and western Sudan .,B-org I-org O O B-gpe O O O O O B-gpe O O B-geo O O B-geo O,NNP NNP NNS VBP JJ NNS VBD VBG VBN IN JJ NNS IN NNP CC JJ NNP .
+U.N. officials and aid workers say they fear the conflict in Sudan 's Darfur region between rebels and pro-government forces is spreading to Chad .,B-org O O O O O O O O O O B-geo O B-geo O O O O O O O O O B-geo O,NNP NNS CC NN NNS VBP PRP VBP DT NN IN NNP POS NNP NN IN NNS CC JJ NNS VBZ VBG TO NNP .

@@ -1,0 +1,8 @@
+Russian President Dmitri Medvedev has sent a new nuclear arms reduction treaty with the United States to parliament for ratification .,B-gpe B-per I-per I-per O O O O O O O O O O B-geo I-geo O O O O O,JJ NNP NNP NNP VBZ VBN DT JJ JJ NNS NN NN IN DT NNP NNPS TO NN IN NN .
+"Mr. Medvedev and U.S. President Barack Obama signed the treaty last month in the Czech capital , Prague .",B-per I-per O B-org B-per I-per I-per O O O O O O O B-gpe O O B-org O,"NNP NNP CC NNP NNP NNP NNP VBD DT NN JJ NN IN DT JJ NN , NNP ."
+President Obama submitted the treaty to the U.S. Senate for approval earlier this month .,B-per I-per O O O O O B-org I-org O O O O O O,NNP NNP VBD DT NN TO DT NNP NNP IN NN RBR DT NN .
+Mr. Medvedev urged Russian lawmakers Friday to synchronize their ratification process with the Senate .,B-per I-per O B-gpe O B-tim O O O O O O O B-org O,NNP NNP VBD JJ NNS NNP TO VB PRP$ NN NN IN DT NNP .
+"The new Strategic Arms Reduction Treaty cuts U.S. and Russian nuclear arsenals by 30 percent , leaving each side with about 1,500 strategic nuclear weapons .",O O O O O O O B-geo O B-gpe O O O O O O O O O O O O O O O O,"DT JJ NNP NNP NNP NNP VBZ NNP CC JJ JJ NNS IN CD NN , VBG DT NN IN IN CD JJ JJ NNS ."
+The agreement replaces the 1991 START treaty .,O O O O B-tim I-tim I-tim O,DT NN VBZ DT CD NNP NN .
+Both the U.S. Senate and Russia 's parliament must ratify the treaty before it can take effect .,O O B-org I-org O B-geo O O O O O O O O O O O O,DT DT NNP NNP CC NNP POS NN MD VB DT NN IN PRP MD VB NN .
+"President Obama has called the treaty "" an important milestone "" for nuclear security and non-proliferation .",B-per I-per O O O O O O O O O O O O O O O,NNP NNP VBZ VBN DT NN LQU DT JJ NN LQU IN JJ NN CC NN .

@@ -1,0 +1,10 @@
+Doctors at Jerusalem 's Hadassah Hospital have inserted a feeding tube into the stomach of Israeli Prime Minister Ariel Sharon .,O O B-org I-org I-org I-org O O O O O O O O O B-gpe B-per O B-per I-per O,NNS IN NNP POS NNP NNP VBP VBN DT NN NN IN DT NN IN JJ NNP NNP NNP NNP .
+"A hospital statement says Mr. Sharon remained in critical but stable condition after the procedure , called a gastrostomy .",O O O O B-per I-per O O O O O O O O O O O O O O,"DT NN NN VBZ NNP NNP VBD IN JJ CC JJ NN IN DT NN , VBD DT NN ."
+It did not say why the operation was necessary .,O O O O O O O O O O,PRP VBD RB VB WRB DT NN VBD JJ .
+One stroke expert says the procedure is recommended when patients are not expected to make a swift recovery .,O O O O O O O O O O O O O O O O O O O,CD NN NN VBZ DT NN VBZ VBN WRB NNS VBP RB VBN TO VB DT JJ NN .
+Mr. Sharon suffered a massive stroke on January 4 .,B-per I-per O O O O O B-tim I-tim O,NNP NNP VBD DT JJ NN IN NNP CD .
+Surgical teams at the hospital operated twice on the prime minister to reduce swelling in the brain .,O O O O O O O O O O O O O O O O O O,JJ NNS IN DT NN VBD RB IN DT JJ NN TO VB VBG IN DT NN .
+"Since then , attempts to bring Mr. Sharon out of a coma have been unsuccessful .",O O O O O O B-per I-per O O O O O O O O,"IN RB , NNS TO VB NNP NNP IN IN DT NN VBP VBN JJ ."
+Mr. Sharon did open his eyes briefly .,B-per I-per O O O O O O,NNP NNP VBD VB PRP$ NNS RB .
+"Medical experts have said it is unlikely that the prime minister , if he does emerge from the coma , will be able to resume normal activities .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP VBN PRP VBZ JJ IN DT JJ NN , IN PRP VBZ VB IN DT NN , MD VB JJ TO VB JJ NNS ."
+Deputy prime minister Ehud Olmert is serving as acting prime minister .,O O O B-per I-per O O O O O O O,NNP JJ NN NNP NNP VBZ VBG IN JJ JJ NN .

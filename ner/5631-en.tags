@@ -1,0 +1,4 @@
+The U.S. Food And Drug Administration ( FDA ) is searching for the cause of a salmonella outbreak that it has traced to raw tomatoes .,O B-org I-org O B-org I-org O B-org O O O O O O O O O O O O O O O O O O,DT NNP NNP CC NNP NNP LRB NNP RRB VBZ VBG IN DT NN IN DT NN NN IN PRP VBZ VBN TO JJ NNS .
+More than 165 people across the U.S. have become ill with salmonella poisoning since April .,O O O O O O B-geo O O O O O O B-tim I-tim O,JJR IN CD NNS IN DT NNP VBP VBN JJ IN NN NN IN NNP .
+"On June 7 , the FDA issued an advisory , warning consumers not to eat several common types of tomatoes .",O B-tim I-tim O O B-org O O O O O O O O O O O O O O O,"IN NNP CD , DT NNP VBD DT NN , VBG NNS RB TO VB JJ JJ NNS IN NNS ."
+VOA Producer Barry Unger has more in a report voiced by Tony Budny .,B-org I-org B-per I-per O O O O O O O B-per I-per O,NNP NNP NNP NNP VBZ RBR IN DT NN VBN IN NNP NNP .

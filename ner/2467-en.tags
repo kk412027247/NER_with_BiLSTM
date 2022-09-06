@@ -1,0 +1,8 @@
+Uganda 's main opposition leader has asked the Supreme Court to overturn the results of last month 's election that kept President Yoweri Museveni in power .,B-gpe O O O O O O O B-org I-org O O O O O O O O O O O B-per I-per I-per O O O,NNP POS JJ NN NN VBZ VBN DT NNP NNP TO VB DT NNS IN JJ NN POS NN WDT VBD NNP NNP NNP IN NN .
+"Defeated candidate Kizza Besigye Wednesday petitioned the court , alleging the elections were marred by bribery , intimidation , violence and a lack of transparency .",O O B-per I-per B-tim O O O O O O O O O O O O O O O O O O O O O,"JJ NN NNP NNP NNP VBD DT NN , VBG DT NNS VBD VBN IN NN , NN , NN CC DT NN IN NN ."
+Besigye 's party rejected the results soon after the February 23 election .,B-per O O O O O O O O B-tim I-tim I-tim O,NNP POS NN VBD DT NNS RB IN DT NNP CD NN .
+"The ruling party denied charges of interfering in the polls and called the opposition "" bad losers . """,O O O O O O O O O O O O O O O O O O O,DT NN NN VBD NNS IN VBG IN DT NNS CC VBD DT NN LQU JJ NNS . LQU
+"The official results showed Mr. Museveni winning 59 percent of the vote , compared to Besigye 's 37 percent .",O O O O B-per I-per O O O O O O O O O B-org O B-tim O O,"DT JJ NNS VBD NNP NNP VBG CD NN IN DT NN , VBN TO NNP POS CD NN ."
+Besigye was jailed for part of the campaign for what he has called politically motivated prosecutions .,B-per O O O O O O O O O O O O O O O O,NNP VBD VBN IN NN IN DT NN IN WP PRP VBZ VBN RB VBN NNS .
+Uganda 's High Court cleared Besigye of rape charges earlier this month .,B-gpe O B-org I-org O B-org O O O O O O O,NNP POS NNP NNP VBD NNP IN NN NNS RBR DT NN .
+He still faces charges of treason .,O O O O O O O,PRP RB VBZ NNS IN NN .

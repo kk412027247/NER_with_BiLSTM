@@ -1,0 +1,9 @@
+Authorities are continuing emergency rescue efforts after Hurricane Katrina slammed the Gulf Coast of the United States .,O O O O O O O O B-nat O O B-geo I-geo O O B-geo I-geo O,NNS VBP VBG NN NN NNS IN NNP NNP VBD DT NNP NNP IN DT NNP NNPS .
+Mississippi Governor Haley Barbour says the death toll could be as high as 80 in one Mississippi county alone .,B-org I-org I-org I-org O O O O O O O O O O O O B-geo O O O,NNP NNP NNP NNP VBZ DT NN NN MD VB RB JJ IN CD IN CD NNP NN RB .
+"The powerful storm cut a path of destruction through ( the southern U.S. states of ) Louisiana , Alabama and Mississippi , uprooting trees and destroying homes and buildings .",O O O O O O O O O O O O B-geo O O O B-org I-org I-org I-org I-org O O O O O O O O O,"DT JJ NN VBD DT NN IN NN IN LRB DT JJ NNP NNS IN RRB NNP , NNP CC NNP , VBG NNS CC VBG NNS CC NNS ."
+Rescuers used helicopters to pluck stranded residents from rooftops of houses submerged in flooding .,O O O O O O O O O O O O O O O,NNS VBD NNS TO VB JJ NNS IN NNS IN NNS VBN IN NN .
+The death toll is expected to rise .,O O O O O O O O,DT NN NN VBZ VBN TO VB .
+"Live power lines are down and gas lines ruptured , and authorities are warning residents not to return to their homes yet .",O O O O O O O O O O O O O O O O O O O O O O O,"JJ NN NNS VBP RB CC NN NNS VBD , CC NNS VBP VBG NNS RB TO VB TO PRP$ NNS RB ."
+The storm came ashore early Monday and has cut power to more than one-million residents .,O O O O O B-tim O O O O O O O O O O,DT NN VBD RB JJ NNP CC VBZ VBN NN TO JJR IN JJ NNS .
+Officials say it could be weeks before residents are allowed back into the area .,O O O O O O O O O O O O O O O,NNS VBP PRP MD VB NNS IN NNS VBP VBN RB IN DT NN .
+"Forecasters say the storm is now centered in northern Mississippi , and moving northeast .",O O O O O O O O O B-geo O O O O O,"NNS VBP DT NN VBZ RB VBN IN JJ NNP , CC VBG RB ."

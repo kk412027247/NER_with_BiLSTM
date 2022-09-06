@@ -1,0 +1,6 @@
+"Kyrgyzstan 's Justice Ministry says four people , including parliament member Tynychbek Akmatbayev , have been killed at a prison near Bishkek after inmates took them hostage .",B-gpe O B-org I-org O O O O O O O B-per I-per O O O O O O O O B-geo O O O O O O,"NNP POS NNP NNP VBZ CD NNS , VBG NN NN NNP NNP , VBP VBN VBN IN DT NN IN NNP IN NNS VBD PRP NN ."
+Interior Minister Murat Sutalinov is at the prison to head negotiations with the inmates .,B-per I-per I-per I-per O O O O O O O O O O O,NNP NNP NNP NNP VBZ IN DT NN TO VB NNS IN DT NNS .
+The ministry gave no other details .,O O O O O O O,DT NN VBD DT JJ NNS .
+It is not clear if the hostage-takers made any demands .,O O O O O O O O O O O,PRP VBZ RB JJ IN DT NNS VBD DT NNS .
+Mr. Akmatbayev was involved in negotiations on Wednesday at another Kyrgyz prison where a riot over poor living conditions forced the staff to evacuate earlier this week .,B-per I-per O O O O O B-tim O O B-gpe O O O O O O O O O O O O O O O O O,NNP NNP VBD VBN IN NNS IN NNP IN DT JJ NN WRB DT NN IN JJ NN NNS VBD DT NN TO VB RBR DT NN .
+"That prison , also near Bishkek , remained surrounded by security forces on Thursday .",O O O O O B-geo O O O O O O O B-tim O,"DT NN , RB IN NNP , VBD VBN IN NN NNS IN NNP ."

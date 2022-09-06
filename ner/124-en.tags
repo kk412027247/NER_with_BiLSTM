@@ -1,0 +1,6 @@
+A Mexican police chief has been ambushed and shot dead in the border city of Nuevo Laredo .,O B-gpe O O O O O O O O O O O O O B-geo I-geo O,DT JJ NN NN VBZ VBN VBN CC VBN JJ IN DT NN NN IN NNP NNP .
+Authorities say Commander Victor Berrones died Tuesday when gunmen attacked the vehicle in which he was traveling .,O O O B-per I-per O B-tim O O O O O O O O O O O,NNS VBP NNP NNP NNP VBD NNP WRB NNS VBD DT NN IN WDT PRP VBD VBG .
+"Another officer with him was also killed , along with at least one of the suspected assailants .",O O O O O O O O O O O O O O O O O O,"DT NN IN PRP VBD RB VBN , IN IN IN JJS CD IN DT JJ NNS ."
+The incident took place on a highway leading to the airport in Nuevo Laredo .,O O O O O O O O O O O O B-geo I-geo O,DT NN VBD NN IN DT NN VBG TO DT NN IN NNP NNP .
+Authorities recovered at least 100 bullet casings as well as rifles at the scene .,O O O O O O O O O O O O O O O,NNS VBD IN JJS CD NN NNS RB RB IN NNS IN DT NN .
+Nuevo Laredo has been plagued for years by violence between gangs fighting for control of lucrative drug smuggling routes into the U.S.,B-geo I-geo O O O O O O O O O O O O O O O O O O O B-geo,NNP NNP VBZ VBN VBN IN NNS IN NN IN NNS VBG IN NN IN JJ NN VBG NNS IN DT NNP

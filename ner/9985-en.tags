@@ -1,0 +1,8 @@
+Israeli Prime Minister Ehud Olmert says countries without diplomatic relations with Israel should not participate in the U.N. peacekeeping force for Lebanon .,B-gpe B-per I-per I-per I-per O O O O O O B-geo O O O O O B-geo O O O B-geo O,JJ NNP NNP NNP NNP VBZ NNS IN JJ NNS IN NNP MD RB VB IN DT NNP NN NN IN NNP .
+"Those countries include Bangladesh , Indonesia , and Malaysia - three Muslim nations that have already offered to send troops .",O O O B-geo O B-geo O O B-geo O O O O O O O O O O O O,"DT NNS VBP NNP , NNP , CC NNP : CD NNP NNS WDT VBP RB VBN TO VB NNS ."
+"Meanwhile , Mr. Olmert says Italy may be ready to take a significant role in the U.N. peacekeeping force .",O O B-per B-org O B-org O O O O O O O O O O B-geo O O O,"RB , NNP NNP VBZ NNP MD VB JJ TO VB DT JJ NN IN DT NNP NN NN ."
+He spoke with Italian Prime Minister Romano Prodi by telephone Sunday .,O O O B-gpe B-per I-per I-per I-per O O B-tim O,PRP VBD IN JJ NNP NNP NNP NNP IN NN NNP .
+"Italy has already approved plans to send as many as 3,000 troops to Lebanon .",B-org O O O O O O O O O O O O B-geo O,NNP VBZ RB VBN NNS TO VB RB JJ IN CD NNS TO NNP .
+But it is unclear if it will lead the force .,O O O O O O O O O O O,CC PRP VBZ JJ IN PRP MD VB DT NN .
+"The United Nations plans to deploy up to 15,000 soldiers to boost a peacekeeping force already in southern Lebanon .",O B-org I-org O O O O O O O O O O O O O O B-geo I-geo O,DT NNP NNPS VBZ TO VB RP TO CD NNS TO VB DT NN NN RB IN JJ NNP .
+"Lebanon has also started deploying the first of 15,000 troops it plans to send to the area .",B-geo O O O O O O O O O O O O O O O O O,NNP VBZ RB VBN VBG DT NN IN CD NNS PRP VBZ TO VB TO DT NN .

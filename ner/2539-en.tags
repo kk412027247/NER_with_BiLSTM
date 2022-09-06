@@ -1,0 +1,7 @@
+SOME Apes who had deposed their king fell at once into dissension and anarchy .,O O O O O O O O O O O O O O O,DT NNS WP VBD VBN PRP$ NN VBD IN RB IN NN CC NN .
+In this strait they sent a Deputation to a neighbouring tribe to consult the Oldest and Wisest Ape in All the World .,O O O O O O O O O O O O O O B-org I-org I-org I-org O O O O O,IN DT NN PRP VBD DT NN TO DT VBG NN TO VB DT NNP CC NNP NNP IN PDT DT NNP .
+""" My children , "" said the Oldest and Wisest Ape in All the World , when he had heard the Deputation , "" you did right in ridding yourselves of tyranny , but your tribe is not sufficiently advanced to dispense with the forms of monarchy .",O O O O O O O B-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"LQU PRP$ NNS , RQU VBD DT NNP CC NNP NNP IN PDT DT NNP , WRB PRP VBD VBN DT NN , LQU PRP VBD RB IN VBG NNS IN NN , CC PRP$ NN VBZ RB RB VBN TO VB IN DT NNS IN NN ."
+"Entice the tyrant back with fair promises , kill him and enthrone .",O O O O O O O O O O O O O,"VB DT NN RB IN JJ NNS , VB PRP CC VB ."
+"The skeleton of even the most lawless despot makes a good constitutional sovereign . """,O O O O O O O O O O O O O O O,DT NN IN RB DT RBS JJ NN VBZ DT JJ JJ NN . LQU
+At this the Deputation was greatly abashed .,O O O O O O O O,IN DT DT NN VBD RB JJ .
+""" It is impossible , "" they said , moving away ; "" our king has no skeleton ; he was stuffed . """,O O O O O O O O O O O O O O O O O O O O O O O O,"LQU PRP VBZ JJ , LQU PRP VBD , VBG RB ; LQU PRP$ NN VBZ DT NN ; PRP VBD VBN . LQU"

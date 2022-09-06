@@ -1,0 +1,6 @@
+A strong earthquake that rattled southeastern Turkey Monday has injured at least 37 people while causing minor damage to buildings .,O O O O O O O B-tim O O O O O O O O O O O O O,DT JJ NN WDT VBD JJ NNP NNP VBZ VBN IN JJS CD NNS IN VBG JJ NN TO NNS .
+The Kandill Observatory in Istanbul says a preliminary estimate of the quake 's magnitude was 5.7 .,O B-org I-org O B-geo O O O O O O O O O O O O,DT NNP NNP IN NNP VBZ DT JJ NN IN DT NN POS NN VBD CD .
+It was centered near the town of Karliova in Bingol province .,O O O O O O O B-geo O B-geo O O,PRP VBD VBN IN DT NN IN NNP IN NNP NN .
+"Turkish officials have sent rescue teams , tents and blankets to the area .",B-gpe O O O O O O O O O O O O O,"JJ NNS VBP VBN NN NNS , NNS CC NNS TO DT NN ."
+"Earthquakes are frequent in Turkey , which sits atop a major tectonic faultline .",O O O O B-geo O O O O O O O O O,"NNS VBP JJ IN NNP , WDT VBZ IN DT JJ JJ NN ."
+"A powerful quake that hit northwestern Turkey in 1999 killed more than 17,000 people .",O O O O O O B-geo O B-tim O O O O O O,DT JJ NN WDT VBD JJ NNP IN CD VBD JJR IN CD NNS .

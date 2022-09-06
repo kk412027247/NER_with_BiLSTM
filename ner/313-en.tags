@@ -1,0 +1,8 @@
+India won its first home test series against Pakistan in 27 years when the third and final test in Bangalore ended in a draw .,B-geo O O O O O O O B-geo O B-tim O O O O O O O O B-geo O O O O O,NNP VBD PRP$ JJ NN NN NN IN NNP IN CD NNS WRB DT JJ CC JJ NN IN NNP VBD IN DT NN .
+Indian spin bowler Anil Kumble took five wickets in Pakistan 's second innings as the visitors reached 162-7 before bad light ended play .,B-gpe O O B-per I-per O O O O B-geo O O O O O O O O O O O O O O,JJ NN NN NNP NNP VBD CD NNS IN NNP POS JJ NN IN DT NNS VBD CD IN JJ NN VBD NN .
+The score was in response to India 's second innings score of 284-6 declared .,O O O O O O B-geo O O O O O O O O,DT NN VBD IN NN TO NNP POS JJ NN NN IN CD VBN .
+The final score : India 626 and 284-6 declared .,O O O O B-geo I-geo O O O O,DT JJ NN IN NNP CD CC CD VBN .
+Pakistan 537 and 162-7 .,B-geo B-tim O O O,NNP CD CC CD .
+India had not won a home test series with Pakistan since 1980 .,B-geo O O O O O O O O B-geo B-tim I-tim O,NNP VBD RB VBN DT NN NN NN IN NNP IN CD .
+The host nation won the first test by six wickets and the second test was a draw .,O O O O O O O O O O O O O O O O O O,DT NN NN VBD DT JJ NN IN CD NNS CC DT JJ NN VBD DT NN .
+"India won the five-match one-day series , 3-2 .",B-geo O O O O O O O O,"NNP VBD DT JJ JJ NN , CD ."

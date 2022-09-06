@@ -1,0 +1,7 @@
+An insurgent group in Iraq has released a videotape that purports to show the suicide bomber who killed 22 people last week at a U.S. military base in the Iraqi city of Mosul .,O O O O B-geo O O O O O O O O O O O O O O O O O O O B-geo O O O O B-gpe O O B-geo O,DT JJ NN IN NNP VBZ VBN DT NN WDT VBZ TO VB DT NN NN WP VBD CD NNS JJ NN IN DT NNP JJ NN IN DT JJ NN IN NNP .
+The video is posted on the Army of Ansar al-Sunna web site .,O O O O O O B-org I-org I-org I-org I-org O O,DT NN VBZ VBN IN DT NNP IN NNP NNP NNP NN .
+"In it , a masked man displays a map of the U.S. installation and describes plans for the attack .",O O O O O O O O O O O B-geo O O O O O O O O,"IN PRP , DT VBN NN NNS DT NN IN DT NNP NN CC VBZ NNS IN DT NN ."
+"Another masked man , identified as the bomber , embraces colleagues .",O O O O O O O O O O O O,"DT VBN NN , VBN IN DT NN , VBZ NNS ."
+The video then shows what appears to be the explosion that ripped through the dining tent on Tuesday .,O O O O O O O O O O O O O O O O O B-tim O,DT NN RB VBZ WP VBZ TO VB DT NN WDT VBD IN DT VBG NN IN NNP .
+"In other developments , masked gunmen Sunday killed a high-ranking Iraqi security officer and wounded several of his bodyguards in Baghdad .",O O O O O O B-tim O O O B-gpe O O O O O O O O O B-geo O,"IN JJ NNS , VBN NNS NNP VBD DT JJ JJ NN NN CC VBD NN IN PRP$ NNS IN NNP ."
+"Separately , a roadside bomb wounded three U.S. soldiers traveling in a convoy in Mosul .",O O O O O O O B-geo O O O O O O B-geo O,"RB , DT NN NN VBD CD NNP NNS VBG IN DT NN IN NNP ."

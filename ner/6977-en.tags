@@ -1,0 +1,7 @@
+The Vatican says Pope John Paul 's body will lie in state at St. Peter 's Basilica beginning Monday afternoon at the earliest .,O O O O B-per I-per O O O O O O O B-geo B-per O O O B-tim I-tim O O O O,DT NNP VBZ NNP NNP NNP POS NN MD VB IN NN IN NNP NNP POS NNP NN NNP NN IN DT JJS .
+Nine days of official mourning began Sunday at the Vatican .,O O O O O O B-tim O O O O,CD NNS IN JJ NN VBD NNP IN DT NNP .
+"The pope 's body is to be transferred from the papal apartment , where he died , to prepare it to lie in state .",O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN POS NN VBZ TO VB VBN IN DT JJ NN , WRB PRP VBD , TO VB PRP TO VB IN NN ."
+A number of world leaders are expected to attend the pope 's funeral later this week .,O O O O O O O O O O O O O B-tim O O O,DT NN IN NN NNS VBP VBN TO VB DT NN POS NN RB DT NN .
+Roman Catholic tradition says the funeral and burial must be held between the fourth and sixth day after death .,B-per I-per O O O O O O O O O O O O O O O O O O,NNP NNP NN VBZ DT NN CC NN MD VB VBN IN DT JJ CC JJ NN IN NN .
+Traditionally a pope 's body is buried in a crypt beneath St. Peter 's Basilica .,O O O O O O O O O O O B-geo B-per O B-geo O,RB DT NN POS NN VBZ VBN IN DT NN IN NNP NNP POS NNP .
+"However , news media reports have mentioned that John Paul might have chosen to be buried in his native Poland .",O O O O O O O O B-per I-per O O O O O O O O O B-geo O,"RB , NN NNS NNS VBP VBN IN NNP NNP MD VB VBN TO VB VBN IN PRP$ JJ NNP ."

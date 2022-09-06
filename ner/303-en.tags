@@ -1,0 +1,9 @@
+Reports from Iran say police have exchanged gunfire with militants following an explosion near a school in the southeastern part of the country .,O O B-geo O O O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP NNS VBP VBN NN IN NNS VBG DT NN IN DT NN IN DT JJ NN IN DT NN .
+Iranian news agencies said late Friday that police in the city of Zahedan cordoned off the neighborhood where the incident took place .,B-gpe O O O O B-tim O O O O O O B-geo O O O O O O O O O O,JJ NN NNS VBD JJ NNP IN NN IN DT NN IN NNP VBD RP DT NN WRB DT NN VBD NN .
+Electrical power to the area was cut off .,O O O O O O O O O,JJ NN TO DT NN VBD VBN RP .
+It is not clear if there were casualties .,O O O O O O O O O,PRP VBZ RB JJ IN EX VBD NNS .
+"On Wednesday , a car bomb blast in the same city killed 11 Iranian Revolutionary Guards .",O B-tim O O O O O O O O O O O B-gpe O O O,"IN NNP , DT NN NN NN IN DT JJ NN VBD CD JJ JJ NNS ."
+"A Sunni Muslim group , Jundollah , claimed responsibility for that attack .",O B-per I-per O O B-org O O O O O O O,"DT NNP NNP NN , NNP , VBD NN IN DT NN ."
+Officials say the group is linked to al-Qaida .,O O O O O O O B-org O,NNS VBP DT NN VBZ VBN TO NNP .
+"Zahedan is the capital of Sistan-Baluchistan province , which borders Pakistan and Afghanistan .",B-geo O O O O B-geo O O O O B-geo O B-geo O,"NNP VBZ DT NN IN NNP NN , WDT VBZ NNP CC NNP ."
+Iran has accused the United States of backing militants in the sensitive border area to destabilize the country .,B-org O O O B-org I-org O O O O O O O O O O O O O,NNP VBZ VBN DT NNP NNPS IN VBG NNS IN DT JJ NN NN TO VB DT NN .

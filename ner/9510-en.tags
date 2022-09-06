@@ -1,0 +1,8 @@
+South Korea 's Agriculture Ministry confirmed Saturday that a new outbreak of bird flu there is the highly pathogenic H5N1 strain of the virus .,B-geo I-geo O B-org I-org O B-tim O O O O O O O O O O O O O O O O O O,NNP NNP POS NNP NNP VBD NNP IN DT JJ NN IN NN NN EX VBZ DT RB JJ NNP NN IN DT NN .
+"Officials say test results showed chickens at a farm in Cheonan , 90 kilometers south of the capital , Seoul , were infected with the disease .",O O O O O O O O O O B-geo O O O O O O O O B-per O O O O O O O,"NNS VBP NN NNS VBD NNS IN DT NN IN NNP , CD NNS RB IN DT NN , NNP , VBD VBN IN DT NN ."
+"South Korea will slaughter more than 270,000 poultry near the farm to try to keep the virus from spreading further .",B-geo I-geo O O O O O O O O O O O O O O O O O O O,NNP NNP MD VB JJR IN CD NN IN DT NN TO VB TO VB DT NN IN VBG RBR .
+The outbreak is South Korea 's fifth since November .,O O O B-geo I-geo O O B-tim I-tim O,DT NN VBZ NNP NNP POS NN IN NNP .
+Bird flu has killed more than 150 people worldwide since 2003 .,O O O O O O O O O B-tim I-tim O,NN NN VBZ VBN JJR IN CD NNS JJ IN CD .
+Health Ministry officials in Indonesia and Egypt also announced new human fatalities from bird flu today .,B-org I-org O O B-geo O B-geo O O O O O O O O B-tim O,NNP NNP NNS IN NNP CC NNP RB VBD JJ JJ NNS IN NN NN NN .
+Indonesian officials say a 19-year-old woman from West Java died Friday from the H5N1 strain of bird flu .,B-gpe O O O O O O B-geo I-geo O B-tim O O O O O O O O,JJ NNS VBP DT JJ NN IN NNP NNP VBD NNP IN DT NNP NN IN NN NN .
+"In Egypt , a 27-year-old woman infected with bird flu died on Friday at a hospital in Cairo .",O B-geo O O O O O O O O O O B-tim O O O O B-geo O,"IN NNP , DT JJ NN VBN IN NN NN VBD IN NNP IN DT NN IN NNP ."

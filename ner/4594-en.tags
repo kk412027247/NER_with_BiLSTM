@@ -1,0 +1,6 @@
+Venezuela 's President Hugo Chavez is asking the National Assembly to grant him special powers over the country 's electrical and telecommunications industries .,B-geo O B-per I-per I-per O O O B-org I-org O O O O O O O O O O O O O O,NNP POS NNP NNP NNP VBZ VBG DT NNP NNP TO VB PRP JJ NNS IN DT NN POS JJ CC NN NNS .
+"In a televised speech , Mr. Chavez said he would nationalize some electricial companies and the country 's largest telecommunications company , CANTV .",O O O O O B-per I-per O O O O O O O O O O O O O O O O O,"IN DT JJ NN , NNP NNP VBD PRP MD VB DT JJ NNS CC DT NN POS JJS NN NN , NNP ."
+The leftist leader promised to take a more radical turn toward socialism after he was re-elected by a wide margin last month .,O O O O O O O O O O O O O O O O O O O O O O O,DT JJ NN VBD TO VB DT RBR JJ NN IN NN IN PRP VBD VBN IN DT JJ NN JJ NN .
+He will begin a second six-year term as president on Wednesday .,O O O O O B-tim O O O O B-tim O,PRP MD VB DT JJ JJ NN IN NN IN NNP .
+Mr. Chavez has said he hopes to merge all the political parties supporting him into one party .,B-per I-per O O O O O O O O O O O O O O O O,NNP NNP VBZ VBN PRP VBZ TO VB PDT DT JJ NNS VBG PRP IN CD NN .
+He also wants to re-write the constitution .,O O O O O O O O,PRP RB VBZ TO VB DT NN .

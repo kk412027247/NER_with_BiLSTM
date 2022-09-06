@@ -1,0 +1,7 @@
+"U.S. crude oil prices have risen to another record high , passing $ 78 a barrel , as violence in the Middle East and Nigeria threatened supplies .",B-geo O O O O O O O O O O O O O O O O O O O O B-geo I-geo O B-geo O O O,"NNP JJ NN NNS VBP VBN TO DT NN NN , VBG $ CD DT NN , IN NN IN DT NNP NNP CC NNP VBD NNS ."
+Crude oil for August delivery closed at a record $ 76.70 in New York Thursday .,O O O B-tim O O O O O O O O B-geo I-geo B-tim O,JJ NN IN NNP NN VBD IN DT NN $ CD IN NNP NNP NNP .
+"The price continued to rise in after-hours trading , hitting $ 78.40 .",O O O O O O O O O O O O O,"DT NN VBD TO VB IN JJ NN , VBG $ CD ."
+That is the highest price for oil since the New York Mercantile Exchange began the contract in 1983 .,O O O O O O O O O B-geo I-geo I-geo I-geo O O O O B-tim O,DT VBZ DT JJS NN IN NN IN DT NNP NNP NNP NNP VBD DT NN IN CD .
+In early Asian trading Friday crude oil was at $ 77.95 a barrel .,O O B-tim O B-tim O O O O O O O O O,IN JJ JJ NN NNP JJ NN VBD IN $ CD DT NN .
+Strong demand for oil leaves little unused oil production capacity anywhere in the world .,O O O O O O O O O O O O O O O,JJ NN IN NN NNS RB JJ NN NN NN RB IN DT NN .
+The tight balance between supply and demand means any disruption in oil supplies could cause prices to soar .,O O O O O O O O O O O O O O O O O O O,DT JJ NN IN NN CC NN VBZ DT NN IN NN NNS MD VB NNS TO VB .

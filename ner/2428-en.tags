@@ -1,0 +1,7 @@
+The World Health Organization has confirmed the first human case of bird flu in Laos .,O B-org I-org I-org O O O O O O O O O O B-geo O,DT NNP NNP NNP VBZ VBN DT JJ JJ NN IN NN NN IN NNP .
+"In a joint statement issued Tuesday , WHO and Laotian officials say a 15-year-old girl who fell ill earlier this month is infected with the bird flu virus .",O O O O O B-tim O B-org O O O O O O O O O O O O O O O O O O O O O,"IN DT JJ NN VBN NNP , NNP CC JJ NNS VBP DT JJ NN WP VBD RB RBR DT NN VBZ VBN IN DT NN NN NN ."
+"Officials say the girl was hospitalized in Vientiane and later transferred to Thailand , where she is in stable condition .",O O O O O O O B-geo O O O O B-geo O O O O O O O O,"NNS VBP DT NN VBD VBN IN NNP CC RB VBN TO VB , WRB PRP VBZ IN JJ NN ."
+WHO officials have not confirmed whether the virus is the often-fatal H5N1 strain of bird flu .,B-org O O O O O O O O O O O O O O O O,NNP NNS VBP RB VBN IN DT NN VBZ DT JJ NNP NN IN NN NN .
+Bird flu broke out among poultry in the girl 's village near the capital two weeks ago .,O O O O O O O O O O O O O O B-tim O O O,NN NN VBD RP IN NN IN DT NN POS NN IN DT NN CD NNS RB .
+The disease first appeared in Laos in 2004 .,O O O O O B-geo O B-tim O,DT NN RB VBD IN NNP IN CD .
+"It is known to have killed about 170 people worldwide since 2003 , mostly in Asia .",O O O O O O O O O O O B-tim O O O B-geo O,"PRP VBZ VBN TO VB VBN IN CD NNS JJ IN CD , RB IN NNP ."

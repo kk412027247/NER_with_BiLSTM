@@ -1,0 +1,8 @@
+Egyptian citizens in a number of provinces are voting Sunday in the second round of parliamentary elections .,B-gpe O O O O O O O O B-tim O O O O O O O O,JJ NNS IN DT NN IN NNS VBP VBG NNP IN DT JJ NN IN JJ NNS .
+"More than 1,700 candidates are competing in 72 constituencies in the nine second- round provinces .",O O O O O O O O O O O O O O O O,JJR IN CD NNS VBP VBG IN CD NNS IN DT CD JJ NN NNS .
+"The first round of voting , centered on Cairo , ended Wednesday amid accusations from monitoring organizations and opposition parties of widespread irregularities .",O O O O O O O O B-geo O O B-tim O O O O O O O O O O O O,"DT JJ NN IN NN , VBD IN NNP , VBD NNP IN NNS IN NN NNS CC NN NNS IN JJ NNS ."
+Officials say the ruling National Democratic Party won 112 of the 454 parliament seats in the first round .,O O O O B-org I-org I-org O O O O O O O O O O O O,NNS VBP DT NN NNP NNP NNP VBD CD IN DT CD NN NNS IN DT JJ NN .
+"Candidates associated with the banned Muslim Brotherhood won 34 seats , more than doubling its presence .",O O O O O B-org I-org O O O O O O O O O O,"NNS VBN IN DT VBN NNP NNP VBD CD NNS , JJR IN VBG PRP$ NN ."
+"Meanwhile , leaders of the banned group say police arrested about 200 of its members before polling began today .",O O O O O O O O O O O O O O O O O O B-tim O,"RB , NNS IN DT VBN NN VBP NNS VBN IN CD IN PRP$ NNS IN VBG VBD NN ."
+Brotherhood Essam el-Erian says the arrests indicate ruling party interference in the election .,B-org I-org I-org O O O O O O O O O O O,NNP NNP NNP VBZ DT NNS VBP VBG NN NN IN DT NN .
+The third and final stage of voting is set for December 1 .,O O O O O O O O O O B-tim I-tim O,DT JJ CC JJ NN IN NN VBZ VBN IN NNP CD .

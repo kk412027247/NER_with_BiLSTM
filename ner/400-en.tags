@@ -1,0 +1,7 @@
+Ukrainian President Viktor Yushchenko says Ukraine does not owe money to Russia 's state-owned natural gas company Gazprom .,B-gpe B-per I-per I-per O B-geo O O O O O B-geo O O O O O B-geo O,JJ NNP NNP NNP VBZ NNP VBZ RB VB NN TO NNP POS JJ JJ NN NN NNP .
+The chief supplier of natural gas to Ukraine says Kyiv owes $ 1.3 billion .,O O O O O O O B-geo O B-geo O O O O O,DT JJ NN IN JJ NN TO NNP VBZ NNP VBZ $ CD CD .
+It is threatening to cut supplies to Ukraine unless it is paid .,O O O O O O O B-geo O O O O O,PRP VBZ VBG TO VB NNS TO NNP IN PRP VBZ VBN .
+Gazprom chief Dmitry Medvedev said after talks Wednesday in Moscow with Ukrainian Energy Minister Yury Boiko said that Ukraine has agreed to pay the debt .,B-geo O B-per I-per O O O B-tim O B-geo O B-gpe O B-per I-per I-per O O B-geo O O O O O O O,NNP NN NNP NNP VBD IN NNS NNP IN NNP IN JJ NNP NNP NNP NNP VBD IN NNP VBZ VBN TO VB DT NN .
+But President Yushchenko said in Berlin that his government has no debts to Gazprom .,O B-per I-per O O B-geo O O O O O O O B-geo O,CC NNP NNP VBD IN NNP IN PRP$ NN VBZ DT NNS TO NNP .
+A price dispute between Ukraine and Gazprom in 2006 led to a cutoff of gas shipments to Ukraine .,O O O O B-geo O B-geo O B-tim O O O O O O O O B-geo O,DT NN NN IN NNP CC NNP IN CD VBD TO DT NN IN NN NNS TO NNP .
+"It also caused a severe natural gas shortage in the European Union , as the pipelines pass through Ukraine to the EU states .",O O O O O O O O O O B-org I-org O O O O O O B-geo O O B-org O O,"PRP RB VBD DT JJ JJ NN NN IN DT NNP NNP , IN DT NNS VBP IN NNP TO DT NNP NNS ."

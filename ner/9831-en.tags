@@ -1,0 +1,10 @@
+China and Saudi Arabia have signed a number of agreements boosting economic cooperation .,B-geo O B-geo I-geo O O O O O O O O O O,NNP CC NNP NNP VBP VBN DT NN IN NNS VBG JJ NN .
+The agreements came Saturday on the first day of Chinese President Hu Jintao 's three-day visit to Saudi Arabia .,O O O B-tim O O B-tim I-tim O B-gpe B-per I-per I-per O B-tim O O B-geo I-geo O,DT NNS VBD NNP IN DT JJ NN IN JJ NNP NNP NNP POS JJ NN TO NNP NNP .
+"Mr. Hu met with King Abdullah , and the two oversaw the signing of the economic agreements .",B-per I-per O O B-per I-per O O O O O O O O O O O O,"NNP NNP VBD IN NNP NNP , CC DT CD NN DT NN IN DT JJ NNS ."
+Details of the deals were not immediately available .,O O O O O O O O O,NNS IN DT NNS VBD RB RB JJ .
+Mr. Hu was also meeting today with Saudi businessmen and touring the Riyadh headquarters of petrochemical giant Saudi Basic Industries Corporation .,B-per I-per O O O B-tim O O O O O O B-org O O O O B-org I-org I-org I-org O,NNP NNP VBD RB VBG NN IN JJ NNS CC VBG DT NNP NN IN NN NN NNP NNP NNPS NNP .
+He meets industry leaders in the oil-rich east Sunday .,O O O O O O O O B-tim O,PRP VBZ NN NNS IN DT JJ NN NNP .
+Mr. Hu arrived in Saudi Arabia today from the United States .,B-per I-per O O B-geo I-geo B-tim I-tim O B-geo I-geo O,NNP NNP VBD IN NNP NNP NN IN DT NNP NNPS .
+His Saudi trip comes three months after King Abdullah visited Beijing on his first overseas tour as king .,O O O O O O O B-per I-per O B-geo O O O O O O O O,PRP$ JJ NN VBZ CD NNS IN NNP NNP VBD NNP IN PRP$ JJ JJ NN IN NN .
+"The countries signed agreements on energy , economic and trade policies .",O O O O O O O O O O O O,"DT NNS VBD NNS IN NN , JJ CC NN NNS ."
+China has been looking to strengthen relationships with major oil suppliers as it becomes more reliant on oil imports .,B-geo O O O O O O O O O O O O O O O O O O O,NNP VBZ VBN VBG TO VB NNS IN JJ NN NNS IN PRP VBZ JJR NN IN NN NNS .

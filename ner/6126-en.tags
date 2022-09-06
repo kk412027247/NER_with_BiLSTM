@@ -1,0 +1,4 @@
+"A truck carrying Hindu pilgrims has plunged into a gorge in northern India , killing at least 15 people .",O O O B-geo O O O O O O O O B-geo O O O O O O O,"DT NN VBG NNP NNS VBZ VBN IN DT NN IN JJ NNP , VBG IN JJS CD NNS ."
+Officials say the truck ran off the road in Uttarakhand state Sunday and fell into the deep gorge .,O O O O O O O O O B-geo O B-tim O O O O O O O,NNS VBP DT NN VBD IN DT NN IN NNP NN NNP CC VBD IN DT JJ NN .
+They say the passengers were on their way to the town of Gangotri for a Hindu ritual .,O O O O O O O O O O O O B-geo O O B-geo O O,PRP VBP DT NNS VBD IN PRP$ NN TO DT NN IN NNP IN DT NNP NN .
+"India has frequent road accidents due to reckless driving , poor vehicle maintenance and overcrowding .",B-geo O O O O O O O O O O O O O O O,"NNP VBZ JJ NN NNS JJ TO JJ NN , JJ NN NN CC NN ."

@@ -1,0 +1,3 @@
+"In 1979 the Federated States of Micronesia , a UN Trust Territory under US administration , adopted a constitution .",O B-tim O B-geo I-geo I-geo I-geo O O B-org I-org I-org O B-org O O O O O O,"IN CD DT NNP NNPS IN NNP , DT NNP NNP NNP IN NNP NN , VBD DT NN ."
+"In 1986 independence was attained under a Compact of Free Association with the US , which was amended and renewed in 2004 .",O B-tim O O O O O O O B-org I-org O O B-org O O O O O O O B-tim O,"IN CD NN VBD VBN IN DT NN IN NNP NNP IN DT NNP , WDT VBD VBN CC VBN IN CD ."
+"Present concerns include large-scale unemployment , overfishing , and overdependence on US aid .",O O O O O O O O O O O B-org O O,"JJ NNS VBP JJ NN , VBG , CC NN IN NNP NN ."

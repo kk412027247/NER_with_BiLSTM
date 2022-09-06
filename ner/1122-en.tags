@@ -1,0 +1,9 @@
+"Afghan officials say suspected Taliban militants have burned down a primary school , in the latest attack on the country 's burgeoning education system .",B-gpe O O O B-org O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP VBN NNP NNS VBP VBN RP DT JJ NN , IN DT JJS NN IN DT NN POS VBG NN NN ."
+Education officials say the militants torched the school building Friday in southern Kandahar province .,O O O O O O O O O B-tim O O B-geo O O,NN NNS VBP DT NNS VBD DT NN NN NNP IN JJ NNP NN .
+There were no reports of injuries .,O O O O O O O,EX VBD DT NNS IN NNS .
+"The local education chief , Mohammed Anwar , said nearly 1,200 students , including about 200 girls , had studied at the school .",O O O O O B-per I-per O O O O O O O O O O O O O O O O O,"DT JJ NN NN , NNP NNP , VBD RB CD NNS , VBG IN CD NNS , VBD VBN IN DT NN ."
+"Under Taliban rule , girls were not allowed to go to school .",O B-org O O O O O O O O O O O,"IN NNP NN , NNS VBD RB VBN TO VB TO NN ."
+"But since the U.S.-led invasion pushed the Taliban from power in 2001 , the education system has benefited from reconstruction efforts .",O O O O O O O B-org O O O B-tim O O O O O O O O O O,"CC IN DT JJ NN VBD DT NNP IN NN IN CD , DT NN NN VBZ VBN IN NN NNS ."
+"Despite its success , increasing violence is making it hard for students to attend classes .",O O O O O O O O O O O O O O O O,"IN PRP$ NN , VBG NN VBZ VBG PRP JJ IN NNS TO VB NNS ."
+"The Education Ministry says 300,000 children did not go to school last year because of security concerns .",O B-org I-org O O O O O O O O O O O O O O O,DT NNP NNP VBZ CD NNS VBD RB VB TO NN JJ NN IN IN NN NNS .
+"Also Friday , officials say troops killed at least three suspected Taliban militants in neighboring Zabul province .",O B-tim O O O O O O O O O B-org O O O B-geo O O,"RB NNP , NNS VBP NNS VBD IN JJS CD JJ NNP NNS IN JJ NNP NN ."

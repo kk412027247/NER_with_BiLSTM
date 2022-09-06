@@ -1,0 +1,8 @@
+"A U.S. court has found a former CIA contractor guilty of assaulting an Afghan detainee , who later died of his injuries .",O B-geo O O O O O B-org O O O O O B-gpe O O O O O O O O O,"DT NNP NN VBZ VBN DT JJ NNP NN NN IN VBG DT JJ NN , WP RB VBD IN PRP$ NNS ."
+The federal jury in North Carolina issued the guilty verdict Thursday on several assault charges against David Passaro for the 2003 incident .,O O O O B-geo I-geo O O O O B-tim O O O O O B-per I-per O O B-tim O O,DT JJ NN IN NNP NNP VBD DT JJ NN NNP IN JJ NN NNS IN NNP NNP IN DT CD NN .
+He was not charged with murder .,O O O O O O O,PRP VBD RB VBN IN NN .
+"Prosecutors had accused Passaro of using his feet , hands and a flashlight to beat Abdul Wali during interrogation sessions .",O O O B-per O O O O O O O O O O O B-per I-per O O O O,"NNS VBD VBN NNP IN VBG PRP$ NNS , NNS CC DT NN TO VB NNP NNP IN NN NNS ."
+Wali died from his injuries two days later .,B-per O O O O B-tim O B-tim O,NNP VBD IN PRP$ NNS CD NNS RB .
+Wali was a suspect in rocket attacks on the U.S. military base in Afghanistan where Passaro was stationed .,B-per O O O O O O O O B-geo O O O B-geo O B-per O O O,NNP VBD DT NN IN NN NNS IN DT NNP JJ NN IN NNP WRB NNP VBD VBN .
+Defense attorneys said Passaro was following guidelines approved by his superiors while working as a CIA interrogator .,O O O B-per O O O O O O O O O O O B-org O O,NNP NNS VBD NNP VBD VBG NNS VBN IN PRP$ NNS IN VBG IN DT NNP NN .
+He is the first U.S. civilian charged for abusing prisoners in Afghanistan since the start of the U.S.-led war in 2001 .,O O O O B-geo O O O O O O B-geo O O O O O O O O B-tim O,PRP VBZ DT JJ NNP JJ VBN IN VBG NNS IN NNP IN DT NN IN DT JJ NN IN CD .

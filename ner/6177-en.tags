@@ -1,0 +1,9 @@
+"A Polish woman kidnapped in Iraq has been freed , and she says her captors treated her well during her three-week ordeal .",O B-gpe O O O B-geo O O O O O O O O O O O O O O B-tim O O,"DT JJ NN VBN IN NNP VBZ VBN VBN , CC PRP VBZ PRP$ NNS VBD PRP$ NN IN PRP$ JJ NN ."
+"Teresa Borcz Khalifa spoke to reporters Saturday in the Polish capital , Warsaw , alongside Prime Minister Marek Belka .",B-per I-per I-per O O O B-tim O O B-gpe O O B-geo O O B-per O B-per I-per O,"NNP NNP NNP VBD TO NNS NNP IN DT JJ NN , NNP , IN NNP NNP NNP NNP ."
+"Mr. Belka did not give details of her release , except to say that officials from different government agencies worked with other countries to free her .",B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD RB VB NNS IN PRP$ NN , IN TO VB IN NNS IN JJ NN NNS VBD IN JJ NNS TO VB PRP ."
+The 54-year-old Mrs. Khalifa is married to an Iraqi and has lived in Baghdad for 30 years .,O B-org B-per B-org O O O O B-gpe O O O O B-geo O B-tim O O,DT JJ NNP NNP VBZ VBN TO DT NN CC VBZ VBN IN NNP IN CD NNS .
+She was kidnapped October 27 .,O O O B-tim I-tim O,PRP VBD VBN NNP CD .
+"Meanwhile , the Arab driver of two French reporters kidnapped last August in Iraq has arrived in France with his family .",O O O B-gpe O O O B-gpe O O O B-tim O B-geo O O O B-geo O O O O,"RB , DT JJ NN IN CD JJ NNS VBN JJ NNP IN NNP VBZ VBN IN NNP IN PRP$ NN ."
+The man was rescued from a house in Fallujah last week by U.S. Marines .,O O O O O O O O B-geo O O O B-org I-org O,DT NN VBD VBN IN DT NN IN NNP JJ NN IN NNP NNPS .
+French authorities granted the family permission to live in France .,B-gpe O O O O O O O O B-geo O,JJ NNS VBD DT NN NN TO VB IN NNP .
+The fate of the two journalists is still not known .,O O O O O O O O O O O,DT NN IN DT CD NNS VBZ RB RB VBN .

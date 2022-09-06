@@ -1,0 +1,7 @@
+"A strong earthquake has struck off the coast of Indonesia , but no tsunami alert was issued .",O O O O O O O O O B-geo O O O O O O O O,"DT JJ NN VBZ VBN RP DT NN IN NNP , CC DT NN NN VBD VBN ."
+The U.S. Geological Survey reported a 6.1 magnitude earthquake south of the main island of Java on Monday .,O B-org I-org I-org O O O O O O O O O O O B-geo O B-tim O,DT NNP NNP NNP VBD DT CD NN NN NN IN DT JJ NN IN NNP IN NNP .
+The quake struck about 15 kilometers under the sea .,O O O O O O O O O O,DT NN VBD IN CD NNS IN DT NN .
+There were no immediate reports of injuries or damage .,O O O O O O O O O O,EX VBD DT JJ NNS IN NNS CC NN .
+"Another earthquake that struck off Java 's southern coast last week killed at least 64 people and damaged or destroyed more than 87,000 homes .",O O O O O B-geo O O O O O O O O O O O O O O O O O O O,DT NN WDT VBD RP NNP POS JJ NN JJ NN VBD IN JJS CD NNS CC VBN CC VBN JJR IN CD NNS .
+"That magnitude-7.0 earthquake shook buildings and caused panic in the capital , Jakarta , about 200 kilometers away .",O O O O O O O O O O O O B-geo O O O O O O,"DT JJ NN VBD NNS CC VBD NN IN DT NN , NNP , IN CD NNS RB ."
+"Indonesia 's 18,000 islands sit atop tectonic plates that frequently slam together to cause massive earthquakes .",B-geo O O O O O O O O O O O O O O O O,NNP POS CD NNS VBP IN JJ NNS WDT RB VBP RB TO VB JJ NNS .

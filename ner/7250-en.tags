@@ -1,0 +1,5 @@
+"In Africa , elephant conservation has always been threatened by the illegal ivory trade .",O B-geo O O O O O O O O O O O O O,"IN NNP , NN NN VBZ RB VBN VBN IN DT JJ NN NN ."
+This spring there was another new threat to the elephants when South Africa lifted its 13-year ban against culling .,O O O O O O O O O O O B-geo I-geo O O O O O O O,DT NN EX VBD DT JJ NN TO DT NNS WRB NNP NNP VBD PRP$ JJ NN IN NN .
+"Officials announced plans to thin the herds by 5,000 .",O O O O O O O O O O,NNP VBD NNS TO JJ DT NNS IN CD .
+"Yet , animal advocates argue that elephants are an endangered species .",O O O O O O O O O O O O,"RB , NN NNS VBP IN NNS VBP DT JJ NNS ."
+VOA 's Carolyn Turner reports on the background of the ivory politics .,B-org O B-per I-per O O O O O O O O O,NNP POS NNP NNP VBZ IN DT NN IN DT NN NNS .

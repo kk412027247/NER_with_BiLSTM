@@ -1,0 +1,6 @@
+"Bangladeshi authorities have slaughtered nearly 20,000 chickens after bird flu was detected at a government-run poultry farm .",B-gpe O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN RB CD NNS IN NN NN VBD VBN IN DT JJ NN NN .
+"Officials Tuesday said the latest infection of the potentially deadly H5N1 virus occurred at the farm in Mirpur , just outside Bangladesh 's capital , Dhaka .",O B-tim O O O O O O O O O O O O O O O B-geo O O O B-geo O O O B-geo O,"NNS NNP VBD DT JJS NN IN DT RB JJ NNP NN VBD IN DT NN IN NNP , RB IN NNP POS NN , NNP ."
+The bird flu was first detected in Bangladesh in March of 2007 at a state-owned poultry farm .,O O O O O O O B-geo O B-tim I-tim I-tim O O O O O O,DT NN NN VBD RB VBN IN NNP IN NNP IN CD IN DT JJ NN NN .
+"Since then , the government has slaughtered more than 300,000 chickens .",O O O O O O O O O O O O,"IN RB , DT NN VBZ VBN JJR IN CD NNS ."
+No human cases of infection have been reported so far .,O O O O O O O O O O O,DT JJ NNS IN NN VBP VBN VBN RB RB .
+"Officials say Bangladesh has about 150,000 poultry farms , with an annual turnover of $ 750 million .",O O B-geo O O O O O O O O O O O O O O O,"NNS VBP NNP VBZ IN CD NN NNS , IN DT JJ NN IN $ CD CD ."

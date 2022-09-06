@@ -1,0 +1,9 @@
+"Israel says it will not negotiate with Syria as long as Damascus supports terrorist groups , brushing off a Syrian offer of peace talks .",B-geo O O O O O O B-geo O O O B-geo O O O O O O O B-gpe O O O O O,"NNP VBZ PRP MD RB VB IN NNP RB RB IN NNP VBZ JJ NNS , VBG RP DT JJ NN IN NN NNS ."
+"A spokeswoman for Israeli Prime Minister Ehud Olmert Tuesday also criticized Syria for pro-Hezbollah statements made by its foreign minister , Walid Moualem during the month-long Israel-Hezbollah war .",O O O B-gpe B-per O B-per I-per B-tim O O B-geo O O O O O O O O O B-per I-per O O O O O O,"DT NN IN JJ NNP NNP NNP NNP NNP RB VBD NNP IN JJ NNS VBN IN PRP$ JJ NN , NNP NNP IN DT JJ JJ NN ."
+Syria and Iran are believed to be key suppliers of weapons and money to Hezbollah .,B-geo O B-geo O O O O O O O O O O O B-org O,NNP CC NNP VBP VBN TO VB JJ NNS IN NNS CC NN TO NNP .
+"In an interview broadcast Monday , Syrian President Bashar al-Assad said he is ready to hold talks with Israel but that an impartial arbiter should mediate between the two sides .",O O O O B-tim O B-gpe B-per I-per I-per O O O O O O O O B-geo O O O O O O O O O O O O,"IN DT NN NN NNP , JJ NNP NNP NNP VBD PRP VBZ JJ TO VB NNS IN NNP CC IN DT JJ NN MD VB IN DT CD NNS ."
+The Syrian leader said he doubts the U.S. can play that role .,O B-gpe O O O O O B-geo O O O O O,DT JJ NN VBD PRP VBZ DT NNP MD VB DT NN .
+He said Washington lacks the will and the vision to pursue peace in the Middle East .,O O B-geo O O O O O O O O O O O B-geo I-geo O,PRP VBD NNP VBZ DT NN CC DT NN TO VB NN IN DT NNP NNP .
+Talks between Syria and Israel broke down in 2000 .,O O B-geo O B-geo O O O B-tim O,NNS IN NNP CC NNP VBD RP IN CD .
+Syria has demanded that Israel return the entire Golan Heights .,B-geo O O O B-geo O O O B-geo I-geo O,NNP VBZ VBN IN NNP VB DT JJ NNP NNP .
+Israel seized the Golan Heights in the 1967 Six-Day War .,B-geo O O B-geo I-geo O O B-tim I-tim I-tim O,NNP VBD DT NNP NNPS IN DT CD NNP NNP .

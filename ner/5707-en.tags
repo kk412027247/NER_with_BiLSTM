@@ -1,0 +1,3 @@
+"Scattered over more than three-quarters of a million square kilometers of ocean , the Coral Sea Islands were declared a territory of Australia in 1969 .",O O O O O O O O O O O O O O B-geo I-geo I-geo O O O O O B-geo O B-tim O,"VBN IN JJR IN NNS IN DT CD JJ NNS IN NN , DT NNP NNP NNP VBD VBN DT NN IN NNP IN CD ."
+They are uninhabited except for a small meteorological staff on the Willis Islets .,O O O O O O O O O O O B-geo I-geo O,PRP VBP JJ IN IN DT JJ JJ NN IN DT NNP NNPS .
+"Automated weather stations , beacons , and a lighthouse occupy many other islands and reefs .",O O O O O O O O O O O O O O O O,"VBN NN NNS , NNS , CC DT NN VBP JJ JJ NNS CC NNS ."

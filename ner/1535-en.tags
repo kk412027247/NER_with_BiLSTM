@@ -1,0 +1,9 @@
+"Insurgents in Iraq have ambushed a car in the northern city of Mosul , killing four people .",O O B-geo O O O O O O O O O B-geo O O O O O,"NNS IN NNP VBP VBN DT NN IN DT JJ NN IN NNP , VBG CD NNS ."
+Witnesses say the attack occurred Friday at an intersection in the western part of the city .,O O O O O B-tim O O O O O O O O O O O,NNS VBP DT NN VBD NNP IN DT NN IN DT JJ NN IN DT NN .
+"Three of the victims appeared to be Westerners , while the fourth apparently was their Iraqi driver .",O O O O O O O B-per O O O O O O O B-gpe O O,"CD IN DT NNS VBD TO VB NNS , IN DT NN RB VBD PRP$ JJ NN ."
+There has been no confirmation of the victims ' nationalities .,O O O O O O O O O O O,EX VBZ VBN DT NN IN DT NNS POS NNS .
+The victims ' bodies were seen lying on the road beside their car .,O O O O O O O O O O O O O O,DT NNS POS NNS VBD VBN VBG IN DT NN IN PRP$ NN .
+One victim was nearly decapitated .,O O O O O O,CD NN VBD RB VBN .
+"After the attack , the car was set on fire .",O O O O O O O O O O O,"IN DT NN , DT NN VBD VBN IN NN ."
+"The U.S. military believes some insurgents fled to Mosul early last month , before the U.S.-led operation to crush insurgents in the city of Fallujah .",O B-geo O O O O O O B-geo O O O O O O O O O O O O O O O B-geo O,"DT NNP NN VBZ DT NNS VBD TO VB RB JJ NN , IN DT JJ NN TO VB NNS IN DT NN IN NNP ."
+"Violence in Mosul has increased in recent weeks , and the bodies of dozens of executed Iraqis have turned up in the city .",O O B-geo O O O O O O O O O O O O O B-gpe O O O O O O O,"NN IN NNP VBZ VBN IN JJ NNS , CC DT NNS IN NNS IN VBN NNS VBP VBN RP IN DT NN ."

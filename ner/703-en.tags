@@ -1,0 +1,8 @@
+A Missouri farmer passed away and left 17 mules to his three sons .,O B-geo O O O O O O O O O O O O,DT NNP NN VBD RB CC VBD CD NNS TO PRP$ CD NNS .
+"The instructions left in the will said that the oldest boy was to get one-half , the second oldest one-third , and the youngest one-ninth .",O O O O O O O O O O O O O O O O O O O O O O O O B-tim O,"DT NNS VBD IN DT NN VBD IN DT JJS NN VBD TO VB NN , DT JJ JJS NN , CC DT JJS NN ."
+"The three sons , recognizing the difficulty of dividing 17 mules into these fractions , began to argue .",O O O O O O O O O O O O O O O O O O O,"DT CD NNS , VBG DT NN IN VBG CD NNS IN DT NNS , VBD TO VB ."
+"Their uncle heard about the argument , hitched up his mule and drove out to settle the matter .",O O O O O O O O O O O O O O O O O O O,"PRP$ NN VBD IN DT NN , VBD RP PRP$ NN CC VBD RP TO VB DT NN ."
+"He added his mule to the 17 , making 18 .",O O O O O O B-tim O O O O,"PRP VBD PRP$ NN TO DT CD , VBG CD ."
+"The oldest therefore got one-half , or nine , the second oldest got one-third , or six , and the youngest son got one-ninth , or two .",O O O O O O O O O O O O O O O O O O O O O O O B-tim O O O O,"DT JJS RB VBD NN , CC CD , DT JJ NN VBD NN , CC CD , CC DT JJS NN VBD JJ , CC CD ."
+"Adding up 9 , 6 and 2 equals 17 .",O O B-tim I-tim I-tim I-tim I-tim I-tim I-tim O,"VBG IN CD , CD CC CD NNS CD ."
+"The uncle , having settled the argument , hitched up his mule and drove home .",O O O O O O O O O O O O O O O O,"DT NN , VBG VBN DT NN , VBD RP PRP$ NN CC VBD NN ."

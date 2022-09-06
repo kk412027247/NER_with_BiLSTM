@@ -1,0 +1,9 @@
+"French Prime Minister Dominique de Villepin says European Union membership negotiations with Turkey can not begin unless Ankara recognizes all EU member states , including Cyprus .",B-gpe B-per O B-per I-per I-per O B-org I-org O O O B-org O O O O B-geo O O B-org O O O O B-org O,"JJ NNP NNP NNP NNP NNP VBZ NNP NNP NN NNS IN NNP MD RB VB IN NNP VBZ DT NNP NN NNS , VBG NNP ."
+Mr. de Villepin made the comment during a radio interview Tuesday .,B-per I-per I-per O O O O O O O B-tim O,NNP NNP NNP VBD DT NN IN DT NN NN NNP .
+"In response , Turkish Foreign Minister Abdullah Gul said Ankara expects France 's continued support for Turkey 's EU process .",O O O B-gpe O O B-per I-per O B-geo O B-geo O O O O B-org I-org I-org O O,"IN NN , JJ JJ NN NNP NNP VBD NNP VBZ NNP POS JJ NN IN NNP POS NNP NN ."
+The 25-nation bloc plans to open membership talks with Turkey in October .,O O O O O O O O O B-org O B-tim O,DT JJ NN VBZ TO VB NN NNS IN NNP IN NNP .
+"Last week , Turkey signed an accord that extends its customs agreement with the European Union to new member states .",O O O B-org O O O O O O O O O O B-org I-org O O O O O,"JJ NN , NNP VBD DT NN WDT VBZ PRP$ NNS NN IN DT NNP NNP TO JJ NN NNS ."
+"These include the divided island of Cyprus , which joined the bloc last year .",O O O O O O B-org O O O O O O O O,"DT VBP DT VBN NN IN NNP , WDT VBD DT NN JJ NN ."
+But Turkey said the agreement does not represent a diplomatic recognition of the Greek Cypriot government .,O B-org O O O O O O O O O O O B-gpe I-gpe O O,CC NNP VBD DT NN VBZ RB VB DT JJ NN IN DT JJ JJ NN .
+The EU and most nations view the Greek Cypriot government as the divided island 's legitimate authority .,O B-org O O O O O B-gpe I-gpe O O O O O O O O O,DT NNP CC JJS NNS VBP DT JJ JJ NN IN DT VBN NN POS JJ NN .
+Ankara recognizes a separate government dominated by ethnic Turks .,B-geo O O O O O O O B-gpe O,NNP VBZ DT JJ NN VBN IN JJ NNS .

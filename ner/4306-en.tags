@@ -1,0 +1,6 @@
+Turkish officials say two soldiers and a government-paid village guard were killed in a clash with Kurdish rebels .,B-gpe O O O O O O O O O O O O O O O O O O,JJ NNS VBP CD NNS CC DT JJ NN NN VBD VBN IN DT NN IN JJ NNS .
+They say the fighting erupted in Sirnak province late Saturday .,O O O O O O B-geo O O B-tim O,PRP VBP DT NN VBD IN NNP NN JJ NNP .
+"At least three other soldiers have been killed since Friday , including one who was killed by a landmine .",O O O O O O O O B-tim I-tim O O O O O O O O O O,"IN JJS CD JJ NNS VBP VBN VBN IN NNP , VBG CD WP VBD VBN IN DT NN ."
+"The Kurdistan Workers ' Party , or PKK , has been fighting Turkey for autonomy since 1984 .",O B-org I-org I-org I-org O O B-org O O O O B-org I-org I-org B-tim I-tim O,"DT NNP NNP POS NNP , CC NNP , VBZ VBN VBG NNP IN NN IN CD ."
+"The conflict has claimed more than 37,000 lives .",O O O O O O O O O,DT NN VBZ VBN JJR IN CD NNS .
+"The group called for a ceasefire in October , but Turkey rejected it .",O O O O O O O B-tim O O B-org O O O,"DT NN VBD IN DT NN IN NNP , CC NNP VBD PRP ."

@@ -1,0 +1,8 @@
+Iraqi authorities say gunmen have kidnapped a top Iraqi army officer - the latest insurgent abduction of a senior Iraqi official .,B-gpe O O O O O O O B-gpe O O O O O O O O O O B-gpe O O,JJ NNS VBP NNS VBP VBN DT JJ JJ NN NN IN DT JJS JJ NN IN DT JJ JJ NN .
+Police said Brigadier General Jalal Mohammed Saleh was pulled out of his car in western Baghdad Tuesday and taken away .,O O O B-per I-per I-per I-per O O O O O O O O B-geo B-tim O O O O,NNP VBD NNP NNP NNP NNP NNP VBD VBN IN IN PRP$ NN IN JJ NNP NNP CC VBN RB .
+He was the commander of a special armored division .,O O O O O O O O O O,PRP VBD DT NN IN DT JJ JJ NN .
+Insurgents have kidnapped several senior Iraqi civilian and military officials .,O O O O O B-gpe O O O O O,NNS VBP VBN JJ JJ JJ JJ CC JJ NNS .
+Some of them have been killed .,O O O O O O O,DT IN PRP VBP VBN VBN .
+"Meanwhile , the U.S. military says one American Marine was killed by an explosion in Al Anbar province Monday .",O O O B-geo O O O B-org I-org O O O O O O B-org I-org O B-tim O,"RB , DT NNP NN VBZ CD NNP NNP VBD VBN IN DT NN IN NNP NNP NN NNP ."
+"In another development , the military says a riot erupted at Camp Bucca prison in southern Iraq last week , when some unruly prisoners were being transferred to a different compound .",O O O O O O O O O O O B-geo I-geo O O B-geo I-geo O O O O O O O O O O O O O O O,"IN DT NN , DT NN VBZ DT NN VBD IN NNP NNP NN IN JJ NNP JJ NN , WRB DT JJ NNS VBD VBG VBN TO DT JJ NN ."
+It says the situation was quickly brought under control and four prison guards and 12 inmates suffered minor injuries .,O O O O O O O O O O O O O O O O O O O O,PRP VBZ DT NN VBD RB VBN IN NN CC CD NN NNS CC CD NNS VBD JJ NNS .

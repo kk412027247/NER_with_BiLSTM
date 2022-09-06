@@ -1,0 +1,9 @@
+China says at least 18 people have been killed after moderate earthquake hit a mountainous area in southwest China 's Yunnan province .,B-geo O O O O O O O O O O O O O O O O O B-geo O O O O,NNP VBZ IN JJS CD NNS VBP VBN VBN IN JJ NN VBD DT JJ NN IN JJ NNP POS NNP NN .
+The official Xinhua news agency says the 5.1-magnitude earthquake shook Yunnan 's Yanjin county Saturday morning .,O O B-org O O O O O O O B-org I-org I-org I-org B-tim I-tim O,DT JJ NNP NN NN VBZ DT JJ NN VBD NNP POS NNP NN NNP NN .
+The epicenter of the quake was about 90 kilometers from Zhaotong city .,O O O O O O O O O O B-geo O O,DT NN IN DT NN VBD IN CD NNS IN NNP NN .
+"Rescue teams have been deployed to the area , where large rocks tumbled down from hills onto residential areas .",O O O O O O O O O O O O O O O O O O O O,"NN NNS VBP VBN VBN TO DT NN , WRB JJ NNS VBD RB IN NNS IN JJ NNS ."
+At least 56 houses were reported destroyed in the quake .,O O O O O O O O O O O,IN JJS CD NNS VBD VBN VBN IN DT NN .
+At least 60 people were injured .,O O O O O O O,IN JJS CD NNS VBD VBN .
+They have been taken to hospitals for treatment .,O O O O O O O O O,PRP VBP VBN VBN TO NNS IN NN .
+"Experts with a local seismological bureau told Xinhua that houses in Yanjin were built mostly near hillsides , making them vulnerable to earthquakes .",O O O O O O O B-org O O O B-org O O O O O O O O O O O O,"NNS IN DT JJ JJ NN VBD NNP IN NNS IN NNP VBD VBN RB IN NNS , VBG PRP JJ TO NNS ."
+"Yanjin is a county on the Yunnan-Guizhou plateau with a population of 350,000 people .",B-org O O O O O O O O O O O O O O,NNP VBZ DT NN IN DT NNP NN IN DT NN IN CD NNS .

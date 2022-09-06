@@ -1,0 +1,9 @@
+European Union officials have confirmed the first outbreak of the deadly H5N1 strain of bird flu in an EU country this year .,B-org I-org O O O O O O O O O B-nat O O O O O O B-org O O O O,NNP NNP NNS VBP VBN DT JJ NN IN DT JJ NNP NN IN NN NN IN DT NNP NN DT NN .
+European Commission officials say laboratory tests have confirmed the presence of the deadly strain in geese found dead in Csongrad County in southeastern Hungary .,B-org I-org O O O O O O O O O O O O O O O O O B-geo I-geo O B-geo I-geo O,JJ NNP NNS VBP NN NNS VBP VBN DT NN IN DT JJ NN IN NNS VBN JJ IN NNP NNP IN JJ NNP .
+They say tests were conducted because of an abnormally high mortality rate among the birds .,O O O O O O O O O O O O O O O O,PRP VBP NNS VBD VBN IN IN DT RB JJ NN NN IN DT NNS .
+"Hungarian officials have slaughtered all 3,000 birds in the affected flock .",B-gpe O O O O O O O O O O O,JJ NNS VBP VBN DT CD NNS IN DT JJ NN .
+They also have set up a three-kilometer protection zone and a 10-kilometer surveillance zone around the area .,O O O O O O O O O O O O O O O O O O,PRP RB VBP VBN RP DT JJ NN NN CC DT JJ NN NN IN DT NN .
+The discovery is the first in an EU country since last August .,O O O O O O O B-org O B-tim O B-tim O,DT NN VBZ DT NN IN DT NNP NN IN JJ NNP .
+EU experts are to meet Friday to review the situation .,B-org O O O O B-tim O O O O O,NNP NNS VBP TO VB NNP TO VB DT NN .
+"Meanwhile , Croatia has banned poultry imports from Hungary following the announcement .",O O B-geo O O O O O B-geo O O O O,"RB , NNP VBZ VBN JJ NNS IN NNP VBG DT NN ."
+"Bird flu has killed more than 150 people worldwide since 2003 , mostly in Asia .",O O O O O O O O O B-tim I-tim O O O B-geo O,"NN NN VBZ VBN JJR IN CD NNS JJ IN CD , RB IN NNP ."

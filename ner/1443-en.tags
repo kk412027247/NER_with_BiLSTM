@@ -1,0 +1,8 @@
+"China estimates 700,000 of its citizens will be either be HIV-positive or living with full-blown AIDS by the end of 2007 .",B-gpe O O O O O O O O O O O O O O O O O B-tim I-tim I-tim O,NNP VBZ CD IN PRP$ NNS MD VB RB VB JJ CC VBG IN JJ NNP IN DT NN IN CD .
+Health Minister Chen Zhu announced the statistics Thursday in a press conference in Beijing .,O B-per I-per I-per O O O B-tim O O O O O B-geo O,NNP NNP NNP NNP VBD DT NNS NNP IN DT NN NN IN NNP .
+"He says the total includes 85,000 Chinese with AIDS .",O O O O O O B-gpe O O O,PRP VBZ DT NN VBZ CD NNS IN NNP .
+"The estimates are part of a joint report compiled by Beijing , the United Nations and the World Health Organization .",O O O O O O O O O O B-geo O O B-org I-org O O B-org I-org I-org O,"DT NNS VBP NN IN DT JJ NN VBN IN NNP , DT NNP NNPS CC DT NNP NNP NNP ."
+"China had an estimated 650,000 HIV / AIDS infections at the end of 2006 .",B-geo O O O O O O O O O O B-tim I-tim I-tim O,NNP VBD DT VBN CD NNP CC NNP NNS IN DT NN IN CD .
+"Officially , over 223,000 Chinese were diagnosed as HIV-positive by the end of October , including more than 62,000 who already have full-blown AIDS .",O O O O B-gpe O O O O O O B-tim I-tim I-tim O O O O O O O O O O O,"RB , IN CD NNS VBD VBN IN JJ IN DT NN IN NNP , VBG JJR IN CD WP RB VBP JJ NNP ."
+"Of the new infections , nearly 45 percent will come from heterosexual transmission , with 42 percent as the result of intravenous drug use .",O O O O O O O O O O O O O O O O O O O O O O O O O,"IN DT JJ NNS , RB CD NN MD VB IN JJ NN , IN CD NN IN DT NN IN JJ NN NN ."
+Just over 12 percent will come from homosexual activity .,O O O O O O O O O O,RB IN CD NN MD VB IN JJ NN .

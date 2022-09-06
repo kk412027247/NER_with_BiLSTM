@@ -1,0 +1,5 @@
+"Kuwait 's ambassador to Lebanon says a hand grenade exploded inside his country 's information office in Beirut , killing a Lebanese employee .",B-geo O O O B-geo O O O O O O O O O O O O B-geo O O O B-gpe O O,"NNP POS NN TO NNP VBZ DT NN NN VBD IN PRP$ NN POS NN NN IN NNP , VBG DT JJ NN ."
+But Ambassador Ali Suleiman al-Seed told reporters the blast was not an act of terrorism .,O O B-per I-per I-per O O O O O O O O O O O,CC NNP NNP NNP NNP VBD NNS DT NN VBD RB DT NN IN NN .
+He says the man was playing around with some old explosives when the grenade went off .,O O O O O O O O O O O O O O O O O,PRP VBZ DT NN VBD VBG RP IN DT JJ NNS WRB DT NN VBD RB .
+The Associated Press quotes the ambassador as saying the grenade was left over from Lebanon 's 1975 to 1990 civil war .,B-org I-org I-org O O O O O O O O O O O B-geo B-tim I-tim I-tim I-tim O O O,DT NNP NNP VBZ DT NN IN VBG DT NN VBD VBN RP IN NNP POS CD TO CD JJ NN .
+"Earlier , Lebanese security officials said the blast was caused by a parcel bomb .",O O B-gpe O O O O O O O O O O O O,"RB , JJ NN NNS VBD DT NN VBD VBN IN DT NN NN ."

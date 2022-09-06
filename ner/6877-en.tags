@@ -1,0 +1,5 @@
+The U.S. military in Afghanistan says a U.S. Marine and an American solider were killed in separate insurgent attacks Monday .,O B-geo O O B-geo O O B-org I-org O O B-gpe O O O O O O O B-tim O,DT NNP NN IN NNP VBZ DT NNP NN CC DT JJ NN VBD VBN IN JJ JJ NNS NNP .
+The military says the marine was killed when suspected Taleban insurgents fired rocket-propelled grenades and mortars at a U.S. base near the eastern city of Asadabad .,O O O O O O O O O B-org O O O O O O O O B-geo O O O O O O B-geo O,DT JJ VBZ DT NN VBD VBN WRB VBN NNP NNS VBD JJ NNS CC NNS IN DT NNP NN IN DT JJ NN IN NNP .
+The military says the solider was killed when his unit came under similar attack near the southern city of Kandahar .,O O O O O O O O O O O O O O O O O O O B-geo O,DT JJ VBZ DT NN VBD VBN WRB PRP$ NN VBD IN JJ NN IN DT JJ NN IN NNP .
+The attacks occured just a week after Afghanistan held landmark general elections .,O O O O O O O B-geo O O O O O,DT NNS VBD RB DT NN IN NNP VBD JJ JJ NNS .
+The election took place without any major violence despite Taleban threats to disrupt the vote .,O O O O O O O O O B-org O O O O O O,DT NN VBD NN IN DT JJ NN IN NNP NNS TO VB DT NN .

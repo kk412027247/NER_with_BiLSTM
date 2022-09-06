@@ -1,0 +1,7 @@
+An Indonesian court has sentenced an alleged Muslim militant accused in last year 's Australian embassy bombing to four years in prison .,O B-gpe O O O O O O O O O O O O B-org O O O O O O O O,DT JJ NN VBZ VBN DT JJ NN NN VBN IN JJ NN POS JJ NN VBG TO CD NNS IN NN .
+The court in Jakarta ruled Tuesday that Agus Ahmad helped the perpetrators of the attack by transporting and hiding the explosive material used in the bombing .,O O O B-geo O B-tim O B-per I-per O O O O O O O O O O O O O O O O O O,DT NN IN NNP VBD NNP IN NNP NNP VBD DT NNS IN DT NN IN VBG CC VBG DT JJ NN VBN IN DT NN .
+"Ahmad said he would appeal the verdict , which was less than the five years prosecutors had demanded .",B-per O O O O O O O O O O O O B-tim O O O O O,"NNP VBD PRP MD VB DT NN , WDT VBD JJR IN DT CD NNS NNS VBD VBN ."
+The court could have sentenced him to death .,O O O O O O O O O,DT NN MD VB VBN PRP TO NN .
+"The September 8 , 2004 suicide bombing was blamed on the al-Qaida-linked regional terror group Jemaah Islamiyah .",O B-tim I-tim I-tim I-tim O O O O O O O O O O B-org I-org O,"DT NNP CD , CD NN NN VBD VBN IN DT JJ JJ NN NN NNP NNP ."
+At least 10 people were killed in the attack .,O O O O O O O O O O,IN JJS CD NNS VBD VBN IN DT NN .
+"Jemaah Islamiyah has also been blamed for the Bali and Marriott bombings , as well as a string of other recent attacks in Indonesia .",B-org I-org O O O O O O B-geo O B-geo O O O O O O O O O O O O B-geo O,"NNP NNP VBZ RB VBN VBN IN DT NNP CC NNP NNS , RB RB IN DT NN IN JJ JJ NNS IN NNP ."

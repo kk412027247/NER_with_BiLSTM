@@ -1,0 +1,5 @@
+"An outbreak of the deadly H5N1 strain of bird flu has killed at least four peacocks and one goose in the Pakistani capital , Islamabad .",O O O O O O O O O O O O O O O O O O O O O B-gpe O O B-geo O,"DT NN IN DT JJ NNP NN IN NN NN VBZ VBN IN JJS CD NNS CC CD NN IN DT JJ NN , NNP ."
+A livestock official from the ministry of Food and Agriculture said test results confirmed the presence of H5N1 and that affected birds are being destroyed .,O O O O O O O B-org I-org I-org O O O O O O O O O O O O O O O O,DT NN NN IN DT NN IN NNP CC NNP VBD NN NNS VBD DT NN IN NNP CC IN JJ NNS VBP VBG VBN .
+Officials have closed Islamabad 's Marghzar zoo where the outbreak occurred .,O O O B-geo O B-geo O O O O O O,NNS VBP VBN NNP POS NNP NN WRB DT NN VBD .
+This is the fourth case of deadly bird flu detected in Pakistan .,O O O O O O O O O O O B-geo O,DT VBZ DT JJ NN IN JJ NN NN VBN IN NNP .
+No human cases have been recorded .,O O O O O O O,DT JJ NNS VBP VBN VBN .

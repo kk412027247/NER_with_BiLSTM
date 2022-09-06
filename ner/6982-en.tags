@@ -1,0 +1,8 @@
+"European markets opened mixed Wednesday , following gains in Tokyo and Hong Kong .",O O O O B-tim O O O O B-geo O B-geo I-geo O,"JJ NNS VBD JJ NNP , VBG NNS IN NNP CC NNP NNP ."
+"Markets in London and Paris are up 5 and 6 percent , while Frankfurt is down nearly 2 percent .",O O B-geo O B-geo O O O O O O O O B-geo O O O O O O,"NNS IN NNP CC NNP VBP IN CD CC CD NN , IN NNP VBZ RB RB CD NN ."
+"Tokyo 's Nikkei index rallied late in the day to close up nearly 7.75 percent , following speculation that Japan 's central bank might cut interest rates .",B-geo O B-geo O O O O O O O O O O O O O O O O B-geo O O O O O O O O,"NNP POS NNP NN VBD RB IN DT NN TO VB RP RB CD NN , VBG NN IN NNP POS JJ NN MD VB NN NNS ."
+The Hang Seng in Hong Kong finished about one percent higher .,O B-per I-per O B-geo I-geo O O O O O O,DT NNP NNP IN NNP NNP VBD IN CD NN JJR .
+An announcement by the U.S. central bank on interest rates is expected later Wednesday .,O O O O B-geo O O O O O O O B-tim I-tim O,DT NN IN DT NNP JJ NN IN NN NNS VBZ VBN RB NNP .
+Rate cuts reduce the cost of borrowing and can boost economic activity .,O O O O O O O O O O O O O,NN NNS VBP DT NN IN NN CC MD VB JJ NN .
+"On Tuesday in New York , the benchmark Dow Jones Industrial Average jumped nearly 11 percent and other U.S. indexes also gained .",O B-tim O B-geo I-geo O O O B-geo I-geo I-geo I-geo O O B-tim O O O B-geo O O O O,"IN NNP IN NNP NNP , DT JJ NNP NNP NNP NNP VBD RB CD NN CC JJ NNP NNS RB VBD ."
+"The gains recovered some of the losses of previous trading sessions , and follow a series of government efforts to bolster the battered global economy .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBD DT IN DT NNS IN JJ NN NNS , CC VB DT NN IN NN NNS TO VB DT JJ JJ NN ."

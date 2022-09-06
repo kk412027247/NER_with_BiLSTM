@@ -1,0 +1,10 @@
+A Kurdish news agency says Turkish warplanes have bombed Kurdish rebel positions in northern Iraq .,O O O O O B-gpe O O O O O O O O B-geo O,DT JJ NN NN VBZ JJ NNS VBP VBN JJ NN NNS IN JJ NNP .
+"The Firat news agency quotes Kurdish party officials as saying Turkish jets hit the Hakurk region Wednesday near the borders of Iraq , Iran and Turkey .",O B-org O O O O O O O O B-gpe O O O O O B-tim O O O O B-geo O B-geo O B-geo O,"DT NNP NN NN VBZ JJ NN NNS IN VBG JJ NNS VBD DT NNP NN NNP IN DT NNS IN NNP , NNP CC NNP ."
+It said there were no reports of casualties .,O O O O O O O O O,PRP VBD EX VBD DT NNS IN NNS .
+"A spokesman for the outlawed Kurdistan Workers ' Party , or PKK , confirmed the strike .",O O O O O B-org I-org I-org I-org O O B-org O O O O O,"DT NN IN DT JJ NNP NNP POS NNP , CC NNP , VBD DT NN ."
+There was no official confirmation from the Turkish military .,O O O O O O O B-gpe O O,EX VBD DT JJ NN IN DT JJ NN .
+Turkey accuses the PKK of using strongholds in northern Iraq to launch attacks .,B-geo O O B-org O O O O O B-geo O O O O,NNP VBZ DT NN IN VBG NNS IN JJ NNP TO VB NNS .
+The military has conducted several air strikes and at least one ground incursion into Iraq against the rebels this year .,O O O O O O O O O O O O O O B-geo O O O O O O,DT NN VBZ VBN JJ NN NNS CC IN JJS CD NN NN IN NNP IN DT NNS DT NN .
+The PKK has been fighting for Kurdish autonomy in Turkey 's mainly Kurdish southeast for nearly 25 years .,O B-org O O O O O O O B-geo O O O O O O B-tim O O,DT NNP VBZ VBN VBG IN NNP NN IN NNP POS RB JJ NN IN RB CD NNS .
+"That violence has killed more than 30,000 people .",O O O O O O O O O,DT NN VBZ VBN JJR IN CD NNS .
+"Turkey , the United States and other nations have designated the PKK a terrorist group .",B-geo O O B-geo I-geo O O O O O O B-org O O O O,"NNP , DT NNP NNPS CC JJ NNS VBP VBN DT NNP DT JJ NN ."

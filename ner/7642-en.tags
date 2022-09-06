@@ -1,0 +1,4 @@
+"Authorities in northwestern Pakistan say a minibus - hit by falling rock - has plunged into a ravine , killing 15 people .",O O O B-geo O O O O O O O O O O O O O O O O O O O,"NNS IN JJ NNP VBP DT NN IN VBN IN VBG NN : VBZ VBN IN DT NN , VBG CD NNS ."
+Four others survived with injuries .,O O O O O O,CD NNS VBD IN NNS .
+"The authorities say the driver to lost control of the bus Sunday on the road to Mansehra from Balakot , a town devastated by last year 's earthquake .",O O O O O O O O O O O B-tim O O O O B-geo O B-geo O O O O O O O O O O,"DT NNS VBP DT NN TO JJ NN IN DT NN NNP IN DT NN TO NNP IN NNP , DT NN VBN IN JJ NN POS NN ."
+"Landslides are common in the mountainous region , where the October 8 quake last year killed more than 73,000 people .",O O O O O O O O O O B-tim I-tim I-tim O O O O O O O O,"NNS VBP JJ IN DT JJ NN , WRB DT NNP CD NN JJ NN VBD JJR IN CD NNS ."

@@ -1,0 +1,7 @@
+"The European Union has warned Saudi Arabia it will take action at the World Trade Organization , if the kingdom supports a widening Muslim boycott of Danish products .",O B-org I-org O O B-per I-per O O O O O O O O O O O O O O O O O O O B-gpe O O,"DT NNP NNP VBZ VBN NNP NNP PRP MD VB NN IN DT NNP NNP NNP , IN DT NN VBZ DT NN NN NN IN JJ NNS ."
+EU Trade Commissioner Peter Mandelson issued the warning as protests over cartoons of the Prophet Muhammad spread across the Muslim world .,B-org O O B-per I-per O O O O O O O O O B-org I-org O O O O O O,NNP NNP NNP NNP NNP VBD DT NN IN NNS IN NNS IN DT NNP NNP VBD IN DT NNP NN .
+The cartoons were published in a Danish newspaper in September and include an image of the prophet wearing a turban shaped like a bomb .,O O O O O O B-gpe O O B-tim O O O O O O O O O O O O O O O,DT NNS VBD VBN IN DT JJ NN IN NNP CC VBP DT NN IN DT NN VBG DT NN VBN IN DT NN .
+"In the Gaza Strip Monday , gunmen briefly occupied an EU office .",O O B-geo I-geo B-tim O O O O O B-org O O,"IN DT NNP NNP NNP , NNS RB VBD DT NNP NN ."
+"And a Danish dairy company , Arla Foods , says its products have been boycotted throughout the Middle East .",O O B-gpe O O O B-org I-org O O O O O O O O O B-geo I-geo O,"CC DT JJ NN NN , NNP NNP , VBZ PRP$ NNS VBP VBN VBN IN DT NNP NNP ."
+"Last week , Saudi Arabia recalled its ambassador to Denmark .",O O O B-per I-per O O O O B-geo O,"JJ NN , NNP NNP VBD PRP$ NN TO NNP ."
+Libya has already closed its embassy in Denmark .,B-geo O O O O O O B-geo O,NNP VBZ RB VBN PRP$ NN IN NNP .

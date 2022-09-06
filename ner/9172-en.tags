@@ -1,0 +1,6 @@
+"The U.S. military says an American soldier was killed in Iraq 's restive al-Anbar province , as U.S. and Iraqi forces continued their offensive to hunt down insurgents in western Iraq .",O B-geo O O O B-gpe O O O O B-geo O O O O O O B-geo O B-gpe O O O O O O O O O O B-geo O,"DT NNP NN VBZ DT JJ NN VBD VBN IN NNP POS JJ JJ NN , IN NNP CC JJ NNS VBD PRP$ NN TO VB RP NNS IN JJ NNP ."
+The military says the soldier was killed late Friday during security operations in Anbar .,O O O O O O O O B-tim O O O O B-geo O,DT JJ VBZ DT NN VBD VBN JJ NNP IN NN NNS IN NNP .
+No other details were given .,O O O O O O,DT JJ NNS VBD VBN .
+U.S. Marines swept through the Iraqi town of Haditha in Anbar province early Saturday .,B-geo B-per O O O B-gpe O O B-geo O B-geo O O B-tim O,NNP NNPS VBD IN DT JJ NN IN NNP IN NNP NN JJ NNP .
+A Reuters report says soldiers destroyed a cache of weapons and briefly exchanged fire with guerrillas .,O B-org O O O O O O O O O O O O O O O,DT NNP NN VBZ NNS VBD DT NN IN NNS CC RB VBD NN IN NNS .
+"Insurgents also continued assaults on Iraq 's strategic infrastructure , blowing up a section of an oil pipeline in the oil-rich northern region of Kirkuk late Friday .",O O O O O B-geo O O O O O O O O O O O O O O O O O O B-geo O B-tim O,"NNS RB VBD NNS IN NNP POS JJ NN , VBG RP DT NN IN DT NN NN IN DT JJ JJ NN IN NNP JJ NNP ."

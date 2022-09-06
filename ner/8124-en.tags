@@ -1,0 +1,8 @@
+"A study indicates that the average level of nicotine in cigarettes has risen 10 percent in the past six years , making it harder for smokers to quit .",O O O O O O O O O O O O O O O O O B-tim I-tim O O O O O O O O O O,"DT NN VBZ IN DT JJ NN IN NN IN NNS VBZ VBN CD NN IN DT JJ CD NNS , VBG PRP JJR IN NNS TO VB ."
+The health department for the state of Massachusetts released a study this week .,O O O O O O O B-geo O O O O O O,DT NN NN IN DT NN IN NNP VBD DT NN DT NN .
+It shows how much nicotine content has changed and how much nicotine smokers inhale when they smoke .,O O O O O O O O O O O O O O O O O O,PRP VBZ WRB JJ NN NN VBZ VBN CC WRB JJ NN NNS VBP WRB PRP VBP .
+The study said cigarettes in 2004 yielded the smoker nearly 10 percent more nicotine per cigarette than in 1998 .,O O O O O B-tim O O O O O O O O O O O O B-tim O,DT NN VBD NNS IN CD VBD DT NN RB CD NN JJR NN IN NN IN IN CD .
+"The increase in nicotine levels varied by brand , with some increasing as much as 30 percent .",O O O O O O O O O O O O O O O O O O,"DT NN IN JJ NNS VBN IN NN , IN DT VBG RB JJ IN CD NN ."
+Fifty two out of 116 brands studied had nicotine increases of more than 10 percent .,O O O O O O O O O O O O O O O O,CD CD IN IN CD NNS VBN VBD JJ NNS IN JJR IN CD NN .
+Health experts say higher nicotine content makes cigarettes more addictive and smoking harder to quit .,O O O O O O O O O O O O O O O O,NN NNS VBP JJR JJ NN VBZ NNS RBR JJ CC NN JJR TO VB .
+U.S. tobacco companies have not commented on the study .,B-geo O O O O O O O O O,NNP NN NNS VBP RB VBN IN DT NN .

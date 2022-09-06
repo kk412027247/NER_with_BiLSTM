@@ -1,0 +1,7 @@
+Afghan President Hamid Karzai has marked the Muslim holiday of Eid al-Fitr with a call for peace .,B-gpe B-per I-per I-per O O O B-org I-org I-org I-org I-org O O O O O O,JJ NNP NNP NNP VBZ VBN DT NNP NN IN NNP NNP IN DT NN IN NN .
+Mr. Karzai called on Taliban militants Sunday to renounce violence and join the peace process .,B-per I-per O O B-org O B-tim O O O O O O O O O,NNP NNP VBD IN NNP NNS NNP TO VB NN CC VB DT NN NN .
+He says insurgents can lay down their arms and help rebuild their war-torn country .,O O O O O O O O O O O O O O O,PRP VBZ NNS MD VB RP PRP$ NNS CC VB VB PRP$ JJ NN .
+"Meanwhile , the Taliban 's leader has made his own statement for the festival of Eid .",O O O B-org O O O O O O O O O O O B-org O,"RB , DT NNP POS NN VBZ VBN PRP$ JJ NN IN DT NN IN NNP ."
+Mullah Omar warns that U.S. and NATO forces will face defeat in Afghanistan .,B-per I-per O O B-geo O B-org O O O O O B-geo O,NNP NNP VBZ IN NNP CC NNP NNS MD VB NN IN NNP .
+"In a statement Saturday , Omar said Westerners need only study Afghanistan 's history to see that they will fail .",O O O B-tim O B-per O B-per O O O B-geo O O O O O O O O O,"IN DT NN NNP , NNP VBD NNS VBP RB VB NNP POS NN TO VB IN PRP MD VB ."
+The Taliban leader is thought to be in Pakistan but has not been seen in public for years .,O B-org O O O O O O B-geo O O O O O O O O O O,DT NNP NN VBZ VBN TO VB IN NNP CC VBZ RB VBN VBN IN JJ IN NNS .

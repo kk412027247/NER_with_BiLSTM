@@ -1,0 +1,6 @@
+The Discovery Channel and NASA have restored 50 years of history for the U.S. space agency 's archives .,O B-org I-org O B-org O O B-tim O O O O O B-geo O O O O O,DT NNP NNP CC NNP VBP VBN CD NNS IN NN IN DT NNP NN NN POS NNS .
+"Discovery has used the material to produce a documentary series called , When We Left Earth :",B-org O O O O O O O O O O O B-art I-art I-art I-art I-art,"NNP VBZ VBN DT NN TO VB DT NN NN VBN , WRB PRP VBD NNP :"
+The NASA Missions .,B-art I-art I-art O,DT NNP NNPS .
+It will be broadcast internationally next month .,O O O O O O O O,PRP MD VB VBN RB JJ NN .
+"This week in Washington , former senator and astronaut John Glenn joined members of the U.S. Congress , officials from NASA and others for a sneak preview .",O O B-tim B-geo O O O O O B-per I-per O O O O B-org I-org O O O B-org O O O O O O O,"DT NN IN NNP , JJ NN CC NN NNP NNP VBD NNS IN DT NNP NNP , NNS IN NNP CC NNS IN DT NN NN ."
+VOA 's Paul Sisco reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

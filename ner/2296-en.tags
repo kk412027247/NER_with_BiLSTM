@@ -1,0 +1,8 @@
+U.S. and Iraqi soldiers battled insurgents for a second day in an Iraqi border town that is believed to be a key entry point for foreign fighters and weapons from Syria .,B-geo O B-gpe O O O O O B-tim I-tim O O B-gpe O O O O O O O O O O O O O O O O O B-geo O,NNP CC JJ NNS VBD NNS IN DT JJ NN IN DT JJ NN NN WDT VBZ VBN TO VB DT JJ NN NN IN JJ NNS CC NNS IN NNP .
+U.S. commanders said attackers fired small arms and rockets at coalition forces as they conducted house by house searches in Husaybah .,B-geo O O O O O O O O O O O O O O O O O O O B-geo O,NNP NNS VBD NNS VBD JJ NNS CC NNS IN NN NNS IN PRP VBD NN IN NN NNS IN NNP .
+Officials said at least 17 insurgents have been killed and dozens arrested since the operation began Saturday .,O O O O O O O O O O O O O O O O B-tim O,NNS VBD IN JJS CD NNS VBP VBN VBN CC NNS VBN IN DT NN VBD NNP .
+Three Marines also were reported injured .,O B-org O O O O O,CD NNS RB VBD VBN NN .
+Coalition airstrikes hit what were described as insurgent strongholds in the Euphrates river town .,O O O O O O O O O O O B-geo O O O,NN NNS VBD WP VBD VBN IN JJ NNS IN DT NNP NN NN .
+"Many residents fled the town ahead of the offensive , and coalition forces said about 450 people had been granted temporary refuge in the area .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBD DT NN RB IN DT NN , CC NN NNS VBD IN CD NNS VBD VBN VBN JJ NN IN DT NN ."
+U.S. officials say Husaybah is a key base for foreign fighters and arms from Syria .,B-geo O O B-geo O O O O O O O O O O B-geo O,NNP NNS VBP NNP VBZ DT JJ NN IN JJ NNS CC NNS IN NNP .
+Syria has denied giving support to insurgents .,B-geo O O O O O O O,NNP VBZ VBN VBG NN TO NNS .

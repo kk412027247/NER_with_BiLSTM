@@ -1,0 +1,6 @@
+The U.S. government says it has distributed nearly $ 690 million in direct aid to the victims of Hurricane Katrina .,O B-geo O O O O O O O O O O O O O O O O O O O,DT NNP NN VBZ PRP VBZ VBN RB $ CD CD IN JJ NN TO DT NNS IN NNP NNP .
+"The Federal Emergency Management Agency says it has distributed the money among more than 330,000 families displaced by the catastrophic storm .",O B-org I-org I-org I-org O O O O O O O O O O O O O O O O O,DT NNP NNP NNP NNP VBZ PRP VBZ VBN DT NN IN JJR IN CD NNS VBN IN DT JJ NN .
+"The majority of the money ( $ 551 million ) has been handed out to 268,000 families in the hard-hit state of Louisiana .",O O O O O O O O O O O O O O O O O O O O O O B-geo O,DT NN IN DT NN LRB $ CD CD RRB VBZ VBN VBN RP TO CD NNS IN DT JJ NN IN NNP .
+"Much of the money has been given out in the form of $ 2,000 grants .",O O O O O O O O O O O O O O O O,NN IN DT NN VBZ VBN VBN RP IN DT NN IN $ CD NNS .
+FEMA has been criticized for what many say was a slow response to Hurricane Katrina .,B-org O O O O O O O O O O O O O O O,NNP VBZ VBN VBN IN WP NN VBP VBD DT JJ NN TO NNP NNP .
+"Michael Brown , the agency 's director , was removed this week from heading relief operations in the Gulf Coast .",B-per I-per O O O O O O O O O O O O O O O O B-geo I-geo O,"NNP NNP , DT NN POS NN , VBD VBN DT NN IN VBG NN NNS IN DT NNP NNP ."

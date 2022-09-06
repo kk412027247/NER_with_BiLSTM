@@ -1,0 +1,6 @@
+"Is the leader of Coldplay icy to the press ? A Brazilian journalist claims Chris Martin is so rude that he feels sorry for his wife , actress Gwyneth Paltrow .",O O O O B-geo O O O O O O B-gpe O O B-per I-per O O O O O O O O O O O O B-per I-per O,"VBZ DT NN IN NNP NN TO DT NN . DT JJ NN VBZ NNP NNP VBZ RB JJ IN PRP VBZ RB IN PRP$ NN , NN NNP NNP ."
+"A writer from Folha de Sao Paolo opined "" Gwyneth Paltrow must suffer .",O O O B-org I-org I-org I-org O O B-per I-per O O O,DT NN IN NNP NNP NNP NNP VBD RQU NNP NNP MD VB .
+"Chris Martin , her husband , is n't one of the nicest persons on earth .",B-per I-per O O O O O O O O O O O O O O,"NNP NNP , PRP$ NN , VBZ RB CD IN DT JJS NNS IN NN ."
+"At least that 's what it seemed on the 20-minute press conference . """,O O O O O O O O O O O O O O,IN JJS DT VBZ WP PRP VBD IN DT JJ NN NN . LQU
+"While in Brazil , Chris Martin became testy when a reporter asked him if he were planning a duet with Gwyneth .",O O B-geo O B-per I-per O O O O O O O O O O O O O O B-per O,"IN IN NNP , NNP NNP VBD NN WRB DT NN VBD PRP IN PRP VBD VBG DT NN IN NNP ."
+He also complained that all that matters in today 's pop market is that one 's song becomes a ringtone .,O O O O O O O O B-tim O O O O O O O O O O O O,PRP RB VBD IN DT IN NNS IN NN POS NN NN VBZ IN NN POS NN VBZ DT NN .

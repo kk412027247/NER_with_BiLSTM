@@ -1,0 +1,5 @@
+View flash slideshow narrated by Sgt. Roche,O O O O O B-per I-per,VB NN NN VBN IN NNP NNP
+US Army Sergeant Joe Roche served in Baghdad for 15 months with the 16th Engineer Battalion of the 1st Armored Division .,B-org I-org B-per I-per I-per O O B-geo O O O O O B-org I-org I-org O O B-org I-org I-org O,NNP NNP NNP NNP NNP VBD IN NNP IN CD NNS IN DT JJ NNP NNP IN DT CD NNP NNP .
+"His unit worked on helping rebuild Iraq 's infrastructure , including schools and sewage systems , while fighting insurgents and terrorists .",O O O O O O B-geo O O O O O O O O O O O O O O O,"PRP$ NN VBD IN VBG VB NNP POS NN , VBG NNS CC NN NNS , IN VBG NNS CC NNS ."
+His unit also helped train new Iraqi soldiers .,O O O O O O B-gpe O O,PRP$ NN RB VBD VB JJ JJ NNS .
+The following are pictures he took during his stay in Iraq .,O O O O O O O O O O B-geo O,DT VBG VBP NNS PRP VBD IN PRP$ NN IN NNP .

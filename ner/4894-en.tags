@@ -1,0 +1,8 @@
+"A top World Health Organization official says the H1N1 swine flu virus is "" unstoppable "" and says every country needs the vaccine .",O O B-org I-org I-org O O O O O O O O O O O O O O O O O O O,DT JJ NNP NNP NNP NN VBZ DT NNP NN NN NN VBZ LQU JJ RQU CC VBZ DT NN VBZ DT NN .
+WHO vaccine research chief Marie-Paule Kieny said Monday that health care workers should get immunized first because they are needed during an outbreak .,B-org O O O B-org I-org O B-tim O O O O O O O O O O O O O O O O,NNP NN NN NN NNP NNP VBD NNP IN NN NN NNS MD VB VBN RB IN PRP VBP VBN IN DT NN .
+She said authorities must then decide who gets shots next .,O O O O O O O O O O O,PRP VBD NNS MD RB VB WP VBZ NNS JJ .
+Swine flu is mild in healthy people and most victims do not need hospitalization .,O O O O O O O O O O O O O O O,NNP NN VBZ JJ IN JJ NNS CC JJS NNS VBP RB VB NN .
+"But the virus can be severe and even deadly in those with other serious health concerns , including asthma and pregnancy .",O O O O O O O O O O O O O O O O O O O O O O,"CC DT NN MD VB JJ CC RB JJ IN DT IN JJ JJ NN NNS , VBG NN CC NN ."
+Researchers also say that extreme obesity is now considered a risk factor for a severe reaction .,O O O O O O O O O O O O O O O O O,NNS RB VBP IN JJ NN VBZ RB VBN DT NN NN IN DT JJ NN .
+"Meanwhile , officials in Britain , Thailand , and the Philippines all reported new swine flu deaths Monday .",O O O O B-geo O B-geo O O O B-org O O O O O O B-tim O,"RB , NNS IN NNP , NNP , CC DT NNPS DT VBD JJ JJ NN NNS NNP ."
+"The latest WHO report confirms nearly 95,000 swine flu cases around the world , with 429 deaths .",O O B-org O O O O O O O O O O O O O O O,"DT JJS NNP NN VBZ RB CD JJ NN NNS IN DT NN , IN CD NNS ."

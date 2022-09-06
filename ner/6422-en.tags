@@ -1,0 +1,6 @@
+"A hijacker seized a Sudanese passenger plane Wednesday and forced the pilot to fly to the Chadian capital , N'Djamena , before surrendering to authorities there .",O O O O B-gpe O O B-tim O O O O O O O O B-gpe O O B-geo O O O O O O O,"DT NN VBD DT JJ NN NN NNP CC VBD DT NN TO VB TO DT JJ NN , NNP , IN VBG TO NNS RB ."
+No one was injured .,O O O O O,DT NN VBD VBN .
+"Officials say the plane , carrying 103 passengers , was hijacked this morning after it took off from Khartoum for Sudan 's western city of Al-Fasher .",O O O O O O O O O O O B-tim I-tim O O O O O B-org I-org I-org O O O O O O,"NNS VBP DT NN , VBG CD NNS , VBD VBN DT NN IN PRP VBD RP IN NNP IN NNP POS JJ NN IN NNP ."
+Chadian forces surrounded the plane shortly after it landed in N'Djamena .,B-gpe O O O O O O O O O B-geo O,JJ NNS VBN DT NN RB IN PRP VBD IN NNP .
+"Officials say the hijacker was armed with a pistol and wanted the plane to be flown to Britain , where he wanted asylum .",O O O O O O O O O O O O O O O O O B-geo O O O O O O,"NNS VBP DT NN VBD VBN IN DT NN CC VBD DT NN TO VB VBN TO NNP , WRB PRP VBD NN ."
+"When told there was not enough fuel , he agreed to go to neighboring Chad .",O O O O O O O O O O O O O O B-geo O,"WRB VBN EX VBD RB JJ NN , PRP VBD TO VB TO JJ NNP ."

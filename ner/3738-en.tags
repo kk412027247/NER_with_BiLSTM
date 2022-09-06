@@ -1,0 +1,4 @@
+"At least 30 people were killed in a theater fire that broke out Monday night in the Egyptian town of Beni Suef , about 100 kilometers south of Cairo .",O O O O O O O O O O O O O B-tim I-tim O B-geo B-gpe O O B-geo I-geo O O O O O O B-geo O,"IN JJS CD NNS VBD VBN IN DT NN NN WDT VBD RP NNP NN IN DT JJ NN IN NNP NNP , IN CD NNS RB IN NNP ."
+At least 45 were injured .,O O O O O O,IN JJS CD VBD VBN .
+"Candles being used by performers came into contact with the stage curtains during a play , panicking the crowd of about 1000 people who fled the theater .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBG VBN IN NNS VBD IN NN IN DT NN NNS IN DT NN , VBG DT NN IN IN CD NNS WP VBD DT NN ."
+Some of the victims are believed to have been trampled underfoot .,O O O O O O O O O O O O,DT IN DT NNS VBP VBN TO VB VBN VBN NN .

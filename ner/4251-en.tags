@@ -1,0 +1,4 @@
+"The Gallup World Poll recently released details of a massive survey of more than 50,000 Muslims , reflecting the views of more than one billion Muslims in more than 35 countries .",O B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NNP RB VBD NNS IN DT JJ NN IN JJR IN CD NNPS , VBG DT NNS IN JJR IN CD CD NNS IN JJR IN CD NNS ."
+"It is said to be the largest , most comprehensive study of its kind .",O O O O O O O O O O O O O O O,"PRP VBZ VBN TO VB DT JJS , RBS JJ NN IN PRP$ NN ."
+"The survey conducted during a six year period posed a series of questions relating to Muslim views about the United States , extremism and democracy .",O O O O O B-tim O B-tim O O O O O O O B-org O O O B-org I-org O O O O O,"DT NN VBN IN DT CD NN NN VBD DT NN IN NNS VBG TO NNP NNS IN DT NNP NNPS , NN CC NN ."
+VOA 's Mohamed Elshinnawi has the results of the poll .,B-org O B-per I-per O O O O O O O,NNP POS NNP NNP VBZ DT NNS IN DT NN .

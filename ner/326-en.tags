@@ -1,0 +1,9 @@
+"Several hundred inmates who escaped from a prison in Haiti are believed to still be at large Sunday , after an attack on the national penitentiary left one guard dead .",O O O O O O O O O B-geo O O O O O O O B-tim O O O O O O O O O O O O O,"JJ CD NNS WP VBD IN DT NN IN NNP VBP VBN TO RB VB IN JJ NNP , IN DT NN IN DT JJ JJ NN CD NN NN ."
+"Haitian officials say as many as 500 of the prison 's 1,200 detainees may have escaped .",B-gpe O O O O O O O O O O O O O O O O,JJ NNS VBP RB JJ IN CD IN DT NN POS CD NNS MD VB VBN .
+It is unclear how many have been recaptured .,O O O O O O O O O,PRP VBZ JJ WRB JJ VBP VBN VBN .
+The prisoners fled after gunmen fired on the facility Saturday .,O O O O O O O O O B-tim O,DT NNS VBD IN NNS VBD IN DT NN NNP .
+"The French news agency , AFP , quotes a government source as saying the raid was aimed at freeing drug traffickers .",O B-gpe O O O B-org O O O O O O O O O O O O O O O O,"DT JJ NN NN , NNP , VBZ DT NN NN IN VBG DT NN VBD VBN IN VBG NN NNS ."
+Two high-ranking officials from the government of ousted Haitian President Jean Bertrand Aristide were among the prisoners who were quickly recaptured .,O O O O O O O O B-gpe B-per I-per I-per I-per O O O O O O O O O,CD JJ NNS IN DT NN IN JJ JJ NNP NNP NNP NNP VBD IN DT NNS WP VBD RB VBN .
+Haitian authorities say former Prime Minister Yvon Neptune and former Interior Minister Jocelerme Privert are back in custody .,B-gpe O O O B-per O B-per I-per O O O O B-per I-per O O O O O,JJ NNS VBP JJ NNP NNP NNP NNP CC JJ NNP NNP NNP NNP VBP RB IN NN .
+Both men have yet to be indicted .,O O O O O O O O,DT NNS VBP RB TO VB VBN .
+They are accused of violence against Aristide opponents .,O O O O O O B-per O O,PRP VBP VBN IN NN IN NNP NNS .

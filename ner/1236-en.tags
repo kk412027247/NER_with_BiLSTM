@@ -1,0 +1,5 @@
+Belarus has set December 19 as the date for the next presidential election .,B-org O O B-tim I-tim O O O O O O O O O,NNP VBZ VBN NNP CD IN DT NN IN DT JJ JJ NN .
+"Incumbent Alexander Lukashenko , who has been in power since 1994 , is likely to run for another term .",O B-per I-per O O O O O O B-tim I-tim O O O O O O O O O,"NNP NNP NNP , WP VBZ VBN IN NN IN CD , VBZ JJ TO VB IN DT NN ."
+The political opposition in Belarus is fragmented and Mr. Lukashenko 's government maintains tight control over the media .,O O O O B-geo O O O B-per B-org O O O O O O O O O,DT JJ NN IN NNP VBZ VBN CC NNP NNP POS NN VBZ JJ NN IN DT NNS .
+The autocratic Mr. Lukashenko has done away with presidential term limits and international observers have declared past elections as undemocratic .,O O B-per B-org O O O O O O O O O O O O O O O O O,DT JJ NNP NNP VBZ VBN RP IN JJ NN NNS CC JJ NNS VBP VBN JJ NNS IN JJ .
+"Former U.S. President George W. Bush dubbed Mr. Lukashenko as "" Europe 's last dictator . """,O B-org B-per I-per I-per I-per O B-per B-org O O B-geo O O O O O,JJ NNP NNP NNP NNP NNP VBD NNP NNP IN LQU NNP POS JJ NN . LQU

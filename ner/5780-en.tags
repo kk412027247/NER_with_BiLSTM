@@ -1,0 +1,9 @@
+A new survey says companies in Russia and China are among the most likely to pay bribes to win business opportunities abroad .,O O O O O O B-geo O B-geo O O O O O O O O O O O O O O,DT JJ NN VBZ NNS IN NNP CC NNP VBP IN DT RBS JJ TO VB NNS TO VB NN NNS RB .
+"The report was released Tuesday by a Berlin-based anti-corruption organization , Transparency International .",O O O O B-tim O O O O O O B-org I-org O,"DT NN VBD VBN NNP IN DT JJ NN NN , NNP NNP ."
+It ranks 22 of the most influential economies based on interviews with business executives from around the world .,O O O O O O O O O O O O O O O O O O O,PRP VBZ CD IN DT RBS JJ NNS VBN IN NNS IN NN NNS IN IN DT NN .
+"Russian firms were rated most likely to engage in bribery , followed by Mexico , China and India .",B-gpe O O O O O O O O O O O O B-geo O B-geo O B-geo O,"JJ NNS VBD VBN RBS JJ TO VB IN NN , VBN IN NNP , NNP CC NNP ."
+Companies in Belgium and Canada were least likely to offer bribes .,O O B-geo O B-geo O O O O O O O,NNS IN NNP CC NNP VBD JJS JJ TO VB NNS .
+The United States was ranked near the middle of the list - tied with Singapore and France .,O B-geo I-geo O O O O O O O O O O O B-org I-org I-org O,DT NNP NNPS VBD VBN IN DT NN IN DT NN : VBN IN NNP CC NNP .
+The survey says companies looking for public works construction projects are most likely to try to gain influence with public officials .,O O O O O O O O O O O O O O O O O O O O O O,DT NN VBZ NNS VBG IN JJ NNS NN NNS VBP RBS JJ TO VB TO VB NN IN JJ NNS .
+Real estate and oil and gas companies are the next most serious offenders .,O O O O O O O O O O O O O O,JJ NN CC NN CC NN NNS VBP DT JJ RBS JJ NNS .
+Transparency International says it hopes the list encourages governments and companies to increase anti-corruption measures .,B-org I-org O O O O O O O O O O O O O O,NNP NNP VBZ PRP VBZ DT NN VBZ NNS CC NNS TO VB JJ NNS .

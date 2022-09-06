@@ -1,0 +1,6 @@
+The Everglades stretch almost 200 kilometers across Florida,O B-geo O O O O O B-geo,DT NNPS NN RB CD NNS IN NNP
+Wildlife has also been threatened as the glades shrink .,O O O O O O O O O O,NN VBZ RB VBN VBN IN DT NNS VB .
+"The National Park Service estimates that the number of wading birds has declined from a quarter of a million in the 1930s to fewer than 20,000 today .",O B-org I-org I-org O O O O O O O O O O O O O O O O O B-tim O O O O B-tim O,DT NNP NNP NNP VBZ IN DT NN IN VBG NNS VBZ VBN IN DT NN IN DT CD IN DT NNS TO JJR IN CD NN .
+But you 'll still see plenty of alligators .,O O O O O O O O O,CC PRP MD RB VB NN IN NNS .
+"They sun themselves along the old , two-lane state road through the Everglades , and may be diminished but are still an awesome sight .",O O O O O O O O O O O O B-geo O O O O O O O O O O O O,"PRP VBP PRP IN DT JJ , JJ NN NN IN DT NNPS , CC MD VB VBN CC VBP RB DT JJ NN ."
+"There 's nothing like them , anywhere in the world .",O O O O O O O O O O O,"EX VBZ DT IN PRP , RB IN DT NN ."

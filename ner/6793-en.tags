@@ -1,0 +1,8 @@
+"Iran has barred journalists from the Cable News Network from the country , following a mistaken translation that quoted Iran 's president as saying his country has a right to build nuclear weapons .",B-geo O O O O O B-org I-org I-org O O O O O O O O O O B-geo O O O O O O O O O O O O O O,"NNP VBZ VBN NNS IN DT NNP NNP NNP IN DT NN , VBG DT JJ NN WDT VBD NNP POS NN IN VBG PRP$ NN VBZ DT NN TO VB JJ NNS ."
+President Mahmoud Ahmadinejad told reporters Saturday that his nation has a right to pursue nuclear technology .,B-per I-per I-per O O B-tim O O O O O O O O O O O,NNP NNP NNP VBD NNS NNP IN PRP$ NN VBZ DT NN TO VB JJ NN .
+"But CNN 's translator used the word "" weapon "" instead .",O B-org O O O O O O O O O O,CC NNP POS NN VBD DT NN LQU NN LQU RB .
+CNN has apologized for the error .,B-org O O O O O O,NNP VBZ VBN IN DT NN .
+But Iran says the network 's reporters and stringers are barred until further notice .,O B-geo O O O O O O O O O O O O O,CC NNP VBZ DT NN POS NNS CC NNS VBP VBN IN JJ NN .
+The network said Monday it has not been officially notified of the ban .,O O O B-tim O O O O O O O O O O,DT NN VBD NNP PRP VBZ RB VBN RB VBN IN DT NN .
+CNN does not have a permanent correspondent in Iran .,B-org O O O O O O O B-geo O,NNP VBZ RB VB DT JJ NN IN NNP .
+But reporters have occasionally been allowed to enter the country for brief assignments .,O O O O O O O O O O O O O O,CC NNS VBP RB VBN VBN TO VB DT NN IN JJ NNS .

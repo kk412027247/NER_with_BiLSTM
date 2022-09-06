@@ -1,0 +1,6 @@
+A Kuwaiti oil and gas producer says it has discovered nearly 142 billion cubic meters of recoverable natural gas in the southern U.S. state of Texas .,O B-gpe O O O O O O O O O O O O O O O O O O O O B-geo O O B-geo O,DT JJ NN CC NN NN VBZ PRP VBZ VBN RB CD CD JJ NNS IN JJ JJ NN IN DT JJ NNP NN IN NNP .
+"The company , Aref Energy , said Monday that its U.S. project manager is Texas-based energy giant Halliburton .",O O O B-org I-org O O B-tim O O B-geo O O O O O O B-per O,"DT NN , NNP NNP , VBD NNP IN PRP$ NNP NN NN VBZ JJ NN NN NNP ."
+Aref Energy holds a 50 percent share in the operation in south-central Texas .,B-org I-org O O O O O O O O O O B-geo O,NNP NNP VBZ DT CD NN NN IN DT NN IN JJ NNP .
+The company has not named its partners in the operation .,O O O O O O O O O O O,DT NN VBZ RB VBN PRP$ NNS IN DT NN .
+Halliburton says it is taking measures to start gas production operations early next year .,B-per O O O O O O O O O O O O O O,NNP VBZ PRP VBZ VBG NNS TO VB NN NN NNS RB JJ NN .
+Aref says a survey by the joint venture indicates a total of 538 billion cubic meters of natural gas at the Texas site .,B-org O O O O O O O O O O O O O O O O O O O O B-geo O O,NNP VBZ DT NN IN DT JJ NN VBZ DT NN IN CD CD JJ NNS IN JJ NN IN DT NNP NN .

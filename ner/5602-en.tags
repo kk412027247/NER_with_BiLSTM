@@ -1,0 +1,4 @@
+"The United States is the only wealthy , industrialized nation that does not provide universal health care for its citizens .",O B-geo I-geo O O O O O O O O O O O O O O O O O O,"DT NNP NNPS VBZ DT JJ JJ , JJ NN WDT VBZ RB VB JJ NN NN IN PRP$ NNS ."
+"And now , rising costs for both health care and for insurance premiums put health care out of reach for many Americans .",O O O O O O O O O O O O O O O O O O O O O B-gpe O,"CC RB , VBG NNS IN DT NN NN CC IN NN NNS VBP NN NN IN IN NN IN JJ NNS ."
+Forty-seven million do not have health insurance .,O O O O O O O O,CD CD VBP RB VB NN NN .
+VOA 's Carol Pearson has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

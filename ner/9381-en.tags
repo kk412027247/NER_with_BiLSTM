@@ -1,0 +1,6 @@
+Iraqi officials say President Jalal Talabani has arrived in Jordan for medical treatment after falling ill from hard work in recent days .,B-gpe O O B-per I-per I-per O O O B-gpe O O O O O O O O O O O O O,JJ NNS VBP NNP NNP NNP VBZ VBN IN NNP IN JJ NN IN VBG RB IN JJ NN IN JJ NNS .
+"Iraqi sources say President Talabani experienced a drop in blood pressure , but the sources ruled out a possible heart attack .",B-gpe O O B-per I-per O O O O O O O O O O O O O O O O O,"JJ NNS VBP NNP NNP VBD DT NN IN NN NN , CC DT NNS VBD RP DT JJ NN NN ."
+"His son , Qubad Talabani , told VOA Kurdish service that his father is suffering from exhaustion and dehydration .",O O O B-per I-per O O B-org I-org O O O O O O O O O O O,"PRP$ NN , NNP NNP , VBD NNP NNP NN IN PRP$ NN VBZ VBG IN NN CC NN ."
+"Media reports quoting the officials say Mr. Talabani will be treated at a hospital in the Jordanian capital , Amman .",O O O O O O B-per B-org O O O O O O O O O O O B-org O,"NNS NNS VBG DT NNS VBP NNP NNP MD VB VBN IN DT NN IN DT JJ NN , NNP ."
+A statement from Mr. Talabani 's office said there is no cause for concern .,O O O B-per B-org O O O O O O O O O O,DT NN IN NNP NNP POS NN VBD EX VBZ DT NN IN NN .
+The Iraqi president is in his early 70s .,O B-gpe O O O O O B-tim O,DT JJ NN VBZ IN PRP$ JJ NNS .

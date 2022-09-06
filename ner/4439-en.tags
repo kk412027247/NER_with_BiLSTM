@@ -1,0 +1,9 @@
+Iraqi officials say 965 Shi'ite pilgrims were killed Wednesday in a stampede on a bridge leading to a Baghdad shrine .,B-gpe O O O O O O O B-tim O O O O O O O O O B-geo O O,JJ NNS VBP CD NNP NNS VBD VBN NNP IN DT NN IN DT NN VBG TO DT NNP NN .
+They say more than 450 others were injured and that the death toll could still rise .,O O O O O O O O O O O O O O O O O,PRP VBP JJR IN CD NNS VBD VBN CC IN DT NN NN MD RB VB .
+Officials say panic swept through the crowd after a rumor spread that a suicide bomber was among the hundreds of thousands of pilgrims .,O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP NN VBD IN DT NN IN DT NN NN IN DT NN NN VBD IN DT NNS IN NNS IN NNS .
+"Hundreds of women , children and the elderly were either trampled or shoved to their deaths in the Tigris River below .",O O O O O O O O O O O O O O O O O O B-geo I-geo O O,"NNS IN NNS , NNS CC DT NN VBD RB VBN CC VBN TO PRP$ NNS IN DT NNP NNP IN ."
+Prime Minister Ibrahim al-Jaafari declared three days of mourning .,B-per O B-per I-per O B-tim O B-tim I-tim O,NNP NNP NNP NNP VBD CD NNS IN NN .
+The United States offered its condolences and help to the victims .,O B-geo I-geo O O O O O O O O O,DT NNP NNPS VBD PRP$ NNS CC NN TO DT NNS .
+"Earlier Wednesday , insurgents fired mortars near the shrine , killing seven people .",O B-tim O O O O O O O O O O O O,"RBR NNP , NNS VBD NNS IN DT NN , VBG CD NNS ."
+A little-known militant group claimed responsibility for the attack in an unverifiable Internet statement .,O O O O O O O O O O O O O O O,DT JJ JJ NN VBD NN IN DT NN IN DT JJ NN NN .
+"Elsewhere in Iraq , the U.S. military reports the deaths of two soldiers since Tuesday .",O O B-geo O O B-geo O O O O O O O O B-tim O,"RB IN NNP , DT NNP JJ NNS DT NNS IN CD NNS IN NNP ."

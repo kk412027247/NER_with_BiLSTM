@@ -1,0 +1,9 @@
+A suicide bomber wearing an Iraqi army uniform killed 26 Iraqi soldiers Wednesday at an army dining hall north of Baghdad .,O O O O O B-gpe O O O O B-gpe O B-tim O O O O O O O B-geo O,DT NN NN VBG DT JJ NN NN VBD CD JJ NNS NNP IN DT NN VBG NN NN IN NNP .
+Military authorities say the bomber waited until lunchtime at the base in Khalis before entering the dining hall and blowing himself up .,O O O O O O O O O O O O B-geo O O O O O O O O O O,JJ NNS VBP DT NN VBD IN NN IN DT NN IN NNP IN VBG DT NN NN CC VBG PRP RP .
+"In Baghdad , a suicide bomber killed 10 people , mostly police , when he attacked a police patrol .",O B-geo O O O O O O O O O O O O O O O O O O,"IN NNP , DT NN NN VBD CD NNS , RB NN , WRB PRP VBD DT NN NN ."
+"To the north , near Kirkuk , gunmen killed two senior anti-terrorism police .",O O O O O B-geo O O O O O O O O,"TO DT NN , IN NNP , NNS VBD CD JJ JJ NN ."
+And mortar attacks killed five Iraqis outside Baghdad .,O O O O O B-gpe O B-geo O,CC NN NNS VBD CD NNS IN NNP .
+"In other developments , Iraqi and U.S. troops found and freed an Australian hostage , six weeks after his abduction in Baghdad .",O O O O B-gpe O B-geo O O O O O B-gpe O O O O O O O O B-geo O,"IN JJ NNS , JJ CC NNP NNS VBD CC VBD DT JJ NN , CD NNS IN PRP$ NN IN NNP ."
+The U.S. military says troops discovered Douglas Wood and an Iraqi hostage during a routine search operation in Baghdad .,O B-geo O O O O B-org I-org O O B-gpe O O O O O O O B-geo O,DT NNP NN VBZ NNS VBD NNP NNP CC DT JJ NN IN DT JJ NN NN IN NNP .
+Three people were detained .,O O O O O,CD NNS VBD VBN .
+"Mr. Wood , a 63-year-old engineer , later issued a statement thanking his rescuers .",B-per B-geo O O O O O O O O O O O O O,"NNP NNP , DT JJ NN , RB VBD DT NN VBG PRP$ NNS ."

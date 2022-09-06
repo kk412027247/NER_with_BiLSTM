@@ -1,0 +1,7 @@
+Turkish authorities say a double bomb attack in Istanbul has killed at least 15 people and wounded 150 others .,B-gpe O O O O O O O B-geo O O O O O O O O O O O,JJ NNS VBP DT JJ NN NN IN NNP VBZ VBN IN JJS CD NNS CC VBN CD NNS .
+The bombs went off several minutes apart Sunday evening on a shopping street in a residential district of Gungoren in western Istanbul .,O O O O O O O B-tim I-tim O O O O O O O O O B-geo O B-geo I-geo O,DT NNS VBD RP JJ NNS RB NNP NN IN DT NN NN IN DT JJ NN IN NNP IN JJ NNP .
+"Officials say the first bomb caused a small blast in a telephone booth , drawing a crowd to the site before the second and more powerful device exploded .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT JJ NN VBD DT JJ NN IN DT NN NN , VBG DT NN TO DT NN IN DT JJ CC RBR JJ NN VBD ."
+Both bombs were placed in trash cans .,O O O O O O O O,DT NNS VBD VBN IN NN NNS .
+Turkish President Abdullah Gul condemned the attack and described its perpetrators as ruthless and savage terrorists .,B-gpe B-per I-per I-per O O O O O O O O O O O O O,JJ NNP NNP NNP VBD DT NN CC VBD PRP$ NNS IN JJ CC JJ NNS .
+Authorities are investigating who was behind the bombings .,O O O O O O O O O,NNS VBP VBG WP VBD IN DT NNS .
+"Several groups have carried out bomb attacks in Istanbul in the past , including Kurdish separatists , far-left activists and Islamists .",O O O O O O O O B-geo O O O O O B-org O O O O O O O,"JJ NNS VBP VBN RP NN NNS IN NNP IN DT NN , VBG NNP NNS , JJ NNS CC NNS ."

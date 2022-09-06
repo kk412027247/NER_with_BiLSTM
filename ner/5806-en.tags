@@ -1,0 +1,7 @@
+"Taiwan has unveiled two new surveillance aircraft purchased from the United States , designed to reinforce its defenses against rival China .",B-geo O O O O O O O O O B-geo I-geo O O O O O O O O B-geo O,"NNP VBZ VBN CD JJ NN NN VBN IN DT NNP NNPS , VBN TO VB PRP$ NNS IN JJ NNP ."
+Taiwanese President Chen Shui-bian showed off the new E2-K planes during a public ceremony Saturday at an air force base in the island 's southern Pingtung region .,B-gpe B-per I-per I-per O O O O O O O O O O B-tim O O O O O O O O O O B-geo O O,JJ NNP NNP NNP VBD IN DT JJ JJ NNS IN DT JJ NN NNP IN DT NN NN NN IN DT NN POS JJ NNP NN .
+Officials say the new planes will expand the range of surveillance radar and can also guide fighter planes to intercept incoming aircraft .,O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP DT JJ NNS MD VB DT NN IN NN NN CC MD RB VB NN NNS TO VB JJ NN .
+The new planes are part of effort by President Chen to balance Taiwan 's military strength with China 's .,O O O O O O O O B-per I-per O O B-geo O O O O B-geo O O,DT JJ NNS VBP NN IN NN IN NNP NNP TO VB NNP POS JJ NN IN NNP POS .
+But opposition lawmakers argue he is entering the island in an expensive arms race it can not win .,O O O O O O O O O O O O O O O O O O O,CC NN NNS VBP PRP VBZ VBG DT NN IN DT JJ NNS NN PRP MD RB VB .
+Taiwan split from China amid a civil war in 1949 .,B-geo O O B-geo O O O O O B-tim O,NNP VBD IN NNP IN DT JJ NN IN CD .
+China considers the island part of its territory .,B-geo O O O O O O O O,NNP VBZ DT NN NN IN PRP$ NN .

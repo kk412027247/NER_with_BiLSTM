@@ -1,0 +1,5 @@
+A British court has sentenced a Saudi prince to at least 20 years in prison for beating and strangling his aide in a London hotel .,O B-gpe O O O O O O O O O B-tim O O O O O O O O O O O B-geo O O,DT JJ NN VBZ VBN DT JJ NN TO IN JJS CD NNS IN NN IN NN CC VBG PRP$ NN IN DT NNP NN .
+A judge on Wednesday told Prince Saud Abdulaziz bin Nasser al Saud that no one is above the law .,O O O B-tim O O B-per I-per I-per B-org I-org I-org O O O O O O O O,DT NN IN NNP VBD NNP NNP NNP NNP NNP NNP NN IN DT NN VBZ IN DT NN .
+Bandar Abdulaziz was found dead in a hotel room in February .,B-per I-per O O O O O O O O B-tim O,NNP NNP VBD VBN JJ IN DT NN NN IN NNP .
+"The prince had admitted to manslaughter , but denied intending to kill the man .",O O O O O O O O O O O O O O O,"DT NN VBD VBN TO VB , CC VBD VBG TO VB DT NN ."
+"Prosecutors said the victim had been badly beaten and that his injuries showed there was a "" sexual element "" to the attack .",O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBD DT NN VBD VBN RB JJ CC IN PRP$ NNS VBD EX VBD DT LQU JJ NN LQU TO DT NN .

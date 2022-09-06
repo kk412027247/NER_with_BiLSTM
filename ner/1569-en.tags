@@ -1,0 +1,7 @@
+U.S. and European share prices have recovered a day after they plunged because of concerns about the economy .,B-geo O O O O O O O O O O O O O O O O O O,NNP CC JJ NN NNS VBP VBN DT NN IN PRP VBD IN IN NNS IN DT NN .
+"U.S. stock indexes are up in Wednesday 's trading , while European markets are mixed .",B-geo O O O O O B-tim O O O O O O O O O,"NNP NN NNS VBP RB IN NNP POS NN , IN JJ NNS VBP JJ ."
+Asian markets took a nosedive Wednesday following Tuesday 's steep decline in U.S. and European share prices .,O O O O O B-tim O B-tim O O O O B-geo O O O O O,JJ NNS VBD DT JJ NNP VBG NNP POS JJ NN IN NNP CC JJ NN NNS .
+"Hong Kong 's Hang Seng index fell more than 1,300 points , more than five percent , in a holiday-shortened trading day .",B-geo I-geo O B-geo I-geo O O O O O O O O O O O O O O O O O O,"NNP NNP POS NNP NNP NN VBD JJR IN CD NNS , JJR IN CD NN , IN DT JJ NN NN ."
+Tokyo 's Nikkei index was off 646 points - nearly five percent .,B-geo O B-geo O O O O O O O O O O,NNP POS NNP NN VBD RB CD NNS : RB CD NN .
+"Markets in China , Taiwan , South Korea , and New Zealand were closed for a holiday .",O O B-geo O B-geo O B-geo I-geo O O B-org I-org O O O O O O,"NNS IN NNP , NNP , NNP NNP , CC NNP NNP VBD VBN IN DT NN ."
+Analysts say many investors fear the U.S. economy is close to a recession if not already in one .,O O O O O O B-geo O O O O O O O O O O O O,NNS VBP JJ NNS VBP DT NNP NN VBZ RB TO DT NN IN RB RB IN CD .

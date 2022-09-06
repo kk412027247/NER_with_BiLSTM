@@ -1,0 +1,8 @@
+"The U.S. military in Iraq says American warplanes have bombed two bridges in western al-Anbar province , to stop insurgents from using them to move fighters and equipment to other cities for attacks .",O B-geo O O B-geo O B-gpe O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O,"DT NNP NN IN NNP VBZ JJ NNS VBP VBN CD NNS IN JJ NNP NN , TO VB NNS IN VBG PRP TO VB NNS CC NN TO JJ NNS IN NNS ."
+"The air strikes Tuesday near the Syrian border did not destroy the Euphrates River bridges , but made them inoperable .",O O O B-tim O O B-gpe O O O O O B-geo I-geo O O O O O O O,"DT NN VBZ NNP IN DT JJ NN VBD RB VB DT NNP NNP NNS , CC VBD PRP JJ ."
+No casualties were reported .,O O O O O,DT NNS VBD VBN .
+"Coalition troops also raided a nearby safehouse , killing two foreign fighters and detaining three others .",O O O O O O O O O O O O O O O O O,"NN NNS RB VBD DT JJ NN , VBG CD JJ NNS CC VBG CD NNS ."
+The building was later destroyed .,O O O O O O,DT NN VBD RB VBN .
+"Elsewhere , in the southern Shi'ite holy city of Najaf , U.S. forces handed over military control of the city to Iraqi forces .",O O O O O O O O O B-geo O B-geo O O O O O O O O O B-gpe O O,"RB , IN DT JJ NNP JJ NN IN NNP , NNP NNS VBN IN JJ NN IN DT NN TO JJ NNS ."
+"In other developments , the U.S. military reports two American soldiers were killed and two wounded Tuesday in a bomb blast in Baghdad .",O O O O O B-geo O O O B-gpe O O O O O O B-tim O O O O O B-geo O,"IN JJ NNS , DT NNP NN VBZ CD JJ NNS VBD VBN CC CD VBD NNP IN DT NN NN IN NNP ."
+Two more soldiers were killed Monday in Tal Afar and Ramadi .,O O O O O B-tim O B-org I-org I-org I-org O,CD JJR NNS VBD VBN NNP IN NNP NNP CC NNP .

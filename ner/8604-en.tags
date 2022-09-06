@@ -1,0 +1,6 @@
+"Witnesses in Somalia say gunmen have killed the head of an orphanage near the capital , Mogadishu .",O O B-geo O O O O O O O O O O O O O B-geo O,"NNS IN NNP VBP NNS VBP VBN DT NN IN DT NN IN DT NN , NNP ."
+Abdikadir Yusuf Kariye was shot dead by unidentified assailants late Wednesday in the town of Lafoole .,B-per I-per I-per O O O O O O O B-tim O O O O B-geo O,NNP NNP NNP VBD VBN JJ IN JJ NNS JJ NNP IN DT NN IN NNP .
+Reuters news agency reports that Kariye 's orphanage is home to 370 children .,B-org O O O O B-per O O O O O O O O,NNP NN NN VBZ IN NNP POS NN VBZ NN TO CD NNS .
+There has been no claim of responsibility for the killing .,O O O O O O O O O O O,EX VBZ VBN DT NN IN NN IN DT NN .
+"Attacks on aid workers in Somalia have forced some relief agencies to suspend their operations , endangering hundreds of thousands of people who rely on food aid and medical aid .",O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS IN NN NNS IN NNP VBP VBN DT NN NNS TO VB PRP$ NNS , VBG NNS IN NNS IN NNS WP VBP IN NN NN CC JJ NN ."
+"The United Nations has warned of a possible humanitarian catastrophe in Somalia , which has not had a functioning central government in 17 years .",O B-org I-org O O O O O O O O B-geo O O O O O O O O O O B-tim O O,"DT NNP NNP VBZ VBN IN DT JJ JJ NN IN NNP , WDT VBZ RB VBN DT VBG JJ NN IN CD NNS ."

@@ -1,0 +1,8 @@
+"Italian police say a prime suspect in last month 's failed bombings in London was probably part of an amateur , improvised group , rather than a large terrorist network .",B-gpe O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O,"JJ NNS VBP DT JJ NN IN JJ NN POS VBN NNS IN NNP VBD RB NN IN DT JJ , JJ NN , RB IN DT JJ JJ NN ."
+"Police identified the suspect as Ethiopian-born Hamdi Isaac , saying he changed his name to Osman Hussain and falsely claimed Somali citizenship to gain asylum in Britain in the 1990s .",O O O O O O B-per I-per O O O O O O O B-geo I-geo O O O B-gpe O O O O O B-geo O O B-tim O,"NNP VBD DT NN IN JJ NNP NNP , VBG PRP VBD PRP$ NN TO NNP NNP CC RB VBD JJ NN TO VB NN IN NNP IN DT NNS ."
+"The suspect , arrested Friday in Rome , is one of four men believed to have carried out the attempted attacks on London 's transit system on July 21 .",O O O O B-tim O B-geo O O O O O O O O O O O O O O O B-geo O O O O B-tim I-tim O,"DT NN , VBN NNP IN NNP , VBZ CD IN CD NNS VBN TO VB VBN IN DT JJ NNS IN NNP POS NN NN IN NNP CD ."
+Britain is requesting his extradition .,B-geo O O O O O,NNP VBZ VBG PRP$ NN .
+The three other suspects were arrested last week in Britain .,O O O O O O O O O B-geo O,DT CD JJ NNS VBD VBN JJ NN IN NNP .
+The failed attacks came two weeks after four bombers killed themselves and 52 others on the London transit system .,O O O O O O O O O O O O O O O O B-geo O O O,DT JJ NNS VBD CD NNS IN CD NNS VBN PRP CC CD NNS IN DT NNP NN NN .
+British police are searching for anyone connected to either set of attacks .,B-gpe O O O O O O O O O O O O,JJ NNS VBP VBG IN DT VBN TO DT NN IN NNS .
+At least 18 people have been detained for questioning .,O O O O O O O O O O,IN JJS CD NNS VBP VBN VBN IN VBG .

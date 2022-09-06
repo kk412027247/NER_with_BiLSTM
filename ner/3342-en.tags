@@ -1,0 +1,6 @@
+A pro-reformist Web site says Iran has barred former President Mohammad Khatami from leaving the country .,O O O O O B-geo O O O B-per I-per I-per O O O O O,DT JJ NNP NN VBZ NNP VBZ VBN JJ NNP NNP NNP IN VBG DT NN .
+The Web site Parlemannews says Mr. Khatami was scheduled to depart Thursday night to attend a nuclear disarmament conference in Japan .,O O O B-org O B-per I-per O O O O B-tim I-tim O O O O O O O B-geo O,DT NNP NN NNP VBZ NNP NNP VBD VBN TO VB NNP NN TO VB DT JJ NN NN IN NNP .
+There was no immediate reaction from the Iranian government .,O O O O O O O B-gpe O O,EX VBD DT JJ NN IN DT JJ NN .
+Mr. Khatami was a key supporter of defeated presidential candidate Mir Hossein Mousavi in June elections .,B-per I-per O O O O O O O O O B-per I-per O B-tim O O,NNP NNP VBD DT JJ NN IN VBN JJ NN NNP NNP NNP IN NNP NNS .
+Opposition leaders claim that President Mahmoud Ahmadinejad stole the vote .,O O O O B-per I-per I-per O O O O,NN NNS VBP IN NNP NNP NNP VBD DT NN .
+The Iranian government has carried out violent crackdowns on anti-government protests staged since the presidential election .,O B-gpe O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN RP JJ NNS IN JJ NNS VBN IN DT JJ NN .

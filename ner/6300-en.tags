@@ -1,0 +1,7 @@
+U.S. consumer prices posted their sharpest drop in half a century in November .,B-geo O O O O O O O B-tim O B-tim I-tim I-tim O,NNP NN NNS VBD PRP$ JJS NN IN PDT DT NN IN NNP .
+Thursday 's report from the Labor Department says falling energy costs brought prices down a steep six-tenths of a percent for the month .,B-tim O O O O B-org I-org O O O O O O O O O O O O O O O O O,NNP POS NN IN DT NNP NNP VBZ VBG NN NNS VBD NNS RP DT JJ NNS IN DT NN IN DT NN .
+"Economists say energy and food costs can swing widely from month to month , so setting aside those volatile prices may give a clearer picture of inflation in the overall economy .",O O O O O O O O O O O B-tim O O O O O O O O O O O O O O O O O O O O,"NNS VBP NN CC NN NNS MD VB RB IN NN TO NN , RB VBG RB DT JJ NNS MD VB DT JJR NN IN NN IN DT JJ NN ."
+"By that measure , prices rose a modest two-tenths of a percent .",O O O O O O O O O O O O O,"IN DT NN , NNS VBD DT JJ NNS IN DT NN ."
+Energy prices soared earlier this year because of hurricane damage .,O O O O O O O O O O O,NN NNS VBD RBR DT NN IN IN NN NN .
+"A separate report says the number of people who lost jobs because of Hurricanes Katrina , Rita , and Wilma now exceeds $ 600,000 .",O O O O O O O O O O O O O B-nat I-nat O B-nat O O B-nat O O O O O,"DT JJ NN VBZ DT NN IN NNS WP VBD NNS IN IN NNP NNP , NNP , CC NNP RB VBZ $ CD ."
+The report also shows the number of people applying for unemployment insurance rose slightly last week .,O O O O O O O O O O O O O O O O O,DT NN RB VBZ DT NN IN NNS VBG IN NN NN VBD RB JJ NN .

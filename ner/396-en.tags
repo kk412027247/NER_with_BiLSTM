@@ -1,0 +1,10 @@
+President Bush has met with the last surviving American veteran of World War I .,B-per I-per O O O O O O B-gpe O O B-eve I-eve I-eve O,NNP NNP VBZ VBN IN DT JJ VBG JJ NN IN NNP NNP NNP .
+Mr. Bush said it was his honor to welcome Frank Buckles to the White House Thursday .,B-per I-per O O O O O O O B-per I-per O O B-org I-org B-tim O,NNP NNP VBD PRP VBD PRP$ NN TO VB NNP NNP TO DT NNP NNP NNP .
+He said the 107-year-old Buckles ' mind is sharp and his memory is crisp .,O O O O B-per O O O O O O O O O O,PRP VBD DT JJ NNP POS NN VBZ JJ CC PRP$ NN VBZ JJ .
+"The president said Buckles , who signed up for the Army at the age of 15 , shared interesting anecdotes and has a "" vivid recollection of historic times . """,O O O B-per O O O O O O B-org O O O O O O O O O O O O O O O O O O O O,"DT NN VBD NNP , WP VBD RP IN DT NNP IN DT NN IN CD , VBN JJ NNS CC VBZ DT RQU JJ NN IN JJ NNS . LQU"
+Buckles was stationed in Europe during World War I .,B-per O O O B-geo O B-eve I-eve I-eve O,NNP VBD VBN IN NNP IN NNP NNP NNP .
+"He also served in World War II , and was a prisoner of war in the Philippines .",O O O O O O B-eve O O O O O O O O O B-geo O,"PRP RB VBD IN NNP NNP NNP , CC VBD DT NN IN NN IN DT NNPS ."
+Mr. Bush thanked Buckles for his patriotism and love of his country .,B-per I-per O B-per O O O O O O O O O,NNP NNP VBD NNP IN PRP$ NN CC NN IN PRP$ NN .
+He said meeting with Buckles was one way to honor the service of past and present military personnel .,O O O O B-per O O O O O O O O O O O O O O,PRP VBD NN IN NNP VBD CD NN TO VB DT NN IN JJ CC JJ JJ NNS .
+"In the Oval Office news appearance , Buckles sat in a wheelchair next to the president .",O O B-org I-org O O O B-per O O O O O O O O O,"IN DT NNP NNP NN NN , NNP VBD IN DT NN JJ TO DT NN ."
+"His daughter , Susannah , also was in attendance .",O O O B-per O O O O O O,"PRP$ NN , NNP , RB VBD IN NN ."

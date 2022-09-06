@@ -1,0 +1,7 @@
+Afghan officials say a suicide bomber killed a police officer in eastern Khost province .,B-gpe O O O O O O O O O O B-geo I-geo O O,JJ NNS VBP DT NN NN VBD DT NN NN IN JJ NNP NN .
+"Authorities say Friday 's blast wounded 15 other people , including eight civilians outside police headquarters in Khost .",O O B-tim O O O O O O O O O O O O O O B-geo O,"NNS VBP NNP POS NN VBD CD JJ NNS , VBG CD NNS IN NN NN IN NNP ."
+The Taleban claimed responsibility for the blast .,O B-org O O O O O O,DT NNP VBD NN IN DT NN .
+"Hours later , a second bomber blew himself up at a checkpoint in Khost .",O O O O O O O O O O O O O B-geo O,"NNS RB , DT JJ NN VBD PRP RP IN DT NN IN NNP ."
+That explosion wounded the driver of a taxi the bomber in which the bomber was riding .,O O O O O O O O O O O O O O O O O,DT NN VBD DT NN IN DT NN DT NN IN WDT DT NN VBD VBG .
+There has been no initial claim of responsibility for the attack .,O O O O O O O O O O O O,EX VBZ VBN DT JJ NN IN NN IN DT NN .
+Frequent suicide attacks blamed on Taleban militants have killed Afghan police and troops during the past year .,O O O O O B-org O O O B-gpe O O O O O B-tim O O,JJ NN NNS VBN IN NNP NNS VBP VBN JJ NNS CC NNS IN DT JJ NN .

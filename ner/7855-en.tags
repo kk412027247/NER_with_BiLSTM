@@ -1,0 +1,5 @@
+Russia 's foreign minister says halting aid to the Hamas-led Palestinian government is a mistake .,B-geo O O O O O O O O O B-gpe O O O O O,NNP POS JJ NN VBZ VBG NN TO DT JJ JJ NN VBZ DT NN .
+Sergei Lavrov 's comments Tuesday in Moscow came just days after the United States and the European Union suspended direct aid to the Palestinian government .,B-per I-per O O B-tim O B-geo O O O O O B-geo I-geo O O B-org I-org O O O O O B-gpe O O,NNP NNP POS NNS NNP IN NNP VBD RB NNS IN DT NNP NNPS CC DT NNP NNP VBD JJ NN TO DT JJ NN .
+Lavrov said the funding cut-off will only serve to further destabilize the region .,B-per O O O O O O O O O O O O O,NNP VBD DT NN NN MD RB VB TO RBR VB DT NN .
+He said the only way to ensure that Hamas meets Western demands is to engage the Hamas leadership .,O O O O O O O O B-org O B-org I-org O O O O B-org O O,PRP VBD DT JJ NN TO VB IN NNP VBZ JJ NNS VBZ TO VB DT NNP NN .
+The U.S. and EU are demanding that Hamas renounce terrorism and recognize Israel 's right to exist .,O B-geo O B-org O O O B-org O O O O B-geo O O O O O,DT NNP CC NNP VBP VBG IN NNP VB NN CC VB NNP POS NN TO VB .

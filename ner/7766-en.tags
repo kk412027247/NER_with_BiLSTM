@@ -1,0 +1,8 @@
+The United States is recalling to active duty several thousand Marines to bolster American military units in Iraq and Afghanistan .,O B-geo I-geo O O O O O B-tim I-tim I-tim O O B-gpe O O O B-geo O B-geo O,DT NNP NNPS VBZ VBG TO JJ NN JJ CD NNS TO VB JJ JJ NNS IN NNP CC NNP .
+A military spokesman says the reservists are men and women who returned to civilian life after previous active-duty service .,O O O O O O O O O O O O O O O O O O O O,DT JJ NN VBZ DT NNS VBP NNS CC NNS WP VBD TO JJ NN IN JJ JJ NN .
+"They will fill critical shortages among military-police units , intelligence and communications specialists .",O O O O O O O O O O O O O O,"PRP MD VB JJ NNS IN JJ NNS , NN CC NNS NNS ."
+President Bush issued an order authorizing the involuntary callup .,B-per I-per O O O O O O O O,NNP NNP VBD DT NN VBG DT JJ NN .
+"The Marines Corps has 35,000 reserve troops with time remaining on eight-year commitments made when they enlisted .",O B-org I-org O O O O O O O O B-tim O O O O O O,DT NNP NNP VBZ CD NN NNS IN NN VBG IN JJ NNS VBN WRB PRP VBD .
+"Mr. Bush 's order limits the number of those who can be recalled to 2,500 at a time .",B-per I-per O O O O O O O O O O O O O O O O O,NNP NNP POS NN VBZ DT NN IN DT WP MD VB VBN TO CD IN DT NN .
+"Meanwhile , in Iraq , U.S. military officials report a declining trend in violence this month in Baghdad .",O O O B-geo O B-geo O O O O O O O O O O O B-geo O,"RB , IN NNP , NNP JJ NNS VBP DT VBG NN IN NN DT NN IN NNP ."
+"But insurgents carried out more attacks Wednesday , including a suicide bombing in Mosul that killed a woman and wounded eight policemen .",O O O O O O B-tim O O O O O O B-geo O O O O O O O O O,"CC NNS VBD RP JJR NNS NNP , VBG DT NN VBG IN NNP WDT VBD DT NN CC VBD CD NNS ."

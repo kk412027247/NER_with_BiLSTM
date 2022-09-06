@@ -1,0 +1,6 @@
+"James Brown , revered as the "" Godfather of Soul "" , will undergo surgery for prostate cancer next week .",B-per I-per O O O O O B-per I-per I-per O O O O O O O O O O O,"NNP NNP , VBN IN DT LQU NNP IN NNP RQU , MD VB NN IN NN NN JJ NN ."
+"The 71-year-old musician said in a statement he has overcome a lot of things in his life , and he will overcome this as well .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN VBD IN DT NN PRP VBZ VBN DT NN IN NNS IN PRP$ NN , CC PRP MD VB DT RB RB ."
+James Brown finished a two-week tour in Canada earlier this week .,B-per I-per O O O O O B-geo O O O O,NNP NNP VBD DT JJ NN IN NNP RBR DT NN .
+"In January , he is set to release an autobiography entitled I Feel Good :",O B-tim O O O O O O O O O O O O O,"IN NNP , PRP VBZ VBN TO VB DT NN VBD PRP NNP NNP :"
+A Memoir of a Life of Soul .,O O O O O O B-art O,DT NNP IN DT NN IN NNP .
+"The influential soul , rock , rap and funk musician has made more than 50 albums , selling millions worldwide , since he broke onto the scene with "" Please , Please , Please "" in 1956 .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-art B-org B-art O B-art O O B-tim O,"DT JJ NN , NN , NN CC NN NN VBZ VBN JJR IN CD NNS , VBG NNS JJ , IN PRP VBD IN DT NN IN LQU NNP , NNP , NNP RQU IN CD ."

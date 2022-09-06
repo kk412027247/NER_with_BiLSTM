@@ -1,0 +1,8 @@
+"The British Broadcasting Corporation ( BBC ) says unidentified gunmen shot and wounded one of its journalists in the Somali capital , Mogadishu .",O B-org I-org I-org O B-org O O O O O O O O O O O O O B-gpe O O B-geo O,"DT NNP NNP NNP LRB NNP RRB VBZ JJ NNS VBD CC VBD CD IN PRP$ NNS IN DT JJ NN , NNP ."
+The broadcaster says Kate Peyton was rushed to a local hospital after the attack and underwent surgery .,O O O B-per I-per O O O O O O O O O O O O O,DT NN VBZ NNP NNP VBD VBN TO DT JJ NN IN DT NN CC VBD NN .
+Hospital officials say she is in stable condition .,O O O O O O O O O,NN NNS VBP PRP VBZ IN JJ NN .
+Witnesses say the attackers opened fire on Ms. Peyton outside her hotel ( Sahafi Hotel ) and fled the scene in a vehicle .,O O O O O O O B-per I-per O O O O B-org I-org O O O O O O O O O,NNS VBP DT NNS VBD NN IN NNP NNP IN PRP$ NN LRB NNP NNP RRB CC VBD DT NN IN DT NN .
+A colleague working with her was unhurt in the attack .,O O O O O O O O O O O,DT NN VBG IN PRP VBD JJ IN DT NN .
+Ms. Peyton had traveled from her home in South Africa this week to report on a visit by Somalia 's new government to Mogadishu .,B-per I-per O O O O O O B-geo I-geo O O O O O O O O B-geo O O O O B-geo O,NNP NNP VBD VBN IN PRP$ NN IN NNP NNP DT NN TO VB IN DT NN IN NNP POS JJ NN TO NNP .
+Somali officials are readying plans to move the new government from its current base in Kenya later this month .,B-gpe O O O O O O O O O O O O O O B-geo B-tim O O O,JJ NNS VBP VBG NNS TO VB DT JJ NN IN PRP$ JJ NN IN NNP RB DT NN .
+"Somalia has been without a central government for 14 years , having been ruled by warring factional leaders .",B-gpe O O O O O O O B-tim O O O O O O O O O O,"NNP VBZ VBN IN DT JJ NN IN CD NNS , VBG VBN VBN IN VBG JJ NNS ."

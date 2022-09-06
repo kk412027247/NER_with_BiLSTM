@@ -1,0 +1,8 @@
+Yemeni authorities say militants have attacked government targets in central Yemen in a second day of fighting with security forces .,B-gpe O O O O O O O O O B-geo O O B-tim I-tim I-tim O O O O O,JJ NNS VBP NNS VBP VBN NN NNS IN JJ NNP IN DT JJ NN IN VBG IN NN NNS .
+"Officials say the gunmen fired on a government building , police checkpoints and a power station in the central town of Marib early this Thursday morning .",O O O O O O O O O O O O O O O O O O O O O B-geo B-tim I-tim I-tim I-tim O,"NNS VBP DT NNS VBD IN DT NN NN , NN NNS CC DT NN NN IN DT JJ NN IN NNP RB DT NNP NN ."
+There were no immediate reports of casualties .,O O O O O O O O,EX VBD DT JJ NNS IN NNS .
+Yemeni troops killed four suspected terrorists in Marib on Wednesday .,B-gpe O O O O O O B-geo O B-tim O,JJ NNS VBD CD JJ NNS IN NNP IN NNP .
+Authorities say the militants were involved in a suicide bomb attack July 2 in Marib that killed eight Spanish tourists and two Yemeni drivers .,O O O O O O O O O O O B-tim I-tim O B-geo O O O B-gpe O O O B-gpe O O,NNS VBP DT NNS VBD VBN IN DT NN NN NN NNP CD IN NNP WDT VBD CD JJ NNS CC CD JJ NNS .
+Authorities initially said senior al-Qaida leader Qassem al-Raimi was among those killed Wednesday .,O O O O B-org O B-per I-per O O O O B-tim O,NNS RB VBD JJ NNP NN NNP NNP VBD IN DT VBN NNP .
+"But , officials said Thursday a medical examination showed the body was that of another man .",O O O O B-tim O O O O O O O O O O O O,"CC , NNS VBD NNP DT JJ NN VBD DT NN VBD IN IN DT NN ."
+"Raimi escaped from a prison in the Yemeni capital , Sanaa , in 2006 .",B-per O O O O O O B-gpe O O B-geo O O B-tim O,"NNP VBD IN DT NN IN DT JJ NN , NNP , IN CD ."

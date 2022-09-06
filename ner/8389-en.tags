@@ -1,0 +1,9 @@
+A South African judge is expected to hand down the verdict Monday in a high-profile rape trial involving former deputy president Jacob Zuma .,O O B-gpe O O O O O O O O B-tim O O O O O O O O O B-per I-per O,DT JJ JJ NN VBZ VBN TO VB RP DT NN NNP IN DT JJ NN NN VBG JJ NN NN NNP NNP .
+"Zuma is accused of raping a 31-year-old , HIV-positive woman who is a longtime family friend .",B-per O O O O O O O O O O O O O O O O,"NNP VBZ VBN IN VBG DT JJ , JJ NN WP VBZ DT JJ NN NN ."
+He claims the sex was consensual .,O O O O O O O,PRP VBZ DT NN VBD JJ .
+"The trial has drawn widespread interest across South Africa , focusing attention on the country 's high incidence of rape and HIV infection .",O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O,"DT NN VBZ VBN JJ NN IN NNP NNP , VBG NN IN DT NN POS JJ NN IN NN CC NN NN ."
+Monday 's verdict is scheduled to be broadcast live on television .,B-tim O O O O O O O O O O O,NNP POS NN VBZ VBN TO VB VBN RB IN NN .
+"Sunday , the 64-year-old Zuma attended a fundraising concert in the Johannesburg suburb of Soweto , where he thanked thousands of audience members for their support .",B-tim O O O B-per O O O O O O B-geo O O B-geo O O O O O O O O O O O O,"NNP , DT JJ NNP VBD DT VBG NN IN DT NNP NN IN NNP , WRB PRP VBD NNS IN NN NNS IN PRP$ NN ."
+The proceeds from the concert went to his legal fund .,O O O O O O O O O O O,DT NNS IN DT NN VBD TO PRP$ JJ NN .
+"Zuma was once considered a strong contender to succeed President Thabo Mbeki , who fired him because of corruption-related accusations last year .",B-per O O O O O O O O B-per I-per I-per O O O O O O O O O O O,"NNP VBD RB VBN DT JJ NN TO VB NNP NNP NNP , WP VBD PRP IN IN JJ NNS JJ NN ."
+Zuma is due to stand trial on corruption charges in July .,B-per O O O O O O O O O B-tim O,NNP VBZ JJ TO VB NN IN NN NNS IN NNP .

@@ -1,0 +1,6 @@
+"Russian police confirm that a shrapnel-packed bomb exploded Sunday in a McDonald 's restaurant in St. Petersburg , injuring six people .",B-gpe O O O O O O O B-tim O O B-org I-org O O B-geo I-geo O O O O O,"JJ NNS VBP IN DT JJ NN VBD NNP IN DT NNP POS NN IN NNP NNP , VBG CD NNS ."
+The blast shattered windows and caused the ceiling to collapse .,O O O O O O O O O O O,DT NN VBD NNS CC VBD DT NN TO NN .
+None of the injuries was serious .,O O O O O O O,NN IN DT NNS VBD JJ .
+"Investigators say the bomb was left under a table at the fast food restaurant along Nevsky Prospekt , St. Petersburg 's main street .",O O O O O O O O O O O O O O O B-geo I-geo O B-geo I-geo O O O O,"NNS VBP DT NN VBD VBN IN DT NN IN DT JJ NN NN IN NNP NNP , NNP NNP POS JJ NN ."
+Authorities have not said if the attack was terrorist-related .,O O O O O O O O O O,NNS VBP RB VBN IN DT NN VBD JJ .
+A car bombing of a Moscow McDonald 's by Muslim extremists in 2002 killed one person and wounded seven .,O O O O O B-org I-org O O B-org O O B-tim O O O O O O O,DT NN NN IN DT NNP NNP POS IN NNP NNS IN CD VBD CD NN CC VBD CD .

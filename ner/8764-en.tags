@@ -1,0 +1,7 @@
+"Zimbabwe 's state-run newspaper reports police have arrested nearly 15,000 people in a new crackdown on illegal vendors .",B-geo O O O O O O O O O O O O O O O O O O,NNP POS JJ NN NNS NNS VBP VBN RB CD NNS IN DT JJ NN IN JJ NNS .
+"The Herald reports that over the last two weeks , police have rounded up 14,706 individuals whom the paper described as street people , touts and illegal currency and fuel dealers .",O B-per O O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP VBZ IN IN DT JJ CD NNS , NNS VBP VBN RP CD NNS WP DT NN VBD IN NN NNS , NNS CC JJ NN CC NN NNS ."
+"The report says the operation was designed as a follow-up to "" Restore Order , "" when Zimbabwe 's government destroyed unauthorized dwellings and market stalls in what it said was a bid to end urban crime .",O O O O O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ DT NN VBD VBN IN DT NN TO RQU NNP NNP , LQU WRB NNP POS NN VBD JJ NNS CC NN NNS IN WP PRP VBD VBD DT NN TO VB JJ NN ."
+The newspaper says criminals were returning to the same neighborhoods .,O O O O O O O O O O O,DT NN VBZ NNS VBD VBG TO DT JJ NNS .
+A United Nations fact-finding mission called the policy disastrous and inhumane .,O B-org I-org O O O O O O O O O,DT NNP NNPS JJ NN VBD DT NN JJ CC JJ .
+"It estimated some 700,000 people lost their homes and businesses .",O O O O O O O O O O O,PRP VBD DT CD NNS VBD PRP$ NNS CC NNS .
+Zimbabwe has promised to build new housing for those it displaced .,B-geo O O O O O O O O O O O,NNP VBZ VBN TO VB JJ NN IN DT PRP VBD .

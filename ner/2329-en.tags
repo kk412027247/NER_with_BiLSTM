@@ -1,0 +1,6 @@
+Insurgents in Iraq have threatened to kill three kidnapped Romanian journalists and their Iraqi-American translator unless Romania withdraws its troops from Iraq .,O O B-geo O O O O O O B-gpe O O O O O O B-geo O O O O B-geo O,NNS IN NNP VBP VBN TO VB CD VBN JJ NNS CC PRP$ JJ NN IN NNP VBZ PRP$ NNS IN NNP .
+The Arabic television channel al-Jazeera broadcast the videotaped threat Friday .,O O O O B-org O O O O B-tim O,DT JJ NN NN NNP VBD DT VBN NN NNP .
+The video shows the hostages appealing to the Romanian government to announce the withdrawal of its 800 troops within four days .,O O O O O O O O B-gpe O O O O O O O O O B-tim I-tim O O,DT NN VBZ DT NNS VBG TO DT JJ NN TO VB DT NN IN PRP$ CD NNS IN CD NNS .
+"Otherwise , the insurgents say the hostages will be executed .",O O O O O O O O O O O,"RB , DT NNS VBP DT NNS MD VB VBN ."
+"Earlier , a car bomb attack on a Shi'ite mosque in Baghdad killed at least nine people and wounded 20 others .",O O O O O O O O O O O B-geo O O O O O O O O O O,"RB , DT NN NN NN IN DT NNP NN IN NNP VBD IN JJS CD NNS CC VBD CD NNS ."
+No one has claimed responsibility for the attack outside the al-Subeih mosque during Friday prayers .,O O O O O O O O O O O O O B-tim O O,DT NN VBZ VBN NN IN DT NN IN DT JJ NN IN NNP NNS .

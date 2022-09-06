@@ -1,0 +1,7 @@
+Tempers flared in the Iraqi parliament when Shi'ite lawmakers tried to force debate on designating autonomous regions in the country .,O O O O B-gpe O O O O O O O O O O O O O O O O,NNP VBD IN DT JJ NN WRB NNP NNS VBD TO VB NN IN VBG JJ NNS IN DT NN .
+The Shi'ite lawmakers tried to discuss their proposal during a stormy session Thursday .,O O O O O O O O O O O O B-tim O,DT NNP NNS VBD TO VB PRP$ NN IN DT JJ NN NNP .
+"But they were cut off by the speaker of parliament , Mahmoud al-Mashhadani , who said he had not seen the proposal .",O O O O O O O O O O O B-per I-per O O O O O O O O O O,"CC PRP VBD VBN RP IN DT NN IN NN , NNP NNP , WP VBD PRP VBD RB VBN DT NN ."
+"The Shi'ites , who dominate parliament , want to establish an autonomous region in southern Iraq , modeled after the Kurdish north .",O O O O O O O O O O O O O O B-geo I-geo O O O O O O O,"DT NNS , WP VBP NN , VBP TO VB DT JJ NN IN JJ NNP , VBN IN DT NNP NN ."
+"Sunni Arabs , who fear the proposal could split the country , are concentrated in the resource-poor central and western Iraq .",B-per B-gpe O O O O O O O O O O O O O O O O O O B-geo O,"NNP NNS , WP VBP DT NN MD VB DT NN , VBP VBN IN DT JJ JJ CC JJ NNP ."
+Northern and southern Iraq are rich in oil .,B-geo O B-geo I-geo O O O O O,NNP CC JJ NNP VBP JJ IN NN .
+"Iraq 's constitution , which was approved last year , enshrines federalism and allows for the creation of autonomous regions .",B-geo O O O O O O O O O O O O O O O O O O O O,"NNP POS NN , WDT VBD VBN JJ NN , VBZ NN CC VBZ IN DT NN IN JJ NNS ."

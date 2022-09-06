@@ -1,0 +1,8 @@
+Taiwan 's Foreign Ministry says Somali pirates have freed a Taiwanese fishing boat held since last April .,B-org O B-org I-org O B-gpe O O O O B-gpe O O O B-tim O B-tim O,NNP POS NNP NNP VBZ JJ NNS VBP VBN DT JJ NN NN VBN IN JJ NNP .
+The Win Far 161 and its crew were released Thursday .,O B-org I-org O O O O O O B-tim O,DT NNP NNP CD CC PRP$ NN VBD VBN NNP .
+"The French news agency , AFP , quotes a maritime monitoring group - Ecoterra International - as saying a ransom was paid , but the amount was not immediately clear .",O B-gpe O O O B-org O O O O O O O B-geo I-geo I-geo O O O O O O O O O O O O O O O,"DT JJ NN NN , NNP , VBZ DT NN NN NN : NNP NNP : IN VBG DT NN VBD VBN , CC DT NN VBD RB RB JJ ."
+The group also says three of the 30 crew members did not survive the ordeal .,O O O O O O O O O O O O O O O O,DT NN RB VBZ CD IN DT CD NN NNS VBD RB VB DT NN .
+"It says two Indonesians and one Chinese crew member died of malnutrition , disease and neglect during the last month .",O O O B-gpe O O B-gpe O O O O O O O O O O O O O O,"PRP VBZ CD NNS CC CD JJ NN NN VBD IN NN , NN CC NN IN DT JJ NN ."
+The Taiwanese tuna trawler was seized April 6 of last year near the Seychelles in the Indian Ocean .,O B-gpe O O O O B-tim I-tim I-tim O O O O B-geo O O B-geo I-geo O,DT JJ NN NN VBD VBN NNP CD IN JJ NN IN DT NNS IN DT NNP NNP .
+Somali pirates still hold at least seven ships and more than 160 crew members .,B-gpe O O O O O O O O O O O O O O,JJ NNS RB VBP IN JJS CD NNS CC JJR IN CD NN NNS .
+Somalia has not had a functioning central government since 1991 .,B-org O O O O O O O B-tim I-tim O,NNP VBZ RB VBN DT VBG JJ NN IN CD .

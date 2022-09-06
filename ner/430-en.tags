@@ -1,0 +1,6 @@
+"Egyptian President Hosni Mubarak has returned home , three weeks after undergoing gallbladder surgery in a German hospital .",B-gpe B-per I-per I-per O O O O O O O O O O O O B-gpe O O,"JJ NNP NNP NNP VBZ VBN NN , CD NNS IN VBG NN NN IN DT JJ NN ."
+"The 81-year-old leader arrived at an airport in Sharm el-Sheikh Saturday , and was greeted by senior government officials .",O O O O O O O O B-geo I-geo B-tim O O O O O O O O O,"DT JJ NN VBD IN DT NN IN NNP NNP NNP , CC VBD VBN IN JJ NN NNS ."
+Authorities said Mr. Mubarak resumes his presidential duties upon his return to Egypt .,O O B-per I-per O O O O O O O O B-geo O,NNS VBD NNP NNP VBZ PRP$ JJ NNS IN PRP$ NN TO NNP .
+"President Mubarak temporarily handed over power to Prime Minister Ahmed Nazif before undergoing surgery in Heidelberg , Germany on March 6 .",B-per I-per O O O O O B-per I-per I-per I-per O O O O B-geo O B-geo O B-tim I-tim O,"NNP NNP RB VBD IN NN TO NNP NNP NNP NNP IN VBG NN IN NNP , NNP IN NNP CD ."
+Doctors removed his gall bladder and a growth in his small intestine .,O O O O O O O O O O O O O,NNS VBD PRP$ NN NN CC DT NN IN PRP$ JJ NN .
+He has served as Egypt 's president for more than two decades .,O O O O B-geo O O O B-tim I-tim I-tim I-tim O,PRP VBZ VBN IN NNP POS NN IN JJR IN CD NNS .

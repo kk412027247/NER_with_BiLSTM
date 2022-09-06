@@ -1,0 +1,8 @@
+Police in Afghanistan say Afghan and NATO forces have killed 18 Taleban rebels in clashes in the country 's volatile southern region .,O O B-geo O B-gpe O B-org O O O O B-org O O O O O O O O O O O,NNS IN NNP VBP JJ CC NNP NNS VBP VBN CD NNP NNS IN NNS IN DT NN POS JJ JJ NN .
+The fighting took place Tuesday near the village of Garmser in Helmand province .,O O O O B-tim O O O O B-geo O B-geo O O,DT NN VBD NN NNP IN DT NN IN NNP IN NNP NN .
+There were no casualties reported among the NATO and Afghan troops .,O O O O O O O B-org O B-gpe O O,EX VBD DT NNS VBN IN DT NNP CC JJ NNS .
+"Also on Tuesday , three British soldiers were killed in the same province when suspected Taleban insurgents ambushed a NATO patrol .",O O B-tim O O B-gpe O O O O O O O O O B-org O O O B-org O O,"RB IN NNP , CD JJ NNS VBD VBN IN DT JJ NN WRB VBN NNP NNS VBD DT NNP NN ."
+NATO took over security operations this week from U.S.-led coalition forces in six southern Afghan provinces .,B-org O O O O O O O O O O O O O B-gpe O O,NNP VBD RP NN NNS DT NN IN JJ NN NNS IN CD JJ JJ NNS .
+"A car exploded just outside Afghanistan 's capital , Kabul , killing one person in the vehicle Wednesday , and wounding at least two others .",O O O O O B-geo O O O B-per O O O O O O O B-tim O O O O O O O O,"DT NN VBD RB IN NNP POS NN , NNP , VBG CD NN IN DT NN NNP , CC VBG IN JJS CD NNS ."
+Police say they are not sure if the blast was a suicide attack .,O O O O O O O O O O O O O O,NNS VBP PRP VBP RB JJ IN DT NN VBD DT NN NN .
+At least one of the people injured was in the vehicle at the time of the explosion .,O O O O O O O O O O O O O O O O O O,IN JJS CD IN DT NNS VBN VBD IN DT NN IN DT NN IN DT NN .

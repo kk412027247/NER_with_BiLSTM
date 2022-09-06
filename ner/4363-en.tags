@@ -1,0 +1,7 @@
+Turkey 's parliament has approved sending military forces to join a United Nations peacekeeping mission in Lebanon .,B-geo O O O O O O O O O O B-org I-org O O O B-geo O,NNP POS NN VBZ VBN VBG JJ NNS TO VB DT NNP NNP VBG NN IN NNP .
+Prime Minister Recep Tayyip Erdogan had urged support for the mission following a cease-fire between Israel and the Lebanese group Hezbollah .,B-per I-per I-per I-per I-per O O O O O O O O O O B-geo O O B-gpe O B-org O,NNP NNP NNP NNP NNP VBD VBN NN IN DT NN VBG DT NN IN NNP CC DT JJ NN NNP .
+Lawmakers voted 340 to 192 to approve the deployment Tuesday .,O O O O O O O O O B-tim O,NNS VBD CD TO CD TO VB DT NN NNP .
+"Turkish officials say they will send nearly 1,000 military personnel to conduct naval patrols off Lebanon and to help train Lebanese troops .",B-gpe O O O O O O O O O O O O O O B-geo O O O O B-gpe O O,JJ NNS VBP PRP MD VB RB CD JJ NNS TO VB JJ NNS IN NNP CC TO VB VB JJ NNS .
+"Before the vote , thousands of people rallied outside the parliament building in Ankara to protest the mission .",O O O O O O O O O O O O O B-geo O O O O O,"IN DT NN , NNS IN NNS VBD IN DT NN NN IN NNP TO VB DT NN ."
+U.N. Secretary-General Kofi Annan arrived in Ankara today for talks on the U.N. force .,B-per I-per I-per I-per O O B-geo B-tim O O O O B-geo O O,NNP NNP NNP NNP VBD IN NNP NN IN NNS IN DT NNP NN .
+"Turkey is the second Muslim country , after Qater , to commit troops to the expanded force .",B-geo O O O B-geo O O O B-geo O O O O O O O O O,"NNP VBZ DT JJ NNP NN , IN NNP , TO VB NNS TO DT VBN NN ."

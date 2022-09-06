@@ -1,0 +1,7 @@
+Keith Richards says he once snorted his father 's ashes mixed with cocaine .,B-per I-per O O O O O O O O O O O O,NNP NNP VBZ PRP RB VBD PRP$ NN POS NNS JJ IN NN .
+"Speaking to the British music magazine "" NME , "" the 63-year-old Rolling Stones guitarist acknowledges ingesting his father 's cremated remains .",O O O B-gpe O O O B-org O O O O O O O O O O O O O O O,"VBG TO DT JJ NN NN LQU NNP , RQU DT JJ NNP NNP NN VBZ VBG PRP$ NN POS JJ NNS ."
+""" My dad would n't have cared , "" he said , "" it went down pretty well , and I 'm still alive . """,O O O O O O O O O O O O O O O O O O O O O O O O O O,"LQU PRP$ NN MD RB VB VBN , RQU PRP VBD , LQU PRP VBD RB RB RB , CC PRP VBP RB JJ . RQU"
+"Richards ' father , Bert , died at age 84 in 2002 .",B-per O O O B-per O O O O O O B-tim O,"NNP POS NN , NNP , VBD IN NN CD IN CD ."
+"The famously hard-living Richards told NME that his survival was the result of luck , and he cautioned young musicians not to emulate him .",O O O B-per O B-org O O O O O O O O O O O O O O O O O O O,"DT RB JJ NNP VBD NNP IN PRP$ NN VBD DT NN IN NN , CC PRP VBD JJ NNS RB TO VB PRP ."
+""" I was number one on the ' who 's likely to die ' list for 10 years , "" he said .",O O O O O O O O O O O O O O O O B-tim O O O O O O,"LQU PRP VBD NN CD IN DT LQU WP VBZ JJ TO VB RQU NN IN CD NNS , RQU PRP VBD ."
+""" I mean , I was really disappointed when I fell off the list . """,O O O O O O O O O O O O O O O O,"LQU PRP VBP , PRP VBD RB JJ WRB PRP VBD RP DT NN . RQU"

@@ -1,0 +1,7 @@
+El Salvador has sent a fourth contingent of soldiers to Iraq .,B-org I-org O O O O O O O O B-geo O,NNP NNP VBZ VBN DT JJ NN IN NNS TO NNP .
+Roughly 380 soldiers from the Cuscatlan Battalion left a military base Thursday for their six-month tour of duty in Iraq .,O O O O O B-org I-org O O O O B-tim O O B-tim O O O O B-geo O,RB CD NNS IN DT NNP NNP VBD DT JJ NN NNP IN PRP$ JJ NN IN NN IN NNP .
+Officials say the troops will make a stop in Kuwait .,O O O O O O O O O B-geo O,NNS VBP DT NNS MD VB DT NN IN NNP .
+The Salvadorans will replace 380 troops who have been in Iraq since last August .,O B-gpe O O O O O O O O B-geo B-tim O B-tim O,DT NNS MD VB CD NNS WP VBP VBN IN NNP IN JJ NNP .
+El Salvador is the only Latin American country with troops in Iraq .,B-org I-org O O O O B-gpe O O O O B-geo O,NNP NNP VBZ DT RB JJ JJ NN IN NNS IN NNP .
+"Honduras , Nicaragua and the Dominican Republic have withdrawn their forces .",B-org O B-org O O B-org I-org O O O O O,"NNP , NNP CC DT NNP NNP VBP VBN PRP$ NNS ."
+"Last April , one Salvadoran soldier was killed and 12 others wounded during a clash with insurgents .",O B-tim O O B-org O O O O O O O O O O O O O,"JJ NNP , CD JJ NN VBD VBN CC CD NNS VBN IN DT NN IN NNS ."

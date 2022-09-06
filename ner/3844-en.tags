@@ -1,0 +1,7 @@
+The U.S. military says the pilot of an American U-2 spy plane was killed when the plane crashed late Tuesday in southwest Asia .,O B-geo O O O O O O B-gpe O O O O O O O O O O B-tim O O B-geo O,DT NNP NN VBZ DT NN IN DT JJ NN NN NN VBD VBN WRB DT NN VBD JJ NNP IN JJ NNP .
+"Military officials have not specified the exact location of the crash , saying that "" host nation sensitivities "" are involved .",O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP RB VBN DT JJ NN IN DT NN , VBG IN RQU NN NN NNS LQU VBP VBN ."
+But officials say the plane went down as it returned to Al Dhafra Air Base in the United Arab Emirates .,O O O O O O O O O O O B-org I-org I-org I-org O O B-org I-org I-org O,CC NNS VBP DT NN VBD RB IN PRP VBD TO NNP NNP NNP NNP IN DT NNP NNP NNPS .
+"The U-2s are assigned to the 380th Air Expeditionary Wing , which operates out of the base .",O O O O O O B-org I-org I-org I-org O O O O O O O O,"DT NNS VBP VBN TO DT CD NNP NNP NNP , WDT VBZ IN IN DT NN ."
+Central Command says the plane had just finished a mission for Operation Enduring Freedom - the name for U.S. operations in Afghanistan .,B-org I-org O O O O O O O O O B-org I-org I-org I-org O O O B-geo O O B-geo O,NNP NNP VBZ DT NN VBD RB VBN DT NN IN NNP NNP NNP IN DT NN IN NNP NNS IN NNP .
+Officials say they do not believe the plane was brought down by hostile fire .,O O O O O O O O O O O O O O O,NNS VBP PRP VBP RB VB DT NN VBD VBN RP IN JJ NN .
+The U-2 is a high-altitude aircraft used for reconnaissance and surveillance .,O O O O O O O O O O O O,DT NN VBZ DT JJ NN VBN IN NN CC NN .

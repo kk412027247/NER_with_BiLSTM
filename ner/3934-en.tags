@@ -1,0 +1,8 @@
+"European and Asian leaders have pledged to continue working to reduce carbon dioxide emissions , blamed by many scientists for global warming .",O O O O O O O O O O O O O O O O O O O O O O O,"JJ CC JJ NNS VBP VBN TO VB VBG TO VB NN NN NNS , VBN IN JJ NNS IN JJ NN ."
+Top officials from 38 Asian and European nations concluded their Asia-Europe Meeting in Helsinki Monday .,O O O O O O O O O O O O O B-tim I-tim O,JJ NNS IN CD JJ CC JJ NNS VBD PRP$ JJ NN IN NNP NNP .
+They released a final statement promising to continue working to reduce greenhouse gas emissions after the Kyoto Protocol on climate change expires in 2012 .,O O O O O O O O O O O O O O O O B-org I-org O O O O O B-tim O,PRP VBD DT JJ NN VBG TO VB VBG TO VB NN NN NNS IN DT NNP NNP IN NN NN VBZ IN CD .
+But no firm targets were set .,O O O O O O O,CC DT NN NNS VBD VBN .
+"In their final statement , the 38 leaders agreed to share cleaner and climate-friendly technology with developing nations .",O O O O O O O O O O O O O O O O O O O,"IN PRP$ JJ NN , DT CD NNS VBD TO VB NN CC JJ NN IN VBG NNS ."
+"Enacted in 2005 , the Kyoto Protocol establishes goals for 35 industrialized nations to reduce carbon dioxide emissions by about five percent below 1990 levels by 2012 .",O O B-tim O O B-org I-org O O O O O O O O O O O O O O O O B-tim O O B-tim O,"VBN IN CD , DT NNP NNP VBZ NNS IN CD JJ NNS TO VB NN NN NNS IN IN CD NN IN CD NNS IN CD ."
+The agreement does not require developing nations like India and China to restrict their emissions .,O O O O O O O O B-geo O B-geo O O O O O,DT NN VBZ RB VB VBG NNS IN NNP CC NNP TO VB PRP$ NNS .
+"Citing economic reasons , the United States has not signed the protocol .",O O O O O B-geo I-geo O O O O O O,"VBG JJ NNS , DT NNP NNPS VBZ RB VBN DT NN ."

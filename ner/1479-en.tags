@@ -1,0 +1,8 @@
+"Cuban boxer Guillermo Rigondeaux , a two-time Olympic gold medalist , has defected to the United States and plans to turn professional .",B-gpe O B-per I-per O O O O O O O O O O O B-geo I-geo O O O O O O,"JJ NN NNP NNP , DT JJ NNP NN NN , VBZ VBN TO DT NNP NNPS CC VBZ TO VB JJ ."
+A U.S. representative of German-based Arena-Box Promotion says Rigondeaux is in Miami and has signed a contract with the company .,O B-geo O O O O O O B-per O O B-geo O O O O O O O O O,DT NNP NN IN JJ NNP NNP VBZ NNP VBZ IN NNP CC VBZ VBN DT NN IN DT NN .
+The promoter would not say when or how the boxer made it to Miami .,O O O O O O O O O O O O O B-geo O,DT NN MD RB VB WRB CC WRB DT NN VBD PRP TO NNP .
+Rigondeaux won the gold medal in the bantam weight division at the 2000 and 2004 Olympic games .,B-per O O O O O O O O O O O B-tim O O O O O,NNP VBD DT NN NN IN DT NN NN NN IN DT CD CC CD NNP NNS .
+He was dropped from the Cuban team after he and teammate Erislandy Lara unsuccessfully tried to defect during the 2007 Pan-American Games in Rio de Janeiro .,O O O O O B-gpe O O O O O B-per I-per O O O O O O O O O O B-geo I-geo I-geo O,PRP VBD VBN IN DT JJ NN IN PRP CC NN NNP NNP RB VBD TO VB IN DT CD JJ NNPS IN NNP IN NNP .
+They were arrested by Brazilian police and sent back to Cuba .,O O O O B-gpe O O O O O B-geo O,PRP VBD VBN IN JJ NN CC VBN RB TO NNP .
+Rigondeaux is the latest world class boxer to leave Cuba .,B-per O O O O O O O O B-geo O,NNP VBZ DT JJS NN NN NN TO VB NNP .
+"Earlier defections include Lara and Odlanier Solis , the 2004 Olympic heavyweight champion .",O O O B-per O B-per I-per O O O O O O O,"RBR NNS VBP NNP CC NNP NNP , DT CD NNP NN NN ."

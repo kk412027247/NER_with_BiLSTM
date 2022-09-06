@@ -1,0 +1,8 @@
+Teams that have qualified for the upcoming World Cup football finals next month in Germany continue to practice in friendly international games .,O O O O O O O O O O O O O O B-geo O O O O O O O O,NNS WDT VBP VBN IN DT JJ NNP NNP NN NNS JJ NN IN NNP VBP TO VB IN JJ JJ NNS .
+Croatia and visiting Iran played to a 2-2 draw Sunday .,B-geo O O B-geo O O O O O B-tim O,NNP CC VBG NNP VBD TO DT JJ NN NNP .
+Host Ukraine scored a 4-0 win over Costa Rica .,B-org I-org O O O O O B-geo I-geo O,NNP NNP VBD DT JJ NN IN NNP NNP .
+Ukraine is appearing in its first World Cup while Costa Rica will face host Germany in the World Cup opener on June 9 in Munich .,B-org O O O O O O O O B-geo I-geo O O O B-geo O O O O O O B-tim I-tim O B-org O,NNP VBZ VBG IN PRP$ JJ NNP NNP IN NNP NNP MD VB NN NNP IN DT NNP NNP NN IN NNP CD IN NNP .
+"Playing Sunday in Hamburg , Estonia and Turkey played to a 1-1 draw .",O B-tim O B-geo O B-geo O B-geo O O O O O O,"VBG NNP IN NNP , NNP CC NNP VBD TO DT JJ NN ."
+"In Madrid , Macedonia was a 2-1 winner over Ecuador .",O B-geo O B-geo O O O O O B-geo O,"IN NNP , NNP VBD DT JJ NN IN NNP ."
+"Mali beat Morocco , 1-0 , in a game played in Paris .",B-org O B-org O B-geo O O O O O O B-geo O,"NNP VBD NNP , CD , IN DT NN VBN IN NNP ."
+The United States hosts Latvia in a game later Sunday as part of a three-match friendly warmup before the U.S. team heads to Germany .,O B-geo I-geo O B-geo O O O O B-tim O O O O O O O O O B-geo O O O B-geo O,DT NNP NNPS VBZ NNP IN DT NN RB NNP IN NN IN DT JJ JJ NN IN DT NNP NN VBZ TO NNP .

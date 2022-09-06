@@ -1,0 +1,7 @@
+Bolivia 's new president has cut top officials ' salaries by half and says the savings will be used for education and health programs .,B-geo O O O O O O O O O O O O O O O O O O O O O O O O,NNP POS JJ NN VBZ VBN JJ NNS POS NNS IN NN CC VBZ DT NNS MD VB VBN IN NN CC NN NNS .
+Evo Morales fulfilled his campaign promise to cut salaries after a cabinet meeting late Thursday .,B-per I-per O O O O O O O O O O O O B-tim O,NNP NNP VBD PRP$ NN NN TO VB NNS IN DT NN NN JJ NNP .
+"He announced a 57 percent pay cut for himself , to about $ 1,800 ( U.S. ) a month .",O O O O O O O O O O O O O O O B-org O O O O,"PRP VBD DT CD NN NN NN IN PRP , TO RB $ CD LRB NNP RRB DT NN ."
+He reduced his ministers ' salaries by half and decreed that no public official can make more than the president .,O O O O O O O O O O O O O O O O O O O O O,PRP VBD PRP$ NNS POS NNS IN NN CC VBD IN DT JJ NN MD VB JJR IN DT NN .
+"During his campaign , Mr. Morales promised a more austere budget for Bolivia , South America 's poorest country .",O O O O B-per I-per O O O O O O B-geo O B-geo I-geo O O O O,"IN PRP$ NN , NNP NNP VBD DT RBR JJ NN IN NNP , NNP NNP POS JJS NN ."
+The coca farmer and workers ' rights activist was elected by a landslide in December .,O O O O O O O O O O O O O O B-tim O,DT NN NN CC NNS POS NNS NN VBD VBN IN DT NN IN NNP .
+He is Bolivia 's first ethnically indigenous president .,O O B-geo O O O O O O,PRP VBZ NNP POS JJ RB JJ NN .

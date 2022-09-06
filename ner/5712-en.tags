@@ -1,0 +1,8 @@
+"Witnesses in Burma have reported two explosions in the country 's main city , Rangoon .",O O B-geo O O O O O O O O O O O B-org O,"NNS IN NNP VBP VBN CD NNS IN DT NN POS JJ NN , NNP ."
+"They say Burmese security forces sealed off a park and a bus station hit by the explosions , which happened Tuesday night about an hour apart .",O O B-gpe O O O O O O O O O O O O O O O O O B-tim I-tim O O O O O,"PRP VBP JJ NN NNS VBD RP DT NN CC DT NN NN VBN IN DT NNS , WDT VBD NNP NN IN DT NN RB ."
+The witnesses say police brought in bomb-sniffing dogs and ordered onlookers to disperse .,O O O O O O O O O O O O O O,DT NNS VBP NNS VBD IN NN NNS CC VBD NNS TO VB .
+Burma 's military rulers made no comment on the explosions and there were no reports of serious casualties .,B-geo O O O O O O O O O O O O O O O O O O,NNP POS JJ NNS VBD DT NN IN DT NNS CC EX VBD DT NNS IN JJ NNS .
+Burma has seen several small bombings in recent years .,B-geo O O O O O O B-tim O O,NNP VBZ VBN JJ JJ NNS IN JJ NNS .
+The military government has blamed them on its political opponents or ethnic rebel groups seeking autonomy .,O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN PRP IN PRP$ JJ NNS CC JJ NN NNS VBG NN .
+The groups deny carrying out such attacks .,O O O O O O O O,DT NNS VBP VBG RP JJ NNS .
+Burma has been under near-continuous military rule since 1962 .,B-geo O O O O O O B-tim I-tim O,NNP VBZ VBN IN JJ JJ NN IN CD .

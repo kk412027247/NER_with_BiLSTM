@@ -1,0 +1,8 @@
+China has announced its sixth human bird flu death .,B-org O O O O O O O O O,NNP VBZ VBN PRP$ JJ NN NN NN NN .
+Chinese health officials said Wednesday a 35-year-old woman from Sichuan province died last week from the H5N1 strain .,B-gpe O O O B-tim O O O O B-geo O O O O O O B-nat B-tim O,JJ NN NNS VBD NNP DT JJ NN IN NNP NN VBD JJ NN IN DT NNP NN .
+"Meanwhile , Turkish officials say bird flu killed an 11-year-old girl on her way to a hospital Wednesday .",O O B-gpe O O O O O O O O O O O O O O B-tim O,"RB , JJ NNS VBP NN NN VBD DT JJ NN IN PRP$ NN TO DT NN NNP ."
+"And Iraqi health officials have sent samples to a lab , suspecting bird flu in the death of 14-year-old girl in the Kurdish city of Suleimaniya .",O B-gpe O O O O O O O O O O O O O O O O O O O O O O O B-geo O,"CC JJ NN NNS VBP VBN NNS TO DT NN , VBG NN NN IN DT NN IN JJ NN IN DT JJ NN IN NNP ."
+"The news of the deaths came as international donors pledged nearly two billion dollars at a bird flu conference in Beijing , exceeding expectations .",O O O O O O O O O O O B-tim O O O O O O O O B-geo O O O O,"DT NN IN DT NNS VBD IN JJ NNS VBD RB CD CD NNS IN DT NN NN NN IN NNP , VBG NNS ."
+The money will be used by poor countries to set up prevention programs .,O O O O O O O O O O O O O O,DT NN MD VB VBN IN JJ NNS TO VB RP NN NNS .
+U.N. officials say the virus - which has spread from southeast Asia and China into Turkey - could soon move into Africa and Europe with devastating effects .,B-org O O O O O O O O O O B-geo O B-geo O B-geo I-geo O O O O B-geo O B-geo O O O O,NNP NNS VBP DT NN : WDT VBZ VBN IN JJ NNP CC NNP IN NNP : MD RB VB IN NNP CC NNP IN JJ NNS .
+Bird flu has killed more than 80 people since 2003 .,O O O O O O O O B-tim I-tim O,NN NN VBZ VBN JJR IN CD NNS IN CD .

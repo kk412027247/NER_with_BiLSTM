@@ -1,0 +1,8 @@
+U.S. experts say sediment left by receding floodwaters in New Orleans is contaminated and could pose health risks to returning residents .,B-geo O O O O O O O O B-geo I-geo O O O O O O O O O O O,NNP NNS VBP NN VBN IN VBG NNS IN NNP NNP VBZ VBN CC MD VB NN NNS TO VBG NNS .
+The Environmental Protection Agency said Friday that recent test samples from storm debris and soil revealed high levels of bacteria and fuel oil .,O B-org I-org I-org O B-tim O O O O O O O O O O O O O O O O O O,DT NNP NNP NNP VBD NNP IN JJ NN NNS IN NN NN CC NN VBD JJ NNS IN NNS CC NN NN .
+Officials warned people to avoid contact with the contaminated materials .,O O O O O O O O O O O,NNS VBD NNS TO VB NN IN DT JJ NNS .
+U.S. experts had previously reported high levels of bacteria in the floodwaters of New Orleans .,B-geo O O O O O O O O O O O O B-geo I-geo O,NNP NNS VBD RB VBN JJ NNS IN NNS IN DT NNS IN NNP NNP .
+"As sediment dries , they plan to conduct air sampling and assess other exposure risks .",O O O O O O O O O O O O O O O O,"IN NN NNS , PRP VBP TO VB NN NN CC VB JJ NN NNS ."
+Oil spills have been reported in New Orleans and many parts of Louisiana 's southeastern coast .,O O O O O O B-geo I-geo O O O O B-geo O O O O,NNP NNS VBP VBN VBN IN NNP NNP CC JJ NNS IN NNP POS JJ NN .
+"The U.S. Coast Guard has counted more than 40 spills from refineries , storage depots and other facilities .",O B-org I-org I-org O O O O O O O O O O O O O O O,"DT NNP NNP NNP VBZ VBN JJR IN CD NNS IN NNS , NN NNS CC JJ NNS ."
+The spills range in size from several hundred liters to 15 million liters .,O O O O O O O O O O O O O O,DT NNS VBP IN NN IN JJ CD NNS TO CD CD NNS .

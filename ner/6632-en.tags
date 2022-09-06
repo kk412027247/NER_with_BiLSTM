@@ -1,0 +1,6 @@
+The world 's largest car company says it will cut prices on 80 percent of its offerings this year .,O O O O O O O O O O O O O O O O O O O O,DT NN POS JJS NN NN VBZ PRP MD VB NNS IN CD NN IN PRP$ NNS DT NN .
+U.S.-based General Motors lost $ 4.8 billion in its North American operations last year and is trying to boost sales .,B-org I-org I-org O O O O O O O B-gpe O O O O O O O O O O,JJ NNP NNPS VBD $ CD CD IN PRP$ JJ JJ NNS JJ NN CC VBZ VBG TO VB NNS .
+"The program cuts prices by an average of $ 1,300 and goes into effect Wednesday .",O O O O O O O O O O O O O O B-tim O,DT NN NNS NNS IN DT NN IN $ CD CC VBZ IN NN NNP .
+"The price cuts affect all Buick , Chevrolet and GMC vehicles and most Pontiac models .",O O O O O B-art O B-art O B-art O O O O O O,"DT NN NNS VBP DT NNP , NNP CC NNP NNS CC RBS JJ NNS ."
+"The action comes after GM and other U.S. car companies lost market share to Asian rivals , including Japan 's Toyota .",O O O O B-org O O B-geo O O O O O O O O O O B-org O B-geo O,"DT NN VBZ IN NNP CC JJ NNP NN NNS VBD NN NN TO JJ NNS , VBG NNP POS NNP ."
+GM 's market share fell to only 26 percent of the U.S. market while Asian companies rose to a record 36.5 percent share last year .,B-org O O O O O O O O O O B-geo O O O O O O O O O O O O O O,NNP POS NN NN VBD TO RB CD NN IN DT NNP NN IN JJ NNS VBD TO DT NN CD NN NN JJ NN .

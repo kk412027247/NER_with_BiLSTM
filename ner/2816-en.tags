@@ -1,0 +1,6 @@
+Socialist Michelle Bachelet is set to become Chile 's first woman president after winning Sunday 's runoff election .,B-per I-per I-per O O O O B-geo O O O O O O B-tim O O O O,NNP NNP NNP VBZ VBN TO VB NNP POS JJ NN NN IN VBG NNP POS NN NN .
+Her rightist opponent Sebastian Pinera conceded defeat as vote tallies put Bachelet ahead with 53 percent of the ballots .,O O O B-per I-per O O O O O O B-per O O O O O O O O,PRP$ JJ NN NNP NNP VBD NN IN NN NNS VBD NNP RB IN CD NN IN DT NNS .
+Pinera was behind with less than 47 percent .,B-per O O O B-tim O O O O,NNP VBD IN IN JJR IN CD NN .
+Two-thirds of the vote have been counted .,O O O O O O O O,NNS IN DT NN VBP VBN VBN .
+"Bachelet , a former political prisoner and later a defense minister , had been projected to win .",B-per O O O O O O O O O O O O O O O O O,"NNP , DT JJ JJ NN CC RB DT NN NN , VBD VBN VBN TO VB ."
+"Succeeding current President Ricardo Lagos , she will inherit an economy that has surged in part because of soaring prices for copper , which is Chile 's top export .",O O B-per I-per I-per O O O O O O O O O O O O O O O O O O O O B-geo O O O O,"VBG JJ NNP NNP NNP , PRP MD VB DT NN WDT VBZ VBN IN NN IN IN VBG NNS IN NN , WDT VBZ NNP POS JJ NN ."

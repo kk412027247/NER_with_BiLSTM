@@ -1,0 +1,8 @@
+Health officials in Turkey say a third child of the same family has died of bird flu in the eastern Turkish city of Van .,O O O B-geo O O O O O O O O O O O O O O O O B-gpe O O B-geo O,NNP NNS IN NNP VBP DT JJ NN IN DT JJ NN VBZ VBN IN NN NN IN DT JJ JJ NN IN NNP .
+"Doctors say the 11-year-old girl , Hulya Kocyigit died Friday .",O O O O O O B-org I-org O B-tim O,"NNS VBP DT JJ NN , NNP NNP VBD NNP ."
+"Her 14-year-old brother died Sunday , and her 15-year-old sister died Thursday .",O O O O B-tim O O O O O O B-tim O,"PRP$ JJ NN VBD NNP , CC PRP$ JJ NN VBD NNP ."
+Health officials say that some 25 people in Turkey - mostly children - are being treated for possible bird flu .,O O O O O O O O B-geo O O O O O O O O O O O O,NNP NNS VBP IN DT CD NNS IN NNP : RB NNS : VBP VBG VBN IN JJ NN NN .
+The World Health Organization is investigating the outbreak - the first one among humans outside east Asia .,O B-org I-org I-org O O O O O O O O O O O B-geo I-geo O,DT NNP NNP NNP VBZ VBG DT NN IN DT JJ CD IN NNS IN JJ NNP .
+"A spokeswoman in Geneva says there is no evidence of human-to-human transmission , but said the development foreshadows a global pandemic .",O O O B-geo O O O O O O O O O O O O O O O O O O,"DT NN IN NNP VBZ EX VBZ DT NN IN JJ NN , CC VBD DT NN VBZ DT JJ NN ."
+Authorities in neighboring Azerbaijan are testing dead birds in the southern part of the country for signs of bird flu .,O O O B-gpe O O O O O O O O O O O O O O O O O,NNS IN JJ NNP VBP VBG JJ NNS IN DT JJ NN IN DT NN IN NNS IN NN NN .
+"Meanwhile , Indonesia says it has budgeted $ 940 million to fight bird flu over the next two years .",O O B-geo O O O O O O O O O O O O O O B-tim O O,"RB , NNP VBZ PRP VBZ VBN $ CD CD TO VB NN NN IN DT JJ CD NNS ."

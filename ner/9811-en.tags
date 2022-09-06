@@ -1,0 +1,4 @@
+The population of the Faroe Islands is largely descended from Viking settlers who arrived in the 9th century .,O O O O B-org I-org O O O O O O O O O O B-tim I-tim O,DT NN IN DT NNP NNP VBZ RB VBN IN VBG NNS WP VBD IN DT JJ NN .
+The islands have been connected politically to Denmark since the 14th century .,O O O O O O O B-geo O O B-tim I-tim O,DT NNS VBP VBN VBN RB TO NNP IN DT JJ NN .
+"A high degree of self government was granted the Faroese in 1948 , who have autonomy over most internal affairs while Denmark is responsible for justice , defense , and foreign affairs .",O O O O O O O O O B-gpe O B-tim O O O O O O O O O B-geo O O O O O O O O O O O,"DT JJ NN IN JJ NN VBD VBN DT NNS IN CD , WP VBP NN IN JJS JJ NNS IN NNP VBZ JJ IN NN , NN , CC JJ NNS ."
+The Faroe Islands are not part of the European Union .,O B-org I-org O O O O O B-org I-org O,DT NNP NNPS VBP RB NN IN DT NNP NNP .

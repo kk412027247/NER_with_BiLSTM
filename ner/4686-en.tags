@@ -1,0 +1,9 @@
+"France 's Sandrine Bailly has claimed her first World Cup win of the season in a women 's 7.5-kilometer biathlon sprint event in Ruhpolding , Germany .",B-geo O B-geo I-geo O O O O O O O O O O O O O O O O O O O B-geo O B-geo O,"NNP POS NNP NNP VBZ VBN PRP$ JJ NNP NNP NN IN DT NN IN DT NNS POS JJ NN NN NN IN NNP , NNP ."
+Bailly finished in 24:57.06 with one shooting miss .,B-geo O O O O O O O O,NNP VBD IN CD IN CD NN VBP .
+"Kati Wilhelm of Germany was second , 1.4 seconds back , also with one penalty lap .",B-per I-per O B-geo O O O O O O O O O O O O O,"NNP NNP IN NNP VBD JJ , CD NNS RB , RB IN CD NN NN ."
+"Russian Svetlana Ishmouratova was third , 23.6 seconds back with no shooting misses .",B-gpe B-per I-per O O O O O O O O O O O,"JJ NNP NNP VBD JJ , CD NNS RB IN DT NN VBZ ."
+"Wilhelm retained the overall World Cup lead with 387 points , 49 more than Sweden 's Anna Carin Olofsson .",B-per O O O O O O O O O O O O O B-geo O B-geo I-geo I-geo O,"NNP VBD DT JJ NNP NNP NN IN CD NNS , CD JJR IN NNP POS NNP NNP NNP ."
+Ishmouratova is third overall with 328 points .,B-per O O O O O O O,NNP VBZ JJ JJ IN CD NNS .
+The competition continues through Sunday .,O O O O B-tim O,DT NN VBZ IN NNP .
+Biathlon combines cross-country skiing and rifle shooting from a variety of positions .,O O O O O O O O O O O O O,NN VBZ NN NN CC NN NN IN DT NN IN NNS .
+Athletes must ski penalty laps for shooting misses .,O O O O O O O O O,NNS MD VB NN NNS IN VBG NNS .

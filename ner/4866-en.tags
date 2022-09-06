@@ -1,0 +1,7 @@
+The full U.S. Senate begins debate Monday on the nomination of John Roberts as chief justice of the United States .,O O B-org I-org O O B-tim O O O O B-geo I-geo O O O O O B-geo I-geo O,DT JJ NNP NNP VBZ NN NNP IN DT NN IN NNP NNP IN JJ NN IN DT NNP NNPS .
+Mr. Roberts appears to have more than enough votes to be confirmed in the Republican-controlled Senate .,B-per I-per O O O O O O O O O O O O O B-org O,NNP NNP VBZ TO VB JJR IN JJ NNS TO VB VBN IN DT JJ NNP .
+"At least nine Democrats have pledged their support for the conservative judge , along with all 55 Republican senators .",O O O O O O O O O O O O O O O O O O O O,"IN JJS CD NNS VBP VBN PRP$ NN IN DT JJ NN , IN IN DT CD NNP NNS ."
+Confirmation requires a simple majority of the 100 senators .,O O O O O O O O O O,NNP VBZ DT JJ NN IN DT CD NNS .
+A final vote is expected to take place Thursday .,O O O O O O O O B-tim O,DT JJ NN VBZ VBN TO VB NN NNP .
+"With Mr. Roberts ' confirmation virtually assured , many lawmakers are turning their attention to President Bush 's next nomination to the Supreme Court .",O B-per I-per O O O O O O O O O O O O B-per I-per O O O O O B-org I-org O,"IN NNP NNP POS NN RB VBN , JJ NNS VBP VBG PRP$ NN TO NNP NNP POS JJ NN TO DT NNP NNP ."
+"Many senators are urging Mr. Bush to pick a moderate candidate to succeed Justice Sandra Day O'Connor , who announced her retirement in July .",O O O O B-per I-per O O O O O O O B-per I-per I-per I-per O O O O O O B-tim O,"JJ NNS VBP VBG NNP NNP TO VB DT JJ NN TO VB NNP NNP NNP NNP , WP VBD PRP$ NN IN NNP ."

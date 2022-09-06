@@ -1,0 +1,6 @@
+Indian search teams have recovered at least 50 bodies in the eastern state of West Bengal where an overcrowded ferry capsized .,B-gpe O O O O O O O O O O O O O B-geo I-geo O O O O O O,JJ NN NNS VBP VBN IN JJS CD NNS IN DT JJ NN IN NNP NNP WRB DT JJ NN VBN .
+Officials say more than 100 people were on the ferry when it overturned Saturday in a turbulent river near the Bay of Bengal .,O O O O O O O O O O O O O B-tim O O O O O O B-geo I-geo I-geo O,NNS VBP JJR IN CD NNS VBD IN DT NN WRB PRP VBD NNP IN DT JJ NN IN DT NNP IN NNP .
+"Dozens of passengers have been rescued , but others are still missing .",O O O O O O O O O O O O O,"NNS IN NNS VBP VBN VBN , CC NNS VBP RB VBG ."
+Officials say most of the passengers were Muslims returning to the town of Kakdwip after attending a religious festival .,O O O O O O O O O O O O O B-geo O O O O O O,NNS VBP JJS IN DT NNS VBD NNPS VBG TO DT NN IN NNP IN VBG DT JJ NN .
+Authorities say the boat 's maximum capacity was 60 people .,O O O O O O O O O O O,NNS VBP DT NN POS NN NN VBD CD NNS .
+"Boating accidents are common in India , where vessels are often overloaded and safety standards are poor .",O O O O O B-geo O O O O O O O O O O O O,"VBG NNS VBP JJ IN NNP , WRB NNS VBP RB VBN CC NN NNS VBP JJ ."

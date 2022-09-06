@@ -1,0 +1,7 @@
+Thirty-two Cuban migrants have landed on a small island in the Florida Keys .,O B-gpe O O O O O O O O O B-geo I-geo O,CD JJ NNS VBP VBN IN DT JJ NN IN DT NNP NNPS .
+Coast Guard spokeswoman Sandra Bartlett said Friday the migrants were found on an uninhabited strip of land .,B-org I-org O B-per I-per O B-tim O O O O O O O O O O O,NNP NNP NN NNP NNP VBD NNP DT NNS VBD VBN IN DT JJ NN IN NN .
+She said the Coast Guard picked up the Cubans and handed them over to the U.S. Customs and Border Protection agency .,O O O B-org I-org O O O B-gpe O O O O O O B-org I-org I-org I-org I-org O O,PRP VBD DT NNP NNP VBD RP DT NNS CC VBD PRP RP TO DT NNP NNP CC NNP NNP NN .
+A border protection spokesman said Friday the 32 were in good health .,O O O O O B-tim O O O O O O O,DT NN NN NN VBD NNP DT CD VBD IN JJ NN .
+He said the migrants told him they left Cuba Monday and arrived on the island Thursday night .,O O O O O O O O B-geo B-tim O O O O O B-tim I-tim O,PRP VBD DT NNS VBD PRP PRP VBD NNP NNP CC VBD IN DT NN NNP NN .
+"Nearly 1,500 Cubans were caught trying to reach the United States last year .",O O B-gpe O O O O O O B-geo I-geo O O O,RB CD NNS VBD VBN VBG TO VB DT NNP NNPS JJ NN .
+"Cubans who set foot on U.S. territory are usually allowed to stay , while those intercepted at sea generally are sent home .",B-gpe O O O O B-geo O O O O O O O O O O O O O O O O O,"NNS WP VBD NN IN NNP NN VBP RB VBN TO VB , IN DT VBN IN NN RB VBP VBN NN ."

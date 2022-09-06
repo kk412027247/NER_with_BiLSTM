@@ -1,0 +1,7 @@
+"A Japanese commuter train has derailed and smashed into an apartment building , killing at least 37 people and injuring more than 200 .",O B-gpe O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN NN VBZ VBN CC VBN IN DT NN NN , VBG IN JJS CD NNS CC VBG JJR IN CD ."
+"The crowded seven-car train carrying at least 550 passengers during the Monday morning rush hour also hit an automobile at a road crossing near Amagasaki , 400 kilometers west of Tokyo .",O O O O O O O O O O O B-tim I-tim O O O O O O O O O O O B-geo O O O O O B-geo O,"DT JJ NN NN VBG IN JJS CD NNS IN DT NNP NN NN NN RB VBD DT NN IN DT NN VBG IN NNP , CD NNS NN IN NNP ."
+"The front car of the train , operated by West Japan Railway Company , plowed into the apartment building as two other cars left the tracks .",O O O O O O O O O B-org I-org I-org I-org O O O O O O O O O O O O O O,"DT JJ NN IN DT NN , VBN IN NNP NNP NNP NNP , VBD IN DT NN NN IN CD JJ NNS VBD DT NNS ."
+Rescuers are trying to free several passengers trapped inside the cars .,O O O O O O O O O O O O,NNS VBP VBG TO VB JJ NNS VBN IN DT NNS .
+It is not yet clear if passersby and apartment residents were among the victims .,O O O O O O O O O O O O O O O,PRP VBZ RB RB JJ IN NN CC NN NNS VBD IN DT NNS .
+Authorities say they are investigating what may have caused the deadly accident near Osaka .,O O O O O O O O O O O O O B-geo O,NNS VBP PRP VBP VBG WP MD VB VBN DT JJ NN IN NNP .
+The driver of the train was a 23-year-old man with 11 months experience .,O O O O O O O O O O O O O O,DT NN IN DT NN VBD DT JJ NN IN CD NNS NN .

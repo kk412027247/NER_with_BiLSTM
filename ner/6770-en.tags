@@ -1,0 +1,7 @@
+"Nepalese journalists staged a protest in the capital , Kathmandu , to demand an end to government censorship .",B-gpe O O O O O O O O B-per O O O O O O O O O,"JJ NNS VBD DT NN IN DT NN , NNP , TO VB DT NN TO NN NN ."
+"More than 300 journalists marched through the city Tuesday , waving signs calling for freedom of the press and down with autocracy .",O O O O O O O O B-tim O O O O O O O O O O O O O O,"JJR IN CD NNS VBD IN DT NN NNP , VBG NNS VBG IN NN IN DT NN CC RB IN NN ."
+"Police did not break up the rally or make any arrests , as in previous protests .",O O O O O O O O O O O O O O O O O,"NNS VBD RB VB RP DT NN CC VB DT NNS , IN IN JJ NNS ."
+"Nepal 's King Gyanendra dismissed the government on February 1 , suspended civil liberties and imposed emergency rule .",B-gpe B-org I-org I-org O O O O B-tim I-tim O O O O O O O O O,"NNP POS NNP NNP VBD DT NN IN NNP CD , VBN JJ NNS CC VBN NN NN ."
+The Federation of Nepalese Journalists ( FNJ ) says at least 13 journalists have been detained since then .,O B-org I-org B-gpe B-org O B-org O O O O O O O O O O O O,DT NNP IN JJ NNPS LRB NNP RRB VBZ IN JJS CD NNS VBP VBN VBN IN RB .
+The head of the organization says its members are going to fight until complete press freedom is restored in the country .,O O O O O O O O O O O O O O O O O O O O O O,DT NN IN DT NN VBZ PRP$ NNS VBP VBG TO VB IN JJ NN NN VBZ VBN IN DT NN .
+King Gyanendra said he made the power grab in order to subdue increasingly violent Maoist rebels .,B-org I-org O O O O O O O O O O O O O O O,NNP NNP VBD PRP VBD DT NN NN IN NN TO VB RB JJ NNP NNS .

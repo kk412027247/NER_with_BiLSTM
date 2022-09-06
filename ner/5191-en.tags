@@ -1,0 +1,6 @@
+Venezuelan President Hugo Chavez has ordered the nationalization of his country 's cement industry .,B-gpe B-per I-per I-per O O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN DT NN IN PRP$ NN POS NN NN .
+Mr. Chavez announced the move during a televised address Thursday .,B-per I-per O O O O O O O B-tim O,NNP NNP VBD DT NN IN DT JJ NN NNP .
+"He said the state takeover is needed to ensure businesses produce cement to help build houses in Venezuela , which is facing a housing shortage .",O O O O O O O O O O O O O O O O O B-geo O O O O O O O O,"PRP VBD DT NN NN VBZ VBN TO VB NNS VBP NN TO VB VB NNS IN NNP , WDT VBZ VBG DT NN NN ."
+He said cement companies will be compensated for the state takeover .,O O O O O O O O O O O O,PRP VBD NN NNS MD VB VBN IN DT NN NN .
+Three of Venezuela 's largest cement companies are foreign-owned .,O O B-geo O O O O O O O,CD IN NNP POS JJS NN NNS VBP JJ .
+Mexico 's Cemex controls almost half the local market .,B-geo O B-geo O O O O O O O,NNP POS NNP VBZ RB PDT DT JJ NN .

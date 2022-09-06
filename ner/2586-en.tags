@@ -1,0 +1,8 @@
+"Ukraine 's opposition has ended a blockade of government buildings , hours after parliament adopted a series of electoral reforms and outgoing President Leonid Kuchma signed them into law .",B-geo O O O O O O O O O O O O O O O O O O O O O B-per I-per I-per O O O O O,"NNP POS NN VBZ VBN DT NN IN NN NNS , NNS IN NN VBD DT NN IN JJ NNS CC VBG NNP NNP NNP VBD PRP IN NN ."
+The move allows many government employees to return to work for the first time in weeks .,O O O O O O O O O O O O O O O O O,DT NN VBZ JJ NN NNS TO VB TO VB IN DT JJ NN IN NNS .
+Opposition leader Viktor Yushchenko Wednesday thanked his supporters for their continuous protests following last month 's fraudulent runoff vote .,O O O O B-tim O O O O O O O O O O O O O O O,NNP NN NNP NNP NNP VBD PRP$ NNS IN PRP$ JJ NNS VBG JJ NN POS JJ NN NN .
+He told the cheering crowd their 17 days of peaceful protests helped bring about the new laws .,O O O O O O B-tim O O O O O O O O O O O,PRP VBD DT VBG NN PRP$ CD NNS IN JJ NNS VBD VB IN DT JJ NNS .
+"The measures , proposed by the opposition , are aimed at preventing fraud in the December 26 repeat of the flawed election .",O O O O O O O O O O O O O O O B-tim I-tim O O O O O O,"DT NNS , VBN IN DT NN , VBP VBN IN VBG NN IN DT NNP CD NN IN DT JJ NN ."
+Also included are constitutional changes that transfer some presidential powers to parliament .,O O O O O O O O O O O O O,RB VBN VBP JJ NNS IN VBP DT JJ NNS TO NN .
+"But presidential rival , pro-Russian Prime Minister Viktor Yanukovych , called the parliamentary vote illegal .",O O O O O B-per O B-per I-per O O O O O O O,"CC JJ NN , JJ NNP NNP NNP NNP , VBD DT JJ NN JJ ."
+He said the new laws will do nothing to stop election fraud .,O O O O O O O O O O O O O,PRP VBD DT JJ NNS MD VB DT TO VB NN NN .

@@ -1,0 +1,10 @@
+Turkish security officials say Kurdish rebels killed eight soldiers in an attack on an army outpost in eastern Turkey Monday .,B-gpe O O O O O O O O O O O O O O O O O B-tim I-tim O,JJ NN NNS VBP NNP NNS VBD CD NNS IN DT NN IN DT NN NN IN JJ NNP NNP .
+They say several others were wounded when rebels rammed a vehicle into the post and threw a hand grenade in Tunceli province .,O O O O O O O O O O O O O O O O O O O O B-geo O O,PRP VBP JJ NNS VBD VBN WRB NNS VBD DT NN IN DT NN CC VBD DT NN NN IN NNP NN .
+One attacker was killed in a shootout following the blast .,O O O O O O O O O O O,CD NN VBD VBN IN DT NN VBG DT NN .
+At least one other attacker escaped .,O O O O O O O,IN JJS CD JJ NN VBD .
+"On Sunday , the Turkish military shelled a Kurdish rebel stronghold in northern Iraq .",O B-tim O O B-gpe O O O O O O O O B-geo O,"IN NNP , DT JJ NN VBD DT JJ NN NN IN JJ NNP ."
+But ground forces did not cross the border .,O O O O O O O O O,CC NN NNS VBD RB VB DT NN .
+Turkey has been massing troops near the Iraqi border .,B-tim O O O O O O B-gpe O O,NNP VBZ VBN VBG NNS IN DT JJ NN .
+But U.S. Defense Secretary Robert Gates has warned Turkey against sending troops into northern Iraq to hunt down Kurdish rebels accused of carrying out terrorist attacks in Turkey .,O B-org I-org B-per I-per I-per O O B-tim O O O O O B-geo O O O O O O O O O O O O B-tim O,CC NNP NNP NNP NNP NNP VBZ VBN NNP IN VBG NNS IN JJ NNP TO VB RB JJ NNS VBN IN VBG RP JJ NNS IN NNP .
+"The Kurdistan Worker 's Party , or PKK , has been fighting for autonomy in Turkey 's mainly Kurdish southeast since 1984 .",O B-org I-org I-org I-org O O B-org O O O O O O O B-tim O O O O B-tim I-tim O,"DT NNP NNP POS NNP , CC NNP , VBZ VBN VBG IN NN IN NNP POS RB JJ NN IN CD ."
+"The United States , the European Union and Turkey classify the PKK as a terrorist group .",O B-geo I-geo O O B-org I-org I-org I-org O O B-org O O O O O,"DT NNP NNPS , DT NNP NNP CC NNP VBP DT NNP IN DT JJ NN ."

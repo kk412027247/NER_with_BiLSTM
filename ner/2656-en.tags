@@ -1,0 +1,7 @@
+Cambodia 's military court has laid more charges against two former Khmer Rouge leaders awaiting trial for genocide .,B-geo O O O O O O O O O O B-org I-org O O O O O O,NNP POS JJ NN VBZ VBN JJR NNS IN CD JJ NNP NNP NNS VBG NN IN NN .
+"Military chief Ta Mok , and the head of the Tuol Sleng interrogation center , Duch , have been charged with genocide and crimes against humanity .",O O B-per I-per O O O O O O B-org I-org O O O B-per O O O O O O O O O O O,"JJ NN NNP NNP , CC DT NN IN DT NNP NNP NN NN , NNP , VBP VBN VBN IN NN CC NNS IN NN ."
+The new charges allow the two to be held for another three years without trial .,O O O O O O O O O O B-tim I-tim O O O O,DT JJ NNS VBP DT CD TO VB VBN IN DT CD NNS IN NN .
+"Both men were originally jailed in 1999 and charged with genocide , which meant they could be held for three years without trial .",O O O O O O B-tim O O O O O O O O O O O O B-tim O O O O,"DT NNS VBD RB VBN IN CD CC VBN IN NN , WDT VBD PRP MD VB VBN IN CD NNS IN NN ."
+"In 2002 , they were charged with crimes against humanity to prevent their release .",O B-tim O O O O O O O O O O O O O,"IN CD , PRP VBD VBN IN NNS IN NN TO VB PRP$ NN ."
+The United Nations is trying to raise $ 56 million to fund a genocide tribunal .,O B-org I-org O O O O O O O O O O O O O,DT NNP NNP VBZ VBG TO VB $ CD CD TO VB DT NN NN .
+None of the leaders of the Khmer Rouge has ever been brought to trial .,O O O O O O B-org I-org O O O O O O O,NN IN DT NNS IN DT NNP NNP VBZ RB VBN VBN TO NN .

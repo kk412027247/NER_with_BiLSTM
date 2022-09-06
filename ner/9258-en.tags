@@ -1,0 +1,9 @@
+French authorities have set up a three-kilometer zone around a turkey farm in the southeast of the country because the deadly strain of the bird flu virus may have infected poultry there .,B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN RP DT JJ NN IN DT NN NN IN DT NN IN DT NN IN DT JJ NN IN DT NN NN NN MD VB VBN NN RB .
+"The French agriculture ministry says the virus is suspected in 11,000 turkeys because many have died .",O B-gpe O O O O O O O O O O O O O O O,DT JJ NN NN VBZ DT NN VBZ VBN IN CD NNS IN NN VBP VBN .
+It says surviving poultry will be slaughtered .,O O O O O O O O,PRP VBZ VBG NN MD VB VBN .
+"The farm is in the Ain region , where France confirmed its first two cases of the H5N1 strain in wild ducks .",O O O O O O O O O B-geo O O O O O O O O O O O O O,"DT NN VBZ IN DT NNP NN , WRB NNP VBD PRP$ JJ CD NNS IN DT NNP NN IN JJ NNS ."
+"The Greek agriculture ministry reports seven more cases of H5N1 in wild birds , bringing its total to 16 .",O B-gpe O O O O O O O O O O O O O O O O O O,"DT JJ NN NN VBZ CD JJR NNS IN NNP IN JJ NNS , VBG PRP$ NN TO CD ."
+German officials report 110 cases .,B-gpe O O O O O,JJ NNS VBP CD NNS .
+Slovak officials say two dead wild birds appear to have the virus .,B-gpe O O O O O O O O O O O O,JJ NNS VBP CD JJ JJ NNS VBP TO VB DT NN .
+"The strain has also been confirmed in Hungary , Slovenia , Italy and Austria .",O O O O O O O B-geo O B-geo O B-geo O B-geo O,"DT NN VBZ RB VBN VBN IN NNP , NNP , NNP CC NNP ."
+"Bird flu has killed 92 people worldwide since 2003 , mostly in Asia .",O O O O O O O O B-tim O O O B-geo O,"NN NN VBZ VBN CD NNS JJ IN CD , RB IN NNP ."

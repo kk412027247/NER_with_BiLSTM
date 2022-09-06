@@ -1,0 +1,6 @@
+Two NATO soldiers have died in an explosion in southern Afghanistan .,O B-org O O O O O O O B-geo I-geo O,CD NNP NNS VBP VBN IN DT NN IN JJ NNP .
+NATO 's International Security Assistance Force released a statement Wednesday saying the soldiers were killed by an improvised explosive device .,B-org I-org I-org I-org I-org I-org O O O B-tim O O O O O O O O O O O,NNP POS NNP NNP NNP NNP VBD DT NN NNP VBG DT NNS VBD VBN IN DT JJ JJ NN .
+Officials did not disclose the soldiers ' nationalities .,O O O O O O O O O,NNS VBD RB VB DT NNS POS NNS .
+"Separately , NATO says coalition forces captured a Taliban sub-commander late Tuesday while searching a compound in Nangarhar province , east of Kabul .",O O B-org O O O O O B-org O O B-tim O O O O O B-geo O O O O B-geo O,"RB , NNP VBZ NN NNS VBD DT NNP NN RB NNP IN VBG DT NN IN NNP NN , NN IN NNP ."
+"An ISAF statement says the unidentified sub-commander was involved in kidnappings , weapons purchases and spying on coalition forces .",O B-org O O O O O O O O O O O O O O O O O O,"DT NNP NN VBZ DT JJ NN VBD VBN IN NNS , NNS NNS CC VBG IN NN NNS ."
+ISAF also says allied forces captured several other suspected militants in Helmand province late Tuesday .,B-org O O O O O O O O O O B-geo O O B-tim O,NNP RB VBZ JJ NNS VBN JJ JJ JJ NNS IN NNP NN RB NNP .

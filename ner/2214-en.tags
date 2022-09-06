@@ -1,0 +1,8 @@
+"The U.S. military says five American troops died in Iraq Thursday , including four killed in a roadside bombing .",O B-geo O O O B-gpe O O O B-geo B-tim O O O O O O O O O,"DT NNP NN VBZ CD JJ NNS VBD IN NNP NNP , VBG CD VBN IN DT NN NN ."
+The military says the blast in eastern Baghdad also injured two soldiers .,O O O O O O B-geo I-geo O O O O O,DT NN VBZ DT NN IN JJ NNP RB VBD CD NNS .
+The other fatality was of a soldier who died of combat injuries north of Baghdad in Salahaddin province .,O O O O O O O O O O O O O O B-geo O B-geo O O,DT JJ NN VBD IN DT NN WP VBD IN NN NNS NN IN NNP IN NNP NN .
+"In other news , a mortar attack Friday killed one person in the southern Baghdad neighborhood of Zafaraniyah .",O O O O O O O B-tim O O O O O O B-geo O O B-geo O,"IN JJ NN , DT NN NN NNP VBD CD NN IN DT JJ NNP NN IN NNP ."
+"In the northern city of Kirkuk , a roadside bomb killed two police officers .",O O O O O B-geo O O O O O O O O O,"IN DT JJ NN IN NNP , DT NN NN VBD CD NNS NNS ."
+"Also , the British military has confirmed the escape of some prisoners at a British-run detention facility near the southern city of Basra .",O O O B-gpe O O O O O O O O O O O O O O O O O O B-geo O,"RB , DT JJ NN VBZ VBN DT NN IN DT NNS IN DT JJ NN NN IN DT JJ NN IN NNP ."
+The Reutersnews agency says 10 prisoners escaped earlier this week by swapping clothes and places with individuals who came as visitors .,O B-org O O O O O O O O O O O O O O O O O O O O,DT NNP NN VBZ CD NNS VBD RBR DT NN IN VBG NNS CC NNS IN NNS WP VBD IN NNS .
+The news agency says those who swapped clothes with the prisoners are being held for questioning .,O O O O O O O O O O O O O O O O O,DT NN NN VBZ DT WP VBD NNS IN DT NNS VBP VBG VBN IN VBG .

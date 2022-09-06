@@ -1,0 +1,6 @@
+The price of crude oil hit a record high Tuesday .,O O O O O O O O O B-tim O,DT NN IN JJ NN VBD DT NN JJ NNP .
+U.S. crude oil futures touched the record price of $ 71 a barrel on the New York Mercantile Exchange in afternoon trading .,B-geo O O O O O O O O O O O O O O B-geo I-geo B-org I-org O B-tim O O,NNP JJ NN NNS VBD DT NN NN IN $ CD IN NN IN DT NNP NNP NNP NNP IN NN NN .
+The price later eased downward slightly .,O O O O O O O,DT NN RB VBD RB RB .
+Analysts blame the price hikes on concerns that disputes over Iran 's nuclear program and political tensions in other key suppliers could crimp deliveries at a time of strong demand and little spare production capacity .,O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP DT NN NNS IN NNS IN NNS IN NNP POS JJ NN CC JJ NNS IN JJ JJ NNS MD VB NNS IN DT NN IN JJ NN CC JJ JJ NN NN .
+The record oil prices are pushing gasoline prices toward record levels .,O O O O O O O O O O O O,DT NN NN NNS VBP VBG NN NNS IN NN NNS .
+"President Bush said Tuesday that the U.S. government will watch gasoline prices closely and investigate any "" price gouging . """,B-per I-per O B-tim O O B-geo O O O O O O O O O O O O O O,NNP NNP VBD NNP IN DT NNP NN MD VB NN NNS RB CC VB DT LQU NN NN . RQU

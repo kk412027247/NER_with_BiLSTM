@@ -1,0 +1,8 @@
+U.S. and Iraqi forces have raided seven mosques believed to be providing support for insurgents in the restive western city of Ramadi .,B-geo O B-gpe O O O O O O O O O O O O O O O O O O B-geo O,NNP CC JJ NNS VBP VBN CD NNS VBN TO VB VBG NN IN NNS IN DT JJ JJ NN IN NNP .
+"The U.S. military says the operation is part of a joint effort to search for known terrorists and insurgents , as well as for illegal weapons .",O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NN VBZ DT NN VBZ NN IN DT JJ NN TO VB IN VBN NNS CC NNS , RB RB IN IN JJ NNS ."
+"Witnesses say soldiers arrested Sheikh Abdul Aleim Saadi , the region 's top Sunni Muslim cleric .",O O O O B-org I-org I-org I-org O O O O O B-per I-per O O,"NNS VBP NNS VBN NNP NNP NNP NNP , DT NN POS JJ NNP NNP NN ."
+"Also Tuesday , the United States said its warplanes conducted two strikes on buildings used by Abu Musab al-Zarqawi 's terror network in the western city of Fallujah .",O B-tim O O B-geo I-geo O O O O O O O O O O B-org I-org B-per O O O O O O O O B-geo O,"RB NNP , DT NNP NNPS VBD PRP$ NNS VBD CD NNS IN NNS VBN IN NNP NNP NNP POS NN NN IN DT JJ NN IN NNP ."
+"Abu Musab al-Zarqawi has claimed responsibility for numerous car bombings , kidnappings and beheadings in Iraq .",B-org I-org B-per O O O O O O O O O O O O B-geo O,"NNP NNP NNP VBZ VBN NN IN JJ NN NNS , NNS CC NNS IN NNP ."
+"In the south , an explosion rocked the city of Basra .",O O O O O O O O O O B-geo O,"IN DT NN , DT NN VBD DT NN IN NNP ."
+It was not immediately clear what caused the blast .,O O O O O O O O O O,PRP VBD RB RB JJ WP VBD DT NN .
+There were no reports of casualties .,O O O O O O O,EX VBD DT NNS IN NNS .

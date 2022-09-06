@@ -1,0 +1,2 @@
+King Juan Carlos hired a public relations firmn to find out how the Spanish people felt about him .,B-per I-per I-per O O O O O O O O O O B-gpe O O O O O,NNP NNP NNP VBD DT JJ NNS VBP TO VB RP WRB DT JJ NNS VBD IN PRP .
+They informed him that he had 75 % approval in the mountainous areas but only 50 % approval elsewhere The conclusion was that the reign in Spain was shaky on the plain .,O O O O O O O O O O O O O O O O O O O O O O O O O O B-geo O O O O O O,PRP VBD PRP IN PRP VBD CD NN NN IN DT JJ NNS CC RB CD NN NN RB DT NN VBD IN DT NN IN NNP VBD JJ IN DT NN .

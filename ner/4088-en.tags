@@ -1,0 +1,9 @@
+"Suspected al-Qaida-linked militants have raided a village in the southern Philippines , killing at least 11 people .",O O O O O O O O O O B-geo O O O O O O O,"VBN JJ NNS VBP VBN DT NN IN DT JJ NNP , VBG IN JJS CD NNS ."
+"Military officials say Abu Sayyaf gunmen , backed by renegade Muslim separatists , attacked a civilian militia detachment early Saturday in the village of Tubigan , Basilan province , on Mindanao island .",O O O B-org I-org O O O O O B-per O O O O O O O O B-tim O O O O B-geo O B-geo O O O B-geo O O,"JJ NNS VBP NNP NNP NNS , VBN IN NN NNP NNS , VBD DT JJ NN NN JJ NNP IN DT NN IN NNP , NNP NN , IN NNP NN ."
+Local officials said the villagers were asleep when about 70 attackers began spraying houses with automatic gunfire .,O O O O O O O O O O O O O O O O O O,JJ NNS VBD DT NNS VBD JJ WRB IN CD NNS VBD VBG NNS IN JJ NN .
+They also set houses on fire .,O O O O O O O,PRP RB VBD NNS IN NN .
+"Ten civilians were killed , including a one-year-old girl .",O O O O O O O O O O,"CD NNS VBD VBN , VBG DT JJ NN ."
+A member of the local militia also was killed .,O O O O O O O O O O,DT NN IN DT JJ NN RB VBD VBN .
+"At least 17 people , including four children , were wounded by gunfire and blazes before the attackers fled .",O O O O O O O O O O O O O O O O O O O O,"IN JJS CD NNS , VBG CD NNS , VBD VBN IN NN CC NNS IN DT NNS VBD ."
+Authorities say troops are searching for the culprits .,O O O O O O O O O,NNS VBP NNS VBP VBG IN DT NNS .
+They say the attack took place hours after a rescue operation freed two Chinese hostages held by Abu Sayyaf since November .,O O O O O O O O O O O O O B-gpe O O O B-org I-org B-tim I-tim O,PRP VBP DT NN VBD NN NNS IN DT NN NN VBD CD JJ NNS VBN IN NNP NNP IN NNP .

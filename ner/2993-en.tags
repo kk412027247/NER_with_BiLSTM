@@ -1,0 +1,4 @@
+"The U.S. military in Iraq says a roadside bomb has killed one of its troops south of the capital , Baghdad .",O B-gpe O O B-geo O O O O O O O O O O O O O O O B-geo O,"DT NNP NN IN NNP VBZ DT NN NN VBZ VBN CD IN PRP$ NNS RB IN DT NN , NNP ."
+The military says the soldier was killed Thursday when his vehicle hit the bomb during a combat patrol near Iskandariyah .,O O O O O O O B-tim O O O O O O O O O O O B-geo O,DT NN VBZ DT NN VBD VBN NNP WRB PRP$ NN VBD DT NN IN DT NN NN IN NNP .
+"The United States invaded Iraq in 2003 , citing concerns about alleged weapons of mass destruction programs .",O B-gpe I-gpe O B-geo O B-tim O O O O O O O O O O O,"DT NNP NNPS VBD NNP IN CD , VBG NNS IN JJ NNS IN NN NN NNS ."
+No such weapons were found .,O O O O O O,DT JJ NNS VBD VBN .

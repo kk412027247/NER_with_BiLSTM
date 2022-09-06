@@ -1,0 +1,6 @@
+"Venezuelan prosecutors want Colombia to extradite businessman Pedro Carmona , who assumed power in Venezuela during a brief coup against President Hugo Chavez in 2002 .",B-gpe O O B-geo O O O B-per I-per O O O O O B-geo O O O O O B-per I-per I-per O B-tim O,"JJ NNS VBP NNP TO VB NN NNP NNP , WP VBD NN IN NNP IN DT JJ NN IN NNP NNP NNP IN CD ."
+Prosecutors provided evidence Monday detailing their accusations against Carmona .,O O O B-tim O O O O B-per O,NNS VBD NN NNP VBG PRP$ NNS IN NNP .
+They have requested that he be charged with civilian rebellion .,O O O O O O O O O O O,PRP VBP VBN IN PRP VB VBN IN JJ NN .
+Venezuelan military officers arrested President Chavez in April 2002 and announced his resignation after at least 17 unarmed protesters were shot and killed during an anti-government rally .,B-gpe O O O B-per I-per O B-tim I-tim O O O O O O O O O O O O O O O O O O O,JJ JJ NNS VBD NNP NNP IN NNP CD CC VBD PRP$ NN IN IN JJS CD JJ NNS VBD VBN CC VBN IN DT JJ NN .
+Coup leaders installed Carmona as interim leader .,O O O B-per O O O O,NN NNS VBD NNP IN JJ NN .
+He was forced out two days later when military leaders withdrew their support and returned President Chavez to office .,O O O O B-tim O B-tim O O O O O O O O B-per I-per O O O,PRP VBD VBN IN CD NNS RB WRB JJ NNS VBD PRP$ NN CC VBD NNP NNP TO NN .

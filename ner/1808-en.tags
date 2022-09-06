@@ -1,0 +1,8 @@
+"The World Health Organization has reported another bird flu death in Indonesia , confirming Monday that a five-year-old boy who died last month was infected with the virus .",O B-org I-org I-org O O O O O O O B-geo O O B-tim O O O O O O O O O O O O O O,"DT NNP NNP NNP VBZ VBN DT NN NN NN IN NNP , VBG NNP IN DT JJ NN WP VBD JJ NN VBD VBN IN DT NN ."
+Officials said the victim died June 16 in East Java province .,O O O O O B-tim I-tim O B-geo I-geo O O,NNS VBD DT NN VBD NNP CD IN NNP NNP NN .
+He was believed to have come into contact with infected chickens .,O O O O O O O O O O O O,PRP VBD VBN TO VB VBN IN NN IN JJ NNS .
+Scientists have diagnosed more than 120 bird flu fatalities since late 2003 .,O O O O O O O O O O O B-tim O,NNS VBP VBN JJR IN CD NN NN NNS IN JJ CD .
+Most of them have been in Asia .,O O O O O O B-geo O,JJS IN PRP VBP VBN IN NNP .
+Scientists worry that human-to-human transmission of the virus could spark a global pandemic .,O O O O O O O O O O O O O O,NNS VBP IN JJ NN IN DT NN MD VB DT JJ NN .
+"In late June , the WHO said it believed one Indonesian family became infected through such human-to-human transmission .",O O B-tim O O B-org O O O O B-gpe O O O O O O O O,"IN JJ NNP , DT NNP VBD PRP VBD CD JJ NN VBD JJ IN JJ JJ NN ."
+But health officials say that the specific H5N1 virus strain that killed seven of eight family members died out with its last victim .,O O O O O O O O O O O O O O O O O O O O O O B-tim O,CC NN NNS VBP IN DT JJ NNP NN NN WDT VBD CD IN CD NN NNS VBD RP IN PRP$ JJ NN .

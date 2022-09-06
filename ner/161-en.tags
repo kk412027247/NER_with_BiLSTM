@@ -1,0 +1,7 @@
+"Pope Benedict XVI returned to Rome Monday , after his six-day trip to the United States .",O B-per I-per O O B-geo B-tim O O O B-tim O O O B-geo I-geo O,"NNP NNP NNP VBD TO NNP NNP , IN PRP$ JJ NN TO DT NNP NNPS ."
+"The pope 's U.S. visit included a meeting with President Bush , outdoor Masses , and a visit to one of the sites attacked on September 11 , 2001 .",O O O B-geo O O O O O B-per I-per O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim O,"DT NN POS NNP NN VBD DT NN IN NNP NNP , JJ NNS , CC DT NN TO CD IN DT NNS VBN IN NNP CD , CD ."
+"During his trip , the pope repeatedly referred to the sexual abuse scandal that has wracked the U.S. church .",O O O O O O O O O O O O O O O O O B-geo O O,"IN PRP$ NN , DT NN RB VBD TO DT JJ NN NN WDT VBZ VBN DT NNP NN ."
+He had an unprecedented meeting with victims of abusive priests .,O O O O O O O O O O O,PRP VBD DT JJ NN IN NNS IN JJ NNS .
+"Benedict celebrated Mass Sunday at a New York City baseball stadium packed with 57,000 worshippers .",B-per O B-tim I-tim O O B-geo I-geo I-geo O O O O O O O,NNP VBD NNP NNP IN DT NNP NNP NNP NN NN VBN IN CD NNS .
+The pope was met with loud cheers when he arrived at Yankee Stadium .,O O O O O O O O O O O B-org I-org O,DT NN VBD VBN IN JJ NNS WRB PRP VBD IN NNP NNP .
+Some in the crowd waved handkerchiefs in the Vatican 's colors - white and yellow .,O O O O O O O O B-geo O O O O O O O,DT IN DT NN VBD NNS IN DT NNP POS NNS IN NN CC NN .

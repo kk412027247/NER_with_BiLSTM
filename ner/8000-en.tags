@@ -1,0 +1,10 @@
+The Afghan Defense Ministry says Afghan and U.S-led forces inflicted heavy casualties on insurgents in a battle Sunday in the eastern province of Nuristan .,O B-gpe B-org I-org O B-gpe O O O O O O O O O O O B-tim O O O O O B-geo O,DT JJ NNP NNP VBZ JJ CC JJ NNS VBD JJ NNS IN NNS IN DT NN NNP IN DT JJ NN IN NNP .
+Neither Afghan nor U.S. military officials said how many insurgents were killed .,O B-gpe O B-geo O O O O O O O O O,DT JJ CC NNP JJ NNS VBD WRB JJ NNS VBD VBN .
+Afghan officials said one of their soldiers had been killed .,B-gpe O O O O O O O O O O,JJ NNS VBD CD IN PRP$ NNS VBD VBN VBN .
+The military officials said there were no reports of civilian casualties .,O O O O O O O O O O O O,DT JJ NNS VBD EX VBD DT NNS IN JJ NNS .
+"Nuristan officials dispute that , saying at least 20 civilians died in the attack and more were wounded .",B-geo O O O O O O O O O O O O O O O O O O,"NNP NNS VBP IN , VBG IN JJS CD NNS VBD IN DT NN CC JJR VBD VBN ."
+"Defense Ministry officials say eight insurgents were captured , while Nuristan leaders say those detained were civilians .",B-org I-org O O O O O O O O B-geo O O O O O O O,"NNP NNP NNS VBP CD NNS VBD VBN , IN NNP NNS VBP DT VBN VBD NNS ."
+The Afghan Defense Ministry is investigating the situation .,O B-gpe B-org I-org O O O O O,DT JJ NNP NNP VBZ VBG DT NN .
+Afghan and U.S. forces undertook the operation to clear insurgents from the remote province near the Pakistani border .,B-gpe O B-geo O O O O O O O O O O O O O B-gpe O O,JJ CC NNP NNS VBP DT NN TO JJ NNS IN DT JJ NN IN DT JJ NN .
+Nuristan is a known stronghold of Taliban-led militants .,B-geo O O O O O O O O,NNP VBZ DT JJ NN IN JJ NNS .
+"One Nuristan leader said the Taliban had been in the area , but left before the fighting started .",O B-geo O O O B-org O O O O O O O O O O O O O,"CD NNP NN VBD DT NNP VBD VBN IN DT NN , CC VBD IN DT NN VBD ."

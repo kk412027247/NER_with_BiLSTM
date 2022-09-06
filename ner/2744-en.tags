@@ -1,0 +1,8 @@
+Switzerland and Russia have skated to the quarterfinals of the men 's Olympic ice hockey tournament at the Turin Games in Italy .,B-org O B-org O O O O O O O O O O O O O O O B-org O O B-geo O,NNP CC NNP VBP VBN TO DT NNS IN DT NNS POS NNP NN NN NN IN DT NNP NNPS IN NNP .
+The Swiss played Group A rival Germany to a two-goal draw ( 2-2 ) Sunday .,O B-gpe O B-art I-art O B-geo O O O O O O O B-tim O,DT NNS VBD NNP NNP JJ NNP TO DT JJ NN LRB CD RRB NNP .
+"But with upset wins over Canada and the Czech Republic , Switzerland will advance .",O O O O O B-geo O O B-gpe B-geo O B-geo O O O,"CC IN JJ NNS IN NNP CC DT JJ NNP , NNP MD VB ."
+"Group A leader Finland has a place , and the Czech Republic and Canada will gain the other two spots with at least ties in games later Sunday .",B-org I-org O B-per O O O O O O B-gpe B-geo O B-geo O O O O O O O O O O O O B-tim I-tim O,"NNP NNP NN NNP VBZ DT NN , CC DT JJ NNP CC NNP MD VB DT JJ CD NNS IN IN JJS NNS IN NNS RB NNP ."
+"Slovakia is guaranteed to finish at the top of Group B , beating Kazakhstan , 2-1 , to remain undefeated after four games .",B-org O O O O O O O O B-org I-org O O B-geo O B-geo O O O O O O O O,"NNP VBZ VBN TO VB IN DT NN IN NNP NNP , VBG NNP , CD , TO VB JJ IN CD NNS ."
+"Eight-time Olympic champion Russia hammered Latvia , 9-2 , to reach the quarterfinals .",O O O B-geo O B-geo O B-geo O O O O O O,"JJ NNP NN NNP VBN NNP , CD , TO VB DT NNS ."
+Sweden also will advance .,B-org O O O O,NNP RB MD VB .
+The other place will go to the United States if it gets at least one point from its last two games .,O O O O O O O B-geo I-geo O O O O O O O O O O O O O,DT JJ NN MD VB TO DT NNP NNPS IN PRP VBZ IN JJS CD NN IN PRP$ JJ CD NNS .

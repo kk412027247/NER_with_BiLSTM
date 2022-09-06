@@ -1,0 +1,5 @@
+"Crude oil prices rose Wednesday after a government report showed U.S. supplies of crude oil , gasoline , and other oil products declined last week .",O O O O B-tim O O O O O B-geo O O O O O O O O O O O O O O O,"JJ NN NNS VBD NNP IN DT NN NN VBD NNP NNS IN JJ NN , NN , CC JJ NN NNS VBD JJ NN ."
+"The Energy Department report said crude oil inventories dropped more than one million barrels , a decline of about one-third of a percent .",O B-org I-org O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NN VBD JJ NN NNS VBD JJR IN CD CD NNS , DT NN IN IN NN IN DT NN ."
+"Stocks of gasoline declined around 1.5 percent , which is more than experts had predicted .",O O O O O O O O O O O O O O O O,"NNS IN NN VBD IN CD NN , WDT VBZ JJR IN NNS VBD VBN ."
+The price of a barrel of crude oil for future delivery rose 69 cents to $ 77 a barrel in New York .,O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,DT NN IN DT NN IN JJ NN IN JJ NN VBD CD NNS TO $ CD DT NN IN NNP NNP .
+London prices also rose .,B-geo O O O O,NNP NNS RB VBD .

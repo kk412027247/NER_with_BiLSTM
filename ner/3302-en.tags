@@ -1,0 +1,7 @@
+The U.N. war crimes tribunal in The Hague has convicted two Bosnian Serb army officers of complicity in the 1995 massacre of thousands of Muslims .,O B-org O O O O B-org I-org O O O B-gpe I-gpe O O O O O O B-tim O O O O O O,DT NNP NN NNS JJ IN DT NNP VBZ VBN CD JJ JJ NN NNS IN NN IN DT CD NN IN NNS IN NNPS .
+"Colonel Vidoje Blagojevic was found guilty of aiding and abetting genocide in the deaths of more than 7,000 unarmed Muslim men and boys at Srebrenica in Bosnia-Herzegovina .",O B-per I-per O O O O O O O O O O O O O O O O O O O O O B-geo O B-geo O,NNP NNP NNP VBD VBN JJ IN VBG CC VBG NN IN DT NNS IN JJR IN CD JJ NN NNS CC NNS IN NNP IN NNP .
+He was sentenced to 18 years in prison .,O O O O O O O O O,PRP VBD VBN TO CD NNS IN NN .
+"Major Dragan Jokic was found guilty of aiding and abetting murder , and of extermination and persecution , and was sentenced to nine years .",O B-per I-per O O O O O O O O O O O O O O O O O O O B-tim O O,"NNP NNP NNP VBD VBN JJ IN VBG CC VBG NN , CC IN NN CC NN , CC VBD VBN TO CD NNS ."
+Both men had pleaded not guilty .,O O O O O O O,DT NNS VBD VBN RB JJ .
+"The 1995 massacre occurred after Serbs captured Srebrenica , which the United Nations had declared a safe area .",O B-tim O O O B-gpe O B-geo O O O B-org I-org O O O O O O,"DT CD NN VBD IN NNS VBD NNP , WDT DT NNP NNPS VBD VBN DT JJ NN ."
+Bosnian Serb authorities acknowledged for the first time last year that there had been a massacre .,B-gpe I-gpe O O O O B-tim I-tim O O O O O O O O O,JJ JJ NNS VBD IN DT JJ NN JJ NN IN EX VBD VBN DT NN .

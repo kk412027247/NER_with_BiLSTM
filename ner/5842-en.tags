@@ -1,0 +1,8 @@
+The United Nations predicts fear of deadly avian flu will cause poultry consumption to drop by three million tons this year .,O B-org I-org O O O O O O O O O O O O O O O O O O O,DT NNP NNP VBZ NN IN JJ JJ NN MD VB NN NN TO VB IN CD CD NNS DT NN .
+That is an almost four percent fall in worldwide demand for chickens and other birds .,O O O O O O O O O O O O O O O O,DT VBZ DT RB CD NN NN IN JJ NN IN NNS CC JJ NNS .
+The U.N. Food and Agricultural Organization says weakening demand will hurt poultry industries worldwide and hit poultry farmers in the developing world who eke out a poverty-level living .,O B-org I-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP CC NNP NNP VBZ VBG NN MD VB JJ NNS NN CC NN NN NNS IN DT JJ NN WP VBP RP DT JJ NN .
+"Already , worries about the H5N1 flu have cut poultry consumption sharply in Europe , the Middle East , Africa and Asia .",O O O O O B-nat O O O O O O O B-geo O O B-geo I-geo O B-geo O B-geo O,"RB , NNS IN DT NNP NN VBP VBN JJ NN RB IN NNP , DT NNP NNP , NNP CC NNP ."
+Italian consumption has fallen 70 percent .,B-gpe O O O O O O,JJ NN VBZ VBN CD NN .
+French farmers are angry that many countries have banned their poultry .,B-gpe O O O O O O O O O O O,JJ NNS VBP JJ IN JJ NNS VBP VBN PRP$ NN .
+"In India , weak demand cut poultry prices more than 10 percent .",O B-geo O O O O O O O O O O O,"IN NNP , JJ NN VBD NN NNS RBR IN CD NN ."
+The Food and Agriculture Organization says the decline is a sharp change from last year 's 10 percent gains .,O B-org I-org I-org I-org O O O O O O O O O O B-tim O O O O,DT NNP CC NNP NNP VBZ DT NN VBZ DT JJ NN IN JJ NN POS CD NN NNS .

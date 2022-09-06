@@ -1,0 +1,7 @@
+"Russian Defense Minister Sergei Ivanov says the government is cutting its troops in Chechnya by 1,000 .",B-gpe O B-per I-per I-per O O O O O O O O B-geo O O O,JJ NNP NNP NNP NNP VBZ DT NN VBZ VBG PRP$ NNS IN NNP IN CD .
+Mr. Ivanov made the announcement Friday at a military installation in the southern Russian city of Rostov-on-Don .,B-per I-per O O O B-tim O O O O O O O B-gpe O O B-geo O,NNP NNP VBD DT NN NNP IN DT JJ NN IN DT JJ JJ NN IN NNP .
+He gave no reason for the action .,O O O O O O O O,PRP VBD DT NN IN DT NN .
+The Itar-Tass news agency says airborne troops and marine units in the mountainous regions of Chechnya will be withdrawn .,O O O O O O O O O O O O O O O B-geo O O O O,DT JJ NN NN VBZ JJ NNS CC JJ NNS IN DT JJ NNS IN NNP MD VB VBN .
+Mr. Ivanov says the only forces that will remain next year in the war-torn breakaway republic will be an infantry division and Defense Ministry commando forces .,B-per I-per O O O O O O O O O O O O O O O O O O O O B-org I-org O O O,NNP NNP VBZ DT JJ NNS WDT MD VB JJ NN IN DT JJ NN NN MD VB DT NN NN CC NNP NNP NN NNS .
+"Russia has been fighting separatists in Chechnya for most of the past decade , in a conflict that has devastated the region .",B-geo O O O O O B-geo O O O O B-tim I-tim O O O O O O O O O O,"NNP VBZ VBN VBG NNS IN NNP IN JJS IN DT JJ NN , IN DT NN WDT VBZ VBN DT NN ."
+"President Vladimir Putin has repeatedly said the fighting is dying down , but the violence continues .",B-per I-per I-per O O O O O O O O O O O O O O,"NNP NNP NNP VBZ RB VBN DT NN VBZ VBG RP , CC DT NN VBZ ."

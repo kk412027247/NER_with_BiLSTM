@@ -1,0 +1,6 @@
+An Indian court has sentenced a Pakistani man to death for the militant attack on New Delhi 's famous 17th century Red Fort five years ago .,O B-gpe O O O O B-gpe O O O O O O O O B-org I-org O O B-tim I-tim B-geo I-geo B-tim O O O,DT JJ NN VBZ VBN DT JJ NN TO NN IN DT JJ NN IN NNP NNP POS JJ JJ NN NNP NNP CD NNS RB .
+Muhammad Arif was handed the death sentence Monday for his role in the December 2000 attack that killed three people .,B-per I-per O O O O O B-tim O O O O O B-tim I-tim O O O O O O,NNP NNP VBD VBN DT NN NN NNP IN PRP$ NN IN DT NNP CD NN WDT VBD CD NNS .
+The victims - a soldier and two civilians - died when Arif and five other militants sneaked into the complex and opened fire .,O O O O O O O O O O O B-per O O O O O O O O O O O O,DT NNS IN DT NN CC CD NNS : VBD WRB NNP CC CD JJ NNS VBD IN DT NN CC VBD NN .
+The Red Fort was a 17th century palace for Muslim Mughal emperor Shah Jehan .,O B-geo I-geo O O B-tim I-tim I-tim O B-org I-org I-org I-org I-org O,DT NNP NNP VBD DT JJ NN NN IN NNP NNP NN NNP NNP .
+The fort is now a symbol of India 's independence .,O O O O O O O B-geo O O O,DT NN VBZ RB DT NN IN NNP POS NN .
+Many speeches and official pronouncements are given at its gates .,O O O O O O O O O O O,JJ NNS CC JJ NNS VBP VBN IN PRP$ NNS .

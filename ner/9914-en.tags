@@ -1,0 +1,7 @@
+President Bush has welcomed congressional approval of a plan to allow the United States to ship civilian nuclear fuel and technology to India .,B-per I-per O O O O O O O O O O B-geo I-geo O O O O O O O O B-geo O,NNP NNP VBZ VBN JJ NN IN DT NN TO VB DT NNP NNPS TO VB JJ JJ NN CC NN TO NNP .
+"In a statement issued Saturday , the president said the deal will help both nations meet their energy needs without increasing air pollution and greenhouse gases .",O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O,"IN DT NN VBN NNP , DT NN VBD DT NN MD VB DT NNS VBP PRP$ NN NNS IN VBG NN NN CC NN NNS ."
+He said it also promotes clean development and non-proliferation .,O O O O O O O O O O,PRP VBD PRP RB VBZ JJ NN CC NN .
+"U.S. lawmakers voted overnight Saturday to approve the measure , which requires India to open its civilian nuclear facilities to international inspection .",B-geo O O O B-tim O O O O O O O B-geo O O O O O O O O O O,"NNP NNS VBD JJ NNP TO VB DT NN , WDT VBZ NNP TO VB PRP$ JJ JJ NNS TO JJ NN ."
+India 's government welcomed the agreement .,B-geo O O O O O O,NNP POS NN VBD DT NN .
+But the foreign ministry expressed concern about terms of the U.S. law that call on India to oppose Iran 's nuclear ambitions .,O O O O O O O O O O B-geo O O O O B-geo O O B-geo O O O O,CC DT JJ NN VBD NN IN NNS IN DT NNP NN WDT VBP IN NNP TO VB NNP POS JJ NNS .
+Ministry officials said India 's foreign policy will be determined only by national interests .,B-org O O B-geo O O O O O O O O O O O,NNP NNS VBD NNP POS JJ NN MD VB VBN RB IN JJ NNS .

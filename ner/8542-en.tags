@@ -1,0 +1,6 @@
+U.S. weather forecasters have downgraded tropical storm Gamma to a tropical depression as it meanders off the northern coast of Honduras .,B-geo O O O O O O O O O O O O O O O O O O O B-geo O,NNP NN NNS VBP VBN JJ NN NNP TO DT JJ NN IN PRP VBZ RP DT JJ NN IN NNP .
+"The National Hurricane Center says the center of Gamma is about 120 kilometers northeast of Limon , Honduras , carrying maximum sustained winds of 55 kilometers an hour .",O O O O O O O O B-geo O O O O O O B-geo O B-geo O O O O O O O O O O O,"DT NNP NNP NNP VBZ DT NN IN NNP VBZ IN CD NNS RB IN NNP , NNP , VBG NN VBD NNS IN CD NNS DT NN ."
+Gamma has already killed nine people in Honduras and left 14 others missing .,B-geo O O O O O O B-geo O O O O O O,NNP VBZ RB VBN CD NNS IN NNP CC VBD CD NNS VBG .
+The bad weather is also blamed for a plane crash that killed the pilot and two passengers in Belize .,O O O O O O O O O O O O O O O O O O B-geo O,DT JJ NN VBZ RB VBN IN DT NN NN WDT VBD DT NN CC CD NNS IN NNP .
+The plane was heading towards a resort lodge owned by U.S. filmmaker Francis Ford Coppola .,O O O O O O O O O O B-geo O B-per I-per I-per O,DT NN VBD VBG IN DT NN NN VBN IN NNP NN NNP NNP NNP .
+Gamma is the 24th named storm of this year 's record-breaking Atlantic hurricane season .,B-geo O O B-tim O O O O O O O B-geo O O O,NNP VBZ DT JJ VBN NN IN DT NN POS JJ NNP NN NN .

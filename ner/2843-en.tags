@@ -1,0 +1,7 @@
+"Afghan authorities say suspected Taleban insurgents have attacked a police post in southern part of the country , killing three policemen , while a rocket landed near a top hotel in the capital , Kabul .",B-gpe O O O B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-org O,"JJ NNS VBP VBN NNP NNS VBP VBN DT NN NN IN JJ NN IN DT NN , VBG CD NNS , IN DT NN VBD IN DT JJ NN IN DT NN , NNP ."
+The authorities say an unknown number of militants were involved in the assault late Saturday in southern Helmand province that sparked an hour-long exchange of fire .,O O O O O O O O O O O O O O B-tim O O B-geo O O O O O O O O O,DT NNS VBP DT JJ NN IN NNS VBD VBN IN DT NN JJ NNP IN JJ NNP NN WDT VBD DT JJ NN IN NN .
+Security forces launched a manhunt for the attackers .,O O O O O O O O O,NN NNS VBD DT NN IN DT NNS .
+The Taleban has claimed responsibility for the attack .,O B-org O O O O O O O,DT NNP VBZ VBN NN IN DT NN .
+"Also late Saturday , a rocket was fired at a Kabul hotel where foreigners often stay , but no one was hurt .",O O B-tim O O O O O O O B-org O O O O O O O O O O O O,"RB JJ NNP , DT NN VBD VBN IN DT NNP NN WRB NNS RB VBP , CC DT NN VBD VBN ."
+Helmand province has seen some of the fiercest fighting in recent months .,B-geo O O O O O O O O O B-tim O O,NNP NN VBZ VBN DT IN DT JJS NN IN JJ NNS .
+"Last week , 150 British troops arrived in the province to form part of a NATO peacekeeping mission .",O O O O B-gpe O O O O O O O O O O B-org O O O,"JJ NN , CD JJ NNS VBD IN DT NN TO VB NN IN DT NNP NN NN ."

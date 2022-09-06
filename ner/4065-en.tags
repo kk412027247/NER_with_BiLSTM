@@ -1,0 +1,9 @@
+Turkish warplanes have bombed Kurdish rebel hideouts in northern Iraq .,B-gpe O O O O O O O O B-geo O,JJ NNS VBP VBN JJ NN NNS IN JJ NNP .
+"The Turkish military said Thursday that it targeted 13 facilities belonging to the Kurdistan Workers ' Party ( PKK ) in the Zap region , near the Turkish border .",O B-gpe O O B-tim O O O O O O O O B-org I-org I-org I-org O B-org O O O B-geo O O O O B-gpe O O,"DT JJ NN VBD NNP IN PRP VBD CD NNS VBG TO DT NNP NNP POS NNP LRB NNP RRB IN DT NNP NN , IN DT JJ NN ."
+The military says it is still trying to determine if any rebels were killed .,O O O O O O O O O O O O O O O,DT JJ VBZ PRP VBZ RB VBG TO VB IN DT NNS VBD VBN .
+"Turkey has stepped up military operations this year against PKK rebels , both inside Turkey and in northern Iraq .",B-org O O O O O O O O B-org O O O O B-geo O O O B-geo O,"NNP VBZ VBN RP JJ NNS DT NN IN NNP NNS , DT JJ NNP CC IN JJ NNP ."
+"Earlier this week , the PKK released three German tourists seized during an expedition to Turkey 's Mount Ararat July 8 .",O O O O O B-org O O B-gpe O O O O O O B-org I-org I-org I-org B-tim I-tim O,"RBR DT NN , DT NNP VBD CD JJ NNS VBN IN DT NN TO NNP POS NNP NNP NNP CD ."
+Turkish military officials say a total of 33 PKK fighters were killed during a five-day offensive that ended last week .,B-gpe O O O O O O O B-org O O O O O B-tim O O O O O O,JJ JJ NNS VBP DT NN IN CD NNP NNS VBD VBN IN DT JJ NN WDT VBD JJ NN .
+The PKK has been fighting for Kurdish autonomy in southeastern Turkey for nearly 25 years .,O B-org O O O O O O O O B-org O O B-tim O O,DT NNP VBZ VBN VBG IN NNP NN IN JJ NNP IN RB CD NNS .
+"The violence has killed more than 30,000 people .",O O O O O O O O O,DT NN VBZ VBN JJR IN CD NNS .
+"The European Union , the United States , Turkey and other countries classify the PKK as a terrorist organization .",O B-org I-org O O B-geo I-geo O B-org O O O O O B-org O O O O O,"DT NNP NNP , DT NNP NNPS , NNP CC JJ NNS VBP DT NNP IN DT JJ NN ."

@@ -1,0 +1,7 @@
+Britney Spears and Kevin Federline have reached a settlement in their divorce .,B-per I-per O B-per I-per O O O O O O O O,NNP NNP CC NNP NNP VBP VBN DT NN IN PRP$ NN .
+"A spokesman for Federline 's attorney says the March 29 agreement covers child custody and financial matters , but offered no further details .",O O O B-per O O O O B-tim I-tim O O O O O O O O O O O O O O,"DT NN IN NNP POS NN VBZ DT NNP CD NN VBZ NN NN CC JJ NNS , CC VBD DT JJ NNS ."
+Spears ' attorney also declined to comment .,B-per O O O O O O O,NNP POS NN RB VBD TO VB .
+"Britney Spears filed for divorce November 7 , citing irreconcilable differences .",B-per I-per O O O B-tim I-tim O O O O O,"NNP NNP VBD IN NN NNP CD , VBG JJ NNS ."
+"She sought custody of their two sons , 18-month-old Sean Preston , and six-month-old Jayden James .",O O O O O O O O O B-per I-per O O O B-per I-per O,"PRP VBD NN IN PRP$ CD NNS , JJ NNP NNP , CC JJ NNP NNP ."
+"Kevin Federline counter-filed court papers the following day , seeking sole custody of the boys , along with spousal support .",B-per I-per O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD NN NNS DT VBG NN , VBG JJ NN IN DT NNS , IN IN JJ NN ."
+"The couple wed in September , 2004 .",O O O O B-tim O B-tim O,"DT NN VBD IN NNP , CD ."

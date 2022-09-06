@@ -1,0 +1,7 @@
+"The U.S. unemployment rate fell unexpectedly in July , in one of the strongest signals yet that the worst economic downturn since the Great Depression may be ending .",O B-geo O O O O O B-tim O O O O O O O O O O O O O O O B-org I-org O O O O,"DT NNP NN NN VBD RB IN NNP , IN CD IN DT JJS NNS RB IN DT JJS JJ NN IN DT NNP NNP MD VB VBG ."
+"A report from the Labor Department Friday shows the unemployment rate dropped to 9.4 percent last month , compared to 9.5 percent in June .",O O O O B-org I-org B-tim O O O O O O O O O O O O O O O O B-tim O,"DT NN IN DT NNP NNP NNP VBZ DT NN NN VBD TO CD NN JJ NN , VBN TO CD NN IN NNP ."
+It is the first time the jobless rate has fallen since April 2008 .,O O O O O O O O O O O B-tim I-tim O,PRP VBZ DT JJ NN DT JJ NN VBZ VBN IN NNP CD .
+"Employers cut 247,000 jobs in July .",O O O O O B-tim O,NNS VBD CD NNS IN NNP .
+"The number is much less than analysts had expected , but still an indication of a weak job market .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ RB JJR IN NNS VBD VBN , CC RB DT NN IN DT JJ NN NN ."
+"In total , about 14.5 million people are unemployed in the United States .",O O O O O O O O O O O B-geo I-geo O,"IN NN , IN CD CD NNS VBP VBN IN DT NNP NNPS ."
+President Barack Obama has said the $ 787 billion economic stimulus plan he signed within months of taking office has stopped the recession from getting worse .,B-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP NNP VBZ VBN DT $ CD CD JJ NN NN PRP VBD IN NNS IN VBG NN VBZ VBN DT NN IN VBG JJR .

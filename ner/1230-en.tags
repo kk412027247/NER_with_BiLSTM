@@ -1,0 +1,6 @@
+Representatives from hundreds of oil companies around the world are bidding for new oil exploration contracts in Nigeria .,O O O O O O O O O O O O O O O O O B-geo O,NNS IN NNS IN NN NNS IN DT NN VBP VBG IN JJ NN NN NNS IN NNP .
+Nigeria is offering the rights to over 70 parcels of land Friday in the largest open bidding in the country 's history .,B-geo O O O O O O O O O O B-tim O O O O O O O O O O O,NNP VBZ VBG DT NNS TO IN CD NNS IN NN NNP IN DT JJS JJ NN IN DT NN POS NN .
+"The land stretches from Lake Chad in the northeast to the Gulf of Guinea in the south , where huge oil discoveries have already been made .",O O O O B-geo I-geo O O O O O B-geo I-geo I-geo O O O O O O O O O O O O O,"DT NN VBZ IN NNP NNP IN DT NN TO DT NNP IN NNP IN DT NN , WRB JJ NN NNS VBP RB VBN VBN ."
+"Also Friday , the Nigerian government raised domestic oil prices by about 40 percent .",O B-tim O O B-gpe O O O O O O O O O O,"RB NNP , DT JJ NN VBD JJ NN NNS IN IN CD NN ."
+"Although Nigeria is the continent 's top crude oil exporter , it has to import refined oil and has been affected by record high oil prices .",O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O,"IN NNP VBZ DT NN POS JJ NN NN NN , PRP VBZ TO VB JJ NN CC VBZ VBN VBN IN NN JJ NN NNS ."
+Nigerian labor unions say they will fight the price hike .,B-gpe O O O O O O O O O O,JJ NN NNS VBP PRP MD VB DT NN NN .

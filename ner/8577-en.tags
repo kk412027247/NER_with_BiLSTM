@@ -1,0 +1,6 @@
+"A strong earthquake has killed one person and injured 23 in western China 's Sichuan province , near the site of May 's devastating quake .",O O O O O O O O O O O B-geo I-geo O O O O O O O O B-tim O O O O,"DT JJ NN VBZ VBN CD NN CC VBD CD IN JJ NNP POS JJ NN , IN DT NN IN NNP POS JJ NN ."
+China 's state-run Xinhua news agency says people ran into the streets after the quake hit Qingchuan county Tuesday evening .,B-geo O O B-org O O O O O O O O O O O O O O B-tim I-tim O,NNP POS JJ NNP NN NN VBZ NNS VBD IN DT NNS IN DT NN VBD JJ NN NNP NN .
+The U.S. Geological Survey says the 6.0 magnitude quake struck 10 kilometers below the surface of the earth .,O B-org I-org I-org O O O O O O O O O O O O O O O,DT NNP NNP NNP VBZ DT CD NN NN VBD CD NNS IN DT NN IN DT NN .
+"It hit hours after the Olympic torch relay passed through Sichuan 's capital , Chengdu .",O O O O O O O O O O O O O O B-org O,"PRP VBD NNS IN DT NNP NN NN VBN IN NNP POS NN , NNP ."
+"The quake was one of more than 22,000 aftershocks that have rattled Sichuan since a 7.9 magnitude earthquake hit the province on May 12 .",O O O O O O O O O O O O O O O O O O O O O O B-tim I-tim O,DT NN VBD CD IN JJR IN CD NNS WDT VBP VBN NNP IN DT CD NN NN VBD DT NN IN NNP CD .
+"That quake killed nearly 70,000 people and left millions more homeless .",O O O O O O O O O O O O,DT NN VBD RB CD NNS CC VBD NNS RBR JJ .

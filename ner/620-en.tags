@@ -1,0 +1,6 @@
+Venezuelan President Hugo Chavez arrived in Iran Wednesday for talks with officials on bilateral issues .,B-gpe B-per I-per I-per O O B-geo B-tim O O O O O O O O,JJ NNP NNP NNP VBD IN NNP NNP IN NNS IN NNS IN JJ NNS .
+Reports say he is expected to meet with Iranian President Mahmoud Ahmadinejad on Thursday as well as launch a joint development bank and bilateral investment fund .,O O O O O O O O B-gpe B-per I-per I-per O B-tim O O O O O O O O O O O O O,NNS VBP PRP VBZ VBN TO VB IN JJ NNP NNP NNP IN NNP RB RB IN NN DT JJ NN NN CC JJ NN NN .
+Mr. Chavez ' visit to Iran follows a meeting with Latin American and Arab leaders in Qatar .,B-per I-per O O O B-geo O O O O O B-gpe O B-gpe O O B-geo O,NNP NNP POS NN TO NNP VBZ DT NN IN JJ JJ CC JJ NNS IN NNP .
+The Venezuelan president has made several trips to Iran since Mr. Ahmadinejad took power in 2005 .,O B-gpe O O O O O O B-geo O B-per I-per O O O B-tim O,DT JJ NN VBZ VBN JJ NNS TO NNP IN NNP NNP VBD NN IN CD .
+Both leaders have forged close ties .,O O O O O O O,DT NNS VBP VBN JJ NNS .
+"Later this week , Mr. Chavez heads to Asia for talks with regional leaders .",B-tim O O O B-per I-per O O B-geo O O O O O O,"RB DT NN , NNP NNP VBZ TO NNP IN NNS IN JJ NNS ."

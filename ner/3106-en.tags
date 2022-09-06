@@ -1,0 +1,8 @@
+"Swiss food giant Nestle has resumed operations in Zimbabwe , after resolving a dispute with the government .",B-gpe O O B-per O O O O B-geo O O O O O O O O O,"JJ NN NN NNP VBZ VBN NNS IN NNP , IN VBG DT NN IN DT NN ."
+Nestle officials said Tuesday that government officials have assured the company they will not interfere with its business .,B-per O O B-tim O O O O O O O O O O O O O O O,NNP NNS VBD NNP IN NN NNS VBP VBN DT NN PRP MD RB VB IN PRP$ NN .
+"Nestle shut down its factory in Harare last month , citing harassment by Zimbabwean authorities .",B-per O O O O O B-geo O O O O O O B-gpe O O,"NNP VBD RP PRP$ NN IN NNP JJ NN , VBG NN IN JJ NNS ."
+"It said officials had forced staff to accept milk from "" non-contracted suppliers "" and also questioned two managers .",O O O O O O O O O O O O O O O O O O O O,PRP VBD NNS VBD VBN NN TO VB NN IN RQU JJ NNS LQU CC RB VBD CD NNS .
+The company had said in October that it would not buy milk from a farm owned by the wife of President Robert Mugabe .,O O O O O B-tim O O O O O O O O O O O O O O B-per I-per I-per O,DT NN VBD VBN IN NNP IN PRP MD RB VB NN IN DT NN VBN IN DT NN IN NNP NNP NNP .
+The farm had been seized from white farmers under Mr. Mugabe 's controversial land reform program .,O O O O O O O O O B-per I-per O O O O O O,DT NN VBD VBN VBN IN JJ NNS IN NNP NNP POS JJ NN NN NN .
+Critics say the Mugabe government 's seizure of white-owned commercial farms has devastated Zimbabwe 's economy .,O O O B-per O O O O O O O O O B-geo O O O,NNS VBP DT NNP NN POS NN IN JJ JJ NNS VBZ VBN NNP POS NN .
+Mr. Mugabe was forced to accept a power-sharing agreement with the longtime opposition MDC party last year .,B-per I-per O O O O O O O O O O O O O O O O,NNP NNP VBD VBN TO VB DT JJ NN IN DT JJ NN NNP NN JJ NN .

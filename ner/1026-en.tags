@@ -1,0 +1,7 @@
+Palestinian officials say fighting between Hamas and a powerful family in the Gaza Strip has killed 11 people and wounded several others .,B-gpe O O O O B-org O O O O O O B-geo I-geo O O O O O O O O O,JJ NNS VBP VBG IN NNP CC DT JJ NN IN DT NNP NNP VBZ VBN CD NNS CC VBN JJ NNS .
+Tuesday 's violence began when Hamas police tried to arrest members of the Doghmush clan accused of killing a police officer Monday .,B-tim O O O O B-org O O O O O O O B-geo O O O O O O O B-tim O,NNP POS NN VBD WRB NNP NNS VBD TO VB NNS IN DT NNP NN VBN IN VBG DT NN NN NNP .
+Residents say the fighting is ongoing with heavy gunfire and explosions .,O O O O O O O O O O O O,NNS VBP DT NN VBZ JJ IN JJ NN CC NNS .
+At least one police officer has been killed .,O O O O O O O O O,IN JJS CD NN NN VBZ VBN VBN .
+"Last year , Hamas seized control of the Gaza Strip after routing Fatah forces loyal to Palestinian President Mahmoud Abbas .",O O O B-org O O O O B-geo I-geo O O B-geo O O O B-gpe B-per I-per I-per O,"JJ NN , NNP VBD NN IN DT NNP NNP IN VBG NNP NNS JJ TO JJ NNP NNP NNP ."
+"Since then , Hamas has clashed several times with rival Palestinian groups and powerful Gaza families .",O O O B-org O O O O O O B-gpe O O O B-geo O O,"IN RB , NNP VBZ VBN JJ NNS IN JJ JJ NNS CC JJ NNP NNS ."
+Several Doghmush family members are suspected of belonging to militant groups and being involved with the kidnapping of a BBC journalist last year .,O B-geo O O O O O O O O O O O O O O O O O B-org O O O O,JJ NNP NN NNS VBP VBN IN VBG TO JJ NNS CC VBG VBN IN DT NN IN DT NNP NN JJ NN .

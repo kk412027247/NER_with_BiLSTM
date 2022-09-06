@@ -1,0 +1,7 @@
+"Police in southern Pakistan say a powerful bomb ripped through an Islamic school Monday , killing six students and wounding at least four others .",O O O B-geo O O O O O O O O O B-tim O O O O O O O O O O O,"NNS IN JJ NNP VBP DT JJ NN VBD IN DT JJ NN NNP , VBG CD NNS CC VBG IN JJS CD NNS ."
+"Authorities said the bomb exploded in a madrassa in southwestern Qilla Saifullah , a town near the Afghan border in the province of Baluchistan .",O O O O O O O O O O B-geo I-geo O O O O O B-gpe O O O O O B-geo O,"NNS VBD DT NN VBD IN DT NN IN JJ NNP NNP , DT NN IN DT JJ NN IN DT NN IN NNP ."
+Investigators said the bomb was concealed in the belongings of an Afghan student who stayed in the school overnight .,O O O O O O O O O O O B-gpe O O O O O O O O,NNS VBD DT NN VBD VBN IN DT NNS IN DT JJ NN WP VBD IN DT NN RB .
+Officials said it exploded after the person had left .,O O O O O O O O O O,NNS VBD PRP VBD IN DT NN VBD VBN .
+There was no immediate claim of responsibility for the blast .,O O O O O O O O O O O,EX VBD DT JJ NN IN NN IN DT NN .
+Some Pakistani madrassas are seen as breeding grounds for militants fighting foreign forces in Afghanistan and opposed to Pakistani support for U.S. efforts against terrorism .,O B-gpe O O O O O O O O O O O O B-geo O O O B-gpe O O B-geo O O O O,DT JJ NNS VBP VBN IN NN NNS IN NNS VBG JJ NNS IN NNP CC VBN TO JJ NN IN NNP NNS IN NN .
+Police said it was unclear if the explosion was linked to either conflict .,O O O O O O O O O O O O O O,NNP VBD PRP VBD JJ IN DT NN VBD VBN TO DT NN .

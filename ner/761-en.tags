@@ -1,0 +1,5 @@
+Turkish police have detained 23 people suspected of having links with the al-Qaida terrorist network .,B-gpe O O O O O O O O O O O B-org O O O,JJ NNS VBP VBN CD NNS VBN IN VBG NNS IN DT NNP NN NN .
+Police detained the suspects Wednesday in the northwestern province of Bursa .,O O O O B-tim O O O O O B-geo O,NNS VBD DT NNS NNP IN DT JJ NN IN NNP .
+"In May , police detained 11 suspected al-Qaida militants who were believed to be planning terrorist attacks in Istanbul .",O B-tim O O O O O B-org O O O O O O O O O O B-geo O,"IN NNP , NN VBD CD JJ NNP NNS WP VBD VBN TO VB VBG JJ NNS IN NNP ."
+A Turkish al-Qaida cell was blamed in four suicide bombings in 2003 that killed at least 58 people and injured hundreds more .,O B-gpe B-org O O O O O O O O B-tim O O O O O O O O O O O,DT JJ NNP NN VBD VBN IN CD NN NNS IN CD WDT VBD IN JJS CD NNS CC JJ NNS RBR .
+"Those attacks targeted two synagogues , the British consulate and a London-based bank .",O O O O O O O B-gpe O O O O O O,"DT NNS VBD CD NNS , DT JJ NN CC DT JJ NN ."

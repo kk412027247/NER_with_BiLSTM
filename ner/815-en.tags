@@ -1,0 +1,8 @@
+An Egyptian court has convicted a former Iranian diplomat and an Egyptian man of spying for Iran .,O B-gpe O O O O O B-gpe O O O B-gpe O O O O B-geo O,DT JJ NN VBZ VBN DT JJ JJ NN CC DT JJ NN IN VBG IN NNP .
+"Iran 's foreign ministry spokesman called the verdict "" ridiculous . """,B-geo O O O O O O O O O O O,NNP POS JJ NN NN VBD DT NN LQU JJ . RQU
+"The Iranian , Mohammed Reza Husseindoust , was sentenced in his absence to 25 years in prison .",O B-gpe O B-per I-per I-per O O O O O O O O O O O O,"DT JJ , NNP NNP NNP , VBD VBN IN PRP$ NN TO CD NNS IN NN ."
+"The court ruled he tried to destablize Egypt and received information from the Egyptian defendant , Mahmoud Eid Dabous , about oil facilities at the Saudi port of Yanbu .",O O O O O O O B-geo O O O O O B-gpe O O B-per I-per I-per O O O O O O O O O B-geo O,"DT NN VBD PRP VBD TO VB NNP CC VBD NN IN DT JJ NN , NNP NNP NNP , IN NN NNS IN DT JJ NN IN NNP ."
+Several westerners were killed in May of 2004 in an attack on a petrochemical plant in Yanbu .,O O O O O B-tim I-tim I-tim O O O O O O O O B-org O,JJ NNS VBD VBN IN NNP IN CD IN DT NN IN DT NN NN IN NNP .
+The attack was blamed on Islamist militants .,O O O O O O O O,DT NN VBD VBN IN NNP NNS .
+Dabous was sentenced to 10 years in prison on the espionage charge and another 25 years for plotting to assassinate Egyptian President Hosni Mubarak .,B-per O O O B-tim O O O O O O O O O O O O O O O B-gpe B-per I-per I-per O,NNP VBD VBN TO CD NNS IN NN IN DT NN NN CC DT CD NNS IN VBG TO VB JJ NNP NNP NNP .
+He denied the allegations and said his earlier confession was made under torture .,O O O O O O O O O O O O O O,PRP VBD DT NNS CC VBD PRP$ JJR NN VBD VBN IN NN .

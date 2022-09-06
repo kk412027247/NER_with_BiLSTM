@@ -1,0 +1,8 @@
+Egypt has reported a second suspected human case of bird flu as Israel culls thousands of birds in an effort to contain an outbreak .,B-org O O O O O O O O O O O B-geo O O O O O O O O O O O O,NNP VBZ VBN DT JJ JJ JJ NN IN NN NN IN NNP VBZ NNS IN NNS IN DT NN TO VB DT NN .
+Egypt 's health ministry said Sunday a young man hospitalized since Thursday is suffering symptoms of the disease .,B-org O O O O B-tim O O O O B-tim I-tim O O O O O O O,NNP POS NN NN VBD NNP DT JJ NN VBN IN NNP VBZ VBG NNS IN DT NN .
+"It said he kept a farm , north of Cairo , where a number of chickens died last Monday .",O O O O O O O O O B-geo O O O O O O O O B-tim O,"PRP VBD PRP VBD DT NN , NN IN NNP , WRB DT NN IN NNS VBD JJ NNP ."
+The report followed the death Friday in Egypt of a woman believed to have contracted the H5N1 strain of the virus .,O O O O O B-tim O B-org O O O O O O O O O O O O O O,DT NN VBD DT NN NNP IN NNP IN DT NN VBN TO VB VBN DT NNP NN IN DT NN .
+"In Israel , authorities say the situation is under control .",O B-geo O O O O O O O O O,"IN NNP , NNS VBP DT NN VBZ IN NN ."
+They are killing tens of thousands of birds to try to prevent the disease from spreading .,O O O O O O O O O O O O O O O O O,PRP VBP VBG NNS IN NNS IN NNS TO VB TO VB DT NN IN VBG .
+"Bird flu has spread across parts of Europe , Africa and Asia , killing about 100 people since 2003 .",O O O O O O O B-geo O B-geo O B-geo O O O O O B-tim I-tim O,"NN NN VBZ VBN IN NNS IN NNP , NNP CC NNP , VBG IN CD NNS IN CD ."
+Health officials have warned it could mutate into a virus that can be easily transmitted between humans and create a global pandemic .,O O O O O O O O O O O O O O O O O O O O O O O,NN NNS VBP VBN PRP MD VB IN DT NN WDT MD VB RB VBN IN NNS CC VB DT JJ NN .

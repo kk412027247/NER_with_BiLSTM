@@ -1,0 +1,10 @@
+"Irish quartet U2 rocked the French seaside resort of Cannes early on May 20 , prior to the premiere of its three-dimensional concert film .",B-gpe O B-org O O B-gpe O O O B-org B-tim O B-tim I-tim O O O O O O O O O O O,"JJ NN NNP VBD DT JJ NN NN IN NNP RB IN NNP CD , RB TO DT NN IN PRP$ JJ NN NN ."
+"Titled U2 3D , the full-length movie was shot in South America during the band 's 2006 "" Vertigo "" tour .",O B-art I-art O O O O O O O B-geo I-geo O O O O B-tim I-tim I-tim I-tim I-tim O,"VBN NNP NNP , DT JJ NN VBD VBN IN NNP NNP IN DT NN POS CD RQU NNP RQU NN ."
+Producer John Modell said the digital production heralds a new wave of three-dimensional filmmaking .,O B-per I-per O O O O O O O O O O O O,NNP NNP NNP VBD DT JJ NN VBZ DT JJ NN IN JJ NN .
+""" We are replicating the physiology of sight , "" Modell said .",O O O O O O O O O O B-per O O,"LQU PRP VBP VBG DT NN IN NN , LQU NNP VBD ."
+""" If you get it off by just a hair it creates actual physical problems - eye strain , nausea .",O O O O O O O O O O O O O O O O O O O O O,"LQU IN PRP VBP PRP RP IN RB DT NN PRP VBZ JJ JJ NNS IN NN NN , NN ."
+"We do n't have that at all . """,O O O O O O O O O,PRP VBP RB VB DT IN DT . RQU
+The production will only be shown in 3D .,O O O O O O O O O,DT NN MD RB VB VBN IN CD .
+"At present , about 700 screens are equipped with the Real D 3D system on which the film will initially show .",O O O O O O O O O O O O O O O O O O O O O O,"IN JJ , IN CD NNS VBP VBN IN DT NNP NNP NNP NN IN WDT DT NN MD RB VB ."
+Most are in the United States .,O O O O B-geo I-geo O,JJS VBP IN DT NNP NNPS .
+"Real D chairman Michael Lewis predicted the number will soon rise to 1,000 worldwide .",O O O B-per I-per O O O O O O O O O O,NNP NNP NN NNP NNP VBD DT NN MD RB VB TO CD NN .

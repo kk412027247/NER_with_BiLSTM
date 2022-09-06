@@ -1,0 +1,9 @@
+The U.S. military says seven U.S. Marines have been killed in action in western Iraq .,O B-geo O O O B-org I-org O O O O O O B-geo I-geo O,DT NNP NN VBZ CD NNP NNS VBP VBN VBN IN NN IN JJ NNP .
+"A spokesman says six of the troops were killed Monday in the town of Haditha , near the Syrian border , but he did not give details .",O O O O O O O O O B-tim O O O O B-geo O O O B-gpe O O O O O O O O O,"DT NN VBZ CD IN DT NNS VBD VBN NNP IN DT NN IN NNP , IN DT JJ NN , CC PRP VBD RB VB NNS ."
+"The seventh Marine also died on Monday , in a car bomb blast in Hit , about 70 kilometers southeast of Haditha .",O O B-org O O O B-tim O O O O O O O B-geo O O O O O O B-geo O,"DT JJ NN RB VBD IN NNP , IN DT NN NN NN IN NNP , IN CD NNS NN IN NNP ."
+"Earlier this week , the U.S. military reported killing 11 insurgents during fighting in Haditha .",O O O O O B-geo O O O O O O O O B-geo O,"RBR DT NN , DT NNP NN VBD VBG CD NNS IN VBG IN NNP ."
+"Elsewhere , Iraqi police say some civilians were killed when a car bomb targeting a U.S. military convoy exploded Tuesday in central Baghdad .",O O B-gpe O O O O O O O O O O O O B-geo O O O B-tim O O B-geo O,"RB , JJ NNS VBP DT NNS VBD VBN WRB DT NN NN VBG DT NNP JJ NN VBD NNP IN JJ NNP ."
+More than 20 people were also wounded in the explosion .,O O O O O O O O O O O,JJR IN CD NNS VBD RB VBN IN DT NN .
+There were no reports of U.S. casualties .,O O O O O B-geo O O,EX VBD DT NNS IN NNP NNS .
+"Also in Baghdad , Iraqi police say gunmen killed the head of the Abu Ghraib police station , Mizhir Hamad Yousi .",O O B-geo O B-gpe O O O O O O O O B-org I-org O O O B-org I-org I-org O,"RB IN NNP , JJ NNS VBP NNS VBD DT NN IN DT NNP NNP NN NN , NNP NNP NNP ."
+His driver was wounded in the attack .,O O O O O O O O,PRP$ NN VBD VBN IN DT NN .

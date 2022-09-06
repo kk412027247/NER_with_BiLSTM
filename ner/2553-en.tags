@@ -1,0 +1,8 @@
+"The United States has expressed concern over an escalation in violence in Sudan 's troubled Darfur region , after rebels captured a southern village .",O B-geo I-geo O O O O O O O O O B-geo O O B-tim O O O O O O O O O,"DT NNP NNPS VBZ VBN NN IN DT NN IN NN IN NNP POS JJ NNP NN , IN NNS VBD DT JJ NN ."
+A State Department spokesman said Wednesday both rebels and the government-backed militia have contributed to the increase in violence in Darfur .,O B-org I-org O O B-tim O O O O O O O O O O O O O O B-tim O,DT NNP NNP NN VBD NNP DT NNS CC DT JJ NN VBP VBN TO DT NN IN NN IN NNP .
+He said African Union cease-fire monitors are critical to bringing the situation under control .,O O O O O O O O O O O O O O O,PRP VBD NNP NNP NN NNS VBP JJ TO VBG DT NN IN NN .
+"Monday , the rebel Sudan Liberation Movement violated a cease-fire and launched a surprise attack on the town of Sheiria .",B-tim O O O B-org I-org I-org O O O O O O O O O O O O B-geo O,"NNP , DT NN NNP NNP NNP VBD DT NN CC VBD DT NN NN IN DT NN IN NNP ."
+The Sudanese government has threatened to retake the town .,O B-gpe O O O O O O O O,DT JJ NN VBZ VBN TO VB DT NN .
+Rebels have also recently accused the government-backed militia of incursions into rebel-held territory .,O O O O O O O O O O O O O O,NNS VBP RB RB VBN DT JJ NN IN NNS IN JJ NN .
+The violence comes during a sixth round of African Union-sponsored peace talks between Darfur rebel groups and the Sudanese government .,O O O O O O O O B-gpe O O O O B-tim O O O O B-gpe O O,DT NN VBZ IN DT JJ NN IN JJ JJ NN NNS IN NNP NN NNS CC DT JJ NN .
+AU officials said the renewed fighting could mar the talks and urged both sides to exercise restraint .,O O O O O O O O O O O O O O O O O O,NNP NNS VBD DT VBN NN MD VB DT NNS CC VBD DT NNS TO VB NN .

@@ -1,0 +1,6 @@
+The U.S. military in Afghanistan says two Marines have been wounded during an ambush by suspected Taleban fighters north of Jalalabad .,O B-org O O B-geo O O O O O O O O O O O B-org O O O B-geo O,DT NNP NN IN NNP VBZ CD NNS VBP VBN VBN IN DT NN IN JJ NNP NNS NN IN NNP .
+"A U.S. statement says the Marines came under fire Saturday evening while conducting a routine security patrol , and the assailants retreated .",O B-gpe O O O B-per O O O B-tim I-tim O O O O O O O O O O O O,"DT NNP NN VBZ DT NNPS VBD IN NN NNP NN IN VBG DT JJ NN NN , CC DT NNS VBD ."
+Both Marines received shrapnel wounds to the shoulder and were treated at the scene before continuing with their mission .,O B-per O O O O O O O O O O O O O O O O O O,DT NNPS VBD NN NNS TO DT NN CC VBD VBN IN DT NN IN VBG IN PRP$ NN .
+U.S. and Afghan government troops clash regularly with insurgents in southern and eastern Afghanistan bordering Pakistan .,B-org O B-gpe O O O O O O O O O O B-geo O B-geo O,NNP CC JJ NN NNS VB RB IN NNS IN JJ CC JJ NNP VBG NNP .
+Violence has declined during the winter .,O O O O O O O,NN VBZ VBN IN DT NN .
+But Taleban officials have vowed that attacks will intensify when the weather improves .,O B-org O O O O O O O O O O O O,CC NNP NNS VBP VBN DT NNS MD VB WRB DT NN VBZ .

@@ -1,0 +1,8 @@
+A Japanese business daily says automaker Toyota may add solar panels to the roof of some of its hybrid cars to help power the vehicle 's air conditioner .,O B-gpe O O O O B-per O O O O O O O O O O O O O O O O O O O O O O,DT JJ NN RB VBZ NN NNP MD VB JJ NNS TO DT NN IN DT IN PRP$ JJ NNS TO VB NN DT NN POS NN NN .
+Solar panels convert sunlight to electricity .,O O O O O O O,NNP NNS VBP NN TO NN .
+"Toyota has not confirmed the story , which says the panels may be offered on a redesigned Prius model sometime next year .",B-per O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ RB VBN DT NN , WDT VBZ DT NNS MD VB VBN IN DT VBN NN NN RB JJ NN ."
+"Hybrids go farther than conventional vehicles on a liter of gasoline because they use a combination of electric motors , a large battery , and a gasoline engine .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP RB IN JJ NNS IN DT NN IN NN IN PRP VBP DT NN IN JJ NNS , DT JJ NN , CC DT NN NN ."
+"The car runs on electricity from the battery , which is recharged by the gasoline engine .",O O O O O O O O O O O O O O O O O,"DT NN VBZ IN NN IN DT NN , WDT VBZ VBN IN DT NN NN ."
+The car is also able to gather some of the energy that other vehicles lose in the braking process .,O O O O O O O O O O O O O O O O O O O O,DT NN VBZ RB JJ TO VB DT IN DT NN IN JJ NNS VBP IN DT NN NN .
+Toyota has sold one million hybrids since introducing them a decade ago .,B-per O O O O O O O O O B-tim O O,NNP VBZ VBN CD CD NNS IN VBG PRP DT NN RB .
+The company hopes to eventually boost sales to one million per year .,O O O O O O O O O O O O O,DT NN VBZ TO RB VB NNS TO CD CD IN NN .

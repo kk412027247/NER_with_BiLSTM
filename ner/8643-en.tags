@@ -1,0 +1,4 @@
+"When talking about paintings and contemporary art , names such as Pablo Picasso , Georgia O'Keeffe , Vincent Van Gogh and others often come to mind .",O O O O O O O O O O O B-geo I-geo O B-per B-geo O B-per I-per I-per O O O O O O O,"WRB VBG IN NNS CC JJ NN , NNS JJ IN NNP NNP , NNP NNP , NNP NNP NNP CC NNS RB VBP TO NN ."
+"But , as we are about to show you , there is a whole body of artwork on Africa , by European and African artists that is largely unknown .",O O O O O O O O O O O O O O O O O O B-geo O O O O B-gpe O O O O O O,"CC , IN PRP VBP IN TO VB PRP , EX VBZ DT JJ NN IN NN IN NNP , IN JJ CC JJ NNS WDT VBZ RB JJ ."
+"Primimoda Gallery , located in the heart of Washington , is where you will find this art .",B-geo I-geo O O O O O O B-geo O O O O O O O O O,"NNP NNP , VBN IN DT NN IN NNP , VBZ WRB PRP MD VB DT NN ."
+Ndimyake Mwakalyelye tells us more .,B-per I-per O O O O,NNP NNP VBZ PRP RBR .

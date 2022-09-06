@@ -1,0 +1,7 @@
+"Blizzards and freezing temperatures shut down airport runways , train tracks and highways across Europe Sunday , stranding thousands of holiday travelers .",O O O O O O O O O O O O O O B-geo B-tim O O O O O O O,"NNS CC VBG NNS VBD RP NN NNS , NN NNS CC NNS IN NNP NNP , VBG NNS IN NN NNS ."
+"Airports in Britain , Germany , France , the Netherlands , Italy and other countries reported cancellations or delays in hundreds of flights .",O O B-geo O B-geo O B-geo O B-geo I-geo O B-geo O O O O O O O O O O O O,"NNS IN NNP , NNP , NNP , DT NNP , NNP CC JJ NNS VBD NNS CC NNS IN NNS IN NNS ."
+"Runways at both of Britain 's busiest airports , Heathrow and Gatwick in London , were closed to allow snow to be cleared .",O O O O B-geo O O O O B-per O B-geo O B-geo O O O O O O O O O O,"NNS IN DT IN NNP POS JJS NNS , NNP CC NNP IN NNP , VBD VBN TO VB NN TO VB VBN ."
+Frankfurt airport in Germany canceled around 500 flights Sunday .,B-geo O O B-geo O O O O B-tim O,NNP NN IN NNP VBD IN CD NNS NNP .
+Police were called in on Saturday to calm angry passengers .,O O O O O B-tim O O O O O,NNS VBD VBN IN IN NNP TO VB JJ NNS .
+"In addition to airports in the United Kingdom , roads and railways were affected in Northern Ireland , Wales , Scotland and England .",O O O O O B-geo I-geo I-geo O O O O O O O B-geo I-geo O B-geo O B-geo O B-geo O,"IN NN TO NNS IN DT NNP NNP , NNS CC NNS VBD VBN IN NNP NNP , NNP , NNP CC NNP ."
+Severe weather warnings have been issued for many areas .,O O O O O O O O O O,NNP NN NNS VBP VBN VBN IN JJ NNS .

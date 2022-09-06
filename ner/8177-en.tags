@@ -1,0 +1,8 @@
+"Bangladeshi medical officials are struggling to treat the victims of a fire that has killed at least 114 people in the capital , Dhaka .",B-gpe O O O O O O O O O O O O O O O O O O O O O O B-geo O,"JJ JJ NNS VBP VBG TO VB DT NNS IN DT NN WDT VBZ VBN IN JJS CD NNS IN DT NN , NNP ."
+"According to local news reports , the state-run Dhaka Medical College has admitted at least 100 people with burn injuries , since the huge fire destroyed several buildings in Dhaka 's densely-populated old section .",O O O O O O O O B-org I-org I-org O O O O O O O O O O O O O O O O O O B-geo O O O O O,"VBG TO JJ NN NNS , DT JJ NNP NNP NNP VBZ VBN IN JJS CD NNS IN JJ NNS , IN DT JJ NN VBD JJ NNS IN NNP POS JJ JJ NN ."
+Bangladeshi officials said the blaze started Thursday night when an electrical transformer exploded .,B-gpe O O O O O B-tim I-tim O O O O O O,JJ NNS VBD DT NN VBD NNP NN WRB DT JJ NN VBD .
+Witnesses say chemicals inside shops worsened the fire as it spread through apartment buildings .,O O O O O O O O O O O O O O O,NNS VBP NNS IN NNS VBD DT NN IN PRP VBD IN NN NNS .
+"Narrow roads in the centuries-old Kayettuli neighborhood hampered rescue efforts , leaving many residents trapped inside the area 's tightly-packed buildings .",O O O O O O O O O O O O O O O O O O O O O O,"NNP NNS IN DT JJ NNP NN VBN NN NNS , VBG JJ NNS VBN IN DT NN POS JJ NNS ."
+The Bangladeshi government has declared Saturday a national day of mourning .,O B-gpe O O O B-tim O O O O O O,DT JJ NN VBZ VBN NNP DT JJ NN IN NN .
+The fire was the second deadly accident in Dhaka this week .,O O O O O O O O B-geo O O O,DT NN VBD DT JJ JJ NN IN NNP DT NN .
+"On Tuesday , a building collapsed , killing at least 25 people .",O B-tim O O O O O O O O O O O,"IN NNP , DT NN VBD , VBG IN JJS CD NNS ."

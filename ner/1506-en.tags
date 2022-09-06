@@ -1,0 +1,7 @@
+Bolivian President Carlos Mesa has announced measures designed to end weeks of protests in the South American nation .,B-gpe B-per I-per I-per O O O O O O O O O O O O B-gpe O O,JJ NNP NNP NNP VBZ VBN NNS VBN TO VB NNS IN NNS IN DT JJ JJ NN .
+The president announced late Thursday that a referendum on regional autonomy will be held on October 16 .,O O O O B-tim O O O O O O O O O O B-tim I-tim O,DT NN VBD JJ NNP IN DT NN IN JJ NN MD VB VBN IN NNP CD .
+Mr. Mesa also called for the creation of an assembly to work on constitutional reform .,B-per I-per O O O O O O O O O O O O O O,NNP NNP RB VBD IN DT NN IN DT NN TO VB IN JJ NN .
+The announcement came after the Bolivian congress failed for the third time this week to reach a consensus on the issues .,O O O O O B-gpe O O O O O O O O O O O O O O O O,DT NN VBD IN DT JJ NN VBD IN DT JJ NN DT NN TO VB DT NN IN DT NNS .
+The president also urged the nation to return to calm after two weeks of protests over Bolivia 's energy policies .,O O O O O O O O O O O B-tim O O O O B-geo O O O O,DT NN RB VBD DT NN TO VB TO VB IN CD NNS IN NNS IN NNP POS NN NNS .
+He called on the Roman Catholic Church to initiate dialogue to ease tensions .,O O O O B-org I-org I-org O O O O O O O,PRP VBD IN DT NNP NNP NNP TO VB NN TO VB NNS .
+"Earlier Thursday , demonstrators massed in the streets in Bolivia 's capital , La Paz , demanding the nationalization of the energy sector .",O B-tim O O O O O O O B-geo O O O B-per I-per O O O O O O O O O,"RBR NNP , NNS VBD IN DT NNS IN NNP POS NN , NNP NNP , VBG DT NN IN DT NN NN ."

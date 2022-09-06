@@ -1,0 +1,5 @@
+Here are prices of some key commodities traded in New York :,O O O O O O O O O B-geo I-geo O,RB VBP NNS IN DT JJ NNS VBN IN NNP NNP :
+"Crude oil for June delivery rose $ .70 Thursday , closing at $ 50.83 cents a barrel .",O O O B-tim O O O O B-tim O O O O O O O O O,"JJ NN IN NNP NN VBD $ CD NNP , VBG IN $ CD NNS DT NN ."
+Coffee for May delivery fell a bit more than two cents to close at $ 1.224 per pound .,O O B-tim O O O O O O O O O O O O O O O O,NNP IN NNP NN VBD DT NN RBR IN CD NNS TO VB IN $ CD IN NN .
+Cocoa for May delivery fell $ 16 to close at $ 1452 per ton .,O O B-tim O O O O O O O O O O O O,NNP IN NNP NN VBD $ CD TO VB IN $ CD IN NN .
+"Copper for May delivery settled at $ 1.459 per pound , unchanged from yesterday .",O O B-tim O O O O O O O O O O B-tim O,"NN IN NNP NN VBD IN $ CD IN NN , JJ IN NN ."

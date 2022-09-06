@@ -1,0 +1,8 @@
+India 's government plans to spend nearly $ 13 million to create a special force to protect the endangered tiger population .,B-geo O O O O O O O O O O O O O O O O O O O O O,NNP POS NN VBZ TO VB RB $ CD CD TO VB DT JJ NN TO VB DT JJ NN NN .
+"Finance Minister P. Chidambaram announced to parliament Friday that the money will be used to raise , arm and deploy a special tiger protection force .",O O B-per I-per O O O B-tim O O O O O O O O O O O O O O O O O O,"NNP NNP NNP NNP VBD TO NN NNP IN DT NN MD VB VBN TO VB , NN CC VB DT JJ NN NN NN ."
+"A recent survey found India 's tiger population has declined to just over 1,400 from 3,600 in 2002 .",O O O O B-geo O O O O O O O O O O O O B-tim O,DT JJ NN VBD NNP POS NN NN VBZ VBN TO RB IN CD IN CD IN CD .
+Chidambaram said the number should ring an alarm bell and that the tiger is under grave threat .,B-per O O O O O O O O O O O O O O O O O,NNP VBD DT NN MD VB DT NN NN CC IN DT NN VBZ IN JJ NN .
+India 's government last month pledged to spend $ 150 million to create new tiger reserves and shift villages and tribal communities out of tiger habitats .,B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP POS NN JJ NN VBD TO VB $ CD CD TO VB JJ NN NNS CC NN NNS CC JJ NNS IN IN NN NNS .
+Officials have also opened a national wildlife crime bureau to counter the poaching of tigers and other endangered animals .,O O O O O O O O O O O O O O O O O O O O,NNS VBP RB VBN DT JJ NN NN NN TO VB DT NN IN NNS CC JJ JJ NNS .
+Tiger hunting is illegal worldwide .,B-org O O O O O,NNP NN VBZ JJ NN .
+Poachers often sell tiger skins and other body parts to China for use in traditional medicine .,O O O O O O O O O O B-geo O O O O O O,NNS RB VBP NN NNS CC JJ NN NNS TO NNP IN NN IN JJ NN .

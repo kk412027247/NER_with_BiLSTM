@@ -1,0 +1,8 @@
+A court in London has remanded into custody a man charged with attempting to bomb the London transport system in July .,O O O B-geo O O O O O O O O O O O O B-geo O O O B-tim O,DT NN IN NNP VBZ VBN IN NN DT NN VBN IN VBG TO VB DT NNP NN NN IN NNP .
+"Ethiopian-born Hamdi Issac , also known as Osman Hussain , made his first court appearance Friday , a day after being extradited to Britain from Italy .",O B-per I-per O O O O B-per I-per O O O O O O B-tim O O O O O O O B-geo O B-geo O,"JJ NNP NNP , RB VBN IN NNP NNP , VBD PRP$ JJ NN NN NNP , DT NN IN VBG VBN TO NNP IN NNP ."
+His next court date is December 8 .,O O O O O B-tim I-tim O,PRP$ JJ NN NN VBZ NNP CD .
+Hamdi Issac was arrested immediately after his arrival in Britain Thursday .,B-per I-per O O O O O O O B-geo B-tim O,NNP NNP VBD VBN RB IN PRP$ NN IN NNP NNP .
+He is facing charges including attempted murder and illegal possession of explosives .,O O O O O O O O O O O O O,PRP VBZ VBG NNS VBG JJ NN CC JJ NN IN NNS .
+Italian police arrested the British citizen in Rome a week after the failed July 21 attacks in London .,B-gpe O O O B-gpe O O B-geo O O O O O B-tim I-tim O O B-geo O,JJ NNS VBN DT JJ NN IN NNP DT NN IN DT VBN NNP CD NNS IN NNP .
+Those attacks caused no fatalities but brought chaos to London two weeks after suicide bombers killed 52 people in the British capital .,O O O O O O O O O B-geo B-tim O O O O O O O O O B-gpe O O,DT NNS VBD DT NNS CC VBD NN TO NNP CD NNS IN NN NNS VBD CD NNS IN DT JJ NN .
+"Hamdi Issac has admitted taking part in the second set of attacks but has said the action was meant to scare people , not kill them .",B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBZ VBN VBG NN IN DT JJ NN IN NNS CC VBZ VBN DT NN VBD VBN TO VB NNS , RB VB PRP ."

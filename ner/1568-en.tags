@@ -1,0 +1,5 @@
+Iraqi lawmakers say the nation 's parliament voted Saturday to extend its current session until the end of July .,B-gpe O O O O O O O B-tim O O O O O O O B-tim I-tim I-tim O,JJ NNS VBP DT NN POS NN VBD NNP TO VB PRP$ JJ NN IN DT NN IN NNP .
+The session was due to close at the end of this month .,O O O O O O O O B-tim I-tim O O O,DT NN VBD JJ TO VB IN DT NN IN DT NN .
+Lawmakers are under pressure to pass key measures aimed at promoting national reconciliation .,O O O O O O O O O O O O O O,NNS VBP IN NN TO VB JJ NNS VBN IN VBG JJ NN .
+"In a separate development , Iran 's state-run IRNA news agency reports that Iraq 's president will visit Tehran this week .",O O O O O B-geo O O B-org O O O O B-geo O O O O B-tim O O O,"IN DT JJ NN , NNP POS JJ NNP NN NN NNS IN NNP POS NN MD VB NNP DT NN ."
+"IRNA quotes Iraqi sources who say President Jalal Talabani is expected to meet with senior officials , including his Iranian counterpart , President Mahmoud Ahmadinejad .",B-org O B-gpe O O O B-per I-per I-per O O O O O O O O O O B-gpe O O B-per I-per I-per O,"NNP VBZ JJ NNS WP VBP NNP NNP NNP VBZ VBN TO VB IN JJ NNS , VBG PRP$ JJ NN , NNP NNP NNP ."

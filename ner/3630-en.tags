@@ -1,0 +1,7 @@
+"Rebels in eastern Sudan say government war planes have been bombing a rebel area near the border with Eritrea , wounding several people .",O O B-geo I-geo O O O O O O O O O O O O O O B-geo O O O O O,"NNS IN JJ NNP VBP NN NN NNS VBP VBN VBG DT NN NN IN DT NN IN NNP , VBG JJ NNS ."
+"A spokesman with rebels known as the Eastern Front said Friday , the bombing began Thursday in the Barka Valley region near the town of Tokar , 120 kilometers south Port Sudan on the Red Sea .",O O O O O O O B-org I-org O B-tim O O O O B-tim O O B-geo I-geo O O O O O B-geo O O O O B-per B-gpe O O B-geo I-geo O,"DT NN IN NNS VBN IN DT NNP NNP VBD NNP , DT NN VBD NNP IN DT NNP NNP NN IN DT NN IN NNP , CD NNS JJ NNP NNP IN DT NNP NNP ."
+"The French news agency quotes a rebel spokesman as saying many civilians have been injured by the bombs , and much livestock has been killed .",O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN NN VBZ DT NN NN IN VBG JJ NNS VBP VBN VBN IN DT NNS , CC RB NN VBZ VBN VBN ."
+He says the bombings continue Friday .,O O O O O B-tim O,PRP VBZ DT NNS VBP NNP .
+There has been no independent verification of the air strikes .,O O O O O O O O O O O,EX VBZ VBN DT JJ NN IN DT NN NNS .
+Fighting broke out between the rebels and government troops near Tokar early this week .,O O O O O O O O O O B-geo O O O O,NN VBD RP IN DT NNS CC NN NNS IN NNP RB DT NN .
+Two Sudanese rebel factions joined forces in February to form the Eastern Front .,O B-gpe O O O O O B-tim O O O B-org I-org O,CD JJ NN NNS VBD NNS IN NNP TO VB DT NNP NNP .

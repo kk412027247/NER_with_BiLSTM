@@ -1,0 +1,6 @@
+This uninhabited volcanic island is almost entirely covered by glaciers and is difficult to approach .,O O O O O O O O O O O O O O O O,DT JJ JJ NN VBZ RB RB VBN IN NNS CC VBZ JJ TO VB .
+It was discovered in 1739 by a French naval officer after whom the island was named .,O O O O B-tim O O B-gpe O O O O O O O O O,PRP VBD VBN IN CD IN DT JJ JJ NN IN WP DT NN VBD VBN .
+"No claim was made until 1825 , when the British flag was raised .",O O O O O B-tim O O O B-gpe O O O O,"DT NN VBD VBN IN CD , WRB DT JJ NN VBD VBN ."
+"In 1928 , the UK waived its claim in favor of Norway , which had occupied the island the previous year .",O B-tim O O B-org O O O O O O B-geo O O O O O O O B-tim O O,"IN CD , DT NNP VBD PRP$ NN IN NN IN NNP , WDT VBD VBN DT NN DT JJ NN ."
+"In 1971 , Norway designated Bouvet Island and the adjacent territorial waters a nature reserve .",O B-tim O B-geo O B-geo I-geo O O O O O O O O O,"IN CD , NNP VBN NNP NNP CC DT JJ JJ NNS DT NN NN ."
+"Since 1977 , it has run an automated meteorological station on the island .",B-tim I-tim O O O O O O O O O O O O,"IN CD , PRP VBZ VBN DT JJ JJ NN IN DT NN ."

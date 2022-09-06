@@ -1,0 +1,9 @@
+"American speedskater Chris Witty has dropped out of the women 's 1,500-meter race to end her Olympic career after two disappointing performances at the Turin Winter Olympics .",B-gpe O B-per I-per O O O O O O O O O O O O O O O O O O O O B-org I-org I-org O,JJ NN NNP NNP VBZ VBN IN IN DT NNS POS JJ NN TO VB PRP$ JJ NN IN CD JJ NNS IN DT NNP NNP NNPS .
+Witty was a three-time medalist competing in her fourth Winter Games .,B-per O O O O O O O O O O O,NNP VBD DT JJ NN VBG IN PRP$ JJ NNP NNPS .
+But she placed last of the 28 skaters who finished the 500-meter event .,O O O O B-tim O B-tim O O O O O O O,CC PRP VBD JJ IN DT CD NNS WP VBD DT JJ NN .
+"Witty was 27th in Sunday 's 1,000-meter race .",B-per O B-tim I-tim I-tim O O O O,NNP VBD JJ IN NNP POS JJ NN .
+Witty 's training was hampered by a groin injury she sustained in December at a World Cup meet in Turin .,B-per O O O O O O O O O O O B-tim O O B-org I-org O O B-geo O,NNP POS NN VBD VBN IN DT NN NN PRP VBD IN NNP IN DT NNP NNP VB IN NNP .
+She also was having problems with her hip .,O O O O O O O O O,PRP RB VBD VBG NNS IN PRP$ NN .
+The 30-year-old Witty carried the American flag at the Turin opening ceremonies .,O O B-per O O B-gpe O O O B-geo O O O,DT JJ NNP VBD DT JJ NN IN DT NNP NN NNS .
+"Her 1,000-meter world record ( 1:13.83 ) set while winning gold in the 1,000-meter race at the 2002 Salt Lake City Games still stands .",O O O O O O O O O O O O O O O O O B-tim O B-geo I-geo O O O O,PRP$ JJ NN NN LRB CD RRB VBN IN VBG NN IN DT JJ NN IN DT CD NNP NNP NNP NNPS RB VBZ .
+She also won silver and bronze medals at the 1998 Nagano Games .,O O O O O O O O O B-tim I-tim O O,PRP RB VBD NN CC NN NNS IN DT CD NNP NNPS .

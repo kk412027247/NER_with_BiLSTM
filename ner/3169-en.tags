@@ -1,0 +1,6 @@
+The American Diabetes Association reports the disease is the leading cause of new cases of blindness among adults .,O B-org I-org I-org O O O O O O O O O O O O O O O,DT NNP NNP NNP VBZ DT NN VBZ DT VBG NN IN JJ NNS IN NN IN NNS .
+It is the leading cause of kidney failure .,O O O O O O O O O,PRP VBZ DT VBG NN IN NN NN .
+The rate of amputation is 10 times higher among those who suffer from the disease .,O O O O O O O O O O O O O O O O,DT NN IN NN VBZ CD NNS JJR IN DT WP VBP IN DT NN .
+"Experts say those who learn how to manage the disease early , can live healthier and more normal lives .",O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT WP VBP WRB TO VB DT NN RB , MD VB JJR CC JJR JJ NNS ."
+VOA 's June Soh found camps that provide children with this chronic disease a positive approach to living with diabetes while letting them just be kids .,B-org O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O,NNP POS NNP NNP VBD NNS WDT VBP NNS IN DT JJ NN DT JJ NN TO VBG IN NNS IN VBG PRP RB VB NNS .
+Amy Katz Narrates .,B-per I-per O O,NNP NNP VBZ .

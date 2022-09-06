@@ -1,0 +1,8 @@
+Protesters in Moscow have rallied against the war in Chechnya .,O O B-geo O O O O O O B-geo O,NNS IN NNP VBP VBN IN DT NN IN NNP .
+"The Interfax news agency says up to 1,000 people took part in Saturday 's demonstration .",O B-org O O O O O O O O O O B-tim O O O,DT NNP NN NN VBZ RP TO CD NNS VBD NN IN NNP POS NN .
+Russian forces have been fighting separatists in Chechnya for most of the past decade .,B-gpe O O O O O O B-geo O O O O B-tim I-tim O,JJ NNS VBP VBN VBG NNS IN NNP IN JJS IN DT JJ NN .
+The conflict has devastated the southern republic .,O O O O O O O O,DT NN VBZ VBN DT JJ NN .
+"Also , today marks the second anniversary of when Chechen separatists seized a crowded theater in Moscow , beginning a 60-hour crisis that claimed 129 lives .",O O B-tim O O O O O O B-gpe O O O O O O B-geo O O O O O O O O O O,"RB , NN NNS DT JJ NN IN WRB JJ NNS VBD DT JJ NN IN NNP , VBG DT JJ NN WDT VBD CD NNS ."
+Most of the fatalities were from the gas Russian authorities pumped into the theater during rescue operations .,O O O O O O O O B-gpe O O O O O O O O O,JJS IN DT NNS VBD IN DT NN JJ NNS VBD IN DT NN IN NN NNS .
+"Chechen separatists have been blamed for numerous terrorist attacks , including the seizing of a school in Beslan in September and the downing of two airliners in August .",B-gpe O O O O O O O O O O O O O O O O B-geo O B-tim O O O O O O O B-tim O,"JJ NNS VBP VBN VBN IN JJ JJ NNS , VBG DT VBG IN DT NN IN NNP IN NNP CC DT NN IN CD NNS IN NNP ."
+Those attacks claimed more than 430 lives .,O O O O O O O O,DT NNS VBD JJR IN CD NNS .

@@ -1,0 +1,8 @@
+A new poll indicates only a third of Americans believe their members of Congress are honest .,O O O O O O O O B-gpe O O O O B-org O O O,DT JJ NN VBZ RB DT NN IN NNS VBP PRP$ NNS IN NNP VBP JJ .
+"In a poll of 1,000 adults taken October 3 through 5 , the Associated Press reports , 45 percent of those surveyed gave Congress poor marks for honesty and ethics .",O O O O O O O B-tim I-tim I-tim I-tim O O B-org I-org O O O O O O O O B-org O O O O O O O,"IN DT NN IN CD NNS VBN NNP CD IN CD , DT NNP NNP VBZ , CD NN IN DT VBN VBD NNP JJ NNS IN NN CC NNS ."
+"One-third of the respondents said congressional ethics are good , and 21 percent said congressional ethics are neither good nor poor .",O O O O O O O O O O O O O O O O O O O O O O,"NNP IN DT NNS VBD JJ NNS VBP JJ , CC CD NN VBD JJ NNS VBP RB JJ CC JJ ."
+Only 35 percent said they approved of the way Congress does its job .,O O O O O O O O O B-org O O O O,RB CD NN VBD PRP VBD IN DT NN NNP VBZ PRP$ NN .
+That number is down from 44 percent in a similar poll taken in February .,O O O O O O O O O O O O O B-tim O,DT NN VBZ RB IN CD NN IN DT JJ NN VBN IN NNP .
+Two top Republican lawmakers are being investigated for ethics issues .,O O O O O O O O O O O,CD JJ JJ NNS VBP VBG VBN IN NNS NNS .
+Senate Majority Leader Bill Frist is the subject of a federal probe for possible insider stock trading .,B-per I-per I-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP NNP NNP VBZ DT NN IN DT JJ NN IN JJ NN NN NN .
+Former House Majority Leader Tom Delay was charged in Texas earlier this month with violating campaign finance laws .,O B-per I-per I-per I-per I-per O O O B-geo O O O O O O O O O,JJ NNP NNP NNP NNP NNP VBD VBN IN NNP RBR DT NN IN VBG NN NN NNS .

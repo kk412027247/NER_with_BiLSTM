@@ -1,0 +1,6 @@
+"Police in Mexico say a group of armed men raided a drug rehabilitation facility and opened fire , killing 19 people and wounding several others .",O O B-geo O O O O O O O O O O O O O O O O O O O O O O O,"NNS IN NNP VBP DT NN IN JJ NNS VBD DT NN NN NN CC VBD NN , VBG CD NNS CC VBG JJ NNS ."
+Officials say the rampage took place late Thursday at the Faith and Life center in the northern city of Chihuahua .,O O O O O O O B-tim O O B-org O B-org O O O O O O B-geo O,NNS VBP DT NN VBD NN JJ NNP IN DT NNP CC NNP NN IN DT JJ NN IN NNP .
+The French news agency quotes a police official on Friday as saying 30 gunmen were involved in the attack .,O B-gpe O O O O O O O B-tim O O O O O O O O O O,DT JJ NN NN VBZ DT NN NN IN NNP IN VBG CD NNS VBD VBN IN DT NN .
+The report says the assailants fired large-caliber weapons at patients and employees before fleeing .,O O O O O O O O O O O O O O O,DT NN VBZ DT NNS VBD JJ NNS IN NNS CC NNS IN VBG .
+The motive for the attack is unclear .,O O O O O O O O,DT NN IN DT NN VBZ JJ .
+"Mexico 's Chihuahua state , where the city of Chihuahua is located , is home to major drug cartels , and drug-related violence is frequent .",B-geo O B-geo O O O O O O B-geo O O O O O O O O O O O O O O O O,"NNP POS NNP NN , WRB DT NN IN NNP VBZ VBN , VBZ NN TO JJ NN NNS , CC JJ NN VBZ JJ ."

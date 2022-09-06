@@ -1,0 +1,7 @@
+A bomb planted near railroad tracks has derailed a passenger train in Russia 's southern republic of Dagestan .,O O O O O O O O O O O O B-geo O O O O B-geo O,DT NN VBN IN NN NNS VBZ VBN DT NN NN IN NNP POS JJ NN IN NNP .
+Two rail cars and the locomotive derailed about 11 p.m. Moscow time Saturday night near the border with Chechnya .,O O O O O O O O B-tim I-tim I-tim I-tim I-tim I-tim O O O O B-geo O,CD NN NNS CC DT JJ VBN IN CD RB NNP NN NNP NN IN DT NN IN NNP .
+The train was traveling from Makhachkala to Astrakhan .,O O O O O B-geo O B-geo O,DT NN VBD VBG IN NNP TO NNP .
+"Nobody on the train was hurt , but an official with Russia 's Federal Security Forces was wounded as he was headed to the scene of the accident .",O O O O O O O O O O O B-geo O B-org I-org I-org O O O O O O O O O O O O O,"DT IN DT NN VBD VBN , CC DT NN IN NNP POS NNP NNP NNP VBD VBN IN PRP VBD VBN TO DT NN IN DT NN ."
+His car was hit by gunfire near the city of Khasavyurt .,O O O O O O O O O O B-geo O,PRP$ NN VBD VBN IN NN IN DT NN IN NNP .
+He was taken to the hospital for treatment .,O O O O O O O O O,PRP VBD VBN TO DT NN IN NN .
+"Dagestan has suffered recent unrest blamed on local insurgents and spillover violence from Chechnya , where separatists have been battling Russian troops for much of the past decade .",B-geo O O O O O O O O O O O O B-geo O O O O O O B-gpe O O O O O B-tim I-tim O,"NNP VBZ VBN JJ NN VBN IN JJ NNS CC NN NN IN NNP , WRB NNS VBP VBN VBG JJ NNS IN NN IN DT JJ NN ."

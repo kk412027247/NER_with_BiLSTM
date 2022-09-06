@@ -1,0 +1,8 @@
+"American skier Daron Rahlves has won his third World Cup men 's downhill race of the season by beating Austrian Michael Walchhofer in Wengen , Switzerland .",B-gpe O B-per I-per O O O O O O O O O O O O O O O B-gpe B-per I-per O B-geo O B-geo O,"JJ NN NNP NNP VBZ VBN PRP$ JJ NNP NNP NNS POS NN NN IN DT NN IN VBG JJ NNP NNP IN NNP , NNP ."
+"Rahlves finished the 4,480 meter Lauberhorn course in two minutes , 30.54 seconds .",B-per O O O O O O O B-tim O O B-tim O O,"NNP VBD DT CD NN NNP NN IN CD NNS , CD NNS ."
+"Walchhofer was second , 0.40 seconds behind .",B-per O O O O O O O,"NNP VBD JJ , CD NNS IN ."
+"Austrian teammate and 2002 Olympic champion Fritz Strobl finished third , 1.06 seconds behind the American .",B-gpe O O O O O B-per I-per O O O O O O O B-org O,"JJ NN CC CD NNP NN NNP NNP VBD JJ , CD NNS IN DT NNP ."
+"Reigning World Cup overall champion Bode Miller of the United States finished 11th , nearly 2.5 seconds behind Rahlves .",O B-eve I-eve O O B-per I-per O O B-geo I-geo O B-tim O O O O O B-per O,"VBG NNP NNP JJ NN NNP NNP IN DT NNP NNPS VBD CD , RB CD NNS IN NNP ."
+Miller was supposed to start the race in the 27th slot but was dropped to 31st after he did not show up for a mandatory bib presentation ceremony Friday night .,B-per O O O O O O O O B-tim O O O O O O O O O O O O O O O O O O B-tim I-tim O,NNP VBD VBN TO VB DT NN IN DT JJ NN CC VBD VBN TO CD IN PRP VBD RB VB RP IN DT JJ NN NN NN NNP NN .
+Benjamin Raich of Austria retained the overall World Cup lead with 706 points .,B-per I-per O B-geo O O O O O O O O O O,NNP NNP IN NNP VBD DT JJ NNP NNP NN IN CD NNS .
+Walchhofer is second 106 points back with Rahlves third ( 589 points ) .,B-per O O O O O O B-per O O O O O O,NNP VBZ JJ CD NNS RB IN NNP JJ LRB CD NNS RRB .

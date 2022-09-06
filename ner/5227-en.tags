@@ -1,0 +1,6 @@
+One U.S. soldier has been killed and another wounded in eastern Afghanistan .,O B-geo O O O O O O O O B-geo I-geo O,CD NNP NN VBZ VBN VBN CC DT VBN IN JJ NNP .
+A statement released by U.S. Army officials says insurgents attacked a group of American engineers with small arms and rocket-propelled grenades near a road construction project in the eastern Paktika province .,O O O O B-org I-org O O O O O O O B-gpe O O O O O O O O O O O O O O B-geo I-geo O O,DT NN VBN IN NNP NNP NNS VBZ NNS VBD DT NN IN JJ NNS IN JJ NNS CC JJ NNS IN DT NN NN NN IN DT JJ NNP NN .
+The statement says the wounded service member has been taken to a nearby U.S. base for medical treatment .,O O O O O O O O O O O O O B-geo O O O O O,DT NN VBZ DT JJ NN NN VBZ VBN VBN TO DT JJ NNP NN IN JJ NN .
+The latest American casualties come amidst an upsurge of violence ahead of the September 18 parliamentary elections .,O O B-gpe O O O O O O O O O O B-tim I-tim O O O,DT JJS JJ NNS VBP RB DT NN IN NN RB IN DT NNP CD JJ NNS .
+Hundreds of people have died in militant-related violence so far this year .,O O O O O O B-tim O O O O O O,NNS IN NNS VBP VBN IN JJ NN RB RB DT NN .
+"Earlier this week , 16 suspected Taleban militants and one U.S. soldier were killed .",O O O O O O B-org O O O B-geo O O O O,"RBR DT NN , CD JJ NNP NNS CC CD NNP NN VBD VBN ."

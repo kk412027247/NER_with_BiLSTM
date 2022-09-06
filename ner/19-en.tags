@@ -1,0 +1,4 @@
+A new government report recently released shows the nation 's poverty rate was virtually unchanged in 2007 .,O O O O O O O O O O O O O O O O B-tim O,DT JJ NN NN RB VBN VBZ DT NN POS NN NN VBD RB JJ IN CD .
+The U.S. Census Bureau 's annual report also shows the number of Americans without health insurance fell last year - the first annual decline since the Bush administration took office .,O B-org I-org I-org O O O O O O O O B-gpe O O O O O O B-tim O O O O O O B-geo O O O O,DT NNP NNP NNP POS JJ NN RB VBZ DT NN IN NNS IN NN NN VBD JJ NN IN DT JJ JJ NN IN DT NNP NN VBD NN .
+"But some economists have criticized the report , saying it paints an inaccurate picture of the U.S. economy today .",O O O O O O O O O O O O O O O O B-geo O B-tim O,"CC DT NNS VBP VBN DT NN , VBG PRP VBZ DT JJ NN IN DT NNP NN NN ."
+VOA 's Mil Arcega reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

@@ -1,0 +1,8 @@
+"The Netherlands has defeated Japan , 2-1 while Benin and Australia played to a 1-1 draw on the first day of the World Under-20 men 's football ( soccer ) tournament in the Netherlands .",O B-org O O B-org O O O B-org O B-org O O O O O O O O O O O B-eve I-eve O O O O O O O O B-geo I-geo O,"DT NNP VBZ VBN NNP , CD IN NNP CC NNP VBD TO DT JJ NN IN DT JJ NN IN DT NNP NNP NNS POS NN LRB NN RRB NN IN DT NNP ."
+Ryan Babel scored one goal and set PSV Eindhoven striker Ibrahim Afellay 's goal for the Dutch .,B-per I-per O O O O O B-org I-org O B-per I-per O O O O B-gpe O,NNP NNP VBD CD NN CC VBN NNP NNP NN NNP NNP POS NN IN DT NNS .
+Sota Hirayama scored for Japan in the 68th minute .,B-per I-per O O B-org O O O O O,NNP NNP VBD IN NNP IN DT JJ NN .
+"Meanwhile , Australia had to rally from one goal down to tie Benin , 1-1 , after Razak Omotoyossi scored in the 32nd minute .",O O B-org O O O O O O O O O B-org O O O O B-per I-per O O O O O O,"RB , NNP VBD TO VB IN CD NN IN TO VB NNP , CD , IN NNP NNP VBD IN DT JJ NN ."
+Australia 's Nick Ward tied the match in the 59th minute .,B-org O B-per I-per O O O O O O O O,NNP POS NNP NNP VBD DT NN IN DT JJ NN .
+The top two teams in each of the six groups plus the four best teams among those ranked third after the first round qualify for the round of 16 .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,DT JJ CD NNS IN DT IN DT CD NNS CC DT CD JJS NNS IN DT VBN JJ IN DT JJ NN VB IN DT NN IN CD .
+The winners in the round of 16 make the quarterfinals .,O O O O O O O O O O O,DT NNS IN DT NN IN CD VBP DT NNS .
+The tournament final is scheduled for July 5th .,O O O O O O B-tim I-tim O,DT NN JJ VBZ VBN IN NNP CD .

@@ -1,0 +1,7 @@
+Iraqi National Guard troops have raided a Sunni mosque in Baghdad .,B-gpe B-org I-org O O O O O O O B-geo O,JJ NNP NNP NNS VBP VBN DT NNP NN IN NNP .
+"Reports say about 200 national guardsmen stormed the al-Hanifa mosque Friday , following weekly prayers , throwing stun grenades and firing shots in the air .",O O O O O O O O O O B-tim O O O O O O O O O O O O O O O,"NNS VBP IN CD JJ NNS VBD DT JJ NN NNP , VBG JJ NNS , VBG NN NNS CC VBG NNS IN DT NN ."
+Casualties were reported during the fighting inside the mosque .,O O O O O O O O O O,NNS VBD VBN IN DT NN IN DT NN .
+"The purpose of the raid was not immediately clear , but worshippers say the Iraqi troops arrested the mosque 's imam .",O O O O O O O O O O O O O O B-gpe O O O O O O O,"DT NN IN DT NN VBD RB RB JJ , CC NNS VBP DT JJ NNS VBN DT NN POS NN ."
+"Meanwhile , the top commander of U.S. Marines in Iraq says U.S. and Iraqi troops have "" broken the back "" of the insurgency there by taking control of Fallujah .",O O O O O O B-org I-org O B-geo O B-geo O B-gpe O O O O O O O O O O O O O O O B-geo O,"RB , DT JJ NN IN NNP NNPS IN NNP VBZ NNP CC JJ NNS VBP LQU VBN DT RB LQU IN DT NN RB IN VBG NN IN NNP ."
+Lieutenant General John Sattler said the 11-day operation has pushed the insurgents out of their safe haven and into less familiar areas .,O B-per I-per I-per O O O O O O O O O O O O O O O O O O O,NNP NNP NNP NNP VBD DT JJ NN VBZ VBN DT NNS IN IN PRP$ JJ NN CC IN JJR JJ NNS .
+But he said Fallujah is not quite secure yet .,O O O B-geo O O O O O O,CC PRP VBD NNP VBZ RB RB JJ RB .

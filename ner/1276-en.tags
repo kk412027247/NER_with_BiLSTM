@@ -1,0 +1,6 @@
+Cameroon has become the fourth African country to report a case of the deadly bird flu virus .,B-org O O O O B-gpe O O O O O O O O O O O O,NNP VBZ VBN DT JJ JJ NN TO VB DT NN IN DT JJ NN NN NN .
+A government statement released Sunday said the H5N1 strain was detected at a duck farm in the northern town of Maroua .,O O O O B-tim O O O O O O O O O O O O O O O B-geo O,DT NN NN VBN NNP VBD DT NNP NN VBD VBN IN DT NN NN IN DT JJ NN IN NNP .
+Cameroon had already implemented a ban on importing birds after the H5N1 virus was reported in neighboring Nigeria .,B-org O O O O O O O O O O O O O O O O B-geo O,NNP VBD RB VBN DT NN IN VBG NNS IN DT NNP NN VBD VBN IN JJ NNP .
+Health officials are concerned that Africa is not prepared to combat the avian flu because of a lack of money and other resources .,O O O O O B-geo O O O O O O O O O O O O O O O O O O,NNP NNS VBP VBN IN NNP VBZ RB JJ TO VB DT JJ NN IN IN DT NN IN NN CC JJ NNS .
+"Avian flu has also been found in Asia , Europe and the Middle East .",O O O O O O O B-geo O B-geo O O B-geo I-geo O,"JJ NN VBZ RB VBN VBN IN NNP , NNP CC DT NNP NNP ."
+"The World Health Organization reports the virus has killed 97 people since 2003 , mostly in Asia .",O B-org I-org I-org O O O O O O O B-tim I-tim O O O B-geo O,"DT NNP NNP NNP VBZ DT NN VBZ VBN CD NNS IN CD , RB IN NNP ."

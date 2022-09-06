@@ -1,0 +1,8 @@
+U.S weather forecasters say hurricane warnings have been posted for Mexico 's Yucatan peninsula as Hurricane Wilma continues to churn slowly through the Caribbean .,B-org O O O O O O O O B-org B-geo B-org B-geo O O B-eve I-eve O O O O O O B-geo O,NNP NN NNS VBP NN NNS VBP VBN VBN IN NNP POS NNP NN IN NNP NNP VBZ TO VB RB IN DT NNP .
+A statement from the National Hurricane Center says Wilma is still a strong category 4 hurricane with winds near 250 kilometers per hour .,O O O O B-org I-org I-org O B-eve O O O O O O O O O O O O O O O,DT NN IN DT NNP NNP NNP VBZ NNP VBZ RB DT JJ NN CD NN IN NNS IN CD NNS IN NN .
+"It is centered 345 kilometers southeast of Cozumel , Mexico .",O O O O O O O B-geo O B-geo O,"PRP VBZ VBN CD NNS NN IN NNP , NNP ."
+It warns that the storm could strengthen again later Thursday .,O O O O O O O O B-tim I-tim O,PRP VBZ IN DT NN MD VB RB RB NNP .
+"Meteorologists say that if Wilma comes ashore in the Yucatan , it will bring a storm surge of two to three meters above normal along with large , battering waves .",O O O O B-eve O O O O B-geo O O O O O O O O O O O O O O O O O O O O O,"NNS VBP IN IN NNP VBZ RB IN DT NNP , PRP MD VB DT NN NN IN CD CC CD NNS IN JJ IN IN JJ , VBG NNS ."
+Forecasters say Wilma is moving west to northwest at 13 kilometers per hour .,O O B-eve O O O O O O O O O O O,NNS VBP NNP VBZ VBG RB TO VB IN CD NNS IN NN .
+Computer models show it turning sharply toward the east and the Florida coast later this week . .,O O O O O O O O O O O B-geo O B-tim O O O O,NN NNS VBP PRP VBG RB IN DT NN CC DT NNP NN RB DT NN . .
+At least 10 people in Haiti were killed in mudslides caused by the storm .,O O O O O B-geo O O O O O O O O O,IN JJS CD NNS IN NNP VBD VBN IN NNS VBN IN DT NN .

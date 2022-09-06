@@ -1,0 +1,4 @@
+Turkey 's military says troops killed four Kurdish guerrillas in operations Friday night near the border with northern Iraq .,B-geo O O O O O O O O O O B-tim I-tim O O O O O B-geo O,NNP POS JJ VBZ NNS VBD CD JJ NNS IN NNS NNP NN IN DT NN IN JJ NNP .
+Military authorities said Saturday the clash occurred in southeastern Hakkari province .,O O O B-tim O O O O O B-geo O O,JJ NNS VBD NNP DT NN VBD IN JJ NNP NN .
+The banned Kurdistan Workers ' Party ( PKK ) has been fighting for autonomy for ethnic Kurds in Turkey 's southeast since 1984 .,O O B-org I-org I-org I-org O B-org O O O O O O O O B-org O B-geo O O B-tim I-tim O,DT VBN NNP NNP POS NNP LRB NNP RRB VBZ VBN VBG IN NN IN JJ NNS IN NNP POS NN IN CD .
+"More than 30,000 people have been killed in the conflict .",O O O O O O O O O O O,JJR IN CD NNS VBP VBN VBN IN DT NN .

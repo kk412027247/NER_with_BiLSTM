@@ -1,0 +1,7 @@
+"The eldest daughter of former Chilean dictator Augusto Pinochet is being questioned in Washington D.C. after fleeing Chile , where she has been charged with tax evasion .",O O O O O B-gpe O B-per I-per O O O O B-geo I-geo O O B-geo O O O O O O O O O O,"DT JJS NN IN JJ JJ NN NNP NNP VBZ VBG VBN IN NNP NNP IN VBG NNP , WRB PRP VBZ VBN VBN IN NN NN ."
+U.S. Customs and Border officials say Lucia Pinochet is being interviewed at Washington 's Dulles International Airport after arriving from Argentina .,B-geo B-org I-org I-org O O B-per I-per O O O O B-geo O B-art I-art I-art O O O B-geo O,NNP NNP CC NNP NNS VBP NNP NNP VBZ VBG VBN IN NNP POS NNP NNP NNP IN VBG IN NNP .
+The charges she faces are related to a broader investigation of $ 27 million her father allegedly hid in foreign bank accounts .,O O O O O O O O O O O O O O O O O O O O O O O,DT NNS PRP VBZ VBP VBN TO DT JJR NN IN $ CD CD PRP$ NN RB VBD IN JJ NN NNS .
+General Pinochet also has been charged with tax fraud .,B-per I-per O O O O O O O O,NNP NNP RB VBZ VBN VBN IN NN NN .
+His wife and four other adult children were detained Monday on charges relating to the tax fraud probe .,O O O O O O O O O B-tim O O O O O O O O O,PRP$ NN CC CD JJ JJ NNS VBD VBN NNP IN NNS VBG TO DT NN NN NN .
+They were freed on bail a day later .,O O O O O O B-tim I-tim O,PRP VBD VBN IN NN DT NN RB .
+The former dictator also faces human rights charges related to his rule in the mid-1970s .,O O O O O O O O O O O O O O B-tim O,DT JJ NN RB VBZ JJ NNS NNS VBN TO PRP$ NN IN DT NNS .

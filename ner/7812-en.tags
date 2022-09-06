@@ -1,0 +1,9 @@
+Two bomb blasts in southern Afghanistan have killed two civilians and two policemen .,O O O O B-geo I-geo O O O O O O O O,CD NN NNS IN JJ NNP VBP VBN CD NNS CC CD NNS .
+"Military officials say a suicide bomber detonated his car near a NATO convoy outside the city of Kandahar , killing two civilians and wounding one .",O O O O O O O O O O O B-org O O O O O B-geo O O O O O O O O,"JJ NNS VBP DT NN NN VBD PRP$ NN IN DT NNP NN IN DT NN IN NNP , VBG CD NNS CC VBG CD ."
+No NATO soldiers were injured .,O B-org O O O O,DT NNP NNS VBD VBN .
+"In neighboring Helmand province , an explosion hit a police vehicle on patrol in Grieshk district , killing two policemen .",O O B-geo O O O O O O O O O O O B-geo O O O O O O,"IN JJ NNP NN , DT NN VBD DT NN NN IN NN IN NNP NN , VBG CD NNS ."
+"Meanwhile , in the capital Kabul , another explosion went off just moments after a NATO patrol drove by .",O O O O O B-geo O O O O O O O O O B-org O O O O,"RB , IN DT NN NNP , DT NN VBD RB RB NNS IN DT NNP NN VBD IN ."
+There were no injuries or damage reported .,O O O O O O O O,EX VBD DT NNS CC NN VBN .
+"On Monday , a suicide bomber killed 17 people and wounded nearly 50 others in a crowded market in Helmand province 's capital , Lashkar Gah .",O B-tim O O O O O O O O O O O O O O O O O B-geo O O O O B-org I-org O,"IN NNP , DT NN NN VBD CD NNS CC VBD RB CD NNS IN DT JJ NN IN NNP NN POS NN , NNP NNP ."
+Officials said 15 children were among the wounded .,O O O O O O O O O,NNS VBD CD NNS VBD IN DT VBN .
+Violence has increased in recent weeks since NATO forces moved to southern Afghanistan to destroy Taleban hideouts .,O O O O O O O B-org O O O B-geo I-geo O O B-org O O,NN VBZ VBN IN JJ NNS IN NNP NNS VBD TO JJ NNP TO VB NNP NNS .

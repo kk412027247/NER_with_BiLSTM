@@ -1,0 +1,9 @@
+An Algerian man goes on trial Monday in France for terrorist attacks on the Paris subway in 1995 .,O B-gpe O O O O B-tim O B-geo O O O O O B-geo O O B-tim O,DT JJ NN VBZ IN NN NNP IN NNP IN NN NNS IN DT NNP NN IN CD .
+Prosecutors say Rachid Ramda helped fund at least three bombings on the Paris metro .,O O B-per I-per O O O O O O O O B-geo O O,NNS VBP NNP NNP VBD VB IN JJS CD NNS IN DT NNP NN .
+"If he is convicted , Ramda could get life in prison .",O O O O O B-per O O O O O O,"IN PRP VBZ VBN , NNP MD VB NN IN NN ."
+The 38-year-old is already serving a 10-year sentence in France after he was convicted last year on terrorism charges .,O O O O O O O O O B-geo O O O O O O O O O O,DT JJ VBZ RB VBG DT JJ NN IN NNP IN PRP VBD VBN JJ NN IN NN NNS .
+Police say Ramda operated from London where investigators say they found evidence that he sent money to terrorists .,O O B-per O O B-geo O O O O O O O O O O O O O,NNS VBP NNP VBD IN NNP WRB NNS VBP PRP VBD NN IN PRP VBD NN TO NNS .
+He is accused of helping fund attacks carried out by an Algerian militant organization the Armed Islamic Group .,O O O O O O O O O O O B-gpe O O O B-org I-org I-org O,PRP VBZ VBN IN VBG NN NNS VBD RP IN DT JJ JJ NN DT NNP NNP NNP .
+British police arrested Ramda in 1995 .,B-gpe O O B-per O B-tim O,JJ NN VBN NNP IN CD .
+He fought extradition to France for 10 years .,O O O O B-geo O O O O,PRP VBD NN TO NNP IN CD NNS .
+"In Monday 's trial , Ramda is facing charges of being an accomplice to at least three bombings on the Paris subway , including the July 25 , 1995 attack that killed eight people and injured more than 150 .",O B-tim O O O B-per O O O O O O O O O O O O O O B-geo O O O O B-tim I-tim I-tim I-tim O O O O O O O O O O O,"IN NNP POS NN , NNP VBZ VBG NNS IN VBG DT NN TO IN JJS CD NNS IN DT NNP NN , VBG DT NNP CD , CD NN WDT VBD CD NNS CC VBD JJR IN CD ."

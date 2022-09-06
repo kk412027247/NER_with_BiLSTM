@@ -1,0 +1,8 @@
+U.S. investigators say they have cracked one of the biggest Wall Street insider trading rings since the 1980s .,B-geo O O O O O O O O O B-org I-org O O O O O B-tim O,NNP NNS VBP PRP VBP VBN CD IN DT JJS NNP NNP NN NN NNS IN DT NNS .
+Prosecutors have arrested 13 people who are believed to have made as much as $ 15 million from insider trading schemes .,O O O O O O O O O O O O O O O O O O O O O O,NNS VBP VBN CD NNS WP VBP VBN TO VB VBN RB JJ IN $ CD CD IN NN NN NNS .
+Some of those arrested are from Wall Street 's top banks .,O O O O O O B-org I-org O O O O,DT IN DT VBN VBP IN NNP NNP POS JJ NNS .
+"Employees from Bank of America , Morgan Stanley and UBS were accused Thursday of engaging in improper trading , conspiracy , fraud and bribery .",O O B-org I-org I-org I-org I-org I-org O B-org O O B-tim O O O O O O O O O O O O,"NNS IN NNP IN NNP , NNP NNP CC NNP VBD VBN NNP IN VBG IN JJ NN , NN , NN CC NN ."
+Authorities say UBS Securities executive Mitchel Guttenberg is among those who face charges .,O O B-org I-org O B-per I-per O O O O O O O,NNS VBP NNP NNP NN NNP NNP VBZ IN DT WP VBP NNS .
+They say he sold information to traders about the company 's stock upgrades and downgrades by UBS analysts .,O O O O O O O O O O O O O O O O B-org O O,PRP VBP PRP VBD NN TO NNS IN DT NN POS NN NNS CC NNS IN NNP NNS .
+Authorities say the investigation has gone on for more than a year .,O O O O O O O O O O O O O,NNS VBP DT NN VBZ VBN IN IN JJR IN DT NN .
+The Securities and Exchange Commission has filed civil charges against 11 people and three entities allegedly involved in the case .,B-org I-org I-org I-org I-org O O O O O O O O O O O O O O O O,DT NNPS CC NNP NNP VBZ VBN JJ NNS IN CD NNS CC CD NNS RB VBN IN DT NN .

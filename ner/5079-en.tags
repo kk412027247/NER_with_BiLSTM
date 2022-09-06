@@ -1,0 +1,7 @@
+"The death toll from a gas explosion at a Chinese coal mine has climbed to 87 , with rescuers still searching for 21 miners .",O O O O O O O O O B-gpe O O O O O O O O O O O O O O O,"DT NN NN IN DT NN NN IN DT JJ NN NN VBZ VBN TO CD , IN NNS RB VBG IN CD NNS ."
+Officials with the local coal mine safety bureau said Friday that gas density in the mine is so high it makes rescue efforts dangerous .,O O O O O O O O O B-tim O O O O O O O O O O O O O O O,NNS IN DT JJ NN NN NN NN VBD NNP IN NN NN IN DT NN VBZ RB JJ PRP VBZ NN NNS JJ .
+The latest explosion happened Wednesday at the Liuguantun mine near Tangshan city in Hebei province .,O O O O B-tim O O B-geo O O B-geo O O B-geo O O,DT JJS NN VBD NNP IN DT NNP NN IN NNP NN IN NNP NN .
+Only 30 miners are known to have survived the blast .,O O O O O O O O O O O,RB CD NNS VBP VBN TO VB VBN DT NN .
+China 's mines are the deadliest in the world .,B-geo O O O O O O O O O,NNP POS NNS VBP DT JJS IN DT NN .
+Thousands of miners are killed each year .,O O O O O B-tim O O,NNS IN NNS VBP VBN DT NN .
+"On Tuesday , rescuers recovered the body of the last miner missing in a November 27 coal dust explosion in Heilongjiang province , bringing the number of deaths in that blast to 171 .",O B-tim O O O O O O O O O O O O B-tim I-tim O O O O B-geo O O O O O O O O O O O O O,"IN NNP , NNS VBD DT NN IN DT JJ NN VBG IN DT NNP CD NN NN NN IN NNP NN , VBG DT NN IN NNS IN DT NN TO CD ."

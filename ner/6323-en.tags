@@ -1,0 +1,8 @@
+"Romania says three Romanian journalists and their Iraqi guide , kidnapped nearly two months in Baghdad , have been freed .",B-gpe O O B-gpe O O O B-gpe O O O O O O O B-geo O O O O O,"NNP VBZ CD JJ NNS CC PRP$ JJ NN , VBN RB CD NNS IN NNP , VBP VBN VBN ."
+Details were not immediately clear .,O O O O O O,NNS VBD RB RB JJ .
+But a statement Sunday from the Romanian presidency said the reporters are safe and will soon return home .,O O O B-tim O O B-gpe O O O O O O O O O O O O,CC DT NN NNP IN DT JJ NN VBD DT NNS VBP JJ CC MD RB VB NN .
+The reporters and driver were seized March 28 .,O O O O O O B-tim I-tim O,DT NNS CC NN VBD VBN NNP CD .
+The kidnappers threatened to kill them unless Romania withdrew its small military contingent from Iraq by April 27 .,O O O O O O O B-geo O O O O O O B-geo O B-tim I-tim O,DT NNS VBD TO VB PRP IN NNP VBD PRP$ JJ JJ JJ IN NNP IN NNP CD .
+Romanian President Traian Basescu rejected the demand .,B-gpe O B-per I-per O O O O,JJ NNP NNP NNP VBD DT NN .
+"Meanwhile , gunmen today killed the director-general of Iraq 's Trade Ministry , Ali Mousa Salman , as he was driving to work in Baghdad .",O O O B-tim O O O O B-geo O B-org I-org O B-per I-per I-per O O O O O O O O B-geo O,"RB , NNS NN VBD DT NN IN NNP POS NNP NNP , NNP NNP NNP , IN PRP VBD VBG IN NN IN NNP ."
+His driver also was killed,O O O O O,PRP$ NN RB VBD VBN

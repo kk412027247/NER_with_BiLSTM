@@ -1,0 +1,4 @@
+"The islands were part of the UK 's Jamaican colony until 1962 , when they assumed the status of a separate crown colony upon Jamaica 's independence .",O O O O O O B-org O B-gpe B-tim I-tim I-tim O O O O O O O O O O O O B-geo O O O,"DT NNS VBD NN IN DT NNP POS JJ NN IN CD , WRB PRP VBD DT NN IN DT JJ NN NN IN NNP POS NN ."
+The governor of The Bahamas oversaw affairs from 1965 to 1973 .,O O O B-org B-gpe O O B-tim I-tim I-tim I-tim O,DT NN IN DT NNPS VBD NNS IN CD TO CD .
+"With Bahamian independence , the islands received a separate governor in 1973 .",O B-gpe O O O O O O O O O B-tim O,"IN JJ NN , DT NNS VBD DT JJ NN IN CD ."
+"Although independence was agreed upon for 1982 , the policy was reversed and the islands remain a British overseas territory .",O O O O O O B-tim O O O O O O O O O O B-gpe O O O,"IN NN VBD VBN IN IN CD , DT NN VBD VBN CC DT NNS VBP DT JJ JJ NN ."

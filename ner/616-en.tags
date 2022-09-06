@@ -1,0 +1,7 @@
+"Mexico 's state-run oil company , Pemex , said its 2008 production of crude oil fell 9.2 percent from 2007 .",B-geo O O O O O B-per O O O O O O O O O O O B-tim I-tim O,"NNP POS JJ NN NN , NNP , VBD PRP$ CD NN IN JJ NN VBD CD NN IN CD ."
+Pemex said Wednesday that daily production last year dropped to almost 2.8 million barrels compared to three million barrels the year before .,B-per O B-tim O O O O O O O O O O O O O O O O O O B-tim O,NNP VBD NNP IN JJ NN JJ NN VBD TO RB CD CD NNS VBN TO CD CD NNS DT NN IN .
+"The oil company blamed bad weather and operational factors at its biggest oil field , Cantarell , for the production 2008 shortfall .",O O O O O O O O O O O O O O O B-org O O O O B-tim I-tim O,"DT NN NN VBD JJ NN CC JJ NNS IN PRP$ JJS NN NN , NNP , IN DT NN CD NN ."
+Exports were also down 16.8 percent last year .,O O O O O O O O O,NNS VBD RB RB CD NN JJ NN .
+Mexican President Felipe Calderon has sought more private investment in Pemex to boost falling production .,B-gpe B-per I-per I-per O O O O O O B-geo O O O O O,JJ NNP NNP NNP VBZ VBN RBR JJ NN IN NNP TO VB VBG NN .
+Opponents have said opening the struggling oil industry to private interests would threaten Mexico 's sovereignty .,O O O O O O O O O O O O O B-geo O O O,NNS VBP VBN VBG DT JJ NN NN TO JJ NNS MD VB NNP POS NN .
+Mexico is a major oil supplier to the United States .,B-geo O O O O O O O B-geo I-geo O,NNP VBZ DT JJ NN NN TO DT NNP NNPS .

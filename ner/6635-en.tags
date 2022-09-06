@@ -1,0 +1,6 @@
+"Israeli soldiers have killed two Palestinian gunmen who fired at them from a demolished home in Hebron , on the West Bank .",B-gpe O O O O B-gpe O O O O O O O O O O B-geo O O O B-org I-org O,"JJ NNS VBP VBN CD JJ NNS WP VBD IN PRP IN DT JJ NN IN NNP , IN DT NNP NNP ."
+Palestinian sources identified the men killed Thursday as members of the Islamic militant group Hamas .,B-gpe O O O O O B-tim O O O O B-org I-org I-org I-org O,JJ NNS VBN DT NNS VBN NNP IN NNS IN DT NNP JJ NN NNP .
+A third man was wounded in the exchange of gunfire .,O O O O O O O O O O O,DT JJ NN VBD VBN IN DT NN IN NN .
+The house from which the men fired had been destroyed earlier in the day by the Israeli troops .,O O O O O O O O O O O O O O O O B-gpe O O,DT NN IN WDT DT NNS VBD VBD VBN VBN RBR IN DT NN IN DT JJ NNS .
+"In Gaza , a resident of the Rafah refugee camp died after an Israeli tank fired at him .",O B-geo O O O O O B-org O O O O O B-gpe O O O O O,"IN NNP , DT NN IN DT NNP NN NN VBD IN DT JJ NN VBN IN PRP ."
+The Associated Press reports a second man was injured by the tank fire .,B-org I-org I-org O O O O O O O O O O O,DT NNP NNP VBZ DT JJ NN VBD VBN IN DT NN NN .

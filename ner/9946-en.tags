@@ -1,0 +1,8 @@
+The price of crude oil declined after the U.S. government reported an increase in U.S. inventories of oil and gasoline .,O O O O O O O O B-geo O O O O O B-geo O O O O O O,DT NN IN JJ NN VBD IN DT NNP NN VBD DT NN IN NNP NNS IN NN CC NN .
+Wednesday 's report from the Department of Energy says crude oil reserves rose by 1.7 million barrels to nearly 347 million barrels last week .,B-tim O O O O B-org I-org I-org O O O O O O O O O O O O O O O O O,NNP POS NN IN DT NNP IN NNP VBZ JJ NN NNS VBD IN CD CD NNS TO RB CD CD NNS JJ NN .
+Gasoline reserves rose more than two million barrels to 202.7 million .,O O O O O O O O O O O O,NN NNS VBD JJR IN CD CD NNS TO CD CD .
+"The larger inventories may ease concerns that U.S. fuel supplies might fall short during June , July and August when many Americans drive long distances on vacation .",O O O O O O O B-geo O O O O O O B-tim I-tim I-tim I-tim I-tim O O B-gpe O O O O O O,"DT JJR NNS MD VB NNS IN NNP NN NNS MD VB JJ IN NNP , NNP CC NNP WRB JJ NNS VBP JJ NNS IN NN ."
+The price of crude oil for June delivery declined nearly $ 1 to $ 73.85 a barrel in New York trading .,O O O O O O B-tim O O O O O O O O O O O B-geo I-geo O O,DT NN IN JJ NN IN NNP NN VBD RB $ CD TO $ CD DT NN IN NNP NNP NN .
+Oil prices have surged 21 percent this year .,O O O O O O O O O,NN NNS VBP VBN CD NN DT NN .
+One factor is concern about the dispute about Iran 's nuclear program .,O O O O O O O O B-geo O O O O,CD NN VBZ NN IN DT NN IN NNP POS JJ NN .
+Iran is the world 's fourth-largest oil exporter .,B-geo O O O O O O O O,NNP VBZ DT NN POS JJ NN NN .

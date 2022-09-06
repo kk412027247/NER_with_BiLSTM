@@ -1,0 +1,6 @@
+Sri Lankan officials say eight government troops have been killed by a land mine explosion in the north of the country .,B-per I-per O O O O O O O O O O O O O O O O O O O O,NNP NNP NNS VBP CD NN NNS VBP VBN VBN IN DT NN NN NN IN DT NN IN DT NN .
+"Officials say suspected Tamil rebels detonated the land mine Thursday , as a Sri Lankan navy convoy passed through the northern district of Vavuniya .",O O O B-org O O O O O B-tim O O O B-per I-per I-per O O O O O O O B-geo O,"NNS VBP VBN NNP NNS VBD DT NN NN NNP , IN DT NNP NNP NN NN VBN IN DT JJ NN IN NNP ."
+"The blast destroyed a navy bus , killing at least eight sailors .",O O O O O O O O O O O O O,"DT NN VBD DT NN NN , VBG IN JJS CD NNS ."
+Dozens of Sri Lankan troops have died in attacks blamed on Tamil rebels in recent weeks .,O O B-per I-per O O O O O O O B-org O O O O O,NNS IN NNP NNP NNS VBP VBN IN NNS VBN IN NNP NNS IN JJ NNS .
+The violence has severely strained a cease-fire agreed by the two sides in 2002 .,O O O O O O O O O O O O O B-tim O,DT NN VBZ RB VBN DT NN VBN IN DT CD NNS IN CD .
+The rebels have threatened to resume their armed struggle unless the government gives them a separate Tamil homeland in the north and east of the country .,O O O O O O O O O O O O O O O O B-org O O O O O O O O O O,DT NNS VBP VBN TO VB PRP$ JJ NN IN DT NN VBZ PRP DT JJ NNP NN IN DT NN CC NN IN DT NN .

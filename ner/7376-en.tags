@@ -1,0 +1,9 @@
+"A bomb exploded near a busy bus terminal south of the Pakistani capital Islamabad late Monday , killing at least nine people and injuring around 17 others .",O O O O O O O O O O O B-gpe O O O B-tim O O O O O O O O O O O O,"DT NN VBD IN DT JJ NN NN NN IN DT JJ NN VBN JJ NNP , VBG IN JJS CD NNS CC VBG IN CD NNS ."
+Local police say the explosion in Rawalpindi appears to be a suicide attack .,O O O O O O B-geo O O O O O O O,JJ NNS VBP DT NN IN NNP VBZ TO VB DT NN NN .
+Some news reports say the bomber was inside a car or on a motorcycle when the explosives went off .,O O O O O O O O O O O O O O O O O O O O,DT NN NNS VBP DT NN VBD IN DT NN CC IN DT NN WRB DT NNS VBD RB .
+Emergency personnel are at the scene .,O O O O O O O,NN NNS VBP IN DT NN .
+No other information is immediately available .,O O O O O O O,DT JJ NN VBZ RB JJ .
+The attack came on the same day the government gave in to opposition demands to reinstate a popular Supreme Court justice .,O O O O O O O O O O O O O O O O O O B-org I-org O O,DT NN VBD IN DT JJ NN DT NN VBD IN TO NN NNS TO VB DT JJ NNP NNP NN .
+"The concession prompted supporters of opposition leader Nawaz Sharif to call off his so-called "" long march "" to Islamabad .",O O O O O O O B-per I-per O O O O O O O O O O B-geo O,DT NN VBD NNS IN NN NN NNP NNP TO VB RP PRP$ JJ RQU JJ NN RQU TO NNP .
+Pakistan has been facing a wave of militant attacks over the past few years .,B-geo O O O O O O O O O O B-tim I-tim O O,NNP VBZ VBN VBG DT NN IN JJ NNS IN DT JJ JJ NNS .
+"The government has recently signed separate peace agreements with Islamic militants in the Swat Valley , and in the neighboring Bajaur region .",O O O O O O O O O O O O O B-geo I-geo O O O O O B-geo O O,"DT NN VBZ RB VBN JJ NN NNS IN JJ NNS IN DT NNP NNP , CC IN DT JJ NNP NN ."

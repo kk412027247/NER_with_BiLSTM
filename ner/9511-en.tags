@@ -1,0 +1,6 @@
+China says a wild goose found in northwestern Qinghai province has tested positive for the H5N1 strain of bird flu .,B-geo O O O O O O O B-geo O O O O O O O O O O O O,NNP VBZ DT JJ NN VBN IN JJ NNP NN VBZ VBN JJ IN DT NNP NN IN NN NN .
+The Agriculture Ministry announced Monday that tests on Saturday confirmed the goose died of avian influenza .,B-org I-org I-org O B-tim O O O B-tim O O O O O O O O,DT NNP NNP VBD NNP WDT VBZ IN NNP VBD DT NN VBD IN JJ NN .
+Officials say Qinghai agricultural authorities have sterilized the area where the dead bird was found .,O O B-geo O O O O O O O O O O O O O,NNS VBP NNP JJ NNS VBP VBN DT NN WRB DT JJ NN VBD VBN .
+The bird flu virus killed more than one thousand geese in Qinghai province last year .,O O O O O O O O O O O B-geo O O O O,DT NN NN NN VBD JJR IN CD CD NNS IN NNP NN JJ NN .
+The region is located along a major Asian migratory route for birds .,O O O O O O O O O O O O O,DT NN VBZ VBN IN DT JJ JJ JJ NN IN NNS .
+Researchers believe wild birds from the region may have carried bird flu along migratory paths to Europe .,O O O O O O O O O O O O O O O O B-geo O,NNS VBP JJ NNS IN DT NN MD VB VBN JJ NN IN JJ NNS TO NNP .

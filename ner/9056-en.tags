@@ -1,0 +1,7 @@
+The U.S. military in Iraq says two American soldiers were killed in separate incidents in the country 's north .,O B-geo O O B-geo O O B-gpe O O O O O O O O O O O O,DT NNP NN IN NNP VBZ CD JJ NNS VBD VBN IN JJ NNS IN DT NN POS NN .
+"A statement issued Saturday said one soldier died Friday near Mosul , about 370 kilometers north of Baghdad .",O O O B-tim O O O O B-tim O B-geo O O O O O O B-geo O,"DT NN VBN NNP VBD CD NN VBD NNP IN NNP , IN CD NNS RB IN NNP ."
+The statement gave no other details about how the soldier died .,O O O O O O O O O O O O,DT NN VBD DT JJ NNS IN WRB DT NN VBD .
+A second statement said a U.S. soldier died Thursday of injuries sustained in a non-combat related incident .,O O O O O B-geo O O B-tim O O O O O O O O O,DT JJ NN VBD DT NNP NN VBD NNP IN NNS VBN IN DT JJ JJ NN .
+The military says it is investigating both deaths .,O O O O O O O O O,DT NN VBZ PRP VBZ VBG DT NNS .
+"Meanwhile , a spokesman for the Kurdistan Workers ' Party , also known as the PKK , said Turkish air strikes on Kurdish rebel targets in northern Iraq killed four rebels earlier this week .",O O O O O O B-org I-org I-org I-org O O O O O B-org O O B-gpe O O O O O O O O B-geo O O O O O O O,"RB , DT NN IN DT NNP NNP POS NNP , RB VBN IN DT NNP , VBD JJ NN NNS IN JJ NN NNS IN JJ NNP VBD CD NNS RBR DT NN ."
+The spokesman Saturday said the air strikes also wounded five others .,O O B-tim O O O O O O O O O,DT NN NNP VBD DT NN NNS RB VBD CD NNS .

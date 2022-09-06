@@ -1,0 +1,5 @@
+Two astronauts have resumed work outside the International Space Station on a new European science laboratory .,O O O O O O O B-art I-art I-art O O O O O O O,CD NNS VBP VBN NN IN DT NNP NNP NNP IN DT JJ JJ NN NN .
+"Rex Walheim and Stanley Love began their spacewalk Friday morning , installing science experiments , including a solar monitor , to the exterior of the Columbus lab .",B-per I-per O B-per I-per O O O B-tim I-tim O O O O O O O O O O O O O O O O O O,"NNP NNP CC NNP NNP VBD PRP$ NN NNP NN , VBG NN NNS , VBG DT JJ NN , TO DT NN IN DT NN NN ."
+It is the third and final spacewalk during the U.S. shuttle Atlantis mission to the orbital outpost .,O O O O O O O O O B-geo O O O O O O O O,PRP VBZ DT JJ CC JJ NN IN DT NNP NN NNP NN TO DT JJ NN .
+Walheim and Love installed the European Space Agency lab Monday with help from crew inside the space station .,B-per O B-per O O B-org I-org I-org O B-tim O O O O O O O O O,NNP CC NNP VBD DT JJ NNP NNP NN NNP IN NN IN NN IN DT NN NN .
+The Atlantis is set to return to Earth next week .,O B-art O O O O O B-geo O O O,DT NNP VBZ VBN TO VB TO NNP JJ NN .

@@ -1,0 +1,7 @@
+"The U.S. military in Iraq says coalition forces fired several tank rounds into a mosque in Ramadi Friday , after coming under attack from militants inside .",O B-geo O O B-geo O O O O O O O O O O O B-geo B-tim O O O O O O O O O,"DT NNP NN IN NNP VBZ NN NNS VBD JJ NN VBZ IN DT NN IN NNP NNP , IN VBG IN NN IN NNS RB ."
+"The military says the Al Qadir Al Kilami mosque in Ramadi , west of Baghdad , suffered serious structural damage to its dome and minaret .",O O O O B-org I-org I-org I-org O O B-geo O O O B-geo O O O O O O O O O O O,"DT JJ VBZ DT NNP NNP NNP NNP NN IN NNP , NN IN NNP , VBD JJ JJ NN TO PRP$ NN CC NN ."
+A military statement says coalition forces returned fire in self-defense only after coming under attack .,O O O O O O O O O O O O O O O O,DT JJ NN VBZ NN NNS VBD NN IN NN RB IN VBG IN NN .
+One U.S. soldier was wounded in the fighting .,O B-geo O O O O O O O,CD NNP NN VBD VBN IN DT NN .
+Iraqi officials in Ramadi said three people were killed and more than 20 wounded in the clashes .,B-gpe O O B-geo O O O O O O O O O O O O O O,JJ NNS IN NNP VBD CD NNS VBD VBN CC JJR IN CD VBN IN DT NNS .
+"On Thursday , the top U.S. commander in the Middle East said a U.S.-Iraqi security clampdown in Baghdad is making great progress .",O B-tim O O O B-geo O O O B-geo I-geo O O O O O O B-geo O O O O O,"IN NNP , DT JJ NNP NN IN DT NNP NNP VBD DT JJ NN NN IN NNP VBZ VBG JJ NN ."
+General John Abizaid said Iraq is far from civil war .,B-per I-per I-per O B-geo O O O O O O,NNP NNP NNP VBD NNP VBZ RB IN JJ NN .

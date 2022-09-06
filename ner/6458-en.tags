@@ -1,0 +1,9 @@
+Police in Chile have used water canons and teargas to disperse student demonstrators calling for educational reform .,O O B-geo O O O O O O O O O O O O O O O,NNS IN NNP VBP VBN NN NNS CC NNS TO VB NN NNS VBG IN JJ NN .
+"About 1,000 students attempted to march through downtown Santiago Monday .",O O O O O O O O B-geo B-tim O,IN CD NNS VBN TO VB IN NN NNP NNP .
+They were met by police who broke up the protest .,O O O O O O O O O O O,PRP VBD VBN IN NNS WP VBD RP DT NN .
+Students threw rocks at police vehicles and tried to block roads with burning tires .,O O O O O O O O O O O O O O O,NNS VBD NNS IN NN NNS CC VBD TO VB NNS IN NN NNS .
+"The protest was smaller than one conducted last week by some 800,000 students .",O O O O O O O O O O O O O O,DT NN VBD JJR IN CD VBN JJ NN IN DT CD NNS .
+The students demanded free public transportation and fee waivers for college entrance exams .,O O O O O O O O O O O O O O,DT NNS VBD JJ JJ NN CC NN NNS IN NN NN NNS .
+They also wanted reform of the education law created under former dictator General Augusto Pinochet .,O O O O O O O O O O O O B-org I-org I-org O,PRP RB VBD NN IN DT NN NN VBN IN JJ NN NNP NNP NNP .
+Negotiations between the students and the government ended Friday with no agreement .,O O O O O O O O B-tim O O O O,NNS IN DT NNS CC DT NN VBD NNP IN DT NN .
+"President Michelle Bachelet has promised to reduce fares for student bus passes , but rejected demands for free transportation , saying it is too costly .",B-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNP VBZ VBN TO VB NNS IN NN NN NNS , CC VBD NNS IN JJ NN , VBG PRP VBZ RB JJ ."

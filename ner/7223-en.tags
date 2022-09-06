@@ -1,0 +1,7 @@
+Russian Foreign Minister Sergei Lavrov has signed an agreement allowing visa-free travel between Argentina and his country .,B-gpe O B-per I-per I-per O O O O O O O O B-geo O O O O,JJ NNP NNP NNP NNP VBZ VBN DT NN VBG JJ NN IN NNP CC PRP$ NN .
+Argentine ambassador to Russia Leopoldo Bravo attended the signing ceremony Wednesday in Moscow .,B-gpe O O B-geo I-geo I-geo O O O O B-tim O B-geo O,JJ NN TO NNP NNP NNP VBD DT NN NN NNP IN NNP .
+Argentine Foreign Minister Jorge Taiana signed the document last week in Buenos Aires .,B-gpe O B-per I-per I-per O O O O O O B-geo I-geo O,JJ NNP NNP NNP NNP VBD DT NN JJ NN IN NNP NNP .
+The agreement will take effect after ratification by parliaments of both countries .,O O O O O O O O O O O O O,DT NN MD VB NN IN NN IN NNS IN DT NNS .
+"Russia 's Itar-Tass news agency says under the agreement , citizens of Russia and Argentina will be able to enter and leave the territories of each others ' countries without visas .",B-geo O O O O O O O O O O O B-geo O B-geo O O O O O O O O O O O O O O O O O,"NNP POS JJ NN NN VBZ IN DT NN , NNS IN NNP CC NNP MD VB JJ TO VB CC VB DT NNS IN DT NNS POS NNS IN NNS ."
+They will also be able to travel through or stay there for 90 to 180 days .,O O O O O O O O O O O O B-tim I-tim I-tim O O,PRP MD RB VB JJ TO VB IN CC VB RB IN CD CC CD NNS .
+Travelers seeking longer visits or those who wish to engage in business will still need visas .,O O O O O O O O O O O O O O O O O,NNS VBG JJR NNS CC DT WP VBP TO VB IN NN MD RB VB NNS .

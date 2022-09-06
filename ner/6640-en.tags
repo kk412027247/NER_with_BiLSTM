@@ -1,0 +1,7 @@
+World oil prices hit record highs for the fifth day in a row Friday .,O O O O O O O O B-tim I-tim I-tim O B-tim I-tim O,NNP NN NNS VBD NN NNS IN DT JJ NN IN DT NN NNP .
+The price of crude oil for future delivery reached $ 66.15 a barrel in New York trading .,O O O O O O O O O O O O O O B-geo I-geo O O,DT NN IN JJ NN IN JJ NN VBD $ CD DT NN IN NNP NNP NN .
+Prices are up six percent this week and have more than doubled since the end of 2003 .,O O O O O O O O O O O O B-tim O B-tim I-tim I-tim O,NNS VBP RB CD NN DT NN CC VBP JJR IN VBD IN DT NN IN CD .
+"Analysts blame the latest increases on strong demand for oil , a spate of refinery problems , and worries that Middle East tensions could crimp crude oil supplies .",O O O O O O O O O O O O O O O O O O O O B-geo I-geo O O O O O O O,"NNS VBP DT JJS NNS IN JJ NN IN NN , DT NN IN NN NNS , CC VBZ IN NNP NNP NNS MD VB JJ NN NNS ."
+Soaring prices for imported oil also boosted the U.S. trade deficit six percent in June .,O O O O O O O O B-geo O O O O O B-tim O,VBG NNS IN VBN NN RB VBD DT NNP NN NN CD NN IN NNP .
+Friday 's report from the Commerce Department says the gap between what Americans sell abroad and what they buy reached $ 58.8 billion .,B-tim O O O O B-org I-org O O O O O B-gpe O O O O O O O O O O O,NNP POS NN IN DT NNP NNP VBZ DT NN IN WP NNS VBP RB CC WP PRP VBP VBN $ CD CD .
+The politically sensitive U.S. trade deficit with China rose to a record $ 17.6 billion .,O O O B-geo O O O B-geo O O O O O O O O,DT RB JJ NNP NN NN IN NNP VBD TO DT NN $ CD CD .

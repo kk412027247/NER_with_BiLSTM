@@ -1,0 +1,7 @@
+The U.S. Geological Survey says a strong earthquake has hit eastern Indonesia .,O B-org I-org I-org O O O O O O O B-geo O,DT NNP NNP NNP VBZ DT JJ NN VBZ VBN JJ NNP .
+The service said Tuesday the quake had a magnitude of 6.3 and was centered in the Molucca Sea about 135 kilometers northwest of Ternate .,O O O B-tim O O O O O O O O O O O O B-geo I-geo O O O O O B-geo O,DT NN VBD NNP DT NN VBD DT NN IN CD CC VBD VBN IN DT NNP NNP IN CD NNS JJS IN NNP .
+"An Indonesian website , vivanews.com , said the quake struck at 9:08 pm local time and there appeared to be little risk of a tsunami .",O B-gpe O O B-geo O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN , NNP , VBD DT NN VBD IN CD NN JJ NN CC RB VBD TO VB JJ NN IN DT NN ."
+There were no immediate reports of damage or injuries .,O O O O O O O O O O,EX VBD DT JJ NNS IN NN CC NNS .
+An earthquake of that magnitude can cause damage in populated areas within a radius of about 160 kilometers .,O O O O O O O O O O O O O O O O O O O,DT NN IN DT NN MD VB NN IN JJ NNS IN DT NN IN IN CD NNS .
+Indonesia sits on fault lines that make the region prone to earthquakes .,B-geo O O O O O O O O O O O O,NNP VBZ IN NN NNS WDT VBP DT NN JJ TO NNS .
+"A tsunami triggered by a massive undersea quake in December 2004 killed nearly 230,000 people , half of them in Indonesia 's Aceh province .",O O O O O O O O O B-tim I-tim O O O O O O O O O B-geo O O O O,"DT NN VBN IN DT JJ NN NN IN NNP CD VBD RB CD NNS , NN IN PRP IN NNP POS NNP NN ."

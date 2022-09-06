@@ -1,0 +1,8 @@
+Russia and Moldova have reached a short term agreement on a new price for natural gas two weeks after Moscow cut supplies to the former Soviet state .,B-geo O B-geo O O O O O O O O O O O O O B-tim O O B-tim O O O O O O O O,NNP CC NNP VBP VBN DT JJ NN NN IN DT JJ NN IN JJ NN CD NNS IN NNP VBD NNS TO DT JJ JJ NN .
+"Moldova will pay $ 110 per 1,000 cubic meters of natural gas over the next four months .",B-geo O O O O O O O O O O O O O O B-tim O O,NNP MD VB $ CD IN CD JJ NNS IN JJ NN IN DT JJ CD NNS .
+Talks on a fixed price will continue .,O O O O O O O O,NNS IN DT VBN NN MD VB .
+Moldova had been paying $ 80 for gas .,B-geo O O O O O O O O,NNP VBD VBN VBG $ CD IN NN .
+"Russia 's state-owned natural gas company , Gazprom , wanted to double the price to bring Moldova in line with the world market .",B-geo O O O O O O B-org O O O O O O O O B-geo O O O O O O O,"NNP POS JJ JJ NN NN , NNP , VBD TO VB DT NN TO VB NNP IN NN IN DT NN NN ."
+Gazprom cut supplies to Moldova January 1 .,B-org O O O B-geo B-tim I-tim O,NNP VBD NNS TO NNP NNP CD .
+Russia also cut supplies to Ukraine the same day .,B-geo O O O O B-geo O O O O,NNP RB VBD NNS IN NNP DT JJ NN .
+That dispute was settled three days later .,O O O O B-tim O B-tim O,DT NN VBD VBN CD NNS RB .

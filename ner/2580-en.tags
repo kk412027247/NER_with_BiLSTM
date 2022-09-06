@@ -1,0 +1,7 @@
+The U.S. Senate has approved more than $ 81 billion to sustain combat operations in Iraq and Afghanistan .,O B-org I-org O O O O O O O O O O O O B-geo O B-geo O,DT NNP NNP VBZ VBN JJR IN $ CD CD TO VB NN NNS IN NNP CC NNP .
+This would push the total cost of combat and reconstruction beyond $ 300 billion .,O O O O O O O O O O O O O O O,DT MD VB DT JJ NN IN NN CC NN IN $ CD CD .
+The U.S. House of Representatives passed a similar bill last month .,O B-org I-org I-org I-org O O O O O O O,DT NNP NNP IN NNPS VBD DT JJ NN JJ NN .
+The two bills differ mainly on two issues - immigration reforms and plans of construction of a new embassy in Baghdad .,O O O O O O O O O O O O O O O O O O O O B-geo O,DT CD NNS VBP RB IN CD NNS IN NN NNS CC NNS IN NN IN DT JJ NN IN NNP .
+"The Senate has included $ 592 million for the embassy , but the House has not .",O B-org O O O O O O O O O O O B-org O O O,"DT NNP VBZ VBN $ CD CD IN DT NN , CC DT NNP VBZ RB ."
+"Once the differences between the two versions are worked out , it will go to President Bush for his signature .",O O O O O O O O O O O O O O O B-per I-per O O O O,"RB DT NNS IN DT CD NNS VBP VBN RP , PRP MD VB TO NNP NNP IN PRP$ NN ."
+Both versions of the measure would give President Bush much of the money he requested .,O O O O O O O B-per I-per O O O O O O O,DT NNS IN DT NN MD VB NNP NNP NN IN DT NN PRP VBD .

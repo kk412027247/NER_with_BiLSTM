@@ -1,0 +1,8 @@
+The world 's largest drug company has agreed to pay $ 2.3 billion in fines and penalties for marketing some drugs improperly .,O O O O O O O O O O O O O O O O O O O O O O O,DT NN POS JJS NN NN VBZ VBN TO VB $ CD CD IN NNS CC NNS IN VBG DT NNS RB .
+The U.S. Justice Department says the fine is the largest ever levied in a health care fraud case .,O B-org I-org I-org O O O O O O O O O O O O O O O,DT NNP NNP NNP VBZ DT NN VBZ DT JJS RB VBN IN DT NN NN NN NN .
+"The case involves several drugs , including "" Bextra . """,O O O O O O O O O O O,"DT NN VBZ JJ NNS , VBG LQU NNP . LQU"
+"It was approved for arthritis , but the company improperly tried to get doctors to use it for other kinds of pain .",O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBD VBN IN NN , CC DT NN RB VBD TO VB NNS TO VB PRP IN JJ NNS IN NN ."
+Bextra was taken off the market because of safety concerns .,O O O O O O O O O O O,NNP VBD VBN RP DT NN IN IN NN NNS .
+"It is legal for physicians to prescribe drugs for uses that have not been officially approved , but it is not legal for a drug company to push doctors to write such prescriptions .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ JJ IN NNS TO VB NNS IN NNS WDT VBP RB VBN RB VBN , CC PRP VBZ RB JJ IN DT NN NN TO VB NNS TO VB JJ NNS ."
+It also violates rules to pay kickbacks to encourage doctors to choose a particular drug .,O O O O O O O O O O O O O O O O,PRP RB VBZ NNS TO VB NNS TO VB NNS TO VB DT JJ NN .
+Officials say money from the fines will go to various health and medical programs run by the government .,O O O O O O O O O O O O O O O O O O O,NNS VBP NN IN DT NNS MD VB TO JJ NN CC JJ NNS VBN IN DT NN .

@@ -1,0 +1,6 @@
+"Typhoon Longwang has hit mainland China after pounding Taiwan Sunday , where it left one person dead and disrupted flights and electricity .",B-eve I-eve O O O B-geo O O B-geo B-tim O O O O O O O O O O O O O,"NN NNP VBZ VBN JJ NNP IN VBG NNP NNP , WRB PRP VBD CD NN JJ CC VBD NNS CC NN ."
+Officials say it hit China 's Fujian province with strong winds and heavy rains .,O O O O B-geo O O O O O O O O O O,NNS VBP PRP VBD NNP POS JJ NN IN JJ NNS CC JJ NNS .
+"More than 300,000 people were evacuated .",O O O O O O O,JJR IN CD NNS VBD VBN .
+"In Taiwan , a 60-year-old man died after he was hit by flying debris .",O B-geo O O O O O O O O O O O O O,"IN NNP , DT JJ NN VBD IN PRP VBD VBN IN VBG NN ."
+A woman is missing and feared dead after being washed away by flash floods in the central town of Hoping .,O O O O O O O O O O O O O O O O O O O B-geo O,DT NN VBZ VBG CC VBD JJ IN VBG VBN RB IN NN NNS IN DT JJ NN IN NNP .
+"And 46 people were injured during the typhoon , most by flying debris .",O O O O O O O O O O O O O O,"CC CD NNS VBD VBN IN DT NN , JJS IN VBG NN ."

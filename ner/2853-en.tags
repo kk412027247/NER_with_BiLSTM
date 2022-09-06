@@ -1,0 +1,9 @@
+"Voters in Burundi are casting ballots in a parliamentary election the ruling party is almost certain to win , amid a boycott by an opposition coalition .",O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O,"NNS IN NNP VBP VBG NNS IN DT JJ NN DT NN NN VBZ RB JJ TO VB , IN DT NN IN DT NN NN ."
+The opposition also boycotted last month 's presidential election .,O O O O O O O O O O,DT NN RB VBD JJ NN POS JJ NN .
+"Unopposed , President Pierre Nkurunziza was re-elected .",O O B-per I-per I-per O O O,"JJ , NNP NNP NNP VBD VBN ."
+The opposition decided to boycott both votes after accusing the president of using fraud to win local elections in May .,O O O O O O O O O O O O O O O O O O O B-tim O,DT NN VBD TO VB DT NNS IN VBG DT NN IN VBG NN TO VB JJ NNS IN NNP .
+International observers said there was no evidence of tampering .,O O O O O O O O O O,JJ NNS VBD EX VBD DT NN IN VBG .
+Security has also been a concern during this election season .,O O O O O O O O B-tim I-tim O,NN VBZ RB VBN DT NN IN DT NN NN .
+Burundi has been on alert since Somali insurgents threatened to attack the country for its role in the peacekeeping mission in Somalia .,B-geo O O O O O B-gpe O O O O O O O O O O O O O O B-geo O,NNP VBZ VBN IN NN IN JJ NNS VBD TO VB DT NN IN PRP$ NN IN DT NN NN IN NNP .
+Somali Islamist rebel group al-Shabab claimed responsibility for bombings in Uganda earlier this month that killed 76 people .,B-gpe B-org O O O O O O O O B-geo O O O O O O O O,JJ NNP NN NN NNP VBD NN IN NNS IN NNP RBR DT NN WDT VBD CD NNS .
+It said the attacks were revenge for Ugandan participation in the peacekeeping force .,O O O O O O O B-gpe O O O O O O,PRP VBD DT NNS VBD NN IN JJ NN IN DT NN NN .

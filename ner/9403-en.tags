@@ -1,0 +1,6 @@
+Cameroon state radio reports as many as 30 people have died or are missing from a boat accident off the coast in the Gulf of Guinea .,B-org O O O O O O O O O O O O O O O O O O O O O B-geo I-geo I-geo I-geo O,NNP NN NN VBZ RB JJ IN CD NNS VBP VBN CC VBP VBG IN DT NN NN IN DT NN IN DT NNP IN NNP .
+The radio report Tuesday said 30 other people survived the accident and were being treated at a local hospital .,O O O B-tim O O O O O O O O O O O O O O O O,DT NN NN NNP VBD CD JJ NNS VBD DT NN CC VBD VBG VBN IN DT JJ NN .
+It said the boat was traveling from Nigeria to Gabon when it went down late Monday near the southwestern fishing village of Campo .,O O O O O O O B-geo O B-geo O O O O O B-tim O O O O O B-geo I-geo O,PRP VBD DT NN VBD VBG IN NNP TO NNP WRB PRP VBD RB RB NNP IN DT JJ NN NN IN NNP .
+"The report said the boat was carrying nationals from Nigeria , Mali and Benin when it capsized .",O O O O O O O O O B-geo O B-geo O B-geo O O O O,"DT NN VBD DT NN VBD VBG NNS IN NNP , NNP CC NNP WRB PRP VBD ."
+It is not clear what caused the accident .,O O O O O O O O O,PRP VBZ RB JJ WP VBD DT NN .
+The Gulf of Guinea is often used as a transit route by West Africans looking to find jobs in Gabon and Cameroon .,O B-geo I-geo I-geo O O O O O O O O B-org B-gpe O O O O O B-geo O B-org O,DT NNP IN NNP VBZ RB VBN IN DT NN NN IN NNP NNS VBG TO VB NNS IN NNP CC NNP .

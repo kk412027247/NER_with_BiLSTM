@@ -1,0 +1,6 @@
+"Police in Mexico say they have found nine bodies - seven men and two women - buried near the drug-smuggling hub of Ciudad Juarez , just across the U.S. border .",O O B-geo O O O O O O O O O O O O O O O O O O O B-geo I-geo O O O O B-geo O O,"NNS IN NNP VBP PRP VBP VBN CD NNS IN CD NNS CC CD NNS IN VBN IN DT JJ NN IN NNP NNP , RB IN DT NNP NN ."
+Investigators say they have not ruled out finding more bodies at the site .,O O O O O O O O O O O O O O,NNS VBP PRP VBP RB VBN IN VBG JJR NNS IN DT NN .
+Thousands of soldiers and federal police are posted around Juarez in an effort to quell violence involving warring drug gangs .,O O O O O O O O O B-geo O O O O O O O O O O O,NNS IN NNS CC JJ NNS VBP VBN IN NNP IN DT NN TO VB NN VBG VBG NN NNS .
+The cartels are fighting for control of trafficking routes into the United States .,O O O O O O O O O O O B-geo I-geo O,DT NNS VBP VBG IN NN IN VBG NNS IN DT NNP NNPS .
+The turf wars have turned Juarez into Mexico 's most violent city .,O O O O O B-geo O B-geo O O O O O,DT NN NNS VBP VBN NNP IN NNP POS JJS JJ NN .
+"It is located just across the border from the U.S. city of El~Paso , Texas .",O O O O O O O O O B-geo O O B-geo O B-geo O,"PRP VBZ VBN RB IN DT NN IN DT NNP NN IN NNP , NNP ."

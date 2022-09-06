@@ -1,0 +1,8 @@
+"General Amin al-Hindi , a former Palestinian intelligence chief who may have played a role in the deadly 1972 Munich attack on the Israeli Olympics team , has died .",B-per I-per I-per O O O B-gpe O O O O O O O O O O O B-tim B-org O O O B-gpe O O O O O O,"NNP NNP NNP , DT JJ JJ NN NN WP MD VB VBN DT NN IN DT JJ CD NNP NN IN DT JJ NNP NN , VBZ VBN ."
+He was 70 .,O O O O,PRP VBD CD .
+"Palestinian officials say al-Hindi died of cancer at a hospital in Jordan , Tuesday , after slipping into a coma .",B-gpe O O B-per O O O O O O O B-gpe O B-tim O O O O O O O,"JJ NNS VBP NNP VBD IN NN IN DT NN IN NNP , NNP , IN VBG IN DT NN ."
+"They say his body was transported to the West Bank , Wednesday , for burial .",O O O O O O O O B-org I-org O B-tim O O O O,"PRP VBP PRP$ NN VBD VBN TO DT NNP NNP , NNP , IN NN ."
+Al-Hindi was a senior security officer in the Fatah party .,O O O O O O O O B-geo O O,NNP VBD DT JJ NN NN IN DT NNP NN .
+He also served as head of intelligence services under former Palestinian leader Yasser Arafat .,O O O O O O O O O O B-gpe O B-per I-per O,PRP RB VBD IN NN IN NN NNS IN JJ JJ NN NNP NNP .
+"Commandos with "" Black September "" -- a group linked to Arafat 's Fatah faction -- infiltrated the Olympic village in Munich at the 1972 summer games .",O O O O B-tim O O O O O O B-org I-org I-org O O O O O O O B-org O O B-tim I-tim O O,NNS IN LQU NNP NNP LQU : DT NN VBN TO NNP POS NNP NN : VBD DT NNP NN IN NNP IN DT CD NN NNS .
+"The commandoes stormed a dormitory housing Israelis , an attack that led to the deaths of 11 athletes .",O O O O O O B-gpe O O O O O O O O O O O O,"DT NNS VBD DT JJ NN NNS , DT NN WDT VBD TO DT NNS IN CD NNS ."

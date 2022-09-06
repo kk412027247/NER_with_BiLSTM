@@ -1,0 +1,9 @@
+"A.L. Williams Corp. was merged into Primerica Corp. , New York , after a special meeting of Williams shareholders cleared the transaction , the companies said .",B-org I-org I-org O O O B-org I-org O B-org I-org O O O O O O B-geo O O O O O O O O O,"NN NNP NNP VBD VBN IN NNP NNP , NNP NNP , IN DT JJ NN IN NNP NNS VBD DT NN , DT NNS VBD ."
+"Primerica , which had owned nearly 70 % of Williams , will pay about 16.7 million shares , currently valued at almost $ 472 million , for the rest of Williams .",B-org O O O O O O O O B-org O O O O O O O O O O O O O O O O O O O O B-org O,"NNP , WDT VBD VBN RB CD NN IN NNP , MD VB IN CD CD NNS , RB VBN IN RB $ CD CD , IN DT NN IN NNP ."
+The financial-services company will pay 0.82 share for each Williams share .,O O O O O O O O O B-org O O,DT NNS NN MD VB CD NN IN DT NNP NN .
+"Williams shares , which were to be delisted from the New York Stock Exchange after the close of composite trading yesterday , closed at $ 23.25 , off 12.5 cents .",B-org O O O O O O O O O B-org I-org I-org I-org O O O O O O B-tim O O O O O O O O O O,"NNP NNS , WDT VBD TO VB VBN IN DT NNP NNP NNP NNP IN DT NN IN JJ NN NN , VBD IN $ CD , IN CD NNS ."
+"Primerica closed at $ 28.25 , down 50 cents .",B-org O O O O O O O O O,"NNP VBD IN $ CD , RB CD NNS ."
+"Williams , Duluth , Ga. , is an insurance and financial-services holding company .",B-org O B-geo O B-geo O O O O O O O O O,"NNP , NNP , NNP , VBZ DT NN CC NNS VBG NN ."
+Its subsidiaries ' services are marketed by closely held A.L. Williams & Associates .,O O O O O O O O O B-org I-org I-org I-org O,PRP$ NNS POS NNS VBP VBN IN RB VBN NN NNP CC NNP .
+"Primerica , as expected , also acquired certain assets of the agency and assumed certain of its liabilities .",B-org O O O O O O O O O O O O O O O O O O,"NNP , IN VBN , RB VBD JJ NNS IN DT NN CC VBD JJ IN PRP$ NNS ."
+Terms were n't disclosed .,O O O O O,NNS VBD RB VBN .

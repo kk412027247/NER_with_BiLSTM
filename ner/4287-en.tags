@@ -1,0 +1,8 @@
+A Nigerian attack helicopter has exchanged gunfire with heavily-armed militants in the oil-rich Niger Delta .,O B-gpe O O O O O O O O O O B-org B-gpe B-org O,DT JJ NN NN VBZ VBN NN IN JJ NNS IN DT NN NNP NNP .
+The Nigerian military said Friday the gunship fired on a barge stealing oil from a pipeline .,O B-gpe O O B-tim O O O O O O O O O O O O,DT JJ NN VBD NNP DT NN VBD IN DT NN VBG NN IN DT NN .
+The helicopter drew heavy return fire from militants guarding the boat .,O O O O O O O O O O O O,DT NN VBD JJ NN NN IN NNS VBG DT NN .
+No injuries were reported .,O O O O O,DT NNS VBD VBN .
+"Thursday , an oil well fire forced Royal Dutch Shell to close a flow station , cutting production by almost 38,000 barrels a day .",B-tim O O O O O O B-org I-org I-org O O O O O O O O O O O O O O O,"NNP , DT NN NN NN VBD NNP NNP NNP TO VB DT NN NN , VBG NN IN RB CD NNS DT NN ."
+"The cause of the fire is unknown , but it came one day after a local militant group , the Movement for the Emancipation of the Niger Delta threatened to renew attacks against oil installations in the region .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-gpe B-org O O O O O O O O O O O,"DT NN IN DT NN VBZ JJ , CC PRP VBD CD NN IN DT JJ JJ NN , DT NN IN DT NN IN DT NNP NNP VBD TO VB NNS IN NN NNS IN DT NN ."
+The group said the Nigerian military used a Shell airstrip to launch a helicopter attack a day earlier .,O O O O B-gpe O O O B-per O O O O O O O B-tim O O,DT NN VBD DT JJ NN VBD DT NNP NN TO VB DT NN NN DT NN RBR .
+"The military said it attacked barges used by oil smugglers , while the militants claimed the attack targeted ethnic Ijaw communities .",O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD PRP VBD NNS VBN IN NN NNS , IN DT NNS VBD DT NN VBD JJ NNP NNS ."

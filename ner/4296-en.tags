@@ -1,0 +1,8 @@
+Turkish media say police have detained more than 30 people in a widening investigation of an alleged attempt to overthrow the government .,B-gpe O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP NNS VBP VBN RBR IN CD NNS IN DT NN NN IN DT JJ NN TO VB DT NN .
+The Anatolia news agency says police made the arrests Wednesday in raids across the nation .,O B-org O O O O O O O B-tim O O O O O O,DT NNP NN NN VBZ NNS VBD DT NNS NNP IN NNS IN DT NN .
+"Among those detained are retired senior military officials , a retired police chief and a pro-secular writer .",O O O O O O O O O O O O O O O O O O,"IN DT VBN VBP JJ JJ JJ NNS , DT JJ NN NN CC DT JJ NN ."
+"In October , prosecutors charged 86 people as part of the probe into the ultra-nationalist organization known as Ergenekon .",O B-tim O O O O O O O O O O O O O O O O B-geo O,"IN NNP , NNS VBD CD NNS IN NN IN DT NN IN DT JJ NN VBN IN NNP ."
+"Those on trial include retired army officers , leftist politicians and journalists .",O O O O O O O O O O O O O,"DT IN NN VBP JJ NN NNS , JJ NNS CC NNS ."
+"Prosecutors accuse them of planning assassinations and bombings to sow chaos in Turkey , forcing the army to step in and overthrow the elected Islamic-rooted government .",O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O,"NNS VBP PRP IN VBG NNS CC NNS TO VB NN IN NNP , VBG DT NN TO VB IN CC VB DT VBN JJ NN ."
+The trial has highlighted tensions between Turkey 's ruling party and the country 's secular elite .,O O O O O O B-geo O O O O O O O O O O,DT NN VBZ VBN NNS IN NNP POS VBG NN CC DT NN POS JJ NN .
+The investigation began in mid-2007 with the discovery of an arms cache in an Istanbul suburb .,O O O O B-geo O O O O O O O O O O O O,DT NN VBD IN NN IN DT NN IN DT NNS NN IN DT JJ NN .

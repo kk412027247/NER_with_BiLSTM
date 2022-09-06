@@ -1,0 +1,8 @@
+"Fire has destroyed a historic church in Chicago , Illinois , that has been called the birthplace of gospel music .",O O O O O O O B-geo O B-geo O O O O O O O O O O O,"NN VBZ VBN DT JJ NN IN NNP , NNP , WDT VBZ VBN VBN DT NN IN NN NN ."
+Firefighters were called Friday afternoon to Pilgrim Baptist Church .,O O O B-tim I-tim O B-org I-org I-org O,NNS VBD VBN NNP NN TO NNP NNP NNP .
+"A neighbor said construction workers were on the church 's roof when the fire started , but a fire department spokesman said authorities did not know how the blaze started .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD NN NNS VBD IN DT NN POS NN WRB DT NN VBD , CC DT NN NN NN VBD NNS VBD RB VB WRB DT NN VBD ."
+There were no immediate reports of injuries .,O O O O O O O O,EX VBD DT JJ NNS IN NNS .
+The building was constructed in 1890 as a synagogue .,O O O O O B-tim O O O O,DT NN VBD VBN IN CD IN DT NN .
+Pilgrim Baptist Church took it over in 1922 .,B-org I-org I-org O O O O B-tim O,NNP NNP NNP VBD PRP RP IN CD .
+"Under the leadership of its choir director , Thomas Dorsey , the church was a center for the development of gospel music .",O O O O O O O O B-per I-per O O O O O O O O O O O O O,"IN DT NN IN PRP$ NN NN , NNP NNP , DT NN VBD DT NN IN DT NN IN NN NN ."
+Among the artists who sang at the church was Mahalia Jackson .,O O O O O O O O O B-per I-per O,IN DT NNS WP VBD IN DT NN VBD NNP NNP .

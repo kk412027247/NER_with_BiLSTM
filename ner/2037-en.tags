@@ -1,0 +1,8 @@
+Iraqi troops are sealing off Baghdad to search for insurgents in their biggest such operation since the fall of Saddam Hussein .,B-gpe O O O O B-geo O O O O O O O O O O O B-tim I-tim I-tim I-tim O,JJ NNS VBP VBG RP NNP TO VB IN NNS IN PRP$ JJS JJ NN IN DT NN IN NNP NNP .
+"Iraqi officials say Operation Lighting involves 40,000 Iraqi troops .",B-gpe O O B-org I-org O O B-gpe O O,JJ NNS VBP NNP NNP VBZ CD JJ NNS .
+They began setting up the first of several hundred checkpoints in and around Baghdad Sunday .,O O O O O B-tim I-tim I-tim I-tim I-tim O O O B-geo B-tim O,PRP VBD VBG RP DT NN IN JJ CD NNS IN CC IN NNP NNP .
+Al-Qaida in Iraq says it is launching an offensive to counter the operation .,B-org O B-geo O O O O O O O O O O O,NNP IN NNP VBZ PRP VBZ VBG DT NN TO VB DT NN .
+The group also claimed responsibility for Monday 's double suicide bombing in Hillah that killed 27 people .,O O O O O O B-tim O O O O O B-geo O O O O O,DT NN RB VBD NN IN NNP POS JJ NN VBG IN NNP WDT VBD CD NNS .
+"Also Monday , the U.S. military released the head of Iraq 's top Sunni political party after mistakenly arresting him hours earlier .",O B-tim O O B-geo O O O O O B-geo O O O O O O O O O O O O,"RB NNP , DT NNP NN VBD DT NN IN NNP POS JJ NNP JJ NN IN RB VBG PRP NNS RBR ."
+And the U.S. military says an Iraqi aircraft with four Americans and one Iraqi on board crashed in eastern Iraq .,O O B-geo O O O B-gpe O O O B-gpe O O B-gpe O O O O B-geo I-geo O,CC DT NNP NN VBZ DT JJ NN IN CD NNS CC CD JJ IN NN VBD IN JJ NNP .
+The statement says the crash is under investigation and gave no indication whether there are casualties .,O O O O O O O O O O O O O O O O O,DT NN VBZ DT NN VBZ IN NN CC VBD DT NN IN EX VBP NNS .

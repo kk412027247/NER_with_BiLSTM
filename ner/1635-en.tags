@@ -1,0 +1,8 @@
+Iraqi politicians are holding more talks on forming a unity government as another U.S. congressional delegation visits Baghdad to check on their progress .,B-gpe O O O O O O O O O O O O B-geo O O O B-geo O O O O O O,JJ NNS VBP VBG JJR NNS IN VBG DT NN NN IN DT NNP JJ NN VBZ NNP TO VB IN PRP$ NN .
+U.S. Senator John McCain met in Baghdad with officials who have been trying to form a government for the past three months .,B-org B-per B-org I-org O O B-geo O O O O O O O O O O O O B-tim I-tim O O,NNP NNP NNP NNP VBD IN NNP IN NNS WP VBP VBN VBG TO VB DT NN IN DT JJ CD NNS .
+McCain said he is guardedly optimistic that officials can agree on a government within weeks .,B-org O O O O O O O O O O O O O O O,NNP VBD PRP VBZ RB JJ IN NNS MD VB IN DT NN IN NNS .
+"Separately , U.S. Ambassador to Iraq , Zalmay Khalilzad , said the country is at a defining moment .",O O B-org I-org O B-geo O B-geo I-geo O O O O O O O O O O,"RB , NNP NNP TO NNP , NNP NNP , VBD DT NN VBZ IN DT JJ NN ."
+He said Iraqi leaders are struggling to form a government and bring under control the violence that grips the nation .,O O B-gpe O O O O O O O O O O O O O O O O O O,PRP VBD JJ NNS VBP VBG TO VB DT NN CC VB IN NN DT NN WDT VBZ DT NN .
+"In the latest violence , a roadside bomb killed four Iraqis in Baghdad Saturday .",O O O O O O O O O O B-gpe O B-geo B-tim O,"IN DT JJS NN , DT NN NN VBD CD NNS IN NNP NNP ."
+Police also found 10 more bodies that showed signs of torture in the city .,O O O O O O O O O O O O O O O,NNS RB VBD CD JJR NNS WDT VBD NNS IN NN IN DT NN .
+"North of the capital , another roadside bomb killed two Iraqis .",B-geo O O O O O O O O O B-gpe O,"NNP IN DT NN , DT NN NN VBD CD NNS ."

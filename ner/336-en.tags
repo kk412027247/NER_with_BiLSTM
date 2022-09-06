@@ -1,0 +1,4 @@
+"If the housing crisis is not pressing enough , rising credit card debt is creating more hardship for many Americans .",O O O O O O O O O O O O O O O O O O O B-gpe O,"IN DT NN NN VBZ RB VBG RB , VBG NN NN NN VBZ VBG JJR NN IN JJ NNS ."
+"An analysis by the newspaper USA Today shows credit card debt grew between 2001 and early 2006 , fueled in part , by rising home equity , the value of a home minus its outstanding loans .",O O O O O B-art I-art O O O O O O B-tim I-tim O B-tim O O O O O O O O O O O O O O O O O O O O,"DT NN IN DT NN NNP NNP VBZ NN NN NN VBD IN CD CC RB CD , VBN IN NN , IN VBG NN NN , DT NN IN DT NN NN PRP$ JJ NNS ."
+Some consumer advocates blame the banking industry for taking advantage of homeowners who now find themselves in a credit trap .,O O O O O O O O O O O O O O O O O O O O O,DT NN NNS VBP DT NN NN IN VBG NN IN NNS WP RB VBP PRP IN DT NN NN .
+VOA 's Mil Arcega reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

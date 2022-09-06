@@ -1,0 +1,7 @@
+Pakistani authorities confirm that a deadly strain of the bird flu virus has been detected near the southern city of Karachi .,B-gpe O O O O O O O O O O O O O O O O O O O B-geo O,JJ NNS VBP IN DT JJ NN IN DT NN NN NN VBZ VBN VBN IN DT JJ NN IN NNP .
+Authorities say the H5N1 virus has been found at a poultry farm on the outskirts of Pakistan 's largest city .,O O O O O O O O O O O O O O O O B-geo O O O O,NNS VBP DT NNP NN VBZ VBN VBN IN DT NN NN IN DT NNS IN NNP POS JJS NN .
+The farm has been quarantined to prevent further spread of the virus .,O O O O O O O O O O O O O,DT NN VBZ VBN VBN TO VB JJ NN IN DT NN .
+"Health officials say they are monitoring farm workers , but so far there is no sign of human infection .",O O O O O O O O O O O O O O O O O O O O,"NNP NNS VBP PRP VBP VBG NN NNS , CC RB RB EX VBZ DT NN IN JJ NN ."
+Pakistan recorded its first human death from bird flu in December .,B-geo O O O O O O O O O B-tim O,NNP VBD PRP$ JJ JJ NN IN NN NN IN NNP .
+A man who worked on a poultry farm in North West Frontier Province died .,O O O O O O O O O B-geo I-geo O O O O,DT NN WP VBD IN DT NN NN IN NNP NNP NNP NNP VBD .
+"His brother had recently died as well , but was not tested for the virus .",O O O O O O O O O O O O O O O O,"PRP$ NN VBD RB VBN RB RB , CC VBD RB VBN IN DT NN ."

@@ -1,0 +1,8 @@
+"A Labor Department Tuesday says U.S. wholesale prices jumped five-tenths of a percent in March , pushed upward by rising gasoline costs .",O O O B-tim O B-geo O O O O O O O B-tim I-tim O O O O O O O O,"DT NNP NNP NNP VBZ NNP JJ NNS VBD NNS IN DT NN IN NNP , VBN RB IN VBG NN NNS ."
+Economists set aside volatile energy and food prices to gauge inflation in the rest of the economy .,O O O O O O O O O O O O O O O O O O,NNS VBD RB JJ NN CC NN NNS TO VB NN IN DT NN IN DT NN .
+"By that measure , the so-called "" core "" inflation rate was up a modest one-tenth of a percent .",O O O O O O O O O O O O O O O B-tim O O O O,"IN DT NN , DT JJ LQU NN RQU NN NN VBD IN DT JJ NN IN DT NN ."
+Analysts say strong price competition among businesses makes companies reluctant to pass rising costs along to customers .,O O O O O O O O O O O O O O O O O O,NNS VBP JJ NN NN IN NNS VBZ NNS JJ TO VB VBG NNS IN TO NNS .
+"Wednesday , we will get a look at inflation at the consumer level when the government publishes the consumer price index .",B-tim O O O O O O O O O O O O O O O O O O O O O,"NNP , PRP MD VB DT NN IN NN IN DT NN NN WRB DT NN VBZ DT NN NN NN ."
+Some analysts predict it will be up about four-tenths of a percent for the month .,O O O O O O O O O O O O O O O O,DT NNS VBP PRP MD VB RB IN NNS IN DT NN IN DT NN .
+A separate government report Tuesday showed further evidence that the U.S. housing market is cooling off as interest rates rise .,O O O O B-tim O O O O O B-geo O O O O O O O O O O,DT JJ NN NN NNP VBD JJ NN IN DT NNP NN NN VBZ VBG RP IN NN NNS VBP .
+The number of new homes started in March fell nearly eight percent .,O O O O O O O B-tim O O O O O,DT NN IN JJ NNS VBN IN NNP VBD RB CD NN .

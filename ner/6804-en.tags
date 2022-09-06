@@ -1,0 +1,7 @@
+Russian news reports say police have arrested the governor of a mineral-rich region on suspicion of embezzlement .,B-gpe O O O O O O O O O O O O O O O O O,JJ NN NNS VBP NNS VBP VBN DT NN IN DT JJ NN IN NN IN NN .
+"The reports say Alexi Barinov , governor of the Nenets autonomous region in Russia 's Arctic , is in police custody and has begun a hunger strike .",O O O B-per I-per O O O O B-org O O O B-geo O B-geo O O O O O O O O O O O O,"DT NNS VBP NNP NNP , NN IN DT NNPS JJ NN IN NNP POS NNP , VBZ IN NN NN CC VBZ VBN DT NN NN ."
+Prosecutors reportedly opened a case against Barinov last week .,O O O O O O B-per O O O,NNS RB VBD DT NN IN NNP JJ NN .
+The suspect was previously the chief executive officer for a unit of the oil company Lukoil .,O O O O O O O O O O O O O O O B-tim O,DT NN VBD RB DT JJ NN NN IN DT NN IN DT NN NN NNP .
+Barinov said last week that while at Lukoil prosecutors had dropped a criminal case against him for lack of evidence .,B-per O O O O O O B-tim O O O O O O O O O O O O O,NNP VBD JJ NN IN IN IN NNP NNS VBD VBN DT JJ NN IN PRP IN NN IN NN .
+The RIA-Novosti news service says the probe centers on allegations that Barinov used his post at Lukoil to purchase several apartments illegally through the company .,O O O O O O O O O O O B-per O O O O B-tim O O O O O O O O O,DT JJ NN NN VBZ DT NN NNS IN NNS IN NNP VBD PRP$ NN IN NNP TO VB JJ NNS RB IN DT NN .
+A Barinov spokesman has denied the charges .,O B-per O O O O O O,DT NNP NN VBZ VBN DT NNS .

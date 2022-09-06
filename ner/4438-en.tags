@@ -1,0 +1,13 @@
+Helium was up .,O O O O,NNP VBD RB .
+Feathers were down .,O O O O,NNS VBD RB .
+Paper was stationary .,O O O O,NN VBD JJ .
+Knives were up sharply .,O O O O O,NNS VBD RB RB .
+Pencils lost a few points .,O O O O O O,NNS VBD DT JJ NNS .
+Hiking equipment was trailing .,O O O O O,VBG NN VBD VBG .
+"Elevators rose , while escalators continued a slow decline .",O O O O O O O O O O,"NNS VBD , IN NNS VBD DT JJ NN ."
+Light switches were off .,O O O O O,NN NNS VBD RB .
+Mining equipment hit rock bottom .,O O O O O O,NN NN VBD NN NN .
+Diapers remained unchanged .,O O O O,NNS VBD JJ .
+Shipping lines stayed at an even keel .,O O O O O O O O,VBG NNS VBD IN DT RB NN .
+Balloon prices were inflated .,O O O O O,NN NNS VBD VBN .
+And batteries exploded in an attempt to recharge the market .,O O O O O O O O O O O,CC NNS VBD IN DT NN TO VB DT NN .

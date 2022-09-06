@@ -1,0 +1,8 @@
+Palestinian officials say Israeli soldiers have shot and killed at least two Palestinians in separate incidents in the West Bank .,B-gpe O O B-gpe O O O O O O O O B-gpe O O O O O B-geo I-geo O,JJ NNS VBP JJ NNS VBP VBN CC VBN IN JJS CD NNS IN JJ NNS IN DT NNP NNP .
+"Early Sunday , Israeli troops killed a member of the Al-Aqsa Martyrs Brigades in a refugee camp in Nablus .",O B-tim O B-gpe O O O O O O B-org I-org I-org O O O O O B-geo O,"RB NNP , JJ NNS VBD DT NN IN DT NNP NNP NNP IN DT NN NN IN NNP ."
+"An Israeli army spokesman said soldiers opened fire on two gunmen , killing one and wounding the other .",O B-gpe O O O O O O O O O O O O O O O O O,"DT JJ NN NN VBD NNS VBD NN IN CD NNS , VBG CD CC VBG DT JJ ."
+"In the other incident , near Hebron , Israeli forces killed a man who was involved in a shootout between two Palestinian families .",O O O O O O B-geo O B-gpe O O O O O O O O O O O O B-gpe O O,"IN DT JJ NN , IN NNP , JJ NNS VBD DT NN WP VBD VBN IN DT NN IN CD JJ NNS ."
+An Israeli army spokesman says the man was armed .,O B-gpe O O O O O O O O,DT JJ NN NN VBZ DT NN VBD VBN .
+"Separately , in the Gaza Strip , Hamas security forces say they found a bomb near the Palestinian parliament building .",O O O O B-geo I-geo O B-org O O O O O O O O O B-gpe O O O,"RB , IN DT NNP NNP , NNP NN NNS VBP PRP VBD DT NN IN DT JJ NN NN ."
+Hamas blamed members of the rival Fatah movement for planting the device .,B-org O O O O O B-geo O O O O O O,NNP VBD NNS IN DT JJ NNP NN IN VBG DT NN .
+Hamas seized control of Gaza in June after factional fighting with Fatah that killed more than 100 people .,B-org O O O B-geo O B-tim O O O O B-geo O O O O O O O,NNP VBD NN IN NNP IN NNP IN JJ NN IN NNP WDT VBD JJR IN CD NNS .

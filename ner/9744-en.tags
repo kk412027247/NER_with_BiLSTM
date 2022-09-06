@@ -1,0 +1,9 @@
+The Norwegian Nobel Institute has announced a near-record number of nominations for the Nobel Peace Prize in 2006 .,O B-gpe B-org I-org O O O O O O O O O B-org I-org I-org O B-tim O,DT JJ NNP NNP VBZ VBN DT JJ NN IN NNS IN DT NNP NNP NNP IN CD .
+The five-member awards committee says there are 191 nominations .,O O O O O O O O O O,DT JJ NNS NN VBZ EX VBP CD NNS .
+Last year 's award to the International Atomic Energy Agency ( IAEA ) and its leader Mohamed ElBaradei followed a record 199 nominees .,O O O O O O B-org I-org I-org I-org O B-org O O O O B-per I-per O O O O O O,JJ NN POS NN TO DT NNP NNP NNP NNP LRB NNP RRB CC PRP$ NN NNP NNP VBD DT NN CD NNS .
+The committee keeps the nomination list secret .,O O O O O O O O,DT NN VBZ DT NN NN NN .
+The institute 's director Geir Lundestad would only say 168 individuals and 23 organizations were suggested from all parts of the world .,O O O O B-per I-per O O O O O O O O O O O O O O O O O,DT NN POS NN NNP NNP MD RB VB CD NNS CC CD NNS VBD VBN IN DT NNS IN DT NN .
+"However , those who submit nominations can announce their selections .",O O O O O O O O O O O,"RB , DT WP VBP NNS MD VB PRP$ NNS ."
+Nominees include a former Finnish President and Indonesian President for negotiating peace in Indonesia 's Aceh province .,O O O O B-gpe B-per O B-gpe B-per O O O O B-geo O O O O,NNS VBP DT JJ JJ NNP CC JJ NNP IN VBG NN IN NNP POS NNP NN .
+Also on the list are U2 singer Bono and Live 8 organizer Bob Geldof for their work on poverty eradication .,O O O O O B-org O B-per O O O O B-per I-per O O O O O O O,RB IN DT NN VBP NNP NN NNP CC NNP CD NN NNP NNP IN PRP$ NN IN NN NN .
+The Peace Prize is awarded on December 10 in Oslo .,O B-org I-org O O O B-tim I-tim O B-geo O,DT NNP NNP VBZ VBN IN NNP CD IN NNP .

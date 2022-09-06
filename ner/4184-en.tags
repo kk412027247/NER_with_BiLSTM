@@ -1,0 +1,6 @@
+"Iraqi officials say Turkish warplanes have bombed targets in the Kurdish autonomous region of northern Iraq , wounding one civilian .",B-gpe O O B-gpe O O O O O B-geo I-geo O O O O B-geo O O O O O,"JJ NNS VBP JJ NNS VBP VBN NNS IN DT NNP JJ NN IN JJ NNP , VBG CD JJ ."
+The officials say Turkey bombed the village of Sidakan near the Iranian border Saturday .,O O O B-org O O O O B-geo O O B-gpe O B-tim O,DT NNS VBP NNP VBD DT NN IN NNP IN DT JJ NN NNP .
+There was no immediate confirmation of the strike from the Turkish military .,O O O O O O O O O O B-gpe O O,EX VBD DT JJ NN IN DT NN IN DT JJ NN .
+"Clashes between Turks and Kurds have increased since the Kurdistan Workers ' Party , or PKK , called off a yearlong cease-fire in June .",O O B-gpe O B-per O O O O B-org I-org I-org I-org O O B-org O O O O O O O B-tim O,"NNS IN NNS CC NNPS VBP VBN IN DT NNP NNP POS NNP , CC NNP , VBD RP DT JJ NN IN NNP ."
+The group cited repeated Turkish military attacks for ending the truce .,O O O O B-gpe O O O O O O O,DT NN VBD VBN JJ JJ NNS IN VBG DT NN .
+"The PKK is fighting for Kurdish autonomy in southeastern Turkey , and has bases in northern Iraq .",O B-org O O O B-geo I-geo O B-geo I-geo O O O O O O B-geo O,"DT NNP VBZ VBG IN NNP NN IN JJ NNP , CC VBZ NNS IN JJ NNP ."

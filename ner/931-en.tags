@@ -1,0 +1,6 @@
+"The U.S. economy has a net loss of 159,000 jobs in September , the biggest drop in five years .",O B-geo O O O O O O O O O B-tim O O O O O B-tim O O,"DT NNP NN VBZ DT JJ NN IN CD NNS IN NNP , DT JJS NN IN CD NNS ."
+Friday 's report from the Labor Department also says the unemployment rate held steady at 6.1 percent .,B-tim O O O O B-org I-org O O O O O O O O O O O,NNP POS NN IN DT NNP NNP RB VBZ DT NN NN VBD JJ IN CD NN .
+This report shows more job losses than economists predicted .,O O O O O O O O O O,DT NN VBZ JJR NN NNS IN NNS VBD .
+This is the last unemployment report scheduled to be published before the presidential election at a time when many voters say the economy is their major concern .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,DT VBZ DT JJ NN NN VBN TO VB VBN IN DT JJ NN IN DT NN WRB JJ NNS VBP DT NN VBZ PRP$ JJ NN .
+The figures on job losses are based on a government survey of tens of thousands of households .,O O O O O O O O O O O O O O O O O O,DT NNS IN NN NNS VBP VBN IN DT NN NN IN NNS IN NNS IN NNS .
+The jobless rate comes from a separate survey of hundreds of thousands of businesses .,O O O O O O O O O O O O O O O,DT JJ NN VBZ IN DT JJ NN IN NNS IN NNS IN NNS .

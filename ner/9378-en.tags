@@ -1,0 +1,6 @@
+Health officials in Bangladesh are launching a campaign to vaccinate at least 18 million children against polio after a nine-year-old girl was diagnosed with the disease earlier this year .,O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP NNS IN NNP VBP VBG DT NN TO VB IN JJS CD CD NNS IN NN IN DT JJ NN VBD VBN IN DT NN RBR DT NN .
+The health ministry says the campaign will start Sunday and will focus on children under the age of five .,O O O O O O O O B-tim O O O O O O O O O O O,DT NN NN VBZ DT NN MD VB NNP CC MD VB IN NNS IN DT NN IN CD .
+"The government had thought it had eradicated polio , with no new cases reported since 2000 .",O O O O O O O O O O O O O O B-tim I-tim O,"DT NN VBD VBN PRP VBD VBN NN , IN DT JJ NNS VBN IN CD ."
+"But last month , polio was confirmed in a girl from the eastern district of Chandpur .",O O O O O O O O O O O O O O O B-geo O,"CC JJ NN , NN VBD VBN IN DT NN IN DT JJ NN IN NNP ."
+The girl was first stricken in January .,O O O O O O B-tim O,DT NN VBD JJ NN IN NNP .
+The World Health Organization reports that a lab in India linked the virus carried by the girl to a strain found in India where polio is still common .,O B-org I-org I-org O O O O O B-geo O O O O O O O O O O O O B-geo O O O O O O,DT NNP NNP NNP VBZ IN DT NN IN NNP VBD DT NN VBN IN DT NN TO DT NN VBN IN NNP WRB NN VBZ RB JJ .

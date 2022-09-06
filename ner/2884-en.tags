@@ -1,0 +1,7 @@
+The grandmother of U.S. Democratic presidential candidate Barack Obama has died from cancer .,O O O B-org I-org O O B-per I-per O O O O O,DT NN IN NNP JJ JJ NN NNP NNP VBZ VBN IN NN .
+"Obama announced the death of long-ailing 86-year-old Madelyn Dunham Monday , just one day before voters went to the polls to elect a new president .",B-per O O O O O O B-per I-per B-tim O O O O O O O O O O O O O O O O,"NNP VBD DT NN IN JJ JJ NNP NNP NNP , RB CD NN IN NNS VBD TO DT NNS TO VB DT JJ NN ."
+"The Democratic candidate cried at a rally in North Carolina Monday when talking about the death of his grandmother , who helped raise him .",O B-org O O O O O O B-geo I-geo B-tim O O O O O O O O O O O O O O,"DT JJ NN VBN IN DT NN IN NNP NNP NNP WRB VBG IN DT NN IN PRP$ NN , WP VBD VB PRP ."
+Obama suspended his campaign for two days last month to visit Dunham in the U.S. Pacific island state of Hawaii .,B-per O O O O B-tim O O O O O B-per O O B-org I-org O O O B-geo O,NNP VBD PRP$ NN IN CD NNS JJ NN TO VB NNP IN DT NNP NNP NN NN IN NNP .
+He said he feared she might not survive to see the historic election .,O O O O O O O O O O O O O O,PRP VBD PRP VBD PRP MD RB VB TO VB DT JJ NN .
+"But although she did not live to see the outcome , Dunham 's vote - an absentee ballot - will count .",O O O O O O O O O O O B-per O O O O O O O O O O,"CC IN PRP VBD RB VB TO VB DT NN , NNP POS NN IN DT NN NN : MD VB ."
+Obama faces Republican Senator John McCain in the election Tuesday .,B-per O O B-per I-per I-per O O O B-tim O,NNP VBZ JJ NNP NNP NNP IN DT NN NNP .

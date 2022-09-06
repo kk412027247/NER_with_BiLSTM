@@ -1,0 +1,7 @@
+Representatives of the European Union and China have begun a fourth day of talks in Beijing to resolve a trade dispute over Chinese textiles .,O O O B-org I-org I-org I-org O O O O O O O O B-geo O O O O O O B-gpe O O,NNS IN DT NNP NNP CC NNP VBP VBN DT JJ NN IN NNS IN NNP TO VB DT NN NN IN JJ NNS .
+"There is no word on any progress in the talks , which began Thursday .",O O O O O O O O O O O O O B-tim O,"EX VBZ DT NN IN DT NN IN DT NNS , WDT VBD NNP ."
+A spokesman for the EU office in Beijing has said negotiators are trying to reach a new agreement on textile quotas .,O O O O B-org O O B-geo O O O O O O O O O O O O O O,DT NN IN DT NNP NN IN NNP VBZ VBN NNS VBP VBG TO VB DT JJ NN IN JJ NNS .
+China agreed in June to quotas in its textile exports to the EU .,B-org O O B-tim O O O O O O O O B-org O,NNP VBD IN NNP TO NNS IN PRP$ NN NNS TO DT NNP .
+But millions of items of clothing manufactured in China have been blocked in European ports because China has already shipped its annual quota .,O O O O O O O O B-geo O O O O B-org O O B-geo O O O O O O O,CC NNS IN NNS IN NN VBN IN NNP VBP VBN VBN IN JJ NNS IN NNP VBZ RB VBN PRP$ JJ NN .
+The quotas are designed to protect European textile manufacturers from low-priced Chinese competition .,O O O O O O B-org O O O O B-gpe O O,DT NNS VBP VBN TO VB JJ NN NNS IN JJ JJ NN .
+Chinese textile exports surged early this year when a global system of textile quotas ended .,B-gpe O O O O O O O O O O O O O O O,JJ NN NNS VBD RB DT NN WRB DT JJ NN IN JJ NNS VBD .

@@ -1,0 +1,7 @@
+The World Food Program ( WFP ) has begun sending food aid to Somalia by truck because of the threat posed by pirates off the Somali coast .,O O O O O O O O O O O O O B-geo O O O O O O O O O O O B-gpe O O,DT NNP NNP NNP LRB NNP RRB VBZ VBN VBG NN NN TO NNP IN NN IN IN DT NN VBN IN NNS IN DT JJ NN .
+"WFP officials say 14 trucks arrived in the town of Wajid on Sunday after a 1,200 kilometer trip from the Kenyan port of Mombasa .",B-org O O O O O O O O O B-geo O B-tim O O O O O O O B-gpe O O B-geo O,NNP NNS VBP CD NNS VBD IN DT NN IN NNP IN NNP IN DT CD NN NN IN DT JJ NN IN NNP .
+"They say another three trucks have been delayed , because of breakdowns .",O O O O O O O O O O O O O,"PRP VBP DT CD NNS VBP VBN VBN , IN IN NNS ."
+A total of 500 metric tons of food is being delivered .,O O O O O O O O O O O O,DT NN IN CD JJ NNS IN NN VBZ VBG VBN .
+The U.N. food agency had not used road shipments to Somalia for five years because of the cost and danger .,O B-org O O O O O O O O B-geo O B-tim O O O O O O O O,DT NNP NN NN VBD RB VBN NN NNS TO NNP IN CD NNS IN IN DT NN CC NN .
+"But pirates have attacked numerous ships off the Somali coast , including a World Food Program vessel hijacked earlier this year .",O O O O O O O O B-gpe O O O O O O O O O O O O O,"CC NNS VBP VBN JJ NNS IN DT JJ NN , VBG DT NNP NNP NNP NN VBN RBR DT NN ."
+Somalia has been without an effective central government since 1991 .,B-geo O O O O O O O B-tim I-tim O,NNP VBZ VBN IN DT JJ JJ NN IN CD .

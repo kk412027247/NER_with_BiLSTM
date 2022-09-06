@@ -1,0 +1,6 @@
+Australia 's cricket team has scored 282-4 - a lead of 213 runs - on a rain-interrupted fourth day of the second test against India in Sydney .,B-geo O O O O O O O O O O B-org O O O O O O O O O O O O B-geo O B-geo O,NNP POS NN NN VBZ VBN CD IN DT NN IN CD NNS : IN DT JJ JJ NN IN DT JJ NN IN NNP IN NNP .
+Mike Hussey was on 87 and Andrew Symonds was on 14 at stumps after officials rejected Anil Kumble 's appeal for Symonds to be out lbw .,B-per I-per O O O O B-per I-per O O O O O O O O B-per I-per O O O B-per O O O O O,NNP NNP VBD IN CD CC NNP NNPS VBD IN CD IN NNS IN NNS VBD NNP NNP POS NN IN NNP TO VB IN NN .
+"Earlier , Kumble dismissed Matthew Hayden and Michael Clarke on consecutive balls .",O O B-org O B-per I-per O B-per I-per O O O O,"RB , NNP VBD NNP NNP CC NNP NNP IN JJ NNS ."
+Hayden scored 123 runs in Australia 's second innings before he was caught out .,B-per O O O O B-geo O O O O O O O O O,NNP VBD CD NNS IN NNP POS JJ NN IN PRP VBD VBN RP .
+Clarke was out for no runs .,B-per O O O O O O,NNP VBD RP IN DT NNS .
+Australia is hoping to win a record-tying 16th test match in a row after taking the first test of this tour by 337 runs in Melbourne .,B-geo O O O O O O O O O O O O O O O O O O O O O O O O B-geo O,NNP VBZ VBG TO VB DT JJ JJ NN NN IN DT NN IN VBG DT JJ NN IN DT NN IN CD NNS IN NNP .

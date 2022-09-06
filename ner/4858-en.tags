@@ -1,0 +1,7 @@
+European Union foreign ministers have renewed sanctions against Burma 's military rulers for another year .,B-org I-org O O O O O O B-geo O O O O B-tim O O,NNP NNP JJ NNS VBP VBN NNS IN NNP POS JJ NNS IN DT NN .
+"Under the sanctions , members of the ruling military junta and their families are barred from entering the EU .",O O O O O O O O O O O O O O O O O O B-org O,"IN DT NNS , NNS IN DT NN JJ NN CC PRP$ NNS VBP VBN IN VBG DT NNP ."
+The measures also ban EU companies and organizations from doing business in Burma .,O O O O B-org O O O O O O O B-geo O,DT NNS RB VBP NNP NNS CC NNS IN VBG NN IN NNP .
+The 25-member bloc initially imposed the sanctions in 1996 after Rangoon failed to meet EU demands for democratic reforms .,O O O O O O O O B-tim O B-tim O O O B-org O O O O O,DT JJ NN RB VBD DT NNS IN CD IN NNP VBD TO VB NNP NNS IN JJ NNS .
+The EU also wants pro-democracy leader Aung San Suu Kyi to be released from house arrest .,O B-org O O O O B-per I-per I-per I-per O O O O O O O,DT NNP RB VBZ JJ NN NNP NNP NNP NNP TO VB VBN IN NN NN .
+Burma 's military rulers are coming under increasing pressure to implement democratic reforms .,B-geo O O O O O O O O O O O O O,NNP POS JJ NNS VBP VBG IN VBG NN TO VB JJ NNS .
+There are calls to deny Burma its scheduled chairmanship of the Association of Southeast Asian Nations ( ASEAN ) in 2006 .,O O O O O B-geo O O O O O B-org I-org I-org I-org I-org O O O O B-tim O,EX VBP NNS TO VB NNP PRP$ JJ NN IN DT NNP IN NNP NNP NNP LRB NNP RRB IN CD .

@@ -1,0 +1,10 @@
+Champion points leader Fernando Alonso has driven his Renault for the third fastest time in Friday 's first practice session for the Brazilian Grand Prix in Sao Paulo .,O O O B-per I-per O O O B-org O O O O O O B-tim O O O O O O B-gpe B-geo I-geo O B-geo I-geo O,NNP VBZ NN NNP NNP VBZ VBN PRP$ NNP IN DT JJ JJS NN IN NNP POS JJ NN NN IN DT JJ NNP NNP IN NNP NNP .
+The Spaniard drove the Interlagos circuit at a time of 1:12.0872 .,O B-gpe O O B-geo O O O O O O O,DT NN VBD DT NNP NN IN DT NN IN CD .
+The fastest time of the session was clocked by McLaren-Mercedes test driver Alexander Wurz of Austria .,O O O O O O O O O O O O B-per I-per O B-geo O,DT JJS NN IN DT NN VBD VBN IN NNP NN NN NNP NNP IN NNP .
+Wurz completed the circuit with a time of 1:01.701 .,B-per O O O O O O O O O,NNP VBD DT NN IN DT NN IN CD .
+"McLaren-Mercedes driver Kimi Raikkonen of Finland posted the fifth best time of the session , 0.193 seconds slower than Alonso .",O O B-per I-per O B-geo O O O O O O O O O O O O O B-per O,"NNP NN NNP NNP IN NNP VBD DT NN JJS NN IN DT NN , CD NNS JJR IN NNP ."
+Raikkonen is second in the championship point standings .,B-per O O O O O O O O,NNP VBZ JJ IN DT NN NN NNS .
+He trails Alonso 85 to 111 .,O O B-per O B-tim I-tim O,PRP VBZ NNP CD IN CD .
+"Realistically , the series championship is out of his reach .",O O O O O O O O O O O,"RB , DT NN NN VBZ IN IN PRP$ NN ."
+"With only two races remaining in the season after Sunday , Alonso needs just one third-place finish to become the first champion other than Ferrari 's Michael Schumacher of Germany since 1999 .",O O O O O O O B-tim O B-tim O B-per O O O O O O O O O O O O B-geo O B-per I-per O B-geo B-tim I-tim O,"IN RB CD NNS VBG IN DT NN IN NNP , NNP VBZ RB CD JJ NN TO VB DT JJ NN JJ IN NNP POS NNP NNP IN NNP IN CD ."
+"At 21 years old , Alonso would become the youngest series champion ever .",O O O O O B-per O O O O O O O O,"IN CD NNS JJ , NNP MD VB DT JJS NN NN RB ."

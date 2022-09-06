@@ -1,0 +1,5 @@
+"Long before the Olympic games in Beijing dazzled the world , China had generated interest among filmmakers .",O O O O O O B-geo O O O O B-geo O O O O O O,"RB IN DT NNP NNS IN NNP VBD DT NN , NNP VBD VBN NN IN NNS ."
+"One of those filmmakers is Sue Williams , who has produced a number of documentaries about China in the last two decades .",O O O O O B-per I-per O O O O O O O O O B-geo O O O B-tim I-tim O,"CD IN DT NNS VBZ NNP NNP , WP VBZ VBN DT NN IN NNS IN NNP IN DT JJ CD NNS ."
+"Her latest work "" Young & Restless in China "" has been broadcast on Frontline , a program which airs on PBS , an American television network .",O O O O O B-org I-org O B-geo I-geo O O O O B-tim O O O O O O B-org O O B-gpe O O O,"PRP$ JJS NN RQU NNP CC NNP IN NNP LQU VBZ VBN VBN IN NNP , DT NN WDT VBZ IN NNP , DT JJ NN NN ."
+VOA 's Yi Suli talked recently with Sue Williams about her interest in China .,B-org O B-per I-per O O O B-per I-per O O O O B-geo O,NNP POS NNP NNP VBD RB IN NNP NNP IN PRP$ NN IN NNP .
+Elaine Lu narrates .,B-per I-per O O,NNP NNP VBZ .

@@ -1,0 +1,7 @@
+"Gunmen in the Somali capital , Mogadishu , have killed the head of the U.N. Development Program for Somalia .",O O O B-gpe O O B-geo O O O O O O O B-org I-org I-org I-org I-org O,"NNS IN DT JJ NN , NNP , VBP VBN DT NN IN DT NNP NNP NNP IN NNP ."
+Osman Ali Ahmed was shot dead Sunday as he left a Mogadishu mosque .,B-per I-per I-per O O O B-tim O O O O B-geo O O,NNP NNP NNP VBD VBN JJ NNP IN PRP VBD DT NNP NN .
+Witnesses say another man also was wounded in the attack .,O O O O O O O O O O O,NNS VBP DT NN RB VBD VBN IN DT NN .
+No one has claimed responsibility .,O O O O O O,DT NN VBZ VBN NN .
+"Attacks on aid workers and other officials are common in Somalia , where Islamist insurgents are fighting the Ethiopian-backed interim government .",O O O O O O O O O O B-geo O O O O O O O O O O O,"NNS IN NN NNS CC JJ NNS VBP JJ IN NNP , WRB NNP NNS VBP VBG DT JJ JJ NN ."
+"On Saturday , a land mine killed a Mogadishu city official and at least three security guards .",O B-tim O O O O O O B-geo O O O O O O O O O,"IN NNP , DT NN NN VBD DT NNP NN NN CC IN JJS CD NN NNS ."
+"Somalia has not had a fully functioning central government since 1991 , when warlords overthrew dictator Mohamed Siad Barre and turned on each other .",B-geo O O O O O O O O O B-tim O O O O O B-per I-per I-per O O O O O O,"NNP VBZ RB VBN DT RB VBG JJ NN IN CD , WRB NNS VBP NN NNP NNP NNP CC VBD IN DT NN ."

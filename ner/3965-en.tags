@@ -1,0 +1,8 @@
+"Salma Hayek gave birth to a baby girl , Valentina Paloma Pinault , on September 21 .",B-per I-per O O O O O O O B-per I-per I-per O O B-tim I-tim O,"NNP NNP VBD NN TO DT NN NN , NNP NNP NNP , IN NNP CD ."
+""" Mother and child are doing well , "" said publicist Carl Ross in a statement .",O O O O O O O O O O O B-per I-per O O O O,"LQU NNP CC NN VBP VBG RB , LQU VBD NN NNP NNP IN DT NN ."
+No further details are released .,O O O O O O,DT JJ NNS VBP VBN .
+"It is the first child for the 41-year-old actress , who is engaged to French businessman Francois-Henri Pinault .",O O O O O O O O O O O O O O B-gpe O B-per I-per O,"PRP VBZ DT JJ NN IN DT JJ NN , WP VBZ VBN TO JJ NN NNP NNP ."
+"Hayek , who has appeared in more than thirty films , is currently enjoying success as an executive producer of the hit U.S. TV series Ugly Betty .",B-per O O O O O O O O O O O O O O O O O O O O O B-geo O O O B-per O,"NNP , WP VBZ VBN IN JJR IN CD NNS , VBZ RB VBG NN IN DT NN NN IN DT VBN NNP NN NN RB NNP ."
+"She is also chief executive of Ventanazul , a production company she formed with Metro-Goldwyn-Mayer , Inc.",O O O O O O B-geo O O O O O O O B-org I-org I-org,"PRP VBZ RB JJ NN IN NNP , DT NN NN PRP VBD IN NNP , NNP"
+"Pinault , 45 , is the chief executive officer for luxury goods company PPR SA , which owns such high end labels as Gucci , Yves Saint Laurent , Balenciaga , and Puma .",B-per O O O O O O O O O O O O B-org I-org O O O O O O O O B-geo O B-org I-org I-org O B-geo O O B-geo O,"NNP , CD , VBZ DT JJ NN NN IN NN NNS NN NNP NNP , WDT VBZ JJ JJ NN NNS IN NNP , NNP NNP NNP , NNP , CC NNP ."
+He has two children from a previous marriage which ended in divorce in 2004 .,O O O O O O O O O O O O O B-tim O,PRP VBZ CD NNS IN DT JJ NN WDT VBD IN NN IN CD .

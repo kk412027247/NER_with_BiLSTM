@@ -1,0 +1,8 @@
+"Masked assailants with grenades and automatic weapons attacked a wedding party in southeastern Turkey , killing 45 people and wounding at least six others .",O O O O O O O O O O O O O B-geo O O O O O O O O O O O,"VBN NNS IN NNS CC JJ NNS VBD DT VBG NN IN JJ NNP , VBG CD NNS CC VBG IN JJS CD NNS ."
+Turkish officials said the attack occurred Monday in the village of Bilge about 600 kilometers from Ankara .,B-gpe O O O O O B-tim O O O O B-geo O O O O B-geo O,JJ NNS VBD DT NN VBD NNP IN DT NN IN NNP IN CD NNS IN NNP .
+The wounded were taken to the hospital in the nearby city of Mardin .,O O O O O O O O O O O O B-geo O,DT VBN VBD VBN TO DT NN IN DT JJ NN IN NNP .
+Soldiers cut off the roads leading to the village as they searched for the gunmen .,O O O O O O O O O O O O O O O O,NNS VBD RP DT NNS VBG TO DT NN IN PRP VBD IN DT NNS .
+"Officials said they were not sure of the motive for the attack , which took place at the wedding of the daughter of a village official .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBD PRP VBD RB JJ IN DT NN IN DT NN , WDT VBD NN IN DT NN IN DT NN IN DT NN NN ."
+Interior Minister Besir Atalay said there was no apparent link to terrorism .,O O B-per I-per O O O O O O O O O,NN NN NNP NNP VBD EX VBD DT JJ NN TO NN .
+Turkey 's NTV television said the fighting may have involved rival members of state-sponsored militia set up to combat Kurdish separatist guerrillas .,B-geo O B-geo O O O O O O O O O O O O O O O O O O O O,NNP POS NNP NN VBD DT NN MD VB VBN JJ NNS IN JJ NN VBN RP TO VB NNP JJ NNS .
+Other reports suggested the violence was linked to a clan feud .,O O O O O O O O O O O O,JJ NNS VBD DT NN VBD VBN TO DT JJ NN .

@@ -1,0 +1,6 @@
+"Burma 's state-run media say the military government has dismissed eight deputy Cabinet ministers and one supreme court judge , without giving reasons for the moves .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS JJ NNS VBP DT JJ NN VBZ VBN CD NN NN NNS CC CD JJ NN NN , IN VBG NNS IN DT NNS ."
+"Those dismissed include the Deputy Minister of Defense , Major-General Khin Maung Win , and Deputy Minister of Industry Thein Thun .",O O O O O O O B-org O B-org I-org I-org I-org O O O O O B-org I-org I-org O,"DT VBN VBP DT NNP NNP IN NNP , NNP NNP NNP NNP , CC NNP NNP IN NNP NNP NNP ."
+The dismissed Supreme Court judge was Khin Maung Aye .,O O B-org I-org O O B-org I-org I-org O,DT VBN NNP NNP NN VBD NNP NNP NNP .
+New appointments to fill the posts were not announced .,O O O O O O O O O O,JJ NNS TO VB DT NNS VBD RB VBN .
+"Since assuming power in 1988 , the leaders of the present regime and its cabinet have undergone a number of changes .",O O O O B-tim O O O O O O O O O O O O O O O O O,"IN VBG NN IN CD , DT NNS IN DT JJ NN CC PRP$ NN VBP VBN DT NN IN NNS ."
+"Last month , the government dismissed two Cabinet ministers and appointed four new ministers and four new deputy ministers .",O O O O O O O O O O O O O O O O O O O O,"JJ NN , DT NN VBD CD NNP NNS CC VBN CD JJ NNS CC CD JJ NN NNS ."

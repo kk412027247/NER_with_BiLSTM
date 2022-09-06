@@ -1,0 +1,5 @@
+"The U.S. military says attackers threw two grenades into a crowd in the Iraqi city of Fallujah , injuring 20 people .",O B-geo O O O O O O O O O O O B-gpe O O B-geo O O O O O,"DT NNP NN VBZ NNS VBD CD NNS IN DT NN IN DT JJ NN IN NNP , VBG CD NNS ."
+"U.S. officials said Saturday , they had received no reports of Iraqi military casualties in the attack .",B-geo O O B-tim O O O O O O O B-gpe O O O O O O,"NNP NNS VBD NNP , PRP VBD VBN DT NNS IN JJ JJ NNS IN DT NN ."
+But hospital sources said three Iraqi soldiers were injured .,O O O O O B-gpe O O O O,CC NN NNS VBD CD JJ NNS VBD VBN .
+"Meanwhile , an American soldier was killed when his vehicle struck an explosive device in Baghdad .",O O O B-gpe O O O O O O O O O O O B-geo O,"RB , DT JJ NN VBD VBN WRB PRP$ NN VBD DT JJ NN IN NNP ."
+"And gunmen injured the head of Iraq 's border guard , Major General Ali Hamadi , who was driving in the Iraqi capital .",O O O O O O B-geo O O O O O B-per I-per I-per O O O O O O B-gpe O O,"CC NNS VBD DT NN IN NNP POS NN NN , NNP NNP NNP NNP , WP VBD VBG IN DT JJ NN ."

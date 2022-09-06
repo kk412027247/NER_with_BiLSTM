@@ -1,0 +1,8 @@
+"A Spanish judge has charged 29 people with the 2004 Madrid train bombings that killed 191 people , and ruled that al-Qaida was not involved .",O B-gpe O O O O O O O B-tim I-tim O O O O O O O O O O B-org O O O O,"DT JJ NN VBZ VBN CD NNS IN DT CD NNP NN NNS WDT VBD CD NNS , CC VBD DT NNP VBD RB VBN ."
+"Judge Juan del Olmo charged five suspects with 191 counts of murder and more than 1,700 counts of attempted murder - the number of victims wounded .",B-per I-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP NNP NNP VBD CD NNS IN CD NNS IN NN CC JJR IN CD NNS IN JJ NN IN DT NN IN NNS VBN .
+The other suspects were charged with collaboration .,O O O O O O O O,DT JJ NNS VBD VBN IN NN .
+Most of the suspects are Moroccans or Spaniards .,O O O O O B-gpe O B-gpe O,JJS IN DT NNS VBP NNS CC NNS .
+"The murder charges could lead to prison sentences of thousands of years , but under Spanish law prisoners can be held for a maximum of 40 years .",O O O O O O O O O O O O O O O B-gpe O O O O O O O O O B-tim O O,"DT NN NNS MD VB TO NN NNS IN NNS IN NNS , CC IN JJ NN NNS MD VB VBN IN DT NN IN CD NNS ."
+"Judge del Olmo said the suspects were inspired by al-Qaida , but said there was no direct link to the terror group .",B-per I-per I-per O O O O O O B-org O O O O O O O O O O O O O,"NNP NNP NNP VBD DT NNS VBD VBN IN NNP , CC VBD EX VBD DT JJ NN TO DT NN NN ."
+"He also ruled out any connection to the Basque separatist group , ETA .",O O O O O O O O B-geo O O O B-org O,"PRP RB VBD RP DT NN TO DT NNP NN NN , NNP ."
+The suspects are expected to go on trial sometime next year .,O O O O O O O O O O O O,DT NNS VBP VBN TO VB IN NN RB JJ NN .

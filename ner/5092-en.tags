@@ -1,0 +1,9 @@
+"Ethiopia 's elections body has rejected opposition calls for a re-run of last month 's parliamentary poll , won by the ruling party in a landslide .",B-org O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NNS NN VBZ VBN NN NNS IN DT NN IN JJ NN POS JJ NN , VBN IN DT VBG NN IN DT NN ."
+"A coalition of six parties said the May 23 election was rigged , and that voters and opposition candidates were harassed .",O O O O O O O B-tim I-tim I-tim O O O O O O O O O O O O,"DT NN IN CD NNS VBD DT NNP CD NN VBD VBN , CC IN NNS CC NN NNS VBD VBN ."
+The National Electoral Board said Wednesday that the opposition claims were not backed by any evidence .,O B-org I-org I-org O B-tim O O O O O O O O O O O,DT NNP NNP NNP VBD NNP IN DT NN NNS VBD RB VBN IN DT NN .
+Election results showed the ruling EPRDF coalition and allied parties taking 534 out of 537 parliamentary seats .,O O O O O B-org O O O O O O O O O O O O,NN NNS VBD DT VBG NNP NN CC JJ NNS VBG CD IN IN CD JJ NNS .
+Opposition leaders say the government 's near-total victory could not be accomplished without cheating .,O O O O O O O O O O O O O O O,NN NNS VBP DT NN POS JJ NN MD RB VB VBN IN NN .
+Both the United States and the European Union criticized the election as falling short of international standards .,O O B-geo I-geo O O B-org I-org O O O O O O O O O O,DT DT NNP NNPS CC DT NNP NNP VBD DT NN IN VBG JJ IN JJ NNS .
+"Ethiopian officials have said the voting was free , fair , and democratic .",B-gpe O O O O O O O O O O O O O,"JJ NNS VBP VBN DT NN VBD JJ , JJ , CC JJ ."
+The election was Ethiopia 's first parliamentary poll since a disputed 2005 vote that led to violent unrest .,O O O B-geo O O O O O O O O O O O O O O O,DT NN VBD NNP POS JJ JJ NN IN DT JJ CD NN WDT VBD TO JJ NN .
+Security forces killed nearly 200 people while putting down demonstrations after that poll .,O O O O O O O O O O O O O O,NN NNS VBD RB CD NNS IN VBG RP NNS IN DT NN .

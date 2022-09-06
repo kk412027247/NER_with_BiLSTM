@@ -1,0 +1,6 @@
+Japanese authorities have confirmed that a bird flu outbreak in the country 's south was caused by the deadly H5N1 virus .,B-gpe O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN IN DT NN NN NN IN DT NN POS NN VBD VBN IN DT JJ NNP NN .
+Authorities said Saturday officials are culling tens of thousands of birds on the affected poultry farm in Miyazaki prefecture .,O O B-tim O O O O O O O O O O O O O O B-geo O O,NNS VBD NNP NNS VBP VBG NNS IN NNS IN NNS IN DT JJ NN NN IN NNP NN .
+"The culling began Friday , after preliminary tests showed the chickens were infected with an H5 strain of the bird flu virus .",O O O B-tim O O O O O O O O O O O O O O O O O O O,"DT NN VBD NNP , IN JJ NNS VBD DT NNS VBD VBN IN DT NNP NN IN DT NN NN NN ."
+"Earlier this month in the same area , Japan confirmed its first outbreak of H5N1 in three years .",O O O O O O O O B-geo O O O O O O O B-tim O O,"RBR DT NN IN DT JJ NN , NNP VBD PRP$ JJ NN IN NNP IN CD NNS ."
+No human infections have been reported .,O O O O O O O,DT JJ NNS VBP VBN VBN .
+Bird flu has killed more than 150 people worldwide since its emergence in 2003 .,O O O O O O O O O O O O O B-tim O,NN NN VBZ VBN JJR IN CD NNS JJ IN PRP$ NN IN CD .

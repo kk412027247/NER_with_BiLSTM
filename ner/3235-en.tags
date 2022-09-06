@@ -1,0 +1,7 @@
+The U.S. military in Afghanistan says coalition forces killed 14 Taleban militants in separate clashes this week .,O B-org O O B-geo O O O O O B-org O O O O O O O,DT NNP NN IN NNP VBZ NN NNS VBD CD NNP NNS IN JJ NNS DT NN .
+The military said Saturday 13 guerrillas were killed in two encounters in the central province of Uruzgan .,O O O B-tim O O O O O O O O O O O O B-geo O,DT NN VBD NNP CD NNS VBD VBN IN CD NNS IN DT JJ NN IN NNP .
+"One Afghan soldier was killed and four others , including a U.S. soldier , were injured in the fighting .",O B-gpe O O O O O O O O O B-gpe O O O O O O O O,"CD JJ NN VBD VBN CC CD NNS , VBG DT NNP NN , VBD VBN IN DT NN ."
+Another militant was killed by U.S. troops in eastern Paktika province .,O O O O O B-gpe O O O B-geo O O,DT NN VBD VBN IN NNP NNS IN JJ NNP NN .
+"Separately , officials say four British soldiers from the NATO-led peacekeeping mission were wounded early Saturday in an attack in the northern city of Mazar-e-Sharif .",O O O O O B-gpe O O O O O O O O O B-tim O O O O O O O O B-geo O,"RB , NNS VBP CD JJ NNS IN DT JJ NN NN VBD VBN JJ NNP IN DT NN IN DT JJ NN IN NNP ."
+It was not immediately clear what motivated the attack .,O O O O O O O O O O,PRP VBD RB RB JJ WP VBN DT NN .
+Taleban rebels are not known to operate in northern Afghanistan and the area has been spared much of the bloodshed that has plagued southern and eastern regions .,B-org O O O O O O O O B-geo O O O O O O O O O O O O O O O O O O,NNP NNS VBP RB VBN TO VB IN JJ NNP CC DT NN VBZ VBN VBN RB IN DT NN DT VBZ VBN JJ CC JJ NNS .

@@ -1,0 +1,8 @@
+"Thousands of demonstrators have marched in Oaxaca , Mexico , to continue their call for the resignation of the state 's governor .",O O O O O O B-geo O B-geo O O O O O O O O O O O O O O,"NNS IN NNS VBP VBN IN NNP , NNP , TO VB PRP$ NN IN DT NN IN DT NN POS NN ."
+A student was wounded Sunday when a gunmen fired on a group of protesters .,O O O O B-tim O O O O O O O O O O,DT NN VBD VBN NNP WRB DT NNS VBN IN DT NN IN NNS .
+Thousands of protesters marched through the city center and gathered near Mexican federal police -- who were sent to restore order in Oaxaca .,O O O O O O O O O O O B-gpe O O O O O O O O O O B-geo O,NNS IN NNS VBD IN DT NN NN CC VBD IN JJ JJ NNS : WP VBD VBN TO VB NN IN NNP .
+Police searched vehicles for weapons .,O O O O O O,NNS VBD NNS IN NNS .
+"For the past five months , protesters have demanded the resignation of Oaxaca State Governor Ulises Ruiz over corruption allegations .",O O B-tim I-tim O O O O O O O O B-per I-per I-per I-per I-per O O O O,"IN DT JJ CD NNS , NNS VBP VBN DT NN IN NNP NNP NNP NNP NNP IN NN NNS ."
+Ruiz has refused to step down .,B-per O O O O O O,NNP VBZ VBN TO VB RB .
+"On Wednesday , police re-opened a central square in the city after clearing out protesters .",O B-tim O O O O O O O O O O O O O O,"IN NNP , NN VBD DT JJ NN IN DT NN IN VBG RP NNS ."
+"At least nine people , including a U.S. journalist , have been killed in the crisis in recent weeks .",O O O O O O O B-geo O O O O O O O O O B-tim O O,"IN JJS CD NNS , VBG DT NNP NN , VBP VBN VBN IN DT NN IN JJ NNS ."

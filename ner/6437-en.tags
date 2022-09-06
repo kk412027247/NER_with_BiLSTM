@@ -1,0 +1,9 @@
+Iraqis living outside the country can begin voting Tuesday in the country 's parliamentary elections .,B-gpe O O O O O O O B-tim O O O O O O O,NNS VBG IN DT NN MD VB VBG NNP IN DT NN POS JJ NNS .
+"Expatriates will be able to cast ballots through Thursday , the day when Iraq itself holds the elections .",O O O O O O O B-tim I-tim O O O O B-geo O O O O O,"NNS MD VB JJ TO VB NNS IN NNP , DT NN WRB NNP PRP VBZ DT NNS ."
+Fifteen countries have set up polling stations for Iraqis living abroad .,O O O O O O O O B-gpe O O O,CD NNS VBP VBN RP NN NNS IN NNS VBG RB .
+Authorities in Iraq are preparing tough security measures for Thursday 's elections .,O O B-geo O O O O O O B-tim O O O,NNS IN NNP VBP VBG JJ NN NNS IN NNP POS NNS .
+"The country 's borders will be closed , road traffic will be restricted except for vehicles with special permits , and night-time curfews will be extended starting tonight .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-tim O,"DT NN POS NNS MD VB VBN , NN NN MD VB VBN IN IN NNS IN JJ NNS , CC JJ NNS MD VB VBN VBG NN ."
+"Early voting was held in Iraq Monday for soldiers , prisoners and hospital patients .",O O O O O B-geo B-tim O O O O O O O O,"RB NN VBD VBN IN NNP NNP IN NNS , NNS CC NN NNS ."
+"Meanwhile , Iraqi police say gunmen shot dead a leading Sunni Muslim Arab politician .",O O B-gpe O O O O O O O B-per I-per I-per O O,"RB , JJ NNS VBP NNS VBD RB DT VBG NNP NNP NNP NN ."
+"Mizhar al-Dulaimi of the Free Progressive Iraqi Party was killed while campaigning in Ramadi , the capital of western Anbar province .",B-per I-per O O B-org I-org B-gpe B-org O O O O O B-geo O O O O O O O O,"NNP NNP IN DT NNP NNP JJ NNP VBD VBN IN VBG IN NNP , DT NN IN JJ NNP NN ."
+He had been urging Iraqis to vote in the parliamentary election .,O O O O B-gpe O O O O O O O,PRP VBD VBN VBG NNS TO VB IN DT JJ NN .

@@ -1,0 +1,6 @@
+The economy of Sint Maarten centers around tourism with nearly four-fifths of the labor force engaged in this sector .,O O O B-org I-org O O O O O O O O O O O O O B-tim O,DT NN IN NNP NNP NNS IN NN IN RB NNS IN DT NN NN VBN IN DT NN .
+Over one million visitors come to the island each year - 1.3 million in 2008 - with most arriving through the Princess Juliana International Airport .,O O O O O O O O O O O O O O B-tim I-tim O O O O O B-org I-org I-org I-org O,IN CD CD NNS VBN TO DT NN DT NN IN CD CD IN CD : IN JJS VBG IN DT NNP NNP NNP NNP .
+Cruise ships and yachts also call on Sint Maarten 's numerous ports and harbors .,O O O O O O O B-org I-org O O O O O O,NNP NNS CC NNS RB VBP IN NNP NNP POS JJ NNS CC NNS .
+No significant agriculture and limited local fishing means that almost all food must be imported .,O O O O O O O O O O O O O O O O,DT JJ NN CC JJ JJ NN VBZ IN RB DT NN MD VB VBN .
+Energy resources and manufactured goods are also imported .,O O O O O O O O O,NNP NNS CC VBN NNS VBP RB VBN .
+Sint Maarten had the highest per capita income among the five islands that formerly comprised the Netherlands Antilles .,B-org I-org O O O O O O O O O O O O O O B-geo I-geo O,NNP NNP VBD DT JJS IN NN NN IN DT CD NNS WDT RB VBD DT NNP NNPS .

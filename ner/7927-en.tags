@@ -1,0 +1,8 @@
+"Afghan officials say a suicide bomber has killed seven people , and wounded nearly 30 others in an attack in southeastern Afghanistan .",B-gpe O O O O O O O O O O O O O O O O O O O O B-geo O,"JJ NNS VBP DT NN NN VBZ VBN CD NNS , CC VBN RB CD NNS IN DT NN IN JJ NNP ."
+"Police say the attack happened Saturday in the town of Spin Boldak , in the southern province of Kandahar .",O O O O O B-tim O O O O B-org I-org O O O O O O B-geo O,"NNS VBP DT NN VBD NNP IN DT NN IN NNP NNP , IN DT JJ NN IN NNP ."
+Police say the bomber was riding a motorbike when he blew himself up near a busy market .,O O O O O O O O O O O O O O O O O O,NNS VBP DT NN VBD VBG DT NN WRB PRP VBD PRP RP IN DT JJ NN .
+Officials say he was targeting police officers in the area .,O O O O O O O O O O O,NNS VBP PRP VBD VBG NN NNS IN DT NN .
+Two policemen were among those killed .,O O O O O O O,CD NNS VBD IN DT VBN .
+Reuters news service says the Taleban claimed responsibility for the attack .,B-org O O O O B-org O O O O O O,NNP NN NN VBZ DT NNP VBD NN IN DT NN .
+Taleban militants have carried out numerous attacks in southern and eastern Afghanistan as part of their campaign against the government and foreign troops .,B-org O O O O O O O O O O B-geo O O O O O O O O O O O O,NNP NNS VBP VBN RP JJ NNS IN JJ CC JJ NNP IN NN IN PRP$ NN IN DT NN CC JJ NNS .
+The bombing comes as Muslims celebrate the Eid-al-Fitr holiday which marks the end of the fasting month of Ramadan .,O O O O O O O O O O O O O O O O O O B-geo O,DT NN VBZ IN NNPS VBP DT NNP NN WDT VBZ DT NN IN DT JJ NN IN NNP .

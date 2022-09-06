@@ -1,0 +1,4 @@
+"The Air Transport Association predicts fewer domestic airline passengers in the U.S. this summer , between June 1 and August 31 .",O B-org I-org I-org O O O O O O O B-geo O B-tim O B-tim I-tim I-tim I-tim I-tim I-tim O,"DT NNP NNP NNP VBZ JJR JJ NN NNS IN DT NNP DT NN , IN NNP CD CC NNP CD ."
+The airline trade group says higher fuel prices and a weak economy have reduced airline carrying capacity which has led to higher ticket prices .,O O O O O O O O O O O O O O O O O O O O O O O O O,DT NN NN NN VBZ JJR NN NNS CC DT JJ NN VBP VBN NN VBG NN WDT VBZ VBN TO JJR NN NNS .
+Those factors could have an impact on the number of passengers planning to travel in the U.S. during the traditionally busy summer vacation months .,O O O O O O O O O O O O O O O O B-geo O O O O O O O O,DT NNS MD VB DT NN IN DT NN IN NNS VBG TO VB IN DT NNP IN DT RB JJ NN NN NNS .
+VOA 's Mil Arcega reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

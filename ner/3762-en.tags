@@ -1,0 +1,8 @@
+Medical personnel in the stricken city of New Orleans are desperately trying to continue to aid patients amid depleting supplies and deteriorating conditions .,O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O,NNP NNS IN DT JJ NN IN NNP NNP VBP RB VBG TO VB TO VB NNS IN VBG NNS CC JJ NNS .
+Hospitals are severely crippled in the flooding that has submerged most of the city .,O O O O O O O O O O O O O O O,NNS VBP RB VBN IN DT NN WDT VBZ VBN JJS IN DT NN .
+"Some patients , including babies , have been airlifted to other facilities .",O O O O O O O O O O O O O,"DT NNS , VBG NNS , VBP VBN VBN TO JJ NNS ."
+"The Associated Press says doctors from two hospitals have issued a plea for their facilities to be evacuated , saying conditions are dire and they are nearly out of food and emergency power .",B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ NNS IN CD NNS VBP VBN DT NN IN PRP$ NNS TO VB VBN , VBG NNS VBP JJ CC PRP VBP RB IN IN NN CC NN NN ."
+"In the streets of New Orleans , corpses are lying in the open and anxious refugees are pleading for water and food .",O O O O B-geo I-geo O O O O O O O O O O O O O O O O O,"IN DT NNS IN NNP NNP , NNS VBP VBG IN DT JJ CC JJ NNS VBP VBG IN NN CC NN ."
+Field hospitals are overwhelmed with the sick .,O O O O O O O O,NNP NNS VBP VBN IN DT NN .
+U.S. officials say shots have been fired at emergency personnel and the security situation remains a problem .,B-geo O O O O O O O O O O O O O O O O O,NNP NNS VBP NNS VBP VBN VBN IN NN NNS CC DT NN NN VBZ DT NN .
+The New Orleans mayor has issued a desperate SOS ( plea for help ) .,B-org I-org I-org O O O O O O O O O O O O,DT NNP NNP NN VBZ VBN DT JJ NNP LRB NN IN NN RRB .

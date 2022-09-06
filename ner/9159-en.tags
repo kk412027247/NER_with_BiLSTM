@@ -1,0 +1,8 @@
+An earthquake in southeastern Turkey has injured at least seven people and triggered an avalanche .,O O O O B-geo O O O O O O O O O O O,DT NN IN JJ NNP VBZ VBN IN JJS CD NNS CC VBN DT NN .
+Istanbul 's Kandili observatory says a 5.7 magnitude earthquake struck early Saturday in rural Bingol province .,B-org I-org I-org I-org O O O O O O O B-tim O O B-geo O O,NNP POS NNP NN VBZ DT CD NN NN VBD JJ NNP IN JJ NNP NN .
+It was centered in the town of Karliova .,O O O O O O O B-geo O,PRP VBD VBN IN DT NN IN NNP .
+"Turkey 's Anatolianews agency says the quake apparently triggered an avalanche in neighboring Erzurum province , and is blocking a highway leading to the village of Cat .",B-geo B-org I-org I-org O O O O O O O O O B-geo O O O O O O O O O O O O O O,"NNP POS NNP NN VBZ DT NN RB VBD DT NN IN JJ NNP NN , CC VBZ VBG DT NN VBG TO DT NN IN NNP ."
+At least 20 homes in the area have been damaged .,O O O O O O O O O O O,IN JJS CD NNS IN DT NN VBP VBN VBN .
+Provincial officials say recent heavy snowfall is hampering efforts to reach small villages .,O O O O O O O O O O O O O O,JJ NNS VBP JJ JJ NN VBZ VBG NNS TO VB JJ NNS .
+Earthquakes are common in Turkey .,O O O O B-geo O,NNS VBP JJ IN NNP .
+"In 2003 , a magnitude 6.4 quake struck the same region , killing 177 people .",O B-tim O O O O O O O O O O O O O O,"IN CD , DT NN CD NN VBD DT JJ NN , VBG CD NNS ."

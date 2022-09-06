@@ -1,0 +1,6 @@
+The State Department says U.S. officials are assessing the damage caused by Sunday 's natural disasters in Asia .,O B-org I-org O B-geo O O O O O O O B-tim O O O O B-geo O,DT NNP NNP VBZ NNP NNS VBP VBG DT NN VBN IN NNP POS JJ NNS IN NNP .
+"A spokesman , Noel Clay , says the disasters have caused communication problems , making it hard for U.S. officials to get a full picture of the devastation .",O O O B-per I-per O O O O O O O O O O O O O B-geo O O O O O O O O O O,"DT NN , NNP NNP , VBZ DT NNS VBP VBN NN NNS , VBG PRP JJ IN NNP NNS TO VB DT JJ NN IN DT NN ."
+But Mr. Clay tells VOA that Washington will likely offer aid to countries affected by the catastrophe .,O B-per B-org O B-org O B-geo O O O O O O O O O O O,CC NNP NNP VBZ NNP IN NNP MD RB VB NN TO NNS VBN IN DT NN .
+He says officials may issue a statement later Sunday .,O O O O O O O B-tim I-tim O,PRP VBZ NNS MD VB DT NN RB NNP .
+"The spokesman says it is "" too early to tell "" whether the disasters killed or injured any Americans .",O O O O O O O O O O O O O O O O O O B-gpe O,DT NN VBZ PRP VBZ LQU RB JJ TO VB LQU IN DT NNS VBN CC VBN DT NNS .
+U.S. officials are unsure how many U.S. citizens may be in the affected region .,B-geo O O O O O B-geo O O O O O O O O,NNP NNS VBP JJ WRB JJ NNP NNS MD VB IN DT JJ NN .

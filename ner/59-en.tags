@@ -1,0 +1,9 @@
+The African Union says a Senegalese soldier was killed Friday when unknown gunmen ambushed an AU patrol near the Sudan-Chad border .,B-org I-org I-org O O B-gpe O O O B-tim O O O O O O O O O O O O,DT NNP NNP VBZ DT JJ NN VBD VBN NNP WRB JJ NNS VBD DT NNP NN IN DT JJ NN .
+"Khartoum and Sudanese rebels are blaming each other for the attack , which targeted a group of Senegalese soldiers patrolling the Darfur region .",B-per O B-gpe O O O O O O O O O O O O O O B-gpe O O O B-org O O,"NNP CC JJ NNS VBP VBG DT NN IN DT NN , WDT VBD DT NN IN JJ NNS VBG DT NNP NN ."
+Ten other soldiers wounded in the attack were evacuated to a local hospital for treatment .,O O O O O O O O O O O O O O O O,CD JJ NNS VBN IN DT NN VBD VBN TO DT JJ NN IN NN .
+"The assailants stole an AU vehicle , using it to flee the scene .",O O O O O O O O O O O O O O,"DT NNS VBD DT NNP NN , VBG PRP TO VB DT NN ."
+The incident comes just days after cross-border raids on three Chadian border villages killed nine civilians .,O O O O O O O O O O B-gpe O O O O O O,DT NN VBZ RB NNS IN JJ NNS IN CD JJ NN NNS VBD CD NNS .
+Chad 's government has repeatedly accused Sudan of supporting rebel activity along the border .,B-geo O O O O O B-gpe O O O O O O O O,NNP POS NN VBZ RB VBN NNP IN VBG JJ NN IN DT NN .
+Sudan has denied any involvement with the rebels .,B-gpe O O O O O O O O,NNP VBZ VBN DT NN IN DT NNS .
+Tensions have risen between the two nations since Sudanese rebels attacked the Chadian town of Adre last month .,O O O O O O O O B-gpe O O O B-gpe O O B-geo O O O,NNS VBP VBN IN DT CD NNS IN JJ NNS VBD DT JJ NN IN NNP JJ NN .
+"After the attack , Chad said a "" state of belligerence "" existed between it and Khartoum .",O O O O B-geo O O O O O O O O O O O B-per O,"IN DT NN , NNP VBD DT RQU NN IN NN RQU VBD IN PRP CC NNP ."

@@ -1,0 +1,8 @@
+Venezuelan President Hugo Chavez is to travel to Iran Friday as part of his two-week world tour .,B-gpe B-per I-per I-per O O O O B-geo B-tim O O O O O O O O,JJ NNP NNP NNP VBZ TO VB TO NNP NNP IN NN IN PRP$ JJ NN NN .
+"Mr. Chavez is to meet with his Iranian counterpart , Mahmoud Ahmadinejad , in Tehran .",B-per I-per O O O O O B-gpe O O B-per I-per O O B-geo O,"NNP NNP VBZ TO VB IN PRP$ JJ NN , NNP NNP , IN NNP ."
+The leaders are expected to sign several deals during the three-day visit .,O O O O O O O O O O B-tim O O,DT NNS VBP VBN TO VB JJ NNS IN DT JJ NN .
+"Venezuela 's president is in Qatar , leading a delegation that includes Oil Minister Rafael Ramirez .",B-geo O O O O B-geo O O O O O O O B-per I-per I-per O,"NNP POS NN VBZ IN NNP , VBG DT NN WDT VBZ NNP NNP NNP NNP ."
+"Mr. Chavez was previously in Moscow , where he met with Russian President Vladimir Putin .",B-per I-per O O O B-geo O O O O O B-gpe B-per I-per I-per O,"NNP NNP VBD RB IN NNP , WRB PRP VBD IN JJ NNP NNP NNP ."
+Venezuela sealed a deal with Russia Thursday to buy Russian fighter jets and helicopters .,B-geo O O O O B-geo B-tim O O B-gpe O O O O O,NNP VBD DT NN IN NNP NNP TO VB JJ NN NNS CC NNS .
+The head of Russia 's state arms export agency says the contracts are worth more than $ 3 billion .,O O O B-geo O O O O O O O O O O O O O O O O,DT NN IN NNP POS NN NNS NN NN VBZ DT NNS VBP JJ JJR IN $ CD CD .
+The United States has banned arms sales to Venezuela because of the government 's alleged ties to Iran and Cuba .,O B-geo I-geo O O O O O B-geo O O O O O O O O B-geo O B-geo O,DT NNP NNP VBZ VBN NNS NNS TO NNP IN IN DT NN POS JJ NNS TO NNP CC NNP .

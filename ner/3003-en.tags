@@ -1,0 +1,5 @@
+Iraq 's government says Prime Minister Nouri al-Maliki will make his first official visit to Iran on Monday .,B-geo O O O B-per I-per I-per I-per O O O O O O O B-geo O B-tim O,NNP POS NN VBZ NNP NNP NNP NNP MD VB PRP$ JJ JJ NN TO NNP IN NNP .
+Officials say his two-day visit will focus on security issues and promoting bilateral relations .,O O O O O O O O O O O O O O O,NNS VBP PRP$ JJ NN MD VB IN NN NNS CC VBG JJ NNS .
+"Earlier this week , Iraqi Deputy Prime Minister Barham Saleh led a delegation of officials on a visit to Iran aimed at enhancing economic ties between the two nations .",O O O O B-gpe O B-per I-per I-per I-per O O O O O O O O O B-geo O O O O O O O O O O,"RBR DT NN , JJ NNP NNP NNP NNP NNP VBD DT NN IN NNS IN DT NN TO NNP VBN IN VBG JJ NNS IN DT CD NNS ."
+Iraq and Iran fought a bloody war in the 1980s when then-Iraqi leader Saddam Hussein was in power .,B-geo O B-geo O O O O O O B-tim O O O B-per I-per O O O O,NNP CC NNP VBD DT JJ NN IN DT NNS WRB JJ NN NNP NNP VBD IN NN .
+The neighboring countries have tried to build closer ties in recent years .,O O O O O O O O O O B-tim O O,DT JJ NNS VBP VBN TO VB JJR NNS IN JJ NNS .

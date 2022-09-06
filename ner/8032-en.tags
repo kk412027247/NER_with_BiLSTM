@@ -1,0 +1,6 @@
+Afghan and NATO forces have killed 20 Taleban militants during fighting in southern Afghanistan .,B-gpe O B-org O O O O B-org O O O O B-geo I-geo O,JJ CC NNP NNS VBP VBN CD NNP NNS IN VBG IN JJ NNP .
+A local police chief says the clash occurred late Wednesday in the Shah Wali Kot district of Kandahar province .,O O O O O O O O O B-tim O O B-org I-org I-org O O B-geo O O,DT JJ NN NN VBZ DT NN VBD JJ NNP IN DT NNP NNP NNP NN IN NNP NN .
+The police chief says three of the 20 Taleban fighters ' bodies were found .,O O O O O O O O B-org O O O O O O,DT NN NN VBZ CD IN DT CD NNP NNS POS NNS VBD VBN .
+Authorities say there were no injuries among Afghan or NATO forces .,O O O O O O O B-gpe O B-org O O,NNS VBP EX VBD DT NNS IN JJ CC NNP NNS .
+Militant attacks have soared in recent months in Afghanistan .,O O O O O O O O B-geo O,JJ NNS VBP VBN IN JJ NNS IN NNP .
+"More than 3,000 people have been killed this year as Afghan , NATO and U.S. forces battle Taleban fighters .",O O O O O O O O O O B-gpe O B-org O B-geo O O B-org O O,"JJR IN CD NNS VBP VBN VBN DT NN IN JJ , NNP CC NNP NNS VBP NNP NNS ."

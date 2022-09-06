@@ -1,0 +1,7 @@
+Mexican lawmakers have approved legislation that restricts smoking in bars and restaurants and prohibits it in other enclosed public places across the country .,B-gpe O O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN NN WDT VBZ NN IN NNS CC NNS CC VBZ PRP IN JJ JJ JJ NNS IN DT NN .
+"Under the new measure , smoking will be banned in indoor workplaces and public buildings .",O O O O O O O O O O O O O O O O,"IN DT JJ NN , NN MD VB VBN IN JJ NNS CC JJ NNS ."
+"The law will prohibit the sale of individual cigarettes , which is common practice among street vendors .",O O O O O O O O O O O O O O O O O O,"DT NN MD VB DT NN IN JJ NNS , WDT VBZ JJ NN IN NN NNS ."
+Smoking in bars and restaurants will only be permitted in separate rooms or ventilated areas .,O O O O O O O O O O O O O O O O,VBG IN NNS CC NNS MD RB VB VBN IN JJ NNS CC VBN NNS .
+"Businesses that violate the anti-smoking law could be fined more than $ 40,000 .",O O O O O O O O O O O O O O,NNS WDT VBP DT JJ NN MD VB VBN JJR IN $ CD .
+The bill must still be signed by President Felipe Calderon .,O O O O O O O B-per I-per I-per O,DT NN MD RB VB VBN IN NNP NNP NNP .
+"Other countries that have enacted restrictions on smoking include France , Thailand and Turkey .",O O O O O O O O O B-geo O B-geo O B-geo O,"JJ NNS WDT VBP VBN NNS IN NN VBP NNP , NNP CC NNP ."

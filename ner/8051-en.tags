@@ -1,0 +1,5 @@
+China 's state-run news agency says a coal mine accident in central Henan province has killed 13 miners and left 66 missing .,B-geo O O O O O O O O O O O B-geo O O O O O O O O O O,NNP POS JJ NN NN VBZ DT NN NN NN IN JJ NNP NN VBZ VBN CD NNS CC VBD CD JJ .
+"Xinhua , citing the state 's work safety agency , says Tuesday 's accident took place in Pingdingshan city .",B-org O O O O O O O O O O B-tim O O O O O B-geo O O,"NNP , VBG DT NN POS NN NN NN , VBZ NNP POS NN VBD NN IN NNP NN ."
+It gave no other information .,O O O O O O,PRP VBD DT JJ NN .
+Chinese coal mines are notoriously dangerous .,B-gpe O O O O O O,JJ NN NNS VBP RB JJ .
+"Accidents killed more than 3,000 people last year",O O O O O O O O,NNS VBD JJR IN CD NNS JJ NN

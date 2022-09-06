@@ -1,0 +1,6 @@
+Chinese officials say at least 27 workers are confirmed dead after a gas explosion tore through a coal mine in China 's northwest Shaanxi province .,B-gpe O O O O O O O O O O O O O O O O O O O B-geo O O O O O,JJ NNS VBP IN JJS CD NNS VBP VBN JJ IN DT NN NN VBD IN DT NN NN IN NNP POS JJS NNP NN .
+China 's official Xinhua news agency says 39 miners were working at the Wayaobao mine in Zichang county when the blast happened Saturday .,B-geo O O B-org O O O O O O O O O B-geo O O B-geo O O O O O B-tim O,NNP POS JJ NNP NN NN VBZ CD NNS VBD VBG IN DT NNP NN IN NNP NN WRB DT NN VBD NNP .
+Five workers remain missing .,O O O O O,CD NNS VBP JJ .
+Seven miners escaped with minor injuries .,O O O O O O O,CD NNS VBD IN JJ NNS .
+China 's mines are the world 's deadliest .,B-geo O O O O O O O O,NNP POS NNS VBP DT NN POS JJS .
+"Thousands of workers are killed each year in fires , explosions , floods and cave-ins , despite government efforts to improve safety .",O O O O O B-tim O O O O O O O O O O O O O O O O O,"NNS IN NNS VBP VBN DT NN IN NNS , NNS , NNS CC NNS , IN NN NNS TO VB NN ."

@@ -1,0 +1,9 @@
+"Funerals were held Tuesday for 17 people killed by a drunken tractor driver in Yuanshi county , a rural part of China 's northern Hebei province .",O O O B-tim O O O O O O O O O O B-geo O O O O O O B-geo O O B-geo O O,"NNS VBD VBN NNP IN CD NNS VBN IN DT JJ NN NN IN NNP NN , DT JJ NN IN NNP POS JJ NNP NN ."
+Local officials say 38-year-old Li Xianliang went on a killing rampage Sunday after arguing with his supervisor about money while drinking .,O O O O B-per I-per O O O O O B-tim O O O O O O O O O O,JJ NNS VBP JJ NNP NNP VBD IN DT NN NN NNP IN VBG IN PRP$ NN IN NN IN NN .
+"Li allegedly killed his boss and later drove an earth-moving vehicle down a village road , tearing through buildings and crushing cars along the way .",B-per O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP RB VBD PRP$ NN CC RB VBD DT JJ NN IN DT NN NN , VBG IN NNS CC VBG NNS IN DT NN ."
+The Associated Press said desperate villagers tried to stop the driver by jumping on his vehicle .,B-org I-org I-org O O O O O O O O O O O O O O,DT NNP NNP VBD JJ NNS VBD TO VB DT NN IN VBG IN PRP$ NN .
+It said a villager finally managed to stab him .,O O O O O O O O O O,PRP VBD DT NN RB VBD TO VB PRP .
+Li was later subdued and taken into police custody .,B-per O O O O O O O O O,NNP VBD RB VBN CC VBN IN NN NN .
+"The Chinese government has been dealing with a growing number of killing sprees , often committed by men angered about their working conditions or family relations .",O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN VBZ VBN VBG IN DT VBG NN IN NN NNS , RB VBN IN NNS VBN IN PRP$ VBG NNS CC NN NNS ."
+Some of the victims have included children .,O O O O O O O O,DT IN DT NNS VBP VBN NNS .
+Courts usually hand out death sentences to the perpetrators .,O O O O O O O O O O,NNS RB VB RP NN NNS TO DT NNS .

@@ -1,0 +1,5 @@
+A British Royal Air Force doctor has appeared in a military court and pleaded not guilty to five charges of failing to comply with orders after refusing to go to Iraq .,O B-gpe B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O B-geo O,DT JJ NNP NNP NNP NN VBZ VBN IN DT JJ NN CC VBD RB JJ TO CD NNS IN VBG TO VB IN NNS IN VBG TO VB TO NNP .
+The Flight Lieutenant Malcolm Kendall-Smith refused to attend training in advance of deployment to Basra last year .,O B-org I-org I-org I-org O O O O O O O O O B-geo O O O,DT NNP NNP NNP NNP VBD TO VB NN IN NN IN NN TO NNP JJ NN .
+He said he believed the 2003 U.S.-led invasion of Iraq was illegal .,O O O O O B-tim I-tim I-tim I-tim B-geo O O O,PRP VBD PRP VBD DT CD JJ NN IN NNP VBD JJ .
+The prosecutor told the court the presence of British forces in Iraq was not unlawful .,O O O O O O O O B-gpe O O B-geo O O O O,DT NN VBD DT NN DT NN IN JJ NNS IN NNP VBD RB JJ .
+The officer had already completed tours of duty in Iraq .,O O O O O O O O O B-geo O,DT NN VBD RB VBN NNS IN NN IN NNP .

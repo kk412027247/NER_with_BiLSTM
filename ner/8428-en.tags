@@ -1,0 +1,5 @@
+Sweden will have the chance to add the Olympic Games women 's curling title to its world and European crowns .,B-per O O O O O O O O O O O O O O O O O O O O,NNP MD VB DT NN TO VB DT NNP NNPS NNS POS VBG NN TO PRP$ NN CC JJ NNS .
+The Swedes reached the tournament final at the Turin Winter Games with a 5-4 semifinal victory over Norway Wednesday .,O B-gpe O O O O O O B-org I-org O O O O O O O B-geo B-tim O,DT NNS VBD DT NN JJ IN DT NNP NNP NNPS IN DT CD JJ NN IN NNP NNP .
+"In the final on Thursday , Sweden will face Switzerland , which was a 7-5 winner over 1998 Olympic champion Canada .",O O O O B-tim O B-per O O B-geo O O O O O O O B-tim O O B-geo O,"IN DT JJ IN NNP , NNP MD VB NNP , WDT VBD DT CD NN IN CD JJ NN NNP ."
+Both Sweden and Switzerland will compete for gold with identical records in Turin .,O B-per O B-geo O O O O O O O O B-org O,DT NNP CC NNP MD VB IN NN IN JJ NNS IN NNP .
+Each finished the preliminary round with win-loss records of 7-2 in the 10-nation tournament .,O O O O O O O O O O O O O O O,DT VBD DT JJ NN IN JJ NNS IN CD IN DT JJ NN .

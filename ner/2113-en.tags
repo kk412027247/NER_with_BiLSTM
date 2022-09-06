@@ -1,0 +1,7 @@
+Russian President Vladimir Putin has suggested changes to soften a draft law that would place restrictions on non-governmental organizations .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN NNS TO VB DT NN NN WDT MD VB NNS IN JJ NNS .
+A Kremlin statement says the Russian leader has suggested scrapping a clause that would require foreign NGOs to register as Russian entities .,O B-org O O O B-gpe O O O O O O O O O O O O O O B-gpe O O,DT NNP NN VBZ DT JJ NN VBZ VBN VBG DT NN WDT MD VB JJ NNS TO VB IN JJ NNS .
+"Instead , Mr. Putin proposed that they be required only to inform authorities of their presence .",O O B-per I-per O O O O O O O O O O O O O,"RB , NNP NNP VBD IN PRP VB VBN RB TO VB NNS IN PRP$ NN ."
+The draft law also would expand government oversight of non-governmental groups and ban their acceptance of foreign funds for political activities .,O O O O O O O O O O O O O O O O O O O O O O,DT NN NN RB MD VB NN NN IN JJ NNS CC VB PRP$ NN IN JJ NNS IN JJ NNS .
+"Human rights groups and western governments have expressed concern over the measure , calling it a reflection of the Kremlin 's crackdown on civil society institutions .",O O O O O O O O O O O O O O O O O O O B-org O O O O O O O,"JJ NNS NNS CC JJ NNS VBP VBN NN IN DT NN , VBG PRP DT NN IN DT NNP POS NN IN JJ NN NNS ."
+Russian lawmakers gave preliminary approval to the draft last month .,B-gpe O O O O O O O O O O,JJ NNS VBD JJ NN TO DT NN JJ NN .
+Two more votes are required for final approval .,O O O O O O O O O,CD JJR NNS VBP VBN IN JJ NN .

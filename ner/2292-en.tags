@@ -1,0 +1,8 @@
+Chinese health officials are reporting a suspected case of avian flu in a man hospitalized in critical condition in Guangdong province .,B-gpe O O O O O O O O O O O O O O O O O O B-geo O O,JJ NN NNS VBP VBG DT JJ NN IN JJ NN IN DT NN VBN IN JJ NN IN NNP NN .
+The Hong Kong Department of Health reports Tuesday that the 31-year-old patient is being treated at a hospital in Shenzhen near Hong Kong .,O B-geo I-geo B-org I-org I-org O B-tim O O O O O O O O O O O B-geo O B-geo I-geo O,DT NNP NNP NNP IN NNP VBZ NNP IN DT JJ NN VBZ VBG VBN IN DT NN IN NNP IN NNP NNP .
+They say he developed fever and pneumonia June 3 .,O O O O O O O B-tim I-tim O,PRP VBP PRP VBD NN CC NN NNP CD .
+The health officials say the man reportedly had visited a local market in Shenzhen where live chickens were sold .,O O O O O O O O O O O O O B-geo O O O O O O,DT NN NNS VBP DT NN RB VBD VBN DT JJ NN IN NNP WRB JJ NNS VBD VBN .
+Officials in Hong Kong are urging the public to take health precautions and to watch for bird flu symtoms .,O O B-geo I-geo O O O O O O O O O O O O O O O O,NNS IN NNP NNP VBP VBG DT NN TO VB NN NNS CC TO VB IN NN NN NNS .
+There is a good deal of travel between the city and Guangdong province .,O O O O O O O O O O O B-geo O O,EX VBZ DT JJ NN IN NN IN DT NN CC NNP NN .
+Bird flu has killed more than 125 people around the world since late 2003 .,O O O O O O O O O O O O O B-tim O,NN NN VBZ VBN JJR IN CD NNS IN DT NN IN JJ CD .
+Most of the victims have been in Asia .,O O O O O O O B-geo O,JJS IN DT NNS VBP VBN IN NNP .

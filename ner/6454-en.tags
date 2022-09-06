@@ -1,0 +1,9 @@
+The U.S. embassy in Iraq says a rocket attack on Baghdad 's heavily fortified Green Zone has killed three people and wounded 15 others .,O B-geo O O B-geo O O O O O B-geo O O O B-org I-org O O O O O O O O O,DT NNP NN IN NNP VBZ DT NN NN IN NNP POS RB VBN NNP NNP VBZ VBN CD NNS CC VBD CD NNS .
+The embassy said those killed in the attack Thursday include two Ugandans and a Peruvian .,O O O O O O O O B-tim O O B-gpe O O B-gpe O,DT NN VBD DT VBN IN DT NN NNP VBP CD NNS CC DT NN .
+All of the victims were working for an American security contractor .,O O O O O O O O B-gpe O O O,DT IN DT NNS VBD VBG IN DT JJ NN NN .
+The Green Zone is home to Iraqi government buildings as well as the U.S. embassy .,O B-org I-org O O O B-gpe O O O O O O B-geo O O,DT NNP NNP VBZ NN TO JJ NN NNS RB RB IN DT NNP NN .
+"Elsewhere in Iraq Thursday , gunmen killed at least two people in separate attacks , including a Sunni cleric .",O O B-geo B-tim O O O O O O O O O O O O O O O O,"RB IN NNP NNP , NNS VBD IN JJS CD NNS IN JJ NNS , VBG DT NNP NN ."
+Police say the cleric ( Fathi al-Nuaimi ) was killed in the northern city of Mosul .,O O O O O B-per I-per O O O O O O O O B-geo O,NNS VBP DT NN LRB NNP NNP RRB VBD VBN IN DT JJ NN IN NNP .
+"In another attack in the city , gunmen killed a bystander after opening fire on a policeman .",O O O O O O O O O O O O O O O O O O,"IN DT NN IN DT NN , NNS VBD DT NN IN VBG NN IN DT NN ."
+Police say the officer and another civilian were wounded in the attack .,O O O O O O O O O O O O O,NNS VBP DT NN CC DT JJ VBD VBN IN DT NN .
+"Mosul has remained an active area for insurgents , even as security in other parts of the country has improved and violence has diminished .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN DT JJ NN IN NNS , RB IN NN IN JJ NNS IN DT NN VBZ VBN CC NN VBZ VBN ."

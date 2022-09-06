@@ -1,0 +1,8 @@
+"An Iraqi appeals court has upheld the death sentence for Saddam Hussein 's former vice president , Taha Yassin Ramadan , for his role in the killing of 148 Shi'ite Muslims in 1982 .",O B-gpe O O O O O O O O B-per I-per O O O O O B-org I-org I-org O O O O O O O O O O O O B-tim O,"DT JJ NNS NN VBZ VBN DT NN NN IN NNP NNP POS JJ NN NN , NNP NNP NNP , IN PRP$ NN IN DT NN IN CD NNP NNPS IN CD ."
+"The court confirmed Thursday that Ramadan will be hanged , which is the method of state execution in Iraq .",O O O B-tim O B-org O O O O O O O O O O O O B-geo O,"DT NN VBD NNP IN NNP MD VB VBN , WDT VBZ DT NN IN NN NN IN NNP ."
+The government now has to set a date for the execution .,O O O O O O O O O O O O,DT NN RB VBZ TO VB DT NN IN DT NN .
+Ramadan was convicted late last year with Saddam Hussein and six others .,B-org O O O O O O B-per I-per O O O O,NNP VBD VBN RB JJ NN IN NNP NNP CC CD NNS .
+Ramadan initially was sentenced to life in prison .,B-org O O O O O O O O,NNP RB VBD VBN TO NN IN NN .
+But an appeals court ruled that sentence was too lenient and asked the lower court to consider the death penalty .,O O O O O O O O O O O O O O O O O O O O O,CC DT NNS NN VBD DT NN VBD RB JJ CC VBD DT JJR NN TO VB DT NN NN .
+The decision to give Ramadan the maximum sentence ignored appeals from international human rights groups .,O O O O B-org O O O O O O O O O O O,DT NN TO VB NNP DT JJ NN VBD NNS IN JJ JJ NNS NNS .
+"Saddam Hussein was hanged in December , and two of his co-defendants were executed in January .",B-per I-per O O O B-tim O O O O O O O O O B-tim O,"NNP NNP VBD VBN IN NNP , CC CD IN PRP$ NNS VBD VBN IN NNP ."

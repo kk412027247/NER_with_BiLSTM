@@ -1,0 +1,9 @@
+Japan says it will withdraw its air defense forces from Iraq by the end of the year .,B-geo O O O O O O O O O B-geo O O B-tim I-tim O O O,NNP VBZ PRP MD VB PRP$ NN NN NNS IN NNP IN DT NN IN DT NN .
+Defense Minister Yoshimasa Hayashi announced the plan Thursday in Tokyo .,O O B-per I-per O O O B-tim O B-geo O,NNP NNP NNP NNP VBD DT NN NNP IN NNP .
+Japan 's Air Self-Defense Force has been airlifting materials and troops between Kuwait and locations in Iraq since 2006 .,B-geo O B-geo I-geo I-geo O O O O O O O B-geo O O O B-geo B-tim I-tim O,NNP POS NNP NNP NNP VBZ VBN VBG NNS CC NNS IN NNP CC NNS IN NNP IN CD .
+White House spokesman Gordon Johndroe issued a statement praising Japan 's contributions in Iraq .,B-org I-org O B-per I-per O O O O B-geo O O O B-geo O,NNP NNP NN NNP NNP VBD DT NN VBG NNP POS NNS IN NNP .
+"He said Japan will continue to be a "" significant partner in the war on terrorism . """,O O B-geo O O O O O O O O O O O O O O O,PRP VBD NNP MD VB TO VB DT LQU JJ NN IN DT NN IN NN . LQU
+"Japan initially deployed ground forces to Iraq in 2003 , in support of the U.S. led-invasion .",B-geo O O O O O B-geo O B-tim O O O O O B-geo I-geo O,"NNP RB VBD NN NNS TO NNP IN CD , IN NN IN DT NNP NN ."
+"The troops conducted a humanitarian mission in the south , building schools and roads , and providing clean water .",O O O O O O O O O O O O O O O O O O O O,"DT NNS VBD DT JJ NN IN DT NN , VBG NNS CC NNS , CC VBG JJ NN ."
+It was the first overseas deployment of Japanese troops since World War II .,O O O O O O O B-gpe O O O O B-eve O,PRP VBD DT JJ JJ NN IN JJ NNS IN NNP NNP NNP .
+Many Japanese opposed the mission because they were against the war or believed it violated Japan 's pacifist constitution .,O B-gpe O O O O O O O O O O O O O B-geo O O O O,JJ NNS VBD DT NN IN PRP VBD IN DT NN CC VBD PRP VBD NNP POS NN NN .

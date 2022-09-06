@@ -1,0 +1,7 @@
+The United Nations refugee agency says at least 22 people died when a smuggler 's boat carrying Ethiopians and Somalis capsized off the coast of Yemen on Saturday .,O B-org I-org O O O O O O O O O O O O O O B-gpe B-org B-gpe O O O O O B-geo O B-tim O,DT NNP NNP NN NN VBZ IN JJS CD NNS VBD WRB DT NN POS NN VBG NNS CC NNS VBD RP DT NN IN NNP IN NNP .
+It says another 28 passengers aboard the vessel are missing .,O O O O O O O O O O O,PRP VBZ DT CD NNS IN DT NN VBP VBG .
+The boat had set sail from a village near the Somali town of Bossaso - a major departure point for African migrant smugglers crossing the Gulf of Aden .,O O O O O O O O O O B-gpe O O B-geo I-geo O O O O O B-gpe O O O O B-geo I-geo I-geo O,DT NN VBD VBN NN IN DT NN IN DT JJ NN IN NNP IN DT JJ NN NN IN JJ NN NNS VBG DT NNP IN NNP .
+The U.N. says the boat was carrying 125 people in all .,O B-org O O O O O O O O O O,DT NNP VBZ DT NN VBD VBG CD NNS IN DT .
+"Most of them were Ethiopians , along with ten Somalis and five crew members .",O O O O B-gpe O O O O B-gpe O O O O O,"JJS IN PRP VBD NNS , IN IN JJ NNS CC CD NN NNS ."
+Forty-three Ethiopians and two crew members have been detained by Yemeni authorities .,O B-gpe O O O O O O O O B-gpe O O,CD NNS CC CD NN NNS VBP VBN VBN IN JJ NNS .
+Thousands of Somalis and Ethiopians try to reach Yemen each year in a bid to escape their home countries ' poverty .,O O B-gpe O B-gpe O O O B-geo B-tim O O O O O O O O O O O O,NNS IN NNS CC NNS VBP TO VB NNP DT NN IN DT NN TO VB PRP$ NN NNS POS NN .

@@ -1,0 +1,7 @@
+Venezuela 's president has invited Haiti to join a program offering inexpensive oil to Caribbean nations .,B-geo O O O O B-geo O O O O O O O O B-geo O O,NNP POS NN VBZ VBN NNP TO VB DT NN NN JJ NN TO NNP NNS .
+The offer came during a visit Monday to Caracas by Haiti 's President-Elect Rene Preval .,O O O O O O B-tim O B-geo O B-geo O O B-per I-per O,DT NN VBD IN DT NN NNP TO NNP IN NNP POS JJ NNP NNP .
+Mr. Preval met with Venezuelan president Hugo Chavez .,B-per I-per O O B-gpe O B-per I-per O,NNP NNP VBD IN JJ NN NNP NNP .
+They discussed Haiti 's inclusion in Venezuela 's Petrocaribe program which offers generous payment options to Caribbean countries for the purchase of Venezuelan oil .,O O B-geo O O O B-geo O B-geo O O O O O O O B-geo O O O O O B-gpe O O,PRP VBD NNP POS NN IN NNP POS NNP NN WDT VBZ JJ NN NNS TO JJ NNS IN DT NN IN JJ NN .
+"During the meeting , Mr. Chavez said Venezuela would also donate diesel fuel for use by schools and hospitals in Haiti .",O O O O B-per I-per O B-geo O O O O O O O O O O O O B-geo O,"IN DT NN , NNP NNP VBD NNP MD RB VB NN NN IN NN IN NNS CC NNS IN NNP ."
+Mr. Preval was elected in February following a campaign of promises to improve social conditions and education for Haitians .,B-per I-per O O O B-tim O O O O O O O O O O O O B-gpe O,NNP NNP VBD VBN IN NNP VBG DT NN IN NNS TO VB JJ NNS CC NN IN NNS .
+He will be inaugurated on May 14 .,O O O O O B-tim I-tim O,PRP MD VB VBN IN NNP CD .

@@ -1,0 +1,6 @@
+"North Korea says flooding caused by last week 's typhoon , Wipha , has destroyed 14,000 homes and 109,000 hectares of crops .",B-geo I-geo O O O O O O O O O B-per O O O O O O O O O O O,"NNP NNP VBZ NN VBN IN JJ NN POS NN , NNP , VBZ VBN CD NNS CC CD NNS IN NNS ."
+The state news agency KCNA reported the damage Monday .,O O O O B-org O O O B-tim O,DT NN NN NN NNP VBD DT NN NNP .
+"It says the floods also destroyed or damaged 8,000 public buildings and washed out roads , bridges and railways .",O O O O O O O O O O O O O O O O O O O O,"PRP VBZ DT NNS RB VBD CC VBD CD JJ NNS CC VBD RP NNS , NNS CC NNS ."
+The report did not mention any deaths or injuries .,O O O O O O O O O O,DT NN VBD RB VB DT NNS CC NNS .
+"Most of the heavy rains and flooding occurred in the southwestern part of the country , including the capital , Pyongyang .",O O O O O O O O O O O O O O O O O O O O B-geo O,"JJS IN DT JJ NNS CC NN VBD IN DT JJ NN IN DT NN , VBG DT NN , NNP ."
+"Last month , severe flooding in North Korea left 600 people dead or missing , and displaced more than 100,000 others .",O O O O O O B-geo I-geo O O O O O O O O O O O O O O,"JJ NN , JJ NN IN NNP NNP VBD CD NNS JJ CC JJ , CC VBD JJR IN CD NNS ."

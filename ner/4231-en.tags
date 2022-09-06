@@ -1,0 +1,7 @@
+"Authorities in Rwanda have released some 8,000 prisoners accused of involvement in the country 's 1994 genocide .",O O B-geo O O O O O O O O O O O O B-tim O O,NNS IN NNP VBP VBN DT CD NNS VBN IN NN IN DT NN POS CD NN .
+The mass release Monday was part of a planned government initiative to ease crowding in the prison system and promote national reconcilation .,O O O B-tim O O O O O O O O O O O O O O O O O O O,DT NN NN NNP VBD NN IN DT JJ NN NN TO VB NN IN DT NN NN CC VB JJ NN .
+Officials emphasized that no leaders of the genocide were freed .,O O O O O O O O O O O,NNS VBD IN DT NNS IN DT NN VBD VBN .
+"However , some genocide survivors have expressed anger at the release program .",O O O O O O O O O O O O O,"RB , DT NN NNS VBP VBN NN IN DT NN NN ."
+They say those set free sometimes murder others in order to destroy evidence related to their alleged role in the killings .,O O O O O O O O O O O O O O O O O O O O O O,PRP VBP DT VBN JJ RB NN NNS IN NN TO VB NN VBN TO PRP$ JJ NN IN DT NNS .
+"Hutu extremists killed an estimated 800,000 ethnic Tutsis and politically-moderate Hutus in the 1994 genocide .",B-per O O O O O O O O O O O O B-tim O O,NNP NNS VBD DT VBN CD JJ NN CC JJ NN IN DT CD NN .
+"The Rwandan government has freed a total of 60,000 genocide suspects since 2003 .",O B-gpe O O O O O O O O O B-tim I-tim O,DT JJ NN VBZ VBN DT NN IN CD NN NNS IN CD .

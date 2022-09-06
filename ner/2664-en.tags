@@ -1,0 +1,5 @@
+French Prime Minister Jean-Pierre Raffarin has successfully undergone gall bladder surgery .,B-org I-org B-per I-per I-per O O O O O O O,NNP NNP NNP NNP NNP VBZ RB VBN NN NN NN .
+Defense ministry officials say the surgery Saturday went well and they indicate that Mr. Raffarin will remain in the hospital for several days .,O O O O O O B-tim O O O O O O B-per I-per O O O O O O B-tim O O,NNP NN NNS VBP DT NN NNP VBD RB CC PRP VBP IN NNP NNP MD VB IN DT NN IN JJ NNS .
+"Earlier Saturday , Mr. Raffarin abruptly canceled plans to travel to World War II anniversary ceremonies in the city of Reims .",O B-tim O B-per I-per O O O O O O O O B-eve O O O O O O B-org O,"RBR NNP , NNP NNP RB VBD NNS TO VB TO NNP NNP NNP NN NNS IN DT NN IN NNP ."
+"Instead , he entered the Paris Val De Grace military hospital .",O O O O O B-geo I-geo I-geo I-geo O O O,"RB , PRP VBD DT NNP NNP NNP NNP JJ NN ."
+The 56-year-old Mr. Raffarin assumed the post of prime minister three years ago .,O O B-per I-per O O O O O O B-tim O O O,DT JJ NNP NNP VBD DT NN IN JJ NN CD NNS RB .

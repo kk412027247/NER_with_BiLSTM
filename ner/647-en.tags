@@ -1,0 +1,7 @@
+"Venezuelan authorities have said they will redistribute more than 110,000 hectares of privately-held property to landless farmers .",B-gpe O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN PRP MD VB JJR IN CD NNS IN JJ NN TO JJ NNS .
+The land seizure is part of an agrarian reform effort led by President Hugo Chavez .,O O O O O O O O O O O O B-per I-per I-per O,DT NN NN VBZ NN IN DT JJ NN NN VBN IN NNP NNP NNP .
+"Since his 1998 election , President Chavez has enacted controversial reform laws , including a 2001 land law aimed at narrowing the gap between Venezuela 's rich and poor .",O O B-tim O O B-per I-per O O O O O O O O B-tim O O O O O O O O B-geo O O O O O,"IN PRP$ CD NN , NNP NNP VBZ VBN JJ NN NNS , VBG DT CD NN NN VBN IN VBG DT NN IN NNP POS NN CC NN ."
+The law allows the government to redistribute unused land to the poor .,O O O O O O O O O O O O O,DT NN VBZ DT NN TO VB JJ NN TO DT NN .
+"Critics say the law violates property rights , and could lead to illegal land grabs .",O O O O O O O O O O O O O O O O,"NNS VBP DT NN VBZ NN NNS , CC MD VB TO JJ NN NNS ."
+"One of four estates to be redistributed includes a 13,000 hectare cattle ranch owned by a British company .",O O O O O O O O O O O O O O O O B-gpe O O,CD IN CD NNS TO VB VBN VBZ DT CD NN NNS NN VBN IN DT JJ NN .
+"The company has said it legally owns the property , and that the land is fully productive .",O O O O O O O O O O O O O O O O O O,"DT NN VBZ VBN PRP RB VBZ DT NN , CC IN DT NN VBZ RB JJ ."

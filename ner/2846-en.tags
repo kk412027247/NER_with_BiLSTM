@@ -1,0 +1,9 @@
+Ukraine 's parliament has set the inauguration of President-elect Viktor Yushchenko for Sunday .,B-geo O O O O O O O O O O O B-tim O,NNP POS NN VBZ VBN DT NN IN JJ NNP NNP IN NNP .
+"Thursday 's decision came hours after the Supreme Court threw out the final legal appeal by former Prime Minister Viktor Yanukovych , who alleged that last month 's election was fraudulent .",B-tim O O O O O O B-org I-org O O O O O O O O B-per O B-per I-per O O O O O O O O O O O,"NNP POS NN VBD NNS IN DT NNP NNP VBD RP DT JJ JJ NN IN JJ NNP NNP NNP NNP , WP VBD IN JJ NN POS NN VBD JJ ."
+Chief Justice Anatoly Varema calls the court 's decision final .,O B-org I-org I-org O O O O O O O,NNP NNP NNP NNP VBZ DT NN POS NN JJ .
+"Mr. Yanukovych has finally conceded defeat , telling Ukrainian television Thursday that the election campaign is over .",B-per I-per O O O O O O B-gpe O B-tim O O O O O O O,"NNP NNP VBZ RB VBN NN , VBG JJ NN NNP IN DT NN NN VBZ IN ."
+He called on supporters to end their protests and begin what he calls a new political struggle .,O O O O O O O O O O O O O O O O O O,PRP VBD IN NNS TO VB PRP$ NNS CC VB WP PRP VBZ DT JJ JJ NN .
+But his legal team plans to appeal the election to the European Court of Human Rights .,O O O O O O O O O O O B-org I-org I-org I-org I-org O,CC PRP$ JJ NN VBZ TO VB DT NN TO DT NNP NNP IN NNP NNP .
+"Meanwhile , Russian President Vladimir Putin , who backed Mr. Yanukovych , congratulated Mr. Yushchenko .",O O B-gpe B-per I-per I-per O O O B-per I-per O O B-per B-geo O,"RB , JJ NNP NNP NNP , WP VBD NNP NNP , VBD NNP NNP ."
+U.S. Secretary of State Colin Powell will travel to Kiev for Sunday 's inauguration .,B-org O B-org I-org I-org I-org O O O B-geo O B-tim O O O,NNP NNP IN NNP NNP NNP MD VB TO NNP IN NNP POS NN .
+NATO is sending Secretary General Jaap de Hoop Scheffer .,B-org O O O B-org I-org I-org I-org I-org O,NNP VBZ VBG NNP NNP NNP IN NNP NNP .

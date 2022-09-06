@@ -1,0 +1,5 @@
+The economy of Saint Martin centers around tourism with 85 % of the labor force engaged in this sector .,O O O B-org I-org O O O O O O O O O O O O O B-tim O,DT NN IN NNP NNP NNS IN NN IN CD NN IN DT NN NN VBN IN DT NN .
+Over one million visitors come to the island each year with most arriving through the Princess Juliana International Airport in Sint Maarten .,O O O O O O O O O O O O O O O B-geo I-geo I-geo I-geo O B-geo I-geo O,IN CD CD NNS VBN TO DT NN DT NN IN JJS VBG IN DT NNP NNP NNP NNP IN NNP NNP .
+No significant agriculture and limited local fishing means that almost all food must be imported .,O O O O O O O O O O O O O O O O,DT JJ NN CC JJ JJ NN VBZ IN RB DT NN MD VB VBN .
+"Energy resources and manufactured goods are also imported , primarily from Mexico and the United States .",O O O O O O O O O O O B-geo O O B-geo I-geo O,"NNP NNS CC VBN NNS VBP RB VBN , RB IN NNP CC DT NNP NNPS ."
+Saint Martin is reported to have the highest per capita income in the Caribbean .,B-org I-org O O O O O O O O O O O B-geo O,NNP NNP VBZ VBN TO VB DT JJS IN NN NN IN DT NNP .

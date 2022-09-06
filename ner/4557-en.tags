@@ -1,0 +1,6 @@
+St. Nicholas is the main Claus .,B-geo I-geo O O O O O,NNP NNP VBZ DT JJ NN .
+His wife is a relative Claus .,O O O O O O O,PRP$ NN VBZ DT JJ NN .
+His children are dependent Clauses .,O O O O O O,PRP$ NNS VBP JJ NNS .
+Their Dutch uncle is a restrictive Claus .,O B-gpe O O O O O O,PRP$ JJ NN VBZ DT JJ NN .
+"As a group , they 're all renoun Clauses .",O O O O O O O O O O,"IN DT NN , PRP VBP DT NN NNS ."
+Santa 's elves are subordinate Clauses .,B-geo O O O O O O,NNP POS NNS VBP JJ NNS .

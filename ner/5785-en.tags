@@ -1,0 +1,7 @@
+Authorities say gunmen have abducted a British oil worker from a drilling rig off the coast of Nigeria .,O O O O O O B-gpe O O O O O O O O O O B-geo O,NNS VBP NNS VBP VBN DT JJ NN NN IN DT NN NN IN DT NN IN NNP .
+"A spokesman for the U.S.-based operator , Transocean , said the attackers Saturday boarded the "" Trident Eight "" rig and seized one of the workers .",O O O O O O O B-org O O O O B-tim O O O B-org I-org I-org O O O O O O O O,"DT NN IN DT JJ NN , NNP , VBD DT NNS NNP VBD DT LQU NNP CD LQU NN CC VBD CD IN DT NNS ."
+The spokesman said the other 23 people on the rig were left unharmed .,O O O O O O O O O O O O O O,DT NN VBD DT JJ CD NNS IN DT NN VBD VBN JJ .
+"Such kidnappings are common in the region , where criminal gangs are active , and where militants have demanded that the government give more of the region 's oil wealth to impoverished locals .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP JJ IN DT NN , WRB JJ NNS VBP JJ , CC WRB NNS VBP VBN IN DT NN VB JJR IN DT NN POS NN NN TO JJ NNS ."
+Nearly 200 foreign workers have been abducted over the past year in the region .,O O O O O O O O O B-tim O O O O O,RB CD JJ NNS VBP VBN VBN IN DT JJ NN IN DT NN .
+"Most have been released unharmed , often after a ransom was paid .",O O O O O O O O O O O O O,"JJS VBP VBN VBN JJ , RB IN DT NN VBD VBN ."
+"The attacks have forced the shutdown of oil facilities , crippling Nigeria 's oil industry .",O O O O O O O O O O O B-geo O O O O,"DT NNS VBP VBN DT NN IN NN NNS , VBG NNP POS NN NN ."

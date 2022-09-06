@@ -1,0 +1,8 @@
+Japanese prosecutors have indicted a U.S. sailor in connection with the death of a Japanese woman .,B-gpe O O O O B-geo O O O O O O O O B-gpe O O,JJ NNS VBP VBN DT NNP NN IN NN IN DT NN IN DT JJ NN .
+"William Oliver Reese , 21 , is accused of robbing and fatally beating 56-year-old Yoshie Sato on January 3 .",B-per I-per I-per O O O O O O O O O O O B-per I-per O B-tim I-tim O,"NNP NNP NNP , CD , VBZ VBN IN VBG CC RB VBG JJ NNP NNP IN NNP CD ."
+"Japanese authorities say the attack occurred near the U.S. Navy base in Yokosuka , southwest of Tokyo .",B-gpe O O O O O O O B-org I-org O O B-geo O O O B-geo O,"JJ NNS VBP DT NN VBD IN DT NNP NNP NN IN NNP , NN IN NNP ."
+Reese is stationed on the USS Kitty Hawk aircraft carrier .,B-per O O O O B-org I-org I-org O O O,NNP VBZ VBN IN DT NNP NNP NNP NN NN .
+The homicide has rekindled concerns about crimes committed by U.S. military personnel in Japan .,O O O O O O O O O B-geo O O O B-geo O,DT NN VBZ VBN NNS IN NNS VBN IN NNP JJ NNS IN NNP .
+"In 1995 , Japanese citizens protested against the U.S. military presence after the rape of a schoolgirl in Okinawa .",O B-tim O B-gpe O O O O B-geo O O O O O O O O O B-geo O,"IN CD , JJ NNS VBD IN DT NNP JJ NN IN DT NN IN DT NN IN NNP ."
+This latest incident comes during a crucial time as Washington and Tokyo discuss the reorganization of U.S. troops in Japan .,O O O O O O O O O B-geo O B-geo O O O O B-geo O O B-geo O,DT JJS NN VBZ IN DT JJ NN IN NNP CC NNP VB DT NN IN NNP NNS IN NNP .
+"Roughly 50,000 American troops are stationed in Japan .",O O B-gpe O O O O B-geo O,RB CD JJ NNS VBP VBN IN NNP .

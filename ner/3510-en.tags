@@ -1,0 +1,5 @@
+"The global human rights organization , Amnesty International says that HIV and AIDS are devastating poor women and children in South Africa .",O O O O O O B-org I-org O O B-nat O B-nat O O O O O O O B-geo I-geo O,"DT JJ JJ NNS NN , NNP NNP VBZ IN NNP CC NNP VBP VBG JJ NNS CC NNS IN NNP NNP ."
+"In a report released in London , Amnesty says that poverty , gender inequality and unemployment remain major contributing factors .",O O O O O B-geo O B-org O O O O O O O O O O O O O,"IN DT NN VBN IN NNP , NNP VBZ IN NN , NN NN CC NN VBP JJ JJ NNS ."
+"Pop Singer Annie Lennox is highlighting the issue with her new charity tune called "" Sing . """,O O B-per I-per O O O O O O O O O O O O O O,NN NN NNP NNP VBZ VBG DT NN IN PRP$ JJ NN NN VBD LQU VBG . RQU
+"On a recent trip to Africa , she says she learned how the disease affects women -- especially pregnant mothers and their unborn children -- much more than it does men .",O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN DT JJ NN TO NNP , PRP VBZ PRP VBD WRB DT NN VBZ NNS : RB JJ NNS CC PRP$ JJ NNS : RB JJR IN PRP VBZ NNS ."
+VOA 's Mandy Clark reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

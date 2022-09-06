@@ -1,0 +1,7 @@
+"India has reported new cases of bird flu in nearly 200 villages in the western state of Maharashtra , the site of two earlier outbreaks this year .",B-geo O O O O O O O O O O O O O O O O B-geo O O O O B-tim O B-tim O O O,"NNP VBZ VBN JJ NNS IN NN NN IN RB CD NNS IN DT JJ NN IN NNP , DT NN IN CD JJR NNS DT NN ."
+Officials say they suspect the virus could be the deadly H5N1 strain and tests are underway on samples from the birds .,O O O O O O O O O O O O O O O O O O O O O O,NNS VBP PRP VBP DT NN MD VB DT JJ NNP NN CC NNS VBP JJ IN NNS IN DT NNS .
+No cases were reported in humans .,O O O O O O O,DT NNS VBD VBN IN NNS .
+"Officials say some 250,000 birds would have to be culled .",O O O O O O O O O O O,NNS VBP DT CD NNS MD VB TO VB VBN .
+Reports from the region say the affected villages are in the neighboring states of Maharashtra and Madhya Pradesh .,O O O O O O O O O O O O O O B-geo O B-geo I-geo O,NNS IN DT NN VBP DT JJ NNS VBP IN DT JJ NNS IN NNP CC NNP NNP .
+"The affected region includes Maharashtra 's Jalgaon district , which also reported India 's second set of infections of H5N1 earlier this month .",O O O O B-geo O B-geo O O O O O B-geo O O O O O O O O O O O,"DT JJ NN VBZ NNP POS NNP NN , WDT RB VBD NNP POS JJ NN IN NNS IN NNP RBR DT NN ."
+"Meanwhile , a European laboratory has confirmed that a buzzard found dead in Denmark two weeks ago was infected with the deadly strain of bird flu .",O O O O O O O O O O O O O B-geo B-tim O O O O O O O O O O O O,"RB , DT JJ NN VBZ VBN IN DT NN VBN JJ IN NNP CD NNS RB VBD VBN IN DT JJ NN IN NN NN ."

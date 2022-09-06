@@ -1,0 +1,9 @@
+The presidents of Russia and Syria have held talks at the Kremlin amid controversy over a reported weapons sale between their nations .,O O O B-geo O B-geo O O O O O B-org O O O O O O O O O O O,DT NNS IN NNP CC NNP VBP VBN NNS IN DT NNP IN NN IN DT JJ NNS NN IN PRP$ NNS .
+Russia 's Vladimir Putin and Bashar al-Assad of Syria signed bilateral agreements at Tuesday 's meeting .,B-geo O B-per B-geo O B-geo I-geo I-geo I-geo O O O O B-tim O O O,NNP POS NNP NNP CC NNP NNP IN NNP VBD JJ NNS IN NNP POS NN .
+Russia also agreed to write-off about $ 10 billion of Syria 's more than $ 13 billion debt to Moscow .,B-geo O O O O O O O O B-geo I-geo O O O O O O O O B-geo O,NNP RB VBD TO NN IN $ CD CD IN NNP POS JJR IN $ CD CD NN TO NNP .
+The leaders stressed the importance of building strong relations .,O O O O O O O O O O,DT NNS VBD DT NN IN VBG JJ NNS .
+Mr. al-Assad also said he would welcome an increased Russian role in the Middle East .,B-per B-geo O O O O O O O B-gpe O O O B-geo I-geo O,NNP NNP RB VBD PRP MD VB DT VBN JJ NN IN DT NNP NNP .
+"Earlier , the Syrian leader told university students his country has the right to purchase anti-aircraft missiles for defense .",O O O B-gpe O O O O O O O O O O O O O O O O,"RB , DT JJ NN VBD NN NNS PRP$ NN VBZ DT NN TO VB JJ NNS IN NN ."
+Reports have said Russia planned to sell shoulder-fired SA-18 missiles and larger Iskander-E missiles to Syria - prompting protests from Israel .,O O O B-geo O O O O O O O O O O O B-geo O O O O B-geo O,NNS VBP VBN NNP VBD TO VB JJ JJ NNS CC JJR JJ NNS TO NNP IN VBG NNS IN NNP .
+The Iskander-E would be capable of hitting most of Israel .,O O O O O O O O O B-geo O,DT NN MD VB JJ IN VBG JJS IN NNP .
+The Israelis fear the SA-18 could fall into the hands of Hezbollah guerrillas in Lebanon .,O B-gpe O O O O O O O O O B-org O O B-geo O,DT NNS VBP DT NN MD VB IN DT NNS IN NNP NNS IN NNP .

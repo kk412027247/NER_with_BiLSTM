@@ -1,0 +1,6 @@
+Police in Bangladesh say unidentified gunmen have killed a journalist working for an English-language daily .,O O B-geo O O O O O O O O O O O O O,NNS IN NNP VBP JJ NNS VBP VBN DT NN VBG IN DT JJ NN .
+"Police say the attack on Shahid Anwar , an assistant editor of the Daily Asian Express , occurred late Sunday in the capital , Dhaka .",O O O O O B-per I-per O O O O O O B-org I-org I-org O O O B-tim O O O O B-geo O,"NNS VBP DT NN IN NNP NNP , DT JJ NN IN DT NNP NNP NNP , VBD JJ NNP IN DT NN , NNP ."
+Police say personal rivalry might have been the motive behind his killing .,O O O O O O O O O O O O O,NNS VBP JJ NN MD VB VBN DT NN IN PRP$ NN .
+Mr. Anwar is the second journalist killed in Bangladesh in recent weeks .,B-per I-per O O O O O O B-geo O B-tim O O,NNP NNP VBZ DT JJ NN VBN IN NNP IN JJ NNS .
+"Last month , an editor of the Daily Durjoy Bangla newspaper in the northern Bogra district was killed under similar circumstances .",O O O O O O O B-org I-org I-org O O O O B-geo O O O O O O O,"JJ NN , DT NN IN DT NNP NNP NNP NN IN DT JJ NNP NN VBD VBN IN JJ NNS ."
+"The international media watchdog , Reporters Without Borders , has ranked Bangladesh one of the most dangerous countries for journalists .",O O O O O O O O O O O B-geo O O O O O O O O O,"DT JJ NNS NN , NNS IN NNS , VBZ VBN NNP CD IN DT RBS JJ NNS IN NNS ."

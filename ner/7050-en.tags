@@ -1,0 +1,8 @@
+"An EU naval force spokesman says ransom has been paid for the release of a Singapore-flagged chemical tanker , held for nearly two months by Somali pirates .",O B-org O O O O O O O O O O O O O O O O O O O O B-tim O O B-gpe O O,"DT NNP JJ NN NN VBZ NN VBZ VBN VBN IN DT NN IN DT JJ NN NN , VBD IN RB CD NNS IN JJ NNS ."
+John Harbor said the money was delivered on Friday morning .,B-geo I-geo O O O O O O B-tim I-tim O,NNP NNP VBD DT NN VBD VBN IN NNP NN .
+"He said he expects the pirates to release the crew and leave the ship within about 24 hours , after counting the money .",O O O O O O O O O O O O O O O O B-tim O O O O O O O,"PRP VBD PRP VBZ DT NNS TO VB DT NN CC VB DT NN IN IN CD NNS , IN VBG DT NN ."
+The ransom amount was not specified .,O O O O O O O,DT NN NN VBD RB VBN .
+The chemical tanker Pramoni was hijacked on January 1 in the Gulf of Aden .,O O O B-per O O O B-tim I-tim O O B-geo I-geo I-geo O,DT NN NN NNP VBD VBN IN NNP CD IN DT NNP IN NNP .
+"The crew includes 17 Indonesians , five Chinese , one Vietnamese and one Nigerian .",O O O O B-gpe O O B-gpe O O O O O O O,"DT NN VBZ CD NNS , CD NNS , CD NN CC CD NN ."
+Somali pirates have made tens of millions of dollars over the past two years hijacking ships for ransom .,B-gpe O O O O O O O O O O B-tim I-tim O O O O O O,JJ NNS VBP VBN NNS IN NNS IN NNS IN DT JJ CD NNS VBG NNS IN NN .
+"Multinational naval forces have stopped many attacks near the coast , but pirates have increasingly focused their efforts on the Indian Ocean , an area too large for foreign navies to effectively patrol .",O O O O O O O O O O O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O,"JJ JJ NNS VBP VBN JJ NNS IN DT NN , CC NNS VBP RB VBN PRP$ NNS IN DT NNP NNP , DT NN RB JJ IN JJ NNS TO RB VB ."

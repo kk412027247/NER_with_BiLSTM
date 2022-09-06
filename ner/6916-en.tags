@@ -1,0 +1,7 @@
+"NATO says it trained almost 1,500 Iraqi military officers in 2005 , and hopes to train a similar number this year .",B-org O O O O O B-gpe O O O B-tim O O O O O O O O O O O,"NNP VBZ PRP VBD RB CD JJ JJ NNS IN CD , CC VBZ TO VB DT JJ NN DT NN ."
+"The organization says 1,000 officers were trained inside Iraq at a NATO college on the outskirts of Baghdad .",O O O O O O O O B-geo O O B-org O O O O O B-geo O,DT NN VBZ CD NNS VBD VBN IN NNP IN DT NNP NN IN DT NNS IN NNP .
+"Around 160 NATO personnel are based at the college , which opened in September 2005 .",O O B-org O O O O O O O O O O B-tim I-tim O,"IN CD NNP NNS VBP VBN IN DT NN , WDT VBD IN NNP CD ."
+"The remaining Iraqi officers , numbering about 500 , were trained at NATO facilities in Europe .",O O B-gpe O O O O O O O O O B-org O O B-geo O,"DT VBG JJ NNS , VBG IN CD , VBD VBN IN NNP NNS IN NNP ."
+NATO says the training effort is designed to teach Iraqi military officers modern leadership skills and democratic values .,B-org O O O O O O O O B-gpe O O O O O O O O O,NNP VBZ DT NN NN VBZ VBN TO VB JJ JJ NNS JJ NN NNS CC JJ NNS .
+The organization also supplies military equipment to Iraqi forces and logistical support to Polish troops inside Iraq .,O O O O O O O B-gpe O O O O O B-gpe O O B-geo O,DT NN RB VBZ JJ NN TO JJ NNS CC JJ NN TO JJ NNS IN NNP .
+But NATO has not engaged in any combat in Iraq because of opposition from NATO members France and Germany .,O B-org O O O O O O O B-geo O O O O B-org O B-geo O B-geo O,CC NNP VBZ RB VBN IN DT NN IN NNP IN IN NN IN NNP NNS NNP CC NNP .

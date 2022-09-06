@@ -1,0 +1,4 @@
+The French annexed various Polynesian island groups during the 19th century .,O B-gpe O O O O O O O B-tim I-tim O,DT JJ JJ JJ JJ NN NNS IN DT JJ NN .
+"In September 1995 , France stirred up widespread protests by resuming nuclear testing on the Mururoa atoll after a three-year moratorium .",O B-tim I-tim O B-geo O O O O O O O O O O B-geo O O O B-tim I-tim O,"IN NNP CD , NNP VBD RP JJ NNS IN VBG JJ NN IN DT NNP NN IN DT JJ NN ."
+The tests were suspended in January 1996 .,O O O O O B-tim I-tim O,DT NNS VBD VBN IN NNP CD .
+"In recent years , French Polynesia 's autonomy has been considerably expanded .",O B-tim O O B-org I-org O O O O O O O,"IN JJ NNS , NNP NNP POS NN VBZ VBN RB VBN ."

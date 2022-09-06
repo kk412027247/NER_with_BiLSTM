@@ -1,0 +1,8 @@
+Russia 's nuclear power chief says his country plans to start up the Bushehr nuclear reactor in Iran this year .,B-geo O O O O O O O O O O O O B-geo O O O B-geo O O O,NNP POS JJ NN NN VBZ PRP$ NN VBZ TO VB RP DT NNP JJ NN IN NNP DT NN .
+"Sergei Kiriyenko told Russian media Thursday that assuming nothing unexpected happens , the launch will go as planned before the end of 2009 .",B-per I-per O B-gpe O B-tim O O O O O O O O O O O O O O B-tim I-tim I-tim O,"NNP NNP VBD JJ NNS NNP IN VBG DT JJ VBZ , DT NN MD VB RB VBN IN DT NN IN CD ."
+He said there are no unresolved questions with his Iranian counterparts regarding the technical start-up .,O O O O O O O O O B-gpe O O O O O O,PRP VBD EX VBP DT JJ NNS IN PRP$ JJ NNS VBG DT JJ NN .
+Kiriyenko said he plans to travel to the Bushehr construction site later this month .,B-per O O O O O O O B-geo O O B-tim O O O,NNP VBD PRP VBZ TO VB TO DT NNP NN NN RB DT NN .
+"Russia began working on the project in 1995 , and says it has already delivered the fuel to get Iran 's first nuclear power plant running .",B-geo O O O O O O B-tim O O O O O O O O O O O B-geo O O O O O O O,"NNP VBD VBG IN DT NN IN CD , CC VBZ PRP VBZ RB VBN DT NN TO VB NNP POS JJ JJ NN NN VBG ."
+The plant 's opening has frequently been delayed .,O O O O O O O O O,DT NN POS NN VBZ RB VBN VBN .
+"In the past , Iranian officials have blamed the delays , in part , on foreign sanctions related to its disputed nuclear program .",O O O O B-gpe O O O O O O O O O O O O O O O O O O O,"IN DT NN , JJ NNS VBP VBN DT NNS , IN NN , IN JJ NNS VBN TO PRP$ JJ JJ NN ."
+"Officials say Bushehr will be capable of producing about 1,000 megawatts of electricity a year .",O O B-geo O O O O O O O O O O O O O,NNS VBP NNP MD VB JJ IN VBG IN CD NNS IN NN DT NN .

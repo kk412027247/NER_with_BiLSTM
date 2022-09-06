@@ -1,0 +1,6 @@
+India has confirmed that Pakistani President Pervez Musharraf is to visit the country next month to watch a cricket match between the two countries .,B-geo O O O B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O,NNP VBZ VBN IN JJ NNP NNP NNP VBZ TO VB DT NN JJ NN TO VB DT NN NN IN DT CD NNS .
+An Indian government spokesman says Mr. Musharraf will attend the one-day match in New Delhi on April 17 .,O B-gpe O O O B-per B-org O O O B-tim O O B-geo I-geo O B-tim I-tim O,DT JJ NN NN VBZ NNP NNP MD VB DT JJ NN IN NNP NNP IN NNP CD .
+India invited President Musharraf to attend the match during the current tour by Pakistan .,B-geo O B-per B-org O O O O O O O O O B-geo O,NNP VBD NNP NNP TO VB DT NN IN DT JJ NN IN NNP .
+The visit would be the Pakistani leader 's first since a failed summit between the nuclear rivals in 2001 .,O O O O O B-gpe O O O O O O O O O O O O B-tim O,DT NN MD VB DT JJ NN POS JJ IN DT JJ NN IN DT JJ NNS IN CD .
+Observers say it could accelerate the peace process begun by the two countries more than a year ago .,O O O O O O O O O O O O O O O O O O O,NNS VBP PRP MD VB DT NN NN VBN IN DT CD NNS JJR IN DT NN RB .
+The South Asian neighbors have fought three wars since they gained independence from Britain in 1947 .,O B-org I-org O O O O O O O O O O B-geo O B-tim O,DT NNP NNP NNS VBP VBN CD NNS IN PRP VBD NN IN NNP IN CD .

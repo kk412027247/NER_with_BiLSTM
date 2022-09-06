@@ -1,0 +1,3 @@
+The World Health Organization estimates that at least 17 million people die every year from cardiovascular disease .,O B-org I-org I-org O O O O O O O O O O B-tim I-tim I-tim O,DT NNP NNP NNP VBZ IN IN JJS CD CD NNS VBP DT NN IN JJ NN .
+"Because heart related illnesses are often diagnosed in people who are overweight or obese , treatment can be complicated .",O O O O O O O O O O O O O O O O O O O O,"IN NN VBN NNS VBP RB VBN IN NNS WP VBP JJ CC JJ , NN MD VB VBN ."
+"But as VOA 's Melinda Smith reports , a drug used for weight loss is showing promise for some heart patients .",O O B-org O B-per I-per O O O O O O O O O O O O O O O O,"CC IN NNP POS NNP NNP VBZ , DT NN VBN IN NN NN VBZ VBG NN IN DT NN NNS ."

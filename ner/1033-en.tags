@@ -1,0 +1,7 @@
+Lebanon 's defense minister says his country has confiscated arms belonging to the Shi'ite militia Hezbollah .,B-geo O O O O O O O O O O O O B-org I-org I-org O,NNP POS NN NN VBZ PRP$ NN VBZ VBN NNS VBG TO DT NNP NN NNP .
+Elias Murr also told reporters in Beirut that Hezbollah is cooperating with the Lebanese government by preventing an armed presence in southern Lebanon .,B-per I-per O O O O B-geo O B-org O O O O B-gpe O O O O O O O O B-geo O,NNP NNP RB VBD NNS IN NNP IN NNP VBZ VBG IN DT JJ NN IN VBG DT JJ NN IN JJ NNP .
+He did not say where or how the weapons were confiscated .,O O O O O O O O O O O O,PRP VBD RB VB WRB CC WRB DT NNS VBD VBN .
+The month-long war between Israel and Hezbollah ended in August with a U.N. backed ceasefire resolution .,O O O O B-geo O B-org O O B-tim O O B-org O O O O,DT JJ NN IN NNP CC NNP VBD IN NNP IN DT NNP VBD JJ NN .
+The resolution calls for all armed Lebanese groups to be disarmed .,O O O O O O B-gpe O O O O O,DT NN VBZ IN DT JJ JJ NNS TO VB VBN .
+Hezbollah fighters in southern Lebanon were reported to have hidden their weapons when the war ended .,B-org O O O B-geo O O O O O O O O O O O O,NNP NNS IN JJ NNP VBD VBN TO VB VBN PRP$ NNS WRB DT NN VBD .
+Lebanese army and international troops are patrolling the border with Israel .,B-gpe O O O O O O O O O B-geo O,JJ NN CC JJ NNS VBP VBG DT NN IN NNP .

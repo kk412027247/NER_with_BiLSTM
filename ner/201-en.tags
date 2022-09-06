@@ -1,0 +1,4 @@
+President Bush says the United States must change its habits and reduce its dependence on foreign oil .,B-per I-per O O B-geo I-geo O O O O O O O O O O O O,NNP NNP VBZ DT NNP NNPS MD VB PRP$ NNS CC VB PRP$ NN IN JJ NN .
+President Bush says the country 's reliance on fossil fuels harms the environment and puts Americans at the mercy of nations that do not enjoy the same freedoms .,B-per I-per O O O O O O O O O O O O O B-gpe O O O O O O O O O O O O O,NNP NNP VBZ DT NN POS NN IN JJ NNS VBZ DT NN CC VBZ NNS IN DT NN IN NNS WDT VBP RB VB DT JJ NNS .
+"American consumers , for their part , appear to be changing their habits , but they are doing so for more practical reasons .",B-gpe O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS , IN PRP$ NN , VBP TO VB VBG PRP$ NNS , CC PRP VBP VBG RB IN JJR JJ NNS ."
+VOA 's Mil Arcega reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

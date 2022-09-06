@@ -1,0 +1,8 @@
+"The death toll from a bomb blast in Indian Kashmir has risen to at least 14 people , after more people succumbed to their injuries .",O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O,"DT NN NN IN DT NN NN IN NNP NNP VBZ VBN TO IN JJS CD NNS , IN JJR NNS VBN TO PRP$ NNS ."
+"Security officials say the explosion , Monday , at a busy market in Pulwama , south of Srinagar , also wounded more than 70 others and damaged a school , a police station and several shops .",O O O O O O B-tim O O O O O O B-geo O B-geo I-geo I-geo O O O O O O O O O O O O O O O O O O O,"NN NNS VBP DT NN , NNP , IN DT JJ NN IN NNP , NN IN NNP , RB VBD JJR IN CD NNS CC VBD DT NN , DT NN NN CC JJ NNS ."
+The officials say three soldiers are among the dead .,O O O O O O O O O O,DT NNS VBP CD NNS VBP IN DT NN .
+Authorities say the bomb was planted aboard a truck carrying construction materials .,O O O O O O O O O O O O O,NNS VBP DT NN VBD VBN IN DT NN VBG NN NNS .
+The charred remains of a man who they say detonated the explosion was recovered from the scene .,O O O O O O O O O O O O O O O O O O,DT JJ NNS IN DT NN WP PRP VBP VBN DT NN VBD VBN IN DT NN .
+Police fired tear gas to disperse mobs of angry and grief-stricken people who poured into the streets of Pulwama to denounce the attack .,O O O O O O O O O O O O O O O O O O B-geo O O O O O,NNS VBD JJ NN TO VB NNS IN JJ CC JJ NNS WP VBD IN DT NNS IN NNP TO VB DT NN .
+No one has claimed responsibility for the bombing .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+But the French News Agency quotes a military official who blames Islamic militants for the blast .,O O B-org I-org I-org O O O O O O O O O O O O,CC DT NNP NNP NNP VBZ DT JJ NN WP VBZ NNP NNS IN DT NN .

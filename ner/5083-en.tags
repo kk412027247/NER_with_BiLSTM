@@ -1,0 +1,7 @@
+"Japan says it will deliver a second installment of food aid to North Korea , despite its disappointment with recent talks on the fate of Japanese nationals kidnapped by Pyongyang decades ago .",B-geo O O O O O O O O O O O B-geo I-geo O O O O O O O O O O O B-gpe O O O B-tim I-tim O O,"NNP VBZ PRP MD VB DT JJ NN IN NN NN TO NNP NNP , IN PRP$ NN IN JJ NNS IN DT NN IN JJ NNS VBN IN NNP NNS RB ."
+"Japan announced the decision Wednesday , one day after saying it would consider imposing sanctions on North Korea , including a suspension of aid .",B-geo O O O B-tim O O O O O O O O O O O B-geo I-geo O O O O O O O,"NNP VBD DT NN NNP , CD NN IN VBG PRP MD VB VBG NNS IN NNP NNP , VBG DT NN IN NN ."
+Japanese Chief Cabinet Secretary Hiroyuki Hosoda says Tokyo is analyzing new evidence from Pyongyang on the abductions .,B-gpe O O B-per I-per I-per O B-geo O O O O O B-tim O O O O,JJ NNP NNP NNP NNP NNP VBZ NNP VBZ VBG JJ NN IN NNP IN DT NNS .
+He said such analysis could take time .,O O O O O O O O,PRP VBD JJ NN MD VB NN .
+Five Japanese kidnapped by North Korea returned to Japan two years ago .,O B-gpe O O B-gpe I-gpe O O B-geo B-tim O O O,CD NNS VBN IN NNP NNP VBD TO NNP CD NNS RB .
+Pyongyang contends eight others are dead .,B-tim O O O O O O,NNP VBZ CD NNS VBP JJ .
+Japan believes there are two additional abductees whom North Korea has never acknowledged .,B-gpe O O O O O O O B-geo I-geo O O O O,NNP VBZ EX VBP CD JJ NNS WP NNP NNP VBZ RB VBN .

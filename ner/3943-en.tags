@@ -1,0 +1,5 @@
+"Two lawyers are in a bank , when armed robbers suddenly burst in .",O O O O O O O O O O O O O O,"CD NNS VBP IN DT NN , WRB JJ NNS RB VBP IN ."
+"While several of the robbers take the money from the tellers , others line the customers , including the lawyers , up against a wall , and proceed to take their wallets , watches , etc .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN NN IN DT NNS VBP DT NN IN DT NNS , NNS VBP DT NNS , VBG DT NNS , RB IN DT NN , CC VB TO VB PRP$ NNS , NNS , NN ."
+While this is going on lawyer number one jams something in lawyer number two 's hand .,O O O O O O O O O O O O O O O O O,IN DT VBZ VBG IN NN NN CD VBZ DT IN NN NN CD POS NN .
+"Without looking down , lawyer number two whispers , "" What is this ? """,O O O O O O O O O O O O O O O,"IN VBG RB , NN NN CD NNS , LQU WP VBZ DT . LQU"
+"To which lawyer number one replies , "" It 's that $ 50 I owe you . """,O O O O O O O O O O O O O O O O O O,"TO WDT NN NN CD NNS , LQU PRP VBZ IN $ CD PRP VBP PRP . LQU"

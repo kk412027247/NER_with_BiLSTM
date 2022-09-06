@@ -1,0 +1,7 @@
+"European researchers say greenhouse gases , carbon dioxide and methane , are at their highest levels in 650,000 years .",O O O O O O O O O O O O O O O O O B-tim O O,"JJ NNS VBP NN NNS , NN NN CC NN , VBP IN PRP$ JJS NNS IN CD NNS ."
+The findings come from scientists who have analyzed air bubbles trapped for hundreds of thousands of years in Antarctic ice cores .,O O O O O O O O O O O O O O O O O O B-geo O O O,DT NNS VBP IN NNS WP VBP VBN NN NNS VBN IN NNS IN NNS IN NNS IN NNP NN NNS .
+Analysts for the European Project for Ice Coring in Antarctica say carbon dioxide levels in the atmosphere are currently 27 percent higher than the highest levels in the past 650-thousand years .,O O O B-org I-org I-org I-org I-org O B-geo O O O O O O O O O O O O O O O O O O B-tim I-tim O O,NNS IN DT JJ NN IN NNP NNP IN NNP VBP NN NN NNS IN DT NN VBP RB CD NN JJR IN DT JJS NNS IN DT JJ JJ NNS .
+Methane gas levels are also currently at their peak .,O O O O O O O O O O,NNP NN NNS VBP RB RB IN PRP$ NN .
+"Previously studied air bubbles dated back only 440,000 years .",O O O O O O O B-tim O O,RB VBN NN NNS VBD RB RB CD NNS .
+Scientists believe the latest data will help clarify whether human activity has altered the Earth 's climate and contributed to global warming .,O O O O O O O O O O O O O O B-geo O O O O O O O O,NNS VBP DT JJS NNS MD VB VB IN JJ NN VBZ VBN DT NNP POS NN CC VBD TO JJ NN .
+The research is to be published in Friday 's issue of the journal Science .,O O O O O O O B-tim O O O O O O O,DT NN VBZ TO VB VBN IN NNP POS NN IN DT NN NN .

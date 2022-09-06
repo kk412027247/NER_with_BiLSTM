@@ -1,0 +1,9 @@
+"A survey of U.S. households indicates that Americans are confident in the future of their economy , while a separate survey shows the rate of existing home sales in the U.S. continues to slip .",O O O B-geo O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O B-geo O O O O,"DT NN IN NNP NNS VBZ IN NNS VBP JJ IN DT NN IN PRP$ NN , IN DT JJ NN VBZ DT NN IN VBG NN NNS IN DT NNP VBZ TO VB ."
+The rate of U.S. consumer confidence rose slightly in July in a monthly survey of American households .,O O O B-geo O O O O O B-tim O O O O O B-gpe O O,DT NN IN NNP NN NN VBD RB IN NNP IN DT JJ NN IN JJ NNS .
+The index rose more than a point to 106.5 .,O O O O O O O O O O,DT NN VBD JJR IN DT NN TO CD .
+Analysts had expected the index to fall slightly to 104 .,O O O O O O O O O O O,NNS VBD VBN DT NN TO VB RB TO CD .
+"Experts say strong job prospects drove the increase , despite record high fuel prices .",O O O O O O O O O O O O O O O,"NNS VBP JJ NN NNS VBD DT NN , IN JJ JJ NN NNS ."
+"In another survey , sales of previously owned homes fell more than a percent in June to 6.6 million , continuing an almost year-long slide .",O O O O O O O O O O O O O O B-tim I-tim O O O O O O O B-tim O O,"IN DT NN , NNS IN RB VBN NNS VBD JJR IN DT NN IN NNP TO CD CD , VBG DT RB JJ NN ."
+Both surveys were released Tuesday .,O O O O B-tim O,DT NNS VBD VBN NNP .
+Consumer confidence is widely seen as a gauge of spending and measures how consumers feel about the future of the economy .,O O O O O O O O O O O O O O O O O O O O O O,NN NN VBZ RB VBN IN DT NN IN NN CC NNS WRB NNS VBP IN DT NN IN DT NN .
+The measure of home sales is seen as a barometer of activity in the housing sector .,O O O O O O O O O O O O O O O O O,DT NN IN NN NNS VBZ VBN IN DT NN IN NN IN DT NN NN .

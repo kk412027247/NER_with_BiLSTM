@@ -1,0 +1,8 @@
+A European Space Agency probe has completed a three-year mission to test deep space technologies by making a controlled crash on the moon .,O B-org I-org I-org O O O O B-tim O O O O O O O O O O O O O O O,DT NNP NNP NNP NN VBZ VBN DT JJ NN TO VB JJ NN NNS IN VBG DT JJ NN IN DT NN .
+"The SMART-1 probe hit the lunar surface at 0542 UTC Sunday on a volcanic plain called the Lake of Excellence at a speed of about 7,200 kilometers per hour .",O O O O O O O O B-tim I-tim I-tim O O O O O O B-geo I-geo I-geo O O O O O O O O O O,DT JJ NN VBD DT NN NN IN CD NNP NNP IN DT JJ NN VBD DT NNP IN NNP IN DT NN IN IN CD NNS IN NN .
+It had orbited the moon for the past 14 months .,O O O O O O O B-tim I-tim O O,PRP VBD VBN DT NN IN DT JJ CD NNS .
+"Mission manager Gerhard Schwehm calls Europe 's first mission to the moon "" a great success . """,O O B-per I-per O B-geo O O O O O O O O O O O O,NNP NN NNP NNP VBZ NNP POS JJ NN TO DT NN LQU DT JJ NN . LQU
+The probe 's main mission was to test a solar-electric propulsion system the European Space Agency hopes to use for future interplanetary missions .,O O O O O O O O O O O O O B-org I-org I-org O O O O O O O O,DT NN POS JJ NN VBD TO VB DT JJ NN NN DT NNP NNP NNP VBZ TO VB IN JJ JJ NNS .
+SMART-1 also carried miniaturized scientific instruments to examine the lunar surface .,O O O O O O O O O O O O,NNP RB VBD VBN JJ NNS TO VB DT NN NN .
+SMART stands for Small Mission for Advanced Research and Technology .,O O O B-org I-org I-org I-org I-org I-org I-org O,NNP VBZ IN JJ NNP IN NNP NNP CC NNP .
+"The craft was launched in September of 2003 , and began orbiting the moon in November of 2004 .",O O O O O B-tim I-tim I-tim O O O O O O O B-tim I-tim I-tim O,"DT NN VBD VBN IN NNP IN CD , CC VBD VBG DT NN IN NNP IN CD ."

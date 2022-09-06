@@ -1,0 +1,7 @@
+"Police in Afghanistan say an explosion in the capital , Kabul , has killed two policemen and wounded their commander .",O O B-geo O O O O O O O B-per O O O O O O O O O O,"NNS IN NNP VBP DT NN IN DT NN , NNP , VBZ VBN CD NNS CC VBD PRP$ NN ."
+"Officials say the commander , Ali Shah Paktiawal , appears to have been the target of Wednesday attack .",O O O O O B-per I-per I-per O O O O O O O O B-tim O O,"NNS VBP DT NN , NNP NNP NNP , VBZ TO VB VBN DT NN IN NNP NN ."
+He is the head of criminal investigations in the Afghan capital .,O O O O O O O O O B-gpe O O,PRP VBZ DT NN IN JJ NNS IN DT JJ NN .
+"Paktiawal survived the blast with injuries , but two of his officers died .",B-per O O O O O O O O O O O O O,"NNP VBD DT NN IN NNS , CC CD IN PRP$ NNS VBD ."
+Police say the bomb exploded when Paktiawal and his team were investigating the deaths of three of their colleagues .,O O O O O O B-per O O O O O O O O O O O O O,NNS VBP DT NN VBD WRB NNP CC PRP$ NN VBD VBG DT NNS IN CD IN PRP$ NNS .
+The three were killed in an overnight attack on a police post in the western outskirts of Kabul .,O O O O O O O O O O O O O O O O O B-per O,DT CD VBD VBN IN DT JJ NN IN DT NN NN IN DT JJ NNS IN NNP .
+A Taliban spokesman claimed responsibility for both attacks .,O B-org O O O O O O O,DT NNP NN VBD NN IN DT NNS .

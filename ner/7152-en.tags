@@ -1,0 +1,9 @@
+The United Nations has advised its aid agencies to avoid political contacts with the Hamas-led Palestinian government .,O B-org I-org O O O O O O O O O O O O B-gpe O O,DT NNP NNP VBZ VBN PRP$ NN NNS TO VB JJ NNS IN DT JJ JJ NN .
+But U.N. officials say the new policy allows aid to continue flowing to the Palestinians .,O B-geo O O O O O O O O O O O O B-gpe O,CC NNP NNS VBP DT JJ NN VBZ NN TO VB VBG TO DT NNS .
+The United States and European Union consider Hamas a terrorist organization and have frozen aid until Hamas renounces violence and recognizes Israel 's right to exist .,O B-org I-org I-org I-org I-org O B-org O O O O O O O O B-org O O O O B-geo O O O O O,DT NNP NNPS CC NNP NNP VBP NNP DT JJ NN CC VBP VBN NN IN NNP VBZ NN CC VBZ NNP POS NN TO VB .
+Russia says that 's a mistake .,B-geo O O O O O O,NNP VBZ DT VBZ DT NN .
+Foreign Minister Sergei Lavrov says stopping aid to the Hamas-led government will further destabilize the region .,O O B-per I-per O O O O O O O O O O O O O,NNP NNP NNP NNP VBZ VBG NN TO DT JJ NN MD RB VB DT NN .
+He says the only way to ensure that Hamas meets Western demands is to engage its leadership .,O O O O O O O O B-org O O O O O O O O O,PRP VBZ DT JJ NN TO VB IN NNP VBZ JJ NNS VBZ TO VB PRP$ NN .
+"Earlier Tuesday , six Palestinian legislators went to Iran on a mission to win financial support for the Palestinians .",O B-tim O O B-gpe O O O B-geo O O O O O O O O O B-gpe O,"RBR NNP , CD JJ NNS VBD TO NNP IN DT NN TO VB JJ NN IN DT NNS ."
+The Hamas-led government says it is broke .,O O O O O O O O,DT JJ NN VBZ PRP VBZ JJ .
+"In the West Bank Tuesday , Palestinian President Mahmoud Abbas said conditions in the Palestinian territories are deteriorating rapidly as the Western sanctions take hold .",O O B-org I-org B-tim O B-gpe B-per I-per I-per O O O O B-gpe O O O O O O O O O O O,"IN DT NNP NNP NNP , JJ NNP NNP NNP VBD NNS IN DT JJ NNS VBP VBG RB IN DT JJ NNS VBP NN ."

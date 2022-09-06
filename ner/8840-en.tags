@@ -1,0 +1,7 @@
+El Salvador has rejected an asylum request by two former Venezuelan police officers under investigation for their role in a 2002 coup that briefly ousted President Hugo Chavez .,B-per I-per O O O O O O O O B-gpe O O O O O O O O O B-tim O O O O B-per I-per I-per O,NNP NNP VBZ VBN DT NN NN IN CD JJ JJ NN NNS IN NN IN PRP$ NN IN DT CD NN IN RB VBD NNP NNP NNP .
+"In Caracas Friday , El Salvadoran Foreign Minister Francisco Lainez said his government did not approve the two men 's asylum request .",O B-tim I-tim O B-per B-gpe O B-per B-geo B-per O O O O O O O O O O O O O,"IN NNP NNP , NNP JJ NNP NNP NNP NNP VBD PRP$ NN VBD RB VB DT CD NNS POS NN NN ."
+He did not elaborate .,O O O O O,PRP VBD RB VB .
+"Citing political persecution , the former police officers :",O O O O O O O O O,"VBG JJ NN , DT JJ NN NNS :"
+"Henry Vivas and Lazaro Forero , requested asylum last Friday after fleeing to the Salvadoran embassy .",B-per I-per O B-per I-per O O O O B-tim O O O O B-gpe O O,"NNP NNP CC NNP NNP , VBD NN JJ NNP IN VBG TO DT JJ NN ."
+"Venezuelan prosecutors are investigating the men for their handling of the violent protests in April , 2002 , that left 19 people dead and led to the short-lived ouster of Mr. Chavez .",B-gpe O O O O O O O O O O O O O B-tim I-tim I-tim O O O O O O O O O O O O O B-per I-per O,"JJ NNS VBP VBG DT NNS IN PRP$ NN IN DT JJ NNS IN NNP , CD , WDT VBD CD NNS JJ CC VBD TO DT JJ NN IN NNP NNP ."
+The government and the opposition blame each other for the shooting deaths .,O O O O O O O O O O O O O,DT NN CC DT NN VB DT NN IN DT NN NNS .

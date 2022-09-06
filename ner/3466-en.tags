@@ -1,0 +1,8 @@
+The Iranian government has closed an official newspaper because of a cartoon the paper ran last Friday .,O B-gpe O O O O O O O O O O O O O O B-tim O,DT JJ NN VBZ VBN DT JJ NN IN IN DT NN DT NN VBD JJ NNP .
+State television quotes the country 's chief prosecutor Saeed Mortazavi Tuesday as saying the paper 's cartoonist Mana Neyestani and one of its editors have been detained .,O O O O O O O O B-per I-per B-tim O O O O O O B-per I-per O O O O O O O O O,NN NN VBZ DT NN POS JJ NN NNP NNP NNP IN VBG DT NN POS NN NNP NNP CC CD IN PRP$ NNS VBP VBN VBN .
+"The cartoon , which poked fun at ethnic Azeris , sparked riots in the northwestern city of Tabriz , the capital of Eastern Azerbaijan province .",O O O O O O O O B-gpe O O O O O O O O B-geo O O O O B-org B-gpe O O,"DT NN , WDT VBD NN IN JJ NNS , VBD NNS IN DT JJ NN IN NNP , DT NN IN NNP NNP NN ."
+The cartoon portrayed an Azeri as a cockroach who was speaking Azeri .,O O O O B-gpe O O O O O O B-art O,DT NN VBD DT NN IN DT NN WP VBD VBG NNP .
+"On Monday , rioting Azeris pelted government buildings with stones .",O B-tim O O B-gpe O O O O O O,"IN NNP , VBG NNS JJ NN NNS IN NNS ."
+Police used tear gas to disperse them .,O O O O O O O O,NNS VBD JJ NN TO VB PRP .
+About 25 percent of Iran 's population is Azeri .,O O O O B-geo O O O B-gpe O,IN CD NN IN NNP POS NN VBZ NN .
+Azeris speak a language close to Turkish .,B-gpe O O O O O B-art O,NNS VBP DT NN RB IN NNP .

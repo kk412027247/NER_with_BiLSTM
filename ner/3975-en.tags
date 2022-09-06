@@ -1,0 +1,8 @@
+"Canadian Prime Minister Stephen Harper has arrived in Kandahar , Afghanistan , for an unannounced visit to Canadian troops stationed there .",B-gpe B-per I-per I-per I-per O O O B-geo O B-geo O O O O O O B-gpe O O O O,"JJ NNP NNP NNP NNP VBZ VBN IN NNP , NNP , IN DT JJ NN TO JJ NNS VBN RB ."
+Mr. Harper arrived at Kandahar air base Sunday in a Canadian military aircraft .,B-per I-per O O B-geo O O B-tim O O B-gpe O O O,NNP NNP VBD IN NNP NN NN NNP IN DT JJ JJ NN .
+Journalists traveling with him had to agree not to break news of the trip until his visit was underway .,O O O O O O O O O O O O O O O O O O O O,NNS VBG IN PRP VBD TO VB RB TO VB NN IN DT NN IN PRP$ NN VBD JJ .
+He said the trip is a way to show the Canadian troops their government and their country is behind them .,O O O O O O O O O O B-gpe O O O O O O O O O O,PRP VBD DT NN VBZ DT NN TO VB DT JJ NNS PRP$ NN CC PRP$ NN VBZ IN PRP .
+Mr. Harper said Canada 's mission in Afghanistan is its most significant international undertaking in decades .,B-per I-per O B-geo O O O B-geo O O O O O O O O O,NNP NNP VBD NNP POS NN IN NNP VBZ PRP$ RBS JJ JJ NN IN NNS .
+He is expected to spend Monday visiting troops on the base and eating with them in the dining facilities .,O O O O O B-tim O O O O O O O O O O O O O O,PRP VBZ VBN TO VB NNP VBG NNS IN DT NN CC NN IN PRP IN DT NN NNS .
+"Canada has about 2,300 members of its military in Afghanistan .",B-geo O O O O O O O O B-geo O,NNP VBZ IN CD NNS IN PRP$ JJ IN NNP .
+Ten Canadian soldiers and a diplomat have died there since early 2002 .,O B-gpe O O O O O O O O O B-tim O,CD JJ NNS CC DT NN VBP VBN RB IN JJ CD .

@@ -1,0 +1,9 @@
+An Islamist Web site Monday says al-Qaida leader Osama bin Laden soon will release a new message aimed at Europeans .,O O O O B-tim O B-org O B-per I-per I-per O O O O O O O O B-gpe O,DT NNP NNP NN NNP VBZ NNP NN NNP NNP NNP RB MD VB DT JJ NN VBN IN NNS .
+The Web site attributes the statement to al-Qaida 's media unit As-Sahab .,O O O O O O O B-org O O O O O,DT NNP NN VBZ DT NN TO NNP POS NNS NN NNP .
+It is not clear if the message will be an audio or video statement or when it will be released .,O O O O O O O O O O O O O O O O O O O O O,PRP VBZ RB JJ IN DT NN MD VB DT NN CC NN NN CC WRB PRP MD VB VBN .
+Bin Laden released an audio taped message last month .,B-per I-per O O O O O O O O,NNP NNP VBD DT NN VBN NN JJ NN .
+He called on insurgents in Iraq to unite and said militants must overcome rivalries and beware of sectarian divisions .,O O O O O B-geo O O O O O O O O O O O O O O,PRP VBD IN NNS IN NNP TO VB CC VBD NNS MD VB NNS CC NN IN JJ NNS .
+"In September , bin Laden appeared on video for the first time in nearly three years .",O B-tim O B-per I-per O O O O O O O O O B-tim O O,"IN NNP , NNP NNP VBD IN NN IN DT JJ NN IN RB CD NNS ."
+"That message coincided with the sixth anniversary of the September 11 , 2001 , terrorist attacks on the United States .",O O O O O O O O O B-tim I-tim I-tim I-tim O O O O O B-geo I-geo O,"DT NN VBD IN DT JJ NN IN DT NNP CD , CD , JJ NNS IN DT NNP NNPS ."
+"Bin Laden and his deputy , Ayman al-Zawahiri , are believed to be hiding in the border area between Afghanistan and Pakistan .",B-per I-per O O O O B-per I-per O O O O O O O O O O O B-geo O B-geo O,"NNP NNP CC PRP$ NN , NNP NNP , VBP VBN TO VB VBG IN DT NN NN IN NNP CC NNP ."
+The United States has offered a $ 25-million reward for the capture of each man .,O B-gpe I-gpe O O O O O O O O O O O O O,DT NNP NNP VBZ VBN DT $ JJ NN IN DT NN IN DT NN .

@@ -1,0 +1,8 @@
+Chinese state media say the number of people who died in a mudslide at an illegal mine in northern China has risen to 128 .,B-gpe O O O O O O O O O O O O O O O O O O B-geo O O O O O,JJ NN NNS VBP DT NN IN NNS WP VBD IN DT NN IN DT JJ NN IN JJ NNP VBZ VBN TO CD .
+"China Central Television says rescue workers continue their search for possible survivors , but hope was fading two days after the slide occurred .",B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNP VBZ NN NNS VBP PRP$ NN IN JJ NNS , CC NN VBD VBG CD NNS IN DT NN VBD ."
+"On Monday , heavy rains triggered the collapse of a reservoir of iron-ore waste at the mine in Shanxi province .",O B-tim O O O O O O O O O O O O O O O O B-geo O O,"IN NNP , JJ NNS VBD DT NN IN DT NN IN JJ NN IN DT NN IN NNP NN ."
+The torrent of mud and mining waste plowed into buildings .,O O O O O O O O O O O,DT NN IN NN CC NN NN VBD IN NNS .
+State media say 35 people were injured by the massive torrent of mud and debris .,O O O O O O O O O O O O O O O O,NNP NNS VBP CD NNS VBD VBN IN DT JJ NN IN NN CC NN .
+An unknown number of others are still believed to be trapped beneath the rubble .,O O O O O O O O O O O O O O O,DT JJ NN IN NNS VBP RB VBN TO VB VBN IN DT NN .
+Chinese work safety officials are blaming the illegal mine for the disaster .,B-gpe O O O O O O O O O O O O,JJ NN NN NNS VBP VBG DT JJ NN IN DT NN .
+"Police have already detained nine of its employees , including the boss of the mine .",O O O O O O O O O O O O O O O O,"NNS VBP RB VBN CD IN PRP$ NNS , VBG DT NN IN DT NN ."

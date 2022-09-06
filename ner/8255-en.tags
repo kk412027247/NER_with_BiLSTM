@@ -1,0 +1,9 @@
+Voters in Taiwan are heading to the polls for parliamentary elections .,O O B-geo O O O O O O O O O,NNS IN NNP VBP VBG TO DT NNS IN JJ NNS .
+The election could redefine Taiwan 's troubled relationship with mainland China .,O O O O B-org O O O O O B-geo O,DT NN MD VB NNP POS JJ NN IN JJ NNP .
+At stake in Saturday 's election is control of Taiwan 's 225-seat legislature .,O O O B-tim O O O O O B-org O O O O,IN NN IN NNP POS NN VBZ NN IN NNP POS JJ NN .
+Taiwan and China split in 1949 after a civil war .,B-geo O B-geo O O B-tim O O O O O,NNP CC NNP VBD IN CD IN DT JJ NN .
+Beijing considers the island its territory and says Taiwanese moves toward independence would provoke a war .,B-org O O O O O O O B-gpe O O O O O O O O,NNP VBZ DT NN PRP$ NN CC VBZ JJ NNS IN NN MD VB DT NN .
+"The election pits a pro-independence coalition , led by President Chen Shui-bian 's Democratic Progressive Party , against the Kuomintang and its allies , who favor improving relations with Beijing .",O O O O O O O O O B-per I-per I-per O B-org I-org I-org O O O B-geo O O O O O O O O O B-geo O,"DT NN VBZ DT JJ NN , VBN IN NNP NNP NNP POS JJ NNP NNP , IN DT NNP CC PRP$ NNS , WP VBP VBG NNS IN NNP ."
+DPP Legislator Hsiao Bi-khim says the election is too close to call .,B-org I-org B-per I-per O O O O O O O O O,NNP NNP NNP NNP VBZ DT NN VBZ RB JJ TO VB .
+""" But President Chen is fairly confident that we can win at least close to a majority in this election , "" he says .",O O B-per I-per O O O O O O O O O O O O O O O B-tim O O O O O,"LQU CC NNP NNP VBZ RB JJ IN PRP MD VB IN JJS RB TO DT NN IN DT NN , RQU PRP VBZ ."
+Polls close at four p.m. and results are expected a few hours later .,O O O B-tim I-tim O O O O O O O B-tim O,NNS RB IN CD NN CC NNS VBP VBN DT JJ NNS RB .

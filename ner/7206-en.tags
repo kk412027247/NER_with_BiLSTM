@@ -1,0 +1,4 @@
+Some fishing takes place in adjacent waters .,O O O O O O O O,DT NN VBZ NN IN JJ NNS .
+There is a potential source of income from harvesting finfish and krill .,O O O O O O O O O O O O O,EX VBZ DT JJ NN IN NN IN VBG NN CC NN .
+"The islands receive income from postage stamps produced in the UK , sale of fishing licenses , and harbor and landing fees from tourist vessels .",O O O O O O O O O O B-org O O O O O O O O O O O O O O O,"DT NNS VBP NN IN JJ NNS VBN IN DT NNP , NN IN NN NNS , CC NN CC NN NNS IN NN NNS ."
+Tourism from specialized cruise ships is increasing rapidly .,O O O O O O O O O,NNP IN JJ NN NNS VBZ VBG RB .

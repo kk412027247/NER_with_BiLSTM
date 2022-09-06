@@ -1,0 +1,6 @@
+A physicist and a mathematician are sitting in a faculty lounge .,O O O O O O O O O O O O,DT NN CC DT NN VBP VBG IN DT NN NN .
+"Suddenly , the coffee machine catches on fire .",O O O O O O O O O,"RB , DT NN NN NNS IN NN ."
+"The physicist grabs a bucket and leap towards the sink , filled the bucket with water and puts out the fire .",O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ DT NN CC NN IN DT NN , VBD DT NN IN NN CC VBZ RP DT NN ."
+"Second day , the same two sit in the same lounge .",B-tim I-tim O O O O O O O O O O,"JJ NN , DT JJ CD VBP IN DT JJ NN ."
+"Again , the coffee machine catches on fire .",O O O O O O O O O,"RB , DT NN NN NNS IN NN ."
+"This time , the mathematician stands up , got a bucket , hands the bucket to the physicist , thus reducing the problem to a previously solved one .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN , DT NN VBZ RP , VBD DT NN , NNS DT NN TO DT NN , RB VBG DT NN TO DT RB VBN CD ."

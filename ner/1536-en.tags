@@ -1,0 +1,9 @@
+Iraqi officials say two car bombs have killed at least eight people at crowded markets .,B-gpe O O O O O O O O O O O O O O O,JJ NNS VBP CD NN NNS VBP VBN IN JJS CD NNS IN JJ NNS .
+"The first bomb exploded in a market in the northern city of Mosul , killing five people and wounding more than 20 others .",O O O O O O O O O O O O B-geo O O O O O O O O O O O,"DT JJ NN VBD IN DT NN IN DT JJ NN IN NNP , VBG CD NNS CC VBG JJR IN CD NNS ."
+Authorities believe the blast was aimed at a police patrol .,O O O O O O O O O O O,NNS VBP DT NN VBD VBN IN DT NN NN .
+"Hours later , a car bomb killed three and wounded 25 at a market south of Baghdad .",O O O O O O O O O O O O O O O O B-geo O,"NNS RB , DT NN NN VBD CD CC VBD CD IN DT NN NN IN NNP ."
+That market was also attacked Sunday .,O O O O O B-tim O,DT NN VBD RB VBN NNP .
+"Separately , military officials say an American Marine was killed during combat operations in al-Anbar province .",O O O O O O B-gpe B-org O O O O O O O O O,"RB , JJ NNS VBP DT JJ NN VBD VBN IN NN NNS IN JJ NN ."
+"Meanwhile , a previously unknown Shi'ite Muslim insurgent group says it is involved in attacks on American , British and other coalition forces across Iraq .",O O O O O B-geo I-geo O O O O O O O O O B-org O B-org O O O O O B-geo O,"RB , DT RB JJ NNP NNP JJ NN VBZ PRP VBZ VBN IN NNS IN NNP , NNP CC JJ NN NNS IN NNP ."
+"The message from the "" Muslim Resistance in Iraq "" group claims its members are pledged not to target Iraqi soldiers and civilians .",O O O O O B-org I-org O B-geo O O O O O O O O O O B-gpe O O O O,DT NN IN DT LQU NNP NNP IN NNP RQU NN VBZ PRP$ NNS VBP VBN RB TO VB JJ NNS CC NNS .
+A videotaped statement from the insurgents was broadcast Sunday by a Lebanese television station .,O O O O O O O O B-tim O O B-gpe O O O,DT VBN NN IN DT NNS VBD VBN NNP IN DT JJ NN NN .

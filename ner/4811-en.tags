@@ -1,0 +1,5 @@
+"Israeli troops have shot and killed a young Palestinian girl in the southern Gaza Strip , after militants fired mortar rounds at a nearby Jewish settlement .",B-gpe O O O O O O O B-gpe O O O O B-geo I-geo O O O O O O O O O O O O,"JJ NNS VBP VBN CC VBN DT JJ JJ NN IN DT JJ NNP NNP , IN NNS VBD JJ NNS IN DT JJ JJ NN ."
+Officials say the confrontation began when militants fired three mortars at the settlement near the Khan Younis refugee camp .,O O O O O O O O O O O O O O O B-geo I-geo O O O,NNS VBP DT NN VBD WRB NNS VBD CD NNS IN DT NN IN DT NNP NNP NN NN .
+"Four Israelis , including one child , were hurt .",O B-gpe O O O O O O O O,"CD NNS , VBG CD NN , VBD VBN ."
+"In response , the Israeli military fired into the refugee camp , killing the young girl .",O O O O B-gpe O O O O O O O O O O O O,"IN NN , DT JJ NN VBD IN DT NN NN , VBG DT JJ NN ."
+"Palestinian militants often fire homemade mortars and missiles into Jewish settlements in Gaza , but they rarely cause any injury or damage .",B-gpe O O O O O O O O O O O B-geo O O O O O O O O O O,"JJ NNS RB NN JJ NNS CC NNS IN JJ NNS IN NNP , CC PRP RB VBP DT NN CC NN ."

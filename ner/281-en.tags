@@ -1,0 +1,9 @@
+An Ethiopian court has convicted former President Mengistu Haile Mariam of genocide .,O B-gpe O O O O B-per I-per I-per I-per O O O,DT JJ NN VBZ VBN JJ NNP NNP NNP NNP IN NN .
+"The 12-year trial of Colonel Mengistu ended Tuesday in Addis Ababa , when a three-judge panel found him guilty of genocide and other charges .",O O O O B-org I-org O B-tim O B-geo I-geo O O O O O O O O O O O O O O,"DT JJ NN IN NNP NNP VBD NNP IN NNP NNP , WRB DT JJ NN VBD PRP JJ IN NN CC JJ NNS ."
+The former dictator was convicted in absentia .,O O O O O O O O,DT JJ NN VBD VBN IN NN .
+He fled to Zimbabwe in 1991 after he was ousted by a guerrilla campaign led by current Prime Minister Meles Zenawi .,O O O B-geo O B-tim O O O O O O O O O O O B-per O B-per I-per O,PRP VBD TO VB IN CD IN PRP VBD VBN IN DT NN NN VBN IN JJ NNP NNP NNP NNP .
+Only 34 of the more than 70 people accused of atrocities were present in court Tuesday .,O O O O O O O O O O O O O O O B-tim O,RB CD IN DT JJR IN CD NNS VBN IN NNS VBD JJ IN NN NNP .
+"A total of 25 were tried in absentia , while 14 others have died since the trial began in 1994 .",O O O O O O O O O O O O O O O O O O O B-tim O,"DT NN IN CD VBD VBN IN NN , IN CD NNS VBP VBN IN DT NN VBD IN CD ."
+Those convicted of crimes against humanity and genocide could be sentenced to death .,O O O O O O O O O O O O O O,DT VBN IN NNS IN NN CC NN MD VB VBN TO NN .
+Mengistu 's rule from 1974 to 1991 is considered among the most brutal in Africa .,B-org O O B-tim I-tim I-tim I-tim O O O O O O O B-geo O,NNP POS NN IN CD TO CD VBZ VBN IN DT RBS JJ IN NNP .
+"An estimated 50,000 people , including students , political figures and members of the middle class , were killed for opposing his regime .",O O O O O O O O O O O O O O O O O O O O O O O O,"DT VBN CD NNS , VBG NNS , JJ NNS CC NNS IN DT JJ NN , VBD VBN IN VBG PRP$ NN ."

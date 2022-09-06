@@ -1,0 +1,8 @@
+The U.S. military in Iraq has sent a team of forensic experts to the northern city of Mosul to investigate the cause of Tuesday 's massive explosion at an American military base that killed 22 people and wounded 72 others .,O B-gpe O O B-geo O O O O O O O O O O O O B-geo O O O O O B-tim O O O O O B-gpe O O O O O O O O O O O,DT NNP NN IN NNP VBZ VBN DT NN IN JJ NNS TO DT JJ NN IN NNP TO VB DT NN IN NNP POS JJ NN IN DT JJ JJ NN WDT VBD CD NNS CC VBD CD NNS .
+Initial reports said the base 's dining hall was struck by either a mortar or rocket .,O O O O O O O O O O O O O O O O O,JJ NNS VBD DT NN POS NN NN VBD VBN IN RB DT NN CC NN .
+But the military says it is not ruling out anything .,O O O O O O O O O O O,CC DT NN VBZ PRP VBZ RB VBG RP DT .
+The militant group that claimed responsibility for the attack said it was carried out by a suicide bomber .,O O O O O O O O O O O O O O O O O O O,DT JJ NN WDT VBD NN IN DT NN VBD PRP VBD VBN RP IN DT NN NN .
+"Among the dead were 14 American military personnel , four U.S civilian contractors and four Iraqi security force members .",O O O O O B-gpe O O O O O O O O O B-gpe O O O O,"IN DT NN VBD CD JJ JJ NNS , CD NNS JJ NNS CC CD JJ NN NN NNS ."
+Most of the wounded were also American servicemen .,O O O O O O B-gpe O O,JJS IN DT VBN VBD RB JJ NNS .
+"Wednesday , the streets of Mosul were deserted and the city 's five bridges were closed .",B-tim O O O O B-geo O O O O O O O O O O O,"NNP , DT NNS IN NNP VBD VBN CC DT NN POS CD NNS VBD VBN ."
+American tanks and troops were positioned across the city and helicopters hovered overhead .,B-gpe O O O O O O O O O O O O O,JJ NNS CC NNS VBD VBN IN DT NN CC NNS VBD RB .

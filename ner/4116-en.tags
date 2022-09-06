@@ -1,0 +1,4 @@
+"America has more than 1,000 art museums , 35 aviation museums , and even a museum dedicated to rock 'n roll music .",B-gpe O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ JJR IN CD NN NNS , CD NN NNS , CC RB DT NN VBN TO NN CC NN NN ."
+Now a new kind of museum is opening its doors in downtown Manhattan .,O O O O O O O O O O O O B-geo O,RB DT JJ NN IN NN VBZ VBG PRP$ NNS IN NN NNP .
+"Its location near the former World Trade Center site is part of an effort to revitalize the neighborhood left economically depressed after the September 11 , 2001 terrorist attacks on the U.S.",O O O O O O O O O O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim O O O O B-geo,"PRP$ NN IN DT JJ NNP NNP NNP NN VBZ NN IN DT NN TO VB DT NN VBN RB VBN IN DT NNP CD , CD JJ NNS IN DT NNP"
+VOA 's Nathan King reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

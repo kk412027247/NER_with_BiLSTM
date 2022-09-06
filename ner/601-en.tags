@@ -1,0 +1,8 @@
+Indian veterinary officials are killing thousands of birds this week to try to control the country 's latest outbreak of avian influenza .,B-gpe O O O O O O O O O O O O O O O O O O O O O O,JJ JJ NNS VBP VBG NNS IN NNS DT NN TO VB TO VB DT NN POS JJS NN IN JJ NN .
+"Authorities said Thursday that about 44,000 birds will be killed in West Bengal state 's Malda district .",O O B-tim O O O O O O O O B-geo I-geo O O B-geo O O,NNS VBD NNP IN IN CD NNS MD VB VBN IN NNP NNP NN POS NNP NN .
+"An outbreak of the H5N1 virus has killed about 1,000 chickens in Malda in recent days .",O O O O O O O O O O O O B-geo O O O O,DT NN IN DT NNP NN VBZ VBN IN CD NNS IN NNP IN JJ NNS .
+West Bengal is struggling with recurrent bird flu infections .,B-geo I-geo O O O O O O O O,NNP NNP VBZ VBG IN JJ NN NN NNS .
+"About 50,000 birds were slaughtered earlier this month after an outbreak in Murshidabad district .",O O O O O O O O O O O O B-geo O O,IN CD NNS VBD VBN RBR DT NN IN DT NN IN NNP NN .
+Another massive outbreak last January led to the slaughter of nearly four million chickens .,O O O O B-tim O O O O O O O O O O,DT JJ NN JJ NNP VBD TO DT NN IN RB CD CD NNS .
+The virus hit 13 of West Bengal 's 19 districts and was considered India 's worst bird flu outbreak .,O O O O O B-geo I-geo O O O O O O B-geo O O O O O O,DT NN VBD CD IN NNP NNP POS CD NNS CC VBD VBN NNP POS JJS NN NN NN .
+No cases of human infection have been reported so far in India .,O O O O O O O O O O O B-geo O,DT NNS IN JJ NN VBP VBN VBN RB RB IN NNP .

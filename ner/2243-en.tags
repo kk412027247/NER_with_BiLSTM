@@ -1,0 +1,8 @@
+Russian voters Sunday took part in the last direct election of a regional governor .,B-gpe O B-tim O O O O O O O O O O O O,JJ NNS NNP VBD NN IN DT JJ JJ NN IN DT JJ NN .
+The balloting in the far northern Nenets Autonomous District is the final time any Russian voter can express his or her choice for regional leader .,O O O O O O B-org I-org I-org O O O O O B-gpe O O O O O O O O O O O,DT NN IN DT RB JJ NNPS NNP NNP VBZ DT JJ NN DT JJ NN MD VB PRP$ CC PRP$ NN IN JJ NN .
+"Under a new law , President Vladimir Putin will appoint governors .",O O O O O B-per I-per I-per O O O O,"IN DT JJ NN , NNP NNP NNP MD VB NNS ."
+Mr. Putin argues the new system is needed to help strengthen federal authority and avert terrorist attacks .,B-per I-per O O O O O O O O O O O O O O O O,NNP NNP VBZ DT JJ NN VBZ VBN TO VB VB JJ NN CC VB JJ NNS .
+Protesters held a rally in Moscow timed to coincide with the election .,O O O O O B-geo O O O O O O O,NNS VBD DT NN IN NNP VBD TO VB IN DT NN .
+Some carried signs warning that the end of regional voting will lead to the collapse of Russia .,O O O O O O O O O O O O O O O O B-geo O,DT VBD NNS VBG IN DT NN IN JJ NN MD VB TO DT NN IN NNP .
+"At a stop in Poland on Saturday , U.S. Secretary of State Condoleezza Rice expressed concern over democratic prospects in Russia .",O O O O B-geo O B-tim O B-org O O B-org B-per I-per O O O O O O B-geo O,"IN DT NN IN NNP IN NNP , NNP NNP IN NNP NNP NNP VBD NN IN JJ NNS IN NNP ."
+"The day before , a regional assembly in eastern Russia quickly approved the first of Mr. Putin 's appointed governors .",O O O O O O O O B-geo I-geo O O O O O B-per I-per O O O O,"DT NN RB , DT JJ NN IN JJ NNP RB VBD DT NN IN NNP NNP POS JJ NNS ."

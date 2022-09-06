@@ -1,0 +1,7 @@
+The U.N. mission in the Democratic Republic of Congo says fighting resumed Thursday between dissident soldiers and government troops in the country 's east .,O B-geo O O O B-geo I-geo I-geo I-geo O O O B-tim O O O O O O O O O O O O,DT NNP NN IN DT JJ NNP IN NNP VBZ NN VBD NNP IN JJ NNS CC NN NNS IN DT NN POS NN .
+U.N. officials say troops loyal to dissident general Laurent Nkunda were battling government soldiers in North Kivu province .,B-geo O O O O O O O B-per I-per O O O O O B-geo I-geo O O,NNP NNS VBP NNS JJ TO JJ JJ JJ NNP VBD VBG NN NNS IN NNP NNP NN .
+The U.N. says clashes in the same area Wednesday killed at least 18 people .,O B-geo O O O O O O B-tim O O O O O O,DT NNP VBZ NNS IN DT JJ NN NNP VBD IN JJS CD NNS .
+Officials say the unrest has displaced thousands of local residents .,O O O O O O O O O O O,NNS VBP DT NN VBZ VBN NNS IN JJ NNS .
+"Congo 's government is struggling to rebuild following a civil war in which some four million people died , mostly from hunger and disease .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NN VBZ VBG TO VB VBG DT JJ NN IN WDT DT CD CD NNS VBD , RB IN NN CC NN ."
+"Despite a ceasefire in 2003 , violence has continued in the east of the country .",O O O O B-tim O O O O O O O O O O O,"IN DT NN IN CD , NN VBZ VBN IN DT NN IN DT NN ."
+"The United Nations has about 17,000 troops in Congo to assist the government and maintain peace .",O B-org I-org O O O O O B-geo O O O O O O O O,DT NNP NNP VBZ IN CD NNS IN NNP TO VB DT NN CC VB NN .

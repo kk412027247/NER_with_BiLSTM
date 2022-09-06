@@ -1,0 +1,6 @@
+"A Russian cargo ship has blasted off with badly-needed supplies for the International Space Station , where the crew is facing a critical food shortage .",O B-gpe O O O O O O O O O O B-art I-art I-art O O O O O O O O O O O,"DT JJ NN NN VBZ VBN RP IN JJ NNS IN DT NNP NNP NNP , WRB DT NN VBZ VBG DT JJ NN NN ."
+The ship took off from the cosmodrome in Kazakhstan early Friday .,O O O O O O O O B-geo O B-tim O,DT NN VBD RP IN DT NN IN NNP JJ NNP .
+"It is expected to reach the space station by Sunday with more than two tons of food , water , and equipment .",O O O O O O O O O B-tim O O O O O O O O O O O O O,"PRP VBZ VBN TO VB DT NN NN IN NNP IN JJR IN CD NNS IN NN , NN , CC NN ."
+U.S. and Russian space officials became alarmed earlier this month when they discovered that food supplies on the space station were quickly running out .,B-org O B-org O O O O O O O O O O O O O O O O O O O O O O,NNP CC JJ NN NNS VBD JJ RBR DT NN WRB PRP VBD IN NN NNS IN DT NN NN VBD RB VBG RP .
+NASA has said there is enough food on board to last until early January .,B-org O O O O O O O O O O O O B-tim O,NNP VBZ VBN EX VBZ JJ NN IN NN TO VB IN JJ NNP .
+Russian officials have said the crew would evacuate the space station if the cargo ship fails to get there .,B-gpe O O O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN DT NN MD VB DT NN NN IN DT NN NN VBZ TO VB RB .

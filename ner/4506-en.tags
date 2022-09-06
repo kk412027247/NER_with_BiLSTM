@@ -1,0 +1,8 @@
+"The French sports daily L'Equipe has named Swiss tennis star Roger Federer its "" Champion of Champions "" for 2005 .",O B-gpe O O B-geo O O B-gpe O O B-per I-per O O O O O O O B-tim O,DT JJ NNS JJ NNP VBZ VBN JJ NN NN NNP NNP PRP$ LQU NNP IN NNPS LQU IN CD .
+The world number-one men 's tennis player received 676 points in a vote by L'Equipe journalists to give him an overwhelming victory over world motorcycle champion Valentino Rossi of Italy .,O O O O O O O O O O O O O O B-geo O O O O O O O O O O O B-per I-per O B-geo O,DT NN JJ NNS POS NN NN VBD CD NNS IN DT NN IN NNP NNS TO VB PRP DT JJ NN IN NN NN NN NNP NNP IN NNP .
+Rossi got 387 points to take second place .,B-per O O O O O O O O,NNP VBD CD NNS TO VB JJ NN .
+"Third place went to Formula 1 world champion Fernando Alonso of Spain , while Ethiopian distance runner Kenenisa Bekele took fourth place .",O O O O O O O O B-per I-per O B-geo O O B-gpe O O B-per I-per O O O O,"NNP NN VBD TO NNP CD NN NN NNP NNP IN NNP , IN JJ NN NN NNP NNP VBD JJ NN ."
+"The 24-year-old Federer dominated men 's tennis in 2005 , compiling an 81-4 winning record for the season .",O O B-per O O O O O B-tim O O O O O O O O O O,"DT JJ NNP VBD NNS POS NN IN CD , VBG DT JJ NN NN IN DT NN ."
+He also captured the Wimbledon and U.S. Open Grand Slam titles for the second straight year .,O O O O B-geo O B-org I-org I-org I-org O O O B-tim I-tim O O,PRP RB VBD DT NNP CC NNP NNP NNP NNP NNS IN DT JJ JJ NN .
+Federer is the just the second tennis player to win the L'Equipe award in its 25-year history .,B-per O O O O O O O O O O B-geo O O O O O O,NNP VBZ DT RB DT JJ NN NN TO VB DT NNP NN IN PRP$ JJ NN .
+American Andre Agassi won in 1999 .,B-gpe B-per I-per O O B-tim O,JJ NNP NNP VBD IN CD .

@@ -1,0 +1,4 @@
+New Kids On The Block is a pop vocal group .,B-org I-org I-org I-org I-org O O O O O O,NNP NNP NNP NNP NNP VBZ DT NN JJ NN .
+"Beginning in the 1980s , they released several albums , two of which reached number one on the Billboard chart .",O O O B-tim O O O O O O O O O O O O O O B-org O O,"VBG IN DT NNS , PRP VBD JJ NNS , CD IN WDT VBD NN CD IN DT NNP NN ."
+"Now , after 14 years , all of the original members have reunited .",O O O B-tim O O O O O O O O O O,"RB , IN CD NNS , DT IN DT JJ NNS VBP VBN ."
+"Joey McIntyre , who joined the band just before his 13th birthday , visited with VOA 's Larry London during a recent trip to Washington .",B-per I-per O O O O O O O O O O O O O B-org O B-per B-geo O O O O O B-geo O,"NNP NNP , WP VBD DT NN RB IN PRP$ JJ NN , VBN IN NNP POS NNP NNP IN DT JJ NN TO NNP ."

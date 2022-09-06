@@ -1,0 +1,9 @@
+"Insurgents in Iraq have attacked the Abu Ghraib prison , outside Baghdad , injuring at least 18 American soldiers and 12 detainees .",O O B-geo O O O B-org I-org O O O B-geo O O O O O B-gpe O O O O O,"NNS IN NNP VBP VBN DT NNP NNP NN , IN NNP , VBG IN JJS CD JJ NNS CC CD NNS ."
+"The U.S. military says that between 40 and 60 insurgents detonated two car bombs and then launched rocket-propelled grenades , followed by small arms fire outside the prison Saturday evening .",O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O B-tim I-tim O,"DT NNP NN VBZ IN IN CD CC CD NNS VBD CD NN NNS CC RB VBD JJ NNS , VBN IN JJ NNS NN IN DT NN NNP NN ."
+Coalition forces repelled their attack and the prison is reported to be secured .,O O O O O O O O O O O O O O,NN NNS VBD PRP$ NN CC DT NN VBZ VBN TO VB VBN .
+It is not known whether there were insurgent casualties .,O O O O O O O O O O,PRP VBZ RB VBN IN EX VBD JJ NNS .
+"Abu Ghraib houses more than 2,000 detainees .",B-org I-org O O O O O O,NNP NNP NNS RBR IN CD NNS .
+It is notorious for a prisoner abuse scandal that resulted in charges against several U.S. soldiers .,O O O O O O O O O O O O O O B-geo O O,PRP VBZ JJ IN DT NN NN NN WDT VBD IN NNS IN JJ NNP NNS .
+"Earlier today , a car bomb explosion killed five people near Baquba .",O B-tim O O O O O O O O O B-geo O,"RBR NN , DT NN NN NN VBD CD NNS IN NNP ."
+"And in political news , the Iraqi National Assembly is scheduled to meet Sunday to elect a speaker .",O O O O O O B-gpe O O O O O O B-tim O O O O O,"CC IN JJ NN , DT JJ NNP NNP VBZ VBN TO VB NNP TO VB DT NN ."
+But politicians say Shi'ite and Sunni leaders are still not able to agree on a Sunni candidate for the post .,O O O O O O O O O O O O O O O O O O O O O,CC NNS VBP NNP CC NNP NNS VBP RB RB JJ TO VB IN DT NNP NN IN DT NN .

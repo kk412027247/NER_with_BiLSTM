@@ -1,0 +1,7 @@
+A Pakistani army official says government troops have killed 18 militants who attacked a military checkpoint near the Afghan border .,O B-gpe O O O O O O O O O O O O O O O O B-gpe O O,DT JJ NN NN VBZ NN NNS VBP VBN CD NNS WP VBD DT JJ NN IN DT JJ NN .
+"Major General Waheed Arshad says Tuesday 's violence erupted when around 40 militants fired at a military patrol in North Waziristan , in Pakistan 's northwest .",O B-per I-per I-per O B-tim O O O O O O O O O O O O O B-geo I-geo O O B-geo O O O,"NNP NNP NNP NNP VBZ NNP POS NN VBD WRB IN CD NNS VBD IN DT JJ NN IN NNP NNP , IN NNP POS NN ."
+"The government troops responded , backed by helicopter gunships .",O O O O O O O O O O,"DT NN NNS VBD , VBN IN NN NNS ."
+"Also in North Waziristan today , four soldiers were abducted by suspected militants near the town of Bannu .",O O B-geo I-geo B-tim O O O O O O O O O O O O B-geo O,"RB IN NNP NNP NN , CD NNS VBD VBN IN JJ NNS IN DT NN IN NNP ."
+"And in South Waziristan , a roadside bomb wounded six paramilitary soldiers Tuesday near the Afghan border .",O O B-geo I-geo O O O O O O O O B-tim O O B-gpe O O,"CC IN NNP NNP , DT NN NN VBD CD JJ NNS NNP IN DT JJ NN ."
+"Violence has risen in Pakistan since security forces stormed the radical Red Mosque in the capital , Islamabad , earlier this month following a week long standoff .",O O O O B-geo O O O O O O B-org I-org O O O O B-geo O O O O O O O O O O,"NN VBZ VBN IN NNP IN NN NNS VBD DT JJ NNP NNP IN DT NN , NNP , RBR DT NN VBG DT NN RB NN ."
+More than 100 people were killed .,O O O O O O O,JJR IN CD NNS VBD VBN .

@@ -1,0 +1,5 @@
+Chinese officials say a gas explosion that tore through a mine shaft in northern China has killed at least 16 miners and left at least seven others missing .,B-gpe O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O,JJ NNS VBP DT NN NN WDT VBD IN DT NN NN IN JJ NNP VBZ VBN IN JJS CD NNS CC VBN IN JJS CD NNS VBG .
+"The official Xinhua news agency says 83 miners were in the mine at the time of Wednesday 's explosion in Shanxi province , but 54 escaped .",O O B-org O O O O O O O O O O O O O B-tim O O O B-geo O O O O O O,"DT JJ NNP NN NN VBZ CD NNS VBD IN DT NN IN DT NN IN NNP POS NN IN NNP NN , CC CD VBD ."
+"Shanxi province is one of China 's biggest coal-producing regions , and mining accidents are common .",B-geo O O O O B-geo O O O O O O O O O O O,"NNP NN VBZ CD IN NNP POS JJS JJ NNS , CC NN NNS VBP JJ ."
+China has the most dangerous mining industry in the world .,B-geo O O O O O O O O O O,NNP VBZ DT RBS JJ NN NN IN DT NN .
+"At least 6,000 Chinese mine workers died on the job last year .",O O O B-gpe O O O O O O O O O,IN JJS CD JJ NN NNS VBD IN DT NN JJ NN .

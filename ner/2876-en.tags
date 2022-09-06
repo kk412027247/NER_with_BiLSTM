@@ -1,0 +1,9 @@
+"THE LION , the Fox and the Ass entered into an agreement to assist each other in the chase .",B-geo I-geo O B-geo I-geo O O O O O O O O O O O O O O O,"DT NNP , DT NNP CC DT NNP VBD IN DT NN TO VB DT NN IN DT NN ."
+"Having secured a large booty , the Lion on their return from the forest asked the Ass to allot his due portion to each of the three partners in the treaty .",O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O,"VBG VBN DT JJ NN , DT NNP IN PRP$ NN IN DT NN VBD DT NNP TO VB PRP$ JJ NN TO DT IN DT CD NNS IN DT NN ."
+The Ass carefully divided the spoil into three equal shares and modestly requested the two others to make the first choice .,O O O O O O O O O O O O O O O O O O O O O O,DT NNP RB VBD DT NN IN CD JJ NNS CC RB VBD DT CD NNS TO VB DT JJ NN .
+"The Lion , bursting out into a great rage , devoured the Ass .",O B-geo O O O O O O O O O O O O,"DT NNP , VBG RP IN DT JJ NN , VBD DT NNP ."
+Then he requested the Fox to do him the favor to make a division .,O O O O B-geo O O O O O O O O O O,RB PRP VBD DT NNP TO VB PRP DT NN TO VB DT NN .
+The Fox accumulated all that they had killed into one large heap and left to himself the smallest possible morsel .,O B-org O O O O O O O O O O O O O O O O O O O,DT NNP VBN DT IN PRP VBD VBN IN CD JJ NN CC VBD TO PRP DT JJS JJ NN .
+"The Lion said , "" Who has taught you , my very excellent fellow , the art of division ? You are perfect to a fraction . """,O B-per O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP VBD , LQU WP VBZ VBN PRP , PRP$ RB JJ NN , DT NN IN NN . PRP VBP JJ TO DT NN . LQU"
+"He replied , "" I learned it from the Ass , by witnessing his fate . """,O O O O O O O O O O O O O O O O O,"PRP VBD , LQU PRP VBD PRP IN DT NNP , IN VBG PRP$ NN . LQU"
+Happy is the man who learns from the misfortunes of others .,O O O O O O O O O O O O,NNP VBZ DT NN WP VBZ IN DT NNS IN NNS .

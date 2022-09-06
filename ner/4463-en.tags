@@ -1,0 +1,9 @@
+Spanish authorities say firefighters are making progress against wildfires that have scorched large parts of the Canary Islands .,B-gpe O O O O O O O O O O O O O O O B-org I-org O,JJ NNS VBP NNS VBP VBG NN IN NNS WDT VBP VBN JJ NNS IN DT NNP NNP .
+"Officials said Wednesday the fires on the main islands of Tenerife and Gran Canaria had "" stabilized "" as winds eased and temperatures moderated .",O O B-tim O O O O O O O B-org I-org I-org I-org O O O O O O O O O O O,NNS VBD NNP DT NNS IN DT JJ NNS IN NNP CC NNP NNP VBD LQU VBN RQU IN NNS VBD CC NNS VBD .
+Spanish Prime Minister Jose Luis Rodriguez Zapatero inspected the damage and promised special government aid .,B-gpe B-per O B-per I-per I-per I-per O O O O O O O O O,JJ NNP NNP NNP NNP NNP NNP VBD DT NN CC VBD JJ NN NN .
+"Authorities say a quarter of the forests on both islands have been incinerated , along with habitats of rare plants and animals .",O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT NN IN DT NNS IN DT NNS VBP VBN VBN , IN IN NNS IN JJ NNS CC NNS ."
+The blazes have not reached coastal resorts popular with European tourists .,O O O O O O O O O O O O,DT NNS VBP RB VBN JJ NNS JJ IN JJ NNS .
+Environmentalists call the fires a catastrophe .,O O O O O O O,NNS VBP DT NNS DT NN .
+"About 9,000 people were in emergency shelters on Tenerife Wednesday , while most of the 5,000 displaced people on Gran Canaria have begun returning home .",O O O O O O O O B-org B-tim O O O O O O O O O B-org I-org O O O O O,"IN CD NNS VBD IN NN NNS IN NNP NNP , IN JJS IN DT CD JJ NNS IN NNP NNP VBP VBN VBG NN ."
+Tenerife authorities say they suspect arsonists started the wildfire on the island .,B-org O O O O O O O O O O O O,NNP NNS VBP PRP VBP NNS VBD DT NN IN DT NN .
+Police on Gran Canaria are holding a forest worker who confessed to starting a fire there last Friday .,O O B-org I-org O O O O O O O O O O O O O B-tim O,NNS IN NNP NNP VBP VBG DT NN NN WP VBD TO VBG DT NN RB JJ NNP .

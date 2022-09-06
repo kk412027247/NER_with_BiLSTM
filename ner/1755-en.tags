@@ -1,0 +1,6 @@
+"A California man has filed a lawsuit against Sean "" Diddy "" Combs , claiming the rap mogul punched and pushed him and his girlfriend in a Hollywood nightclub .",O B-geo O O O O O O B-per O B-per O B-per O O O O O O O O O O O O O O B-geo I-geo O,"DT NNP NN VBZ VBN DT NN IN NNP LQU NNP RQU NNP , VBG DT NN NN VBD CC VBD PRP CC PRP$ NN IN DT NNP NN ."
+Gerard Rechnitzer claims he and his girlfriend encountered Combs in Hollywood 's Roosevelt Hotel on February 25 .,B-per I-per O O O O O O B-per O B-geo O B-per O O B-tim I-tim O,NNP NNP VBZ PRP CC PRP$ NN VBD NNP IN NNP POS NNP NNP IN NNP CD .
+The lawsuit states Combs was speaking to Rechnitzer 's girlfriend .,O O O B-per O O O B-per O O O,DT NN NNS NNP VBD VBG TO NNP POS NN .
+"As Rechnitzer approached , Combs yelled at him and pushed him into a parked car .",O B-per O O B-per O O O O O O O O O O O,"IN NNP VBD , NNP VBD IN PRP CC VBD PRP IN DT JJ NN ."
+The March 2 lawsuit asks for unspecified damages .,O B-tim I-tim O O O O O O,DT NNP CD NN VBZ IN JJ NNS .
+"An attorney for Combs called the suit "" completely baseless . """,O O O B-per O O O O O O O O,DT NN IN NNP VBD DT NN LQU RB JJ . LQU

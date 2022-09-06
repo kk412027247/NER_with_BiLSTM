@@ -1,0 +1,8 @@
+Major U.S. professional sports organizations are adding a financial boost to relief efforts following Hurricane Katrina .,O B-geo O O O O O O O O O O O O B-nat I-nat O,NNP NNP JJ NNS NNS VBP VBG DT JJ NN TO NN NNS VBG NNP NNP .
+"The National Football League says it is donating $ 1 million to the American Red Cross to assist hurricane victims in Louisiana , Mississippi and Alabama .",O B-org I-org I-org O O O O O O O O O B-org I-org I-org O O O O O B-geo O B-geo O B-geo O,"DT NNP NNP NNP VBZ PRP VBZ VBG $ CD CD TO DT NNP NNP NNP TO VB NN NNS IN NNP , NNP CC NNP ."
+The NFL also says it is working on other ways to assist .,O B-org O O O O O O O O O O O,DT NNP RB VBZ PRP VBZ VBG IN JJ NNS TO VB .
+The National Basketball Association and Women 's NBA are combining their aid efforts .,O B-org I-org I-org I-org I-org I-org I-org O O O O O O,DT NNP NNP NNP CC NNP POS NNP VBP VBG PRP$ NN NNS .
+Players are making donations and helping directly with the U.S. Federal Emergency Management Agency .,O O O O O O O O O B-org I-org I-org I-org I-org O,NNS VBP VBG NNS CC VBG RB IN DT NNP NNP NNP NNP NNP .
+The American Red Cross is raising money at WNBA playoff games in Los Angeles and Indiana .,O B-org I-org I-org O O O O B-org O O O B-geo I-geo O B-geo O,DT NNP NNP NNP VBZ VBG NN IN NNP NN NNS IN NNP NNP CC NNP .
+Major League Baseball teams are also gathering money and donating items to help .,O B-org I-org O O O O O O O O O O O,NNP NNP NNP NNS VBP RB VBG NN CC VBG NNS TO VB .
+Clothes and non-perishable food items were collected Wednesday at Dodger Stadium in Los Angeles .,O O O O O O O B-tim O B-org I-org O B-geo I-geo O,NNS CC JJ NN NNS VBD VBN NNP IN NNP NNP IN NNP NNP .

@@ -1,0 +1,8 @@
+Rain has washed out the entire first day of the fifth and final cricket test between South Africa and England in Centurion .,O O O O O O O O O O O O O O O O B-org I-org O B-org O B-geo O,NN VBZ VBN RP DT JJ JJ NN IN DT NN CC JJ NN NN IN NNP NNP CC NNP IN NNP .
+"The start of Friday 's match was delayed twice , but as rain continued to fall it was clear the players would not be able to take the field at all .",O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN IN NNP POS NN VBD VBN RB , CC IN NN VBD TO VB PRP VBD JJ DT NNS MD RB VB JJ TO VB DT NN IN DT ."
+Occasional thundershowers are predicted for Saturday .,O O O O O B-tim O,JJ NNS VBP VBN IN NNP .
+England leads South Africa in the series 2-1 .,B-org O B-org I-org O O O O O,NNP VBZ NNP NNP IN DT NN CD .
+The second test ended in a draw .,O O O O O O O O,DT JJ NN VBN IN DT NN .
+"South Africa named all rounder Andrew Hall and fast bowler Andre Nel to the starting line-up , replacing batsman Boeta Dippenaar and fast bowler Dale Steyn .",B-org I-org O O O B-per I-per O O O B-per I-per O O O O O O O B-per I-per O O O B-per I-per O,"NNP NNP VBD NN NN NNP NNP CC JJ NN NNP NNP TO DT VBG NN , VBG NN NNP NNP CC JJ NN NNP NNP ."
+England made just one change to the team that won the fourth test .,B-org O O O O O O O O O O O O O,NNP VBD RB CD NN TO DT NN WDT VBD DT JJ NN .
+"Simon Jones was recalled for James Anderson , who bowled without much control in the fourth test .",B-per I-per O O O B-per I-per O O O O O O O O O O O,"NNP NNP VBD VBN IN NNP NNP , WP VBD IN NN NN IN DT JJ NN ."

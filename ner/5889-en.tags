@@ -1,0 +1,8 @@
+"A powerful rocket exploded late Wednesday in Afghanistan 's capital , Kabul , near an area where the U.S. embassy and NATO peacekeeping headquarters are located .",O O O O O B-tim O B-geo O O O B-per O O O O O O B-geo O O B-org O O O O O,"DT JJ NN VBD JJ NNP IN NNP POS NN , NNP , IN DT NN WRB DT NNP NN CC NNP NN NNS VBP VBN ."
+Reports from the scene say a security guard was wounded in the blast .,O O O O O O O O O O O O O O,NNS IN DT NN VBP DT NN NN VBD VBN IN DT NN .
+"In Washington , a U.S. State Department spokesman says the rocket hit or landed close to the Afghan Communications Ministry .",O B-geo O O B-org I-org I-org O O O O O O O O O O B-gpe B-org I-org O,"IN NNP , DT NNP NNP NNP NN VBZ DT NN VBD CC VBD RB TO DT JJ NNP NNP ."
+The U.S. embassy and a base for NATO-led forces are nearby .,O B-geo O O O O O O O O O O,DT NNP NN CC DT NN IN JJ NNS VBP JJ .
+NATO troops have sealed off the area .,B-org O O O O O O O,NNP NNS VBP VBN RP DT NN .
+U.S. officials say all U.S. embassy personnel are safe and accounted for .,B-geo O O O B-geo O O O O O O O O,NNP NNS VBP DT NNP NN NNS VBP JJ CC VBD IN .
+A U.S. embassy spokesman told the Associated Press he could not confirm whether the diplomatic mission was the target of the blast .,O B-geo O O O O B-org I-org O O O O O O O O O O O O O O O,DT NNP NN NN VBD DT NNP NNP PRP MD RB VB IN DT JJ NN VBD DT NN IN DT NN .
+No one has claimed responsibility for the attack .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .

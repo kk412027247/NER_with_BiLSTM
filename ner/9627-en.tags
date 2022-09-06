@@ -1,0 +1,4 @@
+"A MAN committed a murder , and was pursued by the relations of the man whom he murdered .",O O O O O O O O O O O O O O O O O O O,"DT NN VBD DT NN , CC VBD VBN IN DT NNS IN DT NN WP PRP VBN ."
+"On his reaching the river Nile he saw a Lion on its bank and being fearfully afraid , climbed up a tree .",O O O O O B-geo O O O B-per O O O O O O O O O O O O O,"IN PRP$ VBG DT NN NNP PRP VBD DT NNP IN PRP$ NN CC VBG RB JJ , VBD RP DT NN ."
+"He found a serpent in the upper branches of the tree , and again being greatly alarmed , he threw himself into the river , where a crocodile caught him and ate him .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBD DT NN IN DT JJ NNS IN DT NN , CC RB VBG RB VBN , PRP VBD PRP IN DT NN , WRB DT NN VBD PRP CC VB PRP ."
+"Thus the earth , the air , and the water alike refused shelter to a murderer .",O O O O O O O O O O O O O O O O O,"RB DT NN , DT NN , CC DT NN RB VBD NN TO DT NN ."

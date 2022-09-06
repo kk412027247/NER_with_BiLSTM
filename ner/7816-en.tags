@@ -1,0 +1,6 @@
+The Iraqi Election Commission says preliminary results show about 70 percent turnout in the country 's December 15 parliamentary elections .,O B-gpe B-org I-org O O O O O O O O O O O O B-tim I-tim O O O,DT JJ NNP NNP VBZ JJ NNS VBP IN CD NN NN IN DT NN POS NNP CD JJ NNS .
+The commission announced the figure Wednesday as vote counting continued .,O O O O O B-tim O O O O O,DT NN VBD DT NN NNP IN NN NN VBN .
+Final results are expected in January .,O O O O O B-tim O,JJ NNS VBP VBN IN NNP .
+"Preliminary partial results show a strong lead for a Shi'ite coalition , prompting calls of fraud from Iraq 's main Sunni Arab coalition , the Iraqi Consensus Front .",O O O O O O O O O O O O O O O O O B-geo O O B-per I-per O O O B-gpe O O O,"JJ JJ NNS VBP DT JJ NN IN DT NNP NN , VBG NNS IN NN IN NNP POS JJ NNP NNP NN , DT JJ NNP NNP ."
+The Sunni coalition warned it may call for a re-vote .,O B-per O O O O O O O O O,DT NNP NN VBD PRP MD VB IN DT JJ .
+"Meanwhile , the U.S. military says at least nine insurgents were killed and 16 captured during two incidents Monday and Tuesday .",O O O B-geo O O O O O O O O O O O O O O B-tim I-tim I-tim O,"RB , DT NNP NN VBZ IN JJS CD NNS VBD VBN CC CD VBN IN CD NNS NNP CC NNP ."

@@ -1,0 +1,9 @@
+Haitian authorities said three inmates were killed Sunday in a prison riot in Haiti 's quake-damaged penitentiary .,B-gpe O O O O O O B-tim O O O O O B-geo O O O O,JJ NNS VBD CD NNS VBD VBN NNP IN DT NN NN IN NNP POS JJ NN .
+Officials said the three were trying to escape from the Port-au-Prince prison .,O O O O O O O O O O O O O,NNS VBD DT CD VBD VBG TO VB IN DT NN NN .
+It was not immediately clear if any other inmates did escape .,O O O O O O O O O O O O,PRP VBD RB RB JJ IN DT JJ NNS VBD NN .
+United Nations troops and Haitian police were in the prison at the time of the uprising .,B-org I-org O O B-gpe O O O O O O O O O O O O,NNP NNP NNS CC JJ NNS VBD IN DT NN IN DT NN IN DT NN .
+The U.N. said the inmates briefly held seven people connected with the United Nations hostage .,O B-org O O O O O O O O O O B-org I-org O O,DT NNP VBD DT NNS RB VBD CD NNS VBN IN DT NNP NNP NN .
+Some of the hostages suffered minor injuries .,O O O O O O O O,DT IN DT NNS VBD JJ NNS .
+The Miami Herald newspaper reports the prison upheaval was quashed by mid-afternoon when U.N. troops blocked off the streets surrounding the prison .,O B-geo I-geo O O O O O O O O B-tim O B-org O O O O O O O O O,DT NNP NNP NN VBZ DT NN NN VBD VBN IN NN WRB NNP NNS VBD RP DT NNS VBG DT NN .
+Sunday 's uprising continues a long saga of unrest and dangerous conditions in Haiti 's prisons .,B-tim O O O O O O O O O O O O B-geo O O O,NNP POS NN VBZ DT JJ NN IN NN CC JJ NNS IN NNP POS NNS .
+"In the chaos after Haiti 's devastating earthquake in January , thousands of prisoners escaped the massively overcrowded penitentiary , including some well-known , dangerous gang leaders .",O O O O B-geo O O O O B-tim O O O O O O O O O O O O O O O O O O,"IN DT NN IN NNP POS JJ NN IN NNP , NNS IN NNS VBD DT RB JJ NN , VBG DT JJ , JJ NN NNS ."

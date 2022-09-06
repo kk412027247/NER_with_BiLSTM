@@ -1,0 +1,7 @@
+"Zoo officials in San Diego , California , say a giant panda was born at the San Diego Zoo on Tuesday , making it one of only about 10 giant pandas in the United States .",O O O B-geo I-geo O B-geo O O O O O O O O O B-geo I-geo I-geo O B-tim O O O O O O O O O O O O B-geo I-geo O,"NNP NNS IN NNP NNP , NNP , VBP DT JJ NN VBD VBN IN DT NNP NNP NNP IN NNP , VBG PRP CD IN RB IN CD JJ NNS IN DT NNP NNPS ."
+"The officials say the mother , a 13-year-old giant panda pregnant with twins , gave birth to one cub , but the other died in the womb .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBP DT NN , DT JJ NN NN JJ IN NNS , VBD NN TO CD NN , CC DT NN VBD IN DT NN ."
+It is the second panda birth in less than a month at a U.S. zoo .,O O O O O O O O O O O O O B-geo O O,PRP VBZ DT JJ NN NN IN JJR IN DT NN IN DT NNP NN .
+The first was born three weeks ago at Washington 's National Zoo .,O O O O B-tim O O O B-geo O B-geo I-geo O,DT NN VBD VBN CD NNS RB IN NNP POS NNP NNP .
+"On Tuesday , veterinarians determined that cub is male .",O B-tim O O O O O O O O,"IN NNP , NNS VBD IN NN VBZ JJ ."
+The cub 's parents are being loaned by China under a 10-year agreement .,O O O O O O O O B-geo O O O O O,DT NN POS NNS VBP VBG VBN IN NNP IN DT JJ NN .
+"Giant pandas are endangered with a total population of 1,600 , both in captivity and in the wild .",O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP VBN IN DT JJ NN IN CD , DT IN NN CC IN DT NN ."

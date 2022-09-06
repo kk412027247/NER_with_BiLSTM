@@ -1,0 +1,7 @@
+Russia says it will not pay a higher rent to Ukraine for basing its Black Sea fleet on Ukraine 's Crimean peninsula .,B-gpe O O O O O O O O O B-org O O O B-geo I-geo O O B-org O B-geo O O,NNP VBZ PRP MD RB VB DT JJR NN IN NNP IN VBG PRP$ NNP NNP NN IN NNP POS JJ NN .
+"Russian Deputy Foreign Minister Grigory Karasin says the annual rent for the naval base is not subject to change , because it was fixed by agreement with Ukraine in 1997 .",B-gpe O O O B-per I-per O O O O O O O O O O O O O O O O O O O O O B-geo O B-tim O,"JJ NN NN NN NNP NNP VBZ DT JJ NN IN DT JJ NN VBZ RB JJ TO VB , IN PRP VBD VBN IN NN IN NNP IN CD ."
+"Under the deal , Russia pays $ 93 million a year to use the base .",O O O O B-org O O O O O O O O O O O,"IN DT NN , NNP VBZ $ CD CD DT NN TO VB DT NN ."
+Ukraine wants to increase that figure significantly to reflect current market prices .,B-gpe O O O O O O O O O O O O,NNP VBZ TO VB DT NN RB TO VB JJ NN NNS .
+Karasin met with Ukrainian officials in Kiev Tuesday to try to resolve the dispute .,B-per O O B-gpe O O B-tim I-tim O O O O O O O,NNP VBD IN JJ NNS IN NNP NNP TO VB TO VB DT NN .
+Both sides said they would continue discussing the issue .,O O O O O O O O O O,DT NNS VBD PRP MD VB VBG DT NN .
+They also agreed to conduct an inventory of lighthouses and other Black Sea facilities that Ukraine claims as its own .,O O O O O O O O O O O B-geo I-geo O O B-org O O O O O,PRP RB VBD TO VB DT NN IN NNS CC JJ NNP NNP NNS WDT NNP NNS IN PRP$ NN .

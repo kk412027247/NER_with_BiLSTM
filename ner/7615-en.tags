@@ -1,0 +1,5 @@
+Authorities in India say at least 17 policemen were killed Saturday when Maoist rebels blew up their bus in northern India .,O O B-geo O O O O O O O B-tim O O O O O O O O O B-geo O,NNS IN NNP VBP IN JJS CD NNS VBD VBN NNP WRB NNP NNS VBD RP PRP$ NN IN JJ NNP .
+Police officials say rebels detonated a landmine as the police bus approached a bridge in India 's northern state of Uttar Pradesh .,O O O O O O O O O O O O O O O B-geo O O O O B-geo I-geo O,NN NNS VBP NNS VBD DT NN IN DT NN NN VBD DT NN IN NNP POS JJ NN IN NNP NNP .
+"Maoist rebels , who claim to be fighting for the rights of landless peasants , operate in southern and eastern India .",O O O O O O O O O O O O O O O O O O O O B-geo O,"NNP NNS , WP VBP TO VB VBG IN DT NNS IN JJ NNS , VBP IN JJ CC JJ NNP ."
+They often attack the police through ambushes and landmines .,O O O O O O O O O O,PRP RB VBP DT NN IN NNS CC NNS .
+"They are also active in Nepal , which borders both Uttar Pradesh and neighboring Bihar state .",O O O O O B-gpe O O O O B-org I-org O O B-geo O O,"PRP VBP RB JJ IN NNP , WDT VBZ DT NNP NNP CC JJ NNP NN ."

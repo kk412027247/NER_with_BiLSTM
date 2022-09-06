@@ -1,0 +1,8 @@
+Ukraine 's parliament has adopted a bill describing the famine of the 1930s as genocide .,B-geo O O O O O O O O O O O B-tim O O O,NNP POS NN VBZ VBN DT NN VBG DT NN IN DT NNS IN NN .
+"Lawmakers Tuesday backed the measure , which calls the event genocide against the Ukrainian people .",O B-tim O O O O O O O O O O O B-gpe O O,"NNS NNP VBD DT NN , WDT VBZ DT NN NN IN DT JJ NNS ."
+An earlier draft had called it genocide against the Ukrainian nation .,O O O O O O O O O B-gpe O O,DT JJR NN VBD VBN PRP NN IN DT JJ NN .
+Ukraine was under Soviet leadership at the time of the famine in 1932 - 33 .,B-geo O O O O O O O O O O O B-tim I-tim I-tim O,NNP VBD IN JJ NN IN DT NN IN DT NN IN CD IN CD .
+The famine killed as many as 10 million people in what was then Soviet Ukraine .,O O O O O O O O O O O O O O B-geo O,DT NN VBD RB JJ IN CD CD NNS IN WP VBD RB JJ NNP .
+"Many analysts say the famine was not from natural causes , but instead was the result of government policies under Soviet dictator Josef Stalin .",O O O O O O O O O O O O O O O O O O O O O O B-per I-per O,"JJ NNS VBP DT NN VBD RB IN JJ NNS , CC RB VBD DT NN IN NN NNS IN JJ NN NNP NNP ."
+Ukrainian President Viktor Yushchenko supported the bill .,B-gpe B-per I-per I-per O O O O,JJ NNP NNP NNP VBD DT NN .
+"On Saturday , he spoke in the capital , Kiev , to mark the 73rd anniversary of the tragedy , known in Ukraine as the Holodomor .",O B-tim O O O O O O O B-per O O O O O O O O O O O O B-geo O O B-geo O,"IN NNP , PRP VBD IN DT NN , NNP , TO VB DT JJ NN IN DT NN , VBN IN NNP IN DT NNP ."

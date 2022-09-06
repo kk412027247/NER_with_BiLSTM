@@ -1,0 +1,8 @@
+"Fifteen people have been killed in the crash of an airplane belonging to Venezuela 's state-run airline , Conviasa .",O O O O O O O O O O O O O B-geo O O O O B-org O,"CD NNS VBP VBN VBN IN DT NN IN DT NN VBG TO NNP POS JJ NN , NNP ."
+Thirty-six others on board survived the accident in a steel mill yard in Bolivar state .,O O O O O O O O O O O O O B-geo O O,CD NNS IN NN VBD DT NN IN DT NN NN NN IN NNP NN .
+Steel mill workers helped pull the survivors from the smoking wreckage .,O O O O O O O O O O O O,NN NN NNS VBD VB DT NNS IN DT NN NN .
+"It is not clear what caused the crash , but officials say the pilot had radioed traffic controllers that something was wrong before the plane went down on the property of the state-run Sidor steel mill .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ RB JJ WP VBD DT NN , CC NNS VBP DT NN VBD VBN NN NNS IN DT VBD JJ IN DT NN VBD RB IN DT NN IN DT JJ NNP NN NN ."
+"The aircraft , a twin-engine turboprop , was carrying 47 passengers and a crew of four .",O O O O O O O O O O O O O O O O O,"DT NN , DT JJ NN , VBD VBG CD NNS CC DT NN IN CD ."
+It was flying from the Caribbean resort island of Margarita to the industrial city of Puerto Ordaz .,O O O O O B-geo O O O B-geo O O O O O B-geo I-geo O,PRP VBD VBG IN DT NNP NN NN IN NNP TO DT JJ NN IN NNP NNP .
+"Bolivar 's state governor described the large number of survivors as "" a miracle . """,B-geo O O O O O O O O O O O O O O O,NNP POS NN NN VBD DT JJ NN IN NNS IN LQU DT NN . LQU
+"And he called the steel mill workers "" heroes "" for assisting the survivors .",O O O O O O O O O O O O O O O,CC PRP VBD DT NN NN NNS LQU NNS LQU IN VBG DT NNS .

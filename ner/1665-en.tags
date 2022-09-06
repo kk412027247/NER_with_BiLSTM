@@ -1,0 +1,6 @@
+Iranian officials say Pakistan has freed a group of Iranians who were kidnapped Sunday near the Pakistani border .,B-gpe O O B-geo O O O O O B-gpe O O O B-tim O O B-gpe O O,JJ NNS VBP NNP VBZ VBN DT NN IN NNS WP VBD VBN NNP IN DT JJ NN .
+"Iran 's state-run news agency , IRNA , says the 21 captives were freed Monday in a raid by Pakistani security forces .",B-geo O O O O O B-org O O O O O O O B-tim O O O O B-gpe O O O,"NNP POS JJ NN NN , NNP , VBZ DT CD NNS VBD VBN NNP IN DT NN IN JJ NN NNS ."
+"State media said the Iranians were abducted in Iran 's Sistan-Baluchistan province by gunmen who opened fire on their bus , and then took the captives into Pakistan .",O O O O B-gpe O O O B-geo O O O O O O O O O O O O O O O O O O B-geo O,"NNP NNS VBD DT NNS VBD VBN IN NNP POS JJ NN IN NNS WP VBD NN IN PRP$ NN , CC RB VBD DT NNS IN NNP ."
+"Sunday 's kidnapping occurred between the towns of Chabahar and Iranshahr , on a road known for drug smuggling .",B-tim O O O O O O O B-geo O B-geo O O O O O O O O O,"NNP POS NN VBD IN DT NNS IN NNP CC NNP , IN DT NN VBN IN NN NN ."
+"Last week , two Belgian tourists were kidnapped by bandits in the same region .",O O O O B-gpe O O O O O O O O O O,"JJ NN , CD JJ NNS VBD VBN IN NNS IN DT JJ NN ."
+One has since been released .,O O O O O O,CD VBZ IN VBN VBN .

@@ -1,0 +1,7 @@
+Cuba says it has resumed diplomatic contact with eight European Union countries that have stopped inviting dissidents to official embassy events .,B-org O O O O O O O O B-org I-org O O O O O O O O O O O,NNP VBZ PRP VBZ VBN JJ NN IN CD NNP NNP NNS WDT VBP VBN VBG NNS TO JJ JJ NNS .
+Foreign Minister Felipe Perez Roque announced the Cuban government 's decision at a news conference in Havana Monday .,O B-per I-per I-per I-per O O B-gpe O O O O O O O O B-geo B-tim O,JJ NN NNP NNP NNP VBD DT JJ NN POS NN IN DT NN NN IN NNP NNP .
+"Mr. Roque says Cuban authorities will start meeting with the ambassadors of the EU countries which include France , Germany and Britain .",B-per I-per O B-gpe O O O O O O O O O B-org O O O B-geo O B-geo O B-geo O,"NNP NNP VBZ JJ NNS MD VB VBG IN DT NNS IN DT NNP NNS WDT VBP NNP , NNP CC NNP ."
+Relations between Cuba and the European Union became strained in 2003 after the Cuban government cracked down on opposition to President Fidel Castro .,O O B-geo O O B-org I-org O O O B-tim O O B-gpe O O O O O O B-per I-per I-per O,NNP IN NNP CC DT NNP NNP VBD VBN IN CD IN DT JJ NN VBD RP IN NN TO NNP NNP NNP .
+Seventy-five dissidents were arrested and imprisoned for lenghty jail terms .,O O O O O O O O O O O,CD NNS VBD VBN CC VBN IN JJ NN NNS .
+Fourteen of them have been released .,O O O O O O O,CD IN PRP VBP VBN VBN .
+The European Union began to reduce high-level government visits and invited dissidents to embassy gatherings .,O B-org I-org O O O O O O O O O O O O O,DT NNP NNP VBD TO VB JJ NN NNS CC VBD NNS TO VB NNS .

@@ -1,0 +1,7 @@
+"Thirty-four Cuban refugees have been sent back to Cuba from the United States , after being held for a week on a Coast Guard ship .",O B-gpe O O O O O O B-geo O O B-geo I-geo O O O O O O O O O B-org I-org O O,"CD JJ NNS VBP VBN VBN RB TO NNP IN DT NNP NNPS , IN VBG VBN IN DT NN IN DT NNP NNP NN ."
+The refugees were sent home Friday .,O O O O O B-tim O,DT NNS VBD VBN NN NNP .
+"They had been kept on a Coast Guard cutter offshore since November 5 , when their eight-meter speedboat capsized in rough seas offshore .",O O O O O O B-org I-org O O O B-tim I-tim O O O O O O O O O O O,"PRP VBD VBN VBN IN DT NNP NNP NN RB IN NNP CD , WRB PRP$ JJ NN VBN IN JJ NNS RB ."
+Two women died in the accident .,O O O O O O O,CD NNS VBD IN DT NN .
+The boat captain was questioned but released without charges .,O O O O O O O O O O,DT NN NN VBD VBN CC VBN IN NNS .
+The 34 refugees returned to Cuba along with 45 others seized in separate operations .,O O O O O B-geo O O O O O O O O O,DT CD NNS VBD TO NNP IN IN CD NNS VBN IN JJ NNS .
+"The United States generally allows Cuban migrants who make it to U.S. shores to stay , but sends them home if they are intercepted at sea .",O B-geo I-geo O O B-gpe O O O O O B-geo O O O O O O O O O O O O O O O,"DT NNP NNPS RB VBZ JJ NNS WP VBP PRP TO NNP NNS TO VB , CC VBZ PRP NN IN PRP VBP VBN IN NN ."

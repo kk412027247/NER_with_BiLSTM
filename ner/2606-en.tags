@@ -1,0 +1,7 @@
+"Tornadoes ripped through the southern U.S. Saturday , killing at least 10 people , including three children .",B-tim O O O O B-geo B-tim O O O O O O O O O O O,"NNP VBD IN DT JJ NNP NNP , VBG IN JJS CD NNS , VBG CD NNS ."
+Dozens of other people were injured .,O O O O O O O,NNS IN JJ NNS VBD VBN .
+"A tornado more than a kilometer wide tore through central Mississippi , killing residents , destroying homes , blocking highways and knocking out power .",O O O O O O O O O O B-geo O O O O O O O O O O O O O O,"DT NN JJR IN DT NN JJ NN IN JJ NNP , VBG NNS , VBG NNS , VBG NNS CC VBG RP NN ."
+Yazoo City was hit the hardest .,B-geo I-geo O O O O O,NNP NNP VBD VBN DT JJS .
+"Mississippi 's governor , Haley Barbour , declared a state of emergency in the affected counties .",B-geo O O O B-per I-per O O O O O O O O O O O,"NNP POS NN , NNP NNP , VBD DT NN IN NN IN DT JJ NNS ."
+He directed National Guard troops to help local officials responding to the storms .,O O B-org I-org O O O O O O O O O O,PRP VBD NNP NNP NNS TO VB JJ NNS VBG TO DT NNS .
+Tornadoes also struck other southern states .,B-tim O O O O O O,NNP RB VBD JJ JJ NNS .

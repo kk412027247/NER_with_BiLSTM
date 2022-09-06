@@ -1,0 +1,9 @@
+"Another Somali government official has been gunned down in a neighborhood in the capital , Mogadishu .",O B-gpe O O O O O O O O O O O O O B-geo O,"DT JJ NN NN VBZ VBN VBN RP IN DT NN IN DT NN , NNP ."
+Police say Deputy District Commissioner Osman Ali was killed late Monday by two unknown men armed with pistols .,O O B-org I-org I-org B-per I-per O O O B-tim O O O O O O O O,NNS VBP NNP NNP NNP NNP NNP VBD VBN RB NNP IN CD JJ NNS VBN IN NNS .
+"Ali was the commissioner of the Huriwa district , north of the capital .",B-per O O O O O B-geo O O O O O O O,"NNP VBD DT NN IN DT NNP NN , NN IN DT NN ."
+Several government officials have been assassinated in the capital in recent weeks .,O O O O O O O O O O B-tim O O,JJ NN NNS VBP VBN VBN IN DT NN IN JJ NNS .
+A government worker was gunned down Saturday morning .,O O O O O O B-tim I-tim O,DT NN NN VBD VBN RP NNP NN .
+A former intelligence officer and a court official were killed by unknown gunmen in May .,O O O O O O O O O O O O O O B-tim O,DT JJ NN NN CC DT NN NN VBD VBN IN JJ NNS IN NNP .
+The government has been unable to stop the violence in Mogadishu since declaring victory last month over Islamists insurgents .,O O O O O O O O O O B-geo O O O O O B-tim I-tim I-tim O,DT NN VBZ VBN JJ TO VB DT NN IN NNP IN VBG NN JJ NN IN NNPS NNS .
+"The violence between insurgents and an alliance of government and Ethiopian troops has left more than 1,300 people dead since February .",O O O O O O O O O O B-gpe O O O O O O O O O B-tim O,DT NN IN NNS CC DT NN IN NN CC JJ NNS VBZ VBN JJR IN CD NNS JJ IN NNP .
+"Somalia has not had an effective central government in 16 years , since warlords toppled dictator Mohamed Siad Barre in 1991 .",B-org O O O O O O O O B-tim O O O O O O B-per I-per I-per O B-tim O,"NNP VBZ RB VBN DT JJ JJ NN IN CD NNS , IN NNS VBD NN NNP NNP NNP IN CD ."

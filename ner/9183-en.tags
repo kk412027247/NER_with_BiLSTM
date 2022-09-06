@@ -1,0 +1,8 @@
+Iraqi Foreign Minister Hoshyar Zebari says the building targeted in a U.S. raid early Thursday was a liaison office that was in the process of becoming an Iranian consulate .,B-gpe O B-per I-per I-per O O O O O O B-geo O O B-tim O O O O O O O O O O O O B-gpe O O,JJ NNP NNP NNP NNP VBZ DT NN VBN IN DT NNP NN JJ NNP VBD DT NN NN WDT VBD IN DT NN IN VBG DT JJ NN .
+"Zebari said Friday that the office had operated in Irbil , in Iraq 's Kurdish-controlled north , for a decade .",B-per O B-tim O O O O O O B-geo O O B-geo O O O O O O O O,"NNP VBD NNP IN DT NN VBD VBN IN NNP , IN NNP POS JJ NN , IN DT NN ."
+Coalition troops raided the building in a pre-dawn operation Thursday .,O O O O O O O B-tim O B-tim O,NN NNS VBD DT NN IN DT JJ NN NNP .
+The U.S. military says six people were detained for alleged ties to activities targeting troops in Iraq .,O B-geo O O O O O O O O O O O O O O B-geo O,DT NNP NN VBZ CD NNS VBD VBN IN JJ NNS TO NNS VBG NNS IN NNP .
+It says one of the six has been released .,O O O O O O O O O O,PRP VBZ CD IN DT CD VBZ VBN VBN .
+The operation drew protests from the regional Kurdish government and Iran .,O O O O O O O O O O B-geo O,DT NN VBD NNS IN DT JJ JJ NN CC NNP .
+Russia today said the raid was unacceptable .,B-geo B-tim O O O O O O,NNP NN VBD DT NN VBD JJ .
+"The United States accuses Iran of providing material support to the insurgents in Iraq , and allowing terrorists to use Iranian territory to cross in and out of Iraq .",O B-geo I-geo O B-geo O O O O O O O O B-geo O O O O O O B-gpe O O O O O O O B-geo O,"DT NNP NNPS VBZ NNP IN VBG JJ NN TO DT NNS IN NNP , CC VBG NNS TO VB JJ NN TO VB IN CC IN IN NNP ."

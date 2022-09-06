@@ -1,0 +1,6 @@
+A new report shows consumer spending in the United States dropped for a record sixth consecutive month in December - another sign the economy is deteriorating .,O O O O O O O O B-geo I-geo O O O O O O O O B-tim I-tim I-tim O O O O O O,DT JJ NN VBZ NN NN IN DT NNP NNPS VBD IN DT NN JJ JJ NN IN NNP IN DT NN DT NN VBZ VBG .
+The report from the Commerce Department says spending fell one percent in the month .,O O O O B-org I-org O O O O O O O O O,DT NN IN DT NNP NNP VBZ NN VBD CD NN IN DT NN .
+The drop is significant because consumer spending is the major force behind the U.S. economy .,O O O O O O O O O O O O O B-geo O O,DT NN VBZ JJ IN NN NN VBZ DT JJ NN IN DT NNP NN .
+Falling consumer demand has forced American companies to cut workers in an effort to save costs .,O O O O O B-gpe O O O O O O O O O O O,VBG NN NN VBZ VBN JJ NNS TO VB NNS IN DT NN TO VB NNS .
+The rising wave of unemployment has put pressure on American households to spend less money .,O O O O O O O O O B-gpe O O O O O O,DT VBG NN IN NN VBZ VBN NN IN JJ NNS TO VB JJR NN .
+"The report also shows Americans are saving more money , as they brace for the possibility of further job cuts .",O O O O B-gpe O O O O O O O O O O O O O O O O,"DT NN RB VBZ NNS VBP VBG JJR NN , IN PRP VBP IN DT NN IN JJ NN NNS ."

@@ -1,0 +1,9 @@
+A British soldier facing court martial in Britain has pleaded guilty to committing the war crime of treating detainees inhumanely while serving in Iraq .,O B-gpe O O O O O B-geo O O O O O O O O O O O O O O O B-geo O,DT JJ NN VBG NN NN IN NNP VBZ VBN JJ TO VBG DT NN NN IN VBG NNS RB IN VBG IN NNP .
+Corporal Donald Payne entered his plea today on a military base southwest of London .,O B-per I-per O O O B-tim O O O O O O B-geo O,NNP NNP NNP VBD PRP$ NN NN IN DT JJ NN NN IN NNP .
+He is one of seven British soldiers charged in the 2003 death of an Iraqi hotel receptionist held in British custody in the southern Iraqi city of Basra .,O O O O O B-gpe O O O O B-tim O O O B-gpe O O O O B-gpe O O O O B-gpe O O B-geo O,PRP VBZ CD IN CD JJ NNS VBN IN DT CD NN IN DT JJ NN NN VBN IN JJ NN IN DT JJ JJ NN IN NNP .
+The remaining six defendants pleaded not guilty to all charges .,O O O O O O O O O O O,DT VBG CD NNS VBD RB JJ TO DT NNS .
+Authorities say the receptionist sustained more than 90 injuries .,O O O O O O O O O O,NNS VBP DT NN VBD JJR IN CD NNS .
+A second detainee was described as so badly beaten that he nearly died of kidney failure .,O O O O O O O O O O O O O O O O O,DT JJ NN VBD VBN IN RB RB VBN IN PRP RB VBD IN NN NN .
+Corporal Payne has pleaded not guilty to the more serious charges of manslaughter and obstructing justice .,O B-per O O O O O O O O O O O O O O O,NNP NNP VBZ VBN RB JJ TO DT RBR JJ NNS IN NN CC VBG NN .
+A military prosecutor told the tribunal today Tuesday his case will show systematic abuse and unacceptable violence against prisoners .,O O O O O O B-tim I-tim O O O O O O O O O O O O,DT JJ NN VBD DT NN NN NNP PRP$ NN MD VB JJ NN CC JJ NN IN NNS .
+The trial is expected to last at least four months .,O O O O O O O O B-tim O O,DT NN VBZ VBN TO VB IN JJS CD NNS .

@@ -1,0 +1,8 @@
+A Spanish military hospital ship Wednesday picked up the bodies of 24 migrants in the Atlantic Ocean off the coast of Mauritania .,O B-gpe O O O B-tim O O O O O O O O O B-geo I-geo O O O O B-geo O,DT JJ JJ NN NN NNP VBD RP DT NNS IN CD NNS IN DT NNP NNP IN DT NN IN NNP .
+The bodies were floating about 720 kilometers south of Spain 's Canary Islands .,O O O O O O O O O B-geo O B-geo I-geo O,DT NNS VBD VBG IN CD NNS RB IN NNP POS NNP NNP .
+Authorities believe they were North Africans who drowned while trying to reach Spain .,O O O O O B-gpe O O O O O O B-geo O,NNS VBP PRP VBD JJ NNS WP VBD IN VBG TO VB NNP .
+The bodies were found one day after more than 330 migrants reached the islands in several boats - a single-day record for the Canaries .,O O O O O O O O O O O O O O O O O O O O O O O B-org O,DT NNS VBD VBN CD NN IN JJR IN CD NNS VBD DT NNS IN JJ NNS IN DT JJ NN IN DT NNS .
+A delegation of Spanish officials plans to fly to Mauritania Thursday to discuss the migrant situation .,O O O B-gpe O O O O O B-geo B-tim O O O O O O,DT NN IN JJ NNS VBZ TO VB TO NNP NNP TO VB DT JJ NN .
+Spain has already offered the west African nation patrol boats to intercept would-be immigrants .,B-geo O O O O O B-gpe O O O O O O O O,NNP VBZ RB VBN DT JJS JJ NN NN NNS TO VB JJ NNS .
+"Spanish officials say about 3,000 North Africans have reached the Canary Islands in the first three months of the year .",B-gpe O O O O O B-gpe O O O B-geo I-geo O O B-tim I-tim O B-tim O O O,JJ NNS VBP IN CD JJ NNS VBP VBN DT NNP NNP IN DT JJ CD NNS IN DT NN .
+"The Red Cross says more than 1,000 died trying .",O B-org I-org O O O O O O O,DT NNP NNP VBZ JJR IN CD VBD VBG .

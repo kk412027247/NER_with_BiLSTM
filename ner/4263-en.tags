@@ -1,0 +1,7 @@
+"U.S. oil prices dipped below $ 59 a barrel Tuesday , as traders debated whether OPEC will officially cut its crude oil production .",B-geo O O O O O O O O B-tim O O O O O B-org O O O O O O O O,"NNP NN NNS VBD IN $ CD DT NN NNP , IN NNS VBD IN NNP MD RB VB PRP$ JJ NN NN ."
+U.S. sweet crude for November delivery sold as low as $ 58.95 a barrel .,B-geo O O O B-tim O O O O O O O O O O,NNP JJ NN IN NNP NN VBD RB JJ IN $ CD DT NN .
+That is a 25 percent drop from the all-time high of $ 78.40 in July .,O O O O O O O O O O O O O B-tim I-tim O,DT VBZ DT CD NN NN IN DT JJ NN IN $ CD IN NNP .
+It has been widely rumored that OPEC nations will reduce production by one million barrels .,O O O O O O B-org O O O O O O O O O,PRP VBZ VBN RB VBN IN NNP NNS MD VB NN IN CD CD NNS .
+But analysts say OPEC has not decided if it will formally cut oil production to help stabilize prices .,O O O B-org O O O O O O O O O O O O O O O,CC NNS VBP NNP VBZ RB VBN IN PRP MD RB VB NN NN TO VB VB NNS .
+OPEC 's official daily output quota has stood at 28 million barrels since 2004 .,B-org O O O O O O O O O O O B-tim I-tim O,NNP POS JJ JJ NN NN VBZ VBN IN CD CD NNS IN CD .
+Analysts say the group has actually been supplying about 27.5 million barrels a day .,O O O O O O O O O O O O O B-tim O,NNS VBP DT NN VBZ RB VBN VBG IN CD CD NNS DT NN .

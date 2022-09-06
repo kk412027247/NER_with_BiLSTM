@@ -1,0 +1,8 @@
+A Russian newspaper says Russia is planning to sell up to nine submarines to Venezuela .,O B-gpe O O B-geo O O O O O O O O O B-geo O,DT JJ NN VBZ NNP VBZ VBG TO VB RP TO CD NNS TO NNP .
+"The Kommersant reports Thursday that Venezuelan President Hugo Chavez is expected to sign the deal during a trip to Moscow , which starts June 29 .",O O O B-tim O B-gpe B-per I-per I-per O O O O O O O O O O B-geo O O O B-tim I-tim O,"DT NN VBZ NNP IN JJ NNP NNP NNP VBZ VBN TO VB DT NN IN DT NN TO NNP , WDT VBZ NNP CD ."
+"The contract would include five older , 636-type diesel submarines and the future delivery of four state-of-the-art 677 Amur submarines .",O O O O O O O O O O O O O O O O O O O O O,"DT NN MD VB CD JJR , JJ NN NNS CC DT JJ NN IN CD JJ CD NNP NNS ."
+Russia has also supplied similar submarines to China .,B-geo O O O O O O B-geo O,NNP VBZ RB VBN JJ NNS TO NNP .
+"In recent years , Venezuela has become a major buyer of Russian arms , a development that has prompted expressions of concern by the United States .",O B-tim O O B-geo O O O O O O B-gpe O O O O O O O O O O O O B-geo I-geo O,"IN JJ NNS , NNP VBZ VBN DT JJ NN IN JJ NNS , DT NN WDT VBZ VBN NNS IN NN IN DT NNP NNPS ."
+"Previous Russian arms deals have supplied Venezuela with Kalashnikov rifles , jets , helicopters , and other weaponry .",O B-gpe O O O O B-geo O B-geo O O O O O O O O O O,"JJ JJ NNS NNS VBP VBN NNP IN NNP NNS , NNS , NNS , CC JJ NN ."
+Venezuela 's president is a fierce critic of the Bush administration and says it supported the coup against him in April 2002 .,B-geo O O O O O O O O B-geo O O O O O O O O O O B-tim I-tim O,NNP POS NN VBZ DT JJ NN IN DT NNP NN CC VBZ PRP VBD DT NN IN PRP IN NNP CD .
+U.S. officials have denied the charge .,B-geo O O O O O O,NNP NNS VBP VBN DT NN .

@@ -1,0 +1,5 @@
+The Ford Motor Company says sales of its products in China are booming .,O B-org I-org I-org O O O O O O B-geo O O O,DT NNP NNP NNP VBZ NNS IN PRP$ NNS IN NNP VBP JJ .
+"In a statement Monday Ford says sales rose 46 percent last year to more than 82,000 vehicles - a record .",O O O B-tim B-org O O O O O O O O O O O O O O O O,IN DT NN NNP NNP VBZ NNS VBD CD NN JJ NN TO JJR IN CD NNS IN DT NN .
+"If Ford 's affiliated brands - like Mazda - are added to the total , the company sold 220,000 vehicles in China last year .",O B-org O O O O O B-geo O O O O O O O O O O O O O B-geo O O O,"IN NNP POS JJ NNS : IN NNP : VBP VBN TO DT NN , DT NN VBD CD NNS IN NNP JJ NN ."
+"Ford is the second largest U.S. automaker , and number three in the world after General Motors and Toyota .",B-org O O O O B-geo O O O O O O O O O B-org I-org I-org I-org O,"NNP VBZ DT JJ JJS NNP NN , CC NN CD IN DT NN IN NNP NNPS CC NNP ."
+"In China , Ford is outsold by both GM and Volkswagen .",O B-geo O B-org O O O O B-org O B-org O,"IN NNP , NNP VBZ VBN IN DT NNP CC NNP ."

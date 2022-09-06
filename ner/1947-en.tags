@@ -1,0 +1,5 @@
+The U.S. military says a soldier is being held in Iraq for allegedly killing two other American servicemen during an argument .,O B-geo O O O O O O O O B-geo O O O O O B-gpe O O O O O,DT NNP NN VBZ DT NN VBZ VBG VBN IN NNP IN RB VBG CD JJ JJ NNS IN DT NN .
+"A military statement released Tuesday says Specialist Neftaly Platero was detained after the killing of two soldiers in Fallujah , Iraq , last Thursday .",O O O O B-tim O B-org I-org I-org O O O O O O O O O B-geo O B-geo O O B-tim O,"DT JJ NN VBN NNP VBZ NNP NNP NNP VBD VBN IN DT NN IN CD NNS IN NNP , NNP , JJ NNP ."
+"Colonel Barry Johnson says a "" verbal altercation "" broke out among four soldiers .",B-per I-per I-per O O O O O O O O O O O O,NNP NNP NNP VBZ DT LQU JJ NN RQU VBD RP IN CD NNS .
+The military spokesman says Platero allegedly took out his weapon and began shooting at the other soldiers .,O O O O B-org O O O O O O O O O O O O O,DT JJ NN VBZ NNP RB VBD RP PRP$ NN CC VBD VBG IN DT JJ NNS .
+A third soldier was wounded in the incident .,O O O O O O O O O,DT JJ NN VBD VBN IN DT NN .

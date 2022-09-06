@@ -1,0 +1,8 @@
+Afghan police say at least 40 Taleban militants have been killed during an operation by NATO and Afghan forces in southern Helmand province .,B-gpe O O O O O B-org O O O O O O O O B-org O B-gpe O O O B-geo O O,JJ NNS VBP IN JJS CD NNP NNS VBP VBN VBN IN DT NN IN NNP CC JJ NNS IN JJ NNP NN .
+Two separate battles took place in Gereshk district .,O O O O O O B-geo O O,CD JJ NNS VBD NN IN NNP NN .
+A police chief in the region said three Afghan policemen died during the fighting and five others were wounded .,O O O O O O O O B-gpe O O O O O O O O O O O,DT NN NN IN DT NN VBD CD JJ NNS VBD IN DT NN CC CD NNS VBD VBN .
+At least eight Taleban fighters were captured .,O O O B-org O O O O,IN JJS CD NNP NNS VBD VBN .
+Helmand province has seen heavy fighting between NATO and Taleban forces .,B-geo O O O O O O B-org O B-org O O,NNP NN VBZ VBN JJ NN IN NNP CC NNP NNS .
+The region is Afghanistan 's top opium producer and has been plagued by attacks by Taleban and foreign militants .,O O O B-geo O O O O O O O O O O O B-org O O O O,DT NN VBZ NNP POS JJ NN NN CC VBZ VBN VBN IN NNS IN NNP CC JJ NNS .
+NATO launched Operation Achilles in Helmand last month in an effort to preempt an anticipated spring offensive by Taleban fighters .,B-org O B-org I-org O B-geo O O O O O O O O O O O O B-org O O,NNP VBD NNP NNP IN NNP JJ NN IN DT NN TO VB DT JJ NN NN IN NNP NNS .
+"Last year , a resurgent Taleban movement carried out the highest number of suicide bombings and other attacks in Afghanistan since the Taleban government was ousted by U.S.-led forces in 2001 .",O O O O O B-org O O O O O O O O O O O O O B-geo O O B-org O O O O O O O B-tim O,"JJ NN , DT JJ NNP NN VBD IN DT JJS NN IN NN NNS CC JJ NNS IN NNP IN DT NNP NN VBD VBN IN JJ NNS IN CD ."

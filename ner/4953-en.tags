@@ -1,0 +1,7 @@
+Polish President Lech Kaczynski has called the roof collapse at an exhibition hall the worst tragedy to strike post-communist Poland .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O B-geo O,JJ NNP NNP NNP VBZ VBN DT NN NN IN DT NN NN DT JJS NN TO VB JJ NNP .
+Sixty-six people were killed and at least 141 others injured when the roof of an exhibition hall in the city of Katowice caved in Saturday evening .,O O O O O O O O O O O O O O O O O O O O O B-org O O B-tim I-tim O,CD NNS VBD VBN CC IN JJS CD NNS VBN WRB DT NN IN DT NN NN IN DT NN IN NNP VBD IN NNP NN .
+The hall was hosting a pigeon racing exhibition and a number of foreigners are among the victims .,O O O O O O O O O O O O O O O O O O,DT NN VBD VBG DT NN NN NN CC DT NN IN NNS VBP IN DT NNS .
+President Kaczynski declared three days of mourning and has canceled Monday 's scheduled visit to the Czech Republic .,B-per I-per O O O O O O O O B-tim O O O O O B-gpe B-geo O,NNP NNP VBD CD NNS IN NN CC VBZ VBN NNP POS JJ NN TO DT JJ NNP .
+Pope Benedict and Russian President Vladimir Putin have sent messages of condolences .,B-per I-per O B-gpe B-per I-per I-per O O O O O O,NNP NNP CC JJ NNP NNP NNP VBP VBN NNS IN NNS .
+Polish authorities say they do not expect to find any more survivors in the wreckage .,B-gpe O O O O O O O O O O O O O O O,JJ NNS VBP PRP VBP RB VB TO VB DT JJR NNS IN DT NN .
+They say heavy snow piled on the roof may have contributed to the collapse .,O O O O O O O O O O O O O O O,PRP VBP JJ NN VBN IN DT NN MD VB VBN TO DT NN .

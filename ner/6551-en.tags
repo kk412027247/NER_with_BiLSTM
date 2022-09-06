@@ -1,0 +1,6 @@
+U.S. President Barack Obama says his student loan reform plan will ensure the United States has the highest proportion of college grads in the world .,B-geo B-per I-per I-per O O O O O O O O O B-geo I-geo O O O O O O O O O O O,NNP NNP NNP NNP VBZ PRP$ NN NN NN NN MD VB DT NNP NNPS VBZ DT JJS NN IN NN NNS IN DT NN .
+"In his Saturday address , Mr. Obama said the plan will also save taxpayers $ 68 billion .",O O B-tim O O B-per I-per O O O O O O O O O O O,"IN PRP$ NNP NN , NNP NNP VBD DT NN MD RB VB NNS $ CD CD ."
+The plan eliminates subsidies for private banks who act as middlemen for student loans .,O O O O O O O O O O O O O O O,DT NN VBZ NNS IN JJ NNS WP VBP IN NNS IN NN NNS .
+The savings will go to increasing grants for college students and other programs .,O O O O O O O O O O O O O O,DT NNS MD VB TO VBG NNS IN NN NNS CC JJ NNS .
+"University education in the U.S. can cost tens of thousands of dollars a year , and tuition continues to rise .",B-org O O O B-geo O O O O O O O O O O O O O O O O,"NNP NN IN DT NNP MD VB NNS IN NNS IN NNS DT NN , CC NN VBZ TO VB ."
+"Mr. Obama said the "" average "" student finishes college with $ 23,000 worth of debt .",B-per I-per O O O O O O O O O O O O O O O,NNP NNP VBD DT LQU JJ RQU NN VBZ NN IN $ CD NN IN NN .

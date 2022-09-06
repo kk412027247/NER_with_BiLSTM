@@ -1,0 +1,4 @@
+"I 'm not at home today , and I might not be home tomorrow .",O O O O O B-tim O O O O O O O O O,"PRP VBP RB IN NN NN , CC PRP MD RB VB NN NN ."
+So please leave a message after the tone .,O O O O O O O O O,RB VB VB DT NN IN DT NN .
+"I did n't take a shower today , and I might not take one tomorrow .",O O O O O O B-tim O O O O O O O O O,"PRP VBD RB VB DT NN NN , CC PRP MD RB VB CD NN ."
+"So if you do n't leave a message after the tone , you might have to deal with me in person .",O O O O O O O O O O O O O O O O O O O O O O,"RB IN PRP VBP RB VB DT NN IN DT NN , PRP MD VB TO VB IN PRP IN NN ."

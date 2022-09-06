@@ -1,0 +1,8 @@
+"Hundreds of thousands of Cubans have attended a May Day rally in Havana , where a local labor leader encouraged Cubans to stay on the path set out by former President Fidel Castro .",O O O O B-gpe O O O B-tim I-tim O O B-geo O O O O O O O B-gpe O O O O O O O O O B-per I-per I-per O,"NNS IN NNS IN NNS VBP VBN DT NNP NNP NN IN NNP , WRB DT JJ NN NN VBD NNS TO VB IN DT NN VBN RP IN JJ NNP NNP NNP ."
+Many of the marchers wore red T-shirts and waved Cuban flags Thursday as they marched through Revolution Square .,O O O O O O O O O B-gpe O B-tim O O O O B-org I-org O,NN IN DT NNS VBD JJ NNS CC VBD JJ NNS NNP IN PRP VBD IN NNP NNP .
+"During the rally , President Raul Castro made his first May Day appearance as Cuban leader , but did not speak .",O O O O B-per I-per I-per O O O B-tim I-tim O O B-gpe O O O O O O O,"IN DT NN , NNP NNP NNP VBD PRP$ JJ NNP NNP NN IN JJ NN , CC VBD RB VB ."
+"Since succeeding his older brother in February , Raul Castro has lifted several restrictions on Cubans , including the purchase of cell phones , DVD's and computers .",O O O O O O B-tim O B-per I-per O O O O O B-gpe O O O O O O O O O O O O,"IN VBG PRP$ JJR NN IN NNP , NNP NNP VBZ VBN JJ NNS IN NNS , VBG DT NN IN NN NNS , NNS CC NNS ."
+Cubans are also now able to stay in hotels if they can afford it .,B-gpe O O O O O O O O O O O O O O,NNS VBP RB RB JJ TO VB IN NNS IN PRP MD VB PRP .
+The average salary is about $ 17 per month .,O O O O O O O O O O,DT JJ NN VBZ RB $ CD IN NN .
+May Day celebrations are being held around the world .,B-tim I-tim O O O O O O O O,NNP NNP NNS VBP VBG VBN IN DT NN .
+The annual event marks International Workers Day .,O O O O B-org I-org B-tim O,DT JJ NN NNS NNP NNP NNP .

@@ -1,0 +1,7 @@
+"The United Nations has given its annual Franklin Delano Roosevelt International Disability Award to Poland , recognizing the country 's efforts to integrate the disabled into Polish society .",O B-org I-org O O O O B-per I-per I-per B-org I-org I-org O B-geo O O O O O O O O O O O B-gpe O O,"DT NNP NNP VBZ VBN PRP$ JJ NNP NNP NNP NNP NNP NNP TO NNP , VBG DT NN POS NNS TO VB DT NN IN JJ NN ."
+President Lech Kaczynski accepted the award at a ceremony Monday at U.N. headquarters in New York .,B-per I-per I-per O O O O O O B-tim O B-geo O O B-geo I-geo O,NNP NNP NNP VBD DT NN IN DT NN NNP IN NNP NN IN NNP NNP .
+He said his country 's struggle for freedom includes a commitment to the rights of those with disabilities .,O O O O O O O O O O O O O O O O O O O,PRP VBD PRP$ NN POS NN IN NN VBZ DT NN TO DT NNS IN DT IN NNS .
+He said their rights are guaranteed by the Polish constitution .,O O O O O O O O B-gpe O O,PRP VBD PRP$ NNS VBP VBN IN DT JJ NN .
+Mr. Kaczynski promised that Poland will adopt a new U.N. convention to protect the disabled .,B-per I-per O O B-geo O O O O B-geo O O O O O O,NNP NNP VBD IN NNP MD VB DT JJ NNP NN TO VB DT NN .
+"The award is named for U.S. President Franklin Roosevelt , whose legs were paralyzed from polio .",O O O O O B-org B-per I-per I-per O O O O O O O O,"DT NN VBZ VBN IN NNP NNP NNP NNP , WP$ NNS VBD VBN IN NN ."
+Mr. Roosevelt was president from 1933 until 1945 .,B-per I-per O O O B-tim I-tim I-tim O,NNP NNP VBD NN IN CD IN CD .

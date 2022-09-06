@@ -1,0 +1,8 @@
+"Italian labor unions have agreed not to strike during next month 's Winter Olympic Games in Turin , Italy .",B-gpe O O O O O O O O O O O O O O O B-geo O B-geo O,"JJ NN NNS VBP VBN RB TO VB IN JJ NN POS NNP NNP NNPS IN NNP , NNP ."
+The unions and the Italian government signed a deal Wednesday that averted work stoppages between January 31 and March 23 .,O O O O B-gpe O O O O B-tim O O O O B-tim I-tim I-tim I-tim I-tim I-tim O,DT NNS CC DT JJ NN VBD DT NN NNP WDT VBD NN NNS IN NNP CD CC NNP CD .
+The Turin Olympics run from February 10 to the 26 .,O B-org I-org O O B-tim I-tim I-tim O B-tim O,DT NNP NNPS VBP IN NNP CD TO DT CD .
+"Flight attendants with Alitalia airlines had announced they planned a 24-hour strike February 10 , the day of the opening ceremonies .",O O O B-geo O O O O O O O O B-tim I-tim O O O O O O O O,"NN NNS IN NNP NNS VBD VBN PRP VBD DT JJ NN NNP CD , DT NN IN DT NN NNS ."
+Pilots had threatened a four-hour walkout February 9 .,O O O O O O B-tim I-tim O,NNS VBD VBN DT JJ NN NNP CD .
+The truce will also ban protests in telecommunications and railways industries .,O O O O O O O O O O O O,DT NN MD RB VB NNS IN NNS CC NNS NNS .
+Local protests outside Turin that have no impact on the Olympics will be allowed .,O O O B-org O O O O O O B-org O O O O,JJ NNS IN NNP WDT VBP DT NN IN DT NNS MD VB VBN .
+"Last season , a small Milan television worker 's union strike led to the cancellation of the giant slalom at the World Alpine skiing championships in Bormio .",O B-tim O O O O O O O O O O O O O O O O O O O B-org I-org O O O B-geo O,"JJ NN , DT JJ NNP NN NN POS NN NN VBD TO DT NN IN DT JJ NN IN DT NNP NNP NN NNS IN NNP ."

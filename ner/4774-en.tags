@@ -1,0 +1,7 @@
+Representatives of the European Union and China have failed to resolve a trade dispute over Chinese textiles during a third day of talks in Beijing Saturday .,O O O B-org I-org I-org I-org O O O O O O O O B-gpe O O O O O O O O B-geo B-tim O,NNS IN DT NNP NNP CC NNP VBP VBN TO VB DT NN NN IN JJ NNS IN DT JJ NN IN NNS IN NNP NNP .
+Negotiators say they will continue their discussions on Sunday .,O O O O O O O O B-tim O,NNS VBP PRP MD VB PRP$ NNS IN NNP .
+"In June , China agreed to quotas in its textile exports to the EU .",O B-tim O B-org O O O O O O O O O B-org O,"IN NNP , NNP VBD TO NNS IN PRP$ NN NNS TO DT NNP ."
+But millions of items of clothing manufactured in China have been blocked in European ports because China has already shipped its annual quota .,O O O O O O O O B-geo O O O O B-org O O B-geo O O O O O O O,CC NNS IN NNS IN NN VBN IN NNP VBP VBN VBN IN JJ NNS IN NNP VBZ RB VBN PRP$ JJ NN .
+The quotas are designed to protect European textile manufacturers from low-priced Chinese competition .,O O O O O O B-org O O O O B-gpe O O,DT NNS VBP VBN TO VB JJ NN NNS IN JJ JJ NN .
+Chinese textile exports surged early this year when a global system of textile quotas ended .,B-gpe O O O O O O O O O O O O O O O,JJ NN NNS VBD RB DT NN WRB DT JJ NN IN JJ NNS VBD .
+Talks between China and the EU began on Thursday .,O O B-geo O O B-org O O B-tim O,NNS IN NNP CC DT NNP VBD IN NNP .

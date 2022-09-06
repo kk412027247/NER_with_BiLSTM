@@ -1,0 +1,5 @@
+The NATO-led force in Afghanistan says coalition forces killed at least 30 militants Saturday while fighting off an attack on a combat outpost .,O O O O B-geo O O O O O O O O B-tim O O O O O O O O O O,DT JJ NN IN NNP VBZ NN NNS VBN IN JJS CD NNS NNP IN VBG RP DT NN IN DT NN NN .
+"The attack occurred early in the morning in the Bermal district of Paktika province , bordering Pakistan .",O O O O O O B-tim O O B-geo O O B-geo O O O B-geo O,"DT NN VBD RB IN DT NN IN DT NNP NN IN NNP NN , VBG NNP ."
+"NATO says militants surrounded the outpost , firing from all directions with rocket-propelled grenades , small arms and mortars .",B-org O O O O O O O O O O O O O O O O O O O,"NNP VBZ NNS VBN DT NN , VBG IN DT NNS IN JJ NNS , JJ NNS CC NNS ."
+Coalition officials said the embattled troops on the ground called in air support to help repel the attack .,O O O O O O O O O O O O O O O O O O O,NN NNS VBD DT JJ NNS IN DT NN VBN IN NN NN TO VB VB DT NN .
+"At least five coalition service members were wounded during the firefight , but NATO says none were killed .",O O O O O O O O O O O O O B-org O O O O O,"IN JJS CD NN NN NNS VBD VBN IN DT NN , CC NNP VBZ NN VBD VBN ."

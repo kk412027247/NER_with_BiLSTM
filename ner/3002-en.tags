@@ -1,0 +1,6 @@
+"Sri Lanka 's military says rebels have ambushed a navy bus in the east of the country , wounding 12 sailors and sparking a gunbattle in which two civilians also died .",B-per B-gpe O O O O O O O B-org O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP POS JJ VBZ NNS VBP VBN DT NN NN IN DT NN IN DT NN , VBG CD NNS CC VBG DT NN IN WDT CD NNS RB VBD ."
+Officials blame Tamil rebels for Tuesday 's attack in Trincomalee .,O O B-org O O B-tim O O O B-geo O,NNS VBP NNP NNS IN NNP POS NN IN NNP .
+"They say the rebels set off a fragmentation mine as the navy bus passed by , and then opened fire on the bus with small arms .",O O O O O O O O O O O B-org O O O O O O O O O O O O O O O,"PRP VBP DT NNS VBN RP DT NN NN IN DT NN NN VBN IN , CC RB VBD NN IN DT NN IN JJ NNS ."
+"Officials say the sailors shot back , and two civilians were killed in the crossfire .",O O O O O O O O O O O O O O O O,"NNS VBP DT NNS VBD RB , CC CD NNS VBD VBN IN DT NN ."
+Sri Lanka 's government says at least 69 security personnel have been killed by rebels since early December .,B-per B-gpe O O O O O O O O O O O O O B-tim O B-tim O,NNP NNP POS NN VBZ IN JJS CD NN NNS VBP VBN VBN IN NNS IN JJ NNP .
+The violence has severely strained a ceasefire signed by both sides in 2002 .,O O O O O O O O O O O O B-tim O,DT NN VBZ RB VBN DT NN VBN IN DT NNS IN CD .

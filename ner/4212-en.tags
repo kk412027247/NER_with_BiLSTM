@@ -1,0 +1,8 @@
+Shuttle astronauts installed part of cooling system on International Space Station .,O O O O O O O O B-geo I-geo I-geo O,NN NNS VBD NN IN VBG NN IN NNP NNP NNP .
+The U.S. space agency NASA says two astronauts from the shuttle Atlantis have completed a spacewalk to install part of a cooling system on the International Space Station .,O B-geo O O B-org O O O O O O O O O O O O O O O O O O O O B-geo I-geo I-geo O,DT NNP NN NN NNP VBZ CD NNS IN DT NN NNS VBP VBN DT NN TO VB NN IN DT NN NN IN DT NNP NNP NNP .
+Astronauts Rex Walheim and Hans Schlegel installed a nitrogen tank on the orbital outpost .,O B-per I-per O B-per I-per O O O O O O O O O,NNS NNP NNP CC NNP NNP VBD DT NN NN IN DT JJ NN .
+The outing Wednesday lasted just over six-and-a-half hours .,O O B-tim O O O O O O,DT NN NNP VBD RB IN JJ NNS .
+"Schlegel , a German , missed a previous spacewalk due to an undisclosed illness .",B-per O O B-gpe O O O O O O O O O O O,"NNP , DT NN , VBD DT JJ NN JJ TO DT JJ NN ."
+"On Monday , two astronauts installed a European science laboratory with help from crewmates inside the space station .",O B-tim O O O O O O O O O O O O O O O O O,"IN NNP , CD NNS VBD DT JJ NN NN IN NN IN NNS IN DT NN NN ."
+Crewmembers set up electrical and data lines linking the Columbus laboratory to the space station before European astronaut Leopold Eyharts of France briefly floated inside the module for the first time .,O O O O O O O O O O O O O O O O O O B-per I-per O B-geo O O O O O O O O B-tim O,NNS VBD RP JJ CC NNS NNS VBG DT NN NN TO DT NN NN IN JJ NN NNP NNP IN NNP RB VBD IN DT NN IN DT JJ NN .
+Atlantis will remain at the space station until at least Sunday .,B-art O O O O O O O O O B-tim O,NNP MD VB IN DT NN NN IN IN JJS NNP .

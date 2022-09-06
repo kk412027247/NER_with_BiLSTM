@@ -1,0 +1,7 @@
+"Taleban rebels in Afghanistan have launched attacks in the lead-up to Sunday 's parliamentary elections , in an effort to disrupt the vote .",B-org O O B-geo O O O O O O O B-tim O O O O O O O O O O O O,"NNP NNS IN NNP VBP VBN NNS IN DT JJ TO NNP POS JJ NNS , IN DT NN TO VB DT NN ."
+"Government officials say security forces arrested 20 suspected rebels Saturday , who were trying to blow up a large dam in southern Afghanistan .",O O O O O O O O O B-tim O O O O O O O O O O O O B-geo O,"NN NNS VBP NN NNS VBN CD JJ NNS NNP , WP VBD VBG TO VB RP DT JJ NN IN JJ NNP ."
+"Late Friday , three police officers were killed when Taleban guerillas ambushed their patrol near the capital .",O B-tim O O O O O O O B-org O O O O O O O O,"RB NNP , CD NNS NNS VBD VBN WRB NNP NNS VBD PRP$ NN IN DT NN ."
+"In a separate attack , rebels ambushed police as they patrolled the main Kabul - Kandahar highway .",O O O O O O O O O O O O O B-geo I-geo I-geo O O,"IN DT JJ NN , NNS VBD NNS IN PRP VBD DT JJ NNP : NNP NN ."
+Seven rebels were killed in the ensuing firefight .,O O O O O O O O O,CD NNS VBD VBN IN DT VBG NN .
+Seven national assembly candidates and several poll workers have also been the victims of election-related violence .,O O O O O O O O O O O O O O O O O,CD JJ NN NNS CC JJ NN NNS VBP RB VBN DT NNS IN JJ NN .
+"The Taleban have called for an election boycott , threatening attacks on foreign troops , but not on voters .",O B-org O O O O O O O O O O O O O O O O O O,"DT NNP VBP VBN IN DT NN NN , VBG NNS IN JJ NNS , CC RB IN NNS ."

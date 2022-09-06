@@ -1,0 +1,5 @@
+Venezuelan President Hugo Chavez is expected Wednesday to present his proposals for constitutional reform to the National Assembly .,B-gpe B-per I-per I-per O O B-tim O O O O O O O O O B-org I-org O,JJ NNP NNP NNP VBZ VBN NNP TO VB PRP$ NNS IN JJ NN TO DT NNP NNP .
+"Specific plans for the reforms have not been released , but Chavez has previously said he would like to end presidential term limits .",O O O O O O O O O O O B-per O O O O O O O O O O O O,"JJ NNS IN DT NNS VBP RB VBN VBN , CC NNP VBZ RB VBN PRP MD VB TO VB JJ NN NNS ."
+Currently the president may serve no more than two six-year terms .,O O O O O O O O O B-tim O O,RB DT NN MD VB DT JJR IN CD JJ NNS .
+"The National Assembly is expected to approve his changes , as it is controlled by Chavez supporters .",O B-org I-org O O O O O O O O O O O O B-per O O,"DT NNP NNP VBZ VBN TO VB PRP$ NNS , IN PRP VBZ VBN IN NNP NNS ."
+"If the plan passes the legislature , Venezuelan citizens must vote in a referendum to accept or reject it .",O O O O O O O B-gpe O O O O O O O O O O O O,"IN DT NN VBZ DT NN , JJ NNS MD VB IN DT NN TO VB CC VB PRP ."

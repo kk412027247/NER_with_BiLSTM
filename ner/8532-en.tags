@@ -1,0 +1,7 @@
+The U.S. Senate has passed a major bill to provide government support for financially troubled homeowners and two of the country 's largest mortgage lenders .,O B-org I-org O O O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP VBZ VBN DT JJ NN TO VB NN NN IN RB JJ NNS CC CD IN DT NN POS JJS NN NNS .
+Senators voted 76-13 in favor of the measure Saturday during a rare Saturday session .,O O O O O O O O B-tim O O O B-tim O O,NNP VBD CD IN NN IN DT NN NNP IN DT JJ NNP NN .
+The House of Representatives passed the bill Wednesday .,O B-org I-org I-org O O O B-tim O,DT NNP IN NNPS VBD DT NN NNP .
+President Bush says he will sign it into law when it reaches his desk .,B-per I-per O O O O O O O O O O O O O,NNP NNP VBZ PRP MD VB PRP IN NN WRB PRP VBZ PRP$ NN .
+The legislation establishes a $ 300 billion fund to provide more affordable loans to homeowners who are struggling to pay their mortgages .,O O O O O O O O O O O O O O O O O O O O O O O,DT NN VBZ DT $ CD CD NN TO VB JJR JJ NNS TO NNS WP VBP VBG TO VB PRP$ NNS .
+"It also will allow the Treasury Department to expand government support for two of the nation 's biggest lenders , Fannie Mae and Freddie Mac .",O O O O O B-org I-org O O O O O O O O O O O O O B-per I-per O B-per I-per O,"PRP RB MD VB DT NNP NNP TO VB NN NN IN CD IN DT NN POS JJS NNS , NNP NNP CC NNP NNP ."
+The two government-sponsored companies have lost billions of dollars due to a wave of mortgage defaults .,O O O O O O O O O O O O O O O O O,DT CD JJ NNS VBP VBN NNS IN NNS JJ TO DT NN IN NN NNS .

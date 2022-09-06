@@ -1,0 +1,6 @@
+U.S. military officials say five Americans are being held in Iraq under suspicion of terrorist activity .,B-org O O O O B-gpe O O O O B-geo O O O O O O,NNP JJ NNS VBP CD NNS VBP VBG VBN IN NNP IN NN IN JJ NN .
+Pentagon spokesman Bryan Whitman declined to identify any of the detainees .,B-org O B-per I-per O O O O O O O O,NNP NN NNP NNP VBD TO VB DT IN DT NNS .
+"But news reports said three of them are Iraqi-Americans , one is an Iranian-American and the fifth suspect is Jordanian-American .",O O O O O O O O O O O O O O O O O O O O O,"CC NN NNS VBD CD IN PRP VBP JJ , CD VBZ DT JJ CC DT JJ NN VBZ JJ ."
+Mr. Whitman said none of them have been charged with a crime and that there is no connection between the suspects .,B-per I-per O O O O O O O O O O O O O O O O O O O O,NNP NNP VBD NN IN PRP VBP VBN VBN IN DT NN CC IN EX VBZ DT NN IN DT NNS .
+The Iranian-American has been identified by his family as Cyrus Kar of Los Angeles .,O O O O O O O O O B-per I-per O B-geo I-geo O,DT JJ VBZ VBN VBN IN PRP$ NN IN NNP NNP IN NNP NNP .
+His laywers have sued the U.S. government in an effort to secure his release .,O O O O O B-org O O O O O O O O O,PRP$ NNS VBP VBN DT NNP NN IN DT NN TO VB PRP$ NN .

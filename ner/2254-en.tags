@@ -1,0 +1,9 @@
+American Samoa has a traditional Polynesian economy in which more than 90 % of the land is communally owned .,B-org I-org O O O O O O O O O O O O O O O O O O,NNP NNP VBZ DT JJ JJ NN IN WDT JJR IN CD NN IN DT NN VBZ RB VBN .
+Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce .,O O O O O O O B-geo O O B-org I-org O O O O O O,JJ NN VBZ RB VBN TO DT NNP IN WDT NNP NNP VBZ JJS IN PRP$ NN .
+"Tuna fishing and tuna processing plants are the backbone of the private sector , with canned tuna the primary export .",O O O O O O O O O O O O O O O O O O O O O,"NNP NN CC NN NN NNS VBP DT NN IN DT JJ NN , IN VBN NN DT JJ NN ."
+The two tuna canneries account for 80 % of employment .,O O O O O O O O O O O,DT CD NN NNS VBP IN CD NN IN NN .
+"In late September 2009 , an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa , disrupting transportation and power generation , and resulting in about 200 deaths .",O O B-tim I-tim O O O O O O O O B-gpe B-org O O B-org O O O O O O O O O O O O O O,"IN JJ NNP CD , DT NN CC DT VBG NN VBD JJ NNP CC JJ NNP , VBG NN CC NN NN , CC VBG IN IN CD NNS ."
+The US Federal Emergency Management Agency is overseeing a relief program of nearly $ 25 million .,O B-org I-org I-org I-org I-org O O O O O O O O O O O,DT NNP NNP NNP NNP NNP VBZ VBG DT NN NN IN RB $ CD CD .
+Transfers from the US Government add substantially to American Samoa 's economic well being .,O O O B-org I-org O O O B-org I-org O O O O O,NNS IN DT NNP NNP VBP RB TO NNP NNP POS JJ NN VBG .
+"Attempts by the government to develop a larger and broader economy are restrained by Samoa 's remote location , its limited transportation , and its devastating hurricanes .",O O O O O O O O O O O O O O B-org O O O O O O O O O O O O O,"NNS IN DT NN TO VB DT JJR CC JJR NN VBP VBN IN NNP POS JJ NN , PRP$ JJ NN , CC PRP$ JJ NNS ."
+Tourism is a promising developing sector .,O O O O O O O,NNP VBZ DT JJ VBG NN .

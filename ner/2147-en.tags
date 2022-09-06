@@ -1,0 +1,9 @@
+Palestinian security sources say Israel troops are withdrawing from the West Bank city of Nablus after two days of house-to-house searches for militants and bomb factories .,B-gpe O O O B-geo O O O O O B-org I-org O O B-geo O B-tim O O O O O O O O O O,JJ NN NNS VBP NNP NNS VBP VBG IN DT NNP NNP NN IN NNP IN CD NNS IN NN NNS IN NNS CC NN NNS .
+The sources say the Israeli forces began leaving Nablus late Monday .,O O O O B-gpe O O O B-geo O B-tim O,DT NNS VBP DT JJ NNS VBD VBG NNP JJ NNP .
+"However , the Israeli military has not confirmed that the operation is completely over .",O O O B-gpe O O O O O O O O O O O,"RB , DT JJ NN VBZ RB VBN IN DT NN VBZ RB IN ."
+Israeli troops entered the densely populated Palestinian city early Sunday and detained dozens of people .,B-gpe O O O O O B-gpe O O B-tim O O O O O O,JJ NNS VBD DT RB JJ JJ NN JJ NNP CC VBN NNS IN NNS .
+"They imposed a curfew that confined about 50,000 Palestinians to their homes .",O O O O O O O O B-gpe O O O O,PRP VBD DT NN WDT VBD IN CD NNS TO PRP$ NNS .
+Palestinians say Israeli gunfire Monday killed one Palestinian man and wounded several others .,B-gpe O B-gpe O B-tim O O B-gpe O O O O O O,NNS VBP JJ NN NNP VBD CD JJ NN CC VBD JJ NNS .
+The Israeli military said soldiers have uncovered at least three explosives laboratories .,O B-gpe O O O O O O O O O O O,DT JJ NN VBD NNS VBP VBN IN JJS CD NNS NNS .
+"Palestinian officials have condemned the operation , saying it could spark a new cycle of violence and undermine efforts to revive the peace process .",B-gpe O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP VBN DT NN , VBG PRP MD VB DT JJ NN IN NN CC VB NNS TO VB DT NN NN ."
+"Israel , which describes Nablus as a terrorist hub , says the operation has been essential for defending Israeli citizens .",B-geo O O O B-geo O O O O O O O O O O O O O B-gpe O O,"NNP , WDT VBZ NNP IN DT JJ NN , VBZ DT NN VBZ VBN JJ IN VBG JJ NNS ."

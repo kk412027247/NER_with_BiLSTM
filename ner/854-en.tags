@@ -1,0 +1,4 @@
+"As America 's Hispanic population grows , music from Latin America has surged in popularity in the United States .",O B-org I-org I-org I-org O O O O B-geo I-geo O O O O O O B-geo I-geo O,"IN NNP POS JJ NN VBZ , NN IN NNP NNP VBZ VBN IN NN IN DT NNP NNPS ."
+Musicians - particularly those from Mexico - have struck a cord with US audiences .,O O O O O B-geo I-geo O O O O O B-org O O,NNS : RB DT IN NNP : VBP VBN DT NN IN NNP NNS .
+"But artists from Latin America 's largest nation , Brazil , say they are finding it much harder to break into the US market than their counterparts from other countries .",O O O B-geo I-geo O O O O B-geo O O O O O O O O O O O O B-org O O O O O O O O,"CC NNS IN NNP NNP POS JJS NN , NNP , VBP PRP VBP VBG PRP RB RBR TO VB IN DT NNP NN IN PRP$ NNS IN JJ NNS ."
+Steve Mort reports for VOA from Rio de Janeiro .,B-per I-per O O B-org O B-geo I-geo I-geo O,NNP NNP VBZ IN NNP IN NNP NNP NNP .

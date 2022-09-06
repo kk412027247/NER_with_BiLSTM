@@ -1,0 +1,6 @@
+Haitian officials have said local and national elections will be held later this year .,B-gpe O O O O O O O O O O B-tim O O O,JJ NNS VBP VBN JJ CC JJ NNS MD VB VBN RBR DT NN .
+"An official on Haiti 's Provisional Electoral Council said local elections will be held on October 9 , followed by presidential and legislative polls on November 13 .",O O O B-geo O B-org I-org I-org O O O O O O O B-tim I-tim O O O O O O O O B-tim I-tim O,"DT NN IN NNP POS NNP NNP NNP VBD JJ NNS MD VB VBN IN NNP CD , VBN IN JJ CC JJ NNS IN NNP CD ."
+The dates were announced in an electoral decree recently sent to Haiti 's interim government .,O O O O O O O O O O O B-geo O O O O,DT NNS VBD VBN IN DT JJ NN RB VBN TO NNP POS JJ NN .
+Security for the election remains a concern .,O O O O O O O O,NN IN DT NN VBZ DT NN .
+Former soldiers and rebels who helped force Haitian President Jean-Bertrand Aristide into exile in South Africa last February still control parts of the countryside .,O O O O O O O B-gpe B-per I-per I-per O O O B-geo I-geo O B-tim O O O O O O O,JJ NNS CC NNS WP VBD VB JJ NNP NNP NNP IN NN IN NNP NNP JJ NNP RB VB NNS IN DT NN .
+Violence in Port-au-Prince 's pro-Aristide slums has killed more than 200 people in the last four months .,O O B-geo O O O O O O O O O O O O B-tim O O,NN IN NNP POS JJ NNS VBZ VBN JJR IN CD NNS IN DT JJ CD NNS .

@@ -1,0 +1,9 @@
+Authorities in Afghanistan say up to 22 insurgents were killed Thursday night during an operation led by coalition troops .,O O B-geo O O O O O O O B-tim I-tim O O O O O O O O,NNS IN NNP VBP RP TO CD NNS VBD VBN NNP NN IN DT NN VBN IN NN NNS .
+"The U.S. military says coalition and Afghan forces raided a compound in central Ghazni province , and that a number of militants were killed .",O B-geo O O O O B-gpe O O O O O O B-geo O O O O O O O O O O O,"DT NNP NN VBZ NN CC JJ NNS VBD DT NN IN JJ NNP NN , CC IN DT NN IN NNS VBD VBN ."
+Afghan police put that number at 22 .,B-gpe O O O O O B-tim O,JJ NN VBD DT NN IN CD .
+"Officials also say troops found a cache of weapons , including grenades and ammunition .",O O O O O O O O O O O O O O O,"NNS RB VBP NNS VBD DT NN IN NNS , VBG NNS CC NN ."
+"In other clashes , two Afghan policemen and two British soldiers have died in separate incidents .",O O O O O B-gpe O O O B-gpe O O O O O O O,"IN JJ NNS , CD JJ NNS CC CD JJ NNS VBP VBN IN JJ NNS ."
+Afghanistan 's Interior Ministry says a roadside bomb killed the two police officers near the southern border with Pakistan on Thursday .,B-org O B-org I-org O O O O O O O O O O O O O O B-geo O B-tim O,NNP POS NNP NNP VBZ DT NN NN VBD DT CD NNS NNS IN DT JJ NN IN NNP IN NNP .
+The latest British deaths were in southern Helmand province .,O O B-gpe O O O O B-geo O O,DT JJS JJ NNS VBD IN JJ NNP NN .
+British and U.S. forces are conducting an offensive in southern Afghanistan to try to clear out Taliban militants .,B-gpe O B-geo O O O O O O O B-geo O O O O O B-org O O,JJ CC NNP NNS VBP VBG DT NN IN JJ NNP TO VB TO VB RP NNP NNS .
+Nine British troops have been killed in as many days .,O B-gpe O O O O O O O O O,CD JJ NNS VBP VBN VBN IN IN JJ NNS .

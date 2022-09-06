@@ -1,0 +1,9 @@
+Ukraine 's Central Election Commission has declared Prime Minister Viktor Yanukovych the winner of Sunday 's disputed presidential election .,B-geo O B-org I-org I-org O O B-per O B-per I-per O O O B-tim O O O O O,NNP POS NNP NNP NNP VBZ VBN NNP NNP NNP NNP DT NN IN NNP POS JJ JJ NN .
+Authorities say the prime minister won more than 49 percent of the vote - nearly three percentage points ahead of opposition challenger Viktor Yushchenko .,O O O O O O O O O O O O O O O O O O O O O O B-per I-per O,NNS VBP DT JJ NN VBD JJR IN CD NN IN DT NN IN RB CD NN NNS RB IN NN NN NNP NNP .
+"The announcement Wednesday came as tens of thousands of protesters continued to mass in the capital , Kiev , alleging widespread fraud in the vote .",O O B-tim O O O O O O O O O O O O O O B-org O O O O O O O O,"DT NN NNP VBD IN NNS IN NNS IN NNS VBN TO NN IN DT NN , NNP , VBG JJ NN IN DT NN ."
+"Crowds packed the Ukrainian capital 's main square , waving flags and chanting Mr. Yushchenko 's name .",O O O B-gpe O O O O O O O O O B-per B-org O O O,"NNS VBD DT JJ NN POS JJ NN , VBG NNS CC VBG NNP NNP POS NN ."
+"Some have slept in tents , despite the cold and snow .",O O O O O O O O O O O O,"DT VBP VBN IN NNS , IN DT JJ CC NN ."
+Protesters marched to the Election Commission following the announcement .,O O O O B-org I-org O O O O,NNS VBD TO DT NNP NNP VBG DT NN .
+The European Union had warned of consequences in its relations with Ukraine if the results were announced before a review is conducted .,O B-org I-org O O O O O O O O B-geo O O O O O O O O O O O,DT NNP NNP VBD VBN IN NNS IN PRP$ NNS IN NNP IN DT NNS VBD VBN IN DT NN VBZ VBN .
+European and U.S. monitors allege widespread fraud in the vote .,B-org O B-geo O O O O O O O O,JJ CC NNP NNS VBP JJ NN IN DT NN .
+The White House says it is disturbed about indications of wrongdoing .,O B-org I-org O O O O O O O O O,DT NNP NNP VBZ PRP VBZ VBN IN NNS IN NN .

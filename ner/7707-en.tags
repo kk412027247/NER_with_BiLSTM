@@ -1,0 +1,9 @@
+"Snow , freezing rain , gusting winds and record low temperatures in Europe are claiming lives and making for treacherous travel across the continent .",O O O O O O O O O O O O B-geo O O O O O O O O O O O O,"NN , VBG NN , VBG NNS CC NN JJ NNS IN NNP VBP VBG NNS CC VBG IN JJ NN IN DT NN ."
+As many as 25 deaths have been reported .,O O O O O O O O O,RB JJ IN CD NNS VBP VBN VBN .
+Authorities say many of the victims are homeless people who died as a result of exposure to the brutal winter elements .,O O O O O O O O O O O O O O O O O O O O O O,NNS VBP NN IN DT NNS VBP JJ NNS WP VBD IN DT NN IN NN TO DT JJ NN NNS .
+Vehicle accidents on ice-covered roads have caused many injuries and closed highways .,O O O O O O O O O O O O O,NN NNS IN JJ NNS VBP VBN JJ NNS CC JJ NNS .
+The M-1 motorway connecting Budapest with Vienna was closed Friday after a multi-car pile-up that killed a boy .,O O O O B-geo O B-geo O O B-tim O O B-tim I-tim O O O O O,DT NNP NN VBG NNP IN NNP VBD VBN NNP IN DT JJ NN WDT VBD DT NN .
+"In Slovakia , the Bratislava-Trnava highway was closed after a 40-car accident killed at least one person and injured 20 others .",O B-geo O O O O O O O O O O O O O O O O O O O O,"IN NNP , DT NNP NN VBD VBN IN DT JJ NN VBN IN JJS CD NN CC VBD CD NNS ."
+"The storms disrupted rail , road and air transport across the region .",O O O O O O O O O O O O O,"DT NNS VBD NN , NN CC NN NN IN DT NN ."
+Electricity outages were reported Friday in Austria and Sweden .,O O O O B-tim O B-geo O B-geo O,NN NNS VBD VBN NNP IN NNP CC NNP .
+New Year 's revelers across Europe are being advised to take measures to protect themselves against the extreme weather conditions .,B-tim O O O O B-geo O O O O O O O O O O O O O O O,NNP NNP POS NNS IN NNP VBP VBG VBN TO VB NNS TO VB PRP IN DT JJ NN NNS .

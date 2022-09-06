@@ -1,0 +1,6 @@
+"Crude oil rose above $ 70 a barrel Wednesday , as the United Nations deadline for Iran to suspend nuclear enrichment approaches .",O O O O O O O O B-tim O O O B-org I-org O O B-geo O O O O O O,"JJ NN VBD IN $ CD DT NN NNP , IN DT NNP NNPS NN IN NNP TO VB JJ NN NNS ."
+"The New York price of oil for future delivery rose about 50 cents , to $ 70 , 24 cents a barrel .",B-org I-org I-org O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NN IN NN IN JJ NN VBD IN CD NNS , TO $ CD , CD NNS DT NN ."
+"In London , Brent crude moved up about 60 cents , to $ 70.46 .",O B-geo O B-per O O O O O O O O O O O,"IN NNP , NNP NN VBD RB RB CD NNS , TO $ CD ."
+"On Tuesday , both contracts closed below $ 70 .",O B-tim O O O O O O O O,"IN NNP , DT NNS VBD RB $ CD ."
+The U.N. Security Council is threatening Iran with sanctions if it does not halt uranium enrichment by Thursday .,B-org I-org I-org I-org O O B-geo O O O O O O O O O O B-tim O,DT NNP NNP NNP VBZ VBG NNP IN NNS IN PRP VBZ RB VB NN NN IN NNP .
+"Analysts say sanctions could lead to a supply disruption from Iran , which could spark a major spike in oil prices .",O O O O O O O O O O B-geo O O O O O O O O O O O,"NNS VBP NNS MD VB TO DT NN NN IN NNP , WDT MD VB DT JJ NN IN NN NNS ."

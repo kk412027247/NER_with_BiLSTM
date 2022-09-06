@@ -1,0 +1,7 @@
+"U.S. forecasters say Hurricane John has strengthened into a Category 3 storm as it churns off Mexico 's Pacific coast , with wind speeds of 185 kilometers per hour .",B-geo O O O B-per O O O O O O O O O O O B-org I-org I-org I-org O O O O O O O O O O,"NNP NNS VBP NNP NNP VBZ VBN IN DT NNP CD NN IN PRP VBZ RP NNP POS NNP NN , IN NN NNS IN CD NNS IN NN ."
+The storm is on a track that parallels the Mexican coast .,O O O O O O O O O B-gpe O O,DT NN VBZ IN DT NN WDT VBZ DT JJ NN .
+"Forecasters warned Tuesday that the system could strengthen within 24 hours , triggering dangerous flash floods and mudslides over areas of mountainous terrain .",O O B-tim O O O O O O B-tim O O O O O O O O O O O O O O,"NNS VBD NNP IN DT NN MD VB IN CD NNS , VBG JJ NN NNS CC NNS IN NNS IN JJ NN ."
+"At mid afternoon local time , the storm was centered 280 kilometers south of the tourist resort of Acapulco .",O B-tim I-tim O B-tim O O O O O O O O O O O O O B-geo O,"IN JJ NN JJ NN , DT NN VBD VBN CD NNS RB IN DT NN NN IN NNP ."
+A tropical storm warning is in effect from Lagunas de Chacahua westward to Lazaro Cardenas .,O O O O O O O O B-geo I-geo I-geo O O B-geo I-geo O,DT JJ NN NN VBZ IN NN IN NNP NNP NNP VBD TO NNP NNP .
+A tropical storm watch is posted from west of Lazaro Cardenas to Cabo Corrientes .,O O O O O O O O O B-geo I-geo O B-geo I-geo O,DT JJ NN NN VBZ VBN IN NN IN NNP NNP TO NNP NNP .
+John is the sixth hurricane of this year 's Pacific season .,B-per O O O O O O O O B-org O O,NNP VBZ DT JJ NN IN DT NN POS NNP NN .

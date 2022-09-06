@@ -1,0 +1,7 @@
+U.S. troops have reportedly rescued a member of a U.S. Special Forces unit missing in eastern Afghanistan since Tuesday .,B-geo O O O O O O O O B-org O O O O O B-geo I-geo B-tim I-tim O,NNP NNS VBP RB VBN DT NN IN DT NNP JJ NNS NN VBG IN JJ NNP IN NNP .
+"Quoting unidentified U.S. officials , Western media said the soldier who managed to evade the enemy for almost a week was rescued Sunday and is in good shape .",O O B-geo O O B-org O O O O O O O O O O O O O O O O B-tim O O O O O O,"VBG JJ NNP NNS , NNP NNS VBD DT NN WP VBD TO VB DT NN IN RB DT NN VBD VBN NNP CC VBZ IN JJ NN ."
+There has been no word on the fate of the other members of the unit .,O O O O O O O O O O O O O O O O,EX VBZ VBN DT NN IN DT NN IN DT JJ NNS IN DT NN .
+"A helicopter going to their rescue was shot down on June 28 , killing all 16 troops on board .",O O O O O O O O O O B-tim I-tim O O O O O O O O,"DT NN VBG TO PRP$ NN VBD VBN RB IN NNP CD , VBG DT CD NNS IN NN ."
+"Also Sunday , suspected Taleban insurgents killed a pro-government Islamic cleric in southern Afghanistan .",O B-tim O O B-org O O O O O O O B-geo I-geo O,"RB NNP , JJ NNP NNS VBD DT JJ JJ NN IN JJ NNP ."
+Local officials say Mawlavi Mohammad Nabi Masah was ambushed as he was leaving home near Kandahar city .,O O O B-org I-org I-org I-org O O O O O O O O B-geo O O,JJ NNS VBP NNP NNP NNP NNP VBD VBN IN PRP VBD VBG NN IN NNP NN .
+He later died of his wounds at the U.S. military hospital in Kandahar .,O O O O O O O O B-geo O O O B-geo O,PRP RB VBD IN PRP$ NNS IN DT NNP JJ NN IN NNP .

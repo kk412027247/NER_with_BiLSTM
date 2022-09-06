@@ -1,0 +1,6 @@
+"Hong Kong 's government says two dead birds , a crested myna and a chicken , have tested positive for the H5N1 strain of bird flu .",B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP POS NN VBZ CD JJ NNS , DT JJ NN CC DT NN , VBP VBN JJ IN DT NNP NN IN NN NN ."
+"Authorities say three villagers may have come into contact with the infected chicken , and are being isolated in a hospital .",O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP CD NNS MD VB VBN IN NN IN DT JJ NN , CC VBP VBG VBN IN DT NN ."
+"They say the three people are being tested for bird flu , but have shown no obvious symptoms .",O O O O O O O O O O O O O O O O O O O,"PRP VBP DT CD NNS VBP VBG VBN IN NN NN , CC VBP VBN DT JJ NNS ."
+The dead chicken was purchased by a Hong Kong villager in mainland China .,O O O O O O O B-geo I-geo O O O B-geo O,DT JJ NN VBD VBN IN DT NNP NNP NN IN JJ NNP .
+The dead myna was found in a playground in an urban area of Hong Kong .,O O O O O O O O O O O O O B-geo I-geo O,DT JJ NN VBD VBN IN DT NN IN DT JJ NN IN NNP NNP .
+Authorities say they will close a local bird sanctuary and all public aviaries beginning Thursday as a precaution .,O O O O O O O O O O O O O O B-tim O O O O,NNS VBP PRP MD VB DT JJ NN NN CC DT JJ NNS VBG NNP IN DT NN .

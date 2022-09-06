@@ -1,0 +1,7 @@
+Burma has confirmed additional outbreaks of the H5N1 strain of bird flu virus among poultry in the suburbs of Rangoon .,B-geo O O O O O O O O O O O O O O O O O O B-geo O,NNP VBZ VBN JJ NNS IN DT NNP NN IN NN NN NN IN NN IN DT NNS IN NNP .
+"The latest outbreaks were discovered in Hlinethaya , a western suburb of Rangoon .",O O O O O O B-geo O O O O O B-geo O,"DT JJS NNS VBD VBN IN NNP , DT JJ NN IN NNP ."
+"Earlier this week Burmese authorities confirmed a new outbreak of the H5N1 virus on poultry farms , also in Rangoon 's western suburbs .",O O O B-gpe O O O O O O O O O O O O O O O B-geo O O O O,"RBR DT NN JJ NNS VBD DT JJ NN IN DT NNP NN IN NN NNS , RB IN NNP POS JJ NNS ."
+No human cases have been announced in the country .,O O O O O O O O O O,DT JJ NNS VBP VBN VBN IN DT NN .
+More than 160 people have died from bird flu since late 2003 .,O O O O O O O O O O O B-tim O,JJR IN CD NNS VBP VBN IN NN NN IN JJ CD .
+Most of the victims came in contact with infected poultry .,O O O O O O O O O O O,DT IN DT NNS VBD IN NN IN JJ NN .
+Experts fear the virus could mutate into a form that is easily transmissible by human-to-human contact .,O O O O O O O O O O O O O O O O O,NNS VBP DT NN MD VB IN DT NN WDT VBZ RB JJ IN JJ NN .

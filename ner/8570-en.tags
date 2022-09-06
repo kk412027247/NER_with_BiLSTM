@@ -1,0 +1,9 @@
+Authorities in Burma say imported brands of milk and powdered baby formula have been contaminated with an industrial chemical involved in the latest Chinese product safety scandal .,O O B-geo O O O O O O O O O O O O O O O O O O O O B-gpe O O O O,NNS IN NNP VBP VBN NNS IN NN CC JJ NN NN VBP VBN VBN IN DT JJ NN VBN IN DT JJS JJ NN NN NN .
+The state-run newspaper New Light of Myanmar says nine of 16 products tested positive for melamine .,O O O B-org I-org I-org I-org O O O O O O O O O O,DT JJ NN NNP NNP IN NNP VBZ CD IN CD NNS VBN JJ IN NN .
+"The Health Ministry has destroyed the tainted products , and has withdrawn the other products from the marketplace .",O B-org I-org O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ VBN DT JJ NNS , CC VBZ VBN DT JJ NNS IN DT NN ."
+It has also temporarily suspended imports of other milk products .,O O O O O O O O O O O,PRP VBZ RB RB VBN NNS IN JJ NN NNS .
+"More than 50,000 Chinese children were sickened , four of them fatally , after consuming milk powder contaminated with melamine .",O O O B-gpe O O O O O O O O O O O O O O O O O,"JJR IN CD JJ NNS VBD VBN , CD IN PRP RB , IN VBG NN NN VBN IN NN ."
+"More than 10,000 children in China remain hospitalized .",O O O O O B-geo O O O,JJR IN CD NNS IN NNP VBP JJ .
+"Melamine is primarily used in plastics , fertilizers and flame retardants .",O O O O O O O O O O O O,"NNP VBZ RB VBN IN NNS , NNS CC NN NNS ."
+Authorities suspect it was added to milk to make it appear richer in protein .,O O O O O O O O O O O O O O O,NNS VBP PRP VBD VBN TO VB TO VB PRP VB JJR IN NN .
+"The scandal has led to the arrests of 27 people in China , and the recall or prohibition of Chinese-made milk products by more than 50 nations .",O O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O,"DT NN VBZ VBN TO DT NNS IN CD NNS IN NNP , CC DT NN CC NN IN JJ NN NNS IN JJR IN CD NNS ."

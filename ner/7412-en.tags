@@ -1,0 +1,8 @@
+"Chinese officials say there is little hope for survivors from a landslide in central China , which has killed about 30 people .",B-gpe O O O O O O O O O O O O O B-geo O O O O O O O O,"JJ NNS VBP EX VBZ JJ NN IN NNS IN DT NN IN JJ NNP , WDT VBZ VBN IN CD NNS ."
+Rescue workers found a crushed bus Friday underneath the rubble at a railway tunnel construction site near the Three Gorges Dam in Hubei province .,O O O O O O B-tim O O O O O O O O O O O O B-org I-org O B-geo O O,NN NNS VBD DT JJ NN NNP IN DT NN IN DT NN NN NN NN IN DT CD NNP NNP IN NNP NN .
+Checkpoint records show the bus was carrying 27 people .,O O O O O O O O O O,NNP NNS VBP DT NN VBD VBG CD NNS .
+Earlier reports from state media said the landslide killed one worker and injured another .,O O O O O O O O O O O O O O O,RBR NNS IN NN NNS VBD DT NN VBD CD NN CC NN DT .
+Two workers are still missing .,O O O O O O,CD NNS VBP RB VBG .
+The landslide happened Tuesday amid criticism over the environmental impact of the world 's biggest dam .,O O O B-tim O O O O O O O O O O O O O,DT NN VBD NNP IN NN IN DT JJ NN IN DT NN POS JJS NN .
+Local officials have warned that China faces a catastrophe if it fails to stop erosion and other problems around the reservoir .,O O O O O B-geo O O O O O O O O O O O O O O O O,JJ NNS VBP VBN IN NNP VBZ DT NN IN PRP VBZ TO VB NN CC JJ NNS IN DT NN .
+"However , Chinese officials suggest there is no connection between the dam and the landslide .",O O B-gpe O O O O O O O O O O O O O,"RB , JJ NNS VBP EX VBZ DT NN IN DT NN CC DT NN ."

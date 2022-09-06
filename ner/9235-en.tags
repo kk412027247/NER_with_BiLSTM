@@ -1,0 +1,8 @@
+"The African Union has endorsed a report that says political violence , arbitrary arrests and police torture occurred in the run-up to the 2002 Zimbabwe presidential elections .",O B-geo I-geo O O O O O O O O O O O O O O O O O O O O B-tim I-tim O O O,"DT NNP NNP VBZ VBN DT NN WDT VBZ JJ NN , JJ NNS CC NN NN VBD IN DT NN TO DT CD NNP JJ NNS ."
+The report was compiled by the African Commission on Human and Peoples ' Rights during a fact-finding mission in 2002 .,O O O O O O B-org I-org O B-org I-org I-org I-org I-org O O O O O B-tim O,DT NN VBD VBN IN DT NNP NNP IN NNP CC NNP POS NNS IN DT JJ NN IN CD .
+It said evidence gathered during the review period showed that human rights violations occurred in Zimbabwe .,O O O O O O O O O O O O O O O B-tim O,PRP VBD NN VBN IN DT NN NN VBD IN JJ NNS NNS VBD IN NNP .
+The mission said it received testimony from witnesses who were victims of political violence and torture while in police custody .,O O O O O O O O O O O O O O O O O O O O O,DT NN VBD PRP VBD NN IN NNS WP VBD NNS IN JJ NN CC NN IN IN NN NN .
+It said the Zimbabwe government can not wash its hands of responsibility .,O O O O O O O O O O O O O,PRP VBD DT NNP NN MD RB VB PRP$ NNS IN NN .
+The report was first made public during last year 's AU summit in July .,O O O O O O O O O B-tim I-tim I-tim I-tim I-tim O,DT NN VBD JJ VBN JJ IN JJ NN POS NNP NN IN NNP .
+"It was not endorsed at the time , in order to allow for the Zimbabwe government 's response to be included .",O O O O O O O O O O O O O O B-org O O O O O O O,"PRP VBD RB VBN IN DT NN , IN NN TO VB IN DT NNP NN POS NN TO VB VBN ."
+"In July , the government denounced the report .",O B-tim O O O O O O O,"IN NNP , DT NN VBD DT NN ."

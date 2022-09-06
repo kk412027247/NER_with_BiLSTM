@@ -1,0 +1,6 @@
+A second South Korean company has started producing goods at an industrial park in the North Korean city of Kaesong .,O O O B-gpe O O O O O O O O O O O B-geo B-gpe O O B-geo O,DT JJ JJ JJ NN VBZ VBN VBG NNS IN DT JJ NN IN DT JJ JJ NN IN NNP .
+"A semiconductor parts maker , SJ Tech , began production Tuesday .",O O O O O B-org I-org O O O B-tim O,"DT NN NNS NN , NNP NNP , VBD NN NNP ."
+The company plans to hire up to 300 North Koreans to work at the site by the end of next year .,O O O O O O O O B-geo B-gpe O O O O O O O B-tim I-tim O O O,DT NN VBZ TO VB RP TO CD NNP NNS TO VB IN DT NN IN DT NN IN JJ NN .
+"A South Korean kitchenware manufacturer , LivingArt , started producing stainless steel kitchen pots at the Kaesong park two weeks ago .",O O B-gpe O O O B-org O O O O O O O O O B-geo O B-tim O O O,"DT JJ JJ NN NN , NNP , VBD VBG JJ NN NN NNS IN DT NNP NN CD NNS RB ."
+The two Koreas began construction on the industrial park in 2003 .,O B-tim I-tim O O O O O O O B-tim O,DT CD NNP VBD NN IN DT JJ NN IN CD .
+The park is intended for South Korean companies wanting to capitalize on cheaper North Korean labor .,O O O O O O B-gpe O O O O O O B-geo B-gpe O O,DT NN VBZ VBN IN JJ JJ NNS VBG TO VB IN JJR JJ JJ NN .

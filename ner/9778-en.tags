@@ -1,0 +1,8 @@
+A sports agent based in the U.S. state of California has been found guilty of smuggling Cuban baseball players into the United States .,O O O O O O B-geo O O B-geo O O O O O O B-gpe O O O O B-geo I-geo O,DT NNS NN VBN IN DT NNP NN IN NNP VBZ VBN VBN JJ IN VBG JJ NN NNS IN DT NNP NNPS .
+"A court in Key West , Florida , found Gustavo Dominguez guilty Thursday on 21 federal charges , including conspiracy , smuggling , transporting , and harboring illegal immigrants .",O O O B-geo I-geo O B-geo O O B-per I-per O B-tim O O O O O O O O O O O O O O O O O,"DT NN IN NNP NNP , NNP , VBD NNP NNP JJ NNP IN CD JJ NNS , VBG NN , VBG , VBG , CC VBG JJ NNS ."
+Most of the charges carry a maximum prison sentence of 10 years .,O O O O O O O O O O B-tim O O,JJS IN DT NNS VBP DT JJ NN NN IN CD NNS .
+Dominguez is free until his sentencing July 9 .,B-per O O O O O B-tim I-tim O,NNP VBZ JJ IN PRP$ NN NNP CD .
+His lawyer says they will appeal .,O O O O O O O,PRP$ NN VBZ PRP MD VB .
+Dominguez was on trial for smuggling five baseball players from Cuba to Florida in 2004 .,B-per O O O O O O O O O B-geo O B-geo O B-tim O,NNP VBD IN NN IN VBG CD NN NNS IN NNP TO NNP IN CD .
+Only two are still playing baseball .,O O O O O O O,RB CD VBP RB VBG NN .
+"Osbek Castillo is a pitcher for the Arizona Diamondbacks ' feeder team in Alabama , while Francisely Bueno pitches for the Atlanta Braves ' feeder team in Mississippi .",B-per I-per O O O O O B-org I-org O O O O B-geo O O B-per I-per O O O B-org I-org O O O O B-geo O,"NNP NNP VBZ DT NN IN DT NNP NNPS POS NN NN IN NNP , IN NNP NNP VBZ IN DT NNP NNPS POS NN NN IN NNP ."

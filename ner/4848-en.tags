@@ -1,0 +1,7 @@
+"Pakistani officials say troops backed by fighter aircraft pounded three militant hideouts Sunday in northwestern Pakistan , killing at least 10 suspected insurgents in the troubled Orakzai tribal district .",B-gpe O O O O O O O O O O O B-tim O O B-geo O O O O O O O O O O B-geo O O O,"JJ NNS VBP NNS VBN IN NN NN VBD CD JJ NNS NNP IN JJ NNP , VBG IN JJS CD JJ NNS IN DT JJ NNP NN NN ."
+"The assault came a day after fighter jets bombed a militant stronghold in the neighboring Khyber tribal region on the Afghan border , killing 45 people .",O O O O O O O O O O O O O O O B-geo O O O O B-gpe O O O O O O,"DT NN VBD DT NN IN NN NNS VBD DT JJ NN IN DT JJ NNP JJ NN IN DT JJ NN , VBG CD NNS ."
+Pakistani officials said Saturday 's strike took place in the valley of Tirah .,B-gpe O O B-tim O O O O O O O O B-geo O,JJ NNS VBD NNP POS NN VBD NN IN DT NN IN NNP .
+Khyber is the main supply route for NATO troops through Pakistan into Afghanistan .,B-geo O O O O O O B-org O O B-geo O B-geo O,NNP VBZ DT JJ NN NN IN NNP NNS IN NNP IN NNP .
+Militants are blamed for frequent attacks on NATO convoys traveling through the region .,O O O O O O O B-org O O O O O O,NNS VBP VBN IN JJ NNS IN NNP NNS VBG IN DT NN .
+Pakistan 's military has recently stepped up offensives in Khyber and Orakzai .,B-geo O O O O O O O O B-geo O B-geo O,NNP POS NN VBZ RB VBN RP NNS IN NNP CC NNP .
+Officials say more than 300 militants have been killed so far in the fighting .,O O O O O O O O O O O O O O O,NNS VBP JJR IN CD NNS VBP VBN VBN RB RB IN DT NN .

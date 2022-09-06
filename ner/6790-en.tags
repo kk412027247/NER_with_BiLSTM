@@ -1,0 +1,8 @@
+The Israeli military says it has carried out three air strikes on Gaza following rocket attacks by Palestinian militants .,O B-gpe O O O O O O O O O O B-geo O O O O B-gpe O O,DT JJ NN VBZ PRP VBZ VBN IN CD NN NNS IN NNP VBG NN NNS IN JJ NNS .
+Gaza officials say no injuries were reported from the strikes .,B-geo O O O O O O O O O O,NNP NNS VBP DT NNS VBD VBN IN DT NNS .
+The Israeli army says two of the strikes hit smuggling tunnels on the territory 's border with Egypt .,O B-gpe O O O O O O O O O O O O O O O B-org O,DT JJ NN VBZ CD IN DT NNS VBD VBG NNS IN DT NN POS NN IN NNP .
+Aircraft also struck a building allegedly used by militants to store arms .,B-org O O O O O O O O O O O O,NNP RB VBD DT NN RB VBN IN NNS TO VB NNS .
+Palestinian militants fired two rockets into Israel Sunday causing no injuries .,B-gpe O O O O O B-geo B-tim O O O O,JJ NNS VBD CD NNS IN NNP NNP VBG DT NNS .
+"Israel launched a three-week offensive in late December against the Palestinian militant group Hamas , which rules the Gaza Strip .",B-geo O O B-tim O O O B-tim O O B-gpe O O B-org O O O O B-geo I-geo O,"NNP VBD DT JJ NN IN JJ NNP IN DT JJ JJ NN NNP , WDT VBZ DT NNP NNP ."
+The offensive was in response to continuing rocket attacks from Gaza .,O O O O O O O O O O B-geo O,DT NN VBD IN NN TO VBG NN NNS IN NNP .
+"Both Hamas and Israel declared unilateral cease-fires in January , but the violence continues almost daily .",O B-org O B-geo O O O O B-tim O O O O O O O O,"DT NNP CC NNP VBD JJ NNS IN NNP , CC DT NN VBZ RB RB ."

@@ -1,0 +1,7 @@
+Tabare Vazquez has taken office as Uruguay 's first leftist president .,B-per I-per O O O O B-geo O O O O O,NNP NNP VBZ VBN NN IN NNP POS JJ JJ NN .
+"Thousands of flag-waving supporters crowded outside the Congress building in Montevideo , where Mr. Vazquez was sworn in Tuesday for a five-year term .",O O O O O O O B-org O O B-geo O O B-per I-per O O O B-tim O O B-tim O O,"NNS IN JJ NNS VBN IN DT NNP NN IN NNP , WRB NNP NNP VBD VBN IN NNP IN DT JJ NN ."
+The 65-year-old president is a cancer specialist and former mayor of Montevideo .,O O O O O O O O O O O B-geo O,DT JJ NN VBZ DT NN NN CC JJ NN IN NNP .
+"He came to power on pledges to help the country 's poor , and is also expected to restore diplomatic relations with Cuba .",O O O O O O O O O O O O O O O O O O O O O O B-geo O,"PRP VBD TO NN IN NNS TO VB DT NN POS NN , CC VBZ RB VBN TO VB JJ NNS IN NNP ."
+Cuban leader Fidel Castro canceled his plans to attend the inauguration for health reasons .,B-gpe O B-per I-per O O O O O O O O O O O,JJ NN NNP NNP VBD PRP$ NNS TO VB DT NN IN NN NNS .
+"Among those attending the inauguration were the presidents of Bolivia , Chile , Paraguay and Peru as well as Spain 's Crown Prince Felipe .",O O O O O O O O O B-geo O B-geo O B-geo O B-geo O O O B-geo O O B-per I-per O,"IN DT VBG DT NN VBD DT NNS IN NNP , NNP , NNP CC NNP RB RB IN NNP POS NNP NNP NNP ."
+The U.S. delegation was led by Labor Secretary Elaine Chao .,O B-geo O O O O O B-per I-per I-per O,DT NNP NN VBD VBN IN NNP NNP NNP NNP .

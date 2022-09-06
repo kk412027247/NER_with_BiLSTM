@@ -1,0 +1,9 @@
+"Afghan officials say a suicide bomber has killed three people in the capital of Kabul , while fighting intensified with Taliban militants in the southwestern part of the country .",B-gpe O O O O O O O O O O O O O B-geo O O O O O B-org O O O O O O O O O,"JJ NNS VBP DT NN NN VBZ VBN CD NNS IN DT NN IN NNP , IN VBG VBN IN NNP NNS IN DT JJ NN IN DT NN ."
+Police in Kabul say the bomber exploded his car near a coalition military convoy as it traveled down a busy street .,O O B-geo O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP DT NN VBD PRP$ NN IN DT NN JJ NN IN PRP VBD RP DT JJ NN .
+"The blast killed three bystanders , including a child .",O O O O O O O O O O,"DT NN VBD CD NNS , VBG DT NN ."
+"A coalition spokesman , U.S. Lieutenant Colonel Dave Johnson , says none of the soldiers were hurt .",O O O O B-org I-org I-org B-per I-per O O O O O O O O O,"DT NN NN , NNP NNP NNP NNP NNP , VBZ NN IN DT NNS VBD VBN ."
+"In southwestern Farah province , police officials say Afghan and NATO forces inflicted heavy casualties in clashes with Taliban militants .",O O B-geo O O O O O B-gpe O B-org O O O O O O O B-org O O,"IN JJ NNP NN , NN NNS VBP JJ CC NNP NNS VBD JJ NNS IN NNS IN NNP NNS ."
+They say Afghan troops surrounded the Taliban as they gathered in the Bala Buluk district .,O O B-gpe O O O B-org O O O O O B-geo I-geo O O,PRP VBP JJ NNS VBN DT NNP IN PRP VBD IN DT NNP NNP NN .
+NATO forces then called in an airstrike .,B-org O O O O O O O,NNP NNS RB VBD IN DT NN .
+Afghan officials say 30 Taliban militants were killed .,B-gpe O O O B-org O O O O,JJ NNS VBP CD NNP NNS VBD VBN .
+Two Afghan soldiers and a policeman also died in the clash .,O B-gpe O O O O O O O O O O,CD JJ NNS CC DT NN RB VBD IN DT NN .

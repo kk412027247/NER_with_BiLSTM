@@ -1,0 +1,7 @@
+Health officials in Jakarta say local tests show a 39-year old Indonesian man has died from bird flu .,O O O B-geo O O O O O O O B-gpe O O O O O O O,NNP NNS IN NNP VBP JJ NNS VBP DT JJ JJ JJ NN VBZ VBN IN NN NN .
+"If confirmed by the World Health Organization , it would bring to 10 the number of people in Indonesia who have died from the H5N1 strain of the virus .",O O O O B-org I-org I-org O O O O O O O O O O O B-geo O O O O O O O O O O O,"IN VBN IN DT NNP NNP NNP , PRP MD VB TO CD DT NN IN NNS IN NNP WP VBP VBN IN DT NNP NN IN DT NN ."
+"Thursday , China 's state media reported a sixth person in the country has been diagnosed with bird flu .",B-tim O B-geo O O O O O O O O O O O O O O O O O,"NNP , NNP POS NN NNS VBD DT JJ NN IN DT NN VBZ VBN VBN IN NN NN ."
+The Health Ministry identified the latest victim as a 35-year-old man from Suichuan County in the eastern province of Jiangxi .,B-org I-org I-org O O O O O O O O O B-geo I-geo O O O O O B-geo O,DT NNP NNP VBD DT JJS NN IN DT JJ NN IN NNP NNP IN DT JJ NN IN NNP .
+The ministry gave no further details .,O O O O O O O,DT NN VBD DT JJ NNS .
+"Earlier , China 's Agriculture Ministry reported an outbreak in a flock of ducks , also in Jiangxi .",O O B-geo O B-org I-org O O O O O O O O O O O B-geo O,"RB , NNP POS NNP NNP VBD DT NN IN DT NN IN NNS , RB IN NNP ."
+The H5N1 strain of bird flu has killed more than 70 people in East Asia since 2003 .,O O O O O O O O O O O O O B-geo I-geo B-tim I-tim O,DT NNP NN IN NN NN VBZ VBN JJR IN CD NNS IN NNP NNP IN CD .

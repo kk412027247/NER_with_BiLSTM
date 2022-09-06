@@ -1,0 +1,9 @@
+"Shops , businesses , and offices were shut in Indian-controlled Kashmir Monday , after separatists called a strike to protest the death of a teenager .",O O O O O O O O O B-org I-org B-tim O O O O O O O O O O O O O O,"NNS , NNS , CC NNS VBD VBN IN JJ NNP NNP , IN NNS VBD DT NN TO VB DT NN IN DT NN ."
+Seventeen-year-old Tufail Ahmad Matoo was killed in the main town of Srinagar Friday during clashes between anti-India protesters and police .,B-org I-org I-org I-org O O O O O O O B-geo B-tim O O O O O O O O,JJ NNP NNP NNP VBD VBN IN DT JJ NN IN NNP NNP IN NNS IN JJ NNS CC NNS .
+Residents say Mattoo was hit by a teargas shell fired by police and was carrying a school bag when he was hit .,O O B-org O O O O O O O O O O O O O O O O O O O O,NNS VBP NNP VBD VBN IN DT JJ NN VBN IN NN CC VBD VBG DT NN NN WRB PRP VBD VBN .
+Police say they are investigating the death .,O O O O O O O O,NNS VBP PRP VBP VBG DT NN .
+"Clashes between demonstrators and security forces have erupted in Srinagar since the incident , with strict security restrictions in place to prevent further violence .",O O O O O O O O O B-geo O O O O O O O O O O O O O O O,"NNS IN NNS CC NN NNS VBP VBN IN NNP IN DT NN , IN JJ NN NNS IN NN TO VB JJ NN ."
+Kashmiri Muslim separatists have been fighting for two decades for independence from India or a merger with Muslim-majority Pakistan .,B-gpe B-per O O O O O O O O O O B-geo O O O O B-org I-org O,JJ NNP NNS VBP VBN VBG IN CD NNS IN NN IN NNP CC DT NN IN NNP NNP .
+"The insurgency has killed more than 47,000 people .",O O O O O O O O O,DT NN VBZ VBN JJR IN CD NNS .
+"Kashmir is divided between India and Pakistan , but claimed in its entirety by both .",B-org O O O B-geo O B-geo O O O O O O O O O,"NNP VBZ VBN IN NNP CC NNP , CC VBD IN PRP$ NN IN DT ."
+The neighbors have fought two wars over the region .,O O O O O O O O O O,DT NNS VBP VBN CD NNS IN DT NN .

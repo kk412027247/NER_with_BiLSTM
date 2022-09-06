@@ -1,0 +1,6 @@
+An Indian diplomat has been formally charged with spying for India 's longtime rival Pakistan .,O B-gpe O O O O O O O O B-geo O O O B-geo O,DT JJ NN VBZ VBN RB VBN IN VBG IN NNP POS JJ JJ NNP .
+Officials say Madhuri Gupta was charged Tuesday under the Official Secrets Act .,O O B-per I-per O O B-tim O O B-org I-org I-org O,NNS VBP NNP NNP VBD VBN NNP IN DT NNP NNP NNP .
+She is alleged to have passed classified information to Pakistan 's intelligence agency .,O O O O O O O O O B-geo O O O O,PRP VBZ VBN TO VB VBN JJ NN TO NNP POS NN NN .
+The 53-year-old junior diplomat worked at the press and information wing of the Indian embassy in Islamabad for three years .,O O O O O O O O O O O O O B-gpe O O B-geo O B-tim O O,DT JJ JJ NN VBD IN DT NN CC NN NN IN DT JJ NN IN NNP IN CD NNS .
+Gupta was taken into custody in April after being called back to New Delhi on the pretext of consultations .,B-per O O O O O B-tim O O O O O B-geo I-geo O O O O O O,NNP VBD VBN IN NN IN NNP IN VBG VBN RB TO NNP NNP IN DT NN IN NNS .
+"Tensions run deep between India and Pakistan , whose dispute over Kashmir has led to decades of hostility and triggered three wars .",O O O O B-geo O B-geo O O O O B-geo O O O O O O O O O O O,"NNS VBP RB IN NNP CC NNP , WP$ NN IN NNP VBZ VBN TO NNS IN NN CC VBD CD NNS ."

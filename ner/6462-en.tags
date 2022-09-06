@@ -1,0 +1,7 @@
+The European Union 's Court of Human Rights has fined Russia for banning homosexual parades in Moscow .,O B-org I-org I-org I-org I-org I-org I-org O O B-geo O O O O O B-geo O,DT NNP NNP POS NNP IN NNP NNP VBZ VBN NNP IN VBG JJ NNS IN NNP .
+The Strasbourg-based court ruled Thursday that gay rights organizer Nikolai Alexeyev was discriminated against based on sexual orientation .,O O O O B-tim O O O O B-per I-per O O O O O O O O,DT JJ NN VBD NNP IN JJ NNS NN NNP NNP VBD VBN IN VBN IN JJ NN .
+"It ordered Russia to pay more than $ 41,000 in damages and court costs to Alexeyev .",O O B-geo O O O O O O O O O O O O B-per O,PRP VBD NNP TO VB JJR IN $ CD IN NNS CC NN NNS TO NNP .
+"Alexeyev told the court he and other organizers were denied permission to hold gay pride marches in 2006 , 2007 and 2008 .",B-per O O O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim I-tim O,"NNP VBD DT NN PRP CC JJ NNS VBD VBN NN TO VB JJ NN NNS IN CD , CD CC CD ."
+The European rights court said the risk of a disturbance stemming from a demonstration was not sufficient to justify banning the parade .,O B-org O O O O O O O O O O O O O O O O O O O O O,DT JJ NNS NN VBD DT NN IN DT NN VBG IN DT NN VBD RB JJ TO VB VBG DT NN .
+"Former Moscow Mayor Yury Luzhkov once described gay parades as "" satanic . """,O B-gpe B-per I-per I-per O O O O O O O O O,JJ NNP NNP NNP NNP RB VBD JJ NNS IN LQU JJ . RQU
+He was fired last month by Russian President Dmitry Medvedev .,O O O O O O B-gpe B-per I-per I-per O,PRP VBD VBN JJ NN IN JJ NNP NNP NNP .

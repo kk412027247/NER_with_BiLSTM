@@ -1,0 +1,6 @@
+"Philippine military soldiers have clashed with Islamic extremists Tuesday , killing at least one and wounding a senior leader of the al-Qaida-linked Abu Sayyaf group .",B-org O O O O O O O B-tim O O O O O O O O O O O O O B-org I-org O O,"JJ JJ NNS VBP VBN IN JJ NNS NNP , VBG IN JJS CD CC VBG DT JJ NN IN DT JJ NNP NNP NN ."
+"Military officials say they believe that Abu Solaiman , a wanted Abu Sayyaf leader , was injured during the fighting .",O O O O O O B-org I-org O O O B-org I-org O O O O O O O O,"JJ NNS VBP PRP VBP IN NNP NNP , DT JJ NNP NNP NN , VBD VBN IN DT NN ."
+Solaiman is wanted by the United States for his alleged role in kidnappings and terror attacks .,B-org O O O O B-geo I-geo O O O O O O O O O O,NNP VBZ VBN IN DT NNP NNPS IN PRP$ JJ NN IN NNS CC NN NNS .
+The U.S. government is offering a $ 5 million reward for his capture .,O B-geo O O O O O O O O O O O O,DT NNP NN VBZ VBG DT $ CD CD NN IN PRP$ NN .
+Army soldiers clashed with 60 Abu Sayyaf extremists in a mountainous town on the southwestern Philippine island of Jolo .,B-org O O O O B-org I-org O O O O O O O O B-org O O B-geo O,NNP NNS VBD IN CD NNP NNP NNS IN DT JJ NN IN DT JJ JJ NN IN NNP .
+Officials say they found bomb-making materials at the camp after members of the group fled .,O O O O O O O O O O O O O O O O,NNS VBP PRP VBD JJ NNS IN DT NN IN NNS IN DT NN VBD .

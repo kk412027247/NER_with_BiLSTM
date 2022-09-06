@@ -1,0 +1,7 @@
+"A group of about 150 Guatemalan refugees has returned home , more than two decades after fleeing the civil war then tearing up their country .",O O O O O B-gpe O O O O O O O O O O O O O O O O O O O O,"DT NN IN IN CD JJ NNS VBZ VBN NN , JJR IN CD NNS IN VBG DT JJ NN RB VBG RP PRP$ NN ."
+The group arrived in Guatemala from Bolivia Sunday .,O O O O B-geo O B-geo B-tim O,DT NN VBD IN NNP IN NNP NNP .
+Most had fled to neighboring Honduras in 1981 .,O O O O O B-geo O B-tim O,JJS VBD VBN TO JJ NNP IN CD .
+United Nations officials later sent them to Bolivia for their safety .,B-org I-org O O O O O B-geo O O O O,NNP NNPS NNS RB VBD PRP TO NNP IN PRP$ NN .
+"About 200,000 people died in Guatemala 's civil war from 1960 to 1996 .",O O O O O B-geo O O O O B-tim I-tim I-tim O,IN CD NNS VBD IN NNP POS JJ NN IN CD TO CD .
+Tens of thousands were displaced by the fighting .,O O O O O O O O O,NNS IN NNS VBD VBN IN DT NN .
+"The Guatemalan government had long discussed helping refugees return home , but it did not take action until Bolivian President Evo Morales expressed support for the repatriation in 2005 .",O B-gpe O O O O O O O O O O O O O O O O B-gpe O B-per I-per O O O O O O B-tim O,"DT JJ NN VBD RB VBN VBG NNS VB NN , CC PRP VBD RB VB NN IN JJ NNP NNP NNP VBD NN IN DT NN IN CD ."

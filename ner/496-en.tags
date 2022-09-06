@@ -1,0 +1,8 @@
+Iraqi security officials say gunmen have killed a lawyer representing Saddam Hussein 's codefendants on charges of crimes against humanity .,B-gpe O O O O O O O O O B-per I-per O O O O O O O O O,JJ NN NNS VBP NNS VBP VBN DT NN VBG NNP NNP POS NNS IN NNS IN NNS IN NN .
+Tuesday 's drive-by attack in Baghdad was the second assassination of a defense lawyer in the trial in less than three weeks .,B-tim O O O O B-geo O O O O O O O O O O O O O O B-tim O O,NNP POS JJ NN IN NNP VBD DT JJ NN IN DT NN NN IN DT NN IN JJR IN CD NNS .
+The latest victim was defending Saddam 's former vice president Taha Yassin Ramadan .,O O O O O B-per O O O B-per B-org I-org I-org O,DT JJS NN VBD VBG NNP POS JJ NN NN NNP NNP NNP .
+A second lawyer was wounded .,O O O O O O,DT JJ NN VBD VBN .
+"Following the attack , attorneys for Saddam Hussein are calling for the trial to be moved to another country and for their security to be guaranteed .",O O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O,"VBG DT NN , NNS IN NNP NNP VBP VBG IN DT NN TO VB VBN TO DT NN CC IN PRP$ NN TO VB VBN ."
+"In other violence Tuesday , coalition forces killed two insurgents in Ramadi .",O O O B-tim O O O O O O O B-geo O,"IN JJ NN NNP , NN NNS VBD CD NNS IN NNP ."
+Roadside bombs killed two policemen and an Iraqi security official elsewhere in the country .,O O O O O O O B-gpe O O O O O O O,NNP NNS VBD CD NNS CC DT JJ NN NN RB IN DT NN .
+And Iraqi President Jalal Talabani met in Rome with Italian Prime Minister Silvio Berlusconi and thanked him for sending troops to Iraq .,O B-gpe B-per I-per I-per O O B-geo O B-gpe B-per I-per I-per I-per O O O O O O O B-geo O,CC JJ NNP NNP NNP VBD IN NNP IN JJ NNP NNP NNP NNP CC VBD PRP IN VBG NNS TO NNP .

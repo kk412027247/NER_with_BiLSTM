@@ -1,0 +1,6 @@
+"A passenger plane flying from Dubai to India hit an air pocket Sunday over India , plunging 4,600 meters , injuring more than a dozen people .",O O O O O B-geo O B-geo O O O O B-tim O B-geo O O O O O O O O O O O O,"DT NN NN VBG IN NNP TO NNP VBD DT NN NN NNP IN NNP , VBG CD NNS , VBG JJR IN DT NN NNS ."
+"The plane dropped from a height of about approximately 7,620 meters before the pilot could bring the aircraft under control .",O O O O O O O O O O O O O O O O O O O O O,DT NN VBD IN DT NN IN IN RB CD NNS IN DT NN MD VB DT NN IN NN .
+Aviation officials say some of the injured passengers were not wearing seat belts when the plane fell .,O O O O O O O O O O O O O O O O O O,NNP NNS VBP DT IN DT NN NNS VBD RB VBG NN NNS WRB DT NN VBD .
+The aircraft carried 361 passengers and 14 crew members .,O O O O O O O O O O,DT NN VBD CD NNS CC CD NN NNS .
+"The Emirates Boeing 777 landed safely at its destination , the southern Indian city of Kochi , where doctors examined the passengers .",O B-org I-org O O O O O O O O O B-gpe O O B-geo O O O O O O O,"DT NNPS NNP CD VBD RB IN PRP$ NN , DT JJ JJ NN IN NNP , WRB NNS VBD DT NNS ."
+An air pocket is a downward air current that causes an aircraft to lose altitude abruptly .,O O O O O O O O O O O O O O O O O,DT NN NN VBZ DT JJ NN NN WDT VBZ DT NN TO VB NN RB .

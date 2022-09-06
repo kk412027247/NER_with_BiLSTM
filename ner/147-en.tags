@@ -1,0 +1,8 @@
+Indian Prime Minister Manmohan Singh says Saturday 's bombings in New Delhi are linked to foreign elements .,B-gpe O B-per I-per I-per O B-tim O O O B-geo I-geo O O O O O O,JJ JJ NN NNP NNP VBZ NNP POS NNS IN NNP NNP VBP VBN TO JJ NNS .
+"During a phone conversation Monday with Pakistan 's President Pervez Musharraf , he urged Mr. Musharraf to act against terrorism directed at India .",O O O O B-tim O B-geo O B-per I-per I-per O O O B-per B-org O O O O O O B-geo O,"IN DT NN NN NNP IN NNP POS NNP NNP NNP , PRP VBD NNP NNP TO VB IN NN VBN IN NNP ."
+"Mr. Musharraf said Pakistan stands with India against what he called a "" dastardly terrorist attack . """,B-per I-per O B-geo O O B-geo O O O O O O O O O O O,NNP NNP VBD NNP VBZ IN NNP IN WP PRP VBD DT LQU RB JJ NN . LQU
+The bombings killed almost 60 people and wounded more than 150 others as Hindus prepared for the Diwali festival .,O O O O O O O O O O O O O O O O O B-org O O,DT NNS VBD RB CD NNS CC VBD JJR IN CD NNS IN NNS VBD IN DT NNP NN .
+"Tuesday , marks the height of Diwali , also known as the festival of lights .",B-tim O O O O O B-org O O O O O O O O O,"NNP , VBZ DT NN IN NNP , RB VBN IN DT NN IN NNS ."
+Responsibilty for the attacks has been claimed by the little-known Islamic Revolutionary Front .,O O O O O O O O O O B-org I-org I-org O,NN IN DT NNS VBZ VBN VBN IN DT JJ NNP NNP NNP .
+Indian officials say it has ties to a Kashmiri separatist group outlawed in Pakistan .,B-gpe O O O O O O O B-gpe O O O O B-geo O,JJ NNS VBP PRP VBZ NNS TO DT JJ NN NN VBN IN NNP .
+Pakistani officials say they have no evidence that Pakistani groups were involved in the attack .,B-gpe O O O O O O O B-gpe O O O O O O O,JJ NNS VBP PRP VBP DT NN IN JJ NNS VBD VBN IN DT NN .

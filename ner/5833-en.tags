@@ -1,0 +1,9 @@
+"The European Union has launched a new radio service into Belarus , where the opposition hopes to topple hardline President Alexander Lukashenko in an upcoming election .",O B-org I-org O O O O O O O B-geo O O O O O O O O B-per I-per I-per O O O O O,"DT NNP NNP VBZ VBN DT JJ NN NN IN NNP , WRB DT NN VBZ TO VB JJ NNP NNP NNP IN DT JJ NN ."
+The new service is staffed by Belarusian and Polish broadcasters .,O O O O O O B-gpe O B-gpe O O,DT JJ NN VBZ VBN IN JJ CC JJ NNS .
+"It beams news and music by shortwave from just across the Belarusian border in Vilnius , Lithuania .",O O O O O O O O O O O B-gpe O O B-geo O B-geo O,"PRP VBZ NN CC NN IN NN IN RB IN DT JJ NN IN NNP , NNP ."
+"The broadcasts include a daily hour-long series called "" Window to Europe , "" and a series of election specials .",O O O O O O O O O O O B-geo O O O O O O O O O,"DT NNS VBP DT JJ JJ NN VBN LQU NNP TO NNP , LQU CC DT NN IN NN NNS ."
+EU officials say the new radio station is not propaganda .,B-org O O O O O O O O O O,NNP NNS VBP DT JJ NN NN VBZ RB NN .
+But they say tight government controls on the media make it hard for Belarusians to find independent sources of information .,O O O O O O O O O O O O O B-gpe O O O O O O O,CC PRP VBP JJ NN NNS IN DT NNS VBP PRP JJ IN NNS TO VB JJ NNS IN NN .
+President Lukashenko is hoping to win a third term in the March 19 election .,B-per I-per O O O O O O O O O B-tim I-tim I-tim O,NNP NNP VBZ VBG TO VB DT JJ NN IN DT NNP CD NN .
+He accuses the West of interfering in Belarusian affairs .,O O O B-geo O O O B-gpe O O,PRP VBZ DT NNP IN VBG IN JJ NNS .
+The United States has called Mr. Lukashenko Europe 's last dictator because of his suppression of human rights and free speech .,O B-geo I-geo O O B-per I-per B-geo O O O O O O O O O O O O O O,DT NNP NNP VBZ VBN NNP NNP NNP POS JJ NN IN IN PRP$ NN IN JJ NNS CC JJ NN .

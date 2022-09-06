@@ -1,0 +1,6 @@
+International monitors have begun verifying results from Haiti 's disputed presidential election last month .,O O O O O O O B-geo O O O B-tim O O O,JJ NNS VBP VBN VBG NNS IN NNP POS JJ JJ NN JJ NN .
+A team of legal and electoral experts from the Organization of American States expects the process to take several days .,O O O O O O O O O B-org I-org I-org I-org O O O O O B-tim O O,DT NN IN JJ CC JJ NNS IN DT NNP IN NNP NNP VBZ DT NN TO VB JJ NNS .
+"Preliminary results of the November 28 election had former first lady Mirlande Manigat with 31 percent of the vote , and ruling party candidate Jude Celestin with 22 percent .",O O O O B-tim I-tim I-tim O O O O B-geo I-geo O B-tim O O O O O O O O O B-per I-per O O O O,"JJ NNS IN DT NNP CD NN VBD JJ JJ NN NNP NNP IN CD NN IN DT NN , CC VBG NN NN NNP NNP IN CD NN ."
+"The third place candidate , singer Michel Martelly , has challenged the early results , alleging fraud .",O O O O O O B-per I-per O O O O O O O O O O,"DT JJ NN NN , NN NNP NNP , VBZ VBN DT JJ NNS , VBG NN ."
+Haitian officials hope to resolve any discrepancies about the vote .,B-gpe O O O O O O O O O O,JJ NNS VBP TO VB DT NNS IN DT NN .
+The top two vote getters advance to a runoff election on January 16 .,O O O O O O O O O O O B-tim I-tim O,DT JJ CD NN NNS VBP TO DT NN NN IN NNP CD .

@@ -1,0 +1,4 @@
+"Guernsey and the other Channel Islands represent the last remnants of the medieval Dukedom of Normandy , which held sway in both France and England .",B-per O O O B-geo I-geo O O O O O O O B-org I-org I-org O O O O O O B-geo O B-geo O,"NNP CC DT JJ NNP NNP VBP DT JJ NNS IN DT JJ NN IN NNP , WDT VBD NN IN DT NNP CC NNP ."
+The islands were the only British soil occupied by German troops in World War II .,O O O O O B-gpe O O O B-gpe O O O O B-eve O,DT NNS VBD DT JJ JJ NN VBN IN JJ NNS IN NNP NNP NNP .
+Guernsey is a British crown dependency but is not part of the UK or of the European Union .,B-per O O B-gpe O O O O O O O O B-org O O O B-org I-org O,NNP VBZ DT JJ NN NN CC VBZ RB NN IN DT NNP CC IN DT NNP NNP .
+"However , the UK Government is constitutionally responsible for its defense and international representation .",O O O B-org I-org O O O O O O O O O O,"RB , DT NNP NNP VBZ RB JJ IN PRP$ NN CC JJ NN ."

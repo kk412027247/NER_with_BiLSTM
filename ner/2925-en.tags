@@ -1,0 +1,9 @@
+Presidents from most South American countries have gathered in Brazil for a meeting of the Mercosur trading group .,O O O O B-gpe O O O O B-geo O O O O O B-geo O O O,NNS IN JJS JJ JJ NNS VBP VBN IN NNP IN DT NN IN DT NNP NN NN .
+The two-day meeting in Rio de Janeiro began Thursday .,O B-tim O O B-geo I-geo I-geo O B-tim O,DT JJ NN IN NNP NNP NNP VBD NNP .
+One of the main issues under discussion is how to make Mercosur more responsive to the social concerns of the member countries .,O O O O O O O O O O O B-geo O O O O O O O O O O O,CD IN DT JJ NNS IN NN VBZ WRB TO VB NNP RBR JJ TO DT JJ NNS IN DT NN NNS .
+The push for a change of direction for the five-member alliance is coming from Venezuela 's leftist President Hugo Chavez .,O O O O O O O O O O O O O O B-geo O O B-per I-per I-per O,DT NN IN DT NN IN NN IN DT JJ NN VBZ VBG IN NNP POS JJ NNP NNP NNP .
+"Ecuador and Bolivia , both also led by leftist governments , are seeking to join the group .",B-gpe O B-gpe O O O O O O O O O O O O O O O,"NNP CC NNP , DT RB VBN IN JJ NNS , VBP VBG TO VB DT NN ."
+Officials say the trade bloc now accounts for one trillion dollars in annual economic activity and includes 250 million people .,O O O O O O O O O O O O O O O O O O O O O,NNS VBP DT NN NN RB VBZ IN CD CD NNS IN JJ JJ NN CC VBZ CD CD NNS .
+"Argentina , Brazil , Paraguay and Uruguay formed Mercosur in 1991 .",B-gpe O B-gpe O B-gpe O B-gpe O B-org O B-tim O,"NNP , NNP , NNP CC NNP VBD NNP IN CD ."
+Venezuela joined in July of last year .,B-geo O O B-tim I-tim O O O,NNP VBD IN NNP IN JJ NN .
+Chile and Bolivia are associate members .,B-gpe O B-gpe O O O O,NNP CC NNP VBP JJ NNS .

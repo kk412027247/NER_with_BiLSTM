@@ -1,0 +1,7 @@
+Hundreds of Afghan security troops backed by U.S. forces have killed at least 32 suspected Taleban rebels in a district capital of Kandahar province .,O O B-gpe O O O O B-geo O O O O O O O B-org O O O O O O B-geo O O,NNS IN JJ NN NNS VBN IN NNP NNS VBP VBN IN JJS CD JJ NNP NNS IN DT NN NN IN NNP NN .
+"Rebels overran the Mian Nishin district last week , taking 31 police hostage and later killing eight of them .",O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT JJ NNP NN JJ NN , VBG CD NN NN CC RB VBG CD IN PRP ."
+Militants say they have released the remaining 23 hostages .,O O O O O O O O O O,NNS VBP PRP VBP VBN DT VBG CD NNS .
+"Before dawn Tuesday , some 400 Afghan troops entered the area , capturing 15 suspected militants and killing at least 11 others .",O O B-tim O O O B-gpe O O O O O O O O O O O O O O O O,"IN NN NNP , DT CD JJ NNS VBD DT NN , VBG CD JJ NNS CC VBG IN JJS CD NNS ."
+U.S. airstrikes in the area killed some 21 other suspected militants .,B-geo O O O O O O O O O O O,NNP NNS IN DT NN VBD DT CD JJ JJ NNS .
+"Elsewhere in Kandahar province , United Nations and Afghan officials say militants killed an Afghan election worker in an ambush .",O O B-geo O O B-org I-org O B-gpe O O O O O B-gpe O O O O O O,"RB IN NNP NN , NNP NNPS CC JJ NNS VBP NNS VBD DT JJ NN NN IN DT NN ."
+It was the second killing of an election worker ahead of the September parliamentary election .,O O O O O O O O O O O O B-tim I-tim I-tim O,PRP VBD DT JJ NN IN DT NN NN RB IN DT NNP JJ NN .

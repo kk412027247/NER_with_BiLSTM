@@ -1,0 +1,6 @@
+"Cuba say it has resumed formal ties with all European Union nations , ending a strain in relations following Cuba 's 2003 government crackdown on dissidents .",B-org O O O O O O O O B-org I-org O O O O O O O O B-geo O B-tim O O O O O,"NNP VBP PRP VBZ VBN JJ NNS IN DT JJ NNP NNS , VBG DT NN IN NNS VBG NNP POS CD NN NN IN NNS ."
+Foreign Minister Felipe Perez Roque made the announcement Monday in Havana .,O B-per I-per I-per I-per O O O B-tim O B-geo O,NNP NNP NNP NNP NNP VBD DT NN NNP IN NNP .
+"Last week , Mr. Roque announced that Cuba was renewing diplomatic contact with only eight EU countries , which included France , Germany and Britain .",O O O B-per I-per O O B-geo O O O O O O O B-org O O O O B-geo O B-geo O B-geo O,"JJ NN , NNP NNP VBD IN NNP VBD VBG JJ NN IN RB CD NNP NNS , WDT VBD NNP , NNP CC NNP ."
+"In 2003 , the Cuban government arrested and imprisoned 75 dissidents .",O B-tim O O B-gpe O O O O O O O,"IN CD , DT JJ NN VBN CC VBN CD NNS ."
+Fourteen of them have been released .,O O O O O O O,CD IN PRP VBP VBN VBN .
+"Following the crackdown , the European Union began to reduce high-level government visits and invited dissidents to embassy gatherings .",O O O O O B-org I-org O O O O O O O O O O O O O,"VBG DT NN , DT NNP NNP VBD TO VB JJ NN NNS CC VBD NNS TO VB NNS ."

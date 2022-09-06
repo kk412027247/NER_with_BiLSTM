@@ -1,0 +1,9 @@
+"Gunmen killed at least 25 people in Pakistan 's southern port of Karachi , raising tensions as voters cast ballots Sunday in a by-election to replace an assassinated lawmaker .",O O O O O O O B-geo O O O O B-geo O O O O O O O B-tim O O O O O O O O O,"NNS VBD IN JJS CD NNS IN NNP POS JJ NN IN NNP , VBG NNS IN NNS VBD NNS NNP IN DT NN TO VB DT JJ NN ."
+The violence broke out Saturday night when gunmen opened fire in several parts of the city .,O O O O B-tim I-tim O O O O O O O O O O O,DT NN VBD RP NNP NN WRB NNS VBD NN IN JJ NNS IN DT NN .
+Police say they have arrested at least 20 suspects in connection with the killings .,O O O O O O O O O O O O O O O,NNS VBP PRP VBP VBN IN JJS CD NNS IN NN IN DT NNS .
+"The election was being held to replace provincial lawmaker Raza Haider , a member of the MQM party , who was shot to death in August .",O O O O O O O O O B-per I-per O O O O O B-org O O O O O O O O B-tim O,"DT NN VBD VBG VBN TO VB JJ NN NNP NNP , DT NN IN DT NNP NN , WP VBD VBN TO NN IN NNP ."
+The assassination sparked four days of violence that killed at least 85 people .,O O O O O O O O O O O O O O,DT NN VBD CD NNS IN NN WDT VBD IN JJS CD NNS .
+MQM largely represents the Urdu-speaking community .,B-org O O O O O O,NNP RB VBZ DT JJ NN .
+The rival ANP party represents ethnic Pashtuns .,O O B-org O O O O O,DT JJ NNP NN VBZ JJ NNS .
+Both parties blame each other for the violence that erupted after Haider 's death .,O O O O O O O O O O O B-per O O O,DT NNS VBP DT NN IN DT NN WDT VBD IN NNP POS NN .
+"Karachi has been plagued by ethnic and sectarian killings , crime and kidnappings .",B-geo O O O O O O O O O O O O O,"NNP VBZ VBN VBN IN JJ CC JJ NNS , NN CC NNS ."

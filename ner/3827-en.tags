@@ -1,0 +1,6 @@
+"The economy of Saint Barthelemy is based upon high-end tourism and duty-free luxury commerce , serving visitors primarily from North America .",O O O B-org I-org O O O O O O O O O O O O O O B-geo I-geo O,"DT NN IN NNP NNP VBZ VBN IN JJ NN CC JJ NN NN , VBG NNS RB IN NNP NNP ."
+"The luxury hotels and villas host 70,000 visitors each year with another 130,000 arriving by boat .",O O O O O O O O O O O O O O O O O,DT NN NNS CC NNS VBP CD NNS DT NN IN DT CD NN IN NN .
+The relative isolation and high cost of living inhibits mass tourism .,O O O O O O O O O O O O,DT JJ NN CC JJ NN IN VBG NNS JJ NN .
+The construction and public sectors also enjoy significant investment in support of tourism .,O O O O O O O O O O O O O O,DT NN CC JJ NNS RB VBP JJ NN IN NN IN NN .
+"With limited fresh water resources , all food must be imported , as must all energy resources and most manufactured goods .",O O O O O O O O O O O O O O O O O O O O O O,"IN JJ JJ NN NNS , DT NN MD VB VBN , IN MD DT NN NNS CC RBS JJ NNS ."
+Employment is strong and attracts labor from Brazil and Portugal .,O O O O O O O B-geo O B-geo O,NN VBZ JJ CC VBZ NN IN NNP CC NNP .

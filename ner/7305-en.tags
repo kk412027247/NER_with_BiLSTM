@@ -1,0 +1,6 @@
+"A suicide bomber in a car blew himself up next to a NATO convoy in southern Afghanistan on Friday , but no troops were hurt .",O O O O O O O O O O O O B-org O O B-geo I-geo O B-tim O O O O O O O,"DT NN NN IN DT NN VBD PRP RP JJ TO DT NNP NN IN JJ NNP IN NNP , CC DT NNS VBD VBN ."
+"The blast occurred north of Tirin Kot , the capital of Uruzgan province .",O O O O O B-geo I-geo O O O O B-geo O O,"DT NN VBD NN IN NNP NNP , DT NN IN NNP NN ."
+Afghan police say the suicide bomber was trying to get close to the convoy but was more than 30 meters away when the explosion went off .,B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP DT NN NN VBD VBG TO VB RB TO DT NN CC VBD JJR IN CD NNS RB WRB DT NN VBD RB .
+"The bomber was killed , but there were no other casualties .",O O O O O O O O O O O O,"DT NN VBD VBN , CC EX VBD DT JJ NNS ."
+"Attacks from suspected Taleban militants against NATO , U.S. and Afghan forces increased dramatically in Afghanistan last year .",O O O B-org O O B-org O B-geo O B-gpe O O O O B-geo O O O,"NNS IN JJ NNP NNS IN NNP , NNP CC JJ NNS VBD RB IN NNP JJ NN ."
+U.S. and Afghan officials have warned they expect an increase in Taleban attacks in the coming months .,B-geo O B-gpe O O O O O O O O B-org O O O O O O,NNP CC JJ NNS VBP VBN PRP VBP DT NN IN NNP NNS IN DT JJ NNS .

@@ -1,0 +1,9 @@
+"A series of explosions shook the Iraqi capital Wednesday , while a high-ranking U.S. official visited the country .",O O O O O O B-gpe O B-tim O O O O B-geo O O O O O,"DT NN IN NNS VBD DT JJ NN NNP , IN DT JJ NNP NN VBD DT NN ."
+Deputy Secretary of State Robert Zoellick visited the former insurgent stronghold of Fallujah .,O O O B-org I-org I-org O O O O O O B-geo O,NNP NNP IN NNP NNP NNP VBD DT JJ JJ NN IN NNP .
+He was scheduled to also meet in Baghdad with Iraq 's new interim president and prime minister .,O O O O O O O B-geo O B-geo O O O O O O O O,PRP VBD VBN TO RB VB IN NNP IN NNP POS JJ JJ NN CC JJ NN .
+"Meanwhile , near Kirkuk , nine policemen were killed while trying to defuse a bomb .",O O O B-geo O O O O O O O O O O O O,"RB , IN NNP , CD NNS VBD VBN IN VBG TO VB DT NN ."
+"In Baghdad , a string of explosions killed five Iraqis and injured eight other people , including four U.S. contractors .",O B-geo O O O O O O O B-gpe O O O O O O O O B-geo O O,"IN NNP , DT NN IN NNS VBN CD NNS CC JJ CD JJ NNS , VBG CD NNP NNS ."
+"Also , the U.S. military announced today that an American soldier was killed Tuesday in Ramadi during combat operations .",O O O B-geo O O B-tim O O B-gpe O O O B-tim O B-geo O O O O,"RB , DT NNP NN VBD NN IN DT JJ NN VBD VBN NNP IN NNP IN NN NNS ."
+And al-Jazeera television has aired a video it says shows an American contractor who was abducted Monday near Baghdad .,O O O O O O O O O O O B-gpe O O O O B-tim O B-geo O,CC JJ NN VBZ VBN DT NN PRP VBZ VBZ DT JJ NN WP VBD VBN NNP IN NNP .
+The video showed the man urging U.S. officials to open a dialogue with insurgents in order to save his life .,O O O O O O B-geo O O O O O O O O O O O O O O,DT NN VBD DT NN VBG NNP NNS TO VB DT NN IN NNS IN NN TO VB PRP$ NN .
+The White House says it is in contact with the hostage 's family .,O B-org I-org O O O O O O O O O O O,DT NNP NNP VBZ PRP VBZ IN NN IN DT NN POS NN .

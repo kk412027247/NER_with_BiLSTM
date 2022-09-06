@@ -1,0 +1,8 @@
+"President Bush has congratulated the Congolese people for what he called "" their deep desire to embrace democracy "" - because of the country 's constitutional referendum .",B-per I-per O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O,NNP NNP VBZ VBN DT JJ NNS IN WP PRP VBD LQU PRP$ JJ NN TO VB NN LQU : IN IN DT NN POS JJ NN .
+"A White House spokesman , in a statement , said the referendum represents an important step in the democratic process in the Democratic Republic of Congo .",O B-org I-org O O O O O O O O O O O O O O O O O O O B-geo I-geo O B-geo O,"DT NNP NNP NN , IN DT NN , VBD DT NN VBZ DT JJ NN IN DT JJ NN IN DT JJ NNP IN NNP ."
+Polls closed Monday after a second day of voting on a new constitution designed to end years of war and chaos .,O O B-tim O O B-tim I-tim I-tim O O O O O O O O O O O O O O,NNS VBD NNP IN DT JJ NN IN VBG IN DT JJ NN VBN TO VB NNS IN NN CC NN .
+Officials say turnout was high for the referendum .,O O O O O O O O O,NNS VBP NN VBD JJ IN DT NN .
+Final results are not expected for several days .,O O O O O O B-tim O O,JJ NNS VBP RB VBN IN JJ NNS .
+"If approved , the constitution would pave the way for Congolese elections next year .",O O O O O O O O O O B-gpe O O O O,"IN VBN , DT NN MD VB DT NN IN JJ NNS JJ NN ."
+The DRC is struggling to emerge from decades of political instability and violence .,O B-org O O O O O O O O O O O O,DT NNP VBZ VBG TO VB IN NNS IN JJ NN CC NN .
+"The country 's most recent conflict , which ended in 2003 , drew in armies from six neighboring states and left nearly four million people dead .",O O O O O O O O O O B-tim O O O O O O O O O O O O O O O O,"DT NN POS RBS JJ NN , WDT VBD IN CD , VBD IN NNS IN CD JJ NNS CC VBD RB CD CD NNS JJ ."

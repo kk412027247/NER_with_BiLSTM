@@ -1,0 +1,9 @@
+Thousands of people in cities across Britain have rallied to protest Israeli military action in Lebanon .,O O O O O O B-geo O O O O B-gpe O O O B-geo O,NNS IN NNS IN NNS IN NNP VBP VBN TO VB JJ JJ NN IN NNP .
+A march through central London Saturday drew the largest numbers .,O O O O B-geo B-tim O O O O O,DT NN IN JJ NNP NNP VBD DT JJS NNS .
+Police estimate that crowd at seven thousand people .,O O O O O O O O O,NNS VBP DT NN IN CD CD NNS .
+Many of them carried Lebanese flags .,O O O O B-gpe O O,NN IN PRP VBD JJ NNS .
+British Muslim groups organized the protests .,B-gpe O O O O O O,JJ NN NNS VBD DT NNS .
+"The current Mideast crisis began July 12 , when Hezbollah guerrillas kidnapped two Israeli soldiers and killed eight in a raid .",O O O O O B-tim I-tim O O B-org O O O B-gpe O O O O O O O O,"DT JJ NN NN VBD NNP CD , WRB NNP NNS VBD CD JJ NNS CC VBN CD IN DT NN ."
+Israel then launched an offensive on Hezbollah militias based in Lebanon .,B-geo O O O O O B-org O O O B-geo O,NNP RB VBD DT NN IN NNP NNS VBN IN NNP .
+More than 300 Lebanese and 34 Israelis have died in the violence .,O O O B-gpe O O B-gpe O O O O O O,JJR IN CD JJ CC CD NNS VBP VBN IN DT NN .
+Hundreds more have been wounded .,O O O O O O,NNS RBR VBP VBN VBN .

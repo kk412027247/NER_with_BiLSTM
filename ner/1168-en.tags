@@ -1,0 +1,8 @@
+Police in Pakistan say they have detained at least 19 Islamic activists in the eastern city of Lahore after they vowed to defy a ban on rallies protesting controversial cartoons depicting the Prophet Muhammad .,O O B-geo O O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O B-org I-org O,NNS IN NNP VBP PRP VBP VBN IN JJS CD JJ NNS IN DT JJ NN IN NNP IN PRP VBD TO VB DT NN IN NNS VBG JJ NNS VBG DT NNP NNP .
+Police say the activists were detained during raids that began early Saturday .,O O O O O O O O O O O B-tim O,NNS VBP DT NNS VBD VBN IN NNS WDT VBD JJ NNP .
+"Pakistan banned public rallies in the central province of Punjab following a violent protest in the past week in the provincial capital , Lahore .",B-geo O O O O O O O O B-geo O O O O O O B-tim O O O O O O B-geo O,"NNP VBD JJ NNS IN DT JJ NN IN NNP VBG DT JJ NN IN DT JJ NN IN DT JJ NN , NNP ."
+Two people were killed .,O O O O O,CD NNS VBD VBN .
+Radical Islamic leaders said they would defy the ban and stage a protest rally Sunday .,O O O O O O O O O O O O O O B-tim O,JJ JJ NNS VBD PRP MD VB DT NN CC NN DT NN NN NNP .
+"Separately , more than 1,000 Muslims in Hong Kong staged a sit-in protest Sunday , condemning the publication of cartoons .",O O O O B-tim I-tim O B-geo I-geo O O O O B-tim O O O O O O O,"RB , JJR IN CD NNPS IN NNP NNP VBD DT JJ NN NNP , VBG DT NN IN NNS ."
+The 12 cartoons first appeared in a Danish newspaper in September and have been reprinted in other European newspapers .,O O O O O O O B-gpe O O B-tim O O O O O O O O O,DT CD NNS RB VBD IN DT JJ NN IN NNP CC VBP VBN VBN IN JJ JJ NNS .
+One cartoon depicts the Prophet Muhammad as a terrorist .,O O O O B-org I-org O O O O,CD NN VBZ DT NNP NNP IN DT JJ .

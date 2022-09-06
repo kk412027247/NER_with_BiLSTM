@@ -1,0 +1,8 @@
+"Up to 140 people are feared dead in the Democratic Republic of Congo , after a crowded river boat overturned .",O O O O O O O O O B-geo I-geo I-geo I-geo O O O O O O O O,"IN TO CD NNS VBP VBN JJ IN DT JJ NNP IN NNP , IN DT JJ NN NN VBD ."
+Officials said Thursday that the accident occurred on the Congo River in the western province of Bandundu .,O O B-tim O O O O O O B-geo I-geo O O O O O B-geo O,NNS VBD NNP IN DT NN VBD IN DT NNP NNP IN DT JJ NN IN NNP .
+"Information Minister Lambert Mende said at least 80 people are confirmed dead , while local officials put the death toll higher .",B-org O B-per I-per O O O O O O O O O O O O O O O O O O,"NNP NNP NNP NNP VBD IN JJS CD NNS VBP VBN JJ , IN JJ NNS VBD DT NN NN JJR ."
+"About 200 people were believed to be on the boat , which was also carrying merchandise from Bandundu to the capital , Kinshasa .",O O O O O O O O O O O O O O O O O B-geo O O O O B-geo O,"RB CD NNS VBD VBN TO VB IN DT NN , WDT VBD RB VBG NN IN NNP TO DT NN , NNP ."
+Officials say the boat was overloaded and unable to navigate through rough waters .,O O O O O O O O O O O O O O,NNS VBP DT NN VBD VBN CC JJ TO VB IN JJ NNS .
+Mende said rescuers are looking for more survivors .,B-per O O O O O O O O,NNP VBD NNS VBP VBG IN JJR NNS .
+"Fatal boat accidents are common in the DRC , where a lack of paved roads and the high cost of air travel forces many people to travel by boat , even if they do not know how to swim .",O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NN NNS VBP JJ IN DT NNP , WRB DT NN IN JJ NNS CC DT JJ NN IN NN NN NNS JJ NNS TO VB IN NN , RB IN PRP VBP RB VB WRB TO VB ."
+The river vessels are often overcrowded and poorly maintained .,O O O O O O O O O O,DT NN NNS VBP RB JJ CC RB VBN .

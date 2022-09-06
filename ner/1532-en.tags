@@ -1,0 +1,7 @@
+President Bush plans to nominate Zalmay Khalilzad as the new U.S. ambassador to Iraq .,B-per I-per O O O B-per I-per O O O B-geo O O B-geo O,NNP NNP VBZ TO VB NNP NNP IN DT JJ NNP NN TO NNP .
+"Mr. Khalilzad , an Afghan-American , is currently the U.S. ambassador to Afghanistan .",B-per B-geo O O O O O O O B-geo O O B-geo O,"NNP NNP , DT JJ , VBZ RB DT NNP NN TO NNP ."
+Senior administration officials say Mr. Khalilzad is the president 's choice to succeed John Negroponte in the challenging post in Baghdad .,O O O O B-per I-per O O O O O O O B-per I-per O O O O O B-geo O,NNP NN NNS VBP NNP NNP VBZ DT NN POS NN TO VB NNP NNP IN DT JJ NN IN NNP .
+No formal announcement has been made yet .,O O O O O O O O,DT JJ NN VBZ VBN VBN RB .
+The president has nominated Mr. Negroponte to be the United States ' first Director of National Intelligence .,O O O O B-per I-per O O O B-geo I-geo O O O O B-org I-org O,DT NN VBZ VBN NNP NNP TO VB DT NNP NNPS POS JJ NNP IN NNP NNP .
+"In 2003 , Mr. Bush asked Mr. Khalilzad to oversee elections and reconstruction efforts in war-ravaged Afghanistan .",O B-tim O B-per I-per O B-per I-per O O O O O O O O B-geo O,"IN CD , NNP NNP VBD NNP NNP TO VB NNS CC NN NNS IN JJ NNP ."
+"Before that , he was one of the top national security advisers in the Bush administration .",O O O O O O O O O O O O O O B-per O O,"IN DT , PRP VBD CD IN DT JJ JJ NN NNS IN DT NNP NN ."

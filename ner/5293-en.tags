@@ -1,0 +1,7 @@
+"In Afghanistan , a huge explosion in a convoy hauling munitions and weapons to a remote location for destruction has killed two German soldiers and at least five Afghans .",O B-geo O O O O O O O O O O O O O O O O O O O O B-gpe O O O O O B-gpe O,"IN NNP , DT JJ NN IN DT NN VBG NNS CC NNS TO DT JJ NN IN NN VBZ VBN CD JJ NNS CC IN JJS CD NNS ."
+Afghan officials say the explosion in the northern province of Takhar Saturday was accidental .,B-gpe O O O O O O O O O B-tim I-tim O O O,JJ NNS VBP DT NN IN DT JJ NN IN NNP NNP VBD JJ .
+They say a third German soldier and a sixth Afghan were wounded .,O O O O B-gpe O O O O B-gpe O O O,PRP VBP DT JJ JJ NN CC DT JJ NN VBD VBN .
+The Associated Press quotes Afghan President Hamid Karzai as saying he was deeply saddened by the incident .,B-org I-org I-org O B-gpe B-per I-per I-per O O O O O O O O O O,DT NNP NNP VBZ JJ NNP NNP NNP IN VBG PRP VBD RB VBN IN DT NN .
+The German soldiers were part of the NATO-led International Security Assistance Force in Afghanistan .,O B-gpe O O O O O B-org I-org I-org I-org I-org O B-geo O,DT JJ NNS VBD NN IN DT JJ NNP NNP NNP NNP IN NNP .
+The German detachment of about two thousand troops provides security and collects weapons and ammunition from disarmed militias for disposal .,O B-gpe O O O O O O O O O O O O O O O O O O O,DT JJ NN IN IN CD CD NNS VBZ NN CC VBZ NNS CC NN IN JJ NNS IN NN .
+"ISAF has about 8,000 troops in Afghanistan .",B-org O O O O O B-geo O,NNP VBZ IN CD NNS IN NNP .

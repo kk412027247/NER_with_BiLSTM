@@ -1,0 +1,6 @@
+A U.S. bankruptcy judge has reaffirmed her ruling that U.S. courts do not have jurisdiction in the Yukos case .,O B-geo O O O O O O O B-geo O O O O O O O B-org O O,DT NNP NN NN VBZ VBN PRP$ NN IN NNP NNS VBP RB VB NN IN DT NNP NN .
+Judge Letitia Clark had ruled last week that the company does not have enough presence in the United States for the courts to intervene .,O B-per I-per O O O O O O O O O O O O O O B-geo I-geo O O O O O O,NNP NNP NNP VBD VBN JJ NN IN DT NN VBZ RB VB JJ NN IN DT NNP NNPS IN DT NNS TO VB .
+The firm based its case on the fact that its financial chief owns a home in Texas and the company has bank accounts there .,O O O O O O O O O O O O O O O O B-geo O O O O O O O O,DT NN VBD PRP$ NN IN DT NN IN PRP$ JJ NN VBZ DT NN IN NNP CC DT NN VBZ NN NNS RB .
+The embattled firm was seeking bankruptcy protection after Russia 's court-ordered sale of its Yuganskneftegaz production unit .,O O O O O O O O B-geo O O O O O O O O O,DT JJ NN VBD VBG NN NN IN NNP POS JJ NN IN PRP$ NNP NN NN .
+Yukos had sought help from the court in an unsuccessful attempt to halt the auction .,B-org O O O O O O O O O O O O O O O,NNP VBD VBN NN IN DT NN IN DT JJ NN TO VB DT NN .
+Judge Clark in December temporarily had approved a Yukos request to block the sale .,O B-per O B-tim O O O O B-org O O O O O O,NNP NNP IN NNP RB VBD VBN DT NNP NN TO VB DT NN .

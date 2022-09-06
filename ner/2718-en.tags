@@ -1,0 +1,5 @@
+"Brazilian President Luiz Inacio Lula da Silva and his Venezuelan counterpart , Hugo Chavez , have signed a series of agreements in what they called a strategic alliance .",B-gpe B-per I-per I-per I-per I-per I-per O O B-gpe O O B-per I-per O O O O O O O O O O O O O O O,"JJ NNP NNP NNP NNP NNP NNP CC PRP$ JJ NN , NNP NNP , VBP VBN DT NN IN NNS IN WP PRP VBD DT JJ NN ."
+The two presidents met Monday in Caracas .,O O O O B-tim O B-geo O,DT CD NNS VBD NNP IN NNP .
+"They signed accords on cooperation in the areas of oil , construction , science and the military .",O O O O O O O O O O O O O O O O O O,"PRP VBD NNS IN NN IN DT NNS IN NN , NN , NN CC DT NN ."
+The Associated Press quotes President Chavez as saying the meeting was a critical development for the countries ' integration .,B-org I-org I-org O B-per I-per O O O O O O O O O O O O O O,DT NNP NNP VBZ NNP NNP IN VBG DT NN VBD DT JJ NN IN DT NNS POS NN .
+"During their meeting , the leaders were also to discuss the selling of Brazilian aircraft to Venezuela 's military .",O O O O O O O O O O O O O B-gpe O O B-geo O O O,"IN PRP$ NN , DT NNS VBD RB TO VB DT NN IN JJ NN TO NNP POS JJ ."

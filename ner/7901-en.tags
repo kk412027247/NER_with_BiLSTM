@@ -1,0 +1,9 @@
+The United Nations says unidentified gunmen in Sudan 's western Darfur region have ambushed and wounded three members of an African Union team .,O B-org I-org O O O O B-geo O B-geo I-geo O O O O O O O O O B-geo I-geo O O,DT NNP NNP VBZ JJ NNS IN NNP POS JJ NNP NN VBP VBN CC VBN CD NNS IN DT NNP NNP NN .
+"A U.N. spokeswoman said Wednesday , two of those wounded were AU monitors .",O B-org O O B-tim O O O O O O O O O,"DT NNP NN VBD NNP , CD IN DT VBN VBD NNP NNS ."
+The third victim was a Sudanese translator .,O O O O O B-gpe O O,DT JJ NN VBD DT JJ NN .
+The spokeswoman said one of the monitors was shot in the neck during the attack Tuesday north of the town of Nyala .,O O O O O O O O O O O O O O O B-tim O O O O O B-geo O,DT NN VBD CD IN DT NNS VBD VBN IN DT NN IN DT NN NNP NN IN DT NN IN NNP .
+She said the other two were only lightly hurt and that all three are now in stable condition .,O O O O O O O O O O O O O O O O O O O,PRP VBD DT JJ CD VBD RB RB VBN CC IN DT CD VBP RB IN JJ NN .
+"Last week , a U.S. development official was shot in the face while working in Darfur .",O O O O B-geo O O O O O O O O O O B-geo O,"JJ NN , DT NNP NN NN VBD VBN IN DT NN IN VBG IN NNP ."
+She survived the attack .,O O O O O,PRP VBD DT NN .
+"The African Union has a force of at least 2,000 personnel in Darfur , including troops and cease-fire monitors .",O B-geo I-geo O O O O O O O O O B-geo O O O O O O O,"DT NNP NNP VBZ DT NN IN IN JJS CD NNS IN NNP , VBG NNS CC NN NNS ."
+The force has limited power to protect civilians .,O O O O O O O O O,DT NN VBZ VBN NN TO VB NNS .

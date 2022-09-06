@@ -1,0 +1,8 @@
+"Despite the controversy over singer Janet Jackson 's breast-baring halftime show at the last Super Bowl , advertisers are quickly buying time this year for the single most-watched event on U.S. television .",O O O O O B-per I-per O O O O O O O B-eve I-eve O O O O O O O O O O O O O O B-geo O O,"IN DT NN IN NN NNP NNP POS JJ NN NN IN DT JJ NNP NNP , NNS VBP RB VBG NN DT NN IN DT JJ JJ NN IN NNP NN ."
+"The FOX television network is airing the National Football League championship on February 6 from Jacksonville , Florida .",O B-org O O O O O B-org I-org I-org O O B-tim I-tim O B-geo O B-geo O,"DT NNP NN NN VBZ VBG DT NNP NNP NNP NN IN NNP CD IN NNP , NNP ."
+A 30-second commercial during the Super Bowl costs at least $ 2.4 million .,O O O O O B-org I-org O O O O O O O,DT JJ NN IN DT NNP NNP NNS IN JJS $ CD CD .
+Automaker Lincoln Mercury will debut its first Super Bowl commercial in more than a decade as it rolls out 11 new products .,O B-org I-org O O O O B-org I-org O O O O O O O O O O O O O O,NN NNP NNP MD VB PRP$ JJ NNP NNP NN IN JJR IN DT NN IN PRP VBZ RP CD JJ NNS .
+Other advertising newcomers include Internet companies CareerBuilder.com and GoDaddy.com .,O O O O O O B-org O B-org O,JJ NN NNS VBP NNP NNS NNP CC NNP .
+"Perennial advertisers returning are Anheuser-Busch , beverage maker Pepsi and automaker General Motors .",O O O O B-org O O O B-per O O B-org I-org O,"NN NNS VBG VBP NNP , NN NN NNP CC NN NNP NNP ."
+FOX is not worrying about a repeat of the Jackson controversy .,B-org O O O O O O O O B-per O O,NNP VBZ RB VBG IN DT NN IN DT NNP NN .
+Singer Paul McCartney stars at the next Superbowl .,O B-per I-per O O O O B-eve O,NN NNP NNP VBZ IN DT JJ NNP .

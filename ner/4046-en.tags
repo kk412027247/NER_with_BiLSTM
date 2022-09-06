@@ -1,0 +1,9 @@
+"The fate of at least 8,000 foreign tourists vacationing in Southeast Asia remains unknown , more than a week after a tsunami pounded coastlines and beach resorts in the region .",O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O,"DT NN IN IN JJS CD JJ NNS VBG IN NNP NNP VBZ JJ , JJR IN DT NN IN DT NN VBD NNS CC NN NNS IN DT NN ."
+At least 350 deaths have been confirmed as foreigners .,O O O O O O O O O O,IN JJS CD NNS VBP VBN VBN IN NNS .
+But officials say that number will likely rise as the identity of victims is sorted out .,O O O O O O O O O O O O O O O O O,CC NNS VBP IN NN MD RB VB IN DT NN IN NNS VBZ VBN RP .
+"In Thailand alone , officials say nearly half of the 5,000 reported deaths were foreign visitors .",O B-geo O O O O O O O O O O O O O O O,"IN NNP RB , NNS VBP RB NN IN DT CD VBD NNS VBD JJ NNS ."
+Southern Asia was at the height of its tourist season when the tsunami hit .,B-geo I-geo O O O O O O O O O O O O O,NNP NNP VBD IN DT NN IN PRP$ NN NN WRB DT NN VBD .
+Sweden and the United States are reporting the most missing citizens .,B-org O O B-geo I-geo O O O O O O O,NNP CC DT NNP NNPS VBP VBG DT RBS JJ NNS .
+"U.S. Secretary of State Colin Powell says as many as 5,000 Americans are unaccounted for .",B-org B-per I-per I-per I-per I-per O O O O O B-gpe O O O O,NNP NNP IN NNP NNP NNP VBZ RB JJ IN CD NNS VBP JJ IN .
+"He adds there is a "" distinct possibility "" that the U.S. death toll will increase from the 15 confirmed so far .",O O O O O O O O O O O B-geo O O O O O O O O O O O,PRP VBZ EX VBZ DT LQU JJ NN RQU IN DT NNP NN NN MD VB IN DT CD VBN RB RB .
+"Swedish officials say nearly 3,000 are still missing .",B-gpe O O O O O O O O,JJ NNS VBP RB CD VBP RB VBG .

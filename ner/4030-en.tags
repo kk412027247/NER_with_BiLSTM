@@ -1,0 +1,7 @@
+U.S. Embassy officials in Ankara say two U.S. warplanes accidentally violated Turkish airspace last week near the Iraq border .,B-org I-org O O B-geo O O B-geo O O O B-gpe O O O O O B-geo O O,NNP NNP NNS IN NNP VBP CD NNP NNS RB VBD JJ NN JJ NN IN DT NNP NN .
+U.S. and Turkish officials said they are investigating the incident .,B-geo O B-gpe O O O O O O O O,NNP CC JJ NNS VBD PRP VBP VBG DT NN .
+The Turkish military said on its Web site that two F-16s briefly crossed into Turkish airspace on May 24 .,O B-gpe O O O O O O O O O O O O B-gpe O O B-tim I-tim O,DT JJ NN VBD IN PRP$ NNP NN IN CD NNS RB VBD IN JJ NN IN NNP CD .
+Officials said the incursion lasted about four minutes .,O O O O O O O O O,NNS VBD DT NN VBD IN CD NNS .
+The incursion happened in an area of southeast Turkey near where thousands of Turkish troops are reported to be gathering .,O O O O O O O O B-geo O O O O B-gpe O O O O O O O,DT NN VBD IN DT NN IN NN NNP IN WRB NNS IN JJ NNS VBP VBN TO VB VBG .
+The airspace violation comes as speculation grows over whether Turkish troops will launch a cross-border operation against Kurdish militants in Iraq .,O O O O O O O O O B-gpe O O O O O O O B-geo O O B-geo O,DT NN NN VBZ IN NN VBZ IN IN JJ NNS MD VB DT JJ NN IN NNP NNS IN NNP .
+"Last week , Turkish Foreign Minister Abdullah Gul said no plans were underway for such a raid .",O O O B-gpe O O B-per I-per O O O O O O O O O O,"JJ NN , JJ JJ NN NNP NNP VBD DT NNS VBD JJ IN PDT DT NN ."

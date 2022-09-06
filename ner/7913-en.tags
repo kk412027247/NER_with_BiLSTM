@@ -1,0 +1,6 @@
+"Iran 's nuclear energy chief says the country has built a new generation of centrifuges , which are used to enrich uranium .",B-geo O O O O O O O O O O O O O O O O O O O O O O,"NNP POS JJ NN NN VBZ DT NN VBZ VBN DT JJ NN IN NNS , WDT VBP VBN TO VB NN ."
+"Ali Akbar Salehi , the head of the Atomic Energy Organization , announced the development Tuesday .",B-per I-per I-per O O O O O B-org I-org I-org O O O O B-tim O,"NNP NNP NNP , DT NN IN DT NNP NNP NNP , VBD DT NN NNP ."
+Enriched uranium can be used in nuclear fuel for a power plant .,O O O O O O O O O O O O O,VBN NN MD VB VBN IN JJ NN IN DT NN NN .
+But Western countries suspect Iran is using the ingredient to build a nuclear weapon .,O O O O B-geo O O O O O O O O O O,CC JJ NNS VBP NNP VBZ VBG DT NN TO VB DT JJ NN .
+Iran denies this .,B-geo O O O,NNP VBZ DT .
+Iranian officials are expected to resume negotiations with world powers about their controversial nuclear program next week .,B-gpe O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN TO VB NNS IN NN NNS IN PRP$ JJ JJ NN JJ NN .

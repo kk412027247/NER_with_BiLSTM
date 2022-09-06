@@ -1,0 +1,8 @@
+A U.S. soldier has been convicted in the May 2006 shooting deaths of three Iraqi detainees .,O B-geo O O O O O O B-tim I-tim O O O O B-gpe O O,DT NNP NN VBZ VBN VBN IN DT NNP CD NN NNS IN CD JJ NNS .
+A military jury found Army Sergeant Raymond Girouard guilty of three counts of negligent homicide ( unintentional death through inaction ) .,O O O O B-org I-org B-per I-per O O O O O O O O O O O O O O,DT JJ NN VBD NNP NNP NNP NNP NN IN CD NNS IN JJ NN LRB JJ NN IN NN RRB .
+They also convicted the 24-year-old of obstruction of justice and conspiracy charges .,O O O O O O O O O O O O O,PRP RB VBD DT JJ IN NN IN NN CC NN NNS .
+"The jury , however , acquitted Girouard of premeditated murder , which carried the possibility of life in prison .",O O O O O O B-per O O O O O O O O O O O O O,"DT NN , RB , VBN NNP IN JJ NN , WDT VBD DT NN IN NN IN NN ."
+"Prosecutors had accused Girouard of allowing the Iraqi detainees to flee , then ordering his men to shoot them as they ran .",O O O B-per O O O B-gpe O O O O O O O O O O O O O O O,"NNS VBD VBN NNP IN VBG DT JJ NNS TO VB , RB VBG PRP$ NNS TO VB PRP IN PRP VBD ."
+Three other soldiers under his command reached plea agreements with prosecutors in the case in exchange for testifying against Girouard .,O O O O O O O O O O O O O O O O O O O B-per O,CD JJ NNS IN PRP$ NN VBD NN NNS IN NNS IN DT NN IN NN IN VBG IN NNP .
+"Two of them were sentenced to 18 years in prison , while the third received a nine-month jail term .",O O O O O O O O O O O O O O O O B-tim O O O,"CD IN PRP VBD VBN TO CD NNS IN NN , IN DT JJ VBD DT JJ NN NN ."
+The sentencing phase of Girouard 's trial takes place Monday .,O O O O B-per O O O O B-tim O,DT NN NN IN NNP POS NN VBZ NN NNP .

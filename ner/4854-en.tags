@@ -1,0 +1,7 @@
+"Tropical Storm Epsilon has been upgraded to a hurricane , a record 14th for this year .",O B-per I-per O O O O O O O O O O O O O O,"NNP NNP NNP VBZ VBN VBN TO DT NN , DT NN NN IN DT NN ."
+Forecasters said Friday that Epsilon is east of Bermuda and is not expected to hit land .,O O B-tim O B-per O O O B-geo O O O O O O O O,NNS VBD NNP IN NNP VBZ JJ IN NNP CC VBZ RB VBN TO VB NN .
+"The six-month hurricane season officially ended November 30 , the busiest period on record .",O O O O O O B-tim I-tim O O O O O O O,"DT JJ NN NN RB VBD NNP CD , DT JJS NN IN NN ."
+"With 26 named storms , forecasters used up their list of designated names and resorted to marking the storms with letters of the Greek alphabet .",O O O O O O O O O O O O O O O O O O O O O O O B-gpe O O,"IN CD VBN NNS , NNS VBD RP PRP$ NN IN VBN NNS CC VBD TO VBG DT NNS IN NNS IN DT JJ NN ."
+The season was also unusually intense .,O O O O O O O,DT NN VBD RB RB JJ .
+"Three hurricanes briefly reached the most violent Category Five status , with Katrina devastating New Orleans and other parts of the U.S. Gulf coast .",O O O O O O O O O O O O B-geo O B-geo I-geo O O O O O B-geo I-geo O O,"CD NNS RB VBD DT RBS JJ NNP CD NN , IN NNP JJ NNP NNP CC JJ NNS IN DT NNP NNP NN ."
+Some experts believe the intensity marks the beginning of a cycle expected to last more than a decade .,O O O O O O O O O O O O O O O O O B-tim O,DT NNS VBP DT NN VBZ DT NN IN DT NN VBN TO VB JJR IN DT NN .

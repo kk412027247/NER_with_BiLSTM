@@ -1,0 +1,7 @@
+India 's defense ministry says it has successfully tested a nuclear-capable ballistic missile from a ship near the east coast .,B-geo O O O O O O O O O O O O O O O O O O O O,NNP POS NN NN VBZ PRP VBZ RB VBN DT JJ JJ NN IN DT NN IN DT JJ NN .
+"The Dhanush missile , developed by India , was fired Friday from a ship , the Subhadra , in the Bay of Bengal off the coast of Orissa .",O B-org O O O O B-geo O O O B-tim O O O O O B-geo O O O B-geo I-geo I-geo O O O O B-geo O,"DT NNP NN , VBN IN NNP , VBD VBN NNP IN DT NN , DT NNP , IN DT NNP IN NNP IN DT NN IN NNP ."
+It has a striking range of at least 250 kilometers .,O O O O O O O O O O O,PRP VBZ DT JJ NN IN IN JJS CD NNS .
+"The missile , which can carry both nuclear and conventional weapons , is a naval version of India 's surface-to-surface Prithvi .",O O O O O O O O O O O O O O O O O B-geo O O O O,"DT NN , WDT MD VB DT JJ CC JJ NNS , VBZ DT JJ NN IN NNP POS JJ NNP ."
+"Earlier this month , India 's nuclear rival , neighboring Pakistan , said it successfully test-fired a nuclear-capable cruise missile .",O O O O B-geo O O O O O B-geo O O O O O O O O O O,"RBR DT NN , NNP POS JJ NN , VBG NNP , VBD PRP RB VBD DT JJ NN NN ."
+Pakistan and India often conduct such tests to demonstrate their defensive readiness .,B-geo O B-geo O O O O O O O O O O,NNP CC NNP RB VBP JJ NNS TO VB PRP$ JJ NN .
+The two rivals normally give each other notice for long-range missile launches .,O O O O O O O O O O O O O,DT CD NNS RB VBP DT JJ NN IN JJ NN NNS .

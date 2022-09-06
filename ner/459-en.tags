@@ -1,0 +1,8 @@
+"A bomb has exploded in a mainly Christian neighborhood in Beirut , killing at least one person and wounding at least 23 others .",O O O O O O O O O O B-geo O O O O O O O O O O O O O,"DT NN VBZ VBN IN DT RB JJ NN IN NNP , VBG IN JJS CD NN CC VBG IN JJS CD NNS ."
+The blast occurred near a bank in the Achrafieh section of town shortly before midnight local time Friday .,O O O O O O O B-geo I-geo O O O O O B-tim I-tim I-tim I-tim O,DT NN VBD IN DT NN IN DT NNP NN IN NN RB IN NN JJ NN NNP .
+An apartment building was badly damaged along with two cars .,O O O O O O O O O O O,DT NN NN VBD RB VBN IN IN CD NNS .
+Police said the bomb contained at least 10 kilograms of TNT .,O O O O O O O O O O B-org O,NNS VBD DT NN VBD IN JJS CD NNS IN NNP .
+"Beirut has suffered a series of bombings since late last year , including a car bomb attack that killed former Prime Minister Rafik Hariri .",B-geo O O O O O O O O O O O O O O O O O O O B-per I-per I-per I-per O,"NNP VBZ VBN DT NN IN NNS IN JJ JJ NN , VBG DT NN NN NN WDT VBD JJ NNP NNP NNP NNP ."
+"Syria has been suspected of involvement in some of the bombings , including Mr. Hariri 's assassination .",B-geo O O O O O O O O O O O O B-per I-per O O O,"NNP VBZ VBN VBN IN NN IN DT IN DT NNS , VBG NNP NNP POS NN ."
+Syria denies any role .,B-geo O O O O,NNP VBZ DT NN .
+"Earlier this week , a United Nations investigator working on the Hariri case traveled to Damascus to arrange interviews with several officials about their possible role in the attack .",O O O O O B-org I-org O O O O B-per O O O B-geo O O O O O O O O O O O O O O,"RBR DT NN , DT NNP NNP NN VBG IN DT NNP NN VBD TO NNP TO VB NNS IN JJ NNS IN PRP$ JJ NN IN DT NN ."

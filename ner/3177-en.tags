@@ -1,0 +1,7 @@
+Egypt 's government and the World Health Organization say three Egyptian children have been hospitalized with the deadly form of avian flu .,B-gpe O O O O B-org I-org I-org O O B-gpe O O O O O O O O O O O O,NNP POS NN CC DT NNP NNP NNP VBP CD JJ NNS VBP VBN VBN IN DT JJ NN IN JJ NN .
+The children come from different parts of the country .,O O O O O O O O O O,DT NNS VBP IN JJ NNS IN DT NN .
+WHO says they are receiving treatment and are in stable condition .,B-org O O O O O O O O O O O,NNP VBZ PRP VBP VBG NN CC VBP IN JJ NN .
+The organization says the children had a history of contact with dead birds .,O O O O O O O O O O O O O O,DT NN VBZ DT NNS VBD DT NN IN NN IN JJ NNS .
+Thirty two Egyptians have contracted the H5N1 form of avian flu .,O O B-gpe O O O B-nat O O O O O,CD CD NNS VBP VBN DT NNP NN IN JJ NN .
+Thirteen of them have died .,O O O O O O,CD IN PRP VBP VBN .
+Egypt has had the largest number of human bird flu cases outside of Asia .,B-geo O O O O O O O O O O O O B-geo O,NNP VBZ VBN DT JJS NN IN JJ NN NN NNS IN IN NNP .

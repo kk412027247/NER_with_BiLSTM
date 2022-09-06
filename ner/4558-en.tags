@@ -1,0 +1,10 @@
+"A remote country of 33 scattered coral atolls , Kiribati has few natural resources and is one of the least developed Pacific Islands .",O O O O O O O O O B-gpe O O O O O O O O O O O B-geo I-geo O,"DT JJ NN IN CD JJ JJ NNS , NNP VBZ JJ JJ NNS CC VBZ CD IN DT JJS JJ NNP NNP ."
+Commercially viable phosphate deposits were exhausted at the time of independence from the UK in 1979 .,O O O O O O O O O O O O O B-org O B-tim O,RB JJ NN NNS VBD VBN IN DT NN IN NN IN DT NNP IN CD .
+Copra and fish now represent the bulk of production and exports .,O O O O O O O O O O O O,NNP CC NN RB VBP DT NN IN NN CC NNS .
+The economy has fluctuated widely in recent years .,O O O O O O B-tim O O,DT NN VBZ VBN RB IN JJ NNS .
+"Economic development is constrained by a shortage of skilled workers , weak infrastructure , and remoteness from international markets .",O O O O O O O O O O O O O O O O O O O O,"JJ NN VBZ VBN IN DT NN IN JJ NNS , JJ NN , CC NN IN JJ NNS ."
+Tourism provides more than one-fifth of GDP .,O O O O O O O O,NNP VBZ JJR IN NN IN NN .
+Private sector initiatives and a financial sector are in the early stages of development .,O O O O O O O O O O O O O O O,JJ NN NNS CC DT JJ NN VBP IN DT JJ NNS IN NN .
+"Foreign financial aid from the EU , UK , US , Japan , Australia , New Zealand , Canada , UN agencies , and Taiwan accounts for 20-25 % of GDP .",O O O O O B-org O B-org O B-geo O B-geo O B-geo O B-geo I-geo O B-geo O B-org O O O B-geo O O O O O B-art O,"JJ JJ NN IN DT NNP , NNP , NNP , NNP , NNP , NNP NNP , NNP , NNP NNS , CC NNP VBZ IN CD NN IN NN ."
+Remittances from seamen on merchant ships abroad account for more than $ 5 million each year .,O O O O O O O O O O O O O O B-tim O O,NNS IN NNS IN NN NNS RB VBP IN JJR IN $ CD CD DT NN .
+Kiribati receives around $ 15 million annually for the government budget from an Australian trust fund .,B-gpe O O O O O O O O O O O O B-gpe O O O,NNP VBZ IN $ CD CD RB IN DT NN NN IN DT JJ NN NN .

@@ -1,0 +1,7 @@
+"California Republican Governor Arnold Schwarzenegger and legislative Democrats have reached what he calls a "" historic agreement "" that would make the state the first to impose a limit on greenhouse gas emissions .",B-org I-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP NNP NNP NNP CC JJ NNS VBP VBN WP PRP VBZ DT LQU JJ NN RQU WDT MD VB DT NN DT JJ TO VB DT NN IN NN NN NNS .
+Governor Schwarzenegger and the lawmakers Wednesday agreed to the deal that would require major energy companies to reduce their carbon emissions within 14 years to 1990 levels .,B-per I-per O O O B-tim O O O O O O O O O O O O O O O B-tim I-tim O B-tim I-tim O O,NNP NNP CC DT NNS NNP VBD TO DT NN WDT MD VB JJ NN NNS TO VB PRP$ NN NNS IN CD NNS TO CD NNS .
+California is aiming to reduce gas emissions by 25 percent .,B-org O O O O O O O O O O,NNP VBZ VBG TO VB NN NNS IN CD NN .
+The bill still needs the approval of the state 's lawmakers .,O O O O O O O O O O O O,DT NN RB VBZ DT NN IN DT NN POS NNS .
+It is expected to pass as Democrats currently hold the majority in the state legislature .,O O O O O O O O O O O O O O O O,PRP VBZ VBN TO VB IN NNS RB VBP DT NN IN DT NN NN .
+Carbon gases trap heat in the atmosphere and scientists believe the gases contribute to global warming .,O O O O O O O O O O O O O O O O O,NNP NNS VBZ NN IN DT NN CC NNS VBP DT NNS VBP TO JJ NN .
+California is the 12th largest producer of greenhouse gas emissions .,B-org O O B-tim O O O O O O O,NNP VBZ DT JJ JJS NN IN NN NN NNS .

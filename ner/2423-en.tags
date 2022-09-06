@@ -1,0 +1,7 @@
+China 's health ministry has reported the country 's third human death from bird flu .,B-geo O O O O O O O O O O O O O O O,NNP POS NN NN VBZ VBN DT NN POS JJ JJ NN IN NN NN .
+The official Xinhua news agency says that the victim was a 41-year-old factory worker in the southeastern city of Sanming in Fujian province .,O O B-org O O O O O O O O O O O O O O O O O O O O O,DT JJ NNP NN NN VBZ IN DT NN VBD DT JJ NN NN IN DT JJ NN IN VBG IN JJ NN .
+She became sick in early December and died last week .,O O O O O B-tim O O O O O,PRP VBD JJ IN JJ NNP CC VBD JJ NN .
+Authorities are unsure how she contracted the disease as no animal cases have been reported in the area .,O O O O O O O O O O O O O O O O O O O,NNS VBP JJ WRB PRP VBD DT NN IN DT NN NNS VBP VBN VBN IN DT NN .
+The case is China 's seventh human bird flu infection .,O O O B-geo O O O O O O O,DT NN VBZ NNP POS JJ JJ NN NN NN .
+"Meanwhile , Romania says tests in Britain have confirmed the presence of the deadly H5N1 bird flu strain in at least six villages east of Bucharest .",O O B-org O O O B-geo O O O O O O O O O O O O O O O O O O B-geo O,"RB , NNP VBZ NNS IN NNP VBP VBN DT NN IN DT JJ NNP NN NN NN IN IN JJS CD NNS JJ IN NNP ."
+"But in Ukraine , President Viktor Yuschenko has lifted a state of emergency in Crimea because the bird flu outbreak there has been eliminated .",O O B-geo O B-per I-per I-per O O O O O O O B-geo O O O O O O O O O O,"CC IN NNP , NNP NNP NNP VBZ VBN DT NN IN NN IN NNP IN DT NN NN NN EX VBZ VBN VBN ."

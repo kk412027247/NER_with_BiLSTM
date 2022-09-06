@@ -1,0 +1,4 @@
+"A new museum opened Friday in Washington on crime and law enforcement , mostly in the United States .",O O O O B-tim O B-geo O O O O O O O O O B-geo I-geo O,"DT JJ NN VBD NNP IN NNP IN NN CC NN NN , RB IN DT NNP NNPS ."
+The museum is owned and financed by an entrepreneur and it charges a fee for entry .,O O O O O O O O O O O O O O O O O,DT NN VBZ VBN CC VBN IN DT NN CC PRP VBZ DT NN IN NN .
+"Visitors are invited to pick up a rifle in a Wild West shootout , plan a prison break and test their knowledge of infamous murderers .",O O O O O O O O O O B-org I-org O O O O O O O O O O O O O O,"NNS VBP VBN TO VB RP DT NN IN DT NNP NNP NN , VBP DT NN NN CC VB PRP$ NN IN JJ NNS ."
+VOA 's Deborah Block was there .,B-org O B-per I-per O O O,NNP POS NNP NNP VBD RB .

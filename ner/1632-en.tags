@@ -1,0 +1,7 @@
+"A major Chinese oil company , CNOOC , has given up an $ 18.5 billion bid to take over the U.S.-based Unocal oil company .",O O B-gpe O O O B-org O O O O O O O O O O O O O B-org I-org O O O,"DT JJ JJ NN NN , NNP , VBZ VBN RP DT $ CD CD NN TO VB RP DT JJ NNP NN NN ."
+It would have been the largest-ever Chinese acquisition of a U.S. company .,O O O O O O B-gpe O O O B-geo O O,PRP MD VB VBN DT JJ JJ NN IN DT NNP NN .
+"With oil prices at record-high levels , the bid sparked opposition from members of the U.S. Congress .",O O O O O O O O O O O O O O O B-org I-org O,"IN NN NNS IN JJ NNS , DT NN VBD NN IN NNS IN DT NNP NNP ."
+Some politicians said losing control of some U.S.-owned oil assets could harm the nation 's economy and security .,O O O O O O O O O O O O O O O O O O O,DT NNS VBD VBG NN IN DT JJ NN NNS MD VB DT NN POS NN CC NN .
+The parent company of CNOOC is controlled by the Chinese government .,O O O O B-org O O O O B-gpe O O,DT NN NN IN NNP VBZ VBN IN DT JJ NN .
+"A statement on the company web site said its interests are "" purely commercial "" and called the political opposition "" unjustified "" and harmful to Unocal shareholders and employees .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-org O O O O,DT NN IN DT NN NN NN VBD PRP$ NNS VBP LQU RB JJ LQU CC VBD DT JJ NN RQU JJ RQU CC JJ TO NNP NNS CC NNS .
+Ending CNOOC 's bid leaves Chevron as the only bidder for Unocal .,O B-org O O O B-geo O O O O O B-org O,VBG NNP POS NN VBZ NNP IN DT JJ NN IN NNP .

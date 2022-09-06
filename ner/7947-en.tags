@@ -1,0 +1,6 @@
+"One of the most powerful women in U.S. business has been forced out of her job as chief executive of the huge , high-tech Hewlett-Packard company .",O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O,"CD IN DT RBS JJ NNS IN NNP NN VBZ VBN VBN IN IN PRP$ NN IN JJ NN IN DT JJ , JJ NNP NN ."
+"Carly Fiorina stepped down Wednesday after six years at the helm , citing differences with the board of directors over the company 's strategy .",B-per I-per O O B-tim O B-tim O O O O O O O O O O O O O O O O O O,"NNP NNP VBD RP NNP IN CD NNS IN DT NN , VBG NNS IN DT NN IN NNS IN DT NN POS NN ."
+HP is the world 's second largest personal computer maker and operates a highly profitable printer business .,B-org O O O O O O O O O O O O O O O O O,NNP VBZ DT NN POS JJ JJS JJ NN NN CC VBZ DT RB JJ NN NN .
+"Ms. Fiorina pushed HP to merge with rival Compaq , saying the merger would bring increased scale , efficiency , and profit .",B-per I-per O B-org O O O O B-org O O O O O O O O O O O O O O,"NNP NNP VBD NNP TO VB IN JJ NNP , VBG DT NN MD VB VBN NN , NN , CC NN ."
+But some investors and analysts say the result was disappointing .,O O O O O O O O O O O,CC DT NNS CC NNS VBP DT NN VBD JJ .
+Chief Financial Officer Robert Wayman was named interim CEO .,B-per I-per I-per I-per I-per O O O O O,NNP NNP NNP NNP NNP VBD VBN JJ NN .

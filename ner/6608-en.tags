@@ -1,0 +1,8 @@
+"The president of the OPEC oil cartel says member nations have agreed to cut oil production by one million barrels a day , in a bid to boost oil prices .",O O O O B-org O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN IN DT NNP NN NN VBZ NN NNS VBP VBN TO VB NN NN IN CD CD NNS DT NN , IN DT NN TO VB NN NNS ."
+The decision has had an immediate effect .,O O O O O O O O,DT NN VBZ VBN DT JJ NN .
+Oil prices rose in trading early Wednesday above $ 58 a barrel .,O O O O O O B-tim O O O O O O,NN NNS VBD IN NN RB NNP IN $ CD DT NN .
+The price had slipped below $ 58 to reach a nearly eight-month low .,O O O O O O O O O O O B-tim O O,DT NN VBD VBN IN $ CD TO VB DT RB JJ NN .
+Oil prices peaked at $ 78 in mid-July .,O O O O O O O B-tim O,NN NNS VBD IN $ CD IN NN .
+OPEC president and Nigerian oil minister Edmund Daukoru says the production cut will take effect at the start of next month .,B-org O O B-gpe O O B-per I-per O O O O O O O O O O O O O O,NNP NN CC JJ NN NN NNP NNP VBZ DT NN NN MD VB NN IN DT NN IN JJ NN .
+He says OPEC 's 11 members are still working out how to share the production cut .,O O B-org O O O O O O O O O O O O O O,PRP VBZ NNP POS CD NNS VBP RB VBG RP WRB TO VB DT NN NN .
+Daukoru has said OPEC may hold an emergency meeting before a scheduled December summit to discuss what to do about falling oil prices .,B-per O O B-org O O O O O O O O B-tim O O O O O O O O O O O,NNP VBZ VBN NNP MD VB DT NN NN IN DT JJ NNP NN TO VB WP TO VB RB VBG NN NNS .

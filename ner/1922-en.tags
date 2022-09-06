@@ -1,0 +1,8 @@
+"Iraqi police say a car bomb has killed at least five people and wounded 17 others in Baghdad , shattering a lull in insurgent attacks in the Iraqi capital .",B-gpe O O O O O O O O O O O O O O O O B-geo O O O O O O O O O B-gpe O O,"JJ NNS VBP DT NN NN VBZ VBN IN JJS CD NNS CC VBD CD NNS IN NNP , VBG DT NN IN JJ NNS IN DT JJ NN ."
+Iraqi and U.S. forces launched a massive sweep for militants in Baghdad two weeks ago .,B-gpe O B-geo O O O O O O O O B-geo B-tim O O O,JJ CC NNP NNS VBD DT JJ NN IN NNS IN NNP CD NNS RB .
+"About 1,000 suspects have been arrested and the number of attacks has dropped .",O O O O O O O O O O O O O O,IN CD NNS VBP VBN VBN CC DT NN IN NNS VBZ VBN .
+But a U.S. military commander says he can not declare victory and warns that insurgents are looking for the chance to carry out large-scale attacks in Baghdad .,O O B-geo O O O O O O O O O O O O O O O O O O O O O O O B-geo O,CC DT NNP JJ NN VBZ PRP MD RB VB NN CC VBZ IN NNS VBP VBG IN DT NN TO VB RP JJ NNS IN NNP .
+The U.S military says a roadside bomb killed five Marines Thursday in Iraq 's western Anbar province .,O O O O O O O O O B-org B-tim O B-geo O O O O O,DT NNP NN VBZ DT NN NN VBD CD NNS NNP IN NNP POS JJ NNP NN .
+"Also in Anbar Friday , police found the bodies of 21 Iraqi men who were apparently executed .",O O B-tim I-tim O O O O O O O B-gpe O O O O O O,"RB IN NNP NNP , NN VBD DT NNS IN CD JJ NNS WP VBD RB VBN ."
+Some of them had been beheaded .,O O O O O O O,DT IN PRP VBD VBN VBN .
+Authorities believe the victims were kidnapped Iraqi soldiers .,O O O O O O B-gpe O O,NNS VBP DT NNS VBD VBN JJ NNS .

@@ -1,0 +1,8 @@
+"Israeli President Shimon Peres says tensions between Israel and Syria are now "" over , "" and Israel is ready to negotiate for peace with Syria .",B-gpe B-per I-per I-per O O O B-geo O B-geo O O O O O O O B-geo O O O O O O O B-geo O,"JJ NNP NNP NNP VBZ NNS IN NNP CC NNP VBP RB LQU IN , LQU CC NNP VBZ JJ TO VB IN NN IN NNP ."
+Mr. Peres made the comment to foreign reporters Tuesday in Israel .,B-per I-per O O O O O O B-tim O B-geo O,NNP NNP VBD DT NN TO JJ NNS NNP IN NNP .
+"Monday , Israeli Prime Minister Ehud Olmert also said Israel was ready to negotiate with Syria .",B-tim O B-gpe B-per I-per I-per I-per O O B-geo O O O O O B-geo O,"NNP , JJ NNP NNP NNP NNP RB VBD NNP VBD JJ TO VB IN NNP ."
+The developments come less than two weeks after Syria accused Israel of launching an air strike inside Syria .,O O O O O B-tim O O B-geo O B-geo O O O O O O B-geo O,DT NNS VBP JJR IN CD NNS IN NNP VBD NNP IN VBG DT NN NN IN NNP .
+Israel has refused to comment on the matter .,B-geo O O O O O O O O,NNP VBZ VBN TO VB IN DT NN .
+"Media reports have suggested the air strike either targeted Iranian arms destined for Lebanese Hezbollah guerrillas , or a nuclear facility in Syria built with North Korean technology .",O O O O O O O O O B-gpe O O O B-gpe B-org O O O O O O O B-geo O O O B-gpe O O,"NNS NNS VBP VBN DT NN NN CC JJ JJ NNS VBN IN JJ NNP NNS , CC DT JJ NN IN NNP VBN IN JJ JJ NN ."
+"Last week , Syria protested to the United Nations about the incident and accused Israel of aggression .",O O O B-geo O O O B-org I-org O O O O O B-geo O O O,"JJ NN , NNP VBD TO DT NNP NNPS IN DT NN CC VBD NNP IN NN ."
+Peace talks between Syria and Israel collapsed in 2000 .,O O O B-geo O B-geo O O B-tim O,NN NNS IN NNP CC NNP VBD IN CD .

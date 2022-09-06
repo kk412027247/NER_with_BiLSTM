@@ -1,0 +1,6 @@
+"New York City , among the most aggressive U.S. municipalities in pursuing new public health regulations , is doing it again .",B-geo I-geo I-geo O O O O O B-geo O O O O O O O O O O O O O,"NNP NNP NNP , IN DT RBS JJ NNP NNS IN VBG JJ JJ NN NNS , VBZ VBG PRP RB ."
+"In 2003 , the City banned smoking indoors .",O B-tim O O B-geo O O O O,"IN CD , DT NNP VBD NN NNS ."
+"Last year , it prohibited restaurants from using trans fats in food .",O O O O O O O O O O O O O,"JJ NN , PRP VBD NNS IN VBG NNS NNS IN NN ."
+"Now , New York is requiring many restaurants to publish and post the calorie content of their foods , to help combat a growing "" obesity epidemic . """,O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O,"RB , NNP NNP VBZ VBG JJ NNS TO VB CC VB DT NN NN IN PRP$ NNS , TO VB VB DT VBG LQU NN NN . LQU"
+City officials say this is their way to fight the obesity epidemic and other U.S. cities are following the lead .,B-geo O O O O O O O O O O O O O B-geo O O O O O O,NNP NNS VBP DT VBZ PRP$ NN TO VB DT NN NN CC JJ NNP NNS VBP VBG DT NN .
+VOA 's Paige Kollock reports from New York .,B-org O B-per I-per O O B-geo I-geo O,NNP POS NNP NNP VBZ IN NNP NNP .

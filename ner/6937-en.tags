@@ -1,0 +1,7 @@
+A spokesman for the International Security Assistance Force says NATO and Afghan forces have killed about 50 Taleban insurgents in an operation in southern Afghanistan .,O O O O B-org I-org I-org I-org O B-org O B-gpe O O O O O B-org O O O O O B-geo I-geo O,DT NN IN DT NNP NNP NNP NNP VBZ NNP CC JJ NNS VBP VBN IN CD NNP NNS IN DT NN IN JJ NNP .
+The NATO spokesman said there were no casualties among NATO and Afghan troops .,O B-org O O O O O O O B-org O B-gpe O O,DT NNP NN VBD EX VBD DT NNS IN NNP CC JJ NNS .
+The operation began last week in two districts ( Panjwayi and Zhari ) of Kandahar province .,O O O O O O O O O O O B-per O O B-geo O O,DT NN VBD JJ NN IN CD NNS LRB NNP CC NNP RRB IN NNP NN .
+"The spokesman said so far , alliance forces have cleared three villages of Taleban insurgents .",O O O O O O O O O O O O O B-org O O,"DT NN VBD RB RB , NN NNS VBP VBN CD NNS IN NNP NNS ."
+"In mid-September , NATO forces carried out another operation in the same area , during which a large number of Taleban were reported killed .",O B-org O B-org O O O O O O O O O O O O O O O O B-org O O O O,"IN NNP , NNP NNS VBD RP DT NN IN DT JJ NN , IN WDT DT JJ NN IN NNP VBD VBN VBN ."
+"The Taleban are mostly active in southern and eastern parts of Afghanistan , close to the border with Pakistan .",O B-org O O O O B-geo O O O O B-geo O O O O O O B-geo O,"DT NNP VBP RB JJ IN JJ CC JJ NNS IN NNP , RB TO DT NN IN NNP ."
+"Violence tied to the insurgency has killed at least 4,000 people in 2006 .",O O O O O O O O O O O O B-tim O,NN VBN TO DT NN VBZ VBN IN JJS CD NNS IN CD .

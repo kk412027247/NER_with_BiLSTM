@@ -1,0 +1,8 @@
+"The international police organization , Interpol , has issued wanted notices for 16 more suspects in connection with the killing of a Hamas leader in Dubai .",O O O O O B-geo O O O O O O O O O O O O O O O O B-org O O B-geo O,"DT JJ NN NN , NNP , VBZ VBN JJ NNS IN CD JJR NNS IN NN IN DT NN IN DT NNP NN IN NNP ."
+Monday 's announcement brought to 27 the total number of suspects named in the January assassination of Mahmoud al-Mabhouh .,B-tim O O O O O O O O O O O O O B-tim O O B-geo I-geo O,NNP POS NN VBD TO CD DT JJ NN IN NNS VBN IN DT NNP NN IN NNP NNP .
+Interpol says the notices were made at the request of Dubai authorities .,B-geo O O O O O O O O O B-geo O O,NNP VBZ DT NNS VBD VBN IN DT NN IN NNP NNS .
+It says Dubai authorities have identified two teams of individuals linked to the murder .,O O B-geo O O O O O O O O O O O O,PRP VBZ NNP NNS VBP VBN CD NNS IN NNS VBN TO DT NN .
+The Interpol red notice allows Dubai to circulate its arrest warrant worldwide with the request that the wanted individuals be arrested and extradited for prosecution .,O B-geo O O O B-geo O O O O O O O O O O O O O O O O O O O O,DT NNP NN NN VBZ NNP TO VB PRP$ NN NN NN IN DT NN IN DT JJ NNS VB VBN CC VBN IN NN .
+"The suspects in the case carried false passports from Britain , Ireland , France , Germany and Australia .",O O O O O O O O O B-geo O B-geo O B-geo O B-geo O B-geo O,"DT NNS IN DT NN VBD JJ NNS IN NNP , NNP , NNP , NNP CC NNP ."
+Dubai authorities suspect Israel 's Mossad spy agency was responsible for the killing .,B-geo O O B-geo O B-geo O O O O O O O O,NNP NNS VBP NNP POS NNP NN NN VBD JJ IN DT NN .
+Israel has neither confirmed nor denied having a role .,B-geo O O O O O O O O O,NNP VBZ RB VBN CC VBN VBG DT NN .

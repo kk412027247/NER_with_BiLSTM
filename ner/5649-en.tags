@@ -1,0 +1,5 @@
+Afghan officials say at least 32 people have died in a head-on collision between two buses in southern Afghanistan .,B-gpe O O O O O O O O O O O O O O O O B-geo I-geo O,JJ NNS VBP IN JJS CD NNS VBP VBN IN DT JJ NN IN CD NNS IN JJ NNP .
+At least 35 others were injured .,O O O O O O O,IN JJS CD NNS VBD VBN .
+Police said the crash occurred Monday on the main road linking the capital Kabul and the southern city of Kandahar .,O O O O O B-tim O O O O O O O B-geo O O O O O B-geo O,NNS VBD DT NN VBD NNP IN DT JJ NN VBG DT NN NNP CC DT JJ NN IN NNP .
+The Reuters news agency reports the crash occurred at a high speed about an hour before sundown .,O B-org O O O O O O O O O O O O B-tim O B-tim O,DT NNP NN NN VBZ DT NN VBD IN DT JJ NN IN DT NN IN NN .
+"In other news , NATO reports that a soldier with its International Security Assistance Force mission was killed and at least four others wounded while on patrol in southern Afghanistan on Monday .",O O O O B-org O O O O O O B-org I-org I-org I-org O O O O O O O O O O O O O O B-geo O B-tim O,"IN JJ NN , NNP VBZ IN DT NN IN PRP$ NNP NNP NNP NNP NN VBD VBN CC IN JJS CD NNS VBN IN IN NN IN JJ NNP IN NNP ."

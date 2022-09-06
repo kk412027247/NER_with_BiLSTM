@@ -1,0 +1,8 @@
+Officials in Benin say tests have confirmed the presence of the deadly H5N1 bird flu virus on two poultry farms .,O O B-geo O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP NNS VBP VBN DT NN IN DT JJ NNP NN NN NN IN CD JJ NNS .
+"Agriculture Minister Roger Dovonou says tests from a laboratory in Italy confirmed the virus has struck one farm in the city of Cotonou and another in the town of Adjarra , outside the capital Porto Novo .",O O B-per I-per O O O O O O B-geo O O O O O O O O O O O B-geo O O O O O O B-geo O O O O B-per I-per O,"NNP NNP NNP NNP VBZ NNS IN DT NN IN NNP VBD DT NN VBZ VBN CD NN IN DT NN IN NNP CC DT IN DT NN IN NNP , IN DT NN NNP NNP ."
+Benin reported its first suspected cases of bird flu on December 7th .,B-geo O O O O O O O O O B-tim I-tim O,NNP VBD PRP$ JJ JJ NNS IN NN NN IN NNP CD .
+"Workers slaughtered several hundred chickens at the two farms as a precautionary measure , and also disinfected the sites .",O O O O O O O O O O O O O O O O O O O O,"NNS VBD JJ CD NNS IN DT CD NNS IN DT JJ NN , CC RB VBD DT NNS ."
+H5N1 mainly affects birds but is capable of infecting humans .,O O O O O O O O O O O,NNP RB VBZ NNS CC VBZ JJ IN VBG NNS .
+"The virus has killed more than 200 people around the world , mostly in Asia , since 2003 .",O O O O O O O O O O O O O O B-geo O B-tim I-tim O,"DT NN VBZ VBN JJR IN CD NNS IN DT NN , RB IN NNP , IN CD ."
+Several west African countries have reported cases of the virus .,O O B-gpe O O O O O O O O,JJ JJ JJ NNS VBP VBN NNS IN DT NN .
+Benin 's neighbor Nigeria reported the area 's first human fatality from H5N1 early this year .,B-geo O O B-per O O O O O O O O O O O O O,NNP POS NN NNP VBD DT NN POS JJ JJ NN IN NNP RB DT NN .

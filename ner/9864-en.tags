@@ -1,0 +1,6 @@
+Philippine troops killed six Communist rebels Sunday in a clash north of Manila .,B-org O O O O O B-tim O O O O O B-geo O,JJ NNS VBN CD JJ NNS NNP IN DT NN NN IN NNP .
+"An infantry unit on routine patrol ran into a 40-man unit from the New People 's Army , touching off the fighting .",O O O O O O O O O O O O O B-org I-org I-org I-org O O O O O O,"DT NN NN IN JJ NN VBD IN DT JJ NN IN DT NNP NNP POS NNP , VBG RP DT NN ."
+"A military spokesman Lieutenant Colonel Buenaventura Pascual , says troops are still in action , rooting out pockets of resistance .",O O O O O B-per I-per O O O O O O O O O O O O O O,"DT JJ NN NNP NNP NNP NNP , VBZ NNS VBP RB IN NN , VBG RP NNS IN NN ."
+The government has not reported any casualties .,O O O O O O O O,DT NN VBZ RB VBN DT NNS .
+The NPA is the armed wing of the Communist Party of the Philippines .,O B-org O O O O O O O O O O B-geo O,DT NNP VBZ DT JJ NN IN DT NNP NNP IN DT NNPS .
+Both groups are listed as terrorist organizations by the United States and the European Union .,O O O O O O O O O B-geo I-geo O O B-org I-org O,DT NNS VBP VBN IN JJ NNS IN DT NNP NNPS CC DT NNP NNP .

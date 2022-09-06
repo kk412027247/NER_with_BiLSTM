@@ -1,0 +1,8 @@
+World leaders have praised Iraq 's national election as a triumph for the Iraqi people .,O O O O B-geo O O O O O O O O B-gpe O O,NNP NNS VBP VBN NNP POS JJ NN IN DT NN IN DT JJ NNS .
+"In Europe and Russia , several leaders who opposed the war joined the United States in declaring the vote a success .",O B-geo O B-geo O O O O O O O O O B-geo I-geo O O O O O O O,"IN NNP CC NNP , JJ NNS WP VBD DT NN VBD DT NNP NNPS IN VBG DT NN DT NN ."
+French President Jacques Chirac told President Bush by phone Monday the elections are an important stage in Iraq 's reconstruction .,B-gpe B-per I-per I-per O B-per I-per O O B-tim O O O O O O O B-geo O O O,JJ NNP NNP NNP VBD NNP NNP IN NN NNP DT NNS VBP DT JJ NN IN NNP POS NN .
+German Foreign Minister Joschka Fischer said Iraqis deserve great recognition for heading to the polls despite the danger .,B-gpe O B-per I-per I-per O B-gpe O O O O O O O O O O O O,JJ NNP NNP NNP NNP VBD NNS VBP JJ NN IN VBG TO DT NNS IN DT NN .
+But he reaffirmed Germany 's refusal to send troops to the country .,O O O B-geo O O O O O O O O O,CC PRP VBD NNP POS NN TO VB NNS TO DT NN .
+Russia 's President Putin called the vote a historic event .,B-geo O B-per I-per O O O O O O O,NNP POS NNP NNP VBD DT NN DT JJ NN .
+"Praise also came from Asian countries , including China , which said it hopes the vote brings stability to Iraq .",O O O O O O O O B-geo O O O O O O O O O O B-geo O,"NNP RB VBD IN JJ NNS , VBG NNP , WDT VBD PRP VBZ DT NN VBZ NN TO NNP ."
+"President Bush and Britain 's Prime Minister Tony Blair hailed the election Sunday , calling it a blow to terrorism .",B-per I-per O B-geo O B-per I-per I-per I-per O O O B-tim O O O O O O O O,"NNP NNP CC NNP POS NNP NNP NNP NNP VBD DT NN NNP , VBG PRP DT NN TO NN ."

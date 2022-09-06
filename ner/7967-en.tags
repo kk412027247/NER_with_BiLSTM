@@ -1,0 +1,7 @@
+"A suicide bomber targeted a police station in Pakistan 's capital , Islamabad , Monday evening , killing himself and one officer .",O O O O O O O O B-geo O O O B-geo O B-tim I-tim O O O O O O O,"DT NN NN VBD DT NN NN IN NNP POS NN , NNP , NNP NN , VBG PRP CC CD NN ."
+Officials say police tried to stop the bomber at a point before he detonated his explosives .,O O O O O O O O O O O O O O O O O,NNS VBP NNS VBD TO VB DT NN IN DT NN IN PRP VBD PRP$ NNS .
+It is not clear how many people were wounded in the attack .,O O O O O O O O O O O O O,PRP VBZ RB JJ WRB JJ NNS VBD VBN IN DT NN .
+"Militants have staged a wave of attacks over the past few years in Pakistan , including several in the capital .",O O O O O O O O O B-tim I-tim O B-tim B-geo O O O O O O O,"NNS VBP VBN DT NN IN NNS IN DT JJ JJ NNS IN NNP , VBG JJ IN DT NN ."
+The government has recently signed two separate peace deals with Islamist groups in the tribal regions near the border with Afghanistan .,O O O O O O O O O O O O O O O O O O O O B-gpe O,DT NN VBZ RB VBN CD JJ NN NNS IN JJ NNS IN DT JJ NNS IN DT NN IN NNP .
+"The country marked its national holiday , Pakistan Day , on Monday .",O O O O O O O B-geo B-tim O O B-tim O,"DT NN VBD PRP$ JJ NN , NNP NNP , IN NNP ."
+The holiday commemorates the 69th anniversary of the movement by Muslims on the Indian sub-continent to create a separate country .,O O O O B-tim O O O O O O O O B-gpe O O O O O O O,DT NN VBZ DT JJ NN IN DT NN IN NNS IN DT JJ JJ TO VB DT JJ NN .

@@ -1,0 +1,7 @@
+"Iran has launched a new , domestically made submarine equipped with what it says is the latest military and technological equipment .",B-org O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN DT JJ , RB VBN NN VBN IN WP PRP VBZ VBZ DT JJS JJ CC JJ NN ."
+"According to official media , the submarine has been named Ghadir - after a Muslim holiday of the same name .",O O O O O O O O O O O O O O B-org O O O O O O,"VBG TO JJ NNS , DT NN VBZ VBN VBN NNP : IN DT NNP NN IN DT JJ NN ."
+"State media in Tehran broadcast pictures Wednesday of a submersible craft , but it was not immediately clear if it was the new one , or a craft previously shown by Iranian media .",O O O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O B-gpe O O,"NN NNS IN JJ NN NNS NNP IN DT JJ NN , CC PRP VBD RB RB JJ IN PRP VBD DT JJ CD , CC DT NN RB VBN IN JJ NNS ."
+"In 2005 , Iran announced that it had built its first sub .",O B-tim O B-geo O O O O O O O O O,"IN CD , NNP VBD IN PRP VBD VBN PRP$ JJ NN ."
+"Iran has been praising its military prowess of late , amid increasing tensions over its nuclear program .",B-org O O O O O O O O O O O O O O O O O,"NNP VBZ VBN VBG PRP$ JJ NN IN JJ , IN VBG NNS IN PRP$ JJ NN ."
+The United States says Tehran 's program is a cover to build a nuclear weapon .,O B-geo I-geo O B-geo O O O O O O O O O O O,DT NNP NNP VBZ NNP POS NN VBZ DT NN TO VB DT JJ NN .
+"Tehran denies the charge , saying its program is for peaceful purposes only .",B-org O O O O O O O O O O O O O,"NNP VBZ DT NN , VBG PRP$ NN VBZ IN JJ NNS RB ."

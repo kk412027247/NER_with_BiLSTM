@@ -1,0 +1,8 @@
+President Bush has called the ideology of Islamic radicals the great challenge of the 21st century .,B-per I-per O O O O O B-geo O O O O O O B-tim I-tim O,NNP NNP VBZ VBN DT NN IN NNP VBZ DT JJ NN IN DT JJ NN .
+"The president spoke Friday in Norfolk , Virginia , home to the world 's largest naval base , to a receptive audience that often broke into applause .",O O O B-tim O B-geo O B-geo O O O O O O O O O O O O O O O O O O O O,"DT NN VBD NNP IN NNP , NNP , NN TO DT NN POS JJS JJ NN , TO DT JJ NN WDT RB VBD IN NN ."
+The president compared Islamic radicals to dictators from the past including Hitler and Stalin .,O O O B-geo O O O O O O O B-org I-org I-org O,DT NN VBN NNP NNS TO NNS IN DT JJ VBG NNP CC NNP .
+He said such militants must be taken seriously and stopped before their crimes multiply .,O O O O O O O O O O O O O O O,PRP VBD JJ NNS MD VB VBN RB CC VBD IN PRP$ NNS RB .
+He said protecting the freedoms of others in the world protects freedom in the United States .,O O O O O O O O O O O O O O B-geo I-geo O,PRP VBD VBG DT NNS IN NNS IN DT NN VBZ NN IN DT NNP NNPS .
+Mr. Bush stressed that Islamic radicalism is very different from Islam .,B-per I-per O O B-geo O O O O O B-geo O,NNP NNP VBD IN NNP NN VBZ RB JJ IN NNP .
+"During his speech , a protester in the audience yelled , "" Mr. President , war is terror , "" and revealed a shirt saying "" Dump Bush . """,O O O O O O O O O O O O B-per I-per O O O O O O O O O O O O O B-per O O,"IN PRP$ NN , DT NN IN DT NN VBD , LQU NNP NNP , NN VBZ NN , LQU CC VBD DT NN VBG LQU NNP NNP . LQU"
+"He was escorted out of the auditorium , as other audience members voiced their disapproval of him .",O O O O O O O O O O O O O O O O O O,"PRP VBD VBN IN IN DT NN , IN JJ NN NNS VBD PRP$ NN IN PRP ."

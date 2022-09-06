@@ -1,0 +1,7 @@
+Insurgents in Iraq launched a wave of suicide attacks against U.S. forces and kidnapped an American contractor Monday .,O O B-geo O O O O O O O B-geo O O O O B-gpe O B-tim O,NNS IN NNP VBD DT NN IN NN NNS IN NNP NNS CC VBD DT JJ NN NNP .
+A spokesman for the U.S. embassy says the contractor was abducted near Baghdad .,O O O O B-geo O O O O O O O B-geo O,DT NN IN DT NNP NN VBZ DT NN VBD VBN IN NNP .
+"Earlier , suicide bombers blew up three vehicles at the entrance to a U.S. base in western Iraq .",O O O O O O O O O O O O O B-geo O O B-geo I-geo O,"RB , NN NNS VBD RP CD NNS IN DT NN TO DT NNP NN IN JJ NNP ."
+Three U.S. Marines and three Iraqi civilians were wounded .,O B-org I-org O O B-gpe O O O O,CD NNP NNS CC CD JJ NNS VBD VBN .
+Insurgents in another vehicle opened fire on the base before a U.S. helicopter destroyed their car .,O O O O O O O O O O O B-geo O O O O O,NNS IN DT NN VBD NN IN DT NN IN DT NNP NN VBD PRP$ NN .
+"And in Samarra , a suicide car bomber killed three people and wounded 20 others when his vehicle exploded near a U.S. convoy .",O O B-geo O O O O O O O O O O O O O O O O O O B-geo O O,"CC IN NNP , DT NN NN NN VBD CD NNS CC VBD CD NNS WRB PRP$ NN VBD IN DT NNP NN ."
+"Meanwhile , media reports say the U.S. Defense Department may withdraw tens of thousands of troops from Iraq by early next year .",O O O O O O B-org I-org I-org O O O O O O O O B-geo O O O O O,"RB , NNS NNS VBP DT NNP NNP NNP MD VB NNS IN NNS IN NNS IN NNP IN JJ JJ NN ."

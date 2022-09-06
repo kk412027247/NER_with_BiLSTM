@@ -1,0 +1,5 @@
+Avril Lavigne has no sympathy for Britney Spears .,B-per I-per O O O O B-per I-per O,NNP NNP VBZ DT NN IN NNP NNP .
+"Speaking to the London Sun , the 22-year-old pop-rock singer says Spears simply is n't tough enough for show business .",O O O B-org I-org O O O O O O B-per O O O O O O O O O,"VBG TO DT NNP NNP , DT JJ NN NN VBZ NNP RB VBZ RB JJ RB IN NN NN ."
+""" You ca n't complain about the pressures , the paparazi , the madness , "" she says , "" because that 's the job . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O,"LQU PRP MD RB VB IN DT NNS , DT NN , DT NN , RQU PRP VBZ , LQU IN DT VBZ DT NN . RQU"
+"Avril Lavigne had her own widely-publicized run-ins with celebrity lensmen last September , when she was photographed spitting at paparazzi on two separate occasions .",B-per I-per O O O O O O O O O B-tim O O O O O O O O O O O O O,"NNP NNP VBD PRP$ JJ JJ NNS IN NN NNS JJ NNP , WRB PRP VBD VBN VBG IN NNS IN CD JJ NNS ."
+Her third album The Best Damn Thing is scheduled for an April 17 release .,O O O B-art I-art I-art I-art O O O O B-tim I-tim I-tim O,PRP$ JJ NN DT NNP NNP NNP VBZ VBN IN DT NNP CD NN .

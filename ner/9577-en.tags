@@ -1,0 +1,8 @@
+"A Shi'ite militant group in Iraq has released a video of a man it apparently kidnapped , and who appears to be a U.S. contractor who disappeared last month .",O O O O O B-geo O O O O O O O O O O O O O O O O O B-geo O O O O O O,"DT NNP JJ NN IN NNP VBZ VBN DT NN IN DT NN PRP RB VBD , CC WP VBZ TO VB DT NNP NN WP VBD JJ NN ."
+The video posted on the Internet shows a man wearing a U.S. military uniform .,O O O O O O O O O O O B-geo O O O,DT NN VBN IN DT NN VBZ DT NN VBG DT NNP JJ NN .
+He is sitting in front of a flag inscribed with the name of the militant group - League of the Righteous .,O O O O O O O O O O O O O O O O O B-org O O O O,PRP VBZ VBG IN NN IN DT NN VBN IN DT NN IN DT JJ NN : NNP IN DT JJ .
+"On Friday , the U.S. Department of Defense said a 60-year-old American contractor Issa T .",O B-tim O O B-org I-org I-org I-org O O O B-gpe O B-org I-org O,"IN NNP , DT NNP NNP IN NNP VBD DT JJ JJ NN NNP NNP ."
+"Salomi had disappeared on January 23 , and that search efforts were under way .",B-per O O O B-tim I-tim O O O O O O O O O,"NNP VBD VBN IN NNP CD , CC IN NN NNS VBD IN NN ."
+The man in the video does not identify himself .,O O O O O O O O O O,DT NN IN DT NN VBZ RB VB PRP .
+"He reads the group 's demands , which include the release of Iraqi prisoners and the withdrawal of U.S. military forces from Iraq .",O O O O O O O O O O O O B-gpe O O O O O B-geo O O O B-geo O,"PRP VBZ DT NN POS NNS , WDT VBP DT NN IN JJ NNS CC DT NN IN NNP JJ NNS IN NNP ."
+The group also calls for U.S. security contractors with the firm Blackwater to be brought to justice for crimes against Iraqis .,O O O O O B-geo O O O O O O O O O O O O O O B-gpe O,DT NN RB VBZ IN NNP NN NNS IN DT NN NN TO VB VBN TO NN IN NNS IN NNS .

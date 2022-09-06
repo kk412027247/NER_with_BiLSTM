@@ -1,0 +1,4 @@
+"An Ant , going to a river to drink , fell in , and was carried along in the stream .",O O O O O O O O O O O O O O O O O O O O O,"DT NN , VBG TO DT NN TO VB , VBD IN , CC VBD VBN IN IN DT NN ."
+"A Dove pitied her condition , and threw into the river a small bough , by means of which the Ant gained the shore .",O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD PRP$ NN , CC VBD IN DT NN DT JJ NN , IN NNS IN WDT DT NN VBD DT NN ."
+"The Ant afterward , seeing a man with a fowling-piece aiming at the Dove , stung him in the foot sharply , and made him miss his aim , and so saved the Dove 's life .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN RB , VBG DT NN IN DT NN VBG IN DT NN , VBG PRP IN DT NN RB , CC VBD PRP VB PRP$ NN , CC RB VBD DT NN POS NN ."
+""" Little friends may prove great friends . """,O O O O O O O O O,LQU JJ NNS MD VB JJ NNS . RQU

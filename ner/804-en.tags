@@ -1,0 +1,6 @@
+A young Egyptian woman died from bird flu Tuesday .,O O B-gpe O O O O O B-tim O,DT JJ JJ NN VBD IN NN NN NNP .
+"Egypt 's MENA news agency quotes the health ministry as saying the 25-year-old woman from Fayyum died in a Giza hospital south of the capital , Cairo .",B-org O B-org O O O O O O O O O O O O B-geo O O O B-geo O O O O O O B-geo O,"NNP POS NNP NN NN VBZ DT NN NN IN VBG DT JJ NN IN NNP VBD IN DT NNP NN NN IN DT NN , NNP ."
+"Of the 44 bird flu cases confirmed in Egypt , 20 have been fatal .",O O O O O O O O B-org O O O O O O,"IN DT CD NN NN NNS VBN IN NNP , CD VBP VBN JJ ."
+"Most of the fatalities have been women or girls whose families raise poultry , which brings them into daily contact with chickens or turkeys .",O O O O O O O O O O O O O O O O O O O O O O O O O,"JJS IN DT NNS VBP VBN NNS CC NNS WP$ NNS VBP NN , WDT VBZ PRP IN JJ NN IN NNS CC NNS ."
+Close to five million Egyptian households depend on poultry for food or income .,O O O O B-gpe O O O O O O O O O,JJ TO CD CD JJ NNS VBP IN NN IN NN CC NN .
+"The government says this makes it unlikely the disease can be eradicated , despite a large-scale poultry vaccination program .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ DT VBZ PRP JJ DT NN MD VB VBN , IN DT JJ NN NN NN ."

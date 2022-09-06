@@ -1,0 +1,10 @@
+The International Committee of the Red Cross says rebels from Western Sahara have freed their last Moroccan prisoners of war .,B-org I-org I-org O O B-geo I-geo O O O B-per I-per O O O O B-gpe O O O O,DT NNP NNP IN DT NNP NNP VBZ NNS IN JJ NNP VBP VBN PRP$ JJ JJ NNS IN NN .
+Rebels from the Polisario Front handed over the 404 soldiers Thursday in the southern Algerian town of Tindouf .,O O O B-org I-org O O O O O B-tim O O O B-gpe O O B-geo O,NNS IN DT NNP NNP VBD IN DT CD NNS NNP IN DT JJ JJ NN IN NNP .
+They had held many of the Moroccans for two decades .,O O O O O O B-gpe O B-tim I-tim O,PRP VBD VBN NN IN DT NNS IN CD NNS .
+The rebels said they hoped the release would help clear the way for a peace settlement for Western Sahara .,O O O O O O O O O O O O O O O O O B-per I-per O,DT NNS VBD PRP VBD DT NN MD VB VB DT NN IN DT NN NN IN JJ NNP .
+They also urged Morocco to release any remaining rebel prisoners .,O O O B-geo O O O O O O O,PRP RB VBD NNP TO VB DT VBG NN NNS .
+The Red Cross says Thursday 's release follows U.S. mediation .,O B-geo I-geo O B-tim O O O B-geo O O,DT NNP NNP VBZ NNP POS NN VBZ NNP NN .
+"A senior U.S. senator , Richard Lugar , arrived in Algeria Thursday to monitor the release .",O O B-geo O O B-per I-per O O O B-geo B-tim O O O O O,"DT JJ NNP NN , NNP NNP , VBD IN NNP NNP TO VB DT NN ."
+"The Polisario Front captured some 2,000 Moroccan troops in its 16-year war with Morocco over the desert territory .",O B-org I-org O O O B-gpe O O O O O O B-geo O O O O O,DT NNP NNP VBD DT CD JJ NNS IN PRP$ JJ NN IN NNP IN DT NN NN .
+The conflict began when Spain pulled out of the territory in 1975 .,O O O O B-gpe O O O O O O B-tim O,DT NN VBD WRB NNP VBD IN IN DT NN IN CD .
+A cease-fire was reached in 1991 .,O O O O O B-tim O,DT NN VBD VBN IN CD .

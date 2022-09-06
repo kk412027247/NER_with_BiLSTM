@@ -1,0 +1,4 @@
+"Even though demand has fallen nearly two percent since last year , gasoline prices continued to break records across the United States this week .",O O O O O O B-tim O B-tim O O O O O O O O O O O B-geo I-geo O O O,"RB IN NN VBZ VBN RB CD NN IN JJ NN , NN NNS VBD TO VB NNS IN DT NNP NNPS DT NN ."
+And the U.S. Oil Price Information Service warns that prices will go higher as the peak driving season approaches .,O O B-org I-org I-org I-org I-org O O O O O O O O O O O O O,CC DT NNP NNP NNP NNP NNP VBZ IN NNS MD VB RBR IN DT NN VBG NN NNS .
+"U.S. lawmakers are busy looking for solutions , but some fear it may be too little , too late to help some Americans .",B-geo O O O O O O O O O O O O O O O O O O O O O B-gpe O,"NNP NNS VBP JJ VBG IN NNS , CC DT VBP PRP MD VB RB JJ , RB JJ TO VB DT NNS ."
+VOA 's Mil Arcega reports .,B-org I-org B-per I-per O O,NNP POS NNP NNP VBZ .

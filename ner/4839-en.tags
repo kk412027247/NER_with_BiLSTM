@@ -1,0 +1,4 @@
+"Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland , the isle came under the British crown in 1765 .",O O O B-gpe O O O O O O B-tim I-tim O O O O O B-geo O O O O O O B-gpe O O B-tim O,"NN IN DT JJ NNP IN DT NNS IN DT JJ NN WRB PRP VBD VBN TO NNP , DT NN VBD IN DT JJ NN IN CD ."
+Current concerns include reviving the almost extinct Manx Gaelic language .,O O O O O O O B-art I-art O O,JJ NNS VBP VBG DT RB JJ NNP NNP NN .
+Isle of Man is a British crown dependency but is not part of the UK or of the European Union .,B-per O B-geo O O B-gpe O O O O O O O O B-org O O O B-org I-org O,NNP IN NNP VBZ DT JJ NN NN CC VBZ RB NN IN DT NNP CC IN DT NNP NNP .
+"However , the UK Government remains constitutionally responsible for its defense and international representation .",O O O B-org I-org O O O O O O O O O O,"RB , DT NNP NNP VBZ RB JJ IN PRP$ NN CC JJ NN ."

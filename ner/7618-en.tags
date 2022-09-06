@@ -1,0 +1,8 @@
+"The Rwandan army says it has arrested the brother of the former army chief of staff on charges of "" destabilization . """,O B-gpe O O O O O O O O O O O O O O O O O O O O O,DT JJ NN VBZ PRP VBZ VBN DT NN IN DT JJ NN NN IN NN IN NNS IN LQU NN . LQU
+"Lieutenant Colonel Rugigana Ngabo is the brother of General Faustin Kayumba Nyamwasa , who was chief of staff until 2001 and went into exile in South Africa in February .",O O B-per I-per O O O O B-org I-org I-org I-org O O O O O O O B-tim O O O O O B-geo I-geo O B-tim O,"NNP NNP NNP NNP VBZ DT NN IN NNP NNP NNP NNP , WP VBD NN IN NN IN CD CC VBD IN NN IN NNP NNP IN NNP ."
+The army said Ngabo was arrested Friday arrest had nothing to do with his relationship to Nyamwasa .,O O O B-per O O B-tim O O O O O O O O O B-org O,DT NN VBD NNP VBD VBN NNP NN VBD DT TO VB IN PRP$ NN TO NNP .
+Military officials said they are still investigating Ngabo 's activities .,O O O O O O O B-per O O O,NNP NNS VBD PRP VBP RB VBG NNP POS NNS .
+Nyamwasa is a leading critic of Rwandan President Paul Kagame .,B-org O O O O O B-gpe B-per I-per I-per O,NNP VBZ DT VBG NN IN JJ NNP NNP NNP .
+"The country 's chief prosecutor accused Nyamwasa and the other officer of being involved in three grenade attacks in the capital , Kigali , in February .",O O O O O O B-org O O O O O O O O O O O O O O O B-per O O B-tim O,"DT NN POS JJ NN VBN NNP CC DT JJ NN IN VBG VBN IN CD NN NNS IN DT NN , NNP , IN NNP ."
+Two people were killed and 30 others were wounded .,O O O O O O O O O O,CD NNS VBD VBN CC CD NNS VBD VBN .
+He denies any involvement .,O O O O O,PRP VBZ DT NN .

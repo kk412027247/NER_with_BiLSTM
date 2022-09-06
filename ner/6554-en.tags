@@ -1,0 +1,6 @@
+A Chinese official says a landslide triggered by heavy rains in southwestern China has cut off a village and may have buried more than 100 people in their homes .,O B-gpe O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O,DT JJ NN VBZ DT NN VBN IN JJ NNS IN JJ NNP VBZ VBN RP DT NN CC MD VB VBN JJR IN CD NNS IN PRP$ NNS .
+The official in Guizhou province says at least 107 people were trapped Monday by the landslide that struck the village of Dazhai after days of heavy rainfall .,O O O B-geo O O O O O O O O B-tim O O O O O O O O B-geo O O O O O O,DT NN IN NNP NN VBZ IN JJS CD NNS VBD VBN NNP IN DT NN WDT VBD DT NN IN NNP IN NNS IN JJ NN .
+The number of deaths was not immediately known .,O O O O O O O O O,DT NN IN NNS VBD RB RB VBN .
+Rescue workers were searching for signs of life .,O O O O O O O O O,NN NNS VBD VBG IN NNS IN NN .
+"Widespread flooding hit southern China last week , killing at least 235 people and leaving more than 100 others missing .",O O O O B-geo O O O O O O O O O O O O O O O O,"JJ NN VBD JJ NNP JJ NN , VBG IN JJS CD NNS CC VBG JJR IN CD NNS VBG ."
+The heavy rains that sparked the floods have caused economic losses of more than $ 10 billion since June 13 .,O O O O O O O O O O O O O O O O O B-tim I-tim I-tim O,DT JJ NNS WDT VBD DT NNS VBP VBN JJ NNS IN JJR IN $ CD CD IN NNP CD .

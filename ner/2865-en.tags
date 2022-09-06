@@ -1,0 +1,9 @@
+"The U.S. state of Connecticut began issuing marriage licenses to same-sex couples Wednesday , making it the second state in the nation to permit gay marriage .",O B-geo O O B-geo O O O O O O O B-tim O O O O O O O O O O O O O O,"DT NNP NN IN NNP VBD VBG NN NNS TO JJ NNS NNP , VBG PRP DT JJ NN IN DT NN TO VB JJ NN ."
+"Superior Court judge Jonathan Silbert cleared the way for same-sex unions earlier today , just over a week after Californian voters banned gay marriage in their state .",B-org I-org O B-per I-per O O O O O O O B-tim O O O O O O O O O O O O O O O,"NNP NNP NN NNP NNP VBD DT NN IN JJ NNS RBR NN , RB IN DT NN IN JJ NNS VBD JJ NN IN PRP$ NN ."
+Justices of the peace in Connecticut began issuing marriage licenses to gay couples immediately following today 's ruling .,O O O O O B-geo O O O O O O O O O B-tim O O O,NNS IN DT NN IN NNP VBD VBG NN NNS TO JJ NNS RB VBG NN POS NN .
+The Connecticut Supreme Court ruled last month that same-sex marriage is legal .,O B-geo I-geo B-org O O O O O O O O O,DT NNP NNP NNP VBD JJ NN IN JJ NN VBZ JJ .
+Voters last week rejected a ballot initiative to ban same-sex marriages in the state .,O O O O O O O O O O O O O O O,NNS JJ NN VBD DT NN NN TO VB JJ NNS IN DT NN .
+Same-sex marriages are also legal in Massachusetts .,O O O O O O B-geo O,JJ NNS VBP RB JJ IN NNP .
+"Gay marriage was legal in California until last week , when voters approved a measure to ban it .",O O O O O B-geo O O O O O O O O O O O O O,"NN NN VBD JJ IN NNP IN JJ NN , WRB NNS VBD DT NN TO VB PRP ."
+Similar bans passed last week in Arizona and Florida .,O O O O O O B-geo O B-geo O,JJ NNS VBN JJ NN IN NNP CC NNP .
+The social-conservative group Family Institute of Connecticut says it will continue to work to ban gay marriage in the state .,O O O B-org I-org I-org B-geo O O O O O O O O O O O O O O,DT JJ NN NNP NNP IN NNP VBZ PRP MD VB TO VB TO VB JJ NN IN DT NN .

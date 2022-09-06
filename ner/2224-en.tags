@@ -1,0 +1,5 @@
+The makers of French 's Mustard made the following recent statement :,O O O B-art I-art I-art O O O O O O,DT NNS IN NNP POS NNP VBD DT VBG JJ NN :
+We at the French 's Company wish to put an end to statements that our product is manufactured in France .,O O O B-org I-org I-org O O O O O O O O O O O O O B-geo O,PRP IN DT NNP POS NN NN TO VB DT NN TO NNS IN PRP$ NN VBZ VBN IN NNP .
+"There is no relationship , nor has there ever been a relationship , between our mustard and the country of France .",O O O O O O O O O O O O O O O O O O O O B-geo O,"EX VBZ DT NN , CC VBZ EX RB VBN DT NN , IN PRP$ NN CC DT NN IN NNP ."
+"Indeed , our mustard in manufactured in Rochester , NY .",O O O O O O O B-geo O B-geo O,"RB , PRP$ NN IN VBN IN NNP , NNP ."
+The only thing we have in common is that we are both yellow .,O O O O O O O O O O O O O O,DT JJ NN PRP VBP IN NN VBZ IN PRP VBP DT JJ .

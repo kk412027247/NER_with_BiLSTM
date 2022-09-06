@@ -1,0 +1,6 @@
+"Iraqi officials say a car bomb exploded outside a police crime lab in the northern city of Mosul Tuesday , killing two officers .",B-gpe O O O O O O O O O O O O O O O O B-geo B-tim O O O O O,"JJ NNS VBP DT NN NN VBD IN DT NN NN NN IN DT JJ NN IN NNP NNP , VBG CD NNS ."
+At least seven other people were wounded in the morning attack .,O O O O O O O O O O O O,IN JJS CD JJ NNS VBD VBN IN DT NN NN .
+"In a similar incident last month , a suicide bomber struck a police forensics lab in Baghdad , killing 22 people .",O O O O O O O O O O O O O O O O B-geo O O O O O,"IN DT JJ NN JJ NN , DT NN NN VBD DT NN VBZ NN IN NNP , VBG CD NNS ."
+"A group affiliated with al-Qaida , the Islamic State of Iraq , claimed responsibility for that attack .",O O O O B-org O O B-geo I-geo I-geo I-geo O O O O O O O,"DT NN VBN IN NNP , DT NNP NNP IN NNP , VBD NN IN DT NN ."
+"Also in Mosul Tuesday , a police official says gunmen opened fire on two Christian university students , killing one and wounding another .",O O B-geo B-tim O O O O O O O O O O O O O O O O O O O O,"RB IN NNP NNP , DT NN NN VBZ NNS VBD NN IN CD JJ NN NNS , VBG CD CC VBG DT ."
+"On Monday , three bombings in western Iraq left one person dead , and wounded at least four others .",O B-tim O O O O B-geo I-geo O O O O O O O O O O O O,"IN NNP , CD NNS IN JJ NNP VBD CD NN JJ , CC VBD IN JJS CD NNS ."

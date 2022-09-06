@@ -1,0 +1,5 @@
+Kenyan President Mwai Kibaki has declared the food shortages ravaging the country a national disaster .,B-gpe B-per I-per I-per O O O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN DT NN NNS VBG DT NN DT JJ NN .
+Mr. Kibaki made the announcement Sunday during a New Year 's Day speech .,B-per I-per O O O B-tim I-tim O B-tim O B-tim I-tim O O,NNP NNP VBD DT NN NNP IN DT NNP NNP POS NN NN .
+"He says nearly 2.5 million people will need food aid , which he estimates will cost more than $ 150 million .",O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ RB CD CD NNS MD VB NN NN , WDT PRP VBZ MD VB JJR IN $ CD CD ."
+At least 20 people and thousands of livestock have died as a result of a drought and famine .,O O O O O O O O O O O O O O O O O O O,IN JJS CD NNS CC NNS IN NN VBP VBN IN DT NN IN DT NN CC NN .
+Officials say thousands of prisoners planned to skip their annual New Year 's lunch so the food could go to those affected by the famine .,O O O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP NNS IN NNS VBN TO VB PRP$ JJ NNP NNP POS NN IN DT NN MD VB TO DT VBN IN DT NN .

@@ -1,0 +1,6 @@
+The Israeli navy has ordered a Libyan ship carrying humanitarian aid to the Gaza Strip to turn back .,O B-gpe O O O O B-gpe O O O O O O B-geo I-geo O O O O,DT JJ NN VBZ VBN DT JJ NN VBG JJ NN TO DT NNP NNP TO VB RP .
+"Officials say the ship , the Al Marwa , was carrying some 3,000 tons of aid when it was stopped by the Israeli navy .",O O O O O O B-org I-org O O O O O O O O O O O O O O B-gpe O O,"NNS VBP DT NN , DT NNP NNP , VBD VBG DT CD NNS IN NN WRB PRP VBD VBN IN DT JJ NN ."
+Israel says there was no physical confrontation when it ordered the ship to turn around .,B-geo O O O O O O O O O O O O O O O,NNP VBZ EX VBD DT JJ NN WRB PRP VBD DT NN TO VB RP .
+Palestinian officials say the ship is now sailing to the Egyptian port of El-Arish .,B-gpe O O O O O O O O O B-gpe O O O O,JJ NNS VBP DT NN VBZ RB VBG TO DT JJ NN IN JJ .
+Gaza 's borders have been largely sealed by Israel and Egypt following a violent takeover by the militant Hamas last year .,B-geo O O O O O O O B-geo O B-geo O O O O O O O B-org O O O,NNP POS NNS VBP VBN RB VBN IN NNP CC NNP VBG DT JJ NN IN DT JJ NNP JJ NN .
+The blockade has been stepped up in recent weeks due to a surge in border clashes between the Israeli military and Palestinian militants .,O O O O O O O O O O O O O O O O O O B-gpe O O B-gpe O O,DT NN VBZ VBN VBN RP IN JJ NNS JJ TO DT NN IN NN NNS IN DT JJ JJ CC JJ NNS .

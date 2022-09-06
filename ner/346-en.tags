@@ -1,0 +1,7 @@
+A Saudi Interior Ministry spokesman says three French nationals have been killed in northwestern Saudi Arabia .,O B-org I-org I-org O O O B-gpe O O O O O O B-geo I-geo O,DT JJ NNP NNP NN VBZ CD JJ NNS VBP VBN VBN IN JJ NNP NNP .
+"The spokesman says gunmen shot at a group of nine French nationals as they rested at a roadside , killing three and injuring at least one other .",O O O O O O O O O O B-gpe O O O O O O O O O O O O O O O O O,"DT NN VBZ NNS VBD IN DT NN IN CD JJ NNS IN PRP VBD IN DT NN , VBG CD CC VBG IN JJS CD JJ ."
+"The spokesman says the group was traveling to the holy city of Mecca , where some of them were to perform the minor pilgrimage known as Omra .",O O O O O O O O O O O O B-geo O O O O O O O O O O O O O B-geo O,"DT NN VBZ DT NN VBD VBG TO DT JJ NN IN NNP , WRB DT IN PRP VBD TO VB DT JJ NN VBN IN NNP ."
+Only Muslims are allowed in Mecca .,O O O O O B-geo O,RB NNPS VBP VBN IN NNP .
+The spokesman said the French nationals were residents of the Saudi kingdom .,O O O O B-gpe O O O O O B-org O O,DT NN VBD DT JJ NNS VBD NNS IN DT NNP NN .
+It was not immediately clear who was responsible for the killings .,O O O O O O O O O O O O,PRP VBD RB RB JJ WP VBD JJ IN DT NNS .
+"Saudi Arabia has been battling al-Qaida militants in the kingdom , and the terrorist group has targeted Westerners in the past .",B-org I-org O O O B-org O O O O O O O O O O O B-org O O O O,"NNP NNP VBZ VBN VBG NNP NNS IN DT NN , CC DT JJ NN VBZ VBN NNS IN DT NN ."

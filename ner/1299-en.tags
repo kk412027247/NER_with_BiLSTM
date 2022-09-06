@@ -1,0 +1,7 @@
+"A group of journalists marched through Port-au-Prince Thursday , demanding tougher action against rising violence as mourners attended the funeral of slain Haitian journalist Jacques Roche .",O O O O O O B-geo B-tim O O O O O O O O O O O O O O B-gpe O B-per I-per O,"DT NN IN NNS VBD IN NNP NNP , VBG JJR NN IN VBG NN IN NNS VBD DT NN IN NN JJ NN NNP NNP ."
+"During the religious ceremony , a priest close to ex-president Jean Bertrand Aristide , Gerard Jean Juste was attacked by an angry crowd .",O O O O O O O O O O B-per I-per I-per O B-per I-per I-per O O O O O O O,"IN DT JJ NN , DT NN NN TO JJ NNP NNP NNP , NNP NNP NNP VBD VBN IN DT JJ NN ."
+He was taken away to a police station for protection .,O O O O O O O O O O O,PRP VBD VBN RB TO DT NN NN IN NN .
+Mr. Aristide 's supporters have been accused by some government officials of Mr. Roche 's murder .,B-per I-per O O O O O O O O O O B-per I-per O O O,NNP NNP POS NNS VBP VBN VBN IN DT NN NNS IN NNP NNP POS NN .
+"Haitian authorities found the body of Mr. Roche last week , days after gunmen abducted him .",B-gpe O O O O O B-per I-per O O O O O O O O O,"JJ NNS VBD DT NN IN NNP NNP JJ NN , NNS IN NNS VBD PRP ."
+They said he was burned and tortured before being shot several times .,O O O O O O O O O O O O O,PRP VBD PRP VBD VBN CC VBN IN VBG VBN JJ NNS .
+Haiti has seen a mounting wave of violence as it prepares for elections later this year .,B-geo O O O O O O O O O O O O B-tim O O O,NNP VBZ VBN DT JJ NN IN NN IN PRP VBZ IN NNS RBR DT NN .

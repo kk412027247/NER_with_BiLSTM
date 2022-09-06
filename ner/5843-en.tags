@@ -1,0 +1,9 @@
+Iraqi authorities say bomb attacks across the country killed more than 50 people Tuesday .,B-gpe O O O O O O O O O O O O B-tim O,JJ NNS VBP NN NNS IN DT NN VBD JJR IN CD NNS NNP .
+"The most deadly blast was north of Baghdad , where a roadside bomb killed 23 soldiers .",O O O O O O O B-geo O O O O O O O O O,"DT RBS JJ NN VBD RB IN NNP , WRB DT NN NN VBD CD NNS ."
+"A car bomb outside a bank in Baghdad killed 14 people , including several soldiers .",O O O O O O O B-geo O O O O O O O O,"DT NN NN IN DT NN IN NNP VBD CD NNS , VBG JJ NNS ."
+The bank was crowded with soldiers drawing their salary payments on the first day of the month .,O O O O O O O O O O O O B-tim I-tim I-tim O O O,DT NN VBD VBN IN NNS VBG PRP$ NN NNS IN DT JJ NN IN DT NN .
+The British military says a mortar attack killed a British soldier at a base in Basra .,O B-gpe O O O O O O O B-gpe O O O O O B-geo O,DT JJ NN VBZ DT NN NN VBD DT JJ NN IN DT NN IN NNP .
+"In another incident , a roadside bomb killed an American soldier south of Baghdad .",O O O O O O O O O B-gpe O O O B-geo O,"IN DT NN , DT NN NN VBD DT JJ NN NN IN NNP ."
+"In other developments , the governor of Najaf says gunmen kidnapped 45 residents of his predominantly Shi'ite province as they traveled through a Sunni Arab area .",O O O O O O O B-org O O O O O O O O O O O O O O O B-geo I-geo O O,"IN JJ NNS , DT NN IN NNP VBZ NNS VBD CD NNS IN PRP$ RB JJ NN IN PRP VBD IN DT NNP NNP NN ."
+"Authorities say sectarian violence has forced 20,000 Iraqis to leave their homes during the past 10 days .",O O O O O O O B-gpe O O O O O O B-tim I-tim O O,NNS VBP JJ NN VBZ VBN CD NNS TO VB PRP$ NNS IN DT JJ CD NNS .
+"Over the past six months , sectarian strife has displaced more than 180,000 people .",O O B-tim I-tim O O O O O O O O O O O,"IN DT JJ CD NNS , JJ NN VBZ VBN JJR IN CD NNS ."

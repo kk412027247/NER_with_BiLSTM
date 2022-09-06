@@ -1,0 +1,6 @@
+"Every two years , the Whitney Museum of American Art in New York City mounts an exhibition of new art made in the U.S.",O B-tim O O O B-org I-org I-org I-org I-org O B-geo I-geo I-geo O O O O O O O O O B-geo,"DT CD NNS , DT NNP NNP IN NNP NNP IN NNP NNP NNP VBZ DT NN IN JJ NN VBN IN DT NNP"
+The show aims to survey contemporary art 's newest trends and methods .,O O O O O O O O O O O O O,DT NN VBZ TO VB JJ NN POS JJS NNS CC NNS .
+"Not surprisingly , given its influence on young artists and art markets , the result is often controversial .",O O O O O O O O O O O O O O O O O O O,"RB RB , VBN PRP$ NN IN JJ NNS CC NN NNS , DT NN VBZ RB JJ ."
+Some have taken to calling it the show that people love to hate .,O O O O O O O O O O O O O O,DT VBP VBN TO VBG PRP DT NN IN NNS VBP TO VB .
+"The Whitney 's 2008 Biennial , its 74th , continues that tradition .",O B-org O B-tim I-tim O O B-tim O O O O O,"DT NNP POS CD NNP , PRP$ NN , VBZ IN NN ."
+VOA 's Carolyn Weaver reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

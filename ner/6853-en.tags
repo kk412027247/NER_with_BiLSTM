@@ -1,0 +1,9 @@
+Nigerian health officials say a deadly strain of bird flu has been detected for the first time in the southwestern state of Ogun .,B-gpe O O O O O O O O O O O O O O O O O O O O O B-geo O,JJ NN NNS VBP DT JJ NN IN NN NN VBZ VBN VBN IN DT JJ NN IN DT JJ NN IN NNP .
+Officials Saturday said H5N1 was found at a single farm in that state .,O B-tim O O O O O O O O O O O O,NNP NNP VBD NNP VBD VBN IN DT JJ NN IN DT NN .
+They said further testing and decontaminating processes are under way .,O O O O O O O O O O O,PRP VBD JJ NN CC NN NNS VBP IN NN .
+"Health experts fear the disease could spread from Ogun to nearby Lagos , home to more than 13 million people .",O O O O O O O O B-geo O O B-geo O O O O O O O O O,"NNP NNS VBP DT NN MD VB IN NNP TO JJ NNP , NN TO JJR IN CD CD NNS ."
+"Also Saturday , Poland confirmed a second outbreak of H5N1 among wild birds .",O B-tim O B-gpe O O O O O O O O O O,"RB NNP , NNP VBD DT JJ NN IN NNP IN JJ NNS ."
+The nation 's chief veterinary officer told reporters that a dead infected swan was found in a western town bordering Germany .,O O O O O O O O O O O O O O O O O O O O B-geo O,DT NN POS JJ JJ NN VBD NNS IN DT JJ JJ NN VBD VBN IN DT JJ NN VBG NNP .
+"In recent days , dead swans with H5N1 were discovered in the central Polish town of Torun .",O O O O O O O O O O O O O B-gpe O O B-geo O,"IN JJ NNS , JJ NNS IN NNP VBD VBN IN DT JJ JJ NN IN NNP ."
+"Avian flu has spread from Asia to Europe , Africa and the Middle East .",O O O O O B-geo O B-geo O B-geo O O B-geo I-geo O,"JJ NN VBZ VBN IN NNP TO NNP , NNP CC DT NNP NNP ."
+"The World Health Organization says bird flu has killed 97 people since 2003 , mostly in Asia .",O B-org I-org I-org O O O O O O O B-tim I-tim O O O B-geo O,"DT NNP NNP NNP VBZ NN NN VBZ VBN CD NNS IN CD , RB IN NNP ."

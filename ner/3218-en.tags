@@ -1,0 +1,8 @@
+"First colonized by the Spanish , the islands came under British control in the early 19th century .",O O O O B-gpe O O O O O B-gpe O O O O B-tim I-tim O,"RB VBN IN DT NNS , DT NNS VBD IN JJ NN IN DT JJ JJ NN ."
+The islands ' sugar industry was hurt by the emancipation of the slaves in 1834 .,O O O O O O O O O O O O O O B-tim O,DT NNS POS NN NN VBD VBN IN DT NN IN DT NNS IN CD .
+"Manpower was replaced with the importation of contract laborers from India between 1845 and 1917 , which boosted sugar production as well as the cocoa industry .",O O O O O O O O O O B-geo O B-tim O B-tim O O O O O O O O O O O O,"NN VBD VBN IN DT NN IN NN NNS IN NNP IN CD CC CD , WDT VBD NN NN RB RB IN DT NN NN ."
+The discovery of oil on Trinidad in 1910 added another important export .,O O O O O B-geo O B-tim O O O O O,DT NN IN NN IN NNP IN CD VBD DT JJ NN .
+Independence was attained in 1962 .,O O O O B-tim O,NN VBD VBN IN CD .
+The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing .,O O O O O O O O O O B-geo O O O O O O O O O O O,DT NN VBZ CD IN DT RBS JJ IN DT NNP NNS RB TO NN CC JJ NN NN CC NN .
+"Tourism , mostly in Tobago , is targeted for expansion and is growing .",O O O O B-geo O O O O O O O O O,"NN , RB IN NNP , VBZ VBN IN NN CC VBZ VBG ."
+The government is coping with a rise in violent crime .,O O O O O O O O O O O,DT NN VBZ VBG IN DT NN IN JJ NN .

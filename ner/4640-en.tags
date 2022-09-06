@@ -1,0 +1,8 @@
+The Iranian foreign minister says the three American hikers held in Iran after crossing the border with Iraq will stand trial .,O B-gpe O O O O O B-gpe O O O B-geo O O O O O B-geo O O O O,DT JJ JJ NN VBZ DT CD JJ NNS VBN IN NNP IN VBG DT NN IN NNP MD VB NN .
+Manouchehr Mottaki did not say when the proceedings would begin during a news conference Monday in Tehran .,B-per I-per O O O O O O O O O O O O B-tim O B-geo O,NNP NNP VBD RB VB WRB DT NNS MD VB IN DT NN NN NNP IN NNP .
+"He said the Americans entered Iran with "" suspicious aims . """,O O O B-gpe O B-geo O O O O O O,PRP VBD DT NNS VBD NNP IN LQU JJ NNS . LQU
+Iran has accused them of espionage .,B-geo O O O O O O,NNP VBZ VBN PRP IN NN .
+"The three U.S. citizens were detained on July 31 for entering Iran illegally , after they apparently strayed across the border while on a hike in northern Iraq .",O O B-geo O O O O B-tim I-tim O O B-geo O O O O O O O O O O O O O O O B-geo O,"DT CD NNP NNS VBD VBN IN NNP CD IN VBG NNP RB , IN PRP RB VBD IN DT NN IN IN DT NN IN JJ NNP ."
+U.S. Secretary of State Hillary Clinton has said Washington believes there is no evidence to support any charge against the hikers .,B-geo O O B-org B-per I-per O O B-geo O O O O O O O O O O O O O,NNP NNP IN NNP NNP NNP VBZ VBN NNP VBZ EX VBZ DT NN TO VB DT NN IN DT NNS .
+She has appealed to Iranian authorities to exercise compassion and free the trio .,O O O O B-gpe O O O O O O O O O,PRP VBZ VBN TO JJ NNS TO VB NN CC JJ DT NN .
+"Iran and the United States have no diplomatic relations , and are embroiled in a dispute over Iran 's nuclear program .",B-geo O O B-geo I-geo O O O O O O O O O O O O B-geo O O O O,"NNP CC DT NNP NNPS VBP DT JJ NNS , CC VBP VBN IN DT NN IN NNP POS JJ NN ."

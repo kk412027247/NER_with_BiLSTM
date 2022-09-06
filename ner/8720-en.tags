@@ -1,0 +1,5 @@
+U.S. President Barack Obama has extended sanctions on Burma 's military government for another year .,B-org B-per I-per I-per O O O O B-geo O O O O B-tim O O,NNP NNP NNP NNP VBZ VBN NNS IN NNP POS JJ NN IN DT NN .
+"Mr. Obama informed Congress of the decision Friday , saying Burma is "" engaging in large-scale repression of the democratic opposition . """,B-per I-per O B-org O O O B-tim O O B-geo O O O O O O O O O O O O,"NNP NNP VBD NNP IN DT NN NNP , VBG NNP VBZ LQU VBG IN JJ NN IN DT JJ NN . LQU"
+"He added that Burma 's actions and policies are hostile to U.S. interests , and they pose a continuing threat to U.S. national security and foreign policy .",O O O B-geo O O O O O O O B-geo O O O O O O O O O B-geo O O O O O O,"PRP VBD IN NNP POS NNS CC NNS VBP JJ TO NNP NNS , CC PRP VBP DT VBG NN TO NNP JJ NN CC JJ NN ."
+The existing sanctions on Burma must be renewed annually .,O O O O B-geo O O O O O,DT VBG NNS IN NNP MD VB VBN RB .
+They were set to expire next week .,O O O O O O O O,PRP VBD VBN TO VB JJ NN .

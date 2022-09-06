@@ -1,0 +1,7 @@
+Former Peruvian President Alberto Fujimori has announced he will run for president again in the upcoming election .,O B-gpe B-per I-per I-per O O O O O O O O O O O O O,JJ JJ NNP NNP NNP VBZ VBN PRP MD VB IN NN RB IN DT JJ NN .
+"Mr. Fujimori made the announcement at a news conference Thursday , in Japan .",B-per I-per O O O O O O O B-tim O O B-geo O,"NNP NNP VBD DT NN IN DT NN NN NNP , IN NNP ."
+He has been living in self-imposed exile in Japan since fleeing Peru in November 2000 in the midst of a corruption scandal .,O O O O O O O O B-geo O O B-geo O B-tim I-tim O O O O O O O O,PRP VBZ VBN VBG IN JJ NN IN NNP IN VBG NNP IN NNP CD IN DT NN IN DT NN NN .
+"He was granted Japanese nationality due to his ancestry , but last month received a new Peruvian passport .",O O O B-gpe O O O O O O O O O O O O B-gpe O O,"PRP VBD VBN JJ NN JJ TO PRP$ NN , CC JJ NN VBD DT JJ JJ NN ."
+Peruvian prosecutors have also petitioned Japan to extradite Mr. Fujimori so he can face criminal charges on allegations ranging from abuse of power and embezzlement to sanctioning a paramilitary death squad .,B-gpe O O O O B-geo O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP RB VBN NNP TO VB NNP NNP IN PRP MD VB JJ NNS IN NNS VBG IN NN IN NN CC NN TO VBG DT JJ NN NN .
+He has denied all the charges .,O O O O O O O,PRP VBZ VBN PDT DT NNS .
+Peru 's congress has banned him from holding public office again until at least 2010 .,B-geo O O O O O O O O O O O O O B-tim O,NNP POS NN VBZ VBN PRP IN VBG JJ NN RB IN IN JJS CD .

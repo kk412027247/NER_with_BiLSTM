@@ -1,0 +1,7 @@
+France 's interior minister says at least 10 French citizens are in Iraq ready to become suicide bombers .,B-geo O O O O O O O B-gpe O O O B-geo O O O O O O,NNP POS JJ NN VBZ IN JJS CD JJ NNS VBP IN NNP JJ TO VB NN NNS .
+Nicolas Sarkozy told France-3 television Monday that French intelligence has lost track of at least 10 young Frenchmen who have gone to Iraq .,B-per I-per O O O B-tim O B-gpe O O O O O O O O O O O O O O B-geo O,NNP NNP VBD JJ NN NNP IN JJ NN VBZ VBN NN IN IN JJS CD JJ NNS WP VBP VBN TO NNP .
+He said 10 others have died in combat or suicide bombings or are prisoners of the U.S. led coalition .,O O O O O O O O O O O O O O O O B-geo O O O,PRP VBD CD NNS VBP VBN IN NN CC NN NNS CC VBP NNS IN DT NNP VBD NN .
+France has no soldiers in Iraq .,B-geo O O O O B-geo O,NNP VBZ DT NNS IN NNP .
+"Mr. Sarkozy defended the government 's planned new anti-terrorism measures , saying the risk of an attack in France is very high .",B-per I-per O O O O O O O O O O O O O O O O B-geo O O O O,"NNP NNP VBD DT NN POS JJ JJ NN NNS , VBG DT NN IN DT NN IN NNP VBZ RB JJ ."
+"The new measures include more video surveillance on the streets and public places , and increased monitoring of overseas travelers .",O O O O O O O O O O O O O O O O O O O O O,"DT JJ NNS VBP RBR NN NN IN DT NNS CC JJ NNS , CC VBN NN IN JJ NNS ."
+Mr. Sarkozy said a French citizen who suddenly goes to Afghanistan for three months should account for his travels .,B-per I-per O O B-gpe O O O O O B-geo O B-tim O O O O O O O,NNP NNP VBD DT JJ NN WP RB VBZ TO NNP IN CD NNS MD VB IN PRP$ NNS .

@@ -1,0 +1,8 @@
+Former South African Deputy President Jacob Zuma has held a fundraising rally on the eve of the verdict in his high-profile rape trial .,O B-geo I-geo O B-per I-per I-per O O O O O O O O O O O O O O O O O,JJ NNP NNP NNP NNP NNP NNP VBZ VBN DT JJ NN IN DT NN IN DT NN IN PRP$ JJ NN NN .
+Thousands of supporters attended a concert in the Johannesburg suburb of Soweto for the 64-year-old anti-apartheid veteran .,O O O O O O O O B-geo O O B-geo O O O O O O,NNS IN NNS VBD DT NN IN DT NNP NN IN NNP IN DT JJ JJ NN .
+Zuma is accused of raping a 31-year-old H.I.V. positive woman who is a longtime family friend .,B-per O O O O O O O O O O O O O O O O,NNP VBZ VBN IN VBG DT JJ NNP JJ NN WP VBZ DT JJ NN NN .
+He claims the sex was consensual .,O O O O O O O,PRP VBZ DT NN VBD JJ .
+The trial has drawn widespread interest across South Africa and Monday 's verdict ( at 0700 UTC ) is scheduled to be broadcast live on television .,O O O O O O O B-geo I-geo O B-tim O O O O B-tim I-tim O O O O O O O O O O,DT NN VBZ VBN JJ NN IN NNP NNP CC NNP POS NN LRB IN CD NNP RRB VBZ VBN TO VB VBN RB IN NN .
+The three-month trial has focused attention on South Africa 's high incidence of rape and H.I.V. infection .,O B-tim O O O O O B-geo I-geo O O O O O O O O O,DT JJ NN VBZ VBN NN IN NNP NNP POS JJ NN IN NN CC NNP NN .
+"The 64-year-old Zuma was once considered a strong contender to succeed President Thabo Mbeki , who fired him because of corruption-related accusations last year .",O O B-per O O O O O O O O B-per I-per I-per O O O O O O O O O O O,"DT JJ NNP VBD RB VBN DT JJ NN TO VB NNP NNP NNP , WP VBD PRP IN IN JJ NNS JJ NN ."
+Zuma is due to stand trial on corruption charges in July .,B-per O O O O O O O O O B-tim O,NNP VBZ JJ TO VB NN IN NN NNS IN NNP .

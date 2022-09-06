@@ -1,0 +1,8 @@
+The Pakistani military says a Taliban commander known for brutality has died in custody from wounds suffered during his recent capture .,O B-gpe O O O B-org O O O O O O O O O O O O O O O O,DT JJ NN VBZ DT NNP NN VBN IN NN VBZ VBN IN NN IN NNS VBN IN PRP$ JJ NN .
+Security forces said last Wednesday they had arrested Pakistani Taliban leader Sher Mohammed Qasab .,O O O O B-tim O O O B-gpe B-org O B-per I-per I-per O,NNP NNS VBD JJ NNP PRP VBD VBN JJ NNP NN NNP NNP NNP .
+"Authorities say when they arrested Qasab in the Swat Valley , he was wounded and three of his sons were killed in a gunfight .",O O O O O B-per O O B-geo I-geo O O O O O O O O O O O O O O O,"NNS VBP WRB PRP VBN NNP IN DT NNP NNP , PRP VBD VBN CC CD IN PRP$ NNS VBD VBN IN DT NN ."
+Officials say Qasab died of his wounds on Sunday .,O O B-per O O O O O B-tim O,NNS VBP NNP VBD IN PRP$ NNS IN NNP .
+He had a reputation for beheading prisoners .,O O O O O O O O,PRP VBD DT NN IN VBG NNS .
+"Qasab is an Urdu-language word for "" butcher . """,B-per O O O O O O O O O,NNP VBZ DT JJ NN IN LQU NN . LQU
+"His capture and death come as Pakistani authorities have been arresting key Taliban commanders in the Swat Valley , including Muslim Khan , chief spokesman for the Islamist militants .",O O O O O O B-gpe O O O O O B-org O O O B-geo I-geo O O B-per I-per O O O O O B-org O O,"PRP$ NN CC NN VBP IN JJ NNS VBP VBN VBG JJ NNP NNS IN DT NNP NNP , VBG NNP NNP , NN NN IN DT NNP NNS ."
+A missile attack last month in South Waziristan killed Pakistani Taliban leader Baitullah Mehsud .,O O O O O O B-geo I-geo O B-gpe B-org O B-geo I-geo O,DT NN NN JJ NN IN NNP NNP VBD JJ NNP NN NNP NNP .

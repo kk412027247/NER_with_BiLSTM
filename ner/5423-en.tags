@@ -1,0 +1,8 @@
+"Mexican President Vicente Fox has named new secretaries of agriculture , energy , and the economy .",B-gpe B-per I-per I-per O O O O O O O O O O O O O,"JJ NNP NNP NNP VBZ VBN JJ NNS IN NN , NN , CC DT NN ."
+"The president Wednesday appointed Francisco Mayorga as agriculture secretary to replace Javier Usabiaga , who left the post to run for governor of Guanajuato state .",O O B-tim O B-geo I-geo O O O O O B-per I-per O O O O O O O O O O B-geo O O,"DT NN NNP VBD NNP NNP IN NN NN TO VB NNP NNP , WP VBD DT NN TO VB IN NN IN NNP NN ."
+Economy Secretary Fernando Canales was named to head the energy department .,O B-per I-per I-per O O O O O O O O,NNP NNP NNP NNP VBD VBN TO VB DT NN NN .
+"He replaces Fernando Elizondo , who resigned to run for a Senate seat .",O O B-per I-per O O O O O O O B-org O O,"PRP VBZ NNP NNP , WP VBD TO VB IN DT NNP NN ."
+Sergio Garcia de Alba was named to fill Mr. Canales ' post at the Economy ministry .,B-per I-per I-per I-per O O O O B-per I-per I-per O O O O O O,NNP NNP NNP NNP VBD VBN TO VB NNP NNP POS NN IN DT NNP NN .
+"Tuesday , intelligence chief Eduardo Medina Mora was named public security minister .",B-tim O O O B-per I-per I-per O O O O O O,"NNP , NN NN NNP NNP NNP VBD VBN JJ NN NN ."
+"The previous minister , Ramon Martin Huerta , died last week in a helicopter crash .",O O O O B-per I-per I-per O O O O O O O O O,"DT JJ NN , NNP NNP NNP , VBD JJ NN IN DT NN NN ."
+A spokesman for the Mexican president denied the moves were part of a Cabinet shake-up .,O O O O B-gpe O O O O O O O O B-org I-org O,DT NN IN DT JJ NN VBD DT NNS VBD NN IN DT NNP NN .

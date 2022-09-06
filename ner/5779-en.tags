@@ -1,0 +1,9 @@
+Turkish authorities said they detained a man in Istanbul last week on suspicion of plotting to kill visiting U.S. President Barack Obama .,B-gpe O O O O O O O B-geo O O O O O O O O O B-geo B-per I-per I-per O,JJ NNS VBD PRP VBD DT NN IN NNP JJ NN IN NN IN VBG TO VB VBG NNP NNP NNP NNP .
+A Turkish official said Tuesday the man was deemed mentally disturbed and released shortly after he was taken into custody .,O B-gpe O O B-tim O O O O O O O O O O O O O O O O,DT JJ NN VBD NNP DT NN VBD VBN RB VBN CC VBN RB IN PRP VBD VBN IN NN .
+"The arrest occurred Friday , two days before Mr. Obama even arrived in Turkey .",O O O B-tim O B-tim O B-tim B-per I-per O O O B-geo O,"DT NN VBD NNP , CD NNS IN NNP NNP RB VBD IN NNP ."
+U.S. Secret Service spokesman Ed Donovan said Mr. Obama was never in any immediate danger .,B-org I-org I-org O B-per I-per O B-per I-per O O O O O O O,NNP NNP NNP NN NNP NNP VBD NNP NNP VBD RB IN DT JJ NN .
+"He added that the president 's security team is following up with Turkish authorities about the case , as is standard practice .",O O O O O O O O O O O O B-gpe O O O O O O O O O O,"PRP VBD IN DT NN POS NN NN VBZ VBG RP IN JJ NNS IN DT NN , IN VBZ JJ NN ."
+The White House does not comment about threats or the president 's security .,O B-org I-org O O O O O O O O O O O,DT NNP NNP VBZ RB VB IN NNS CC DT NN POS NN .
+"A Saudi newspaper , al-Watan , has reported details that have not been confirmed by officials .",O O O O O O O O O O O O O O O O O,"DT JJ NN , NNP , VBZ VBN NNS WDT VBP RB VBN VBN IN NNS ."
+It said a man of Syrian origin confessed to plotting to stab Mr. Obama .,O O O O O B-gpe O O O O O O B-per I-per O,PRP VBD DT NN IN JJ NN VBD TO VBG TO VB NNP NNP .
+The newspaper said the man was carrying an Al-Jazeera identity card .,O O O O O O O O O O O O,DT NN VBD DT NN VBD VBG DT NNP NN NN .

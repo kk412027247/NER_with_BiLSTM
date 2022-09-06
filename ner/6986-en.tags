@@ -1,0 +1,6 @@
+"The top human rights court in Latin America has upheld the conviction of Lori Berenson , a U.S. woman who has been imprisoned in Peru for terrorist collaboration .",O O O O O O B-geo I-geo O O O O O B-per I-per O O B-geo O O O O O O B-geo O O O O,"DT JJ JJ NNS NN IN NNP NNP VBZ VBN DT NN IN NNP NNP , DT NNP NN WP VBZ VBN VBN IN NNP IN JJ NN ."
+President Alejandro Toledo Thursday welcomed the decision of the Inter-American Court of Human Rights .,B-per I-per I-per B-tim O O O O O B-org I-org I-org I-org I-org O,NNP NNP NNP NNP VBD DT NN IN DT JJ NNP IN NNP NNP .
+Berenson had appealed to the court after the Peruvian Supreme Court upheld her conviction .,B-per O O O O O O O B-gpe B-org I-org O O O O,NNP VBD VBN TO DT NN IN DT JJ NNP NNP VBD PRP$ NN .
+Her family and lawyers argued that she had not been given a fair trial .,O O O O O O O O O O O O O O O,PRP$ NN CC NNS VBD IN PRP VBD RB VBN VBN DT JJ NN .
+Berenson was arrested in 1995 and accused of involvement in a failed attempt by the rebel Tupac Amaru Revolutionary Movement to seize Peru 's Congress .,B-per O O O B-tim O O O O O O O O O O O B-org I-org I-org I-org O O B-geo O B-org O,NNP VBD VBN IN CD CC VBN IN NN IN DT VBN NN IN DT NN NNP NNP NNP NNP TO VB NNP POS NNP .
+She has maintained her innocence .,O O O O O O,PRP VBZ VBN PRP$ NN .

@@ -1,0 +1,10 @@
+Georgia 's breakaway region of Abkhazia remains tense - a day after supporters of presidential candidate Sergei Bagapsh seized regional government offices .,B-geo O O O O B-geo O O O O O O O O O O B-per I-per O O O O O,NNP POS JJ NN IN NNP VBZ JJ IN DT NN IN NNS IN JJ NN NNP NNP VBD JJ NN NNS .
+"Crowds stormed the buildings in the capital , Sukhumi , Friday .",O O O O O O O O B-geo O B-tim O,"NNS VBD DT NNS IN DT NN , NNP , NNP ."
+"Several people were injured , and one woman died of a gunshot wound .",O O O O O O O O O O O O O O,"JJ NNS VBD VBN , CC CD NN VBD IN DT NN NN ."
+"Mr. Bagapsh blames the shooting on guards , while Abkhaz officials say Mr. Bagapsh 's supporters were responsible .",B-per I-per O O O O O O O B-org O O B-per B-org O O O O O,"NNP NNP VBZ DT NN IN NNS , IN NNP NNS VBP NNP NNP POS NNS VBD JJ ."
+"The region 's high court last month declared Mr. Bagapsh the winner of a disputed October presidential election , but then reversed itself and ordered a new vote .",O O O O O O O O B-per I-per O O O O O B-tim O O O O O O O O O O O O O,"DT NN POS JJ NN JJ NN VBD NNP NNP DT NN IN DT JJ NNP JJ NN , CC RB VBD PRP CC VBD DT JJ NN ."
+His supporters have rejected fresh elections .,O O O O O O O,PRP$ NNS VBP VBN JJ NNS .
+Russia said Friday it will act if necessary to protect its interests .,B-geo O B-tim O O O O O O O O O O,NNP VBD NNP PRP MD VB IN JJ TO VB PRP$ NNS .
+Tbilisi then accused Moscow of interfering in Georgia 's internal affairs - a charge Moscow rejects .,B-org O O B-geo O O O B-geo O O O O O O B-geo O O,NNP RB VBD NNP IN VBG IN NNP POS JJ NNS IN DT NN NNP VBZ .
+Abkhaz President Vladislav Ardzinba described the events Friday in the pro-Russian enclave as an attempted coup .,B-org B-per I-per I-per O O O B-tim O O O O O O O O O,NNP NNP NNP NNP VBD DT NNS NNP IN DT JJ NN IN DT VBN NN .
+Abkhazia broke away from Georgia in the 1990s .,B-geo O O O B-geo O O B-tim O,NNP VBD RB IN NNP IN DT NNS .

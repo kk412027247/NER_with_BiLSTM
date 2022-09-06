@@ -1,0 +1,7 @@
+"German Chancellor Angela Merkel met Saturday with Nelson Mandela , and afterwards urged the world to follow the former South African president 's legacy of peace to resolve Africa 's conflicts .",B-gpe B-per I-per I-per O B-tim O B-per I-per O O O O O O O O O O B-geo I-geo O O O O O O O B-geo O O O,"JJ NNP NNP NNP VBD NNP IN NNP NNP , CC RB VBD DT NN TO VB DT JJ NNP NNP NN POS NN IN NN TO VB NNP POS NNS ."
+The two talked about ways to broker peace across the continent and about efforts to fight AIDS .,O O O O O O O O O O O O O O O O O O,DT CD VBD IN NNS TO NN NN IN DT NN CC IN NNS TO VB NNP .
+Ms. Merkel was scheduled to visit an HIV / AIDS project in Cape Town later in the day .,B-per I-per O O O O O O O O O O B-geo I-geo O O O B-tim O,NNP NNP VBD VBN TO VB DT NNP NNP NNP NN IN NNP NNP RB IN DT NN .
+The German chancellor is on a five-day visit to Africa .,O B-gpe O O O O B-tim O O B-geo O,DT JJ NN VBZ IN DT JJ NN TO NNP .
+She arrived in South Africa Thursday from Ethiopia .,O O O B-geo I-geo B-tim O B-geo O,PRP VBD IN NNP NNP NNP IN NNP .
+She travels to Liberia on Sunday .,O O O B-geo O B-tim O,PRP VBZ TO NNP IN NNP .
+"Ms. Merkel is working to lay the groundwork for a summit between leaders of the African Union and the European Union , set for December in Portugal .",B-per I-per O O O O O O O O O O O O O B-geo I-geo O O B-org I-org O O O B-tim O B-geo O,"NNP NNP VBZ VBG TO VB DT NN IN DT NN IN NNS IN DT NNP NNP CC DT NNP NNP , VBN IN NNP IN NNP ."

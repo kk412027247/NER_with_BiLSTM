@@ -1,0 +1,9 @@
+United Nations investigators have begun questioning top Syrian officials about the assassination of former Lebanese Prime Minister Rafik Hariri .,B-org I-org O O O O O B-gpe O O O O O O B-gpe B-per O B-per I-per O,NNP NNPS NNS VBP VBN VBG JJ JJ NNS IN DT NN IN JJ JJ NNP NNP NNP NNP .
+Diplomatic sources say five Syrian officials are being questioned at U.N. offices in Vienna .,O O O O B-gpe O O O O O B-org O O B-geo O,JJ NNS VBP CD JJ NNS VBP VBG VBN IN NNP NNS IN NNP .
+The interviews are expected to continue until Wednesday .,O O O O O O O B-tim O,DT NNS VBP VBN TO VB IN NNP .
+The sources say the suspects arrived in the Austrian capital late Sunday .,O O O O O O O O B-gpe O O B-tim O,DT NNS VBP DT NNS VBD IN DT JJ NN JJ NNP .
+Damascus recently agreed to allow its officials to be questioned outside Syria .,B-org O O O O O O O O O O B-geo O,NNP RB VBD TO VB PRP$ NNS TO VB VBN IN NNP .
+Syria denies any involvement in the February 14 bombing in Beirut that killed Mr. Hariri and 20 other people .,B-org O O O O O B-tim I-tim O O B-geo O O B-per I-per O O O O O,NNP VBZ DT NN IN DT NNP CD VBG IN NNP WDT VBD NNP NNP CC CD JJ NNS .
+"However , a report by a U.N. commission in October implicated top Syrian and Lebanese officials .",O O O O O O B-org O O B-tim O O B-gpe O B-gpe O O,"RB , DT NN IN DT NNP NN IN NNP VBD JJ JJ CC JJ NNS ."
+The U.N. Security Council has warned Syria to cooperate fully with the probe or face consequences .,O B-org I-org I-org O O B-org O O O O O O O O O O,DT NNP NNP NNP VBZ VBN NNP TO VB RB IN DT NN CC VB NNS .
+"Earlier this year , Syria was forced to withdraw its troops from Lebanon under intense domestic and international pressure .",O O O O B-org O O O O O O O B-geo O O O O O O O,"RBR DT NN , NNP VBD VBN TO VB PRP$ NNS IN NNP IN JJ JJ CC JJ NN ."

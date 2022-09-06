@@ -1,0 +1,8 @@
+"Iraq 's election commission says it has rejected a small number of ballots from last month 's parliamentary vote , and plans to issue final results later this week .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O B-tim O O O,"NNP POS NN NN VBZ PRP VBZ VBN DT JJ NN IN NNS IN JJ NN POS JJ NN , CC VBZ TO VB JJ NNS RB DT NN ."
+"Officials said ballots from 227 boxes were thrown out , adding the move should not affect the vote tally .",O O O O O O O O O O O O O O O O O O O O,"NNS VBD NNS IN CD NNS VBD VBN RP , VBG DT NN MD RB VB DT NN RB ."
+"They said final results from the remaining 31,000 boxes will be announced as early as Friday .",O O O O O O O O O O O O O O O B-tim O,PRP VBD JJ NNS IN DT VBG CD NNS MD VB VBN RB RB IN NNP .
+"Vote results have been delayed for weeks , after some Sunni Arab groups alleged widespread fraud .",O O O O O O O O O O B-per B-gpe O O O O O,"JJ NNS VBP VBN VBN IN NNS , IN DT NNP JJ NNS VBD JJ NN ."
+"Near Baghdad , a U.S. military helicopter crashed Monday killing the two soldiers on board .",B-per I-per O O B-geo O O O B-tim O O O O O O O,"NNP NNP , DT NNP JJ NN VBD NNP VBG DT CD NNS IN NN ."
+"In an unverified Internet claim , insurgents said they hit the aircraft in a rocket attack .",O O O O O O O O O O O O O O O O O,"IN DT JJ NN NN , NNS VBD PRP VBD DT NN IN DT NN NN ."
+"Meanwhile , Iraqi prosecutors said the trial of Saddam Hussein is to resume January 24th without the chief judge .",O O B-gpe O O O O O B-org I-org O O O B-tim I-tim O O O O O,"RB , JJ NNS VBD DT NN IN NNP NNP VBZ TO VB NNP CD IN DT NN NN ."
+"Judge Rizkar Mohammed Amin quit last week , complaining of government interference .",O B-per I-per I-per O O O O O O O O O,"NNP NNP NNP NNP VBD JJ NN , VBG IN NN NN ."

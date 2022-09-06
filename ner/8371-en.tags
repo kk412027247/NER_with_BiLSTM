@@ -1,0 +1,7 @@
+A suicide bomber in southeastern Afghanistan has killed at least three Afghan soldiers and a civilian .,O O O O O B-geo O O O O O B-gpe O O O O O,DT NN NN IN JJ NNP VBZ VBN IN JJS CD JJ NNS CC DT NN .
+Officials say the bomber detonated his explosives inside a car in Khost province Wednesday as soldiers were checking the vehicle .,O O O O O O O O O O O O O B-tim O O O O O O O,NNS VBP DT NN VBD PRP$ NNS IN DT NN IN NNP NN NNP IN NNS VBD VBG DT NN .
+At least three other people were wounded .,O O O O O O O O,IN JJS CD JJ NNS VBD VBN .
+Authorities blame the Taleban .,O O O B-org O,NNS VBP DT NNP .
+"Militants have carried out a wave of suicide bombings in Afghanistan 's south and east in recent weeks , killing dozens of people .",O O O O O O O O O O B-geo O O O B-geo O B-tim O O O O O O O,"NNS VBP VBN RP DT NN IN NN NNS IN NNP POS NN CC NN IN JJ NNS , VBG NNS IN NNS ."
+"The Taleban has claimed responsibility for most of the attacks , and says it will continue its insurgency until foreign troops leave the country .",O B-org O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP VBZ VBN NN IN JJS IN DT NNS , CC VBZ PRP MD VB PRP$ NN IN JJ NNS VBP DT NN ."
+"The United States has more than 18,000 troops in Afghanistan , and the Dutch parliament is to vote Thursday on whether to send more troops to the country as part of a NATO force .",O B-geo I-geo O O O O O O B-geo O O O B-gpe O O O O B-tim O O O O O O O O O O O O O B-org O O,"DT NNP NNPS VBZ JJR IN CD NNS IN NNP , CC DT JJ NN VBZ TO VB NNP IN IN TO VB JJR NNS TO DT NN IN NN IN DT NNP NN ."

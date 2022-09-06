@@ -1,0 +1,8 @@
+Iraqi police say a suicide truck bomb attack has killed at least 22 people and wounded 40 others in a small town in northern Iraq .,B-gpe O O O O O O O O O O O O O O O O O O O O O O O B-geo O,JJ NNS VBP DT NN NN NN NN VBZ VBN IN JJS CD NNS CC VBN CD NNS IN DT JJ NN IN JJ NNP .
+"Authorities say the blast ripped through a crowded outdoor market Saturday in Emerli , a village north of Baghdad .",O O O O O O O O O O B-tim O B-geo O O O O O B-geo O,"NNS VBP DT NN VBD IN DT JJ NN NN NNP IN NNP , DT NN NN IN NNP ."
+"On Friday , a car bombing in a Kurdish village killed at least 22 people and wounded about 17 others .",O B-tim O O O O O O O O O O O O O O O O O O O,"IN NNP , DT NN NN IN DT JJ NN VBD IN JJS CD NNS CC VBD IN CD NNS ."
+"Police said they believe a suicide car bomber was responsible for the attack in the village of Ahmad Maref , northeast of the capital .",O O O O O O O O O O O O O O O O O B-geo I-geo O O O O O O,"NNS VBD PRP VBP DT NN NN NN VBD JJ IN DT NN IN DT NN IN NNP NNP , NN IN DT NN ."
+"The U.S. military Saturday reported the deaths of six American soldiers and an Iraqi interpreter over the past few days , mostly in Baghdad .",O B-geo O B-tim O O O O O B-gpe O O O B-gpe O O O B-tim I-tim O O O O B-geo O,"DT NNP NN NNP VBD DT NNS IN CD JJ NNS CC DT JJ NN IN DT JJ JJ NNS , RB IN NNP ."
+Six soldiers were wounded .,O O O O O,CD NNS VBD VBN .
+"In other news , Britain 's defense ministry says a British soldier has died in the southern city of Basra .",O O O O B-geo O O O O O B-gpe O O O O O O O O B-geo O,"IN JJ NN , NNP POS NN NN VBZ DT JJ NN VBZ VBN IN DT JJ NN IN NNP ."
+A spokesman did not provide details .,O O O O O O O,DT NN VBD RB VB NNS .

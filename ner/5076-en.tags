@@ -1,0 +1,9 @@
+Russia 's state-owned natural gas firm Gazprom has announced plans to buy a controlling stake in the Russian daily Izvestia .,B-geo O O O O O B-org O O O O O O O O O O B-gpe O B-geo O,NNP POS JJ JJ NN NN NNP VBZ VBN NNS TO VB DT VBG NN IN DT JJ JJ NNP .
+"A spokesman for Gazprom media says negotiations are almost complete , with an announcement in coming days .",O O O B-org O O O O O O O O O O O O O O,"DT NN IN NNP NNS VBZ NNS VBP RB JJ , IN DT NN IN VBG NNS ."
+The Vedomosti business daily quotes industry officials as speculating the deal could be worth between $ 10 million to $ 20 million .,O O O O O O O O O O O O O O O O O O O O O O O,DT NNP NN JJ NNS NN NNS IN VBG DT NN MD VB JJ IN $ CD CD TO $ CD CD .
+Critics call the move a Kremlin effort to tighten its influence on the media .,O O O O O B-org O O O O O O O O O,NNS VBP DT NN DT NNP NN TO VB PRP$ NN IN DT NNS .
+The government already controls national television and radio networks .,O O O O O O O O O O,DT NN RB VBZ JJ NN CC NN NNS .
+An editor at Izvestia resigned last year in what he said was a dispute over the newspaper 's coverage of the Beslan school crisis in which more than 330 people were killed .,O O O B-geo O O O O O O O O O O O O O O O O O B-geo O O O O O O O O O O O,DT NN IN NNP VBD JJ NN IN WP PRP VBD VBD DT NN IN DT NN POS NN IN DT NNP NN NN IN WDT JJR IN CD NNS VBD VBN .
+He said he was forced to resign over coverage the paper 's leadership deemed too shocking .,O O O O O O O O O O O O O O O O O,PRP VBD PRP VBD VBN TO VB IN NN DT NN POS NN VBD RB JJ .
+The newspaper printed graphic pictures of the bloody siege .,O O O O O O O O O O,DT NN VBD JJ NNS IN DT JJ NN .
+Some speculated that coverage upset the Kremlin .,O O O O O O B-org O,DT VBD DT NN VB DT NNP .

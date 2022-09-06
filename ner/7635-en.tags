@@ -1,0 +1,9 @@
+Russian President Vladimir Putin indirectly has criticized Britain for its refusal to extradite people who Russia considers terrorist suspects .,B-gpe B-per I-per I-per O O O B-geo O O O O O O O B-geo O O O O,JJ NNP NNP NNP RB VBZ VBN NNP IN PRP$ NN TO VB NNS WP NNP VBZ JJ NNS .
+Mr. Putin spoke Wednesday in Moscow at a conference of European prosecutors .,B-per I-per O B-tim O B-geo O O O O O O O,NNP NNP VBD NNP IN NNP IN DT NN IN JJ NNS .
+"He said that he does not understand why people who are accused of terrorism are not extradited , and instead are granted political asylum .",O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBD IN PRP VBZ RB VB WRB NNS WP VBP VBN IN NN VBP RB VBN , CC RB VBP VBN JJ NN ."
+He did not specifically name Britain .,O O O O O B-geo O,PRP VBD RB RB NN NNP .
+He referred only to what he called certain countries that grant asylum to people accused of terrorism .,O O O O O O O O O O O O O O O O O O,PRP VBD RB TO WP PRP VBD JJ NNS WDT VBP NN TO NNS VBN IN NN .
+Mr. Putin also warned European officials against using human rights issues to promote their own political interests .,B-per I-per O O O O O O O O O O O O O O O O,NNP NNP RB VBD JJ NNS IN VBG JJ NNS NNS TO VB PRP$ JJ JJ NNS .
+"Last month , Russia 's new prosecutor general said he is sending a team of specialists to Britain to deal with cases in which British courts have refused Russian extradition requests .",O O O B-geo O O O O O O O O O O O O O B-geo O O O O O O B-gpe O O O B-gpe O O O,"JJ NN , NNP POS JJ NN NN VBD PRP VBZ VBG DT NN IN NNS TO NNP TO VB IN NNS IN WDT JJ NNS VBP VBN JJ NN NNS ."
+Russia for years has sought the extradition of business tycoon Boris Berezovsky and Chechen separatist envoy Akhmed Zakayev .,B-geo O O O O O O O O O B-per I-per O B-gpe O O O B-org O,NNP IN NNS VBZ VBN DT NN IN NN NN NNP NNP CC JJ JJ NN VBN NNP .
+British authorities have granted both men political asylum .,B-gpe O O O O O O O O,JJ NNS VBP VBN DT NNS JJ NN .

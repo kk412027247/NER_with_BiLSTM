@@ -1,0 +1,8 @@
+Two major U.S. airlines have won approval to merge .,O O B-geo O O O O O O O,CD JJ NNP NNS VBP VBN NN TO VB .
+United Airlines is to purchase Continental Airlines to create the world 's largest air carrier .,B-org I-org O O O B-org I-org O O O O O O O O O,NNP NNPS VBZ TO VB NNP NNPS TO VB DT NN POS JJS NN NN .
+"In order for the merger to overcome anti-trust concerns , rival Southwest Airlines had to be given take-off and landing rights at the international airport in Newark , New Jersey - just outside New York City .",O O O O O O O O O O O B-org I-org O O O O O O O O O O O O O B-geo O B-geo I-geo O O O B-geo I-geo I-geo O,"IN NN IN DT NN TO VB JJ NNS , JJ NNP NNPS VBD TO VB VBN NN CC NN NNS IN DT JJ NN IN NNP , NNP NNP : RB IN NNP NNP NNP ."
+The airport is a key Continental Airlines hub .,O O O O O B-org I-org O O,DT NN VBZ DT JJ NNP NNPS NN .
+Shareholders are scheduled to meet September 17 to approve the deal .,O O O O O B-tim I-tim O O O O O,NNS VBP VBN TO VB NNP CD TO VB DT NN .
+This is the first major airline merger in the United States since 2008 when Delta Airlines acquired Northwest .,O O O O O O O O O B-geo I-geo B-tim I-tim O B-org I-org O B-org O,DT VBZ DT JJ JJ NN NN IN DT NNP NNPS IN CD WRB NNP NNP VBD NNP .
+Government approval followed an antitrust review by the U.S. Justice Department .,O O O O O O O O B-org I-org I-org O,NN NN VBD DT JJ NN IN DT NNP NNP NNP .
+The merger is expected to be completed by October 1 .,O O O O O O O O B-tim I-tim O,DT NN VBZ VBN TO VB VBN IN NNP CD .

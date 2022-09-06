@@ -1,0 +1,6 @@
+"Italian car company Fiat says it is interested in taking over Opel , the German division of financially troubled U.S. carmaker General Motors .",B-gpe O O B-org O O O O O O O B-org O O B-gpe O O O O B-geo O B-org I-org O,"JJ NN NN NNP VBZ PRP VBZ JJ IN VBG RP NNP , DT JJ NN IN RB JJ NNP NN NNP NNPS ."
+"Fiat chief Luca Cordero di Montezemolo told Italy 's Corriere della Sera newspaper that Opel is an "" ideal partner . """,B-org O B-per I-per I-per I-per O B-org I-org I-org I-org I-org O O B-org O O O O O O O,NNP NN NNP NNP NNP NNP VBD NNP POS NNP NN NNP NN IN NNP VBZ DT LQU JJ NN . LQU
+"He said a takeover would be an "" extraordinary opportunity . """,O O O O O O O O O O O O,PRP VBD DT NN MD VB DT LQU JJ NN . LQU
+Opel has been suffering through the world economic crisis along with many other global automakers .,B-org O O O O O O O O O O O O O O O,NNP VBZ VBN VBG IN DT NN JJ NN IN IN JJ JJ JJ NNS .
+But the German government says it has no plans to offer direct help to Opel .,O O B-gpe O O O O O O O O O O O B-org O,CC DT JJ NN VBZ PRP VBZ DT NNS TO VB JJ NN IN NNP .
+"Fiat is involved in plans to buy another beleaguered U.S. car company , Chrysler , which entered into bankruptcy protection last week .",B-org O O O O O O O O B-geo O O O B-per O O O O O O O O O,"NNP VBZ VBN IN NNS TO VB DT JJ NNP NN NN , NNP , WDT VBD IN NN NN JJ NN ."

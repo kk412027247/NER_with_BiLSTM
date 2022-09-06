@@ -1,0 +1,6 @@
+"Little Johnny and his family lived in the country , and as a result , seldom had guests .",B-per I-per O O O O O O O O O O O O O O O O O,"NNP NNP CC PRP$ NN VBD IN DT NN , CC IN DT NN , RB VBD NNS ."
+He was eager to help his mother after his father appeared with two dinner guests from the office .,O O O O O O O O O O O O O O O O O O O,PRP VBD JJ TO VB PRP$ NN IN PRP$ NN VBD IN CD NN NNS IN DT NN .
+"When the dinner was nearly over , Little Johnny went to the kitchen and proudly carried in the first piece of apple pie , giving it to his father , who passed it to a guest .",O O O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"WRB DT NN VBD RB RB , NNP NNP VBD TO DT NN CC RB VBN IN DT JJ NN IN NN NN , VBG PRP TO PRP$ NN , WP VBD PRP TO DT NN ."
+"Little Johnny came in with a second piece of pie and gave it to his father , who again gave it to a guest .",B-per I-per O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD IN IN DT JJ NN IN NN CC VBD PRP TO PRP$ NN , WP RB VBD PRP TO DT NN ."
+"This was too much for Little Johnny , who said , "" It 's no use , Dad .",O O O O O B-per I-per O O O O O O O O O O B-per O,"DT VBD RB JJ IN NNP NNP , WP VBD , LQU PRP VBZ DT NN , NNP ."
+"The pieces are all the same size . """,O O O O O O O O O,DT NNS VBP PDT DT JJ NN . LQU

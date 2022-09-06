@@ -1,0 +1,6 @@
+Zambia 's deputy leader says President Levy Mwanawasa has undergone minor surgery in France to improve his breathing .,B-geo O O O O B-per I-per I-per O O O O O B-geo O O O O O,NNP POS NN NN VBZ NNP NNP NNP VBZ VBN JJ NN IN NNP TO VB PRP$ NN .
+Zambian Vice President Rupiah Banda says Tuesday the president is in stable condition following the operation which took place Monday afternoon .,B-gpe B-per I-per I-per I-per O B-tim O O O O O O O O O O O O B-tim I-tim O,JJ NNP NNP NNP NNP VBZ NNP DT NN VBZ IN JJ NN VBG DT NN WDT VBD NN NNP NN .
+Mr. Mwanawasa suffered a stroke during a visit to Egypt on June 29 and was transferred to a Paris military hospital last week for treatment .,B-per I-per O O O O O O O O O B-tim I-tim O O O O O B-geo O O O O O O O,NNP NNP VBD DT NN IN DT NN TO VB IN NNP CD CC VBD VBN TO DT NNP JJ NN JJ NN IN NN .
+Mr. Mwanawasa is 59 years old and has served as Zambian president since 2002 .,B-per I-per O O O O O O O O B-gpe O B-tim I-tim O,NNP NNP VBZ CD NNS JJ CC VBZ VBN IN JJ NN IN CD .
+He suffered a mild stroke in 2006 before being re-elected that year .,O O O O O O B-tim O O O O O O,PRP VBD DT JJ NN IN CD IN VBG VBN DT NN .
+Mr. Mwanawasa also is the leader of the Southern African Development Community .,B-per I-per O O O O O O B-org I-org I-org I-org O,NNP NNP RB VBZ DT NN IN DT JJ NNP NNP NNP .

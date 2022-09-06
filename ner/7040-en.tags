@@ -1,0 +1,8 @@
+"Severe volcanic activity , which began in July 1995 , has put a damper on this small , open economy .",O O O O O O O B-tim I-tim O O O O O O O O O O O O,"NNP JJ NN , WDT VBD IN NNP CD , VBZ VBN DT NN IN DT JJ , JJ NN ."
+"A catastrophic eruption in June 1997 closed the airports and seaports , causing further economic and social dislocation .",O O O O B-tim I-tim O O O O O O O O O O O O O,"DT JJ NN IN NNP CD VBD DT NNS CC NNS , VBG JJ JJ CC JJ NN ."
+"Two-thirds of the 12,000 inhabitants fled the island .",O O O O O O O O O,NNS IN DT CD NNS VBD DT NN .
+Some began to return in 1998 but lack of housing limited the number .,O O O O O B-tim O O O O O O O O,DT VBD TO VB IN CD CC NN IN NN VBN DT NN .
+The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops .,O O O O O O O O O O O O O O O O O O O O O,DT NN NN VBD TO VB VBN IN DT NN IN JJ NN IN NN CC DT NN IN NNS .
+Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity .,O O O O O O O O O O O O O O O O O O O O O,NNS IN DT NN VBP RB IN NNS IN NN TO DT JJ NN CC IN JJ NN NN NN .
+The UK has launched a three-year $ 122.8 million aid program to help reconstruct the economy .,O B-org O O O B-tim O O O O O O O O O O O,DT NNP VBZ VBN DT JJ $ CD CD NN NN TO VB VB DT NN .
+Half of the island is expected to remain uninhabitable for another decade .,O O O O O O O O O O B-tim I-tim O,NN IN DT NN VBZ VBN TO VB JJ IN DT NN .

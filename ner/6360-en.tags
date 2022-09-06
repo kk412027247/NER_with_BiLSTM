@@ -1,0 +1,7 @@
+"The band at Ellsworth Air Force Base , South Dakota , was required to play for all generals who arrived on base .",O O O B-org I-org I-org I-org I-org I-org I-org O O O O O O O O O O O O O,"DT NN IN NNP NNP NNP NNP , NNP NNP , VBD VBN TO VB IN DT NNS WP VBD IN NN ."
+"One morning , when the commanding officer heard on the radio that a General Frost was expected just after noon , he sent the band scrambling to the flight line with instruments .",O O O O O O O O O O O O O B-org I-org O O O O B-tim O O O O O O O O O O O O O,"CD NN , WRB DT JJ NN VBN IN DT NN IN DT NNP NNP VBD VBN RB IN NN , PRP VBD DT NN VBG TO DT NN NN IN NNS ."
+One of the musicians had also heard the radio announcement .,O O O O O O O O O O O,CD IN DT NNS VBD RB VBN DT NN NN .
+He took the C.O . aside for a whispered conference .,O O O O O O O O O O O,PRP VBD DT NNP . RB IN DT JJ NN .
+"When they returned , the officer told us the performance was canceled .",O O O O O O O O O O O O O,"WRB PRP VBD , DT NN VBD PRP DT NN VBD VBN ."
+There was no arriving general .,O O O O O O,EX VBD DT VBG NN .
+We had almost played for the weather forecast .,O O O O O O O O O,PRP VBD RB VBN IN DT NN NN .

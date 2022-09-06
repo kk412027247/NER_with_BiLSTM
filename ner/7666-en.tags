@@ -1,0 +1,6 @@
+"China says the death toll from an earthquake that hit a Tibetan region in the country 's west last month has risen to 2,698 .",B-org O O O O O O O O O O B-gpe O O O O O O O O O O O O O,NNP VBZ DT NN NN IN DT NN WDT VBD DT JJ NN IN DT NN POS JJS JJ NN VBZ VBN TO CD .
+China 's official Xinhua news agency says another 270 people remain missing after the April 14 quake in Qinghai province .,B-org O O B-org O O O O O O O O O O B-tim I-tim O O B-geo O O,NNP POS JJ NNP NN NN VBZ DT CD NNS VBP VBG IN DT NNP CD NN IN NNP NN .
+"The new death toll is a significant increase from the previous figure of around 2,200 fatalities reported by Chinese authorities in late April .",O O O O O O O O O O O O O O O O O O B-gpe O O O B-tim O,DT JJ NN NN VBZ DT JJ NN IN DT JJ NN IN IN CD NNS VBN IN JJ NNS IN JJ NNP .
+The 6.9 magnitude quake flattened thousands of homes in Qinghai 's ethnically-Tibetan Yushu county .,O O O O O O O O O B-geo O O B-geo O O,DT CD NN NN VBD NNS IN NNS IN NNP POS JJ NNP NN .
+The remote location posed logistical difficulties for rescuers .,O O O O O O O O O,DT JJ NN VBD JJ NNS IN NNS .
+Xinhua quotes Qinghai Vice Governor Zhang Guangrong as saying the dead include 199 students .,B-org O B-geo B-per O B-per I-per O O O O O O O O,NNP VBZ NNP NNP NNP NNP NNP IN VBG DT NN VBP CD NNS .

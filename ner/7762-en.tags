@@ -1,0 +1,10 @@
+"Officials in Nigeria say a bomb has exploded at a popular market inside an army barracks in the capital , Abuja .",O O B-geo O O O O O O O O O O O O O O O O O B-geo O,"NNS IN NNP VBP DT NN VBZ VBN IN DT JJ NN IN DT NN NNS IN DT NN , NNP ."
+Nigerian television is reporting that at least 30 people died in the explosion .,B-gpe O O O O O O O O O O O O O,JJ NN VBZ VBG IN IN JJS CD NNS VBD IN DT NN .
+Police have not confirmed that figure .,O O O O O O O,NNS VBP RB VBN IN NN .
+Officials say the bomb went off inside Mammy market where people were eating and drinking to celebrate New Year 's Eve .,O O O O O O O B-geo O O O O O O O O O B-org I-org I-org I-org O,NNS VBP DT NN VBD RB JJ NNP NN WRB NNS VBD JJ CC NN TO VB NNP NNP POS NNP .
+No one has claimed responsibility for the attack .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+Nigerian President Goodluck Jonathan blamed the bombing on the radical Islamist group Boko Haram .,B-gpe B-per I-per I-per O O O O O O O O B-org I-org O,JJ NNP NNP NNP VBD DT VBG IN DT JJ NN NN NNP NNP .
+"The group claimed responsibility for Christmas Eve bomb attacks in the central city of Jos , and for attacking several churches in the northern city of Maiduguri .",O O O O O B-org I-org O O O O O O O B-geo O O O O O O O O O O O B-geo O,"DT NN VBD NN IN NNP NNP NN NNS IN DT JJ NN IN NNP , CC IN VBG JJ NNS IN DT JJ NN IN NNP ."
+More than 80 people died in those attacks .,O O O O O O O O O,JJR IN CD NNS VBD IN DT NNS .
+Abuja was shaken by car bomb attacks in October .,B-geo O O O O O O O B-tim O,NNP VBD VBN IN NN NN NNS IN NNP .
+Militants from the southern oil-producing Niger Delta claimed responsibility for those blasts .,O O O O B-org B-gpe B-org O O O O O O,NNS IN DT JJ NN NNP NNP VBD NN IN DT NNS .

@@ -1,0 +1,6 @@
+The U.S. Energy Department says Washington is prepared to tap its emergency oil stockpile to help oil producers and refiners in the path of Hurricane Katrina .,O B-org I-org I-org O B-geo O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP NNP VBZ NNP VBZ VBN TO VB PRP$ NN NN NN TO VB NN NNS CC NNS IN DT NN IN NNP NNP .
+The storm is lashing a part of the U.S. Gulf coast responsible for about one quarter of U.S. crude oil production .,O O O O O O O O B-org O O O O O B-tim I-tim O B-geo O O O O,DT NN VBZ VBG DT NN IN DT NNP NNP NN JJ IN IN CD NN IN NNP JJ NN NN .
+It is also home to key oil import facilities and refineries .,O O O O O O O O O O O O,PRP VBZ RB NN TO JJ NN NN NNS CC NNS .
+The oil would be loaned to refiners and producers to lessen the effect of disrupted energy production .,O O O O O O O O O O O O O O O O O O,DT NN MD VB VBN TO NNS CC NNS TO VB DT NN IN VBN NN NN .
+Worries about damage to energy production infrastructure have pushed crude oil prices up to record levels .,O O O O O O O O O O O O O O O O O,NNS IN NN TO NN NN NN VBP VBN JJ NN NNS RB TO NN NNS .
+A similar oil loan program aided oil companies after a hurricane disrupted production last year .,O O O O O O O O O O O O O O O O,DT JJ NN NN NN VBN NN NNS IN DT NN VBN NN JJ NN .

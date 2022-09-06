@@ -1,0 +1,6 @@
+Venezuelan President Hugo Chavez says his government is taking over several metal companies .,B-gpe B-per I-per I-per O O O O O O O O O O,JJ NNP NNP NNP VBZ PRP$ NN VBZ VBG RP JJ NN NNS .
+"He announced Saturday Venezuela will nationalize businesses including Matesi , which produces iron briquettes , and aluminum-maker Norpro .",O O B-tim I-tim O O O O B-geo O O O O O O O O O O,"PRP VBD NNP NNP MD VB NNS VBG NNP , WDT VBZ NN NNS , CC NN NNP ."
+Venezuela began to take over Matesi from its Luxembourg-based parent company Tenaris last year .,B-tim O O O O B-geo O O O O O B-tim O O O,NNP VBD TO VB RP NNP IN PRP$ JJ NN NN NNP JJ NN .
+Mr. Chavez says he is moving to nationalize Matesi after settlement talks failed .,B-per I-per O O O O O O B-geo O O O O O,NNP NNP VBZ PRP VBZ VBG TO VB NNP IN NN NNS VBD .
+There was no immediate comment from Tenaris or any of the companies listed for nationalization .,O O O O O O B-tim O O O O O O O O O,EX VBD DT JJ NN IN NNP CC DT IN DT NNS VBN IN NN .
+"In recent years , Mr. Chavez has nationalized firms in many sectors , including petroleum , communications , electricity , banking and agriculture .",O B-tim O O B-per I-per O O O O O O O O O O O O O O O O O O,"IN JJ NNS , NNP NNP VBZ VBN NNS IN JJ NNS , VBG NN , NNS , NN , NN CC NN ."

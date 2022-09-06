@@ -1,0 +1,7 @@
+Ukraine 's Prime Minister Yury Yekhanurov says the signing of a controversial natural gas deal with Russia has been postponed again .,B-geo O B-per I-per I-per I-per O O O O O O O O O O B-org O O O O O,NNP POS NNP NNP NNP NNP VBZ DT NN IN DT JJ JJ NN NN IN NNP VBZ VBN VBN RB .
+The signing had already been delayed from Saturday to Wednesday .,O O O O O O B-tim I-tim I-tim I-tim O,DT NN VBD RB VBN VBN IN NNP TO NNP .
+But Mr. Yekhanurov says experts continue to work on the documents .,O B-per B-org O O O O O O O O O,CC NNP NNP VBZ NNS VBP TO VB IN DT NNS .
+The draft agreement calls for Ukraine to pay Russia nearly twice as much for natural gas .,O O O O O B-org O O B-org O O O O O O O O,DT NN NN VBZ IN NNP TO VB NNP RB RB RB JJ IN JJ NN .
+"The new price would be $ 95 per 1,000 cubic meters , up from the previous rate of $ 50 .",O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN MD VB $ CD IN CD JJ NNS , RB IN DT JJ NN IN $ CD ."
+"The two sides reached the deal January 4 , after a three-day suspension of Russian gas deliveries to Ukraine .",O O O O O O B-tim I-tim O O O B-tim O O B-gpe O O O B-geo O,"DT CD NNS VBD DT NN NNP CD , IN DT JJ NN IN JJ NN NNS TO NNP ."
+"The agreement triggered a political crisis in Ukraine , and parliament voted to dismiss the government .",O O O O O O O B-geo O O O O O O O O O,"DT NN VBD DT JJ NN IN NNP , CC NN VBD TO VB DT NN ."

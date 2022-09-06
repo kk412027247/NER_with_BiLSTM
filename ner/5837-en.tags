@@ -1,0 +1,9 @@
+Lithuania has handed over an alleged Belarusian spy to Polish authorities .,B-geo O O O O O B-gpe O O B-gpe O O,NNP VBZ VBN IN DT JJ JJ NN TO JJ NNS .
+Warsaw accuses Sergei Monic of sending information vital to Polish national security to foreign intelligence services .,B-per O B-per I-per O O O O O B-gpe O O O O O O O,NNP VBZ NNP NNP IN VBG NN JJ TO JJ JJ NN TO JJ NN NNS .
+Lithuanian media say the information includes lists of employees at the Polish foreign ministry and other documents .,B-gpe O O O O O O O O O O B-gpe O O O O O O,JJ NNS VBP DT NN VBZ NNS IN NNS IN DT JJ JJ NN CC JJ NNS .
+Monic was arrested in Vilnius in November on a Polish warrant .,B-per O O O B-geo B-tim I-tim O O B-gpe O O,NNP VBD VBN IN NNP IN NNP IN DT JJ NN .
+He has denied the charges and claims he was set up by a Polish acquaintance .,O O O O O O O O O O O O O B-gpe O O,PRP VBZ VBN DT NNS CC NNS PRP VBD VBN RP IN DT JJ NN .
+He also says a treaty between Belarus and Lithuania should have prevented his extradition .,O O O O O O B-geo O B-geo O O O O O O,PRP RB VBZ DT NN IN NNP CC NNP MD VB VBN PRP$ NN .
+Ties between Poland and Belarus have been sour in recent years .,O O B-geo O B-geo O O O O B-tim O O,NNS IN NNP CC NNP VBP VBN JJ IN JJ NNS .
+Belarus has a large ethnic Polish population .,B-geo O O O O B-gpe O O,NNP VBZ DT JJ JJ JJ NN .
+"Minsk has accused Polish institutions of fomenting rebellion , leading to a number of tit-for-tat diplomatic expulsions .",B-org O O B-gpe O O O O O O O O O O O O O O,"NNP VBZ VBN JJ NNS IN VBG NN , VBG TO DT NN IN JJ JJ NNS ."

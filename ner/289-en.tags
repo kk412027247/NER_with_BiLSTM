@@ -1,0 +1,8 @@
+"Authorities in Indian Kashmir say suspected Islamic militants have detonated a grenade , wounding at least six people , including two policemen .",O O B-gpe B-geo O O O O O O O O O O O O O O O O O O O,"NNS IN JJ NNP VBP JJ JJ NNS VBP VBN DT NN , VBG IN JJS CD NNS , VBG CD NNS ."
+The authorities say the blast occurred Saturday near a security post in a crowded business district in the heart of Srinagar .,O O O O O O B-tim O O O O O O O O O O O O O B-geo O,DT NNS VBP DT NN VBD NNP IN DT NN NN IN DT JJ NN NN IN DT NN IN NNP .
+"They say the attackers apparently missed their intended target , a patrol of paramilitary soldiers .",O O O O O O O O O O O O O O O O,"PRP VBP DT NNS RB VBD PRP$ JJ NN , DT NN IN JJ NNS ."
+The wounded were taken to nearby hospitals .,O O O O O O O O,DT VBN VBD VBN TO JJ NNS .
+Police cordoned off the area and were searching for the attackers .,O O O O O O O O O O O O,NNS VBD RP DT NN CC VBD VBG IN DT NNS .
+No one has claimed responsibility for the attack .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+Muslim separatists in Indian Kashmir have been fighting for an independent Kashmir or its merger with neighboring Pakistan since 1989 .,B-org O O O B-geo O O O O O O B-geo O O O O O B-geo O B-tim O,NNP NNS IN JJ NNP VBP VBN VBG IN DT JJ NNP CC PRP$ NN IN VBG NNP IN CD .
+Their fight against Indian rule has killed tens of thousands of people .,O O O B-gpe O O O O O O O O O,PRP$ NN IN JJ NN VBZ VBN NNS IN NNS IN NNS .

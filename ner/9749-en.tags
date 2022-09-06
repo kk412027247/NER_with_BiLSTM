@@ -1,0 +1,3 @@
+"Amid rising gasoline prices and slumping U.S. sales , international auto giant General Motors announced a plan Tuesday [ July 15th ] to cut expenses and shift production to more fuel-efficient cars .",O O O O O O B-geo O O O O O B-org I-org O O O B-tim O B-tim I-tim O O O O O O O O O O O O,"IN VBG NN NNS CC VBG NNP NNS , JJ NN NN NNP NNP VBD DT NN NNP LRB NNP CD RRB TO VB NNS CC NN NN TO JJR JJ NNS ."
+"Company officials say they will lay off workers , cut truck production and suspend its stock dividend .",O O O O O O O O O O O O O O O O O O,"NN NNS VBP PRP MD VB RP NNS , VB NN NN CC VB PRP$ NN NN ."
+VOA 's Jeff Swicord Reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

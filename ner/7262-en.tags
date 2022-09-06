@@ -1,0 +1,6 @@
+Syrian President Bashar al-Assad has banned smoking in a wide range of public places .,B-gpe B-per I-per I-per O O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN NN IN DT JJ NN IN JJ NNS .
+"Mr. Assad announced the ban Sunday , forbidding smoking in restaurants , cafes , movie theaters , educational institutions and hospitals .",B-per I-per O O O B-tim O O O O O O O O O O O O O O O O,"NNP NNP VBD DT NN NNP , VBG NN IN NNS , NNS , NN NNS , JJ NNS CC NNS ."
+Smoking will also be banned on public transportation .,O O O O O O O O O,VBG MD RB VB VBN IN JJ NN .
+The measure includes the use of water pipes favored by locals and tourists alike .,O O O O O O O O O O O O O O O,DT NN VBZ DT NN IN NN NNS VBN IN NNS CC NNS RB .
+Violators of the ban face a fine of about $ 45 .,O O O O O O O O O O O O,NNS IN DT NN VBP DT NN IN IN $ CD .
+"Earlier this year , Syria issued a law forbidding the sale of tobacco to those under 18 years of age .",O O O O B-org O O O O O O O O O O O B-tim O O O O,"RBR DT NN , NNP VBD DT NN VBG DT NN IN NN TO DT IN CD NNS IN NN ."

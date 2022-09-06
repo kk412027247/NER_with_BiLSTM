@@ -1,0 +1,6 @@
+Health officials in Nigeria say 46 people are dead and 100 others hospitalized after a cholera outbreak in a southwestern village .,O O O B-geo O O O O O O O O O O O O O O O O O O,NNP NNS IN NNP VBP CD NNS VBP JJ CC CD NNS VBN IN DT NN NN IN DT JJ NN .
+"The outbreak began two weeks ago in Kusa , about 50 kilometers from the city of Ibadan , the capital of the state of Oyo .",O O O B-tim O O O B-geo O O O O O O O O B-geo O O O O O O O B-geo O,"DT NN VBD CD NNS RB IN NNP , IN CD NNS IN DT NN IN NNP , DT NN IN DT NN IN NNP ."
+State government officials say they rushed medical teams to Kusa and surrounding villages and towns .,O O O O O O O O O B-geo O O O O O O,NNP NN NNS VBP PRP VBD JJ NNS TO NNP CC VBG NNS CC NNS .
+The outbreak is now under control .,O O O O O O O,DT NN VBZ RB IN NN .
+"Cholera is a waterborne disease that causes vomiting , diarrhea and dehydration , and can be fatal if not treated quickly .",O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ DT JJ NN WDT VBZ NN , NN CC NN , CC MD VB JJ IN RB VBN RB ."
+Oyo state health officials say the outbreak was caused by contaminated water .,B-geo O O O O O O O O O O O O,NNP NN NN NNS VBP DT NN VBD VBN IN JJ NN .

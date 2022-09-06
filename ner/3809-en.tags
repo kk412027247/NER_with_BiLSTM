@@ -1,0 +1,8 @@
+U.S. and Iraqi officials say insurgents killed at least 13 people in several attacks across Iraq Monday .,B-geo O B-gpe O O O O O O O O O O O O B-geo B-tim O,NNP CC JJ NNS VBP NNS VBN IN JJS CD NNS IN JJ NNS IN NNP NNP .
+The officials say two car bombs in western Baghdad killed five people each .,O O O O O O O B-geo I-geo O O O O O,DT NNS VBP CD NN NNS IN JJ NNP VBD CD NNS DT .
+One of the cars exploded near a courthouse .,O O O O O O O O O,CD IN DT NNS VBD IN DT NN .
+Insurgents killed at least two people in drive-by shootings outside the capital .,O O O O O O O O O O O O O,NNS VBD IN JJS CD NNS IN JJ NNS IN DT NN .
+"Elsewhere , the U.S. military in Iraq says a roadside bomb killed an American soldier southeast of Baghdad .",O O O B-geo O O B-geo O O O O O O B-gpe O O O B-geo O,"RB , DT NNP NN IN NNP VBZ DT NN NN VBD DT JJ NN NN IN NNP ."
+"And the bodies of two Iraqi journalists were found Monday , one day after they were abducted .",O O O O O B-gpe O O O B-tim O O O O O O O O,"CC DT NNS IN CD JJ NNS VBD VBN NNP , CD NN IN PRP VBD VBN ."
+Authorities also found the bodies of three police commandos kidnapped last week .,O O O O O O O O O O O O O,NNS RB VBD DT NNS IN CD NNS VBZ VBN JJ NN .
+"In a separate statement , the U.S. military says troops killed Ali Wali , an explosives expert and member of the Ansar al-Islam terrorist group , during a counterterrorist raid in ( the Mansur district of ) Baghdad on Saturday .",O O O O O O B-geo O O O O B-per I-per O O O O O O O O B-org I-org O O O O O O O O O O B-geo O O O B-geo O B-tim O,"IN DT JJ NN , DT NNP NN VBZ NNS VBD NNP NNP , DT NNS NN CC NN IN DT NNP NNP JJ NN , IN DT NN NN IN LRB DT NNP NN IN RRB NNP IN NNP ."

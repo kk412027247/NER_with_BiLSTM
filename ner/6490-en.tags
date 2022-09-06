@@ -1,0 +1,7 @@
+Turkish authorities say troops killed 10 Kurdish rebels in two operations since Monday .,B-gpe O O O O O O O O O O O B-tim O,JJ NNS VBP NNS VBD CD JJ NNS IN CD NNS IN NNP .
+The officials say seven rebels were killed in fighting with soldiers in Siirt province .,O O O O O O O O O O O O B-geo O O,DT NNS VBP CD NNS VBD VBN IN VBG IN NNS IN NNP NN .
+Three other rebels were shot and killed in Van province .,O O O O O O O O B-geo O O,CD JJ NNS VBD VBN CC VBN IN NNP NN .
+Authorities believe the three entered the area from Iran .,O O O O O O O O B-geo O,NNS VBP DT CD VBD DT NN IN NNP .
+Turkey 's military has recently intensified operations against the separatist Kurdistan Workers Party ( PKK ) .,B-org O O O O O O O O O B-org I-org I-org O B-org O O,NNP POS NN VBZ RB VBN NNS IN DT JJ NNP NNP NNP LRB NNP RRB .
+The PKK has been fighting for autonomy in Turkey 's mainly Kurdish southeast since 1984 .,O B-org O O O O O O B-org O O O O O B-tim O,DT NNP VBZ VBN VBG IN NN IN NNP POS RB JJ NN IN CD .
+"The United States , the European Union and Turkey classify the PKK as a terrorist group .",O B-geo I-geo O O B-org I-org I-org I-org O O B-org O O O O O,"DT NNP NNPS , DT NNP NNP CC NNP VBP DT NNP IN DT JJ NN ."

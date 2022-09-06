@@ -1,0 +1,5 @@
+"When fireworks light the sky at the Beijing Olympics opening ceremonies , Cai Guo-Quiang will be making art .",O O O O O O O B-geo I-geo O O O B-per I-per O O O O O,"WRB NNS VB DT NN IN DT NNP NNPS NN NNS , NNP NNP MD VB VBG NN ."
+This Chinese born artist who now calls New York home creates artwork from fireworks and gunpowder .,O B-gpe O O O O O B-geo I-geo O O O O O O O O,DT JJ VBN NN WP RB VBZ NNP NNP NN VBZ NN IN NNS CC NN .
+He is currently designing the computer-controlled firework spectacle that will mark the start of the Beijing games .,O O O O O O O O O O O O O O O B-geo O O,PRP VBZ RB VBG DT JJ NN NN WDT MD VB DT NN IN DT NNP NNS .
+"Recently , his work was on display at New York 's Guggenheim Museum in an exhibit called I Want to Believe .",O O O O O O O O B-geo I-geo O B-geo I-geo O O O O O O O O O,"RB , PRP$ NN VBD IN NN IN NNP NNP POS NNP NNP IN DT NN VBD PRP VBP TO VB ."
+"For producer Wang Yiru , Elaine Lu has the story .",O O B-per I-per O B-per I-per O O O O,"IN NN NNP NNP , NNP NNP VBZ DT NN ."

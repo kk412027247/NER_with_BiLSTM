@@ -1,0 +1,7 @@
+Chinese state media say a flood in a coal mine in northeastern China has killed 22 miners .,B-gpe O O O O O O O O O O O B-geo O O O O O,JJ NN NNS VBP DT NN IN DT NN NN IN JJ NNP VBZ VBN CD NNS .
+The Xinhua news agency reports Sunday that seven other miners are missing .,O B-org O O O B-tim O O O O O O O,DT NNP NN NN VBZ NNP IN CD JJ NNS VBP VBG .
+"The accident took place Saturday night at a state-owned mine in Fushan , an industrial city in Liaoning province .",O O O O B-tim I-tim O O O O O B-geo O O O O O O O O,"DT NN VBD NN NNP NN IN DT JJ NN IN NNP , DT JJ NN IN VBG NN ."
+Rescue operations are under way .,O O O O O O,NN NNS VBP IN NN .
+Xinhua says the mine is considered one of the 45 most dangerous coal mines the country .,B-org O O O O O O O O O O O O O O O O,NNP VBZ DT NN VBZ VBN CD IN DT CD RBS JJ NN NNS DT NN .
+China 's mining industry is one of the most dangerous in the world .,B-geo O O O O O O O O O O O O O,NNP POS NN NN VBZ CD IN DT RBS JJ IN DT NN .
+"Last year , nearly 5,000 people died in accidents , an average of 13 deaths a day .",O O O O O O O O O O O O O O O O O O,"JJ NN , RB CD NNS VBD IN NNS , DT NN IN CD NNS DT NN ."

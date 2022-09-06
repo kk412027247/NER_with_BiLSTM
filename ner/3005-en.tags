@@ -1,0 +1,9 @@
+The state-run Russian company building Iran 's nuclear power station says the launch date has been postponed because of Iran 's payment delays .,O O B-gpe O O B-geo O O O O O O O O O O O O O B-geo O O O O,DT JJ JJ NN VBG NNP POS JJ NN NN VBZ DT NN NN VBZ VBN VBN IN IN NNP POS NN NNS .
+Officials at Atomstroyexport say it is impossible to launch the reactor in September .,O O B-geo O O O O O O O O O B-tim O,NNS IN NNP VBP PRP VBZ JJ TO VB DT NN IN NNP .
+They added there will be no delivery of nuclear fuel this month as earlier agreed .,O O O O O O O O O O O O O O O O,PRP VBD EX MD VB DT NN IN JJ NN DT NN IN JJR VBD .
+Russia has accused Iran of missing payments on the nuclear plant .,B-geo O O B-geo O O O O O O O O,NNP VBZ VBN NNP IN VBG NNS IN DT JJ NN .
+Iran has denied the claim .,B-geo O O O O O,NNP VBZ VBN DT NN .
+"Iranian and Russian officials met in Moscow last week , but failed to solve their financial dispute .",B-gpe O B-gpe O O O B-tim O O O O O O O O O O O,"JJ CC JJ NNS VBD IN NNP JJ NN , CC VBD TO VB PRP$ JJ NN ."
+"Russia 's Interfax news agency quotes a Russian foreign ministry spokesman , Andre Krivtsov , as saying Moscow hopes the two countries will find a mutual solution to their funding problem .",B-geo O B-geo O O O O B-gpe O O O O B-per I-per O O O B-tim O O O O O O O O O O O O O O,"NNP POS NNP NN NN VBZ DT JJ JJ NN NN , NNP NNP , IN VBG NNP VBZ DT CD NNS MD VB DT JJ NN TO PRP$ NN NN ."
+The United Nations Security Council has expressed concern that Iran could use uranium enrichment technology to develop nuclear weapons .,O B-org I-org I-org I-org O O O O B-geo O O O O O O O O O O,DT NNP NNP NNP NNP VBZ VBN NN IN NNP MD VB NN NN NN TO VB JJ NNS .
+Iran says its nuclear program is only for energy purposes .,B-geo O O O O O O O O O O,NNP VBZ PRP$ JJ NN VBZ RB IN NN NNS .

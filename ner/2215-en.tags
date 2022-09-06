@@ -1,0 +1,8 @@
+"Brazilian drug gangs have stepped up their resistance to an army operation in the slums of Rio de Janeiro , clashing with troops during daylight hours .",B-gpe O O O O O O O O O O O O O O O B-org I-org I-org O O O O O O O O,"JJ NN NNS VBP VBN RP PRP$ NN TO DT NN NN IN DT NNS IN NNP NNP NNP , VBG IN NNS IN JJ NNS ."
+"The two sides exchanged gunfire , with gangs lobbing grenades , in the downtown Providencia shantytown Friday .",O O O O O O O O O O O O O O B-tim I-tim I-tim O,"DT CD NNS VBD NN , IN NNS VBG NNS , IN DT NN NNP NN NNP ."
+"A man , woman and young boy were wounded by fragments during the battle .",O O O O O O O O O O O O O O O,"DT NN , NN CC JJ NN VBD VBN IN NNS IN DT NN ."
+The army launched the show of force one week ago in response to the theft of 11 weapons from a military barracks .,O O O O O O O B-tim O O O O O O O O O O O O O O O,DT NN VBD DT NN IN NN CD NN RB IN NN TO DT NN IN CD NNS IN DT JJ NNS .
+"About 1,500 troops have been mobilized in several slum areas .",O O O O O O O O O O O,IN CD NNS VBP VBN VBN IN JJ NN NNS .
+"While residents from other areas have welcomed the security crackdown , critics have questioned the use of the military in a police role and slum dwellers have complained their lives have been disrupted .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN NNS IN JJ NNS VBP VBN DT NN NN , NNS VBP VBN DT NN IN DT NN IN DT NN NN CC NN NNS VBP VBN PRP$ NNS VBP VBN VBN ."
+Rio is one of the world 's most violent cities .,B-org O O O O O O O O O O,NNP VBZ CD IN DT NN POS RBS JJ NNS .
+Its slums are often the scene of gang and drug-related violence that kills hundreds of people each year .,O O O O O O O O O O O O O O O O B-tim O O,PRP$ NNS VBP RB DT NN IN NN CC JJ NN WDT VBZ NNS IN NNS DT NN .

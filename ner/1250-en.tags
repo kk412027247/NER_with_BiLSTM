@@ -1,0 +1,6 @@
+"Japan Airlines says it will purchase 30 Boeing 7E7 Dreamliner aircraft , with an option to buy 20 more .",B-org I-org O O O O O B-art I-art I-art O O O O O O O O O O,"NNP NNP VBZ PRP MD VB CD NNP NNP NNP NN , IN DT NN TO VB CD JJR ."
+"The price of the deal was not disclosed , but could be around $ 4 billion .",O O O O O O O O O O O O O O O O O,"DT NN IN DT NN VBD RB VBN , CC MD VB IN $ CD CD ."
+Japan Airlines is expected to receive its first Boeing Dreamliner in 2008 .,B-org I-org O O O O O O B-art I-art O B-tim O,NNP NNP VBZ VBN TO VB PRP$ JJ NNP NNP IN CD .
+Boeing and European rival Airbus were competing for the Japan Airlines deal .,B-org O O O B-org O O O O B-org I-org O O,NNP CC JJ NN NNP VBD VBG IN DT NNP NNPS NN .
+Boeing and Airbus have been battling in recent months to win contracts with Asian airliners .,B-org O B-org O O O O O O O O O O O O O,NNP CC NNP VBP VBN VBG IN JJ NNS TO VB NNS IN JJ NNS .
+"Boeing recently reached a deal with Japan 's All Nippon Airways , while Airbus inked a contract with Malaysia 's AirAsia .",B-org O O O O O B-geo O B-org I-org I-org O O B-org O O O O B-gpe O B-org O,"NNP RB VBD DT NN IN NNP POS NNP NNP NNP , IN NNP VBD DT NN IN NNP POS NNP ."

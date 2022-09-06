@@ -1,0 +1,9 @@
+Afghan officials say a roadside bomb has killed three Afghans and two foreigners in the country 's south .,B-gpe O O O O O O O O B-gpe O O O O O O O O O,JJ NNS VBP DT NN NN VBZ VBN CD NNS CC CD NNS IN DT NN POS NN .
+Officials say the victims worked for an American security company ( USPI ) and were killed on the road linking Kandahar with Herat .,O O O O O O O B-gpe O O O B-org O O O O O O O O B-geo O B-geo O,NNS VBP DT NNS VBD IN DT JJ NN NN LRB NNP RRB CC VBD VBN IN DT NN VBG NNP IN NNP .
+The nationalities of the two foreigners is not clear .,O O O O O O O O O O,DT NNS IN DT CD NNS VBZ RB JJ .
+The Taleban are being blamed for the attack .,O B-org O O O O O O O,DT NNP VBP VBG VBN IN DT NN .
+"In a separate incident , a suicide bomber blew up himself and his accomplice in the center of Kandahar city Tuesday .",O O O O O O O O O O O O O O O O O O B-geo O B-tim O,"IN DT JJ NN , DT NN NN VBD RP PRP CC PRP$ NN IN DT NN IN NNP NN NNP ."
+There were no other casualties .,O O O O O O,EX VBD DT JJ NNS .
+"The governor of Kandahar province , Asadullah Khalid , blamed the attack on people he considers Taleban militants .",O O O B-geo O O B-per I-per O O O O O O O O B-org O O,"DT NN IN NNP NN , NNP NNP , VBD DT NN IN NNS PRP VBZ NNP NNS ."
+Taleban insurgents have increased attacks in southern Afghanistan in recent months .,B-org O O O O O B-geo I-geo O B-tim O O,NNP NNS VBP VBN NNS IN JJ NNP IN JJ NNS .
+"U.S.-led forces overthrew the hardline Islamist Taleban regime in late 2001 , following the September 11 terrorist attacks in the United States .",O O O O O B-org I-org O O O B-tim O O O B-tim I-tim O O O O B-geo I-geo O,"JJ NNS VBP DT JJ NNP NNP NN IN JJ CD , VBG DT NNP CD JJ NNS IN DT NNP NNPS ."

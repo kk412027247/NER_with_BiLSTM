@@ -1,0 +1,5 @@
+A SERPENT and an Eagle were struggling with each other in deadly conflict .,O O O O B-org O O O O O O O O O,DT NN CC DT NNP VBD VBG IN DT NN IN JJ NN .
+"The Serpent had the advantage , and was about to strangle the bird .",O O O O O O O O O O O O O O,"DT NNP VBD DT NN , CC VBD IN TO VB DT NN ."
+"A countryman saw them , and running up , loosed the coil of the Serpent and let the Eagle go free .",O O O O O O O O O O O O O O O O O O B-org O O O,"DT NN VBD PRP , CC VBG RP , VBD DT NN IN DT NNP CC VB DT NNP VB JJ ."
+"The Serpent , irritated at the escape of his prey , injected his poison into the drinking horn of the countryman .",O O O O O O O O O O O O O O O O O O O O O O,"DT NNP , VBD IN DT NN IN PRP$ NN , VBD PRP$ NN IN DT NN NN IN DT NN ."
+"The rustic , ignorant of his danger , was about to drink , when the Eagle struck his hand with his wing , and , seizing the drinking horn in his talons , carried it aloft .",O O O O O O O O O O O O O O O B-org O O O O O O O O O O O O O O O O O O O O O,"DT JJ , NN IN PRP$ NN , VBD IN TO VB , WRB DT NNP VBD PRP$ NN IN PRP$ NN , CC , VBG DT NN NN IN PRP$ NNS , VBD PRP RB ."

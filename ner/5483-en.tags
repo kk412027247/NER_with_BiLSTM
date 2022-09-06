@@ -1,0 +1,5 @@
+"American Idol Thursday , March 8 narrowed the field of contestants to 12 .",B-org I-org B-tim I-tim I-tim I-tim O O O O O O O O,"JJ NNP NNP , NNP CD VBD DT NN IN NNS TO CD ."
+"Viewers submitted 37 million phone calls and text messages , eliminating Antonella Barba , Jared Cotter , Jason "" Sundance "" Head , and Sabrina Sloan .",O O O O O O O O O O O B-per I-per O B-per I-per O B-per I-per I-per I-per I-per O O B-per I-per O,"NNS VBD CD CD NN NNS CC NN NNS , VBG NNP NNP , NNP NNP , NNP RQU NNP RQU NNP , CC NNP NNP ."
+Six men and six women now vie for a record contract .,O O O O O O O O O O O O,CD NNS CC CD NNS RB VBP IN DT NN NN .
+"Now in its sixth season , American Idol continues to dominate U.S. television ratings , attracting between 27 and 37 million viewers a week .",O O O O O O B-org I-org O O O B-geo O O O O O O O O O O O O O,"RB IN PRP$ JJ NN , NNP NNP VBZ TO VB NNP NN NNS , VBG IN CD CC CD CD NNS DT NN ."
+The winner will be announced May 23 .,O O O O O B-tim I-tim O,DT NN MD VB VBN NNP CD .

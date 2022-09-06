@@ -1,0 +1,7 @@
+Iraqis are paying tribute to the journalist who threw his shoes at then-President George Bush at a statue dedicated to the incident .,B-gpe O O O O O O O O O O O O B-per I-per O O O O O O O O,NNS VBP VBG NN TO DT NN WP VBD PRP$ NNS IN JJ NNP NNP IN DT NN VBN TO DT NN .
+"A large bronze sculpture of a shoe , accompanied by an ode to journalist Muntazer al-Zaidi , was unveiled Thursday in Tikrit .",O O O O O O O O O O O O O O B-per I-per O O O B-tim O B-geo O,"DT JJ NN NN IN DT NN , VBN IN DT NN TO NN NNP NNP , VBD VBN NNP IN NNP ."
+"Zaidi gained instant fame during a Baghdad news conference last month , throwing his shoes to express his anger at the U.S.-led invasion of his country .",B-per O O O O O B-geo O O O O O O O O O O O O O O O O O O O O,"NNP VBD JJ NN IN DT NNP NN NN JJ NN , VBG PRP$ NNS TO VB PRP$ NN IN DT JJ NN IN PRP$ NN ."
+His act inspired thousands across the Middle East to carry shoes in rallies of solidarity .,O O O O O O B-geo I-geo O O O O O O O O,PRP$ NN VBD NNS IN DT NNP NNP TO VB NNS IN NNS IN NN .
+He is currently in jail awaiting trial .,O O O O O O O O,PRP VBZ RB IN NN VBG NN .
+Tikrit is the hometown of former Iraqi President Saddam Hussein .,B-geo O O O O O B-gpe B-per I-per I-per O,NNP VBZ DT NN IN JJ JJ NNP NNP NNP .
+"After a Baghdad statue of Saddam was toppled in 2003 , Iraqis displayed their disgust with him by hitting the sculpture with shoes and slippers .",O O B-geo O O B-per O O O B-tim O B-gpe O O O O O O O O O O O O O O,"IN DT NNP NN IN NNP VBD VBN IN CD , NNS VBD PRP$ NN IN PRP IN VBG DT NN IN NNS CC NNS ."

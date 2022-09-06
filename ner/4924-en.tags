@@ -1,0 +1,6 @@
+The International Committee of the Red Cross says 15 people have died in ethnic clashes around the western Ivory Coast town of Duekoue .,B-org I-org I-org O O B-geo I-geo O O O O O O O O O O O B-geo I-geo O O B-geo O,DT NNP NNP IN DT NNP NNP VBZ CD NNS VBP VBN IN JJ NNS IN DT JJ NNP NNP NN IN NNP .
+"The agency says at least 6,000 people have fled last week 's violence between between indigenous tribes and migrant farm workers .",O O O O O O O O O O O O O O O O O O O O O O,DT NN VBZ IN JJS CD NNS VBP VBN JJ NN POS NN IN IN JJ NNS CC JJ NN NNS .
+The mayor of Duekoue told Reuters news agency that U.N. soldiers are patrolling the town and surrounding villages .,O O O B-geo O B-org O O O B-geo O O O O O O O O O,DT NN IN NNP VBD NNP NN NN IN NNP NNS VBP VBG DT NN CC VBG NNS .
+He said shops have reopened and public transportation is resuming .,O O O O O O O O O O O,PRP VBD NNS VBP VBN CC JJ NN VBZ VBG .
+"Ethnic tension is common in the region , but it has been exacerbated by Ivory Coast 's civil war which started in 2002 .",O O O O O O O O O O O O O O B-geo I-geo O O O O O O B-tim O,"NNP NN VBZ JJ IN DT NN , CC PRP VBZ VBN VBN IN NNP NNP POS JJ NN WDT VBD IN CD ."
+"The country remains divided between the rebel-held north , and the government-controlled south .",O O O O O O O O O O O O O O,"DT NN VBZ VBN IN DT JJ NN , CC DT JJ NN ."

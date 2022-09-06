@@ -1,0 +1,5 @@
+"HEARING that the Birds in an aviary were ill , a Cat went to them and said that he was a physician , and would cure them if they would let him in .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"VBG IN DT NNS IN DT NN VBD RB , DT NN VBD TO PRP CC VBD IN PRP VBD DT NN , CC MD VB PRP IN PRP MD VB PRP IN ."
+""" To what school of medicine do you belong ? "" asked the Birds .",O O O O O O O O O O O O O O O,LQU IN WP NN IN NN VBP PRP VB . RQU VBD DT NNS .
+""" I am a Miaulopathist , "" said the Cat .",O O O O O O O O O O O,"LQU PRP VBP DT NN , RQU VBD DT NNP ."
+""" Did you ever practise Gohomoeopathy ? "" the Birds inquired , winking faintly .",O O O O O B-art O O O O O O O O O,"LQU VBD PRP RB VB NNP . RQU DT NNPS VBD , VBG RB ."
+The Cat took the hint and his leave .,O O O O O O O O O,DT NN VBD DT NN CC PRP$ NN .

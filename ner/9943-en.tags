@@ -1,0 +1,8 @@
+News reports said a small aircraft that crashed in northeast China may have been a North Korean fighter jet .,O O O O O O O O O O B-geo O O O O O B-gpe O O O,NNP NNS VBD DT JJ NN WDT VBD IN NN NNP MD VB VBN DT JJ JJ NN NN .
+"Beijing 's official Xinhua news agency said the aircraft went down Tuesday in Fushun County , located in Liaoning province .",B-geo O O B-org O O O O O O O B-tim O B-geo I-geo O O O O O O,"NNP POS JJ NNP NN NN VBD DT NN VBD RB NNP IN NNP NNP , VBN IN VBG NN ."
+"An unnamed government source told Xinhua the jet "" might be "" a North Korean plane .",O O O O O B-org O O O O O O O O B-gpe O O,DT JJ NN NN VBD NNP DT NN LQU MD VB LQU DT JJ JJ NN .
+Xinhua did not identify the pilot or the aircraft .,B-org O O O O O O O O O,NNP VBD RB VB DT NN CC DT NN .
+"South Korea 's Yonhap news agency said intelligence sources believe the aircraft appeared to be a Soviet-era jet fighter , after earlier reporting said it may have been a helicopter .",B-geo I-geo O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP POS NNP NN NN VBD NN NNS VBP DT NN VBD TO VB DT JJ NN NN , IN RBR VBG VBD PRP MD VB VBN DT NN ."
+The anonymous sources said the pilot could have lost his way while flying to Russia .,O O O O O O O O O O O O O O B-geo O,DT JJ NNS VBD DT NN MD VB VBN PRP$ NN IN VBG TO NNP .
+"Yonhap said the pilot , who was the only person on board the aircraft , was killed .",B-geo O O O O O O O O O O O O O O O O O,"NNP VBD DT NN , WP VBD DT JJ NN IN NN DT NN , VBD VBN ."
+"Fushun is located about 150 kilometers from the North Korean city of Sinuiju , where a military airbase is located .",B-geo O O O O O O O O B-gpe O O B-geo O O O O O O O O,"NNP VBZ VBN IN CD NNS IN DT JJ JJ NN IN NNP , WRB DT JJ NN VBZ VBN ."

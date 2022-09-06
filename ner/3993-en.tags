@@ -1,0 +1,8 @@
+China is criticizing U.S. moves aimed at protecting the domestic textile industry .,B-geo O O B-geo O O O O O O O O O,NNP VBZ VBG NNP NNS VBN IN VBG DT JJ NN NN .
+A Chinese foreign ministry spokesman Qin Gang says Washington 's actions are unreasonable and protectionist .,O B-gpe O O O B-per I-per O B-geo O O O O O O O,DT JJ JJ NN NN NNP NNP VBZ NNP POS NNS VBP JJ CC NN .
+Monday the U.S. Commerce Department said it has begun an investigation into whether a recent surge in Chinese textile imports is disrupting the U.S. market .,B-tim O B-org I-org I-org O O O O O O O O O O O O B-gpe O O O O O B-geo O O,NNP DT NNP NNP NNP VBD PRP VBZ VBN DT NN IN IN DT JJ NN IN JJ NN NNS VBZ VBG DT NNP NN .
+The review is the first step in a process that could lead to the re-imposition of quotas on certain products .,O O O O O O O O O O O O O O O O O O O O O,DT NN VBZ DT JJ NN IN DT NN WDT MD VB TO DT NN IN NNS IN JJ NNS .
+"The investigation will cover imports of trousers , knit shirts , and underwear .",O O O O O O O O O O O O O O,"DT NN MD VB NNS IN NNS , NN NNS , CC NN ."
+"Imports of trousers rose 1,500 percent in the first quarter of this year over the same period last year .",O O O O O O O O B-tim I-tim I-tim O O O O O B-tim O O O,NNS IN NNS VBD CD NN IN DT JJ NN IN DT NN IN DT JJ NN JJ NN .
+"Imports of knit shirts were up 1,250 percent .",O O O O O O O O O,NNS IN NN NNS VBD RB CD NN .
+A global quota system on textile imports expired at the end of 2004 .,O O O O O O O O O O B-tim I-tim I-tim O,DT JJ NN NN IN JJ NNS VBD IN DT NN IN CD .

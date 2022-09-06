@@ -1,0 +1,9 @@
+Japan 's foreign minister is in Afghanistan on an unannounced visit to meet with President Hamid Karzai and Foreign Minister Rangin Dadfar Spanta .,B-geo O O O O O B-geo O O O O O O O B-per I-per I-per O O O B-per I-per I-per O,NNP POS JJ NN VBZ IN NNP IN DT JJ NN TO VB IN NNP NNP NNP CC NNP NNP NNP NNP NNP .
+Masahiko Komuri arrived in Kabul Sunday after a visit to Pakistan .,B-org I-org O O B-geo B-tim O O O O B-geo O,NNP NNP VBD IN NNP NNP IN DT NN TO NNP .
+He was expected to discuss security issues and Afghan reconstruction with Mr. Karzai and with Spanta .,O O O O O O O O B-gpe O O B-per B-org O O B-per O,PRP VBD VBN TO VB NN NNS CC JJ NN IN NNP NNP CC IN NNP .
+The French news agency reports that Komura asked his Afghan counterpart to work on improving relations with Pakistan .,O B-gpe O O O O B-geo O O B-gpe O O O O O O O B-geo O,DT JJ NN NN NNS IN NNP VBD PRP$ JJ NN TO VB IN VBG NNS IN NNP .
+The two nations have been struggling with armed militants sheltering along their mutual border .,O O O O O O O O O O O O O O O,DT CD NNS VBP VBN VBG IN JJ NNS VBG IN PRP$ JJ NN .
+Japan said Komuri 's visit was not announced ahead of time because of safety concerns .,B-geo O B-geo O O O O O O O O O O O O O,NNP VBD NNP POS NN VBD RB VBN RB IN NN IN IN NN NNS .
+President Karzai was the target of a bomb attack on April 27 .,B-per I-per O O O O O O O O B-tim I-tim O,NNP NNP VBD DT NN IN DT NN NN IN NNP CD .
+"In Pakistan Saturday , Komuri met with President Pervez Musharraf and Prime Minister Yousuf Raza Gilani , as well as Foreign Minister Shah Mehmood Qureshi .",O B-geo B-tim O B-geo O O B-per I-per I-per O B-per O B-per I-per I-per O O O O O O B-per I-per I-per O,"IN NNP NNP , NNP VBD IN NNP NNP NNP CC NNP NNP NNP NNP NNP , RB RB IN NNP NNP NNP NNP NNP ."
+Talks there centered on terrorism and cooperation on infrastructure projects .,O O O O O O O O O O O,NNS RB VBD IN NN CC NN IN NN NNS .

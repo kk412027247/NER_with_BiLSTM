@@ -1,0 +1,6 @@
+"A tour bus crash in Jordan has killed six people and injured 28 others , including an Iraqi minister .",O O O O O B-gpe O O O O O O O O O O O B-gpe O O,"DT NN NN NN IN NNP VBZ VBN CD NNS CC VBN CD NNS , VBG DT JJ NN ."
+"Security officials say the victims were on a bus that was returning from the Dead Sea to the capital Amman , late Thursday .",O O O O O O O O O O O O O O B-geo I-geo O O O B-geo O O B-tim O,"NN NNS VBP DT NNS VBD IN DT NN WDT VBD VBG IN DT NNP NNP TO DT NN NNP , JJ NNP ."
+Authorities say two British women and four Iraqis were killed .,O O O B-gpe O O O B-gpe O O O,NNS VBP CD JJ NNS CC CD NNS VBD VBN .
+"Iraqi Minister of Science and Technology Raed Fahmi was hospitalized , with injuries .",B-gpe O O O O B-org I-org I-org O O O O O O,"JJ NNP IN NNP CC NNP NNP NNP VBD VBN , IN NNS ."
+The bus passengers were taking part in a United Nations Development Program training course for Iraqis .,O O O O O O O O B-org I-org I-org I-org O O O B-gpe O,DT NN NNS VBD VBG NN IN DT NNP NNP NNP NNP NN NN IN NNS .
+The two women killed were employees of the training program .,O O O O O O O O O O O,DT CD NNS VBN VBD NNS IN DT NN NN .

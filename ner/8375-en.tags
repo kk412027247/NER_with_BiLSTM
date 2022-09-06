@@ -1,0 +1,5 @@
+"The bulk of the population depends on agriculture , fishing , and forestry for at least part of its livelihood .",O O O O O O O O O O O O O O O O O O O O O,"DT NN IN DT NN VBZ IN NN , NN , CC NN IN IN JJS NN IN PRP$ NN ."
+Most manufactured goods and petroleum products must be imported .,O O O O O O O O O O,JJS JJ NNS CC NN NNS MD VB VBN .
+"The islands are rich in undeveloped mineral resources such as lead , zinc , nickel , and gold .",O O O O O O O O O O O O O O O O O O O,"DT NNS VBP JJ IN JJ NN NNS JJ IN NN , NN , NN , CC NN ."
+"Prior to the arrival of RAMSI , severe ethnic violence , the closing of key businesses , and an empty government treasury culminated in economic collapse .",O O O O O B-org O O O O O O O O O O O O O O O O O O O O O,"RB TO DT NN IN NNP , JJ JJ NN , DT NN IN JJ NNS , CC DT JJ NN NN VBD IN JJ NN ."
+RAMSI 's efforts to restore law and order and economic stability have led to modest growth as the economy rebuilds .,B-org O O O O O O O O O O O O O O O O O O O O,NNP POS NNS TO VB NN CC NN CC JJ NN VBP VBN TO JJ NN IN DT NN VBZ .

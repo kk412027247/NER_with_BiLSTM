@@ -1,0 +1,8 @@
+Poland has defeated host Portugal at a men 's volleyball tournament to qualify for the Beijing Olympic tournament .,B-org O O O B-org O O O O O O O O O O B-geo O O O,NNP VBZ VBN NN NNP IN DT NNS POS NN NN TO VB IN DT NNP NNP NN .
+"The 2006 second-place winner in the World Championships earned its place Sunday with a 25-21 , 25-19 , 26-24 victory that secured first place in the four-team event in Espinho .",O B-tim O O O O B-eve I-eve O O O B-tim O O O O O O O O O O O O O O O O O B-geo O,"DT CD JJ NN IN DT NNP NNP VBD PRP$ NN NNP IN DT JJ , JJ , JJ NN WDT VBD JJ NN IN DT JJ NN IN NNP ."
+Poland advances to the Summer Games for the third time in four editions .,B-org O O O B-eve I-eve O O O O O O O O,NNP NNS TO DT NNPS NNPS IN DT JJ NN IN CD NNS .
+The loss denied Portugal its first ever chance to compete at the Olympics .,O O O B-per O O O O O O O O B-geo O,DT NN VBD NNP PRP$ JJ RB NN TO VB IN DT NNP .
+"Poland joins China , Brazil , Russia , Bulgaria , Egypt , Serbia , the United States , Venezuela and Germany at the Olympics .",B-org O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O O B-geo I-geo O B-geo O B-geo O O B-geo O,"NNP VBZ NNP , NNP , NNP , NNP , NNP , NNP , DT NNP NNPS , NNP CC NNP IN DT NNP ."
+"Also Sunday , Puerto Rico beat Indonesia , 25-21 , 25-21 , 25-22 , to place third .",O B-tim O B-geo I-geo O B-geo O O O O O O O O O B-tim O,"RB NNP , NNP NNP VBD NNP , CD , CD , CD , TO VB JJ ."
+But only the winner of the tournament qualified for the games in August .,O O O O O O O O O O O B-tim I-tim O,CC RB DT NN IN DT NN VBD IN DT NNS IN NNP .
+The final two teams will emerge from the last qualifier under way in Japan .,O O O O O O O O O O O O O B-geo O,DT JJ CD NNS MD VB IN DT JJ NN IN NN IN NNP .

@@ -1,0 +1,7 @@
+Indonesian health officials say a 16-year-old boy who had tested positive for bird flu has died .,B-gpe O O O O O O O O O O O O O O O O,JJ NN NNS VBP DT JJ NN WP VBD VBN JJ IN NN NN VBZ VBN .
+"If confirmed by the World Health Organization , the death would be Indonesia 's 43rd from the deadly H5N1 bird flu virus .",O O O O B-org I-org I-org O O O O O B-geo O O O O O O O O O O,"IN VBN IN DT NNP NNP NNP , DT NN MD VB NNP POS CD IN DT JJ NNP NN NN NN ."
+Health Ministry officials say the patient had been in contact with sick chickens in the West Java district of Bekasi .,B-org I-org O O O O O O O O O O O O O B-geo I-geo O O B-geo O,NNP NNP NNS VBP DT NN VBD VBN IN NN IN JJ NNS IN DT NNP NNP NN IN NNP .
+Officials say samples from the boy are being sent to a laboratory in the United States for secondary testing .,O O O O O O O O O O O O O O B-geo I-geo O O O O,NNS VBP NNS IN DT NN VBP VBG VBN TO DT NN IN DT NNP NNPS IN JJ NN .
+Health experts are closely watching Indonesia .,O O O O O B-geo O,NNP NNS VBP RB VBG NNP .
+Seven members of a single family died in a north Sumatra village last May .,O O O O O O O O O O B-geo O O B-tim O,CD NNS IN DT JJ NN VBD IN DT JJ NNP NN JJ NNP .
+"The deaths were the largest cluster of its kind since the global outbreak began in 2003 , and raised concerns about human-to-human transmission of the virus .",O O O O O O O O O O O O O O O B-tim O O O O O O O O O O O,"DT NNS VBD DT JJS NN IN PRP$ NN IN DT JJ NN VBD IN CD , CC VBD NNS IN JJ NN IN DT NN ."

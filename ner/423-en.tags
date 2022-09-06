@@ -1,0 +1,5 @@
+Officials in Sudan say several days of heavy rainfall and flooding have killed at least 59 people and displaced thousands more .,O O B-geo O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP JJ NNS IN JJ NN CC NN VBP VBN IN JJS CD NNS CC VBN NNS RBR .
+"Officials said Monday more than 10,000 people were affected in southern Sudan alone .",O O B-tim O O O O O O O O B-geo O O,NNS VBD NNP JJR IN CD NNS VBD VBN IN JJ NNP RB .
+"Floods also devastated homes near Sudan 's capital of Khartoum , where the White and Blue Nile rivers meet .",O O O O O B-geo O O O B-geo O O O B-org I-org I-org I-org O O O,"NNS RB VBD NNS IN NNP POS NN IN NNP , WRB DT NNP CC NNP NNP NNS VBP ."
+"The country is bracing for more flooding , as heavy rainl continues .",O O O O O O O O O O O O O,"DT NN VBZ VBG IN JJR NN , IN JJ NN VBZ ."
+"The United Nations and other international relief agencies are sending aid , including food , blankets and insecticide .",O B-org I-org O O O O O O O O O O O O O O O O,"DT NNP NNPS CC JJ JJ NN NNS VBP VBG NN , VBG NN , NNS CC NN ."

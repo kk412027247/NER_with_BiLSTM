@@ -1,0 +1,4 @@
+"U.S. stock markets are making strong gains in Friday 's trading , with key stock indexes up as much as three percent .",B-geo O O O O O O O B-tim O O O O O O O O O O O O O O,"NNP NN NNS VBP VBG JJ NNS IN NNP POS NN , IN NN NN NNS RB RB JJ IN CD NN ."
+Traders are watching as the U.S. House of Representatives considers a massive government-sponsored bailout plan for the financial sector .,O O O O O B-org I-org I-org I-org O O O O O O O O O O O,NNS VBP VBG IN DT NNP NNP IN NNP VBZ DT JJ JJ NN NN IN DT JJ NN .
+European markets also posted strong gains .,O O O O O O O,JJ NNS RB VBD JJ NNS .
+"It was a different story in Asia , where Japan 's benchmark Nikkei index fell two percent , and Hong Kong 's Hang Seng index was down nearly three percent .",O O O O O O B-geo O O B-geo O O B-geo O O O O O O B-geo I-geo O B-geo I-geo O O O O O O O,"PRP VBD DT JJ NN IN NNP , WRB NNP POS JJ NNP NN VBD CD NN , CC NNP NNP POS NNP NNP NN VBD RB RB CD NN ."

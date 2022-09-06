@@ -1,0 +1,7 @@
+"In Bangladesh , the death toll from flooding and mudslides unleashed by monsoon rains reached nearly 100 on Monday .",O B-geo O O O O O O O O O O O O O O O O B-tim O,"IN NNP , DT NN NN IN NN CC NNS VBN IN NN NNS VBD RB CD IN NNP ."
+"Bangladeshi officials say worst hit was the southeastern port city of Chittagong , where 84 people died after many hillside homes were swept away or collapsed under tons of mud .",B-gpe O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP JJS NN VBD DT JJ JJ NN IN NNP , WRB CD NNS VBD IN JJ JJ NNS VBD VBN RB CC VBN IN NNS IN NN ."
+"Telephone lines to the rest of Bangladesh are down , and shops and schools in Chittagong are closed .",O O O O O O B-geo O O O O O O O O B-geo O O O,"NNP NNS TO DT NN IN NNP VBP RB , CC NNS CC NNS IN NNP VBP VBN ."
+Another 15 people were reported killed in other parts of the country by thunderstorms and lightning .,O O O O O O O O O O O O O O O O O,DT CD NNS VBD VBN VBN IN JJ NNS IN DT NN IN NNS CC NN .
+"Many people are missing , and the death toll is expected to rise as rescue workers search through rubble .",O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP VBG , CC DT NN NN VBZ VBN TO VB IN NN NNS NN IN NN ."
+Rescue efforts are being hampered by damaged roads and flooding .,O O O O O O O O O O O,NN NNS VBP VBG VBN IN JJ NNS CC NN .
+June marks the beginning of the annual monsoon season in South Asia which lasts until mid-September .,B-tim O O O O O O O O O B-geo I-geo O O O B-tim O,NNP VBZ DT NN IN DT JJ NN NN IN NNP NNP WDT VBZ IN NN .

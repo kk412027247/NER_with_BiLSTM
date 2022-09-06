@@ -1,0 +1,8 @@
+"Negotiators from the Sudanese government and two Darfur rebel groups are expected in Nigeria 's capital , Abuja , for a new round of peace talks to begin on Thursday .",O O O B-gpe O O O B-org O O O O O B-geo O O O B-per O O O O O O O O O O O B-tim O,"NNS IN DT JJ NN CC CD NNP NN NNS VBP VBN IN NNP POS NN , NNP , IN DT JJ NN IN NN NNS TO VB IN NNP ."
+"The African Union will mediate the talks , aimed at ending a two-and-a-half-year conflict in Sudan 's western Darfur region .",B-org I-org I-org O O O O O O O O O O O O B-geo O O B-org O O,"DT NNP NNP MD VB DT NNS , VBN IN VBG DT JJ NN IN NNP POS JJ NNP NN ."
+Several previous rounds have failed .,O O O O O O,JJ JJ NNS VBP VBN .
+The last talks in June stalled over rebel demands that Chad not be allowed to help mediate the negotiations .,O O O O B-tim O O O O O B-geo O O O O O O O O O,DT JJ NNS IN NNP VBD IN NN NNS WDT VBP RB VB VBN TO VB VB DT NNS .
+A ceasefire agreement has also been repeatedly violated .,O O O O O O O O O,DT JJ NN VBZ RB VBN RB VBN .
+"Last week , the United Nations said there have been many reports in Darfur of banditry , looting , alleged attacks on villages and continued fighting .",O O O O B-org I-org O O O O O O O B-org O O O O O O O O O O O O O,"JJ NN , DT NNP NNPS VBD EX VBP VBN JJ NNS IN NNP IN NN , VBG , JJ NNS IN NNS CC JJ NN ."
+The conflict pits rebels of African descent against pro-government Arab militiamen .,O O O O O B-gpe O O O B-gpe O O,DT NN VBZ NNS IN JJ NN IN JJ JJ NNS .
+"An estimated 180,000 people have been killed and 2 million others have been displaced .",O O O O O O O O O O O O O O O,DT VBN CD NNS VBP VBN VBN CC CD CD NNS VBP VBN VBN .

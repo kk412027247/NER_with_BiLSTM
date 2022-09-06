@@ -1,0 +1,7 @@
+A strong earthquake under the ocean off Indonesia 's Sumatra and Nias islands has caused some panic but no damage or injuries .,O O O O O O O B-org I-org I-org I-org I-org I-org O O O O O O O O O O,DT JJ NN IN DT NN IN NNP POS NNP CC NNP NNS VBZ VBN DT NN CC DT NN CC NNS .
+"The U.S. Geological Survey gave a preliminary estimate of the strength of the Tuesday morning quake at 6.7 on the Richter scale , and said the epicenter was close to the island of Nias .",O B-org I-org I-org O O O O O O O O O B-tim I-tim O O O O O B-geo O O O O O O O O O O O O B-org O,"DT NNP NNP NNP VBD DT JJ NN IN DT NN IN DT NNP NN NN IN CD IN DT NNP NN , CC VBD DT NN VBD RB TO DT NN IN NNP ."
+The quake did not cause a tsunami .,O O O O O O O O,DT NN VBD RB VB DT NN .
+An earthquake in late March killed more than 900 people on Nias .,O O O O B-tim O O O O O O B-org O,DT NN IN JJ NNP VBD JJR IN CD NNS IN NNP .
+Both Sumatra and Nias have experienced countless earthquakes since a massive tsunami-producing quake on December 26 .,O B-org O B-org O O O O O O O O O O B-tim I-tim O,DT NNP CC NNP VBP VBN JJ NNS IN DT JJ JJ NN IN NNP CD .
+"The latest official death toll from that tragedy stands at some 176,000 people killed - 128,000 of them in Indonesia .",O O O O O O O O O O O O O O O O O O O B-geo O,DT JJS NN NN NN IN DT NN VBZ IN DT CD NNS VBN IN CD IN PRP IN NNP .
+"Nearly 50,000 people are still listed as missing , but most of them are feared dead .",O O O O O O O O O O O O O O O O O,"RB CD NNS VBP RB VBN IN VBG , CC JJS IN PRP VBP VBN JJ ."

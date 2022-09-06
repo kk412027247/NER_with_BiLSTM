@@ -1,0 +1,8 @@
+State media in Sudan say a leader of the Darfur rebel group that attacked the capital earlier this month has been arrested .,O O O B-geo O O O O O B-org O O O O O O O O O O O O O,NNP NNS IN NNP VBP DT NN IN DT NNP NN NN WDT VBD DT NN RBR DT NN VBZ VBN VBN .
+"The reports Thursday say authorities have captured Abdel Aziz Ashr of the rebel Justice and Equality Movement , JEM .",O O B-tim O O O O B-per I-per I-per O O O B-org I-org I-org I-org I-org I-org O,"DT NNS NNP VBP NNS VBP VBN NNP NNP NNP IN DT NN NN CC NN NN , NNP ."
+A state radio report says Ashr is the half-brother of top JEM leader Khalil Ibrahim .,O O O O O B-per O O O O O B-org O B-per I-per O,DT NN NN NN VBZ NNP VBZ DT NN IN JJ NNP NN NNP NNP .
+There were no immediate details on where or when the arrest took place .,O O O O O O O O O O O O O O,EX VBD DT JJ NNS IN WRB CC WRB DT NN VBD NN .
+The rebel group launched an attack on Khartoum and the neighboring city of Omdurman on May 10 after traveling across hundreds of kilometers of desert .,O O O O O O O B-geo O O O O O B-geo O B-tim I-tim O O O O O O O O O,DT NN NN VBD DT NN IN NNP CC DT JJ NN IN NNP IN NNP CD IN VBG IN NNS IN NNS IN NN .
+Soldiers pushed back the rebels in fighting that killed more than 200 people .,O O O O O O O O O O O O O O,NNS VBD RB DT NNS IN VBG DT VBD JJR IN CD NNS .
+The attack marked the first time rebels from Sudan 's western Darfur region reached the capital .,O O O O O O O O B-geo O O B-org O O O O O,DT NN VBD DT JJ NN NNS IN NNP POS JJ NNP NN VBD DT NN .
+"The government has offered a reward of $ 250,000 for information leading to the capture of JEM leader Ibrahim .",O O O O O O O O O O O O O O O O B-org O B-per O,DT NN VBZ VBN DT NN IN $ CD IN NN VBG TO DT NN IN NNP NN NNP .

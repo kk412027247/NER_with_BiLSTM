@@ -1,0 +1,6 @@
+Air France says its flight schedule is returning to normal Tuesday after flight staff called off their five-day strike over pay and working conditions .,B-geo I-geo O O O O O O O O B-tim O O O O O O B-tim O O O O O O O,NNP NNP VBZ PRP$ NN NN VBZ VBG TO JJ NNP IN NN NN VBD RP PRP$ JJ NN IN NN CC VBG NNS .
+Air France says it plans to operate all long-haul flights from Paris and 90 percent of its short and medium-haul routes .,B-geo I-geo O O O O O O O O O B-geo O O O O O O O O O O,NNP NNP VBZ PRP VBZ TO VB DT JJ NNS IN NNP CC CD NN IN PRP$ JJ CC JJ NNS .
+Labor unions representing cabin crews voted Monday to end the walkout .,O O O O O O B-tim O O O O O,NNP NNS VBG NN NNS VBD NNP TO VB DT NN .
+Air France flight attendants began the work stoppage last Thursday on the eve of French school holidays .,B-geo I-geo O O O O O O O B-tim O O O O B-gpe O O O,NNP NNP NN NNS VBD DT NN NN JJ NNP IN DT NN IN JJ NN NNS .
+"Hundreds of flights were canceled , stranding thousands of travelers .",O O O O O O O O O O O,"NNS IN NNS VBD VBN , VBG NNS IN NNS ."
+Air France chief executive Jean-Cyril Spinetta has offered to hold immediate negotiations with the labor unions to avert further strike action .,B-geo I-geo O O B-per I-per O O O O O O O O O O O O O O O O,NNP NNP NN NN NNP NNP VBZ VBN TO VB JJ NNS IN DT NN NNS TO VB JJ NN NN .

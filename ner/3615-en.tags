@@ -1,0 +1,5 @@
+"The Who cancelled a March 13 concert in Tampa , Florida , after lead singer Roger Daltrey fell ill .",B-org I-org O O B-tim I-tim O O B-geo O B-geo O O O O B-per I-per O O O,"DT NNP VBD DT NNP CD NN IN NNP , NNP , IN NN NN NNP NNP VBD RB ."
+The 63-year-old Daltrey walked offstage during the first song ; guitarist Pete Townshend later told the crowd he was suffering from bronchitis and could barely speak .,O O B-per O O O O O O O O B-per I-per O O O O O O O O O O O O O O,DT JJ NNP VBD NN IN DT JJ NN ; NN NNP NNP RB VBD DT NN PRP VBD VBG IN NN CC MD RB VB .
+"The crowd of 9,000 then cheered when Townshend said the show had been rescheduled for March 25 .",O O O O O O O B-per O O O O O O O B-tim I-tim O,DT NN IN CD RB VBD WRB NNP VBD DT NN VBD VBN VBN IN NNP CD .
+"The Who is currently touring in support of Endless Wire , its first album since 1982 .",B-org I-org O O O O O O B-art I-art O O O O B-tim I-tim O,"DT NNP VBZ RB VBG IN NN IN JJ NNP , PRP$ JJ NN IN CD ."
+The band next performs March 17 in Mexico City .,O O O O B-tim I-tim O B-geo I-geo O,DT NN IN VBZ NNP CD IN NNP NNP .

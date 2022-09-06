@@ -1,0 +1,7 @@
+"Haitian President-elect Rene Preval is in Cuba Thursday , for a visit that will include talks with Cuban President Fidel Castro .",B-gpe O B-per I-per O O B-geo B-tim O O O O O O O O O B-gpe B-per I-per I-per O,"JJ NNP NNP NNP VBZ IN NNP NNP , IN DT NN WDT MD VB NNS IN JJ NNP NNP NNP ."
+The president-elect is traveling with a delegation that includes several members of his future government .,O O O O O O O O O O O O O O O O,DT NN VBZ VBG IN DT NN WDT VBZ JJ NNS IN PRP$ JJ NN .
+Mr. Preval was elected in February and is due to take office next month .,B-per I-per O O O B-tim O O O O O O O O O,NNP NNP VBD VBN IN NNP CC VBZ JJ TO VB NN JJ NN .
+The Associated Press quotes a Haitian government spokesman as saying that the two leaders are expected to discuss Cuban aid for Haiti .,B-org I-org I-org O O B-gpe O O O O O O O O O O O O B-gpe O O B-geo O,DT NNP NNP VBZ DT JJ NN NN IN VBG IN DT CD NNS VBP VBN TO VB JJ NN IN NNP .
+Mr. Preval was president of Haiti from 1996 to 2001 .,B-per I-per O O O B-geo B-tim I-tim I-tim I-tim O,NNP NNP VBD NN IN NNP IN CD TO CD .
+"During that time , ties between Cuba and Haiti were warmer .",O O O O O O B-geo O B-geo O O O,"IN DT NN , NNS IN NNP CC NNP VBD JJR ."
+"But relations have suffered since a U.S.-backed interim government was appointed to replace former Haitian president Jean-Bertrand Aristide , who was ousted by a revolt in 2004 .",O O O O O O O O O O O O O O B-gpe B-per I-per I-per O O O O O O O O B-tim O,"CC NNS VBP VBN IN DT JJ JJ NN VBD VBN TO VB JJ JJ NN NNP NNP , WP VBD VBN IN DT NN IN CD ."

@@ -1,0 +1,8 @@
+"U.S. lawmakers have approved an addition $ 2 billion to fund an immensely popular car trade-in program known as "" cash for clunkers . """,B-geo O O O O O O O O O O O O O O O O O O O O O O O O,NNP NNS VBP VBN DT NN $ CD CD TO VB DT RB JJ NN NN NN VBN IN LQU NN IN NNS . LQU
+"The House of Representatives rushed a bill forward Friday to replenish funding for the program , which nearly exhausted its initial $ 1 billion funding limit within a matter of days .",B-org I-org I-org I-org O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP IN NNP VBD DT NN RB NNP TO VB NN IN DT NN , WDT RB VBD PRP$ JJ $ CD CD NN NN IN DT NN IN NNS ."
+President Barack Obama praised lawmakers for working quickly to pass the bill .,B-per I-per I-per O O O O O O O O O O,NNP NNP NNP VBD NNS IN VBG RB TO VB DT NN .
+His administration had promised to extend the initiative .,O O O O O O O O O,PRP$ NN VBD VBN TO VB DT NN .
+"The legislation still has to be approved by the Senate , which is likely to vote next week .",O O O O O O O O O B-org O O O O O O O O O,"DT NN RB VBZ TO VB VBN IN DT NNP , WDT VBZ JJ TO VB JJ NN ."
+""" Cash for clunkers "" gives car owners up to $ 4,500 in rebates to trade in older vehicles for more fuel-efficient models .",O O O O O O O O O O O O O O O O O O O O O O O O,LQU NN IN NNS LQU VBZ NN NNS RB TO $ CD IN NNS TO VB IN JJR NNS IN JJR JJ NNS .
+The government launched the program one week ago to boost U.S. auto sales and to improve the fuel economy of vehicles on the road .,O O O O O B-tim O O O O B-geo O O O O O O O O O O O O O O,DT NN VBD DT NN CD NN IN TO VB NNP NN NNS CC TO VB DT NN NN IN NNS IN DT NN .
+It was scheduled to run through November 1 .,O O O O O B-tim I-tim I-tim O,PRP VBD VBN TO VB IN NNP CD .

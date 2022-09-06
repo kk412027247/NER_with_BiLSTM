@@ -1,0 +1,8 @@
+"Skier Marco Buechel of Liechtenstein has won his first World Cup downhill title on a snow-shortened course in Val Gardena , Italy .",O B-per I-per O B-geo O O O O O O O O O O O O O B-geo I-geo O B-geo O,"NN NNP NNP IN NNP VBZ VBN PRP$ JJ NNP NNP NN NN IN DT JJ NN IN NNP NNP , NNP ."
+"Buechel finished the race in one minute , 27.99 seconds , just 0.02 ahead of Austrian Michael Walchhofer ( 1:28.01 ) .",B-per O O O O O O O O O O O O O O B-gpe B-per I-per O O O O,"NNP VBD DT NN IN CD NN , CD NNS , RB CD RB IN JJ NNP NNP LRB CD RRB ."
+"Erik Guay of Canada finished third , 0.20 behind Buechel ( 1:28.19 ) .",B-per I-per O B-geo O O O O O B-per O O O O,"NNP NNP IN NNP VBD JJ , CD IN NNP LRB CD RRB ."
+It was Buechel 's second World Cup win ever - he also won a super-giant slalom in Germany two years ago .,O O B-per O O O O O O O O O O O O O O B-geo B-tim O O O,PRP VBD NNP POS JJ NNP NNP VBP RB : PRP RB VBD DT JJ NN IN NNP CD NNS RB .
+American Olympic hopeful Bode Miller of the United States finished eighth and recaptured the overall standings lead .,B-gpe O O B-per I-per O O B-geo I-geo O O O O O O O O O,JJ NNP NN NNP NNP IN DT NNP NNPS VBD JJ CC VBD DT JJ NNS VBP .
+Miller now has 442 points with Walchhofer second ( 420 points ) and Norway 's Aksel Lund Svindal third ( 417 ) .,B-per O O O O O B-per O O O O O O B-geo O B-org I-org I-org O O O O O,NNP RB VBZ CD NNS IN NNP JJ LRB CD NNS RRB CC NNP POS NNP NNP NNP JJ LRB CD RRB .
+Snow and strong winds delayed the start of the race by more than one hour .,O O O O O O O O O O O O O O O O,NN CC JJ NNS VBD DT NN IN DT NN IN JJR IN CD NN .
+The course was also shortened by more than one kilometer and several jumps were removed .,O O O O O O O O O O O O O O O O,DT NN VBD RB VBN IN JJR IN CD NN CC JJ NNS VBD VBN .

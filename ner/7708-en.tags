@@ -1,0 +1,6 @@
+Iraqi authorities have freed more prisoners under a national reconciliation plan announced last week by Prime Minister Nouri al-Maliki .,B-gpe O O O O O O O O O O O O O O B-per I-per I-per I-per O,JJ NNS VBP VBN RBR NNS IN DT JJ NN NN VBN JJ NN IN NNP NNP NNP NNP .
+"Several hundred detainees were released Thursday from the U.S.-run Abu Ghraib prison , west of Baghdad , and other facilities across the country .",O O O O O B-tim O O B-org I-org I-org O O O O B-geo O O O O O O O O,"JJ CD NNS VBD VBN NNP IN DT JJ NNP NNP NN , NN IN NNP , CC JJ NNS IN DT NN ."
+U.S. officials say more prisoners will be freed Friday .,B-geo O O O O O O O B-tim O,NNP NNS VBP JJR NNS MD VB VBN NNP .
+Some 600 prisoners were released last week .,O O O O O O O O,DT CD NNS VBD VBN JJ NN .
+"Mr. Maliki has promised to free 2,500 prisoners by the end of the month to foster "" reconciliation and national dialogue . """,B-per B-geo O O O O O O O O B-tim I-tim O O O O O O O O O O O,NNP NNP VBZ VBN TO VB CD NNS IN DT NN IN DT NN TO VB LQU NN CC JJ NN . RQU
+Authorities say those being freed are not involved in violent crimes or had been detained by mistake .,O O O O O O O O O O O O O O O O O O,NNS VBP DT VBG VBN VBP RB VBN IN JJ NNS CC VBD VBN VBN IN NN .

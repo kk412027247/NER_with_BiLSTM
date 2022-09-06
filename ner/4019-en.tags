@@ -1,0 +1,7 @@
+Costa Rican elections officials have formally declared Nobel Peace laureate Oscar Arias the country 's president-elect .,O B-gpe O O O O O B-org I-org I-org I-org I-org O O O O O,JJ JJ NNS NNS VBP RB VBN NNP NNP NN NNP NNP DT NN POS NN .
+Tuesday 's announcement came more than a month after the election .,B-tim O O O O O O O O O O O,NNP POS NN VBD JJR IN DT NN IN DT NN .
+"Arias won the original vote by a very narrow margin , and a dispute over the results forced a manual recount .",B-org O O O O O O O O O O O O O O O O O O O O O,"NNP VBD DT JJ NN IN DT RB JJ NN , CC DT NN IN DT NNS VBD DT JJ NN ."
+"After weeks of feuding , Arias ' main rival - Otton Solis of the Citizens ' Action Party - conceded defeat on Friday .",O O O O O B-org O O O O B-per I-per O O B-org I-org I-org I-org I-org O O O B-tim O,"IN NNS IN NN , NNP POS JJ JJ : NNP NNP IN DT NNPS POS NNP NNP : VBD NN IN NNP ."
+Mr. Arias supports free trade with the United States .,B-per I-per O O O O O B-geo I-geo O,NNP NNP VBZ JJ NN IN DT NNP NNPS .
+"Costa Rica , however , is the only country within the Central American Free Trade Agreement , or CAFTA , that has not yet ratified the agreement .",B-per I-per O O O O O O O O O O O O O O O O B-org O O O O O O O O O,"NNP NNP , RB , VBZ DT JJ NN IN DT NNP NNP NNP NNP NNP , CC NNP , WDT VBZ RB RB VBN DT NN ."
+"CAFTA also comprises El Salvador , Guatemala , Honduras , Nicaragua and the Dominican Republic .",B-org O O B-per I-per O B-geo O B-geo O B-geo O O B-geo I-geo O,"NNP RB VBZ NNP NNP , NNP , NNP , NNP CC DT NNP NNP ."

@@ -1,0 +1,9 @@
+The former chief of Russia 's giant Yukos oil company says he has transferred his majority stake in the Group Menatep holding company to a fellow shareholder .,O O O O B-geo O O B-org O O O O O O O O O O O B-org I-org O O O O O O O,DT JJ NN IN NNP POS JJ NNP NN NN VBZ PRP VBZ VBN PRP$ NN NN IN DT NNP NNP VBG NN TO DT JJ NN .
+The lawyer for Mikhail Khodorkovsky says the transaction was made after December 's government-ordered auction of the main Yukos production unit Yuganskneftegaz .,O O O B-org B-per O O O O O O B-tim O O O O O O B-org O O B-per O,DT NN IN NNP NNP VBZ DT NN VBD VBN IN NNP POS JJ NN IN DT JJ NNP NN NN NNP .
+"Mr. Khodorkovsky transferred the 60 percent stake in Group Menatep to Leonid Nevzlin , who is wanted in Russia on charges of a role in several murders .",B-per I-per O O O O O O B-org I-org O B-geo I-geo O O O O O B-geo O O O O O O O O O,"NNP NNP VBD DT CD NN NN IN NNP NNP TO NNP NNP , WP VBZ VBN IN NNP IN NNS IN DT NN IN JJ NNS ."
+He is said to be living in exile in Israel .,O O O O O O O O O B-geo O,PRP VBZ VBN TO VB VBG IN NN IN NNP .
+Yukos has been the focus of an extensive government investigation .,B-org O O O O O O O O O O,NNP VBZ VBN DT NN IN DT JJ NN NN .
+Russian officials say the company owes billions of dollars in back taxes .,B-gpe O O O O O O O O O O O O,JJ NNS VBP DT NN VBZ NNS IN NNS IN JJ NNS .
+Mr. Khodorkovsky is in jail on trial for tax evasion and fraud .,B-per I-per O O O O O O O O O O O,NNP NNP VBZ IN NN IN NN IN NN NN CC NN .
+Critics say the actions against him and his former company are retaliation for his support for the political opposition .,O O O O O O O O O O O O O O O O O O O O,NNS VBP DT NNS IN PRP CC PRP$ JJ NN VBP NN IN PRP$ NN IN DT JJ NN .
+Kremlin officials deny this,B-org O O O,NNP NNS VBP DT

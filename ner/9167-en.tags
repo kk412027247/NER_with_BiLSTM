@@ -1,0 +1,6 @@
+"A roadside bomb has ripped through a U.S. military vehicle in Afghanistan , killing one soldier and wounding two others in the northeastern province of Kunar .",O O O O O O O B-geo O O O B-geo O O O O O O O O O O O O O B-geo O,"DT NN NN VBZ VBN IN DT NNP JJ NN IN NNP , VBG CD NN CC VBG CD NNS IN DT JJ NN IN NNP ."
+A U.S. military spokesman says the troops were driving an armored vehicle southwest of the provincial capital of Asadabad .,O B-geo O O O O O O O O O O O O O O O O B-geo O,DT NNP JJ NN VBZ DT NNS VBD VBG DT JJ NN NN IN DT JJ NN IN NNP .
+Kunar is a mountainous province on the border with Pakistan and is considered a hideout for militants .,B-geo O O O O O O O O B-geo O O O O O O O O,NNP VBZ DT JJ NN IN DT NN IN NNP CC VBZ VBN DT NN IN NNS .
+Another American soldier was killed and four were injured in southern Afghanistan when their armored vehicle rolled over near Kandahar city .,O B-gpe O O O O O O O O B-geo I-geo O O O O O O O B-geo O O,DT JJ NN VBD VBN CC CD VBD VBN IN JJ NNP WRB PRP$ JJ NN VBD RP IN NNP NN .
+A U.S. military statement says enemy activities were not a factor in the accident .,O B-geo O O O O O O O O O O O O O,DT NNP JJ NN VBZ NN NNS VBD RB DT NN IN DT NN .
+Kandahar is a stronghold of Afghanistan 's former Taleban rulers .,B-geo O O O O B-geo O O B-org O O,NNP VBZ DT NN IN NNP POS JJ NNP NNS .

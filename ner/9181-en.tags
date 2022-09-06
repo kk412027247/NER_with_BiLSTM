@@ -1,0 +1,7 @@
+"More fighting broke out in central Somalia Friday , killing at least eight people and injuring at least 20 others .",O O O O O O B-geo B-tim O O O O O O O O O O O O O,"JJR NN VBD RP IN JJ NNP NNP , VBG IN JJS CD NNS CC VBG IN JJS CD NNS ."
+"Rival militiamen used tanks and heavy machine guns in the battle , which broke out early this morning in Galgudud , a region near the border with Ethiopia .",O O O O O O O O O O O O O O O B-tim I-tim I-tim O B-geo O O O O O O O B-geo O,"JJ NNS VBN NNS CC JJ NN NNS IN DT NN , WDT VBD RP RB DT NN IN NNP , DT NN IN DT NN IN NNP ."
+Local officials say a week of fighting has left about 100 people dead .,O O O O O O O O O O O O O O,JJ NNS VBP DT NN IN NN VBZ VBN IN CD NNS JJ .
+"Families uprooted by the violence arrived at the port in the capital , Mogadishu , Friday in small fishing boats .",O O O O O O O O O O O O O B-geo O B-tim O O O O O,"NNS VBN IN DT NN VBD IN DT NN IN DT NN , NNP , NNP IN JJ NN NNS ."
+It is not clear what triggered the violence .,O O O O O O O O O,PRP VBZ RB JJ WP VBD DT NN .
+Somalia is trying to emerge from 13 years without a central government .,B-geo O O O O O B-tim O O O O O O,NNP VBZ VBG TO VB IN CD NNS IN DT JJ NN .
+"A newly installed Somali administration based in Nairobi , Kenya , is trying to end years of factional violence and lawlessness .",O O O B-gpe O O O B-geo O B-geo O O O O O O O O O O O O,"DT RB VBN JJ NN VBN IN NNP , NNP , VBZ VBG TO VB NNS IN JJ NN CC NN ."

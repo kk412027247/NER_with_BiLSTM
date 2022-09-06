@@ -1,0 +1,10 @@
+The United Nations says the devastation caused in Bangladesh by Cyclone Sidr last month is far worse than previously thought .,O B-org I-org O O O O O B-geo O B-geo I-geo O O O O O O O O O,DT NNP NNP VBZ DT NN VBN IN NNP IN NNP NNP JJ NN VBZ RB JJR IN RB VBN .
+The U.N. Office for the Coordination of Humanitarian Affairs says nearly 2.6 million Bangladeshis across nine districts still need emergency assistance .,O B-org I-org O O B-org I-org I-org I-org O O O O B-gpe O O O O O O O O,DT NNP NNP IN DT NN IN NNP NNP VBZ RB CD CD NNS IN CD NNS RB VBP NN NN .
+"The total number of people affected by the cyclone was about 8.5 million , 1.5 million more than initially thought .",O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN IN NNS VBN IN DT NN VBD IN CD CD , CD CD JJR IN RB VBN ."
+The U.N. says property damage is also more severe than first reported .,O B-org O O O O O O O O O O O,DT NNP VBZ NN NN VBZ RB RBR JJ IN RB VBN .
+"Nearly 564,000 homes were destroyed , up from initial estimates of 200,000 .",O O O O O O O O O O O O O,"RB CD NNS VBD VBN , RB IN JJ NNS IN CD ."
+"The confirmed death toll from the cyclone is 3,268 .",O O O O O O O O O O,DT VBN NN NN IN DT NN VBZ CD .
+"The U.N. says food , shelter and cash are needed the most in terms of emergency aid .",O B-org O O O O O O O O O O O O O O O O,"DT NNP VBZ NN , NN CC NN VBP VBN DT RBS IN NNS IN NN NN ."
+Proper sanitation and clean water are also high priorities .,O O O O O O O O O O,JJ NN CC JJ NN VBP RB JJ NNS .
+The November 15 cyclone was the worst in Bangladesh in more than a decade .,O B-tim I-tim O O O O O B-geo O O O O B-tim O,DT NNP CD NN VBD DT JJS IN NNP IN JJR IN DT NN .
+It struck the coast with fierce winds and a tidal surge that wiped out villages .,O O O O O O O O O O O O O O O O,PRP VBD DT NN IN JJ NNS CC DT JJ NN WDT VBD RP NNS .

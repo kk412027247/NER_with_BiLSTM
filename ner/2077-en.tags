@@ -1,0 +1,7 @@
+Seven North Koreans have entered Thailand 's embassy in Vietnam seeking asylum .,O B-gpe I-gpe O O B-geo O O O B-geo O O O,CD NNP NNS VBP VBN NNP POS NN IN NNP VBG NN .
+Embassy officials say the three men and four women entered the outpost Wednesday carrying handwritten messages asking for asylum .,O O O O O O O O O O O O B-tim O O O O O O O,NNP NNS VBP DT CD NNS CC CD NNS VBD DT NN NNP VBG JJ NNS VBG IN NN .
+The refugees speak no English or Vietnamese .,O O O O B-art O B-art O,DT NNS VBP DT NNP CC NNP .
+A growing number of North Koreans have escaped the chronic food shortages and repression prevalent in their isolated homeland .,O O O O B-org B-gpe O O O O O O O O O O O O O O,DT VBG NN IN NNP NNS VBP VBN DT JJ NN NNS CC NN NN IN PRP$ JJ NN .
+"Many have sought refuge in embassies in foreign countries , mainly in China .",O O O O O O O O O O O O B-geo O,"NN VBP VBN NN IN NNS IN JJ NNS , RB IN NNP ."
+South Korea airlifted more than 460 North Korean refugees out of Vietnam in July of last year .,B-org I-org O O O O O B-gpe O O O B-geo O B-tim I-tim O O O,NNP NNP VBD JJR IN CD JJ JJ NNS IN IN NNP IN NNP IN JJ NN .
+The operation enraged Pyongyang and led to a freeze in inter-Korean talks .,O O O B-org O O O O O O O O O,DT NN VBD NNP CC VBD TO DT NN IN JJ NNS .

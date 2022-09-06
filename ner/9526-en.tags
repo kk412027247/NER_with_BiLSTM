@@ -1,0 +1,8 @@
+Pope John Paul saw Asia - with its tens of thousands of annual conversions to the Catholic church - as fertile ground for evangelization .,O B-per I-per O B-geo I-geo O O O O O O O O O O B-geo O O O O O O O O,NNP NNP NNP VBD NNP : IN PRP$ NNS IN NNS IN JJ NNS TO DT NNP NN : IN JJ NN IN NN .
+"He once referred to the continent as "" a church that is still being born . """,O O O O O O O O O O O O O O O O O,PRP RB VBD TO DT NN IN LQU DT NN WDT VBZ RB VBG VBN . LQU
+The pope made at least a dozen trips to Asian nations during his 26-year papacy .,O O O O O O O O O O O O O O O O,DT NN VBD IN JJS DT NN NNS TO JJ NNS IN PRP$ JJ NN .
+He twice visited the Philippines - home to two-thirds of Asia 's Catholics and the only predominantly Roman Catholic nation in Asia .,O O O O B-geo I-geo O O O O B-geo O O O O O O B-org I-org O O B-geo O,PRP RB VBD DT NNPS : NN TO NNS IN NNP POS NNPS CC DT JJ RB JJ JJ NN IN NNP .
+His 1995 trip drew an estimated three-million people .,O B-tim O O O O O O O,PRP$ CD NN VBD DT JJ JJ NNS .
+"He also visited South Korea , Indonesia , Thailand , Japan and Singapore , among other countries .",O O O B-geo I-geo O B-geo O B-geo O B-org I-org I-org O O O O O,"PRP RB VBD NNP NNP , NNP , NNP , NNP CC NNP , IN JJ NNS ."
+"Among the Asian nations that Pope John Paul had hoped to travel to and never did were Vietnam , Cambodia , Laos , and Mongolia .",O O O O O O B-per I-per O O O O O O O O O B-geo O B-geo O B-geo O O B-geo O,"IN DT JJ NNS IN NNP NNP NNP VBD VBN TO VB TO CC RB VBD VBD NNP , NNP , NNP , CC NNP ."
+Church officials say he never ruled out a visit to North Korea .,O O O O O O O O O O B-geo I-geo O,NNP NNS VBP PRP RB VBD RP DT NN TO NNP NNP .

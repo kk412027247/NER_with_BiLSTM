@@ -1,0 +1,8 @@
+Lebanon 's Parliament has voted to support the country 's first government since the end of Syrian dominance .,B-geo O B-org O O O O O O O O O O O O O B-gpe O O,NNP POS NNP VBZ VBN TO VB DT NN POS JJ NN IN DT NN IN JJ NN .
+Lawmakers approved a confidence measure Saturday in a 92 to 14 vote .,O O O O O B-tim O O O O O O O,NNS VBD DT NN NN NNP IN DT CD IN CD NN .
+"Two members abstained , and more than a dozen were absent during the vote .",O O O O O O O O O O O O O O O,"CD NNS VBD , CC JJR IN DT NN VBD JJ IN DT NN ."
+"Prime Minister Fouad Siniora unveiled the new government earlier this month , after three earlier attempts failed to win approval .",B-per I-per I-per I-per O O O O O O O O O O O O O O O O O,"NNP NNP NNP NNP VBD DT JJ NN RBR DT NN , IN CD JJR NNS VBD TO VB NN ."
+"Sunday , he is due to travel to Damascus in an effort to strengthen ties strained since massive protests forced Syria to withdraw troops from the country .",B-tim O O O O O O O B-geo O O O O O O O O O O O B-geo O O O O O O O,"NNP , PRP VBZ JJ TO VB TO NNP IN DT NN TO VB NNS VBN IN JJ NNS VBD NNP TO VB NNS IN DT NN ."
+Mr. Siniora has said good relations with Syria are crucial to Lebanon 's future .,B-per I-per O O O O O B-geo O O O B-geo O O O,NNP NNP VBZ VBN JJ NNS IN NNP VBP JJ TO NNP POS NN .
+"A key concern , however , is Syria 's decision to block Lebanese trucks carrying goods across the border , due to security concerns .",O O O O O O O B-geo O O O O B-gpe O O O O O O O O O O O O,"DT JJ NN , RB , VBZ NNP POS NN TO VB JJ NNS VBG NNS IN DT NN , JJ TO NN NNS ."
+Lebanon says the move hurts local exporters .,B-geo O O O O O O O,NNP VBZ DT NN VBZ JJ NNS .

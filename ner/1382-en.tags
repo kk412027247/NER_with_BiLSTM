@@ -1,0 +1,6 @@
+Authorities in Greece have sent riot police to a top tourist attraction after striking government workers shut down the Acropolis for a second day .,O O B-geo O O O O O O O O O O O O O O O O B-org O O B-tim I-tim O,NNS IN NNP VBP VBN NN NN TO DT JJ NN NN IN JJ NN NNS VBD RP DT NNP IN DT JJ NN .
+"Police were stationed outside the entrance to the site Thursday , where workers have blockaded the gate .",O O O O O O O O O B-tim O O O O O O O O,"NNS VBD VBN IN DT NN TO DT NN NNP , WRB NNS VBP VBN DT NN ."
+The culture ministry employees are protesting the dismissal of workers whose contracts expire at the end of the month .,O O O O O O O O O O O O O O O B-tim I-tim O O O,DT NN NN NNS VBP VBG DT NN IN NNS WP$ NNS VBP IN DT NN IN DT NN .
+They are also demanding the government provide months of unpaid salaries .,O O O O O O O O O O O O,PRP VBP RB VBG DT NN VB NNS IN JJ NNS .
+Dozens of tourists were also outside the site Thursday .,O O O O O O O O B-tim O,NNS IN NNS VBD RB IN DT NN NNP .
+"The Acropolis is a UNESCO World Heritage site that holds the ruins of several ancient Greek temples , including the famed Parthenon .",O B-org O O B-org I-org I-org O O O O O O O O B-gpe O O O O O B-geo O,"DT NNP VBZ DT NNP NNP NNP NN WDT VBZ DT NNS IN JJ JJ JJ NNS , VBG DT JJ NN ."

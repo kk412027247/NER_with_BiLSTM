@@ -1,0 +1,7 @@
+U.N. refugee officials say more than 400 Uzbeks who fled to neighboring Kyrgyzstan following a government crackdown in the eastern city of Andijan are being sent to a third country .,B-org O O O O O O B-gpe O O O O B-geo O O O O O O O O O B-geo O O O O O O O O,NNP NN NNS VBP JJR IN CD NNS WP VBD TO VBG NNP VBG DT NN NN IN DT JJ NN IN NNP VBP VBG VBN TO DT JJ NN .
+A U.N. official said the relocation process is under way .,O B-org O O O O O O O O O,DT NNP NN VBD DT NN NN VBZ IN NN .
+But he did not say where the refugees were going .,O O O O O O O O O O O,CC PRP VBD RB VB WRB DT NNS VBD VBG .
+News reports quoted Kyrgyz airport officials as saying the refugees were being flown to Romania aboard a U.N. chartered plane .,O O O B-gpe O O O O O O O O O O B-geo O O B-org O O O,NN NNS VBD JJ NN NNS IN VBG DT NNS VBD VBG VBN TO NNP IN DT NNP JJ NN .
+"The refugees took shelter in Kyrgyzstan , after Uzbek troops fired on anti government protesters in Andijan on May 13 .",O O O O O B-geo O O B-gpe O O O O O O O B-geo O B-tim I-tim O,"DT NNS VBD NN IN NNP , IN JJ NNS VBD IN JJ NN NNS IN NNP IN NNP CD ."
+"Witnesses said about 500 people , including many women and children , were killed in the crackdown .",O O O O O O O O O O O O O O O O O O,"NNS VBD IN CD NNS , VBG JJ NNS CC NNS , VBD VBN IN DT NN ."
+Uzbek authorities said the death toll was 187 and blamed the violence on Islamic militants .,B-gpe O O O O O O O O O O O O O O O,JJ NNS VBD DT NN NN VBD CD CC VBD DT NN IN NNP NNS .

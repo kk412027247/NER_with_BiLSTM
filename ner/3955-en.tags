@@ -1,0 +1,5 @@
+Venezuela 's National Assembly has voted to approve a request by President Hugo Chavez to allow him to enact laws by decree for one year .,B-geo O B-geo I-geo O O O O O O O B-per I-per I-per O O O O O O O O O B-tim O O,NNP POS NNP NNP VBZ VBN TO VB DT NN IN NNP NNP NNP TO VB PRP TO VB NNS IN NN IN CD NN .
+Lawmakers voted in President Chavez 's favor Tuesday following the first discussion on the proposal .,O O O B-per I-per O O B-tim O O O O O O O O,NNS VBD IN NNP NNP POS NN NNP VBG DT JJ NN IN DT NN .
+Reports say a final vote on the controversial measure is expected later this week .,O O O O O O O O O O O B-tim O O O,NNS VBP DT JJ NN IN DT JJ NN VBZ VBN RB DT NN .
+Vice President Elias Jaua made the request earlier in the day on behalf of the president .,B-per I-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP NNP VBD DT NN RBR IN DT NN IN NN IN DT NN .
+"The measure was presented to the outgoing National Assembly , which is dominated by President Chavez 's allies .",O O O O O O O B-geo I-geo O O O O O B-per I-per O O O,"DT NN VBD VBN TO DT VBG NNP NNP , WDT VBZ VBN IN NNP NNP POS NNS ."

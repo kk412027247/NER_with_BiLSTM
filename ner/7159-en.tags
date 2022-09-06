@@ -1,0 +1,7 @@
+The U.S. space agency NASA has announced it is going to try to launch the space shuttle Atlantis Friday .,O B-geo O O B-org O O O O O O O O O O O O O B-tim O,DT NNP NN NN NNP VBZ VBN PRP VBZ VBG TO VB TO VB DT NN NN NNP NNP .
+"The launch is scheduled for late Friday morning local time at Cape Canaveral , Florida .",O O O O O O B-tim I-tim O B-tim O B-geo I-geo O B-geo O,"DT NN VBZ VBN IN JJ NNP NN JJ NN IN NNP NNP , NNP ."
+Failure to launch the shuttle this week could delay the mission until October .,O O O O O O O O O O O O B-tim O,NN TO VB DT NN DT NN MD VB DT NN IN NNP .
+"The Atlantis launch has already been postponed several times , both because of poor weather and for technical reasons .",O O O O O O O O O O O O O O O O O O O O,"DT NNP NN VBZ RB VBN VBN JJ NNS , DT IN IN JJ NN CC IN JJ NNS ."
+Astronauts on the mission are expected to attach a 17-ton addition to the International Space Station .,O O O O O O O O O O O O O B-geo I-geo I-geo O,NNS IN DT NN VBP VBN TO VB DT JJ NN TO DT NNP NNP NNP .
+It will include a new set of giant solar energy panels that will reach 80 meters in length when fully unfurled .,O O O O O O O O O O O O O O O O O O O O O O,PRP MD VB DT JJ NN IN JJ JJ NN NNS WDT MD VB CD NNS IN NN WRB RB JJ .
+Construction on the space station stopped after the shuttle Columbia disaster in February 2003 forced a long moratorium on shuttle flights .,O O O O O O O O O O O O B-tim I-tim O O O O O O O O,NN IN DT NN NN VBD IN DT NN NNP NN IN NNP CD VBD DT JJ NN IN NN NNS .

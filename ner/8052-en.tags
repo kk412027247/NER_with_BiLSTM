@@ -1,0 +1,9 @@
+U.S. Deputy Secretary of State John Negroponte met with Pakistan 's President Pervez Musharraf at the leader 's official residence in Islamabad Thursday .,B-org O O O B-org B-per B-org O O B-geo O B-per I-per I-per O O O O O O O B-tim I-tim O,NNP NNP NNP IN NNP NNP NNP VBD IN NNP POS NNP NNP NNP IN DT NN POS JJ NN IN NNP NNP .
+"Pakistan 's Foreign Ministry said the men discussed bilateral relations , counter-terrorism and regional issues .",B-geo O B-org I-org O O O O O O O O O O O O,"NNP POS NNP NNP VBD DT NNS VBD JJ NNS , NN CC JJ NNS ."
+"The ministry said General Musharraf told Negroponte that the U.S. , particularly the media , needed to better understand Pakistan 's anti-terrorism efforts .",O O O B-org I-org O B-org O O B-org O O O O O O O O O B-geo O O O O,"DT NN VBD NNP NNP VBD NNP IN DT NNP , RB DT NNS , VBN TO RB VB NNP POS JJ NNS ."
+"During this two-day trip to Pakistan , Negroponte has praised Mr. Musharraf 's government as a key ally in the fight against terrorism .",O O B-tim O O B-geo O B-org O O B-per B-org O O O O O O O O O O O O,"IN DT JJ NN TO NNP , NNP VBZ VBN NNP NNP POS NN IN DT JJ NN IN DT NN IN NN ."
+"Also Thursday , the U.S. diplomat met with Prime Minister Shaukat Aziz .",O B-tim O O B-geo O O O B-per O B-per I-per O,"RB NNP , DT NNP NN VBD IN NNP NNP NNP NNP ."
+Details of their talks are not yet available .,O O O O O O O O O,NNS IN PRP$ NNS VBP RB RB JJ .
+Negroponte arrived in Pakistan on Wednesday .,B-org O O B-geo O B-tim O,NNP VBD IN NNP IN NNP .
+"He is the former director of national intelligence , the head of all U.S. intelligence agencies .",O O O O O O O O O O O O O B-geo O O O,"PRP VBZ DT JJ NN IN JJ NN , DT NN IN DT NNP NN NNS ."
+He also served as the U.S. ambassador to Iraq in 2004 and 2005 .,O O O O O B-geo O O B-geo O B-tim I-tim I-tim O,PRP RB VBD IN DT NNP NN TO NNP IN CD CC CD .

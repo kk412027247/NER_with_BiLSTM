@@ -1,0 +1,3 @@
+"U.S. President George Bush is urging America to commit itself to the restoration of Iraq , drawing parallels to the reconstruction of Europe after World War II .",B-org O B-per I-per O O B-gpe O O O O O O O B-gpe O O O O O O O B-gpe O B-eve I-eve I-eve O,"NNP NNP NNP NNP VBZ VBG NNP TO VB PRP TO DT NN IN NNP , VBG NNS TO DT NN IN NNP IN NNP NNP NNP ."
+"At the same time , a former top Bush aide is making headlines with a very public denunciation of the administration 's Iraq policy .",O O O O O O O O B-per O O O O O O O O O O O O O B-gpe O O,"IN DT JJ NN , DT JJ JJ NNP NN VBZ VBG NNS IN DT RB JJ NN IN DT NN POS NNP NN ."
+We have details from VOA White House Correspondent Paula Wolfson .,O O O O B-org I-org I-org O B-per I-per O,PRP VBP NNS IN NNP NNP NNP NN NNP NNP .

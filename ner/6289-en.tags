@@ -1,0 +1,7 @@
+Japanese officials say the deaths of hundreds of chickens in eastern Japan earlier this year may have been caused by a fresh outbreak of bird flu .,B-gpe O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O,JJ NNS VBP DT NNS IN NNS IN NNS IN JJ NNP RBR DT NN MD VB VBN VBN IN DT JJ NN IN NN NN .
+"About 430 chickens died between March and May at a poultry farm in Ibaraki prefecture , north of Tokyo .",O O O O O B-tim O B-tim O O O O O B-geo O O O O B-geo O,"IN CD NNS VBD IN NNP CC NNP IN DT NN NN IN NNP NN , NN IN NNP ."
+"The farm keeps 25,000 chickens .",O O O O O O,DT NN VBZ CD NNS .
+A government laboratory is conducting tests to confirm whether the deaths were caused by the virus .,O O O O O O O O O O O O O O O O O,DT NN NN VBZ VBG NNS TO VB IN DT NNS VBD VBN IN DT NN .
+"Officials inspected the farm on Saturday , but found no abnormalities .",O O O O O B-tim O O O O O O,"NNS VBD DT NN IN NNP , CC VBD DT NNS ."
+Japan suffered several outbreaks of bird flu last year .,B-geo O O O O O O O O O,NNP VBD JJ NNS IN NN NN JJ NN .
+"No one in Japan has yet been infected by the H5N1 avian flu virus that has killed 38 Vietnamese , 12 Thais and four Cambodians since the latest epidemic began in 2003 .",O O O B-geo O O O O O O B-nat O O O O O O O O O O B-gpe O O B-gpe O O O O O O B-tim O,"DT NN IN NNP VBZ RB VBN VBN IN DT NNP JJ NN NN WDT VBZ VBN CD NNS , CD NNS CC CD NNS IN DT JJS NN VBD IN CD ."

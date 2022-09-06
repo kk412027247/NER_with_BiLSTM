@@ -1,0 +1,9 @@
+"The head of the Palestinian mission in Peru has told protesters in Lima that the kidnapping of a Peruvian photographer in the Gaza Strip is damaging the "" just fight "" of the Palestinian people .",O O O O B-gpe O O B-geo O O O O B-geo O O O O O B-gpe O O O B-geo I-geo O O O O O O O O O B-gpe O O,DT NN IN DT JJ NN IN NNP VBZ VBN NNS IN NNP IN DT NN IN DT JJ NN IN DT NNP NNP VBZ VBG DT LQU RB VB RQU IN DT JJ NNS .
+Walid Abdel Rahim spoke to protesters on Friday outside the Palestinian mission .,B-per I-per I-per O O O O B-tim O O B-gpe O O,NNP NNP NNP VBD TO NNS IN NNP IN DT JJ NN .
+He condemned the kidnapping of Jaime Razuri .,O O O O O B-geo I-geo O,PRP VBD DT NN IN NNP NNP .
+The protesters called for Razuri 's release .,O O O O B-geo O O O,DT NNS VBD IN NNP POS NN .
+The crowd included Razuri 's family and international journalists .,O O O B-geo O O O O O O,DT NN VBD NNP POS NN CC JJ NNS .
+Razuri is an employee of the French news agency .,B-geo O O O O O B-gpe O O O,NNP VBZ DT NN IN DT JJ NN NN .
+Gunmen seized him on Monday outside the news agency 's offices in Gaza City .,O O O O B-tim O O O O O O O B-geo I-geo O,NNS VBD PRP IN NNP IN DT NN NN POS NNS IN NNP NNP .
+No group has claimed responsibility for the kidnapping .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+"Kidnappings are frequent in the Gaza Strip , but hostages are usually released within hours .",O O O O O B-geo I-geo O O O O O O O O O,"NNS VBP JJ IN DT NNP NNP , CC NNS VBP RB VBN IN NNS ."

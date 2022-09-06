@@ -1,0 +1,10 @@
+A Netherlands court has opened a pretrial hearing in the case of a Dutch businessman charged with complicity in genocide by selling chemical weapons ingredients to ousted Iraqi dictator Saddam Hussein .,O B-geo O O O O O O O O O O O B-gpe O O O O O O O O O O O O O B-gpe O B-per I-per O,DT NNP NN VBZ VBN DT JJ NN IN DT NN IN DT JJ NN VBN IN NN IN NN IN VBG NN NNS NNS TO JJ JJ NN NNP NNP .
+Frans van Anraat appeared Friday in a Rotterdam courtroom .,B-per I-per I-per O B-tim O O B-geo O O,NNP NNP NNP VBD NNP IN DT NNP NN .
+The 62-year-old defendant is accused of exporting tons of chemicals that Iraq used to make weapons over a four-year period beginning in 1984 .,O O O O O O O O O O O B-geo O O O O O O B-tim I-tim I-tim I-tim I-tim O,DT JJ NN VBZ VBN IN VBG NNS IN NNS IN NNP VBD TO VB NNS IN DT JJ NN VBG IN CD .
+"Prosecutors say Saddam used the weapons in the 1988 attack on the Kurdish town of Halabja that killed 5,000 people .",O O B-per O O O O O B-tim O O O O O O B-geo O O O O O,NNS VBP NNP VBD DT NNS IN DT CD NN IN DT JJ NN IN NNP WDT VBD CD NNS .
+Some survivors of the attack attended Friday 's hearing .,O O O O O O B-tim O O O,DT NNS IN DT NN VBD NNP POS NN .
+A prosecutor told the court Mr. van Anraat continued to sell Iraq chemicals even after the Halabja attack .,O O O O O B-per I-per I-per O O O B-geo O O O O B-geo O O,DT NN VBD DT NN NNP NNP NNP VBD TO VB NNP NNS RB IN DT NNP NN .
+But the defendant denies any wrongdoing .,O O O O O O O,CC DT NN VBZ DT NN .
+Mr. van Anraat fled to Iraq in 1989 .,B-per I-per I-per O O B-geo O B-tim O,NNP NNP NNP VBD TO NNP IN CD .
+He returned to the Netherlands after the U.S.-led invasion of Iraq in 2003 .,O O O O B-geo O O O O O B-geo O B-tim O,PRP VBD TO DT NNP IN DT JJ NN IN NNP IN CD .
+"Another hearing is expected in June , and the trial in November .",O O O O O B-tim O O O O O B-tim O,"DT NN VBZ VBN IN NNP , CC DT NN IN NNP ."

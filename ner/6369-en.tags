@@ -1,0 +1,9 @@
+The Israeli military says it has arrested a senior commander of the Palestinian faction Hamas after he spent more than a decade on the run .,O B-gpe O O O O O O O O O O B-gpe O B-org O O O O O O O O O O O,DT JJ NN VBZ PRP VBZ VBN DT JJ NN IN DT JJ NN NNP IN PRP VBD JJR IN DT NN IN DT NN .
+Israeli troops and the Shin Bet security service caught Maher Uda overnight Saturday near the West Bank town of Ramallah .,B-gpe O O O B-org I-org O O O B-per I-per O B-tim O O B-org I-org O O B-org O,JJ NNS CC DT NNP NNP NN NN VBN NNP NNP JJ NNP IN DT NNP NNP NN IN NNP .
+Uda has been on Israel 's most wanted list since the 1990s .,B-per O O O B-geo O O O O O O B-tim O,NNP VBZ VBN IN NNP POS RBS JJ NN IN DT NNS .
+He is considered a founding member of the Hamas military branch in the West Bank .,O O O O O O O O B-org O O O O B-org I-org O,PRP VBZ VBN DT NN NN IN DT NNP JJ NN IN DT NNP NNP .
+Israel blames him for the deaths of at least 70 Israelis .,B-geo O O O O O O O O O B-gpe O,NNP VBZ PRP IN DT NNS IN IN JJS CD NNS .
+Hamas has accused Palestinian security forces of helping Israel detain Uda .,B-org O O B-gpe O O O O B-geo O B-org O,NNP VBZ VBN JJ NN NNS IN VBG NNP VB NNP .
+The Palestinian Authority has not commented on the case .,O B-gpe O O O O O O O O,DT JJ NNP VBZ RB VBN IN DT NN .
+"The Palestinian Authority runs the West Bank , while Hamas has control over the Gaza Strip .",O B-gpe O O O B-org I-org O O B-org O O O O B-geo I-geo O,"DT JJ NNP VBZ DT NNP NNP , IN NNP VBZ NN IN DT NNP NNP ."
+"The Palestinian Islamist group took control of Gaza in 2007 , after battling forces loyal to Palestinian President Mahmoud Abbas .",O B-gpe O O O O O B-geo O B-tim O O O O O O B-gpe B-per I-per I-per O,"DT JJ NN NN VBD NN IN NNP IN CD , IN VBG NNS JJ TO JJ NNP NNP NNP ."

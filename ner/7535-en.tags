@@ -1,0 +1,9 @@
+"The Hubble Space Telescope is back to work , after a month-long shutdown to fix problems it was having in sending information to Earth .",O B-art I-art I-art O O O O O O O B-tim O O O O O O O O O O O B-geo O,"DT NNP NNP NNP VBZ RB TO NN , IN DT JJ NN TO VB NNS PRP VBD VBG IN VBG NN TO NNP ."
+"The U.S. space agency , NASA , said Thursday the telescope 's camera is now working as it was before the problems .",O B-geo O O O B-org O O B-tim O O O O O O O O O O O O O O,"DT NNP NN NN , NNP , VBD NNP DT NN POS NN VBZ RB VBG IN PRP VBD IN DT NNS ."
+"The agency said it took a photo of a pair of galaxies and that it "" scored a perfect 10 "" .",O O O O O O O O O O O O O O O O O O O O O O,DT NN VBD PRP VBD DT NN IN DT NN IN NNS CC IN PRP LQU VBD DT JJ CD LQU .
+The photo shows the ring-shaped galaxies just after they collided .,O O O O O O O O O O O,DT NN VBZ DT JJ NNS RB IN PRP VBD .
+The Hubble stopped beaming information to Earth in late September when a data unit failed .,O B-org O O O O B-geo O O B-tim O O O O O O,DT NNP VBD VBG NN TO NNP IN JJ NNP WRB DT NN NN VBD .
+The computer glitch forced NASA to postpone a shuttle mission to repair the Hubble .,O O O O B-org O O O O O O O O B-art O,DT NN NN VBD NNP TO VB DT NN NN TO VB DT NNP .
+That mission has been rescheduled for next year .,O O O O O O O O O,DT NN VBZ VBN VBN IN JJ NN .
+The Hubble has been orbiting about 600 kilometers above the Earth since 1990 .,O B-org O O O O O O O O B-geo B-tim I-tim O,DT NNP VBZ VBN VBG IN CD NNS IN DT NN IN CD .
+The telescope sends images from space back to Earth and has revolutionized understanding of the universe .,O O O O O O O O B-geo O O O O O O O O,DT NN VBZ NNS IN NN RB TO NNP CC VBZ VBN NN IN DT NN .

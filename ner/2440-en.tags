@@ -1,0 +1,5 @@
+The lawyer for Jacques Chirac says the former French president will go on trial for embezzlement in Paris early next year .,O O O B-per I-per O O O B-gpe O O O O O O O O B-geo O O O O,DT NN IN NNP NNP VBZ DT JJ JJ NN MD VB IN NN IN NN IN NNP RB JJ NN .
+Mr. Chirac is accused of abusing public funds while he was mayor of Paris .,B-per I-per O O O O O O O O O O O B-geo O,NNP NNP VBZ VBN IN VBG JJ NNS IN PRP VBD NN IN NNP .
+He allegedly paid friends with city money for jobs that did not exist .,O O O O O O O O O O O O O O,PRP RB VBD NNS IN NN NN IN NNS WDT VBD RB VB .
+The 77-year-old Mr. Chirac is the first leader in the country 's modern history to face corruption charges .,O O B-per I-per O O O O O O O O O O O O O O O,DT JJ NNP NNP VBZ DT JJ NN IN DT NN POS JJ NN TO VB NN NNS .
+"He could face up to 10 years in prison and fine of $ 159,000 .",O O O O O B-tim O O O O O O O O O,PRP MD VB RP TO CD NNS IN NN CC NN IN $ CD .

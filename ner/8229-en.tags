@@ -1,0 +1,9 @@
+"Venezuela 's foreign ministry has rejected Colombian charges that Venezuelan President Hugh Chavez is linked to the rebel group , FARC .",B-geo O O O O O B-gpe O O B-gpe B-per I-per I-per O O O O O O O B-org O,"NNP POS JJ NN VBZ VBN JJ NNS IN JJ NNP NNP NNP VBZ VBN TO DT NN NN , NNP ."
+Venezuelan Foreign Minister Nicolas Maduro also said he does not recognize documents Colombia says prove the charges .,B-gpe O O B-per I-per O O O O O O O B-geo O O O O O,JJ NNP NNP NNP NNP RB VBD PRP VBZ RB VB NNS NNP VBZ VB DT NNS .
+He called the documents inconsistent and incomprehensible .,O O O O O O O O,PRP VBD DT NNS JJ CC JJ .
+But Colombian authorities say the documents show that Mr. Chavez planned to give FARC rebels $ 300 million .,O B-gpe O O O O O O B-per I-per O O O B-org O O O O O,CC JJ NNS VBP DT NNS VBP IN NNP NNP VBD TO VB NNP NNS $ CD CD .
+They say the documents were found in the computer of FARC leader Raul Reyes during a cross-border raid in Ecuador last month .,O O O O O O O O O O B-org O B-per I-per O O O O O B-geo O O O,PRP VBP DT NNS VBD VBN IN DT NN IN NNP NN NNP NNP IN DT JJ NN IN NNP JJ NN .
+Reyes was killed in that raid .,B-per O O O O O O,NNP VBD VBN IN DT NN .
+Venezuela and Ecuador responded to the raid by taking diplomatic action against Colombia and sending troops to the border with Colombia .,B-geo O B-geo O O O O O O O O O B-geo O O O O O O O B-geo O,NNP CC NNP VBD TO DT NN IN VBG JJ NN IN NNP CC VBG NNS TO DT NN IN NNP .
+The leaders of all three countries have since said they have settled the crisis .,O O O O O O O O O O O O O O O,DT NNS IN DT CD NNS VBP IN VBN PRP VBP VBN DT NN .
+Colombia apologized for the raid but called it a necessary part of the struggle against the FARC .,B-geo O O O O O O O O O O O O O O O B-org O,NNP VBD IN DT NN CC VBD PRP DT JJ NN IN DT NN IN DT NNP .

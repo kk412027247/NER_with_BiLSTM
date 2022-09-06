@@ -1,0 +1,9 @@
+Two U.S. astronauts from the space shuttle Discovery have completed a third spacewalk to make external repairs on the International Space Station .,O B-geo O O O O O O O O O O O O O O O O O B-geo I-geo I-geo O,CD NNP NNS IN DT NN NN NNP VBP VBN DT JJ NN TO VB JJ NNS IN DT NNP NNP NNP .
+"Michael Fossum and Ronald Garan spent more than six hours Sunday outside the orbiting laboratory , where they replaced a nitrogen tank used to cool the station .",B-per I-per O B-per I-per O O O B-tim O B-tim O O O O O O O O O O O O O O O O O,"NNP NNP CC NNP NNP VBD JJR IN CD NNS NNP IN DT NN NN , WRB PRP VBD DT NN NN VBN TO VB DT NN ."
+They also inspected a problematic joint attached to the station 's solar power panels .,O O O O O O O O O O O O O O O,PRP RB VBD DT JJ NN VBN TO DT NN POS JJ NN NNS .
+The astronauts collected samples of debris from the joint for analysis on Earth .,O O O O O O O O O O O O B-geo O,DT NNS VBD NNS IN NN IN DT NN IN NN IN NNP .
+This was the astronauts ' final spacewalk of the 14-day shuttle mission .,O O O O O O O O O B-tim I-tim I-tim O,DT VBD DT NNS POS JJ NN IN DT JJ NN NN .
+The Discovery arrived at the station last week to install a new Japanese laboratory named Kibo .,O O O O O O O O O O O O B-gpe O O B-org O,DT NN VBD IN DT NN JJ NN TO VB DT JJ JJ NN VBN NNP .
+"On Saturday , Japanese Prime Minister Yasuo Fukuda spoke to Japanese astronaut Akihiko Hoshide through a video link to congratulate the team on its work .",O B-tim O B-gpe B-per O B-per I-per O O B-gpe O B-per I-per O O O O O O O O O O O O,"IN NNP , JJ NNP NNP NNP NNP VBD TO JJ NN NNP NNP IN DT NN NN TO VB DT NN IN PRP$ NN ."
+Hoshide and the other astronauts tested the Kibo 's robotic arm for the first time on Saturday .,B-per O O O O O O B-org O O O O O O O O B-tim O,NNP CC DT JJ NNS VBD DT NNP POS JJ NN IN DT JJ NN IN NNP .
+"Kibo is Japanese for "" hope . """,B-org O B-gpe O O O O O,NNP VBZ JJ IN LQU NN . RQU

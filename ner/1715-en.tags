@@ -1,0 +1,7 @@
+Chinese media report that an explosion at a karaoke parlor in northeastern China has killed 25 people and wounded 33 others .,B-gpe O O O O O O O O O O O B-geo O O O O O O O O O,JJ NNS NN IN DT NN IN DT NN NN IN JJ NNP VBZ VBN CD NNS CC VBD CD NNS .
+Pictures of the blast posted online by state-run Chinese media show the flattened remains of what was previously the karaoke parlor .,O O O O O O O O B-gpe O O O O O O O O O O O O O,NNP IN DT NN VBD NN IN JJ JJ NNS VBP DT VBN NNS IN WP VBD RB DT NN NN .
+Several cars appeared to have been destroyed during the explosion .,O O O O O O O O O O O,JJ NNS VBD TO VB VBN VBN IN DT NN .
+The blast occurred late Wednesday night in Liaoning province 's Benxi county .,O O O O B-tim I-tim O O O O B-geo O O,DT NN VBD JJ NNP NN IN VBG NN POS NNP NN .
+The official Xinhua news agency reports that authorities are investigating the cause of the blast .,O O B-org O O O O O O O O O O O O O,DT JJ NNP NN NN NNS IN NNS VBP VBG DT NN IN DT NN .
+"The report says that several employees , including the wife of the parlor owner , who was killed , were being questioned .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ IN JJ NNS , VBG DT NN IN DT NN NN , WP VBD VBN , VBD VBG VBN ."
+It did not say whether they were being treated as suspects .,O O O O O O O O O O O O,PRP VBD RB VB IN PRP VBD VBG VBN IN NNS .

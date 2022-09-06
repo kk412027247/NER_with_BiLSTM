@@ -1,0 +1,7 @@
+"The Israeli government has decided to allow 8,000 Ethiopians who claim Jewish descent to enter the country .",O B-gpe O O O O O O B-gpe O O O O O O O O O,DT JJ NN VBZ VBN TO VB CD NNS WP VBP JJ NN TO VB DT NN .
+"Israel 's Prime Minister Benjamin Netanyahu , in remarks to his Cabinet Sunday , spoke of a "" humanitarian crisis "" and a "" moral commitment "" to help members of a group known as the Falash Mura .",B-geo O B-per I-per I-per I-per O O O O O B-geo B-tim O O O O O O O O O O O O O O O O O O O O O O O B-org I-org O,"NNP POS NNP NNP NNP NNP , IN NNS TO PRP$ NNP NNP , VBD IN DT LQU JJ NN LQU CC DT LQU JJ NN LQU TO VB NNS IN DT NN VBN IN DT NNP NNP ."
+They are Ethiopians who say they were forced to convert to Christianity .,O O B-gpe O O O O O O O O B-geo O,PRP VBP NNS WP VBP PRP VBD VBN TO VB TO NNP .
+Mr. Netanyahu said the Falash Mura will be brought to Israel in stages over the next three years .,B-per I-per O O B-org I-org O O O O B-geo O O O O O B-tim O O,NNP NNP VBD DT NNP NNP MD VB VBN TO NNP IN NNS IN DT JJ CD NNS .
+They will then need to convert before being granted Israeli citizenship .,O O O O O O O O O B-gpe O O,PRP MD RB VB TO VB IN VBG VBN JJ NN .
+"Some 100,000 Ethiopian Jews now live in Israel .",O O B-gpe O O O O B-geo O,DT CD JJ NNPS RB VBP IN NNP .
+"They came to the country during the 1980s and 1990s under the Law of Return , which provides Israeli citizenship to all Jews .",O O O O O O O B-tim O B-tim O O B-org I-org I-org O O O B-gpe O O O O O,"PRP VBD TO DT NN IN DT NNS CC NNS IN DT NN IN NNP , WDT VBZ JJ NN TO DT NNPS ."

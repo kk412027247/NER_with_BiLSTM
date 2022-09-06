@@ -1,0 +1,10 @@
+French police say vandals have desecrated nearly 150 Muslim grave sites at a World War I military cemetery in northern France .,B-gpe O O O O O O O O O O O O B-eve I-eve I-eve O O O O B-geo O,JJ NNS VBP NNS VBP VBN RB CD JJ JJ NNS IN DT NNP NNP NNP JJ NN IN JJ NNP .
+"Authorities say headstones were inscribed Saturday night with anti-Islamic slogans and graffiti deriding Justice Minister Rachida Dati , who is of North African origin .",O O O O O B-tim I-tim O O O O O O B-org O B-per I-per O O O O O B-gpe O O,"NNS VBP NNS VBD VBN NNP NN IN JJ NNS CC NNS VBG NNP NN NNP NNP , WP VBZ IN JJ JJ NN ."
+A pig 's head was found hanging from one grave marker .,O O O O O O O O O O O O,DT NN POS NN VBD VBN VBG IN CD JJ NN .
+"French President Nicolas Sarkozy called the vandalism a form of "" unacceptable racism . """,B-gpe B-per I-per I-per O O O O O O O O O O O,JJ NNP NNP NNP VBD DT NN DT NN IN RQU JJ NN . LQU
+He said he shares the pain of his country 's Muslim community - the largest in Europe .,O O O O O O O O O O O O O O O O B-geo O,PRP VBD PRP VBZ DT NN IN PRP$ NN POS NN NN IN DT JJS IN NNP .
+The desecration came less than a year after youths painted Nazi inscriptions and swastikas on Muslim tombs in the same cemetery .,O O O O O O O O O O B-geo O O O O O O O O O O O,DT NN VBD JJR IN DT NN IN NNS VBD NNP NNS CC NNS IN NNP NNS IN DT JJ NN .
+Police arrested two suspects in the 2007 vandalism .,O O O O O O B-tim O O,NNS VBN CD NNS IN DT CD NN .
+Both were convicted and sentenced to one-year prison terms .,O O O O O O O O O O,DT VBD VBN CC VBN TO JJ NN NNS .
+"From 1914 to 1917 , France mobilized about 600,000 colonial subjects , including many Muslims from Algeria and Tunisia .",B-tim I-tim I-tim I-tim O B-geo O O O O O O O O O O B-geo O B-geo O,"IN CD TO CD , NNP VBD IN CD JJ NNS , VBG JJ NNPS IN NNP CC NNP ."
+Seventy-eight thousand of those conscripts were killed .,O O O O O O O O,CD CD IN DT NNS VBD VBN .

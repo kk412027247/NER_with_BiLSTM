@@ -1,0 +1,7 @@
+"A boat accident in Bangladesh has killed at least 37 people , most of them women and children .",O O O O B-geo O O O O O O O O O O O O O O,"DT NN NN IN NNP VBZ VBN IN JJS CD NNS , JJS IN PRP NNS CC NNS ."
+Authorities say many of the male passengers were able to swim ashore .,O O O O O O O O O O O O O,NNS VBP NN IN DT NN NNS VBD JJ TO VB RB .
+Local officials say the boat capsized on the Surma river in northeastern Bangladesh late Saturday after colliding with a cargo ship .,O O O O O O O O B-geo I-geo O B-geo I-geo O B-tim O O O O O O O,JJ NNS VBP DT NN VBN IN DT NNP NN IN JJ NNP JJ NNP IN VBG IN DT NN NN .
+Officials say at least 80 people were on board the boat .,O O O O O O O O O O O O,NNS VBP IN JJS CD NNS VBD IN NN DT NN .
+"Officials say the area where the boat went down , in the Sunamganj district about 240 kilometers northeast of Dhaka , is in one of the most remote parts of the country , making it difficult for additional help to reach the site .",O O O O O O O O O O O O B-geo O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT NN WRB DT NN VBD RB , IN DT NNP NN IN CD NNS RB IN NNP , VBZ IN CD IN DT RBS JJ NNS IN DT NN , VBG PRP JJ IN JJ NN TO VB DT NN ."
+Bangladesh has more than 200 rivers .,B-geo O O O O O O,NNP VBZ JJR IN CD NNS .
+Boat accidents are common due to lax safety regulations .,O O O O O O O O O O,NNP NNS VBP JJ JJ TO JJ NN NNS .

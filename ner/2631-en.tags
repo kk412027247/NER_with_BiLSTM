@@ -1,0 +1,8 @@
+"Typhoon Longwang is swirling toward mainland China after pounding Taiwan Sunday , leaving one person dead , one missing , and 46 injured while disrupting flights and downing power lines .",B-org I-org O O O O B-geo O O B-geo B-tim O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBZ VBG IN JJ NNP IN VBG NNP NNP , VBG CD NN JJ , CD JJ , CC CD NN IN VBG NNS CC VBG NN NNS ."
+Officials say a 60-year-old man died after he was hit by flying debris .,O O O O O O O O O O O O O O,NNS VBP DT JJ NN VBD IN PRP VBD VBN IN VBG NN .
+A woman is missing and feared dead after being washed away by flash floods in the central town of Hoping .,O O O O O O O O O O O O O O O O O O O B-geo O,DT NN VBZ VBG CC VBD JJ IN VBG VBN RB IN NN NNS IN DT JJ NN IN NNP .
+Authorities say most of the injuries were caused by flying debris .,O O O O O O O O O O O O,NNS VBP JJS IN DT NNS VBD VBN IN VBG NN .
+Taiwan 's Central Weather Bureau said the typhoon made landfall early Sunday and left in the afternoon .,B-geo O B-org I-org I-org O O O O O O B-tim O O O O B-tim O,NNP POS NNP NNP NNP VBD DT NN VBD NN JJ NNP CC VBD IN DT NN .
+The foreign ministry says the storm interrupted Taiwan President Chen Shui-bian 's flight home from a two-week trip abroad .,O O O O O O O B-geo B-per I-per I-per O O O O O B-tim O O O,DT JJ NN VBZ DT NN JJ NNP NNP NNP NNP POS NN NN IN DT JJ NN RB .
+Officials said he landed on the Indonesian island of Bali Sunday rather than fly to Taiwan .,O O O O O O B-gpe O O B-geo B-tim O O O O B-geo O,NNS VBD PRP VBD IN DT JJ NN IN NNP NNP RB IN VB TO NNP .
+The ministry says the president will stay in Bali until the weather clears in Taiwan .,O O O O O O O O B-geo O O O O O B-geo O,DT NN VBZ DT NN MD VB IN NNP IN DT NN VBZ IN NNP .

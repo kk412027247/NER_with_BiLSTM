@@ -1,0 +1,4 @@
+"From the dazzling Opening Ceremonies to the number of gold medals won , China 's Olympic performance has been a source of great national pride .",O O O O O O O O O O O O O B-geo O O O O O O O O O O O O,"IN DT JJ NN NNS TO DT NN IN NN NNS VBN , NNP POS NNP NN VBZ VBN DT NN IN JJ JJ NN ."
+And any dissent has been quickly silenced .,O O O O O O O O,CC DT NN VBZ VBN RB VBN .
+So it comes as no surprise that Chinese fans at the Beijing Olympics have been boisterous supporters of their national team .,O O O O O O O B-gpe O O O B-geo I-geo O O O O O O O O O,IN PRP VBZ IN DT NN IN JJ NNS IN DT NNP NNPS VBP VBN JJ NNS IN PRP$ JJ NN .
+But VOA 's Brian Padden was surprised to learn that many Chinese are also rooting for the Americans .,O B-org O B-per I-per O O O O O O B-gpe O O O O O B-gpe O,CC NNP POS NNP NNP VBD VBN TO VB IN JJ NNS VBP RB VBG IN DT NNS .

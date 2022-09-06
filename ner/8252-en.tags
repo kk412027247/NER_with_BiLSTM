@@ -1,0 +1,6 @@
+Palestinian officials say Israeli forces operating in the Gaza Strip killed five Palestinians Monday .,B-gpe O O B-gpe O O O O B-geo I-geo O O B-gpe B-tim O,JJ NNS VBP JJ NNS VBG IN DT NNP NNP VBD CD NNS NNP .
+The officials say two of the dead were from Hamas and two were from Palestinian President Mahmoud Abbas ' security guard .,O O O O O O O O O B-org O O O O B-gpe B-per I-per I-per O O O O,DT NNS VBP CD IN DT NN VBD IN NNP CC CD VBD IN JJ NNP NNP NNP POS NN NN .
+They say the fifth victim was a civilian .,O O O O O O O O O,PRP VBP DT JJ NN VBD DT JJ .
+Israeli forces entered the Gaza City district on Saturday as part of an operation against militants .,B-gpe O O O B-geo I-geo O O B-tim O O O O O O O O,JJ NNS VBD DT NNP NNP NN IN NNP IN NN IN DT NN IN NNS .
+"Since then , Israeli troops have killed several suspected militants and wounded several people , including two journalists .",O O O B-gpe O O O O O O O O O O O O O O O,"IN RB , JJ NNS VBP VBN JJ JJ NNS CC VBD JJ NNS , VBG CD NNS ."
+"In a separate incident Monday , Hamas gunmen shot and killed a Palestinian motorist in southern Gaza when he refused to stop at a Hamas roadblock .",O O O O B-tim O B-org O O O O O B-gpe O O B-geo I-geo O O O O O O O B-org O O,"IN DT JJ NN NNP , NNP NNS VBD CC VBD DT JJ NN IN JJ NNP WRB PRP VBD TO VB IN DT NNP NN ."

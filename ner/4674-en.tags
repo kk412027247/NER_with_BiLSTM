@@ -1,0 +1,7 @@
+Afghan police have killed a suspected Taleban commander during a gunbattle in southern Helmand province .,B-gpe O O O O O B-org O O O O O O B-geo O O,JJ NNS VBP VBN DT JJ NNP NN IN DT NN IN JJ NNP NN .
+"Officials said Tuesday , that the fighting started Monday when Taleban fighters ambushed a security patrol .",O O B-tim O O O O O B-tim O B-org O O O O O O,"NNS VBD NNP , IN DT NN VBD NNP WRB NNP NNS VBD DT NN NN ."
+They identified the dead commander as Mullah Kabir .,O O O O O O B-per I-per O,PRP VBD DT JJ NN IN NNP NNP .
+A second militant was killed in the clash and 12 others were arrested .,O O O O O O O O O O O O O O,DT JJ NN VBD VBN IN DT NN CC CD NNS VBD VBN .
+Helmand province has been the scene of several clashes in recent weeks .,B-geo O O O O O O O O O O O O,NNP NN VBZ VBN DT NN IN JJ NNS IN JJ NNS .
+"In late October , at least eight Afghan police were killed in an ambush there .",O O B-tim O O O O B-gpe O O O O O O O O,"IN JJ NNP , IN JJS CD JJ NNS VBD VBN IN DT NN RB ."
+"Meanwhile , in the capital , Kabul , police arrested three men they say were planning a suicide bombing .",O O O O O O B-geo O O O O O O O O O O O O O,"RB , IN DT NN , NNP , NN VBN CD NNS PRP VBP VBD VBG DT NN NN ."

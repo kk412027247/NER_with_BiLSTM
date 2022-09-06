@@ -1,0 +1,6 @@
+"This year , the price of oil has soared , in recent weeks reaching a new high of $ 135 a barrel .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN , DT NN IN NN VBZ VBN , IN JJ NNS VBG DT JJ NN IN $ CD DT NN ."
+"This has sparked protests in many countries , including Britain , where truck drivers recently blocked roads in several cities to protest the price of fuel .",O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O,"DT VBZ VBN NNS IN JJ NNS , VBG NNP , WRB NN NNS RB VBD NNS IN JJ NNS TO VB DT NN IN NN ."
+"For some , the high cost of fuel has prompted more creativity .",O O O O O O O O O O O O O,"IN DT , DT JJ NN IN NN VBZ VBN JJR NN ."
+A growing number of motorists are making their own bio-diesel with recycled cooking oil .,O O O O O O O O O O O O O O O,DT VBG NN IN NNS VBP VBG PRP$ JJ NN IN JJ NN NN .
+"It 's only cheaper , but greener too .",O O O O O O O O O,"PRP VBZ RB JJR , CC NN RB ."
+"Catherine Drew visited a course near Oxford , England to see how it is done .",B-per I-per O O O O B-geo O B-geo O O O O O O O,"NNP NNP VBD DT NN IN NNP , NNP TO VB WRB PRP VBZ VBN ."

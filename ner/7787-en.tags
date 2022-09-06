@@ -1,0 +1,4 @@
+"A CARTER was driving a waggon loaded with a merchant 's goods , when the wheels stuck in a rut .",O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD VBG DT NN VBN IN DT NN POS NNS , WRB DT NNS VBN IN DT NN ."
+"Thereupon he began to pray to Hercules , without other exertion .",O O O O O O B-per O O O O O,"IN PRP VBD TO VB TO NNP , IN JJ NN ."
+""" Indolent fellow ! "" said Hercules ; "" you ask me to help you , but will not help yourself . """,O O O O O O B-per O O O O O O O O O O O O O O O O,"LQU JJ NN . RQU VBD NNP ; LQU PRP VB PRP TO VB PRP , CC MD RB VB PRP . RQU"
+So the Carter helped himself to so many of the most valuable goods that the horses easily ran away with the remainder .,O O O O O O O O O O O O O O O O O O O O O O O,IN DT NN VBD PRP TO RB NN IN DT RBS JJ NNS IN DT NNS RB VBD RB IN DT NN .

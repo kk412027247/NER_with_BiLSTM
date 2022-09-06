@@ -1,0 +1,4 @@
+A New York art show chronicles the impact of the feminist movement on art between 1965 and 1980 .,O B-geo I-geo O O O O O O O O O O O B-tim I-tim O B-tim O,DT NNP NNP NN NN VBZ DT NN IN DT JJ NN IN NN IN CD CC CD .
+"The show features works by artists from around the world and includes paintings , sculptures and performance art .",O O O O O O O O O O O O O O O O O O O,"DT NN VBZ NNS IN NNS IN IN DT NN CC VBZ NNS , NNS CC NN NN ."
+VOA 's Behnam Nateghi toured the show at the P.S. One Contemporary Art Center .,B-org O B-per I-per O O O O O B-art I-art I-art I-art I-art O,NNP POS NNP NNP VBD DT NN IN DT NNP CD NNP NNP NNP .
+Jim Bertel narrates .,B-per I-per O O,NNP NNP VBZ .

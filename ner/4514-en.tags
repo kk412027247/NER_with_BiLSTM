@@ -1,0 +1,6 @@
+"Croatia 's Janica Kostelic has won her first ever women 's World Cup giant slalom title in Spindleruv Mlyn , the Czech Republic .",B-geo O B-geo I-geo O O O O O O O O O O O O O B-geo I-geo O O B-gpe B-geo O,"NNP POS NNP NNP VBZ VBN PRP$ JJ RB NNS POS NNP NNP NN NN NN IN NNP NNP , DT JJ NNP ."
+"Kostelic finished with a combined time of two minutes , 21.3 seconds .",B-geo O O O O O O O O O B-tim O O,"NNP VBD IN DT JJ NN IN CD NNS , CD NNS ."
+"Kathrin Zettel of Austria was second , 0.08 of one second back .",B-per I-per O B-geo O O O O O O O O O,"NNP NNP IN NNP VBD JJ , CD IN CD NN RB ."
+"Another Austrian , Marlies Schild , was third ( 2:21.40 ) .",O B-gpe O B-per I-per O O O O O O O,"DT NN , NNP NNP , VBD JJ LRB CD RRB ."
+"Kostelic , the reigning Olympic giant slalom champion , had never won the event on the World Cup circuit before .",B-geo O O O O O O O O O O O O O O O O O O O O,"NNP , DT VBG NNP JJ NN NN , VBD RB VBN DT NN IN DT NNP NNP NN IN ."
+"Kostelic has won previously in World Cup slalom and combined events and claimed the world championships in the downhill , the slalom and the combined .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN RB IN NNP NNP NN CC VBN NNS CC VBD DT NN NNS IN DT NN , DT NN CC DT VBN ."

@@ -1,0 +1,6 @@
+"Populated for centuries by aboriginal peoples , the island was claimed by the Spanish Crown in 1493 following COLUMBUS ' second voyage to the Americas .",O O O O O O O O O O O O O B-gpe O O O O O O O O O B-geo I-geo O,"VBN IN NNS IN JJ NNS , DT NN VBD VBN IN DT JJ NNP IN CD VBG NNS POS JJ NN TO DT NNPS ."
+"In 1898 , after 400 years of colonial rule that saw the indigenous population nearly exterminated and African slave labor introduced , Puerto Rico was ceded to the US as a result of the Spanish-American War .",O B-tim O O O O O O O O O O O O O O O B-gpe O O O O B-geo I-geo O O O O B-geo O O O O O O O O,"IN CD , IN CD NNS IN NN NN WDT VBD DT JJ NN RB VBD CC JJ NN NN VBN , NNP NNP VBD VBN TO DT NNP IN DT NN IN DT NNP NNP ."
+Puerto Ricans were granted US citizenship in 1917 .,B-geo B-per O O B-geo O O B-tim O,NNP NNPS VBD VBN NNP NN IN CD .
+Popularly-elected governors have served since 1948 .,O O O O B-tim I-tim O,JJ NNS VBP VBN IN CD .
+"In 1952 , a constitution was enacted providing for internal self government .",O B-tim O O O O O O O O O O O,"IN CD , DT NN VBD VBN VBG IN JJ JJ NN ."
+"In plebiscites held in 1967 , 1993 , and 1998 , voters chose not to alter the existing political status .",O O O O B-tim I-tim I-tim O O B-tim O O O O O O O O O O O,"IN NNS VBN IN CD , CD , CC CD , NNS VBD RB TO VB DT VBG JJ NN ."

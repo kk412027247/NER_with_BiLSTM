@@ -1,0 +1,7 @@
+A Palestinian court has sentenced a man to death by hanging for selling West Bank land to Israeli citizens .,O B-gpe O O O O O O O O O O O B-org I-org O O B-gpe O O,DT JJ NN VBZ VBN DT NN TO NN IN VBG IN VBG NNP NNP NN TO JJ NNS .
+"The sentence was handed down Tuesday by a court in the West Bank town of Hebron , but it may be unlikely to be carried out .",O O O O O B-tim O O O O O B-org I-org O O B-geo O O O O O O O O O O O,"DT NN VBD VBN RP NNP IN DT NN IN DT NNP NNP NN IN NNP , CC PRP MD VB JJ TO VB VBN RP ."
+Prosecutors say the defendant sold to Israelis land that did not belong to him in the village of Beit Omar near Hebron .,O O O O O O B-gpe O O O O O O O O O O O B-geo I-geo O B-geo O,NNS VBP DT NN VBD TO NNS NN WDT VBD RB VB TO PRP IN DT NN IN NNP NNP IN NNP .
+The Palestinian Authority considers the sale of Palestinian land to Israelis to be treason .,O B-gpe O O O O O B-gpe O O B-gpe O O O O,DT JJ NNP VBZ DT NN IN JJ NN TO NNS TO VB NN .
+Palestinian President Mahmoud Abbas must approve the sentence for it to be carried out .,B-gpe B-per I-per I-per O O O O O O O O O O O,JJ NNP NNP NNP MD VB DT NN IN PRP TO VB VBN RP .
+He has withheld approval in many other death penalty cases .,O O O O O O O O O O O,PRP VBZ VBN NN IN JJ JJ NN NN NNS .
+Several other Palestinians charged with collaborating with Israel are currently on death row .,O O B-gpe O O O O B-geo O O O O O O,JJ JJ NNS VBN IN VBG IN NNP VBP RB IN NN NN .

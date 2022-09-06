@@ -1,0 +1,7 @@
+"Authorities in the western Indian state of Maharashtra say a passenger bus has plunged into a ravine , killing 21 people and injuring 40 others .",O O O O B-gpe O O B-geo O O O O O O O O O O O O O O O O O O,"NNS IN DT JJ JJ NN IN NNP VBP DT NN NN VBZ VBN IN DT NN , VBG CD NNS CC VBG CD NNS ."
+The authorities say the accident happened in early afternoon Saturday near Vani town .,O O O O O O O O B-tim I-tim O B-geo O O,DT NNS VBP DT NN VBD IN JJ NN NNP IN NNP NN .
+They say the injured were transferred to local hospitals and that an investigation is under way .,O O O O O O O O O O O O O O O O O,PRP VBP DT NN VBD VBN TO JJ NNS CC IN DT NN VBZ IN NN .
+The accident comes one day after 53 people were killed when an overcrowded bus plunged into a deep gorge in Indian Kashmir .,O O O O O O O O O O O O O O O O O O O O B-gpe O O,DT NN VBZ CD NN IN CD NNS VBD VBN WRB DT JJ NN VBD IN DT JJ NN IN JJ NNP .
+"Also Saturday , in an unrelated development , a moderate earthquake struck near India 's Andaman Islands .",O B-tim O O O O O O O O O O O B-geo O B-geo I-geo O,"RB NNP , IN DT JJ NN , DT JJ NN VBD IN NNP POS NNP NNP ."
+The Hong Kong Observatory and the Indian Meteorological Department say the quake measured 5.8 on the Richter scale and was centered west of the islands .,O B-geo I-geo I-geo O O B-gpe B-org I-org O O O O O O O B-geo O O O O O O O O O,DT NNP NNP NNP CC DT JJ NNP NNP VBP DT NN VBD CD IN DT NNP NN CC VBD VBN JJS IN DT NNS .
+There were no immediate reports of damage or injuries .,O O O O O O O O O O,EX VBD DT JJ NNS IN NN CC NNS .

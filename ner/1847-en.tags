@@ -1,0 +1,6 @@
+Afghanistan 's Interior Ministry says a suspected suicide bomber has tried to kill the governor of southern Helmand province by detonating a car bomb outside his office .,B-org O B-org I-org O O O O O O O O O O O O O B-geo O O O O O O O O O O,NNP POS NNP NNP VBZ DT JJ NN NN VBZ VBN TO VB DT NN IN JJ NNP NN IN VBG DT NN NN IN PRP$ NN .
+A ministry spokesman says the blast occurred Monday just before key local officials were to meet at the governor 's office .,O O O O O O O B-tim O O O O O O O O O O O O O O,DT NN NN VBZ DT NN VBD NNP RB IN JJ JJ NNS VBD TO VB IN DT NN POS NN .
+"The governor was not hurt in the explosion but the bomber , who was described as a foreigner , was seriously wounded .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD RB VBN IN DT NN CC DT NN , WP VBD VBN IN DT NN , VBD RB VBN ."
+He later died in a local hospital .,O O O O O O O O,PRP RB VBD IN DT JJ NN .
+A man claiming to be a Taleban spokesman said the attacker was a local Taleban activist .,O O O O O O B-org O O O O O O O B-org O O,DT NN VBG TO VB DT NNP NN VBD DT NN VBD DT JJ NNP NN .
+The ousted Taleban regime and its supporters have recently stepped up insurgent activities mainly in southern and eastern Afghanistan .,O O B-org O O O O O O O O O O O O O O O B-geo O,DT JJ NNP NN CC PRP$ NNS VBP RB VBN RP JJ NNS RB IN JJ CC JJ NNP .

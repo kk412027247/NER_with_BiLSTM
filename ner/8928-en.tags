@@ -1,0 +1,6 @@
+The World Health Organization estimates that between five and 10 percent of us suffer from depression at any given time .,O B-org I-org I-org O O O B-tim I-tim O O O O O O O O O O O O,DT NNP NNP NNP VBZ IN IN CD CC CD NN IN PRP VBP IN NN IN DT VBN NN .
+But fewer than a third of those with depression receive appropriate care .,O O O O O O O O O O O O O,CC JJR IN DT NN IN DT IN NN VBP JJ NN .
+"In the United States , more than 21 million people suffer from depression .",O O B-geo I-geo O O O O O O O O O O,"IN DT NNP NNPS , JJR IN CD CD NNS VBP IN NN ."
+"For millions , no treatment works .",O O O O O O O,"IN NNS , DT NN VBZ ."
+"Now , doctors are trying an experimental technique that shows promise in treating some difficult cases of depression .",O O O O O O O O O O O O O O O O O O O,"RB , NNS VBP VBG DT JJ NN WDT VBZ NN IN VBG DT JJ NNS IN NN ."
+VOA 's Carol Pearson reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

@@ -1,0 +1,5 @@
+"Turkish authorities say 32 people , most of them children , were killed Saturday when a bus full of primary school students collided with a truck .",B-gpe O O O O O O O O O O O O B-tim O O O O O O O O O O O O O,"JJ NNS VBP CD NNS , JJS IN PRP NNS , VBD VBN NNP WRB DT NN JJ IN JJ NN NNS VBD IN DT NN ."
+The state-run Anatolia news agency quoted local authorities as saying 30 people were injured .,O O O O O O O O O O O O O O O,DT JJ NNP NN NN VBN JJ NNS IN VBG CD NNS VBD VBN .
+"Anatolia said the crash took place in central Turkey as the bus was carrying children from the western city of Izmir to the tourist region of Cappadocia , known for its unusual rock formations .",O O O O O O O O B-geo O O O O O O O O O O O B-geo O O O O O B-geo O O O O O O O O,"NNP VBD DT NN VBD NN IN JJ NNP IN DT NN VBD VBG NNS IN DT JJ NN IN NNP TO DT NN NN IN NNP , VBN IN PRP$ JJ NN NNS ."
+The cause of the accident was not known .,O O O O O O O O O,DT NN IN DT NN VBD RB VBN .
+Anatolia reported that one of the two drivers said he was sleeping when the crash took place .,O O O O O O O O O O O O O O O O O O,NNP VBD IN CD IN DT CD NNS VBD PRP VBD VBG WRB DT NN VBD NN .

@@ -1,0 +1,6 @@
+Health officials in India have reported the country 's first death from the H1N1 swine flu virus .,O O O B-geo O O O O O O O O O O O O O O,NN NNS IN NNP VBP VBN DT NN POS JJ NN IN DT NNP NN NN NN .
+Officials quoted in media reports say the victim was a 14-year-old girl in the western city of Pune .,O O O O O O O O O O O O O O O O O B-geo O,NNS VBN IN NNS NNS VBP DT NN VBD DT JJ NN IN DT JJ NN IN NNP .
+India has reported hundreds of cases of swine flu but Monday 's reported death is the country 's first .,B-geo O O O O O O O O O B-tim O O O O O O O O O,NNP VBZ VBN NNS IN NNS IN NN NN CC NNP POS VBN NN VBZ DT NN POS JJ .
+The World Health Organization has declared the swine flu virus a pandemic .,O B-org I-org I-org O O O O O O O O O,DT NNP NNP NNP VBZ VBN DT JJ NN NN DT NN .
+"Since late July , The WHO reports 134,503 cases of swine flu worldwide and 816 deaths .",O O B-tim O O B-org O O O O O O O O O O O,"IN JJ NNP , DT NNP VBZ CD NNS IN NN NN NN CC CD NNS ."
+"Health experts say the majority of patients infected with the virus recover fully within a week , even without any medical treatment .",O O O O O O O O O O O O O O O O O O O O O O O,"NN NNS VBP DT NN IN NNS VBN IN DT NN VB RB IN DT NN , RB IN DT JJ NN ."

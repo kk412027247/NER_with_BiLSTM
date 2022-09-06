@@ -1,0 +1,6 @@
+The Turkish army says it has bombed a Kurdish rebel target in northern Iraq .,O B-gpe O O O O O O O O O O O B-geo O,DT JJ NN VBZ PRP VBZ VBN DT JJ NN NN IN JJ NNP .
+"The military said on its Web site Sunday was "" successful , "" but did not provide any data on casualties .",O O O O O O O B-tim O O O O O O O O O O O O O O,"DT NN VBD IN PRP$ NNP NN NNP VBD LQU JJ , LQU CC VBD RB VB DT NNS IN NNS ."
+"Turkey has stepped up military operations against PKK rebels this year both in Turkey and across the border northern Iraq , where thousands of rebels are based .",B-org O O O O O O B-org B-tim O O O O B-geo O O O O O B-geo O O O O O O O O,"NNP VBZ VBN RP JJ NNS IN NNP NNS DT NN DT IN NNP CC IN DT NN JJ NNP , WRB NNS IN NNS VBP VBN ."
+The PKK has been fighting for Kurdish autonomy in southeastern Turkey since 1984 .,O B-org O O O O O O O O B-org O B-tim O,DT NNP VBZ VBN VBG IN NNP NN IN JJ NNP IN CD .
+"The violence has killed more than 30,000 people .",O O O O O O O O O,DT NN VBZ VBN JJR IN CD NNS .
+"Turkey , the United States and the European Union classify the PKK , formally known as the Kurdistan Workers ' Party , as a terrorist group .",B-org O O B-geo I-geo O O B-org I-org O O B-org O O O O O B-org I-org I-org I-org O O O O O O,"NNP , DT NNP NNPS CC DT NNP NNP VBP DT NNP , RB VBN IN DT NNP NNP POS NNP , IN DT JJ NN ."

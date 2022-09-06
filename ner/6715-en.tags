@@ -1,0 +1,8 @@
+Iraqi authorities say a suicide bomber killed four policemen in Baghdad and gunmen killed at least 11 other Iraqis in another town Thursday .,B-gpe O O O O O O O O O B-geo O O O O O O O B-gpe O O O B-tim O,JJ NNS VBP DT NN NN VBD CD NNS IN NNP CC NNS VBD IN JJS CD JJ NNS IN DT NN NNP .
+Police say the gunmen killed the 11 men and women in Latifiyah .,O O O O O O O O O O O B-geo O,NNS VBP DT NNS VBD DT CD NNS CC NNS IN NNP .
+They believe the victims were members of an extended Shi'ite family .,O O O O O O O O O O O O,PRP VBP DT NNS VBD NNS IN DT JJ NNP NN .
+"To the north , in Baghdad , the suicide bomber blew himself up outside Iraq 's Interior Ministry .",O O O O O B-geo O O O O O O O O B-geo B-org I-org I-org O,"TO DT NN , IN NNP , DT NN NN VBD PRP RP IN NNP POS NNP NNP ."
+"In a separate attack in the capital , a roadside bomb killed a U.S. soldier .",O O O O O O O O O O O O O B-geo O O,"IN DT JJ NN IN DT NN , DT NN NN VBD DT NNP NN ."
+U.S. Brigadier General Donald Alston said Thursday that U.S. forces expected insurgent attacks to increase after security measures imposed for Iraq 's elections were lifted .,B-org O O B-per I-per O B-tim O B-geo O O O O O O O O O O O B-geo O O O O O,NNP NN NNP NNP NNP VBD NNP IN NNP NNS VBD JJ NNS TO VB IN NN NNS VBN IN NNP POS NNS VBD VBN .
+"Meanwhile , al-Qaida in Iraq posted video footage on the Internet it says shows five Sudanese nationals , including a diplomat , abducted in Baghdad .",O O B-org O B-geo O O O O O O O O O O B-gpe O O O O O O O O B-geo O,"RB , NNP IN NNP VBD NN NN IN DT NN PRP VBZ VBZ CD JJ NNS , VBG DT NN , VBN IN NNP ."
+The group threatened to kill the five unless Sudan cuts ties with Iraq .,O O O O O O O O B-geo O O O B-geo O,DT NN VBD TO VB DT CD IN NNP VBZ NNS IN NNP .

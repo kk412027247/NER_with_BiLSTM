@@ -1,0 +1,9 @@
+"Hummam Hammoudi Against a backdrop of more violence Tuesday , Iraqi legislators appear to be moving closer to beginning work on drafting a permanent constitution for Iraq .",B-org I-org O O O O O O B-tim O B-gpe O O O O O O O O O O O O O O O B-geo O,"NNP NNP IN DT NN IN JJR NN NNP , JJ NNS VBP TO VB VBG JJR TO VBG NN IN VBG DT JJ NN IN NNP ."
+Shi'ite cleric Hummam Hammoudi says he has been chosen to head the 55-member drafting committee .,O O B-per I-per O O O O O O O O O O O O,NNP NN NNP NNP VBZ PRP VBZ VBN VBN TO VB DT JJ NN NN .
+"Mr. Hammoudi is a member of the United Iraqi Alliance , which holds a slim majority in the national assembly .",B-per B-geo O O O O O B-org B-gpe O O O O O O O O O O O O,"NNP NNP VBZ DT NN IN DT NNP JJ NNP , WDT VBZ DT JJ NN IN DT JJ NN ."
+"He said a Kurdish legislator , Fouad Massoum , and a Sunni Arab lawmaker , Adnan al-Janabi , had been chosen to be his deputies .",O O O O O O B-per I-per O O O B-org I-org O O B-per I-per O O O O O O O O O,"PRP VBD DT JJ NN , NNP NNP , CC DT NNP NNP NN , NNP NNP , VBD VBN VBN TO VB PRP$ NNS ."
+"However , parliament has not formally announced the positions .",O O O O O O O O O O,"RB , NN VBZ RB RB VBD DT NNS ."
+The committee will have three months to draw up a permanent constitution acceptable to Iraq 's political and religious communities .,O O O O B-tim O O O O O O O O O B-geo O O O O O O,DT NN MD VB CD NNS TO VB RP DT JJ NN JJ TO NNP POS JJ CC JJ NNS .
+It will then go to a referendum in October .,O O O O O O O O B-tim O,PRP MD RB VB TO DT NN IN NNP .
+"Meanwhile , insurgents continued their efforts to disrupt the new government .",O O O O O O O O O O O O,"RB , NNS VBD PRP$ NNS TO VB DT JJ NN ."
+Officials say a car bomb explosion in central Baghdad killed two civilians and three U.S. soldiers .,O O O O O O O O B-geo O O O O O B-geo O O,NNS VBP DT NN NN NN IN JJ NNP VBD CD NNS CC CD NNP NNS .

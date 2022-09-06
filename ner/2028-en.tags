@@ -1,0 +1,3 @@
+"On July 8 , 1947 , witnesses claim a spaceship with five aliens aboard crashed on a sheep-and-cattle ranch outside Roswell , an incident they say has been covered up by the military .",O B-tim I-tim I-tim I-tim O O O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O,"IN NNP CD , CD , NNS VBP DT NN IN CD NNS IN VBN IN DT JJ NN IN NNP , DT NN PRP VBP VBZ VBN VBN RP IN DT NN ."
+"March 31 , 1948 , nine months after that day , Al Gore was born .",B-tim I-tim I-tim I-tim I-tim I-tim O O B-tim I-tim O B-per I-per O O O,"NNP CD , CD , CD NNS IN DT NN , NNP NNP VBD VBN ."
+That clears up a lot of things .,O O O O O O O O,DT VBZ RP DT NN IN NNS .

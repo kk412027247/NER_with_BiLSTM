@@ -1,0 +1,8 @@
+U.S. authorities have charged an American college student with providing aid to terrorists .,B-org O O O O B-gpe O O O O O O O O,NNP NNS VBP VBN DT JJ NN NN IN VBG NN TO NNS .
+"Court papers unsealed this week show that Syed Haris Ahmed , a mechanical engineering student at Georgia Tech in Atlanta was arrested on March 23 after a year-long investigation .",O O O O O O O B-per I-per I-per O O O O O O B-org I-org O B-geo O O O B-tim I-tim O O O O O,"NN NNS VBN DT NN VBP WDT NNP NNP NNP , DT JJ NN NN IN NNP NNP IN NNP VBD VBN IN NNP CD IN DT JJ NN ."
+"Authorities accuse Ahmed , who was born in Pakistan , of attending a terrorist training camp in Pakistan last year .",O O B-per O O O O O B-geo O O O O O O O O B-geo O O O,"NNS VBP NNP , WP VBD VBN IN NNP , IN VBG DT JJ NN NN IN NNP JJ NN ."
+Ahmed has pleaded not guilty .,B-per O O O O O,NNP VBZ VBN RB JJ .
+He is being held at an undisclosed location .,O O O O O O O O O,PRP VBZ VBG VBN IN DT JJ NN .
+"Authorities say another person from the Atlanta area , 19-year-old Ehsanul Islam Sadequee , was arrested in Bangladesh in connection with the investigation of Ahmed .",O O O O O O B-geo O O B-org I-org I-org I-org O O O O B-geo O O O O O O B-per O,"NNS VBP DT NN IN DT NNP NN , JJ NNP NNP NNP , VBD VBN IN NNP IN NN IN DT NN IN NNP ."
+They say he is being flown to New York to face charges .,O O O O O O O B-geo I-geo O O O O,PRP VBP PRP VBZ VBG VBN TO NNP NNP TO VB NNS .
+Officials say this is the first international terrorism charge filed in the state of Georgia .,O O O O O O O O O O O O O O B-geo O,NNS VBP DT VBZ DT JJ JJ NN NN VBN IN DT NN IN NNP .

@@ -1,0 +1,7 @@
+The main militant group responsible for a string of recent attacks in Nigeria 's southern oil-producing Niger Delta region says it has sabotaged another pipeline belonging to the British-Dutch Shell oil company .,O O O O O O O O O O O O B-geo O O B-org B-gpe B-org O O O O O O O O O O B-geo I-geo O O O,DT JJ NN NN JJ IN DT NN IN JJ NNS IN NNP POS JJ NN NNP NNP NN VBZ PRP VBZ VBN DT NN VBG TO DT NNP NNP NN NN .
+"In an e-mailed statement , the Movement for the Emancipation of the Niger Delta says its fighters attacked the pipeline late Thursday .",O O O O O O O O O O O O B-gpe B-org O O O O O O O B-tim O,"IN DT JJ NN , DT NN IN DT NN IN DT NNP NNP VBZ PRP$ NNS VBD DT NN JJ NNP ."
+It would be the fourth Shell pipeline the group has attacked this month .,O O O O O B-geo O O O O O O O O,PRP MD VB DT JJ NNP NN DT NN VBZ VBN DT NN .
+Shell officials have not confirmed the incident .,B-geo O O O O O O O,NNP NNS VBP RB VBN DT NN .
+Militants and gangs began attacking oil facilities in the Delta in late 2005 to demand that more oil revenue be directed to impoverished local residents .,O O O O O O O O O B-org O O B-tim O O O O O O O O O O O O O,NNS CC NNS VBD VBG NN NNS IN DT NN IN JJ CD TO VB IN JJR NN NN VB VBN TO JJ JJ NNS .
+The attacks have reduced Nigeria 's daily oil output by an estimated 20 percent .,O O O O B-geo O O O O O O O O O O,DT NNS VBP VBN NNP POS JJ NN NN IN DT VBN CD NN .
+The loss of production has contributed to the spike in world oil prices .,O O O O O O O O O O O O O O,DT NN IN NN VBZ VBN TO DT NN IN NN NN NNS .

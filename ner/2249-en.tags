@@ -1,0 +1,8 @@
+A Polish court Thursday upheld an order to extradite to Germany an alleged Israeli intelligence agent suspected in the assassination of a Palestinian militant leader in Dubai .,O B-gpe O B-tim O O O O O O B-geo O O B-gpe O O O O O O O O B-gpe O O O B-geo O,DT JJ NN NNP VBD DT NN TO VB TO NNP DT JJ JJ NN NN VBN IN DT NN IN DT JJ JJ NN IN NNP .
+Israeli citizen Uri Brodsky is accused of forging a German passport used by a member of a team of agents who allegedly killed Hamas commander Mahmoud al-Mabhouh .,B-gpe O B-per I-per O O O O O B-gpe O O O O O O O O O O O O O B-org O B-per I-per O,JJ NN NNP NNP VBZ VBN IN VBG DT JJ NN VBN IN DT NN IN DT NN IN NNS WP RB VBD NNP NN NNP NNP .
+Brodsky was arrested in Warsaw in July .,B-per O O O B-tim I-tim I-tim O,NNP VBD VBN IN NNP IN NNP .
+Germany issued the extradition request for Brodsky to face forgery charges .,B-geo O O O O O B-per O O O O O,NNP VBD DT NN NN IN NNP TO VB NN NNS .
+But the terms of the extradition prevent him from being charged with espionage .,O O O O O O O O O O O O O O,CC DT NNS IN DT NN VB PRP IN VBG VBN IN NN .
+He is expected to be handed over to Germany within 10 days .,O O O O O O O O B-geo B-tim I-tim O O,PRP VBZ VBN TO VB VBN IN TO NNP IN CD NNS .
+"Dubai says agents from Israel 's Mossad intelligence agency used forged passports and fake identities of Australian , British , French , German and Irish nationals in an operation to kill Mabhouh .",B-geo O O O B-geo O B-geo O O O O O O O O O B-gpe O B-gpe O B-gpe O B-gpe O B-gpe O O O O O O B-geo O,"NNP VBZ NNS IN NNP POS NNP NN NN VBD VBN NNS CC JJ NNS IN JJ , JJ , JJ , JJ CC JJ NNS IN DT NN TO VB NNP ."
+Israel neither confirms nor denies involvement in the killing .,B-geo O O O O O O O O O,NNP RB VBZ CC VBZ NN IN DT NN .

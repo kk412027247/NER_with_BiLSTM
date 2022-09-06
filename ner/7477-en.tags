@@ -1,0 +1,4 @@
+"The World Health Organization expects the number of women who smoke to triple over the next generation , if current trends continue .",O B-org I-org I-org O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NNP VBZ DT NN IN NNS WP VBP TO VB IN DT JJ NN , IN JJ NNS VBP ."
+"As a result , it expects more than 200 million women to die from tobacco induced diseases .",O O O O O O O O O O O O O O O O O O,"IN DT NN , PRP VBZ JJR IN CD CD NNS TO VB IN NN JJ NNS ."
+But those who quit can improve their chances of avoiding lung cancer and other tobacco related diseases .,O O O O O O O O O O O O O O O O O O,CC DT WP VBD MD VB PRP$ NNS IN VBG NN NN CC JJ NN VBN NNS .
+VOA 's Carol Pearson has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

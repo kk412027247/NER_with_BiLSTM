@@ -1,0 +1,8 @@
+"China 's official news agency says a 31-year-old poultry farmer is the country 's fifth confirmed human case of bird flu , but the woman has since been released from the hospital after her condition improved .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS JJ NN NN VBZ DT JJ NN NN VBZ DT NN POS NN VBD JJ NN IN NN NN , CC DT NN VBZ IN VBN VBN IN DT NN IN PRP$ NN VBN ."
+"The Xinhua news agency says the woman from Heishan County , Liaoning province in China 's northeast became sick with pneumonia-like symptoms on October 30 and was hospitalized .",O B-org O O O O O O B-geo I-geo O O O O B-geo O O O O O O O O B-tim I-tim O O O O,"DT NNP NN NN VBZ DT NN IN NNP NNP , VBG NN IN NNP POS NN VBD JJ IN JJ NNS IN NNP CD CC VBD VBN ."
+Her condition improved and she was discharged on November 29 .,O O O O O O O O B-tim I-tim O,PRP$ NN VBD CC PRP VBD VBN IN NNP CD .
+Tests later showed the woman had contracted the deadly H5N1 strain of avian flu .,O O O O O O O O O O O O O O O,NNS RB VBD DT NN VBD VBN DT JJ NNP NN IN JJ NN .
+Health officials are now monitoring people who had contact with her .,O O O O O O O O O O O O,NNP NNS VBP RB VBG NNS WP VBD NN IN PRP .
+"Wednesday , China announced its fourth human victim of bird flu , a 10-year-old girl in southern Guangxi region .",B-tim O B-geo O O O O O O O O O O O O O O B-geo O O,"NNP , NNP VBD PRP$ JJ JJ NN IN NN NN , DT JJ NN IN JJ NNP NN ."
+She remains hospitalized .,O O O O,PRP VBZ VBN .
+"Since 2003 , the H5N1 virus has killed nearly 70 people , mostly in southeast Asia .",B-tim I-tim O O O O O O O O O O O O O B-geo O,"IN CD , DT NNP NN VBZ VBN RB CD NNS , RB IN JJ NNP ."

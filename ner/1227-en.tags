@@ -1,0 +1,6 @@
+Authorities in Malawi say two youths were shot and wounded when a guard fired on a crowd fighting to get government-subsidized maize .,O O B-geo O O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP CD NNS VBD VBN CC VBN WRB DT NN VBN IN DT NN VBG TO VB JJ NN .
+The incident occurred earlier this week in Malawi 's drought-stricken southern district of Nsanje .,O O O O O O O B-geo O O O O O B-geo O,DT NN VBD RBR DT NN IN NNP POS JJ JJ NN IN NNP .
+Police say the guard fired while trying to control a crush of people attempting to force their way into a government depot .,O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP DT NN VBD IN VBG TO VB DT NN IN NNS VBG TO VB PRP$ NN IN DT NN NN .
+"Malawi is facing a general food crisis brought on by poor rainfall , inadequate planting supplies , and the impact of the AIDS pandemic .",B-geo O O O O O O O O O O O O O O O O O O O O O B-org O O,"NNP VBZ VBG DT JJ NN NN VBN RP IN JJ NN , JJ NN NNS , CC DT NN IN DT NNP NN ."
+"In October , the government declared a national disaster and appealed for help .",O B-tim O O O O O O O O O O O O,"IN NNP , DT NN VBD DT JJ NN CC VBD IN NN ."
+Aid agencies say five million of Malawi 's 12 million people are in need of food aid .,O O O O O O B-geo O O O O O O O O O O O,JJ NNS VBP CD CD IN NNP POS CD CD NNS VBP IN NN IN NN NN .

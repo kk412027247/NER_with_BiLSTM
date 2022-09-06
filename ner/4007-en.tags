@@ -1,0 +1,7 @@
+The prime minister of Nepal plans to give the U.S. president a Mount Everest rock as a symbol of concern about climate change .,O B-per O O B-gpe O O O O B-geo O O B-geo I-geo O O O O O O O O O O,DT JJ NN IN NNP VBZ TO VB DT NNP NN DT NNP NNP NN IN DT NN IN NN IN NN NN .
+Prime Minister Madhav Kumar Nepal is scheduled to attend a United Nations General Assembly meeting in New York during the coming week .,B-per I-per I-per I-per I-per O O O O O B-org I-org I-org I-org O O B-geo I-geo O O O O O,NNP NNP NNP NNP NNP VBZ VBN TO VB DT NNP NNP NNP NNP NN IN NNP NNP IN DT JJ NN .
+He plans to present President Barack Obama with a stone from the summit of Mount Everest .,O O O O B-per I-per I-per O O O O O O O B-geo I-geo O,PRP VBZ TO VB NNP NNP NNP IN DT NN IN DT NN IN NNP NNP .
+"Everest is the world 's tallest mountain , at nearly 8,900 meters .",B-geo O O O O O O O O O O O O,"NNP VBZ DT NN POS JJS NN , IN RB CD NNS ."
+"The World Wildlife Fund says Mr. Nepal will bring the memento to Mr. Obama as a "" symbol of the melting Himalayas . """,O B-org I-org I-org O B-per I-per O O O O O B-per I-per O O O O O O O B-geo O O,DT NNP NNP NNP VBZ NNP NNP MD VB DT NN TO NNP NNP IN DT LQU NN IN DT VBG NNP . LQU
+"Back in May , a Nepalese Sherpa climbed Everest for a record 19th time .",O O B-tim O O B-gpe O O B-org O O O B-tim I-tim O,"RB IN NNP , DT JJ NN VBD NNP IN DT NN JJ NN ."
+"At the top , he unfurled a banner that read : "" Stop Climate Change . """,O O O O O O O O O O O O O O O O O,"IN DT NN , PRP VBD DT NN WDT VBD : LQU NNP NNP NNP . RQU"

@@ -1,0 +1,8 @@
+The United Nations nuclear agency says Iran has started enriching uranium at an underground facility .,O B-org I-org O O O B-geo O O O O O O O O O,DT NNP NNP JJ NN VBZ NNP VBZ VBN VBG NN IN DT JJ NN .
+"The International Atomic Energy Agency also says Iran has set up more than 1,000 centrifuges for enrichment at the plant at Natanz .",O B-org I-org I-org I-org O O B-geo O O O O O O O O O O O O O B-geo O,DT NNP NNP NNP NNP RB VBZ NNP VBZ VBN RP JJR IN CD NNS IN NN IN DT NN IN NNP .
+The IAEA made the claim in a confidential document .,O B-org O O O O O O O O,DT NNP VBD DT NN IN DT JJ NN .
+The enrichment process can be used to create fuel for nuclear reactors or in the creation of nuclear weapons .,O O O O O O O O O O O O O O O O O O O O,DT NN NN MD VB VBN TO VB NN IN JJ NNS CC IN DT NN IN JJ NNS .
+"Last week , Iran said it had reached an industrial scale in uranium enrichment .",O O O B-geo O O O O O O O O O O O,"JJ NN , NNP VBD PRP VBD VBN DT JJ NN IN NN NN ."
+But nuclear experts said Iran 's program was not yet at that level .,O O O O B-geo O O O O O O O O O,CC JJ NNS VBD NNP POS NN VBD RB RB IN DT NN .
+The United States and its allies have accused Iran of trying to develop atomic weapons .,O B-org I-org O O O O O B-geo O O O O O O O,DT NNP NNPS CC PRP$ NNS VBP VBN NNP IN VBG TO VB JJ NNS .
+Iran says its nuclear program is for the peaceful production of energy .,B-geo O O O O O O O O O O O O,NNP VBZ PRP$ JJ NN VBZ IN DT JJ NN IN NN .

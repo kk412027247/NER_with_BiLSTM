@@ -1,0 +1,9 @@
+"Former Iraqi President Abdel Rahman Aref , who was overthrown in a 1968 coup that brought Saddam Hussein 's Baath Party to power , has died in Jordan .",O B-gpe B-per I-per I-per I-per O O O O O O B-tim O O O B-org I-org I-org I-org I-org O O O O O O B-gpe O,"JJ JJ NNP NNP NNP NNP , WP VBD VBN IN DT CD NN WDT VBD NNP NNP POS NNP NNP TO NN , VBZ VBN IN NNP ."
+He was 91 .,O O O O,PRP VBD CD .
+Mr. Aref died Friday at a hospital in Amman .,B-per I-per O B-tim O O O O B-geo O,NNP NNP VBD NNP IN DT NN IN NNP .
+He had lived in Jordan for the last three years .,O O O O B-gpe O O O B-tim O O,PRP VBD VBN IN NNP IN DT JJ CD NNS .
+"Mr. Aref , who is survived by his wife and five children , became president in 1966 after his brother , who was president at the time , died in an aviation crash .",B-per I-per O O O O O O O O O O O O O O B-tim O O O O O O O O O O O O O O O O O,"NNP NNP , WP VBZ VBN IN PRP$ NN CC CD NNS , VBD NN IN CD IN PRP$ NN , WP VBD NN IN DT NN , VBD IN DT NN NN ."
+The brother was part of a 1958 military coup that overthrew the monarchy .,O O O O O O B-tim O O O O O O O,DT NN VBD NN IN DT CD JJ NN WDT VBD DT NN .
+"Mr. Aref was president for two years , until he was ousted in a Baathist Party coup .",B-per I-per O O O B-tim O O O O O O O O B-org I-org O O,"NNP NNP VBD NN IN CD NNS , IN PRP VBD VBN IN DT NNP NNP NN ."
+He lived in exile in Turkey and eventually returned to Iraq .,O O O O O B-geo O O O O B-geo O,PRP VBD IN NN IN NNP CC RB VBD TO NNP .
+He moved to Jordan in 2004 .,O O O B-geo O B-tim O,PRP VBD TO NNP IN CD .

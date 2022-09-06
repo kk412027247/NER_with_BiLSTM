@@ -1,0 +1,9 @@
+Health officials in Vietnam say a 23-year-old woman has tested positive for a deadly strain of bird flu .,O O O B-geo O O O O O O O O O O O O O O O,NNP NNS IN NNP VBP DT JJ NN VBZ VBN JJ IN DT JJ NN IN NN NN .
+This is the second human case of bird flu diagnosed in Vietnam this year .,O O O O O O O O O O O B-geo O O O,DT VBZ DT JJ JJ NN IN NN NN VBN IN NNP DT NN .
+Officials in northern Quand Ninh province say the woman became sick after eating chicken .,O O O B-geo I-geo O O O O O O O O O O,NNS IN JJ NNP NNP NN VBP DT NN VBD JJ IN VBG NN .
+Hospital director Nguyen Quoc Hung says the woman has been under treatment for five days .,O O B-per I-per I-per O O O O O O O O B-tim O O,NN NN NNP NNP NNP VBZ DT NN VBZ VBN IN NN IN CD NNS .
+"Last month , an eight-year old girl from northern Thanh Hoa province also tested positive for the H5N1 virus .",O O O O O O O O O B-geo I-geo O O O O O O B-nat O O,"JJ NN , DT JJ JJ NN IN JJ NNP NNP NN RB VBD JJ IN DT NNP NN ."
+"On Saturday , animal health authorities confirmed bird flu outbreaks in poultry in three provinces in Vietnam .",O B-tim O O O O O O O O O O O O O O B-geo O,"IN NNP , JJ NN NNS VBD JJ NN NNS IN NN IN CD NNS IN NNP ."
+"The H5N1 strain of avian influenza remains largely a virus in birds , but experts fear it could mutate into a form that is easily transmitted by humans .",O B-nat O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NN IN JJ NN VBZ RB DT NN IN NNS , CC NNS VBP PRP MD VB IN DT NN WDT VBZ RB VBN IN NNS ."
+The World Health Organization says bird flu has killed 248 people since it resurfaced in Asia in 2003 .,O B-org I-org I-org O O O O O O O O O O O B-geo O B-tim O,DT NNP NNP NNP VBZ NN NN VBZ VBN CD NNS IN PRP VBD IN NNP IN CD .
+More than 50 of the deaths have been in Vietnam .,O O O O O O O O O B-geo O,JJR IN CD IN DT NNS VBP VBN IN NNP .

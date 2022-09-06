@@ -1,0 +1,10 @@
+"Iran says it has arrested several Iranian journalists , charging that their work was aimed at fueling ethnic divisions within the country .",B-geo O O O O O B-gpe O O O O O O O O O O O O O O O O,"NNP VBZ PRP VBZ VBN JJ JJ NNS , VBG IN PRP$ NN VBD VBN IN VBG JJ NNS IN DT NN ."
+Iran 's intelligence ministry announced the arrests but has not named the journalists who were detained .,B-geo O O O O O O O O O O O O O O O O,NNP POS NN NN VBD DT NNS CC VBZ RB VBN DT NNS WP VBD VBN .
+A ministry statement says the journalists admitted they were receiving significant sums of U.S. dollars from abroad to publish articles aimed at partitioning Iran .,O O O O O O O O O O O O O B-geo O O O O O O O O O B-geo O,DT NN NN VBZ DT NNS VBD PRP VBD VBG JJ NNS IN NNP NNS IN RB TO VB NNS VBN IN VBG NNP .
+The ministry did not say where the money was coming from .,O O O O O O O O O O O O,DT NN VBD RB VB WRB DT NN VBD VBG IN .
+"Iran 's largest ethnic minorities include Kurds , Arabs , Azeris and Baluchis .",B-geo O O O O O B-org O B-gpe B-org B-gpe B-org I-org O,"NNP POS JJS JJ NNS VBP NNPS , NNS , NNS CC NNP ."
+Human rights groups have criticized Iran for suppressing the rights of its ethnic minorities .,O O O O O B-geo O O O O O O O O O,JJ NNS NNS VBP VBN NNP IN VBG DT NNS IN PRP$ JJ NNS .
+"Last week , Iranian state media said Revolutionary Guard forces killed 17 rebels during a battle in the northwestern province of West Azerbaijan .",O O O B-gpe O O O B-org I-org O O O O O O O O O O O O B-geo B-gpe O,"JJ NN , JJ NN NNS VBD JJ NN NNS VBN CD NNS IN DT NN IN DT JJ NN IN NNP NNP ."
+"In February , rebels in the southeastern province of Sistan-Baluchistan bombed a bus carrying members of the Revolutionary Guard , killing eleven .",O B-tim O O O O O O O O O O O O O O O B-org I-org O O O O,"IN NNP , NNS IN DT JJ NN IN NNP VBD DT NN VBG NNS IN DT NNP NNP , VBG CD ."
+Iranian state media said a Sunni Muslim group named Jundollah claimed responsibility for that bombing .,B-gpe O O O O B-per I-per O O B-org O O O O O O,JJ NN NNS VBD DT NNP NNP NN VBN NNP VBD NN IN DT NN .
+Iran is mostly Shi'ite .,B-geo O O O O,NNP VBZ RB JJ .

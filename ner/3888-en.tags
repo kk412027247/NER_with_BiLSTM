@@ -1,0 +1,9 @@
+"South Africa says two of its citizens were abducted this week in Nigeria 's volatile , oil-rich Niger Delta region .",B-geo I-geo O O O O O O O O O O B-geo O O O B-org B-gpe B-org O O,"NNP NNP VBZ CD IN PRP$ NNS VBD VBN DT NN IN NNP POS JJ , JJ NNP NNP NN ."
+The South African Foreign Affairs Ministry says its officials in Nigeria are doing everything they can to secure the hostages ' release .,O B-org I-org I-org I-org I-org O O O O B-geo O O O O O O O O O O O O,DT NNP NNP NNP NNP NNP VBZ PRP$ NNS IN NNP VBP VBG DT PRP MD TO VB DT NNS POS NN .
+It says the victims were kidnapped Tuesday .,O O O O O O B-tim O,PRP VBZ DT NNS VBD VBN NNP .
+It is not clear who carried out the abduction .,O O O O O O O O O O,PRP VBZ RB JJ WP VBD RP DT NN .
+Gunmen in the Niger Delta regularly attack oil company facilities and kidnap their staff .,O O O B-gpe B-org O O O O O O O O O O,NNS IN DT NNP NNP RB VBP NN NN NNS CC VBP PRP$ NN .
+Most hostages are released unharmed .,O O O O O O,JJS NNS VBP VBN JJ .
+Some attackers are militants who say they are fighting so the region 's impoverished residents get a greater share of the oil wealth .,O O O O O O O O O O O O O O O O O O O O O O O O,DT NNS VBP NNS WP VBP PRP VBP VBG IN DT NN POS JJ NNS VBP DT JJR NN IN DT NN NN .
+Others are gangs motivated by the ransom companies pay for the hostages .,O O O O O O O O O O O O O,NNS VBP NNS VBN IN DT NN NNS VBP IN DT NNS .
+A surge in the unrest that began in late 2005 has resulted in Nigeria 's oil production dropping by about 25 percent .,O O O O O O O O O B-tim O O O B-geo O O O O O O O O O,DT NN IN DT NN WDT VBD IN JJ CD VBZ VBN IN NNP POS NN NN VBG IN IN CD NN .

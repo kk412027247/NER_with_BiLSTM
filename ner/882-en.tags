@@ -1,0 +1,5 @@
+Afghan authorities have ordered the slaughter of birds in areas where two cases of bird flu have been found .,B-gpe O O O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN DT NN IN NNS IN NNS WRB CD NNS IN NN NN VBP VBN VBN .
+The U.N. 's Food and Agriculture Organization said Wednesday birds carrying the virus have been reported in the eastern provinces of Nangarhar and Kunar .,O B-org I-org I-org I-org I-org I-org O B-tim O O O O O O O O O O O O B-org I-org I-org O,DT NNP POS NNP CC NNP NNP VBD NNP NNS VBG DT NN VBP VBN VBN IN DT JJ NNS IN NNP CC NNP .
+Officials suspect the cases are the deadly H5N1 strain of bird flu but do not yet have confirmation .,O O O O O O O O O O O O O O O O O O O,NNS VBP DT NNS VBP DT JJ NNP NN IN NN NN CC VBP RB RB VB NN .
+"Last year , Afghanistan discovered cases of the H5N1 virus in birds , but not humans .",O O O B-org O O O O O O O O O O O O O,"JJ NN , NNP VBD NNS IN DT NNP NN IN NNS , CC RB NNS ."
+The deadly strain of the bird flu virus has killed at least 160 people worldwide since 2003 .,O O O O O O O O O O O O O O O B-tim I-tim O,DT JJ NN IN DT NN NN NN VBZ VBN IN JJS CD NNS JJ IN CD .

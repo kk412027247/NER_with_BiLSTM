@@ -1,0 +1,7 @@
+A strong earthquake off the coast of Indonesia rocked Sumatra 's west coast Sunday and was felt as far away as Singapore .,O O O O O O O B-geo O B-geo O O O B-tim O O O O O O O B-org O,DT JJ NN IN DT NN IN NNP VBD NNP POS JJS NN NNP CC VBD VBN IN RB RB IN NNP .
+"No damage or casualties have been reported , but residents of high-rise apartments in Singapore , 600 kilometers northeast of the quake 's center , said they could feel their buildings swaying .",O O O O O O O O O O O O O O B-org O O O O O O O O O O O O O O O O O O,"DT NN CC NNS VBP VBN VBN , CC NNS IN JJ NNS IN NNP , CD NNS RB IN DT NN POS NN , VBD PRP MD VB PRP$ NNS VBG ."
+The U.S. Geological Survey measured the late-afternoon quake at magnitude 6.8 on the Richter scale .,O B-org I-org I-org O O B-tim O O O O O O B-geo O O,DT NNP NNP NNP VBD DT NN NN IN NN CD IN DT NNP NN .
+It was centered in Indonesia 's Kepulauan Mentawai region .,O O O O B-geo O B-geo I-geo O O,PRP VBD VBN IN NNP POS NNP NNP NN .
+"More than five hours since the quake hit , there have been no reports of a tsunami .",B-tim I-tim I-tim O B-tim O B-tim O O O O O O O O O O O,"JJR IN CD NNS IN DT NN VBD , EX VBP VBN DT NNS IN DT NN ."
+"A massive earthquake off Indonesia on December 26 triggered a tsunami across the Indian Ocean that killed more than 180,000 people .",O O O O B-geo O B-tim I-tim O O O O O B-geo I-geo O O O O O O O,DT JJ NN IN NNP IN NNP CD VBD DT NN IN DT NNP NNP WDT VBD JJR IN CD NNS .
+"Nearly 50,000 are still missing .",O O O O O O,RB CD VBP RB VBG .

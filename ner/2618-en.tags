@@ -1,0 +1,7 @@
+"Triple Olympic champion Janica Kostelic of Croatia has won her first ever World Cup downhill title in Bad Kleinkirchheim , Austria .",O O O B-per I-per O B-geo O O O O O B-eve I-eve O O O B-geo I-geo O B-geo O,"NNP NNP NN NNP NNP IN NNP VBZ VBN PRP$ JJ RB NNP NNP NN NN IN NNP NNP , NNP ."
+"Kostelic finished the 2,633-meter Franz Klammer course in 1:37.96 minutes , 0.17 seconds ahead of Sweden 's Nike Bent .",B-per O O O B-per I-per O O O O O O O O O B-geo O B-per I-per O,"NNP VBD DT JJ NNP NNP NN IN CD NNS , CD NNS RB IN NNP POS NNP NNP ."
+Michaela Dorfmeister of Austria was third ( 1:38.53 ) .,B-per I-per O B-geo O O O O O O,NNP NNP IN NNP VBD JJ LRB CD RRB .
+"Before Saturday , Kostelic had never done better in World Cup downhills than two second-place finishes last year .",O B-tim O B-per O O O O O O O O O O O O O O O,"IN NNP , NNP VBD RB VBN RBR IN NNP NNP VBZ IN CD JJ NNS JJ NN ."
+The victory strengthened the 24-year-old Croatian 's hold on the World Cup overall lead .,O O O O O B-gpe O O O O O O O O O,DT NN VBD DT JJ JJ POS NN IN DT NNP NNP JJ NN .
+"Kostelic has 882 points after 17 events , 197 points ahead of Sweden 's Anja Paerson .",B-per O O O O O O O O O O O B-geo O B-per I-per O,"NNP VBZ CD NNS IN CD NNS , CD NNS RB IN NNP POS NNP NNP ."
+Dorfmeister is third with 650 points .,B-per O O O O O O,NNP VBZ JJ IN CD NNS .

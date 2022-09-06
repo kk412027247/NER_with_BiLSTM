@@ -1,0 +1,6 @@
+"A U.S. immigration judge has denied bail for Luis Posada Carriles , an asylum-seeking former CIA operative from Cuba .",O B-gpe O O O O O O B-per I-per I-per O O O O B-org O O B-geo O,"DT NNP NN NN VBZ VBN NN IN NNP NNP NNP , DT JJ JJ NNP NN IN NNP ."
+U.S. authorities arrested the 77-year-old Posada Carriles in May after he illegally entered the country through Mexico .,B-gpe O O O O B-per I-per O B-tim O O O O O O O B-geo O,NNP NNS VBN DT JJ NNP NNP IN NNP IN PRP RB VBD DT NN IN NNP .
+Posada Carriles is wanted in Venezuela for his alleged role in a 1976 Cuban airliner bombing that killed 73 people .,B-per I-per O O O B-geo O O O O O O B-tim B-gpe O O O O O O O,NNP NNP VBZ VBN IN NNP IN PRP$ JJ NN IN DT CD JJ NN NN WDT VBD CD NNS .
+"Some 20 years ago , a Venezuelan court acquitted him of a role in the bombing .",O O O O O O B-gpe O O O O O O O O O O,"DT CD NNS RB , DT JJ NN VBN PRP IN DT NN IN DT NN ."
+He later escaped from prison while awaiting a new trial .,O O O O O O O O O O O,PRP RB VBD IN NN IN VBG DT JJ NN .
+"In May , U.S. officials rejected a Venezuelan request for his arrest , citing a lack of evidence against the Cuban exile who holds Venezuelan citizenship .",O B-tim O B-gpe O O O B-gpe O O O O O O O O O O O O B-gpe O O O B-gpe O O,"IN NNP , NNP NNS VBD DT JJ NN IN PRP$ NN , VBG DT NN IN NN IN DT JJ NN WP VBZ JJ NN ."

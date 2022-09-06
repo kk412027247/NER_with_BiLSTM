@@ -1,0 +1,8 @@
+"An aid group says more than 54,000 North Koreans are dead or missing after widespread flooding .",O O O O O O O B-org B-gpe O O O O O O O O,DT NN NN VBZ JJR IN CD NNP NNS VBP JJ CC JJ IN JJ NN .
+The South Korea-based Good Friends organization released that figure Wednesday and added that another 2.5 million people are believed to have been left homeless .,O B-geo O O O O O O O B-tim O O O O O O O O O O O O O O O,DT NNP JJ JJ NNS NN VBN IN NN NNP CC VBD IN DT CD CD NNS VBP VBN TO VB VBN VBN NN .
+"Several days ago , the group had estimated a death toll of about 10,000 .",B-tim O O O O O O O O O O O O O O,"JJ NNS RB , DT NN VBD VBN DT NN NN IN IN CD ."
+Good Friends did not indicate where it obtained the information or why its estimate has increased .,O O O O O O O O O O O O O O O O O,JJ NNS VBD RB VB WRB PRP VBD DT NN CC WRB PRP$ NN VBZ VBN .
+Confirmation of the figures has not been possible .,O O O O O O O O O,NN IN DT NNS VBZ RB VBN JJ .
+The North Korean government has estimated the death toll in the hundreds .,O O B-gpe O O O O O O O O O O,DT JJ JJ NN VBZ VBN DT NN NN IN DT NNS .
+"Earlier this month , South Korea announced it will give an aid package worth more than $ 10 million to independent aid groups to help flood victims in North Korea .",O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,"RBR DT NN , NNP NNP VBD PRP MD VB DT NN NN JJ JJR IN $ CD CD TO JJ NN NNS TO VB VB NNS IN NNP NNP ."
+"North Korean officials formally requested the help from South Korea , after initially turning down aid offers from foreign relief agencies .",O B-gpe O O O O O O B-geo I-geo O O O O O O O O O O O O,"JJ JJ NNS RB VBD DT NN IN NNP NNP , IN RB VBG RP NN NNS IN JJ NN NNS ."

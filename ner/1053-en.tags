@@ -1,0 +1,8 @@
+Venezuelan President Hugo Chavez says he plans to visit his close friend and ally Fidel Castro in Cuba on Monday .,B-gpe B-per I-per I-per O O O O O O O O O O B-per I-per O B-geo O B-tim O,JJ NNP NNP NNP VBZ PRP VBZ TO VB PRP$ JJ NN CC NN NNP NNP IN NNP IN NNP .
+President Chavez made the announcement during his regular Sunday television and radio programs .,B-per I-per O O O O O O B-tim O O O O O,NNP NNP VBD DT NN IN PRP$ JJ NNP NN CC NN NNS .
+The reason for his visit is not known .,O O O O O O O O O,DT NN IN PRP$ NN VBZ RB VBN .
+Mr. Chavez last met with the former Cuban leader in March .,B-per I-per O O O O O B-gpe O O B-tim O,NNP NNP RB VBD IN DT JJ JJ NN IN NNP .
+"That visit took place shortly after Mr. Castro turned over power to his younger brother , Raul , after nearly 50 years .",O O O O O O B-per I-per O O O O O O O O B-per O O O B-tim O O,"DT NN VBD NN RB IN NNP NNP VBD RP NN TO PRP$ JJR NN , NNP , IN RB CD NNS ."
+Fidel Castro has not been seen in public since July 2006 when he underwent intestinal surgery .,B-per I-per O O O O O O B-tim I-tim I-tim O O O O O O,NNP NNP VBZ RB VBN VBN IN JJ IN NNP CD WRB PRP VBD JJ NN .
+"He has , however , appeared in videos and photographs , and articles attributed to him have been published in the state-run media .",O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ , RB , VBN IN NNS CC NNS , CC NNS VBD TO PRP VBP VBN VBN IN DT JJ NNS ."
+Details of his health are considered a state secret .,O O O O O O O O O O,NNS IN PRP$ NN VBP VBN DT NN NN .

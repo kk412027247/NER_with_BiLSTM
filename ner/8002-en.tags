@@ -1,0 +1,9 @@
+Palestinian medical officials say an Israeli airstrike has killed two Palestinian militants in the northern Gaza Strip .,B-gpe O O O O B-gpe O O O O B-gpe O O O O B-geo I-geo O,JJ JJ NNS VBP DT JJ NN VBZ VBN CD JJ NNS IN DT JJ NNP NNP .
+"The Israeli military has confirmed the attack , saying its helicopter targeted two men who were firing rockets across the border into Israeli territory .",O B-gpe O O O O O O O O O O O O O O O O O O O O B-gpe O O,"DT JJ NN VBZ VBN DT NN , VBG PRP$ NN VBD CD NNS WP VBD VBG NNS IN DT NN IN JJ NN ."
+The Islamic Jihad militant group claimed responsibility .,O B-org I-org O O O O O,DT NNP NNP JJ NN VBD NN .
+The airstrike was launched after rockets fired from northern Gaza exploded in the Israeli town of Sderot .,O O O O O O O O O B-geo O O O B-gpe O O B-geo O,DT NN VBD VBN IN NNS VBD IN JJ NNP VBD IN DT JJ NN IN NNP .
+One Israeli was wounded .,O B-gpe O O O,CD NN VBD VBN .
+"Earlier Sunday , Israeli soldiers shot and killed two Hamas gunmen in northern Gaza .",O B-tim O B-gpe O O O O O B-org O O O B-geo O,"RBR NNP , JJ NNS VBD CC VBD CD NNP NNS IN JJ NNP ."
+The Israeli army confirmed that its troops shot two Palestinians who approached the border fence .,O B-gpe O O O O O O O B-gpe O O O O O O,DT JJ NN VBD IN PRP$ NNS VBD CD NNS WP VBD DT NN NN .
+Israeli troops often shoot at Palestinians who approach the fence in an effort to prevent infiltrations by militants .,B-gpe O O O O B-gpe O O O O O O O O O O O O O,JJ NNS RB VBP IN NNS WP VBP DT NN IN DT NN TO VB NNS IN NNS .
+Israel also conducts raids into Gaza to stop militants from launching rockets into Israel .,B-geo O O O O B-geo O O O O O O O B-geo O,NNP RB VBZ NNS IN NNP TO VB NNS IN VBG NNS IN NNP .

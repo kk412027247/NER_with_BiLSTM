@@ -1,0 +1,7 @@
+Nepal 's army is still searching remote western mountains for 76 troops missing after a major attack by Maoist rebels .,B-gpe O O O O O O O O O O O O O O O O O O O O,NNP POS NN VBZ RB VBG JJ JJ NNS IN CD NNS VBG IN DT JJ NN IN NNP NNS .
+The army said that at least 40 soldiers were killed by rebels who attacked their army base in the Kalikot district on Sunday .,O O O O O O O O O O O O O O O O O O O B-geo O O B-tim O,DT NN VBD IN IN JJS CD NNS VBD VBN IN NNS WP VBD PRP$ NN NN IN DT NNP NN IN NNP .
+An army officer says a massive search is being carried out for the missing troops .,O O O O O O O O O O O O O O O O,DT NN NN VBZ DT JJ NN VBZ VBG VBN RP IN DT JJ NNS .
+"Maoist rebels say they have killed 159 soldiers and captured 50 , a claim rejected by the army .",O O O O O O O O O O B-tim O O O O O O O O,"NNP NNS VBP PRP VBP VBN CD NNS CC VBN CD , DT NN VBN IN DT NN ."
+The rebels also say they lost 26 guerrillas and several more are wounded .,O O O O O O O O O O O O O O,DT NNS RB VBP PRP VBD CD NNS CC JJ JJR VBP VBN .
+United Nations officials have urged the guerrillas to treat any captives safely .,B-org I-org O O O O O O O O O O O,NNP NNP NNS VBP VBN DT NNS TO VB DT NNS RB .
+"The casualties are the largest this year between the Nepal Army and Maoist rebels , who have been fighting since 1996 for a communist state .",O O O O O O O B-tim O B-gpe B-org O O O O O O O O O B-tim O O O O O,"DT NNS VBP DT JJS DT NN IN DT NNP NNP CC NNP NNS , WP VBP VBN VBG IN CD IN DT JJ NN ."

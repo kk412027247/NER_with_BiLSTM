@@ -1,0 +1,17 @@
+A medical student was working in the toxicology department at the poison control center .,O O O O O O O O O O O O O O O,DT JJ NN VBD VBG IN DT NN NN IN DT NN NN NN .
+A woman called in very upset because she caught her little daughter eating ants .,O O O O O O O O O O O O O O O,DT NN VBN IN RB JJ IN PRP VBD PRP$ JJ NN VBG NNS .
+The medical student quickly reassured her that the ants are not harmful and there would be no need to bring her daughter into the hospital .,O O O O O O O O O O O O O O O O O O O O O O O O O O,DT JJ NN RB VBD PRP IN DT NNS VBP RB JJ CC EX MD VB DT NN TO VB PRP$ NN IN DT NN .
+"She calmed down , and at the end of the conversation happened to mention that she gave her daughter some ant poison to eat in order to kill the ants .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBD RB , CC IN DT NN IN DT NN VBD TO VB IN PRP VBD PRP$ NN DT JJ NN TO VB IN NN TO VB DT NNS ."
+The student told the mother that she better bring her daughter in to the emergency room right away .,O O O O O O O O O O O O O O O O O O O,DT NN VBD DT NN IN PRP RB VB PRP$ NN IN TO DT NN NN RB RB .
+"Seems that a year ago , some Boeing employees on the work field decided to steal a life raft from one of the 747s .",O O O O O O O B-org O O O O O O O O O O O O O O O O O,"NNS IN DT NN RB , DT NNP NNS IN DT NN NN VBD TO VB DT NN NN IN CD IN DT NNS ."
+They were successful in getting it out of the plane and home .,O O O O O O O O O O O O O,PRP VBD JJ IN VBG PRP IN IN DT NN CC NN .
+"When they took it for a float on the river , they were quite surprised by a Coast Guard helicopter coming towards them .",O O O O O O O O O O O O O O O O O B-org I-org O O O O O,"WRB PRP VBD PRP IN DT NN IN DT NN , PRP VBD RB VBN IN DT NNP NNP NN VBG IN PRP ."
+It turned out that the chopper was homing in on the emergency locator that is automatically activated when the raft is inflated .,O O O O O O O O O O O O O O O O O O O O O O O,PRP VBD RP IN DT NN VBD VBG IN IN DT NN NN WDT VBZ RB VBN WRB DT NN VBZ VBN .
+They are no longer employed there .,O O O O O O O,PRP VBP RB RB VBN RB .
+A motorist was unknowingly caught in an automated speed trap that measured his speed using radar and photographed his car .,O O O O O O O O O O O O O O O O O O O O O,DT NN VBD RB VBN IN DT JJ NN NN WDT VBD PRP$ NN VBG NN CC VBD PRP$ NN .
+He later received in the mail a ticket for $ 40 and a photo of his car .,O O O O O O O O O O O O O O O O O O,PRP RB VBD IN DT NN DT NN IN $ CD CC DT NN IN PRP$ NN .
+"Instead of payment , he sent the police department a photograph of $ 40 .",O O O O O O O O O O O O O O O,"IN IN NN , PRP VBD DT NN NN DT NN IN $ CD ."
+"Several days later , he received a letter from the police that contained another picture of handcuffs .",B-tim O B-tim O O O O O O O O O O O O O O O,"JJ NNS RB , PRP VBD DT NN IN DT NN WDT VBD DT NN IN NNS ."
+"A woman was reporting her car as stolen , and mentioned that there was a car phone in it .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBD VBG PRP$ NN IN VBN , CC VBD IN EX VBD DT NN NN IN PRP ."
+The policeman taking the report called the phone and told the guy that answered that he had read the ad in the newspaper and wanted to buy the car .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,DT NN VBG DT NN VBD DT NN CC VBD DT NN WDT VBD IN PRP VBD VBN DT NN IN DT NN CC VBD TO VB DT NN .
+"They arranged to meet , and the thief was arrested .",O O O O O O O O O O O,"PRP VBD TO VB , CC DT NN VBD VBN ."

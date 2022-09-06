@@ -1,0 +1,6 @@
+"A moderate earthquake struck central Mexico Friday , forcing residents and office workers to evacuate buildings in Mexico City .",O O O O O B-geo B-tim O O O O O O O O O O B-geo I-geo O,"DT JJ NN VBD JJ NNP NNP , VBG NNS CC NN NNS TO VB NNS IN NNP NNP ."
+Officials say no major injuries or damages were immediately reported .,O O O O O O O O O O O,NNS VBP DT JJ NNS CC NNS VBD RB VBN .
+The U.S. Geological Survey estimates the earthquake 's magnitude at 6.0 .,O B-org I-org I-org O O O O O O O O,DT NNP NNP NNP VBZ DT NN POS NN IN CD .
+An aftershock that measured 5.5 hit a few hours later .,O O O O O O O O O B-tim O,DT NN WDT VBD CD VBD DT JJ NNS RB .
+"The center says the earthquake , which hit Friday morning local time , was centered in the southwestern state of Michoacan , about 200 kilometers southwest of Mexico City .",O O O O O O O O B-tim I-tim O B-tim O O O O O O O O B-geo O O O O O O B-geo I-geo O,"DT NN VBZ DT NN , WDT VBD NNP NN JJ NN , VBD VBN IN DT JJ NN IN NNP , IN CD NNS NN IN NNP NNP ."
+"In 1985 , a 7.8 magnitude earthquake in Mexico City killed more than 10,000 people .",O B-tim O O O O O O B-geo I-geo O O O O O O,"IN CD , DT CD NN NN IN NNP NNP VBD JJR IN CD NNS ."

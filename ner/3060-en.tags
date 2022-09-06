@@ -1,0 +1,9 @@
+"Pakistani police say a bomb has exploded outside a Shi'ite mosque in the country 's northwest , killing at least four people .",B-gpe O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP DT NN VBZ VBN IN DT NNP NN IN DT NN POS JJS , VBG IN JJS CD NNS ."
+The bomb went off in the city of Dera Ismail Khan Monday as worshipers were leaving the mosque after evening prayers .,O O O O O O O O B-org I-org B-per B-tim O O O O O O O O O O,DT NN VBD RB IN DT NN IN NNP NNP NNP NNP IN NNS VBD VBG DT NN IN NN NNS .
+The explosion destroyed parts of the mosque and wounded at least two people .,O O O O O O O O O O O O O O,DT NN VBD NNS IN DT NN CC VBD IN JJS CD NNS .
+Police say they suspect the bomb was on a timer .,O O O O O O O O O O O,NNS VBP PRP VBP DT NN VBD IN DT NN .
+They do not know who planted the device .,O O O O O O O O O,PRP VBP RB VB WP VBD DT NN .
+Dera Ismail Khan in North West Frontier Province has a history of sectarian violence .,B-org I-org B-per O B-geo I-geo I-geo I-geo O O O O O O O,NNP NNP NNP IN NNP NNP NNP NNP VBZ DT NN IN JJ NN .
+"Last month , gunmen killed at least six Shi'ite Muslims in two suspected sectarian attacks in Dera Ismail Khan .",O O O O O O O O O O O O O O O O B-org I-org B-per O,"JJ NN , NNS VBD IN JJS CD NNP NNPS IN CD JJ JJ NNS IN NNP NNP NNP ."
+"Most Pakistanis are Sunni Muslims , but Shi'ites make up about 20 percent of the country 's 160 million people .",O B-gpe O B-per I-per O O O O O O O O O O O O O O O O,"JJS NNS VBP NNP NNPS , CC NNS VBP RP IN CD NN IN DT NN POS CD CD NNS ."
+"The communities generally coexist peacefully , but militants from both sides have attacked each other since the 1980s .",O O O O O O O O O O O O O O O O O B-tim O,"DT NNS RB VBP RB , CC NNS IN DT NNS VBP VBN DT NN IN DT NNS ."

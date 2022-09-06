@@ -1,0 +1,5 @@
+"Military officials in the Philippines say the death toll from a fuel truck explosion in the country 's south has risen to 50 , with more than 40 others injured .",O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS IN DT NNPS VBP DT NN NN IN DT NN NN NN IN DT NN POS NN VBZ VBN TO CD , IN JJR IN CD NNS VBN ."
+"The truck exploded Friday on a road in Zamoanga del Sur province , destroying the tanker , as well as a passenger bus on the opposite side of the road .",O O O B-tim O O O O B-geo I-geo I-geo O O O O O O O O O O O O O O O O O O O O,"DT NN VBD NNP IN DT NN IN NNP NNP NNP NN , VBG DT NN , RB RB IN DT NN NN IN DT JJ NN IN DT NN ."
+Soldiers are still recovering bodies .,O O O O O O,NNS VBP RB VBG NNS .
+There are disagreements as to what the truck was carrying .,O O O O O O O O O O O,EX VBP NNS IN TO WP DT NN VBD VBG .
+"Some reports say it was hauling compressed carbon dioxide , while others say it was carrying liquified petroleum gas .",O O O O O O O O O O O O O O O O O O O O,"DT NNS VBP PRP VBD VBG JJ NN NN , IN NNS VBP PRP VBD VBG JJ NN NN ."

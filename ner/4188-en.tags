@@ -1,0 +1,6 @@
+"Authorities in Indian Kashmir say militants have raided a police station , killing two officers and stealing a cache of weapons .",O O B-gpe B-geo O O O O O O O O O O O O O O O O O O,"NNS IN JJ NNP VBP NNS VBP VBN DT NN NN , VBG CD NNS CC VBG DT NN IN NNS ."
+Police officials say at least one officer assisted the group of militants in the attack late Friday in the remote Doda district .,O O O O O O O O O O O O O O O O B-tim O O O B-geo O O,NN NNS VBP IN JJS CD NN VBD DT NN IN NNS IN DT NN JJ NNP IN DT JJ NNP NN .
+Police gave few details of the attack .,O O O O O O O O,NNP VBD JJ NNS IN DT NN .
+"Officials say security forces are searching for the attackers , who fled after the raid .",O O O O O O O O O O O O O O O O,"NNS VBP NN NNS VBP VBG IN DT NNS , WP VBD IN DT NN ."
+"Kashmir is in the midst of a 17-year insurgency that has claimed more than 45,000 lives .",B-geo O O O O O O O O O O O O O O O O,NNP VBZ IN DT NN IN DT JJ NN WDT VBZ VBN JJR IN CD NNS .
+Various rebel groups are fighting for an independent Kashmir or its merger with Pakistan .,O O O O O O O O B-geo O O O O B-geo O,JJ NN NNS VBP VBG IN DT JJ NNP CC PRP$ NN IN NNP .

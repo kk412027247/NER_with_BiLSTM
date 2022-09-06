@@ -1,0 +1,4 @@
+An advisory panel for a U.S. government health agency recommends greatly increasing the number of American children who receive the influenza immunization each year .,O O O O O B-geo O O O O O O O O O B-gpe O O O O B-nat O B-tim O O,DT JJ NN IN DT NNP NN NN NN VBZ RB VBG DT NN IN JJ NNS WP VBP DT NN NN DT NN .
+The panel suggests every child from age six months to 18 years receive a flu shot .,O O O O O O O B-tim O B-tim I-tim O O O B-nat O O,DT NN VBZ DT NN IN NN CD NNS TO CD NNS VBP DT NN NN .
+The new guideline would expand by some 30 million the number of young people who should be vaccinated .,O O O O O O O O O O O O O O O O O O O,DT JJ NN MD VB IN DT CD CD DT NN IN JJ NNS WP MD VB VBN .
+Leta Hong Fincher has more .,B-per I-per I-per O O O,NNP NNP NNP VBZ RBR .

@@ -1,0 +1,7 @@
+Bulgaria 's center-left government has survived a no-confidence vote prompted by a suspension of European Union subsidies .,B-geo O O O O O O O O O O O O O B-org I-org O O,NNP POS JJ NN VBZ VBN DT JJ NN VBN IN DT NN IN NNP NNP NNS .
+"All 150 representatives of the three-party ruling coalition voted against the motion , which won the backing of 84 deputies .",O O O O O O O O O O O O O O O O O O O O O,"DT CD NNS IN DT JJ NN NN VBD IN DT NN , WDT VBD DT NN IN CD NNS ."
+"The European Commission , last week , suspended nearly $ 800 million in aid to the government .",O B-org I-org O O O O O O O O O O O O O O O,"DT JJ NNP , JJ NN , VBD RB $ CD CD IN NN TO DT NN ."
+EU officials said Bulgaria 's push against corruption and criminal gangs is not producing needed results .,B-org O O B-geo O O O O O O O O O O O O O,NNP NNS VBD NNP POS NN IN NN CC JJ NNS VBZ RB VBG VBN NNS .
+"Prime Minister Stanishev acknowledged what he called "" serious problems "" in many Bulgarian institutions .",B-per I-per I-per O O O O O O O O O O B-gpe O O,NNP NNP NNP VBD WP PRP VBD LQU JJ NNS LQU IN JJ JJ NNS .
+"But he also cited "" positive steps "" in recent months , including new laws on conflict of interest .",O O O O O O O O O O O O O O O O O O O O,"CC PRP RB VBD LQU JJ NNS LQU IN JJ NNS , VBG JJ NNS IN NN IN NN ."
+"The no-confidence motion was the sixth against Mr. Stanishev , since he took office in 2005 .",O O O O O O O B-per B-geo O O O O O O B-tim O,"DT JJ NN VBD DT NN IN NNP NNP , IN PRP VBD NN IN CD ."

@@ -1,0 +1,9 @@
+Indian Prime Minister Manmohan Singh has reviewed the security situation in Indian Kashmir on the second and final day of his visit to the disputed territory .,B-gpe B-per O B-per I-per O O O O O O B-gpe B-geo O O O O O O O O O O O O O O,JJ NNP NNP NNP NNP VBZ VBN DT NN NN IN JJ NNP IN DT JJ CC JJ NN IN PRP$ NN TO DT JJ NN .
+"Officials say top security commanders briefed Mr. Singh Thursday in Jammu , the winter capital of Indian Kashmir .",O O O O O O B-per I-per B-tim O B-geo O O O O O B-gpe B-geo O,"NNS VBP JJ NN NNS VBD NNP NNP NNP IN NNP , DT NN NN IN JJ NNP ."
+They say the commanders told him that infiltration of militants from neighboring Pakistan has gone down sharply in the past year .,O O O O O O O O O O O O B-geo O O O O O O B-tim O O,PRP VBP DT NNS VBD PRP IN NN IN NNS IN VBG NNP VBZ VBN RB RB IN DT JJ NN .
+Muslim militants opposed to Indian rule have staged an insurgency in Kashmir for the past 15 years .,B-per O O O B-gpe O O O O O O B-geo O O B-tim I-tim O O,NNP NNS VBN TO JJ NN VBP VBN DT NN IN NNP IN DT JJ CD NNS .
+"On Wednesday , Mr. Singh said he is ready to meet with anyone who wants to end violence in Kashmir .",O B-tim O B-per I-per O O O O O O O O O O O O O O B-geo O,"IN NNP , NNP NNP VBD PRP VBZ JJ TO VB IN DT WP VBZ TO VB NN IN NNP ."
+But he said he will not accept any Pakistani proposal that involves redrawing the line of control that separates Indian- from Pakistani-controlled Kashmir .,O O O O O O O O B-gpe O O O O O O O O O O B-geo O B-geo I-geo O,CC PRP VBD PRP MD RB VB DT JJ NN WDT VBZ VBG DT NN IN NN IN VBZ NNP IN JJ NNP .
+The two South Asian neighbors each claim the entire territory .,O O O O O O O O O O O,DT CD JJ JJ NNS DT NN DT JJ NN .
+"India withdrew 1,000 troops from Kashmir Wednesday , with more expected to follow .",B-gpe O O O O B-geo B-tim O O O O O O O,"NNP VBD CD NNS IN NNP NNP , IN RBR VBN TO VB ."
+Pakistan called the move a positive step .,B-gpe O O O O O O O,NNP VBD DT NN DT JJ NN .

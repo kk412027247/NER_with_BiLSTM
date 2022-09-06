@@ -1,0 +1,8 @@
+"The Israeli military says a rocket fired from the Gaza Strip has landed in southern Israel , further straining the fragile cease-fire between Israel and the Palestinian militant group Hamas .",O B-gpe O O O O O O O B-geo I-geo O O O B-geo I-geo O O O O O O O B-geo O O B-gpe O O B-org O,"DT JJ NN VBZ DT NN VBN IN DT NNP NNP VBZ VBN IN JJ NNP , RB VBG DT JJ NN IN NNP CC DT JJ JJ NN NNP ."
+Israeli officials did not report any injuries or damage from the rocket .,B-gpe O O O O O O O O O O O O,JJ NNS VBD RB VB DT NNS CC NN IN DT NN .
+No one has claimed responsibility for Monday 's incident .,O O O O O O B-tim O O O,DT NN VBZ VBN NN IN NNP POS NN .
+Hamas has warned it will take action against anyone who breaks the truce .,B-org O O O O O O O O O O O O O,NNP VBZ VBN PRP MD VB NN IN DT WP VBZ DT NN .
+"On Sunday , Israel re-opened a border crossing with Gaza to allow about 80 truckloads of commercial goods into the Palestinian territory .",O B-tim O B-geo O O O O O B-geo O O O O O O O O O O B-gpe O O,"IN NNP , NNP VBD DT NN VBG IN NNP TO VB IN CD NNS IN JJ NNS IN DT JJ NN ."
+Israel closed the crossings after an Islamic Jihad rocket attack last week .,B-geo O O O O O O O O O O O O,NNP VBD DT NNS IN DT JJ NN NN NN JJ NN .
+The group said the attack was revenge for Israel 's killing of one of its commanders in the West Bank .,O O O O O O O O B-geo O O O O O O O O O B-org I-org O,DT NN VBD DT NN VBD NN IN NNP POS NN IN CD IN PRP$ NNS IN DT NNP NNP .
+The West Bank is not included in a cease-fire agreement between Israel and Hamas leaders in the Gaza Strip .,O B-org I-org O O O O O O O O B-geo O B-org O O O B-geo I-geo O,DT NNP NNP VBZ RB VBN IN DT NN NN IN NNP CC NNP NNS IN DT NNP NNP .

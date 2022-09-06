@@ -1,0 +1,5 @@
+Japanese officials have unveiled plans to cope with a possible bird flu epidemic .,B-gpe O O O O O O O O O O O O O,JJ NNS VBP VBN NNS TO VB IN DT JJ NN NN NN .
+"The action plan released by the Japanese health ministry Monday anticipates that a quarter of the population , some 32 million people , could become infected and that as many as 640,000 people could die .",O O O O O O B-gpe O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN NN VBN IN DT JJ NN NN NNP VBZ IN DT NN IN DT NN , DT CD CD NNS , MD VB JJ CC IN RB JJ IN CD NNS MD VB ."
+"The Japanese plan would shut down schools , ban large gatherings and declare a state of emergency in the case of a severe flu epidemic .",O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN MD VB RP NNS , VB JJ NNS CC VB DT NN IN NN IN DT NN IN DT JJ NN NN ."
+The government will also increase stockpiles of the anti-viral drug Tamiflu .,O O O O O O O O O O B-art O,DT NN MD RB VB NNS IN DT JJ NN NNP .
+Japan has reported no human deaths from bird flu so far .,B-org O O O O O O O O O O O,NNP VBZ VBN DT JJ NNS IN NN NN RB RB .

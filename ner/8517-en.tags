@@ -1,0 +1,7 @@
+"The widely popular U.S. cable TV program about mobsters , The Sopranos , has been nominated for 15 Emmy awards .",O O O B-geo O O O O O O B-art I-art O O O O O O B-art O O,"DT RB JJ NNP NN NN NN IN NNS , DT NNP , VBZ VBN VBN IN CD NNP NNS ."
+"James Gandolfini and Edie Falco , who play husband and wife on the show , were both nominated for the best lead acting role in a drama series .",B-per I-per O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP CC NNP NNP , WP VBP NN CC NN IN DT NN , VBD DT VBN IN DT JJS NN VBG NN IN DT NN NN ."
+The Sopranos won the Emmy as best dramatic show in 2004 .,B-art I-art O O B-art O O O O O B-tim O,DT NNP VBD DT NNP IN JJS JJ NN IN CD .
+It ended a six-season run on HBO last month .,O O O O O O B-art O O O,PRP VBD DT JJ NN IN NNP JJ NN .
+Nominations for the 59th Annual Primetime Emmy Awards were announced Thursday in California .,O O O O B-eve I-eve I-eve I-eve O O B-tim O B-geo O,NNS IN DT JJ JJ NN NNP NNPS VBD VBN NNP IN NNP .
+The awards show is set to be broadcast on September 16 .,O O O O O O O O O B-tim I-tim O,DT NNS VBP VBZ VBN TO VB VBN IN NNP CD .
+"Kyra Sedgwick , who helped announced the nominations , was herself honored with a nomination for outstanding lead actress in a drama series .",B-per I-per O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP , WP VBD VBD DT NNS , VBD PRP VBN IN DT NN IN JJ JJ NN IN DT NN NN ."

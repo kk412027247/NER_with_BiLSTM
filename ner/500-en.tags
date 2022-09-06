@@ -1,0 +1,8 @@
+NATO says a landmine blast in eastern Afghanistan has killed one NATO solider and wounded four others .,B-org O O O O O B-geo I-geo O O O B-org O O O O O O,NNP VBZ DT NN NN IN JJ NNP VBZ VBN CD NNP NN CC VBD CD NNS .
+A statement says the bomb went off Thursday near a vehicle carrying NATO troops .,O O O O O O O B-tim O O O O B-org O O,DT NN VBZ DT NN VBD RP NNP IN DT NN VBG NNP NNS .
+The nationality of the troops was not given .,O O O O O O O O O,DT NN IN DT NNS VBD RB VBN .
+Most of the NATO soldiers in eastern Afghanistan are American .,O O O B-org O O B-geo I-geo O B-gpe O,JJS IN DT NNP NNS IN JJ NNP VBP JJ .
+Three Canadian troops were killed Wednesday when a roadside bomb hit their vehicle in the southern province of Kandahar .,O B-gpe O O O B-tim O O O O O O O O O O O O B-geo O,CD JJ NNS VBD VBN NNP WRB DT NN NN VBD PRP$ NN IN DT JJ NN IN NNP .
+The attack raised the Canadian military death toll in Afghanistan to 60 since 2002 .,O O O O B-gpe O O O O B-geo O O O B-tim O,DT NN VBD DT JJ JJ NN NN IN NNP TO CD IN CD .
+"Also Wednesday , an Afghan official , Zhari district chief Khairuddin , said Afghan and NATO forces killed 21 Taleban militants in a battle in another part of Kandahar .",O B-tim O O B-gpe O O B-org O O B-per O O B-gpe O B-org O O O B-org O O O O O O O O B-geo O,"RB NNP , DT JJ NN , NNP NN NN NNP , VBD JJ CC NNP NNS VBD CD NNP NNS IN DT NN IN DT NN IN NNP ."
+The Canadian Press agency quotes a Canadian officer as saying the fighting involved Canadian soldiers .,O O O O O O B-gpe O O O O O O B-gpe O O,DT NNP NNP NN VBZ DT JJ NN IN VBG DT NN VBN JJ NNS .

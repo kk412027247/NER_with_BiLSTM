@@ -1,0 +1,6 @@
+"Rescuers in Djibouti have found at least 22 more bodies from the boat that capsized Thursday , bringing the death toll up to 94 .",O O B-geo O O O O O O O O O O O O B-tim O O O O O O O O O,"NNS IN NNP VBP VBN IN JJS CD JJR NNS IN DT NN IN VBZ NNP , VBG DT NN NN RP IN CD ."
+The accident is thought to be the worst-ever disaster to occur in the tiny Horn of Africa country .,O O O O O O O O O O O O O O B-geo I-geo I-geo O O,DT NN VBZ VBN TO VB DT JJ NN TO VB IN DT JJ NNP IN NNP NN .
+"The search continued Saturday for more people missing from the wooden boat , which flipped over just 100 meters from the dock in the port of Djibouti .",O O O B-tim O O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,"DT NN VBD NNP IN JJR NNS VBG IN DT JJ NN , WDT VBD IN RB CD NNS IN DT NN IN DT NN IN NNP ."
+"The exact number of passengers remains unknown , but witnesses say the boat was severely overcrowded with at least 250 people .",O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN IN NNS VBZ JJ , CC NNS VBP DT NN VBD RB VBN IN IN JJS CD NNS ."
+Some passengers were rescued or swam to shore .,O O O O O O O O O,DT NNS VBD VBN CC NN TO VB .
+The vessel was headed to a Muslim religious festival in the town of Tadjoura .,O O O O O O B-org O O O O O O B-geo O,DT NN VBD VBN TO DT NNP JJ NN IN DT NN IN NNP .

@@ -1,0 +1,6 @@
+A U.S. military court in Afghanistan has sentenced an American soldier to six months confinement and a reduction in rank after finding him guilty of mistreating Afghan detainees .,O B-geo O O O B-geo O O O B-gpe O O O O O O O O O O O O O O O O B-gpe O O,DT NNP JJ NN IN NNP VBZ VBN DT JJ NN TO CD NNS NN CC DT NN IN NN IN VBG PRP JJ IN VBG JJ NNS .
+Military officials say Sergeant Kevin Myricks was accused of punching detainees at a base in southern Uruzgan province .,O O O O B-per I-per O O O O O O O O O O B-geo O O,JJ NNS VBP NNP NNP NNP VBD VBN IN VBG NNS IN DT NN IN JJ NNP NN .
+He was convicted during a court martial Monday at Bagram air base near Kabul .,O O O O O O O B-tim O B-org I-org O O B-geo O,PRP VBD VBN IN DT NN NN NNP IN NNP NN NN IN NNP .
+Another U.S. soldier accused in the same incident was sentenced on Friday to four months detention without pay and demotion .,O B-geo O O O O O O O O O B-tim O O O O O O O O O,DT NNP NN VBN IN DT JJ NN VBD VBN IN NNP TO CD NNS NN IN NN CC NN .
+U.S. military personnel have been accused in other instances of Afghan prisoner abuse .,B-geo O O O O O O O O O B-gpe O O O,NNP JJ NNS VBP VBN VBN IN JJ NNS IN JJ NN NN .
+But U.S. officials deny widespread mistreatment of those held in military custody .,O B-geo O O O O O O O O O O O,CC NNP NNS VBP JJ NN IN DT VBN IN JJ NN .

@@ -1,0 +1,7 @@
+The world 's biggest maker of computer chips is investing more than $ 1 billion in India over the next five years .,O O O O O O O O O O O O O O O O B-geo O O O B-tim O O,DT NN POS JJS NN IN NN NNS VBZ VBG JJR IN $ CD CD IN NNP IN DT JJ CD NNS .
+The investment was announced Monday by Intel Chairman .,O O O O B-tim O B-org O O,DT NN VBD VBN NNP IN NNP NNP .
+Much of the money will go to expand Intel 's research and development center in Bangalore .,O O O O O O O O B-org O O O O O O B-geo O,NN IN DT NN MD VB TO VB NNP POS NN CC NN NN IN NNP .
+"That operation already employs 2,800 people .",O O O O O O O,DT NN RB VBZ CD NNS .
+"Intel officials say around $ 250 million is going into a fund to stimulate local technology innovation , particularly in technology oriented service companies that target overseas markets .",B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNS VBP IN $ CD CD VBZ VBG IN DT NN TO VB JJ NN NN , RB IN NN JJ NN NNS WDT VBP JJ NNS ."
+"Intel has been operating in India for a decade , and has already invested about $ 700 million there .",B-org O O O O B-geo O O O O O O O O O O O O O O,"NNP VBZ VBN VBG IN NNP IN DT NN , CC VBZ RB VBN IN $ CD CD RB ."
+"Mr. Barrett says India is one of the world 's "" leading technology centers "" and he expects this investment to help the country grow further .",B-per I-per O B-geo O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP VBZ NNP VBZ CD IN DT NN POS LQU VBG NN NNS LQU CC PRP VBZ DT NN TO VB DT NN VB RBR .

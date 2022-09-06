@@ -1,0 +1,7 @@
+"Poland 's prime minister says he wants to keep troops in Iraq until the end of next year , despite the previous government 's plan to pull its forces out in the coming months .",B-org O O O O O O O O O O B-geo O O B-tim I-tim O O O O O O O O O O O O O O O O O O O,"NNP POS JJ NN VBZ PRP VBZ TO VB NNS IN NNP IN DT NN IN JJ NN , IN DT JJ NN POS NN TO VB PRP$ NNS RP IN DT JJ NNS ."
+Kazimierz Marcinkiewicz said Tuesday his government decided to ask new Polish President Lech Kaczynski to extend the country 's mission in Iraq .,B-per I-per O B-tim O O O O O O B-gpe B-per I-per I-per O O O O O O O B-geo O,NNP NNP VBD NNP PRP$ NN VBD TO VB JJ JJ NNP NNP NNP TO VB DT NN POS NN IN NNP .
+The deployment is not popular in Poland .,O O O O O O B-geo O,DT NN VBZ RB JJ IN NNP .
+"Poland has about 1,500 troops in Iraq .",B-geo O O O O O B-geo O,NNP VBZ IN CD NNS IN NNP .
+Seventeen have been killed since they were deployed in the country .,O O O O O O O O O O O O,CD VBP VBN VBN IN PRP VBD VBN IN DT NN .
+"Meanwhile , the last Ukrainian troops left Iraq Tuesday , completing Ukrainian President Viktor Yushchenko 's promised withdrawal .",O O O O B-gpe O O B-geo B-tim O O B-gpe B-per I-per I-per O O O O,"RB , DT JJ JJ NNS VBD NNP NNP , VBG JJ NNP NNP NNP POS VBN NN ."
+Mr. Yushchenko made a surprise visit to Iraq Monday to visit Ukrainian troops before they withdrew .,B-per I-per O O O O O B-geo B-tim O O B-gpe O O O O O,NNP NNP VBD DT NN NN TO NNP NNP TO VB JJ NNS IN PRP VBD .

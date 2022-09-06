@@ -1,0 +1,7 @@
+"Iraqi police say a bomb exploded in a crowded animal market in central Baghdad Friday , killing at least 13 people .",B-gpe O O O O O O O O O O O O B-geo B-tim O O O O O O O,"JJ NNS VBP DT NN VBD IN DT JJ NN NN IN JJ NNP NNP , VBG IN JJS CD NNS ."
+"Authorities say nearly 60 others were wounded in the blast , including several police officers .",O O O O O O O O O O O O O O O O,"NNS VBP RB CD NNS VBD VBN IN DT NN , VBG JJ NNS NNS ."
+The Souq al-Ghazl market in Baghdad also was bombed earlier this year .,O O O O O B-geo O O O O O O O,DT NNP JJ NN IN NNP RB VBD VBN RBR DT NN .
+"In the northern city of Mosul , police say a suicide car bombing targeting a police patrol killed at least nine people , including at least three policemen .",O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O,"IN DT JJ NN IN NNP , NNS VBP DT NN NN VBG VBG DT NN NN VBD IN JJS CD NNS , VBG IN JJS CD NNS ."
+Today 's explosions came amid a decrease in violence across the nation .,B-tim O O O O O O O O O O O O,NN POS NNS VBD IN DT NN IN NN IN DT NN .
+"In separate news today , Polish Prime Minister Donald Tusk said his government will withdraw all of its troops from Iraq in 2008 .",O O O B-tim O B-gpe B-per I-per I-per I-per O O O O O O O O O O B-geo O B-tim O,"IN JJ NN NN , JJ NNP NNP NNP NNP VBD PRP$ NN MD VB DT IN PRP$ NNS IN NNP IN CD ."
+Poland has about 900 soldiers in southern Iraq .,B-gpe O O O O O B-geo I-geo O,NNP VBZ IN CD NNS IN JJ NNP .

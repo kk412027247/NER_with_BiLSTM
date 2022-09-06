@@ -1,0 +1,8 @@
+Tens of thousands of people in St. Peter 's Square stood in tearful silence after the death of Pope John Paul II was announced .,O O O O O O B-geo B-per O O O O O O O O O O O B-per I-per I-per O O O,NNS IN NNS IN NNS IN NNP NNP POS NNP VBD IN JJ NN IN DT NN IN NNP NNP NNP NNP VBD VBN .
+Vatican officials told the pilgrims that a Mass for the pope will be held in the square Sunday morning .,O O O O O O O O O O O O O O O O O B-tim I-tim O,NNP NNS VBD DT NNS IN DT NNP IN DT NN MD VB VBN IN DT NN NNP NN .
+"Pilgrims cried , held rosaries and candles , and prayed after the announcement of the pontiff 's death .",O O O O O O O O O O O O O O O O O O O,"NNP VBD , VBD NNS CC NNS , CC VBD IN DT NN IN DT NN POS NN ."
+The bells of the churches of Rome tolled after the announcement .,O O O O O O B-per O O O O O,DT NNS IN DT NNS IN NNP VBD IN DT NN .
+"A service of hymns , Bible readings and prayers followed .",O O O O O B-per O O O O O,"DT NN IN NNS , NNP NNS CC NNS VBD ."
+Someone in the crowd waved a large Polish flag .,O O O O O O O B-gpe O O,DT IN DT NN VBD DT JJ JJ NN .
+"Some pilgrims had spent the night Friday in the square , located beneath the pope 's apartment window at the Vatican .",O O O O B-tim I-tim I-tim O O O O O O O O O O O O O O O,"DT NNS VBD VBN DT NN NNP IN DT NN , VBN IN DT NN POS NN NN IN DT NNP ."
+Many had kept up a continuous vigil for the pontiff .,O O O O O O O O O O O,NN VBD VBN RP DT JJ NN IN DT NN .

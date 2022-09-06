@@ -1,0 +1,5 @@
+"The impoverished country of Afghanistan is pledging $ 100,000 to help the victims of Hurricane Katrina in the United States .",O O O O B-geo O O O O O O O O O O O O O B-geo I-geo O,DT JJ NN IN NNP VBZ VBG $ CD TO VB DT NNS IN NNP NNP IN DT NNP NNPS .
+U.S. Ambassador Ronald Neumann thanked the Afghan people for the pledge on Sunday .,B-org I-org B-per I-per O O B-gpe O O O O O B-tim O,NNP NNP NNP NNP VBD DT JJ NNS IN DT NN IN NNP .
+"He said the money "" bears testimony to the strength of the ties between our two peoples . """,O O O O O O O O O O O O O O O O O O O,PRP VBD DT NN LQU VBZ NN TO DT NN IN DT NNS IN PRP$ CD NNS . RQU
+U.S. forces toppled the Taliban regime in Afghanistan after the 2001 al-Qaida led terrorist attacks on New York City and Washington .,B-geo O O O B-org O O B-geo O O B-tim B-org O O O O B-geo I-geo I-geo O B-geo O,NNP NNS VBD DT NNP NN IN NNP IN DT CD NNP VBD NN NNS IN NNP NNP NNP CC NNP .
+"About 20,000 U.S. troops remain in Afghanistan , which relies heavily on the U.S. for financial aid .",O O B-geo O O O B-geo O O O O O O B-geo O O O O,"IN CD NNP NNS VBP IN NNP , WDT VBZ RB IN DT NNP IN JJ NN ."

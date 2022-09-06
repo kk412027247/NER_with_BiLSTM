@@ -1,0 +1,8 @@
+"Hurricane Gustav is moving across the Caribbean toward southwestern Haiti , where it is expected to make landfall later Tuesday .",O O O O O O B-geo O O B-geo O O O O O O O O B-tim I-tim O,"NNP NNP VBZ VBG IN DT NNP IN JJ NNP , WRB PRP VBZ VBN TO VB NN RB NNP ."
+U.S. forecasters say the storm 's winds strengthened on Tuesday morning to nearly 150 kilometers per hour .,B-geo O O O O O O O O B-tim I-tim O O O O O O O,NNP NNS VBP DT NN POS NNS VBD IN NNP NN TO RB CD NNS IN NN .
+"Gustav is expected to produce up to 38 centimeters of rain in some areas , possibly causing dangerous flash floods and mudslides .",B-org O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN TO VB RP TO CD NNS IN NN IN DT NNS , RB VBG JJ NN NNS CC NNS ."
+The National Hurricane Center in Miami upgraded Gustav to a hurricane early Tuesday .,O O O O O B-geo O B-org O O O O B-tim O,DT NNP NNP NNP IN NNP VBD NNP TO DT NN RB NNP .
+"A hurricane warning is in effect for parts of Haiti and the Dominican Republic , where Tropical Storm Fay claimed an estimated 50 lives less than two weeks ago .",O O O O O O O O O B-geo O O B-geo I-geo O O O O B-per O O O O O O O B-tim O O O,"DT NN NN VBZ IN NN IN NNS IN NNP CC DT NNP NNP , WRB JJ NN NNP VBD DT VBN CD NNS JJR IN CD NNS RB ."
+"Fay has weakened a tropical depression , causing heavy rains in the eastern United States .",B-per O O O O O O O O O O O O B-geo I-geo O,"NNP VBZ VBN DT JJ NN , VBG JJ NNS IN DT JJ NNP NNPS ."
+Forecasters expect Hurricane Gustav to pass just south or east of Cuba on Wednesday .,O O O O O O O O O O O B-geo O B-tim O,NNS VBP NNP NNP TO VB RB RB CC RB IN NNP IN NNP .
+Cuba and Jamaica have issued hurricane watches .,B-geo O B-geo O O O O O,NNP CC NNP VBP VBN NN NNS .

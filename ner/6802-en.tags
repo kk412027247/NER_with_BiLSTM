@@ -1,0 +1,8 @@
+"Heavy monsoon rains in Pakistan 's south have killed at least 26 people and cut off electricity in the country 's largest city , Karachi .",O O O O B-geo O O O O O O O O O O O O O O O O O O O B-geo O,"JJ NN NNS IN NNP POS NN VBP VBN IN JJS CD NNS CC VB RP NN IN DT NN POS JJS NN , NNP ."
+The rainfall started Saturday and flooded areas of the port city .,O O O B-tim O O O O O O O O,DT NN VBD NNP CC VBN NNS IN DT JJ NN .
+Officials say some of the victims died from drowning and electrocution .,O O O O O O O O O O O O,NNS VBP DT IN DT NNS VBD IN VBG CC NN .
+Others were killed by collapsing homes .,O O O O O O O,NNS VBD VBN IN VBG NNS .
+The 15 centimeters of rainfall damaged hundreds of buildings and downed power lines across the city .,O O O O O O O O O O O O O O O O O,DT CD NNS IN NN VBN NNS IN NNS CC JJ NN NNS IN DT NN .
+Pakistani officials say they are working to restore electricity and control the situation .,B-gpe O O O O O O O O O O O O O,JJ NNS VBP PRP VBP VBG TO VB NN CC VB DT NN .
+"Despite the downpour , meteorologists are predicting almost a third less rainfall this year .",O O O O O O O O O O O O O O O,"IN DT NN , NNS VBP VBG RB DT JJ JJR NN DT NN ."
+Karachi suffers from outdated infrastructure and a poor drainage system that leaves parts of the city vulnerable to flooding .,B-geo O O O O O O O O O O O O O O O O O O O,NNP VBZ IN VBN NN CC DT JJ NN NN WDT VBZ NNS IN DT NN NN TO NN .

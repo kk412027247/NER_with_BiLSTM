@@ -1,0 +1,8 @@
+"Police in the Nepalese capital of Kathmandu say they have detained more than 560 Tibetan protesters Sunday , all of them women .",O O O B-gpe O O B-geo O O O O O O O B-gpe O B-tim O O O O O O,"NNS IN DT JJ NN IN NNP VBP PRP VBP VBN JJR IN CD JJ NNS NNP , DT IN PRP NNS ."
+It was the all female demonstration against China 's crackdown in Tibet since violence erupted in the Tibetan capital of Lhasa in March .,O O O O O O O B-geo O O O B-geo O O O O O B-gpe O O B-geo O B-tim O,PRP VBD DT DT JJ NN IN NNP POS NN IN NNP IN NN VBD IN DT JJ NN IN NNP IN NNP .
+"Since then , Tibetan exiles have taken part in anti-China protests nearly every day .",O O O B-gpe O O O O O O O O O B-tim O,"IN RB , JJ NNS VBP VBN NN IN JJ NNS RB DT NN ."
+"Nepal is home to about 20,000 Tibetan refugees .",B-gpe O O O O O B-gpe O O,NNP VBZ NN TO IN CD JJ NNS .
+"On Saturday , police in Nepal detained at least 120 Tibetan protesters who demonstrated in front of the Chinese Embassy in Kathmandu .",O B-tim O O O B-gpe O O O O B-gpe O O O O O O O B-gpe B-org O B-geo O,"IN NNP , NN IN NNP VBD IN JJS CD JJ NNS WP VBD IN NN IN DT JJ NNP IN NNP ."
+"The protesters chained themselves together in small groups , waved Tibetan flags and chanted slogans against China .",O O O O O O O O O O B-gpe O O O O O B-geo O,"DT NNS VBD PRP RB IN JJ NNS , VBD JJ NNS CC VBD NNS IN NNP ."
+Most of those detained during the protests are freed the same day .,O O O O O O O O O O O B-tim O,JJS IN DT VBN IN DT NNS VBP VBN DT JJ NN .
+Nepal regards Tibet as part of China .,B-gpe O B-geo O O O B-geo O,NNP VBZ NNP IN NN IN NNP .

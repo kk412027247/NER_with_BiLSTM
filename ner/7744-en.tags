@@ -1,0 +1,4 @@
+"Every two to four years , the Perito Moreno Glacier in Los Glacieres National Park , Argentina breaks apart .",O B-tim I-tim I-tim O O O B-org I-org I-org O B-geo I-geo I-geo I-geo O B-geo O O O,"DT CD CC CD NNS , DT NNP NNP NNP IN NNP NNP NNP NNP , NNP VBZ RB ."
+It 's a spectacular sight that attracts thousands .,O O O O O O O O O,PRP VBZ DT JJ NN WDT VBZ NNS .
+"This year , for the first time in memory , the breakup took place during the southern hemisphere 's winter .",O O O O O O O O O O O O O O O O O O O O O,"DT NN , IN DT JJ NN IN NN , DT NN VBD NN IN DT JJ NN POS NN ."
+VOA 's Paul Sisco has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

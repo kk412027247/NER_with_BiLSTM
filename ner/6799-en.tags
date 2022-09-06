@@ -1,0 +1,7 @@
+Kuwait 's Interior Ministry says a suspected Saudi militant has been killed in a lengthy gunbattle with police .,B-org I-org I-org I-org O O O B-geo O O O O O O O O O O O,NNP POS NNP NNP VBZ DT JJ NNP NN VBZ VBN VBN IN DT JJ NN IN NNS .
+"Another militant , with Kuwaiti nationality , was captured , and authorities seized a large cache of weapons , ammunition and explosives in the daytime raid Saturday .",O O O O B-gpe O O O O O O O O O O O O O O O O O O O O O B-tim O,"DT NN , IN JJ NN , VBD VBN , CC NNS VBD DT JJ NN IN NNS , NN CC NNS IN DT JJ NN NNP ."
+"House-to-house searches were continuing in the residential Umm al-Haiman district , south of Kuwait City for several other suspects who fled .",O O O O O O O B-org I-org O O O O B-geo I-geo O O O O O O O,"NN NNS VBD VBG IN DT JJ NNP NNP NN , NN IN NNP NNP IN JJ JJ NNS WP VBD ."
+"State television carried pictures of the scene , where two security officers also were wounded .",O O O O O O O O O O O O O O O O,"NN NN VBD NNS IN DT NN , WRB CD NN NNS RB VBD VBN ."
+Citizens were warned not to harbor any fugitives and to call police if they saw any suspicious activity .,O O O O O O O O O O O O O O O O O O O,NNPS VBD VBN RB TO NN DT NNS CC TO VB NN IN PRP VBD DT JJ NN .
+Today 's incident is the second in less than a week .,B-tim O O O O O O O O O O O,NN POS NN VBZ DT JJ IN JJR IN DT NN .
+A militant and two policemen were killed in a gunfight Monday in Kuwait City .,O O O O O O O O O B-tim I-tim O B-geo I-geo O,DT JJ CC CD NNS VBD VBN IN DT NN NNP IN NNP NNP .

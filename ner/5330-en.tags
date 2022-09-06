@@ -1,0 +1,4 @@
+"Wall Street enjoyed an upswing Thursday , despite mixed economic news concerning consumer spending and jobless claims .",B-org I-org O O O B-tim O O O O O O O O O O O O,"NNP NNP VBD DT NN NNP , IN JJ JJ NN VBG NN NN CC JJ NNS ."
+The Dow Jones Industrial Average gained nearly 190 points to close at 13010 .,O B-art I-art I-art I-art O O O O O O O O O,DT NNP NNP NNP NNP VBD RB CD NNS TO VB IN CD .
+The surge in the stock markets comes as investors await a key report .,O O O O O O O O O O O O O O,DT NN IN DT NN NNS VBZ IN NNS VBP DT JJ NN .
+VOA 's Robert Raffaele has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

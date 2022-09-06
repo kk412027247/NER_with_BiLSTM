@@ -1,0 +1,8 @@
+Spain and Morocco have called for a European-African summit to discuss the surge of illegal immigration from the North African country to Europe .,B-gpe O B-per O O O O O O O O O O O O O O O B-geo B-gpe O O B-geo O,NNP CC NNP VBP VBN IN DT JJ NN TO VB DT NN IN JJ NN IN DT JJ JJ NN TO NNP .
+The announcement was made in Rabat Tuesday by Spanish Foreign Minister Miguel Angel Moratinos .,O O O O O B-org B-tim O B-gpe O B-per I-per I-per I-per O,DT NN VBD VBN IN NNP NNP IN JJ NNP NNP NNP NNP NNP .
+"Earlier Tuesday , Morocco flew 140 illegal migrants back to Senegal .",O B-tim O B-per O O O O O O B-geo O,"RBR NNP , NNP VBD CD JJ NNS RB TO NNP ."
+Other flights to Senegal and Mali are planned .,O O O B-geo O B-geo O O O,JJ NNS TO NNP CC NNP VBP VBN .
+"Spain has been sending Africans who have illegally entered its enclaves in Melilla and Ceuta back into Morocco , which has started sending them home .",B-gpe O O O B-gpe O O O O O O O B-geo O B-geo O O B-per O O O O O O O O,"NNP VBZ VBN VBG NNS WP VBP RB VBN PRP$ NNS IN NNP CC NNP RB IN NNP , WDT VBZ VBN VBG PRP NN ."
+"More than 1,000 migrants have scaled the razor-wire fences surrounding the enclaves since August , seeking a better life in Europe .",O O O O O O O O O O O O B-tim I-tim O O O O O O B-geo O,"JJR IN CD NNS VBP VBN DT JJ NNS VBG DT NNS IN NNP , VBG DT JJR NN IN NNP ."
+At least 14 have died during the attempts .,O O O O O O O O O,IN JJS CD VBP VBN IN DT NNS .
+Amnesty International has accused the European Union of failing to protect refugees .,O O O O O B-org I-org O O O O O O,NNP NNP VBZ VBN DT NNP NNP IN VBG TO VB NNS .

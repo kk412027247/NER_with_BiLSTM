@@ -1,0 +1,7 @@
+"The daughter of rhythm-and-blues legend Fats Domino says her father , who had been reported missing in New Orleans , had been rescued from the devastated city .",O O O O O B-per I-per O O O O O O O O O O B-geo I-geo O O O O O O O O O,"DT NN IN NNS VBP NNP NNP VBZ PRP$ NN , WP VBD VBN VBN VBG IN NNP NNP , VBD VBN VBN IN DT JJ NN ."
+Karen Domino White said Thursday she identified her father in a photograph taken of him being evacuated from his home after the hurricane .,B-per I-per I-per O B-tim O O O O O O O O O O O O O O O O O O O,NNP NNP NNP VBD NNP PRP VBD PRP$ NN IN DT NN VBN IN PRP VBG VBN IN PRP$ NN IN DT NN .
+The 77-year-old entertainer had been reported missing Thursday by his long-time agent .,O O O O O O O B-tim O O O O O,DT JJ NN VBD VBN VBN VBG NNP IN PRP$ JJ NN .
+"Fats Domino , whose real name is Antoine Domino , was born in New Orleans in 1928 .",B-per I-per O O O O O B-per I-per O O O O B-geo I-geo O B-tim O,"NNP NNP , WP$ JJ NN VBZ NNP NNP , VBD VBN IN NNP NNP IN CD ."
+"He earned the nickname "" Fats "" after he wrote a song called The Fat Man .",O O O O O B-per I-per O O O O O O O O O O,PRP VBD DT NN RQU NNPS LQU IN PRP VBD DT NN VBN DT NNP NN .
+Other hits include Blueberry Hill and Ai n't That a Shame .,O O O B-art I-art O B-art I-art I-art I-art I-art O,JJ NNS VBP NNP NNP CC NNP NNP NNP NNP NNP .
+He was one of the first inductees into the Rock and Roll Hall of Fame .,O O O O O O O O O B-per O B-per I-per O B-geo O,PRP VBD CD IN DT JJ NNS IN DT NNP CC NNP NNP IN NNP .

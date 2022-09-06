@@ -1,0 +1,6 @@
+"The United Nations is appealing for help for Niger , where it says floods have displaced nearly 200,000 people in recent weeks .",O B-org I-org O O O O O B-gpe O O O O O O O O O O O B-tim O O,"DT NNP NNP VBZ VBG IN NN IN NNP , WRB PRP VBZ NNS VBP VBN RB CD NNS IN JJ NNS ."
+The U.N. Office for the Coordination of Humanitarian Affairs says shelter materials and blankets are urgently needed .,O B-org I-org O O B-org I-org I-org I-org O O O O O O O O O,DT NNP NNP IN DT NN IN NNP NNP VBZ NN NNS CC NNS VBP RB VBN .
+Food and mosquito netting are also in short supply .,O O O O O O O O O O,NN CC NN NN VBP RB IN JJ NN .
+"The floods are compounding the misery in Niger , which was already experiencing a severe drought and food shortages before the rains hit .",O O O O O O O B-gpe O O O O O O O O O O O O O O O O,"DT NNS VBP VBG DT NN IN NNP , WDT VBD RB VBG DT JJ NN CC NN NNS IN DT NNS VBD ."
+The floods washed away the few crops and vegetable gardens that were starting to sprout .,O O O O O O O O O O O O O O O O,DT NNS VBD RB DT JJ NNS CC JJ NNS WDT VBD VBG TO VB .
+"A representative of the British-based charity Oxfam in Niger told VOA last week that people there are "" extremely desperate . """,O O O O O O B-org O B-geo O B-org O O O O O O O O O O O,DT NN IN DT JJ NN NNP IN NNP VBD NNP JJ NN IN NNS EX VBP LQU RB JJ . RQU

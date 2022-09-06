@@ -1,0 +1,7 @@
+A U.N. aid official in Gaza says dozens of masked gunmen have attacked a U.N. summer camp .,O B-org O O O B-geo O O O O O O O O B-geo B-tim O O,DT NNP NN NN IN NNP VBZ NNS IN VBN NNS VBP VBN DT NNP NN NN .
+"A U.N. spokesman said the attackers assaulted a guard , burned tents and vandalized bathrooms Sunday at the camp in eastern Gaza .",O B-org O O O O O O O O O O O O O B-tim O O O O B-geo I-geo O,"DT NNP NN VBD DT NNS VBD DT NN , VBN NNS CC VBN NNS NNP IN DT NN IN JJ NNP ."
+"The armed men also left behind a note pierced with several bullets , threatening to kill the U.N. Relief and Works Agency director , John Ging .",O O O O O O O O O O O O O O O O O B-org I-org I-org I-org I-org O O B-per I-per O,"DT JJ NNS RB VBD IN DT NN VBN IN JJ NNS , VBG TO VB DT NNP NNP CC NNP NNP NN , NNP NNP ."
+"The summer camp offers arts , sports and other activities to some 250,000 Gaza children .",O B-tim O O O O O O O O O O O B-org O O,"DT NN NN VBZ NNS , NNS CC JJ NNS TO DT CD NNP NNS ."
+There were no claim of responsibility for the attack .,O O O O O O O O O O,EX VBD DT NN IN NN IN DT NN .
+Some extremist Islamic groups in Gaza oppose the camps .,O O O O O B-geo O O O O,DT NN JJ NNS IN NNP VBP DT NNS .
+Gaza 's Hamas police are investigating the incident .,B-geo O B-org O O O O O O,NNP POS NNP NN VBP VBG DT NN .

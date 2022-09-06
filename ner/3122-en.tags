@@ -1,0 +1,6 @@
+"Six people are missing and at least 42 injured after an explosion ripped through a sugar refinery in the southeastern U.S. city of Savannah , in the state of Georgia .",O O O O O O O O O O O O O O O O O O O O B-geo O O B-geo O O O O O B-geo O,"CD NNS VBP VBG CC IN JJS CD NN IN DT NN VBN IN DT NN NN IN DT JJ NNP NN IN NNP , IN DT NN IN NNP ."
+The blast caused a massive fire that firefighters were still trying to bring under control more than 12 hours after the explosion .,O O O O O O O O O O O O O O O O O O O O O O O,DT NN VBD DT JJ NN IN NNS VBD RB VBG TO VB IN NN RBR IN CD NNS IN DT NN .
+The refinery is owned by Imperial Sugar Company .,O O O O O B-org I-org I-org O,DT NN VBZ VBN IN NNP NNP NN .
+A company spokesman says the blast tore through a silo where refined sugar is kept .,O O O O O O O O O O O O O O O O,DT NN NN VBZ DT NN VBD IN DT NN WRB JJ NN VBZ VBN .
+"He suspects sugar dust , which can be volatile , may have caused the explosion .",O O O O O O O O O O O O O O O O,"PRP VBZ NN NN , WDT MD VB JJ , MD VB VBN DT NN ."
+About 100 workers were inside the refinery at the time of the blast .,O O O O O O O O O O O O O O,IN CD NNS VBD IN DT NN IN DT NN IN DT NN .

@@ -1,0 +1,4 @@
+Tonga - unique among Pacific nations - never completely lost its indigenous governance .,B-geo O O O O O O O O O O O O O,NNP : JJ IN NNP NNS IN RB RB VBD PRP$ JJ NN .
+"The archipelagos of "" The Friendly Islands "" were united into a Polynesian kingdom in 1845 .",O O O O O O O O O O O O O O O B-tim O,DT NNS IN LQU DT NNP NNP LQU VBD VBN IN DT JJ NN IN CD .
+Tonga became a constitutional monarchy in 1875 and a British protectorate in 1900 ; it withdrew from the protectorate and joined the Commonwealth of Nations in 1970 .,B-geo O O O O O B-tim O O B-gpe O O B-tim O O O O O O O O O B-org I-org I-org O B-tim O,NNP VBD DT JJ NN IN CD CC DT JJ NN IN CD ; PRP VBD IN DT NN CC VBD DT NNP IN NNP IN CD .
+Tonga remains the only monarchy in the Pacific .,B-geo O O O O O O B-geo O,NNP VBZ DT JJ NN IN DT NNP .

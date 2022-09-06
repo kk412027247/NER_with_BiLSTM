@@ -1,0 +1,8 @@
+Bette Midler will replace Celine Dion as headliner at Caesar 's Palace Hotel-Casino in Las Vegas .,B-per I-per O O B-per I-per O O O B-org I-org I-org I-org O B-geo I-geo O,NNP NNP MD VB NNP NNP IN NN IN NNP POS NNP NNP IN NNP NNP .
+"Famed for her bawdy stage routine , the 61-year-old Midler reportedly agreed to a two-year run of 100 shows per year .",O O O O O O O O O B-per O O O O B-tim O O O O O O O,"VBN IN PRP$ JJ NN NN , DT JJ NNP RB VBD TO DT JJ NN IN CD NNS IN NN ."
+Her five-night-a-week performances begin February 20 .,O O O O B-tim I-tim O,PRP$ JJ NNS VBP NNP CD .
+"Replacing Celine Dion is no mean feat : since inaugurating her show , "" A New Day , "" in March 2003 , the French-Canadian singer has grossed more than $ 500 million .",O B-per I-per O O O O O O O O O O O O B-tim I-tim O O O B-tim I-tim O O O O O O O O O O O O,"VBG NNP NNP VBZ DT JJ NN IN IN VBG PRP$ NN , LQU DT NNP NNP , LQU IN NNP CD , DT JJ NN VBZ VBN JJR IN $ CD CD ."
+She will give her final performance December 15 .,O O O O O O B-tim I-tim O,PRP MD VB PRP$ JJ NN NNP CD .
+"Sharing space in the 4,100-seat , $ 95 million Colosseum is Elton John , who will continue his 50 show-per-year schedule through 2008 .",O O O O O O O O O B-org O B-per I-per O O O O O O O O O B-tim O,"VBG NN IN DT JJ , $ CD CD NN VBZ NNP NNP , WP MD VB PRP$ CD JJ NN IN CD ."
+Booking agent John Meglen says the new performance schedule leaves room for a probable third headliner .,O O B-per I-per O O O O O O O O O O O O O,VBG NN NNP NNP VBZ DT JJ NN NN VBZ NN IN DT JJ JJ NN .
+"He would not comment on who it may be , although entertainment insiders have mentioned Cher as a likely candidate .",O O O O O O O O O O O O O O O B-per O O O O O,"PRP MD RB VB IN WP PRP MD VB , IN NN NNS VBP VBN NNP IN DT JJ NN ."

@@ -1,0 +1,6 @@
+"The number of Indonesian children infected with the crippling polio virus has risen to 155 , with the discovery of 33 new cases in the last two weeks .",O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O B-tim O O,"DT NN IN JJ NNS VBN IN DT JJ NN NN VBZ VBN TO CD , IN DT NN IN CD JJ NNS IN DT JJ CD NNS ."
+"The World Health Organization says the new infections were found in areas on western Java island , where the disease originally broke out earlier this year .",O B-org I-org I-org O O O O O O O O O O B-geo I-geo O O O O O O O O O O O,"DT NNP NNP NNP VBZ DT JJ NNS VBD VBN IN NNS IN JJ NNP NN , WRB DT NN RB VBD RP RBR DT NN ."
+The polio outbreak - Indonesia 's first in 10 years - has prompted authorities to vaccinate 6.5 million children .,O O O O B-geo O O O B-tim O B-tim O O O O O O O O O,DT NN NN IN NNP POS JJ IN CD NNS : VBZ VBN NNS TO VB CD CD NNS .
+Another 24 million will be immunized in new rounds of a vaccination campaign on August 30 and September 27 .,O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim I-tim O,DT CD CD MD VB VBN IN JJ NNS IN DT NN NN IN NNP CD CC NNP CD .
+Polio is usually spread through polluted water .,O O O O O O O O,NNP VBZ RB VBN IN JJ NN .
+"It affects the nervous system , causing paralysis , muscular atrophy and death .",O O O O O O O O O O O O O O,"PRP VBZ DT JJ NN , VBG NN , JJ NN CC NN ."

@@ -1,0 +1,8 @@
+"Venezuela 's government has promised new measures to combat the country 's inflation rate , which is the highest in the region .",B-geo O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NN VBZ VBN JJ NNS TO VB DT NN POS NN NN , WDT VBZ DT JJS IN DT NN ."
+"Finance Minister Rodrigo Cabezas said Wednesday that his country 's inflation rate of 22.5 percent is "" unsatisfactory . """,O B-per I-per I-per O B-tim O O O O O O O O O O O O O O,NNP NNP NNP NNP VBD NNP IN PRP$ NN POS NN NN IN CD NN VBZ RQU JJ . LQU
+He promised new anti-inflationary measures but did not disclose any details .,O O O O O O O O O O O O,PRP VBD JJ JJ NNS CC VBD RB VB DT NNS .
+"Meanwhile , Venezuela has begun using a new currency system in an effort to slow the inflation rate .",O O B-geo O O O O O O O O O O O O O O O O,"RB , NNP VBZ VBN VBG DT JJ NN NN IN DT NN TO VB DT NN NN ."
+"The "" strong bolivar "" entered circulation on Tuesday .",O O O O O O O O B-tim O,DT LQU JJ NN RQU VBD NN IN NNP .
+"It was created by taking three trailing zeros off the value of the former currency , the bolivar .",O O O O O O O O O O O O O O O O O O O,"PRP VBD VBN IN VBG CD VBG NNS IN DT NN IN DT JJ NN , DT NN ."
+Officials say the new currency also will simplify transactions .,O O O O O O O O O O,NNS VBP DT JJ NN RB MD VB NNS .
+But critics say they doubt it will stabilize rising prices .,O O O O O O O O O O O,CC NNS VBP PRP VBP PRP MD VB VBG NNS .

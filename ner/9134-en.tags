@@ -1,0 +1,8 @@
+"Australia 's cricket team has scored 351-7 declared in its second innings , leaving India a massive target of nearly 500 runs after the third day of their first test in Melbourne .",B-gpe O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O B-geo O,"NNP POS NN NN VBZ VBN CD VBN IN PRP$ JJ NN , VBG NNP DT JJ NN IN RB CD NNS IN DT JJ NN IN PRP$ JJ NN IN NNP ."
+Australian batsmen Michael Clarke and Phil Jaques led the home side with Clarke scoring 73 runs and Jaques adding another 51 .,B-gpe O B-per I-per O B-per I-per O O O O O B-per O O O O B-per O O O O,JJ NNS NNP NNP CC NNP NNP VBD DT NN NN IN NNP VBG CD NNS CC NNP VBG DT CD .
+Brad Hogg scored 34 runs and Brett Lee added another 12 for Australia .,B-per I-per O O O O B-per I-per O O O O B-geo O,NNP NNP VBD CD NNS CC NNP NNP VBD DT CD IN NNP .
+Indian bowler Harbhajan Singh took three for 101 while Anil Kumble was two for 102 .,B-gpe O B-per I-per O O O O O B-org I-org O O O B-tim O,JJ NN NNP NNP VBD CD IN CD IN NNP NNP VBD CD IN CD .
+India was 6 without loss after surviving eight overs before stumps .,B-gpe O O O O O O O O O O O,NNP VBD CD IN NN IN VBG CD NNS IN NNS .
+The Indians have their work cut out for them - they need 493 runs in 10 wickets .,O B-gpe O O O O O O O O O O O O O O O O,DT NNS VBP PRP$ NN VBN RP IN PRP IN PRP VBP CD NNS IN CD NNS .
+The highest successful run-chase at Melbourne was England 's 332 runs against Australia in the 1928 - 1929 Ashes series .,O O O O O B-geo O B-geo O O O O B-geo O O B-tim I-tim I-tim O O O,DT JJS JJ NN IN NNP VBD NNP POS CD NNS IN NNP IN DT CD : CD NNP NN .
+Only three teams have ever achieved what India must to win the match .,O O O O O O O B-geo O O O O O O,RB CD NNS VBP RB VBN WP NNP MD TO VB DT NN .

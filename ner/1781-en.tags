@@ -1,0 +1,8 @@
+The U.S. unemployment rate increased to a four-year high in July .,O B-geo O O O O O O O O B-tim O,DT NNP NN NN VBD TO DT JJ NN IN NNP .
+"A Labor Department report issued Friday shows 5.7 percent of the U.S. workforce is unemployed , a slight increase from June .",O O O O O B-tim O O O O O B-geo O O O O O O O O B-tim O,"DT NNP NNP NN VBN NNP VBZ CD NN IN DT NNP NN VBZ JJ , DT JJ NN IN NNP ."
+"Meanwhile the number of jobs fell by 51,000 , marking the seventh straight month of losses .",O O O O O O O O O O O O O O O O O,"RB DT NN IN NNS VBD IN CD , VBG DT JJ JJ NN IN NNS ."
+"White House spokeswoman Dana Perino said the administration is "" displeased "" with the report .",B-org I-org O B-per I-per O O O O O O O O O O O,NNP NNP NN NNP NNP VBD DT NN VBZ LQU JJ RQU IN DT NN .
+But she said the economy remains resilient .,O O O O O O O O,CC PRP VBD DT NN VBZ JJ .
+The manufacturing and construction industries cut the most jobs .,O O O O O O O O O O,DT NN CC NN NNS VBD DT JJS NNS .
+The two sectors have been hit hard by a housing slump and credit crisis .,O O O O O O O O O O O O O O O,DT CD NNS VBP VBN VBN RB IN DT NN NN CC NN NN .
+"Analysts say job cuts , combined with high energy costs , could impact consumer spending , which drives about two-thirds of the total economy .",O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP NN NNS , VBN IN JJ NN NNS , MD VB NN NN , WDT VBZ IN NNS IN DT JJ NN ."

@@ -1,0 +1,8 @@
+Several members of four top Italian football teams have been ordered to stand trial in a sports court on charges stemming from the largest football scandal in the country 's history .,O O O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O O,JJ NNS IN CD JJ JJ NN NNS VBP VBN VBN TO VB NN IN DT NNS NN IN NNS VBG IN DT JJS NN NN IN DT NN POS NN .
+"At least 26 people from Juventus , AC Milan , Lazio and Fiorentina will face allegations of match-fixing , illegal betting and manipulation of referee assignments .",O O O O O B-geo O B-geo I-geo O B-geo O B-geo O O O O O O O O O O O O O O,"IN JJS CD NNS IN NNP , NNP NNP , NNP CC NNP MD VB NNS IN JJ , JJ VBG CC NN IN NN NNS ."
+The trial begins next week at the Olympic Stadium in Rome .,O O O O O O O O O O B-geo O,DT NN VBZ JJ NN IN DT NNP NNP IN NNP .
+No players are involved .,O O O O O,DT NNS VBP VBN .
+Juventus has been investigated for sporting fraud on allegations that it tried to manipulate the Serie A by handpicking referees .,B-geo O O O O O O O O O O O O O O B-org I-org O O O O,NNP VBZ VBN VBN IN VBG NN IN NNS IN PRP VBD TO VB DT NNP NNP IN VBG NNS .
+Juventus won the first division title for the last two seasons .,B-geo O O O O O O O O B-tim I-tim O,NNP VBD DT JJ NN NN IN DT JJ CD NNS .
+But those titles could be stripped along with possible relegation as far down as the third division .,O O O O O O O O O O O O O O O O O O,CC DT NNS MD VB VBN IN IN JJ NN IN RB RB IN DT JJ NN .
+The other teams face lesser demotions .,O O O O O O O,DT JJ NNS VBP JJR NNS .

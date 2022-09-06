@@ -1,0 +1,3 @@
+"Heavy rains in Brazil have caused deadly mudslides that have killed at least seven people , mostly children .",O O O B-geo O O O O O O O O O O O O O O O,"JJ NNS IN NNP VBP VBN JJ NNS WDT VBP VBN IN JJS CD NNS , RB NNS ."
+"Authorities say the victims lived in a shantytown in the industrial suburb of Sao Bernardo do Campo , near the city of Sao Paulo .",O O O O O O O O O O O O O B-org I-org O B-geo O O O O O B-geo I-geo O,"NNS VBP DT NNS VBD IN DT NN IN DT JJ NN IN NNP NNP VBP NNP , IN DT NN IN NNP NNP ."
+Torrential rains have lashed the Sao Paulo region since Tuesday .,O O O O O B-org I-org O O B-tim O,NNP NNS VBP VBN DT NNP NNP NN IN NNP .

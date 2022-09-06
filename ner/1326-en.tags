@@ -1,0 +1,9 @@
+British Prime Minister Gordon Brown has made an unannounced visit to Afghanistan .,O B-per O B-per I-per O O O O O O B-geo O,NNP NNP NNP NNP NNP VBZ VBN DT JJ NN TO NNP .
+Mr. Brown arrived Saturday and spoke to British troops at camps in the southern Helmand province .,B-per I-per O B-tim O O O B-gpe O O O O O O B-geo O O,NNP NNP VBD NNP CC VBD TO JJ NNS IN NNS IN DT JJ NNP NN .
+"He thanked them for their role in a February assault in Marjah , a former Taliban stronghold in the province .",O O O O O O O O B-tim O O B-geo O O O B-org O O O O O,"PRP VBD PRP IN PRP$ NN IN DT NNP NN IN NNP , DT JJ NNP NN IN DT NN ."
+And he promised additional equipment and resources .,O O O O O O O O,CC PRP VBD JJ NN CC NNS .
+"On Friday in London , Mr. Brown defended Britain 's decision to help invade Iraq .",O B-tim O B-geo O B-per I-per O B-geo O O O O O B-geo O,"IN NNP IN NNP , NNP NNP VBD NNP POS NN TO VB VB NNP ."
+"He served as treasury chief when his country entered the war in 2003 , and he made decisions about defense spending .",O O O O O O O O O O O O B-tim O O O O O O O O O,"PRP VBD IN NN NN WRB PRP$ NN VBD DT NN IN CD , CC PRP VBD NNS IN NN NN ."
+"In Afghanistan , the prime minister rejected criticism from conservatives who said he made the trip to divert attention away from the Iraq inquiry .",O B-geo O O O O O O O O O O O O O O O O O O O O B-geo O O,"IN NNP , DT JJ NN VBD NN IN NNS WP VBD PRP VBD DT NN TO VB NN RB IN DT NNP NN ."
+Mr. Brown said he had planned the trip to Afghanistan for some time .,B-per I-per O O O O O O O B-geo O O O O,NNP NNP VBD PRP VBD VBN DT NN TO NNP IN DT NN .
+"British troops were withdrawn from Iraq , but about 10,000 are now serving in Afghanistan alongside U.S. and NATO forces .",B-gpe O O O O B-geo O O O O O O O O B-geo O B-geo O B-org O O,"JJ NNS VBD VBN IN NNP , CC IN CD VBP RB VBG IN NNP IN NNP CC NNP NNS ."

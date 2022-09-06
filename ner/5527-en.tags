@@ -1,0 +1,8 @@
+Nigerian Vice President Goodluck Jonathan says the country 's ailing president will return to Nigeria soon .,B-gpe O B-per I-per I-per O O O O O O O O O B-geo O O,JJ NNP NNP NNP NNP VBZ DT NN POS JJ NN MD VB TO NNP RB .
+"The vice president , speaking in Abuja , did not indicate when President Umaru Yar'Adua is expected back .",O O O O O O B-geo O O O O O B-per I-per I-per O O O O,"DT NN NN , NN IN NNP , VBD RB VB WRB NNP NNP NNP VBZ VBN RB ."
+"Mr. Yar'Adua left Nigeria in late November , when he traveled to a Saudi hospital to be treated for a heart condition .",B-per I-per O B-geo O O B-tim O O O O O O O O O O O O O O O O,"NNP NNP VBD NNP IN JJ NNP , WRB PRP VBD TO DT JJ NN TO VB VBN IN DT NN NN ."
+He also suffers from a chronic kidney ailment .,O O O O O O O O O,PRP RB VBZ IN DT JJ NN NN .
+"On Wednesday , Nigeria 's cabinet and Senate made conflicting statements on whether Mr. Yar'Adua is fit to remain in office .",O B-tim O B-geo O O O B-org O O O O O B-per B-geo O O O O O O O,"IN NNP , NNP POS NN CC NNP VBD JJ NNS IN IN NNP NNP VBZ JJ TO VB IN NN ."
+"The cabinet , appointed by the president , ruled that Mr. Yar'Adua is capable of performing his duties .",O O O O O O O O O O B-per B-geo O O O O O O O,"DT NN , VBN IN DT NN , VBD IN NNP NNP VBZ JJ IN VBG PRP$ NNS ."
+"The Senate said Mr. Yar'Adua should formally notify the National Assembly of what it called his "" medical vacation . """,O B-org O B-per B-geo O O O O B-geo I-geo O O O O O O O O O O,DT NNP VBD NNP NNP MD RB VB DT NNP NNP IN WP PRP VBD PRP$ LQU JJ NN . LQU
+"The constitution says if such notification is given , the vice president must take over temporarily .",O O O O O O O O O O O O O O O O O,"DT NN VBZ IN JJ NN VBZ VBN , DT NN NN MD VB RP RB ."

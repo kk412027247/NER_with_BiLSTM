@@ -1,0 +1,5 @@
+Venezuelan President Hugo Chavez has met with Russian business leaders to discuss joint oil and gas ventures during a visit to Moscow .,B-gpe B-per I-per I-per O O O B-gpe O O O O O O O O O O O O O B-geo O,JJ NNP NNP NNP VBZ VBN IN JJ NN NNS TO VB JJ NN CC NN NNS IN DT NN TO NNP .
+"According to Associated Press , Mr. Chavez praised the close ties between Russia and Venezuela during the meeting , and urged top executives to invest in future energy projects .",O O B-org I-org I-org B-per I-per O O O O O B-geo O B-geo O O O O O O O O O O O O O O O,"VBG TO NNP NNP , NNP NNP VBD DT JJ NNS IN NNP CC NNP IN DT NN , CC VBD JJ NNS TO VB IN JJ NN NNS ."
+President Chavez is on a two-day visit to Russia .,B-per I-per O O O B-tim O O B-geo O,NNP NNP VBZ IN DT JJ NN TO NNP .
+"He scheduled to hold talks with his Russian counterpart , Vladimir Putin on Friday .",O O O O O O O B-gpe O O B-per B-org O B-tim O,"PRP VBD TO VB NNS IN PRP$ JJ NN , NNP NNP IN NNP ."
+"Russia is the world 's second largest oil exporter , while Venezuela is fifth among oil-exporting countries .",B-geo O O O O O O O O O O B-geo O O O O O O,"NNP VBZ DT NN POS JJ JJS NN NN , IN NNP VBZ JJ IN JJ NNS ."

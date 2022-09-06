@@ -1,0 +1,6 @@
+Somali pirates have hijacked a Malaysian-flagged container ship in the Indian Ocean .,B-gpe O O O O O O O O O B-geo I-geo O,JJ NNS VBP VBN DT JJ NN NN IN DT NNP NNP .
+Multiple sources said Tuesday that pirates seized the MV Albedo west of the Maldives islands on Friday .,O O O B-tim O O O O B-org O O O O B-geo I-geo O B-tim O,JJ NNS VBD NNP IN NNS VBD DT NNP NNP NN IN DT NNPS NNPS IN NNP .
+The ship was en route from the United Arab Emirates to Kenya .,O O O O O O O B-geo I-geo I-geo O B-geo O,DT NN VBD IN NN IN DT NNP NNP NNP IN NNP .
+"The European Union 's anti-piracy force says the Albedo has a crew of 23 from Pakistan , Bangladesh , Sri Lanka and Iran .",O B-org I-org O O O O O B-org O O O O O O B-geo O B-geo O B-geo I-geo O B-geo O,"DT NNP NNP POS JJ NN VBZ DT NNP VBZ DT NN IN CD IN NNP , NNP , NNP NNP CC NNP ."
+Somali pirates are now reported to be holding at least 22 vessels with more than 500 hostages .,B-gpe O O O O O O O O O O O O O O O O O,JJ NNS VBP RB VBN TO VB VBG IN JJS CD NNS IN JJR IN CD NNS .
+"Pirates have continued to hijack ships despite naval patrols by the European Union , NATO , and countries such as Russia and China .",O O O O O O O O O O O B-org I-org O B-org O O O O O B-geo O B-geo O,"NNS VBP VBN TO VB NNS IN JJ NNS IN DT NNP NNP , NNP , CC NNS JJ IN NNP CC NNP ."

@@ -1,0 +1,7 @@
+"Tibet 's exiled spiritual leader , the Dalai Lama , has been admitted to a hospital in India Thursday after complaining of abdominal pains .",B-org O O O O O O B-geo I-geo O O O O O O O O B-geo B-tim O O O O O O,"NNP POS VBN JJ NN , DT NNP NNP , VBZ VBN VBN TO DT NN IN NNP NNP IN VBG IN JJ NNS ."
+His personal secretary said there is no major cause for concern .,O O O O O O O O O O O O,PRP$ JJ NN VBD EX VBZ DT JJ NN IN NN .
+"Doctors at the hospital where he was admitted in Mumbai tell Reuters news agency that he is "" cheerful . """,O O O O O O O O O B-org O B-org O O O O O O O O O,NNS IN DT NN WRB PRP VBD VBN IN NNP VBP NNP NN NN IN PRP VBZ RQU JJ . LQU
+"On Thursday , the Dalai Lama canceled two upcoming foreign trips to undergo medical tests , after experiencing discomfort during recent travels .",O B-tim O O B-geo I-geo O O O O O O O O O O O O O O O O O,"IN NNP , DT NNP NNP VBD CD JJ JJ NNS TO VB JJ NNS , IN VBG NN IN JJ NNS ."
+His office said the 73-year-old Buddhist leader 's doctors had diagnosed him with exhaustion and recommended that he complete some medical tests .,O O O O O O O O O O O O O O O O O O O O O O O,PRP$ NN VBD DT JJ NNP NN POS NNS VBD VBN PRP IN NN CC VBD IN PRP VB DT JJ NNS .
+The Dalai Lama spends several months a year traveling to promote Tibetan causes .,O B-geo I-geo O O O O O O O O B-gpe O O,DT NNP NNP VBZ JJ NNS DT NN VBG TO VB JJ NNS .
+He recently returned to India after a visit to France .,O O O O B-geo O O O O B-geo O,PRP RB VBD TO NNP IN DT NN TO NNP .

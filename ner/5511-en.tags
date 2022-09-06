@@ -1,0 +1,6 @@
+"Norwegian ski jumper Roar Ljoekelsoey has successfully defended his title at the Ski Flying World Championships in Bad Mitterndorf , Austria .",B-gpe O O B-org I-org O O O O O O O B-org I-org I-org I-org O B-geo I-geo O B-geo O,"JJ NN NN NNP NNP VBZ RB VBN PRP$ NN IN DT NNP NNP NNP NNP IN NNP NNP , NNP ."
+Ljoekelsoey finished with two faultless jumps of 190 and 207.5 meters for a total of 788 points .,B-org O O O O O O O O O O O O O O O O O,NNP VBD IN CD JJ NNS IN CD CC CD NNS IN DT NN IN CD NNS .
+Austrian Andreas Widhoelzl was second ( 762.4 points ) with compatriot Thomas Morgenstern third ( 752.2 points ) .,B-gpe B-per I-per O O O O O O O O B-per I-per O O O O O O,JJ NNP NNP VBD JJ LRB CD NNS RRB IN NN NNP NNP JJ LRB CD NNS RRB .
+"The Norwegian also won the gold medal at the last World Championships in Planica , Slovenia , two years ago .",O O O O O O O O O O B-org I-org O B-geo O B-geo O B-tim O O O,"DT NN RB VBD DT NN NN IN DT JJ NNP NNP IN NNP , NNP , CD NNS RB ."
+"For Widhoelzl , Saturday 's result was his second world silver medal - he also finished second in 2000 .",O B-per O B-tim O O O O O O O O O O O O O O B-tim O,"IN NNP , NNP POS NN VBD PRP$ JJ NN NN NN : PRP RB VBD JJ IN CD ."
+The team event is scheduled for Sunday .,O O O O O O B-tim O,DT NN NN VBZ VBN IN NNP .

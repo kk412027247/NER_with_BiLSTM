@@ -1,0 +1,10 @@
+Italy 's government says an Italian journalist kidnapped in Afghanistan several days ago is still alive .,B-geo O O O O B-gpe O O O B-geo B-tim O O O O O O,NNP POS NN VBZ DT JJ NN VBN IN NNP JJ NNS RB VBZ RB JJ .
+"A Foreign Ministry statement Saturday said officials have reason to believe missing journalist Daniele Mastrogiacomo is alive , but it did not offer details .",B-org I-org I-org O B-tim O O O O O O O O B-per I-per O O O O O O O O O O,"DT NNP NNP NN NNP VBD NNS VBP NN TO VB JJ NN NNP NNP VBZ JJ , CC PRP VBD RB VB NNS ."
+Italian officials had previously demanded that the Taleban provide proof that Mastrogiacomo had not been killed before any negotiations could begin .,B-gpe O O O O O O B-org O O O B-per O O O O O O O O O O,JJ NNS VBD RB VBN IN DT NNP VB NN IN NNP VBD RB VBN VBN IN DT NNS MD VB .
+The Taleban says it captured Mastrogiacomo in Helmand province on Monday .,O B-org O O O B-per O B-geo O O B-tim O,DT NNP VBZ PRP VBD NNP IN NNP NN IN NNP .
+Insurgents say the reporter has confessed to being a spy .,O O O O O O O O O O O,NNS VBP DT NN VBZ VBN TO VBG DT NN .
+"The journalist 's newspaper , La Repubblica , has categorically denied the charge .",O O O O O B-per I-per O O O O O O O,"DT NN POS NN , NNP NNP , VBZ RB VBN DT NN ."
+"Earlier in the week , Italy 's lower house of parliament voted in favor of keeping the country 's military contingent in Afghanistan .",O O O O O B-geo O O O O O O O O O O O O O O O O B-geo O,"RBR IN DT NN , NNP POS JJR NN IN NN VBD IN NN IN VBG DT NN POS JJ JJ IN NNP ."
+The lower house Thursday approved a measure that refinances the mission .,O O O B-tim O O O O O O O O,DT JJR NN NNP VBD DT NN WDT VBZ DT NN .
+It now goes to the Senate for final approval .,O O O O O B-org O O O O,PRP RB VBZ TO DT NNP IN JJ NN .
+"The government has 1,800 troops in Afghanistan as part of a NATO force .",O O O O O O B-geo O O O O B-org O O,DT NN VBZ CD NNS IN NNP IN NN IN DT NNP NN .

@@ -1,0 +1,9 @@
+"French rally driver Sebastien Loeb has overcome wet , slippery conditions to take the lead after the first day of the Turkish Rally auto race in Kemer , Turkey .",B-gpe O O B-per I-per O O O O O O O O O O O O B-tim I-tim O O B-gpe O O O O B-geo O B-geo O,"JJ NN NN NNP NNP VBZ VBN JJ , JJ NNS TO VB DT NN IN DT JJ NN IN DT JJ NNP NN NN IN NNP , NNP ."
+"Loeb took the lead early , but then had trouble with the rocky , slippery course .",B-per O O O O O O O O O O O O O O O O,"NNP VBD DT NN RB , CC RB VBD NN IN DT JJ , JJ NN ."
+The Citroen driver was able to recover and win seven of the eight stages with a total time of 1:54:07 hours .,O B-org O O O O O O O O O O O O O O O O O B-tim O O,DT NNP NN VBD JJ TO VB CC VB CD IN DT CD NNS IN DT JJ NN IN CD NNS .
+"Italian Gigi Galli in a Misubishi is second , 1:09 back , with Marcus Gronholm of Finland third in a Peugeot .",B-gpe B-per I-per O O B-geo O O O O O O O B-per I-per O B-geo O O O B-geo O,"JJ NNP NNP IN DT NNP VBZ JJ , CD RB , IN NNP NNP IN NNP NN IN DT NNP ."
+Loeb leads the overall season standings with 45 points .,B-per O O O O O O O O O,NNP VBZ DT JJ NN NNS IN CD NNS .
+"Subaru 's Petter Solberg of Norway is tied for second , with Markko Martin of Estonia in a Peugeot 11 points back .",B-org I-org I-org I-org I-org I-org O O O O O O B-org I-org I-org I-org O O B-geo O O O O,"NNP POS NNP NNP IN NNP VBZ VBN IN JJ , IN NNP NNP IN NNP IN DT NNP CD NNS RB ."
+The Turkish rally covers 348 km over three days .,O B-gpe O O O O B-tim I-tim O O,DT JJ NN VBZ CD NN IN CD NNS .
+It is the seventh stop on the 16-event World Rally Championship circuit .,O O O O O O O O O O O O O,PRP VBZ DT JJ NN IN DT JJ NNP NNP NNP NN .
+The event ends Sunday .,O O O B-tim O,DT NN VBZ NNP .

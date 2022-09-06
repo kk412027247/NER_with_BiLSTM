@@ -1,0 +1,9 @@
+"Nineteen suspected members of the violent street gang , Mara Salvatrucha ( or MS-13 ) have been indicted on federal racketeering charges in Maryland .",O O O O O O O O O B-org I-org O O B-org O O O O O O O O O B-geo O,"CD JJ NNS IN DT JJ NN NN , NNP NNP LRB CC NNP RRB VBP VBN VBN IN JJ NN NNS IN NNP ."
+"The indictments , released Thursday , accuse the men of murders , kidnappings and other gang-related crimes from April 2003 to June of this year .",O O O O B-tim O O O O O O O O O O O O O B-tim I-tim I-tim I-tim I-tim O O O,"DT NNS , VBN NNP , VBP DT NNS IN NNS , NNS CC JJ JJ NNS IN NNP CD TO NNP IN DT NN ."
+The 19 suspected gang members are accused of six murders and several attempted murders .,O O O O O O O O O O O O O O O,DT CD JJ NN NNS VBP VBN IN CD NNS CC JJ JJ NNS .
+"The crimes took place in suburban Maryland , outside of Washington , D.C.",O O O O O O B-geo O O O B-geo O B-geo,"DT NNS VBD NN IN JJ NNP , IN IN NNP , NNP"
+The gang is traditionally made up of immigrants from El Salvador .,O O O O O O O O O B-geo I-geo O,DT NN VBZ RB VBN IN IN NNS IN NNP NNP .
+Its U.S. activities originated in Los Angeles in the 1980s .,O B-geo O O O B-geo I-geo O O B-tim O,PRP$ NNP NNS VBN IN NNP NNP IN DT NNS .
+"An estimated 10,000 members are in the United States .",O O O O O O O B-geo I-geo O,DT VBN CD NNS VBP IN DT NNP NNPS .
+Federal agents and local police officers arrested many of the indicted gang members Thursday .,O O O O O O O O O O O O O B-tim O,JJ NNS CC JJ NN NNS VBN NN IN DT VBN NN NNS NNP .
+The indictments are the latest attempt by the federal government to target the organization .,O O O O O O O O O O O O O O O,DT NNS VBP DT JJS NN IN DT JJ NN TO VB DT NN .

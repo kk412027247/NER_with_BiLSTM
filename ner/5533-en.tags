@@ -1,0 +1,9 @@
+"Authorities in Los Angeles have not filed charges against a 26-year-old punk rock musician , following a deadly stabbing .",O O B-geo I-geo O O O O O O O O O O O O O O O O,"NNS IN NNP NNP VBP RB VBN NNS IN DT JJ NN NN NN , VBG DT JJ NN ."
+"Anthony Lovato , who sang in the defunct quartet Mest , was arrested March 25 , after telephoning police to report the altercation .",B-per I-per O O O O O O O O O O O B-tim I-tim O O O O O O O O O,"NNP NNP , WP VBD IN DT JJ NN NNP , VBD VBN NNP CD , IN VBG NNS TO VB DT NN ."
+Police say Lovato fought 25-year-old Wayne Hughes early Sunday morning in a Los Angeles parking structure .,O O B-per O O B-per I-per O B-tim I-tim O O B-geo I-geo O O O,NNS VBP NNP VBD JJ NNP NNP JJ NNP NN IN DT NNP NNP NN NN .
+Hughes later died in a hospital .,B-per O O O O O O,NNP RB VBD IN DT NN .
+The two had apparently been involved with the same woman at different times .,O O O O O O O O O O O O O O,DT CD VBD RB VBN VBN IN DT JJ NN IN JJ NNS .
+"Authorities declined to file charges against Lovato , citing insufficient evidence .",O O O O O O B-per O O O O O,"NNS VBD TO VB NNS IN NNP , VBG JJ NN ."
+He was released from jail March 27 .,O O O O O B-tim I-tim O,PRP VBD VBN IN NN NNP CD .
+Anthony Lovato and his brother Matt formed Mest in 1995 .,B-per I-per O O O B-per O B-org O B-tim O,NNP NNP CC PRP$ NN NNP VBD NNP IN CD .
+They recorded several albums for Madonna 's Maverick label before disbanding in 2006 .,O O O O O B-per O B-org O O O O B-tim O,PRP VBD JJ NNS IN NNP POS NNP NN IN VBG IN CD .

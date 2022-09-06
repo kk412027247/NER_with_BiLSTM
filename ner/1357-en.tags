@@ -1,0 +1,8 @@
+"Insurgents in Iraq carried out a series of attacks Sunday , killing two American soldiers and at least five Iraqis .",O O B-geo O O O O O O B-tim O O O B-gpe O O O O O B-gpe O,"NNS IN NNP VBD RP DT NN IN NNS NNP , VBG CD JJ NNS CC IN JJS CD NNS ."
+U.S. officials said the two Americans were killed by bombs in the Iraqi capital .,B-geo O O O O B-gpe O O O O O O B-gpe O O,NNP NNS VBD DT CD NNS VBD VBN IN NNS IN DT JJ NN .
+"South of Baghdad , a mortar attack killed two Iraqis , and gunmen killed a policeman in Mosul .",B-geo I-geo I-geo O O O O O O B-gpe O O O O O O O B-geo O,"NNP IN NNP , DT NN NN VBD CD NNS , CC NNS VBD DT NN IN NNP ."
+Two civilians died in separate incidents in the northern city of Kirkuk .,O O O O O O O O O O B-geo I-geo O,CD NNS VBD IN JJ NNS IN DT JJ NN IN NNP .
+"Meanwhile , demonstrations were held in several Iraqi cities by Sunni Arabs , who have complained of fraud in the recent parliamentary vote .",O O O O O O O B-gpe O O B-per B-gpe O O O O O O O O O O O O,"RB , NNS VBD VBN IN JJ JJ NNS IN NNP NNS , WP VBP VBN IN NN IN DT JJ JJ NN ."
+Shi'ite Arabs in Baghdad also marched Sunday to show support for Shi'ite candidates .,B-org B-gpe O B-geo O O B-tim O O O O O O O,NNP NNS IN NNP RB VBD NNP TO VB NN IN NNP NNS .
+Initial results showed a key Shi'ite coalition was leading the vote .,O O O O O O O O O O O O,JJ NNS VBD DT JJ NNP NN VBD VBG DT NN .
+"In northern Iraq , Iraq 's President Jalal Talabani said Iraq 's new government should include all of Iraq 's religious and ethnic groups .",O O B-geo O B-geo O B-per I-per I-per O B-geo O O O O O O O B-geo O O O O O O,"IN JJ NNP , NNP POS NNP NNP NNP VBD NNP POS JJ NN MD VB DT IN NNP POS JJ CC JJ NNS ."

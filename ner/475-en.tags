@@ -1,0 +1,8 @@
+A court in Ivory Coast has approved the extradition of a man wanted in connection with the torture and killing of a young man in France .,O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O B-geo O,DT NN IN NNP NNP VBZ VBN DT NN IN DT NN VBN IN NN IN DT NN CC NN IN DT JJ NN IN NNP .
+A Justice Ministry spokesman says President Laurent Gbagbo must now sign the extradition order .,O B-org I-org O O B-per I-per I-per O O O O O O O,DT NNP NNP NN VBZ NNP NNP NNP MD RB VB DT NN NN .
+"Youssouf Fofana , a French citizen of Ivorian origin , was arrested in February .",B-per I-per O O B-gpe O O B-gpe O O O O O B-tim O,"NNP NNP , DT JJ NN IN JJ NN , VBD VBN IN NNP ."
+Police say he was the leader of a gang that kidnapped 23-year-old Jewish man named Ilan Halimi near Paris .,O O O O O O O O O O O O O O O B-per I-per O B-geo O,NNS VBP PRP VBD DT NN IN DT NN WDT VBD JJ JJ NN VBN NNP NNP IN NNP .
+"They say the gang tortured Halimi for three weeks , then dumped him on a roadside .",O O O O O B-per O B-tim O O O O O O O O O,"PRP VBP DT NN VBD NNP IN CD NNS , RB VBD PRP IN DT NN ."
+Halimi died shortly after police found him .,B-per O O O O O O O,NNP VBD RB IN NNS VBD PRP .
+Halimi 's murder has revived concerns of anti-Semitism in France .,B-per O O O O O O O O B-geo O,NNP POS NN VBZ VBN NNS IN NN IN NNP .
+"Ivorian police say that during interrogation , Fofana said the crime had nothing to do with religion .",B-gpe O O O O O O B-per O O O O O O O O O O,"JJ NNS VBP IN IN NN , NNP VBD DT NN VBD DT TO VB IN NN ."

@@ -1,0 +1,8 @@
+"Nigeria has approved the deployment of 2,000 peacekeeping troops to Sudan 's troubled Darfur region .",B-org O O O O O O O O O B-gpe O O B-geo O O,NNP VBZ VBN DT NN IN CD VBG NNS TO NNP POS JJ NNP NN .
+"A defense spokesman , Brigadier General Ganiyu Adewale , says the first 700 soldiers will leave for Darfur on Friday .",O O O O B-org I-org I-org I-org O O O O O O O O O B-geo O B-tim O,"DT NN NN , NNP NNP NNP NNP , VBZ DT JJ CD NNS MD VB IN NNP IN NNP ."
+They will boost an African Union force monitoring a shaky cease-fire in the region .,O O O O B-geo I-geo O O O O O O O O O,PRP MD VB DT NNP NNP NN VBG DT JJ NN IN DT NN .
+"The A.U. force now consists of more than 2,000 soldiers and hundreds of civilian police officers .",O B-geo O O O O O O O O O O O O O O O,DT NNP NN RB VBZ IN JJR IN CD NNS CC NNS IN JJ NN NNS .
+Nigerian troops already are part of the force .,B-gpe O O O O O O O O,JJ NNS RB VBP NN IN DT NN .
+"Officials hope to increase the size of the force to 12,000 by next year .",O O O O O O O O O O O O O O O,NNS VBP TO VB DT NN IN DT NN TO CD IN JJ NN .
+The conflict in Darfur pits rebels against government backed-militias .,O O O B-tim O O O O O O,DT NN IN NNP NNS NNS IN NN NNS .
+The violence has left tens of thousands of people dead and more than two million displaced .,O O O O O O O O O O O O O O O O O,DT NN VBZ VBN NNS IN NNS IN NNS JJ CC JJR IN CD CD VBD .

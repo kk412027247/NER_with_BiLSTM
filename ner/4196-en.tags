@@ -1,0 +1,8 @@
+Haitian and U.N. officials are appealing for calm following protests by Haitians who have demanded that front-runner Rene Preval be declared the winner of last week 's presidential election .,B-gpe O B-org O O O O O O O O B-gpe O O O O O B-per I-per O O O O O O O O O O O,JJ CC NNP NNS VBP VBG IN NN VBG NNS IN NNS WP VBP VBN IN NN NNP NNP VB VBN DT NN IN JJ NN POS JJ NN .
+Preval is expected to address Haiti 's citizens later Tuesday in Port-au-Prince .,B-per O O O O B-geo O O B-tim I-tim O B-geo O,NNP VBZ VBN TO VB NNP POS NNS RB NNP IN NNP .
+"On Monday , protesters set up roadblocks , burned tires and stormed a hotel in Port-au-Prince .",O B-tim O O O O O O O O O O O O O B-geo O,"IN NNP , NNS VBD RP NNS , VBN NNS CC VBD DT NN IN NN ."
+At least one man was killed in the violence .,O O O O O O O O O O,IN JJS CD NN VBD VBN IN DT NN .
+"With 90 percent of votes counted , former President Preval has nearly 49 percent of the vote .",O O O O O O O O B-per I-per O O O O O O O O,"IN CD NN IN NNS VBN , JJ NNP NNP VBZ RB CD NN IN DT NN ."
+He needs to exceed 50 percent to win outright and avoid a runoff election .,O O O O O O O O O O O O O O O,PRP VBZ TO VB CD NN TO VB JJ CC VB DT NN NN .
+"Another former president , Leslie Manigat , is second with about 12 percent .",O O O O B-per I-per O O O O O O O O,"DT JJ NN , NNP NNP , VBZ JJ IN RB CD NN ."
+A State Department spokesman Monday said Secretary of State Condoleezza Rice and U.N. Secretary-General Kofi Annan Monday have discussed the importance of Haitian citizens respecting the election process .,O B-org I-org O B-tim O O O B-org B-per I-per O B-org I-org B-per I-per B-tim O O O O O B-gpe O O O O O O,DT NNP NNP NN NNP VBD NNP IN NNP NNP NNP CC NNP NNP NNP NNP NNP VBP VBN DT NN IN JJ NNS VBG DT NN NN .

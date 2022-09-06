@@ -1,0 +1,5 @@
+Saudi Arabia 's King Abdullah held talks with Pakistani President Pervez Musharraf Saturday in the kingdom .,B-org I-org I-org I-org I-org O O O B-gpe B-per I-per I-per B-tim O O O O,NNP NNP POS NNP NNP VBD NNS IN JJ NNP NNP NNP NNP IN DT NN .
+Official media in Saudi Arabia reported that the two met at a palace in Jeddah .,O O O B-org I-org O O O O O O O O O B-geo O,JJ NNS IN NNP NNP VBD IN DT CD VBD IN DT NN IN NNP .
+News media say the leaders and their delegations discussed ways to enhance cooperation between the two nations .,O O O O O O O O O O O O O O O O O O,NNP NNS VBP DT NNS CC PRP$ NNS VBD NNS TO VB NN IN DT CD NNS .
+"According to reports , King Abdullah also held a lunch party for General Musharraf and his delegation .",O O O O B-per I-per O O O O O O B-org I-org O O O O,"VBG TO NNS , NNP NNP RB VBD DT NN NN IN NNP NNP CC PRP$ NN ."
+The Pakistani president said he was grateful for the hospitality .,O B-gpe O O O O O O O O O,DT JJ NN VBD PRP VBD JJ IN DT NN .

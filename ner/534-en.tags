@@ -1,0 +1,9 @@
+Turkey 's prime minister says he will quit politics if his ruling Justice and Development party does not win enough seats to form a government alone in Sunday 's elections .,B-geo O O O O O O O O O O O B-org I-org I-org O O O O O O O O O O O O B-tim O O O,NNP POS JJ NN VBZ PRP MD VB NNS IN PRP$ NN NNP CC NNP NN VBZ RB VB JJ NNS TO VB DT NN RB IN NNP POS NNS .
+Recep Tayyip Erdogan made the statement Tuesday during a campaign appearance in southern Turkey .,B-per I-per I-per O O O B-tim O O O O O O B-geo O,NNP NNP NNP VBD DT NN NNP IN DT NN NN IN JJ NNP .
+Opinion polls indicate his ruling party will win Sunday 's parliamentary elections .,O O O O O O O O B-tim O O O O,NN NNS VBP PRP$ NN NN MD VB NNP POS JJ NNS .
+Mr. Erdogan also challenged his political rivals to make a similar pledge .,B-per I-per O O O O O O O O O O O,NNP NNP RB VBD PRP$ JJ NNS TO VB DT JJ NN .
+"In other news , unidentified gunmen killed a Turkish parliamentary candidate in Istanbul .",O O O O O O O O B-gpe O O O B-geo O,"IN JJ NN , JJ NNS VBD DT JJ JJ NN IN NNP ."
+Turkish media say 42-year-old businessman Tuncay Seyranlioglu was shot in his car late Monday .,B-gpe O O O O B-per I-per O O O O O O B-tim O,JJ NNS VBP JJ NN NNP NNP VBD VBN IN PRP$ NN RB NNP .
+Three other people were wounded .,O O O O O O,CD JJ NNS VBD VBN .
+The motive for the attack was not immediately known .,O O O O O O O O O O,DT NN IN DT NN VBD RB RB VBN .
+Seyranlioglu was running as an independent in Sunday 's elections .,B-per O O O O O O B-tim O O O,NNP VBD VBG IN DT JJ IN NNP POS NNS .

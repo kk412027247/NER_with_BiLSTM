@@ -1,0 +1,7 @@
+The man who shot Pope John Paul 24 years ago is today mourning the loss of a man whom he considers a brother .,O O O O O B-per I-per B-tim O O O B-tim O O O O O O O O O O O O,DT NN WP VBD NNP NNP NNP CD NNS RB VBZ NN VBG DT NN IN DT NN WP PRP VBZ DT NN .
+"According to his family , Mehmet Ali Agca is grief stricken by the pope 's death .",O O O O O B-per I-per I-per O O O O O O O O O,"VBG TO PRP$ NN , NNP NNP NNP VBZ JJ NN IN DT NN POS NN ."
+Agca gravely wounded the pope in a 1981 shooting in St. Peter 's Square .,B-per O O O O O O B-tim O O B-geo I-geo O B-geo O,NNP RB VBD DT NN IN DT CD NN IN NNP NNP POS NNP .
+"Two years later , the pope visited the gunman 's prison cell and forgave him .",B-tim O B-tim O O O O O O O O O O O O O,"CD NNS RB , DT NN VBD DT NN POS NN NN CC VB PRP ."
+"Since then , Agca 's brother and mother have been received by the pope during several Vatican visits .",O O O B-per O O O O O O O O O O O O O O O,"IN RB , NNP POS NN CC NN VBP VBN VBN IN DT NN IN JJ JJ NNS ."
+Many hail the pope 's reconciliation with his assailant as an example of the Christian principle of forgiveness .,O O O O O O O O O O O O O O O O O O O,JJ NN DT NN POS NN IN PRP$ NN IN DT NN IN DT JJ NN IN NN .
+"After serving 19 years in an Italian prison for shooting the pope , Agca was extradited in 2000 to Turkey to serve a sentence for an unrelated crime .",O O B-tim O O O B-gpe O O O O O O B-per O O O B-tim O B-gpe O O O O O O O O O,"IN VBG CD NNS IN DT JJ NN IN VBG DT NN , NNP VBD VBN IN CD TO NNP TO VB DT NN IN DT JJ NN ."

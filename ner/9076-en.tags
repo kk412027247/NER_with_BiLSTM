@@ -1,0 +1,8 @@
+The Indonesian government has sued Newmont Mining Corporation for $ 133 million over alleged pollution near one of its gold mines .,O B-gpe O O O B-org I-org I-org O O O O O O O O O O O O O O,DT JJ NN VBZ VBN NNP NNP NNP IN $ CD CD IN JJ NN IN CD IN PRP$ NN NNS .
+The Indonesian subsidiary of the American mining giant faces charges that it released waste and heavy metals into the air and water at Buyat Bay in northern Sulawesi province .,O B-gpe O O O B-gpe O O O O O O O O O O O O O O O O O B-geo I-geo O O B-geo O O,DT JJ NN IN DT JJ NN NN VBZ NNS IN PRP VBD NN CC JJ NNS IN DT NN CC NN IN NNP NNP IN JJ NNP NN .
+Newmont 's American president also faces charges in the suit .,B-org O B-gpe O O O O O O O O,NNP POS JJ NN RB VBZ NNS IN DT NN .
+A lawyer for the mining company says Jakarta 's case is baseless .,O O O O O O O B-geo O O O O O,DT NN IN DT NN NN VBZ NNP POS NN VBZ JJ .
+Tests on the bay 's water have produced conflicting results .,O O O O O O O O O O O,NNS IN DT NN POS NN VBP VBN JJ NNS .
+Two studies indicated no pollution in the bay .,O O O O O O O O O,CD NNS VBD DT NN IN DT NN .
+However a subsequent government probe reported elevated arsenic levels .,O O O O O O O O O O,RB DT JJ NN NN VBD VBN JJ NNS .
+"Newmont has admitted releasing mercury into the environment at the gold mine , but denies that it sickened local people .",B-org O O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN VBG NN IN DT NN IN DT NN NN , CC VBZ IN PRP VBD JJ NNS ."

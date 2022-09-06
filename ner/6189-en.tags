@@ -1,0 +1,7 @@
+Ukrainian President Viktor Yushchenko is urging that the trial of former police officers charged in the slaying of journalist Georgy Gongadze to be opened to the public .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O B-per I-per O O O O O O O,JJ NNP NNP NNP VBZ VBG IN DT NN IN JJ NN NNS VBN IN DT NN IN NN NNP NNP TO VB VBN IN DT NN .
+"Oleh Rybachuk , a top aide to Mr. Yushchenko , went to the courthouse in Kiev Wednesday to express the president 's anger over the closed proceedings .",B-per I-per O O O O O B-per I-per O O O O O O B-geo B-tim O O O O O O O O O O O,"NNP NNP , DT JJ NN TO NNP NNP , VBD TO DT NN IN NNP NNP TO VB DT NN POS NN IN DT JJ NNS ."
+The three former officers are on trial for the abduction and decapitation of Gongadze in 2000 .,O O O O O O O O O O O O O B-per O B-tim O,DT CD JJ NNS VBP IN NN IN DT NN CC NN IN NNP IN CD .
+Gongadze had been critical of then-President Leonid Kuchma .,B-per O O O O O B-per I-per O,NNP VBD VBN JJ IN JJ NNP NNP .
+"A former presidential bodyguard has accused Mr. Kuchma of ordering the killing , and released what he said were recordings of the former president and other government officials conspiring against the journalist .",O O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ JJ NN VBZ VBN NNP NNP IN VBG DT NN , CC VBD WP PRP VBD VBD NNS IN DT JJ NN CC JJ NN NNS VBG IN DT NN ."
+Mr. Kuchma has denied any involvement .,B-per I-per O O O O O,NNP NNP VBZ VBN DT NN .
+President Yushchenko has vowed to solve the case .,B-per I-per O O O O O O O,NNP NNP VBZ VBN TO VB DT NN .

@@ -1,0 +1,4 @@
+"United Nations Secretary-General Kofi Annan calls Iraqi voters courageous , and says the world must support them .",B-org I-org I-org B-per I-per O B-gpe O O O O O O O O O O O,"NNP NNP NNP NNP NNP VBZ JJ NNS JJ , CC VBZ DT NN MD VB PRP ."
+"Speaking in Nigeria , Mr. Annan described Sunday 's election as the first step in a democratic process in Iraq .",O O B-geo O B-per O O B-tim O O O O O O O O O O O B-geo O,"VBG IN NNP , NNP NNP VBD NNP POS NN IN DT JJ NN IN DT JJ NN IN NNP ."
+"He said Iraqis know they are voting for their country 's future and for the day "" when they will take their destiny in their own hands . """,O O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O O,PRP VBD NNS VBP PRP VBP VBG IN PRP$ NN POS NN CC IN DT NN LQU WRB PRP MD VB PRP$ NN IN PRP$ JJ NNS . LQU
+The secretary-general also appealed for an end to election-day violence .,O O O O O O O O B-tim O O,DT NN RB VBD IN DT NN TO JJ NN .

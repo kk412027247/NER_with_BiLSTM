@@ -1,0 +1,8 @@
+"A Rwandan businessman has been found guilty for his role in destroying a church where 2,000 Tutsis had sought shelter during Rwanda 's 1994 genocide .",O B-gpe O O O O O O O O O O O O O O B-org O O O O B-tim I-tim I-tim O O,DT JJ NN VBZ VBN VBN JJ IN PRP$ NN IN VBG DT NN WRB CD NNP VBD VBN NN IN NNP POS CD NN .
+The International Criminal Tribunal for Rwanda on Monday sentenced Gaspard Kanyarukiga to 30 years in prison .,O B-org I-org I-org I-org I-org O B-tim O B-per I-per O O O O O O,DT NNP NNP NNP IN NNP IN NNP VBD NNP NNP TO CD NNS IN NN .
+It was not immediately clear if he will appeal .,O O O O O O O O O O,PRP VBD RB RB JJ IN PRP MD VB .
+Prosecutors argued during his trial that Kanyarukiga ordered the bulldozing of the church with the Tutsis inside .,O O O O O O B-per O O O O O O O O B-org O O,NNS VBD IN PRP$ NN IN NNP VBD DT NN IN DT NN IN DT NNP NN .
+Kanyarukiga is the second person to be sentenced by the court in connection with the massacre at Nyange church .,B-per O O O O O O O O O O O O O O O O B-geo O O,NNP VBZ DT JJ NN TO VB VBN IN DT NN IN NN IN DT NN IN NNP NN .
+The church 's priest was sentenced to life in prison in 2008 .,O O O O O O O O O O O B-tim O,DT NN POS NN VBD VBN TO NN IN NN IN CD .
+"Hutu extremists killed an estimated 800,000 ethnic Tutsis and moderate Hutus during the genocide .",B-per O O O O O O B-org O B-org I-org O O O O,NNP NNS VBD DT VBN CD JJ NN CC JJ NN IN DT NN .
+"The U.N. tribunal , operating out of the Tanzanian town of Arusha , was set up to prosecute those most responsible for organizing the killings .",O B-org O O O O O O B-gpe O O B-geo O O O O O O O O O O O O O O,"DT NNP NN , VBG IN IN DT JJ NN IN NNP , VBD VBN RP TO VB DT RBS JJ IN VBG DT NNS ."

@@ -1,0 +1,8 @@
+Iraqi President Jalal Talabani says in a statement he does not intend to seek re-election when his term expires at the end of the year .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O B-tim I-tim O O O,JJ NNP NNP NNP VBZ IN DT NN PRP VBZ RB VB TO VB NN WRB PRP$ NN VBZ IN DT NN IN DT NN .
+But the Kurdish leader says he will remain active in politics .,O O O O O O O O O O O O,CC DT NNP NN VBZ PRP MD VB JJ IN NNS .
+The 75-year-old Talabani has been president since 2005 .,O O B-per O O O B-tim I-tim O,DT JJ NNP VBZ VBN NN IN CD .
+He had heart surgery in the United States last year .,O O O O O O B-geo I-geo O O O,PRP VBD NN NN IN DT NNP NNPS JJ NN .
+Officials say he wants to take a rest .,O O O O O O O O O,NNS VBP PRP VBZ TO VB DT NN .
+"Iraq 's prime minister , Nouri al-Maliki , holds most of the power in the country .",B-geo O O O O B-per I-per O O O O O O O O O O,"NNP POS JJ NN , NNP NNP , VBZ JJS IN DT NN IN DT NN ."
+Parliament chooses the president and two vice presidents .,B-org O O O O O O O O,NNP VBZ DT NN CC CD NN NNS .
+Their terms end when a new parliament is elected at the end of this year .,O O B-tim O O O O O O O O B-tim I-tim O O O,PRP$ NNS NN WRB DT JJ NN VBZ VBN IN DT NN IN DT NN .

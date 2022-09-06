@@ -1,0 +1,8 @@
+Turkish security officials say one soldier and 12 Kurdish rebels were killed in a clash in eastern Turkey .,B-gpe O O O O O O O O O O O O O O O B-geo I-geo O,JJ NN NNS VBP CD NN CC CD JJ NNS VBD VBN IN DT NN IN JJ NNP .
+"They say the fighting erupted in Tunceli province during a military offensive against the outlawed Kurdistan Workers Party , or PKK .",O O O O O O B-geo O O O O O O O O B-org I-org I-org O O B-org O,"PRP VBP DT NN VBD IN NNP NN IN DT JJ NN IN DT JJ NNP NNP NNP , CC NNP ."
+"Clashes usually intensify during this time of year , as melting snow allows the Kurdish rebels to move more freely .",O O O O O B-tim I-tim O O O O O O O O O O O O O O,"NNS RB VB IN DT NN IN NN , IN VBG NN VBZ DT JJ NNS TO VB RBR RB ."
+"Last week , Turkey 's top military official , General Yasar Buyukanit , called for an incursion into Iraq to pursue Kurdish rebels based there .",O O O B-geo O O O O O B-org I-org I-org O O O O O O B-geo O O O O O O O,"JJ NN , NNP POS JJ JJ NN , NNP NNP NNP , VBD IN DT NN IN NNP TO VB NNP NNS VBN RB ."
+"The PKK announced a unilateral ceasefire in October , but Turkey rejected it .",O B-org O O O O O B-tim O O B-geo O O O,"DT NNP VBD DT JJ NN IN NNP , CC NNP VBD PRP ."
+Kurdish rebels have been fighting Turkey for autonomy since 1984 .,O O O O O B-geo O O B-tim I-tim O,NNP NNS VBP VBN VBG NNP IN NN IN CD .
+"The conflict has claimed more than 37,000 lives .",O O O O O O O O O,DT NN VBZ VBN JJR IN CD NNS .
+The U.S. considers the PKK a terrorist organization .,O B-geo O O B-org O O O O,DT NNP VBZ DT NNP DT JJ NN .

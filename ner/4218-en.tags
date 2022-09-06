@@ -1,0 +1,7 @@
+"A new survey says more Afghans think their country is heading in the right direction , even though many believe it is still plagued by a lack of security .",O O O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN VBZ RBR NNS VBP PRP$ NN VBZ VBG IN DT JJ NN , RB IN JJ VBP PRP VBZ RB VBN IN DT NN IN NN ."
+"In a poll released Tuesday by the Asia Foundation , 47 percent of those surveyed said Afghanistan is on the right track .",O O O O B-tim O O B-geo I-geo O O O O O O O B-geo O O O O O O,"IN DT NN VBN NNP IN DT NNP NNP , CD NN IN DT VBN VBD NNP VBZ IN DT JJ NN ."
+That is up from 42 percent in 2009 .,O O O O O O O B-tim O,DT VBZ RB IN CD NN IN CD .
+"A lack of security was listed as the nation 's top problem , followed by unemployment and corruption .",O O O O O O O O O O O O O O O O O O O,"DT NN IN NN VBD VBN IN DT NN POS JJ NN , VBN IN NN CC NN ."
+This year 's survey showed a large jump in the number of Afghans who say they support efforts to negotiate with armed groups .,O O O O O O O O O O O O B-gpe O O O O O O O O O O O,DT NN POS NN VBD DT JJ NN IN DT NN IN NNS WP VBP PRP VBP NNS TO VB IN JJ NNS .
+"More than 83 percent of those surveyed said they back talks with insurgents , up from 71 percent in 2009 .",O O O O O O O O O O O O O O O O O O O B-tim O,"JJR IN CD NN IN DT VBN VBD PRP VBP NNS IN NNS , RB IN CD NN IN CD ."
+"The Asia Foundation surveyed more than 6,400 Afghan adults in June and July .",O B-geo I-geo O O O O B-gpe O O B-tim I-tim I-tim O,DT NNP NNP VBD JJR IN CD JJ NNS IN NNP CC NNP .

@@ -1,0 +1,7 @@
+The U.S. space agency NASA has displayed the first images from a new satellite that studies the sun .,O B-geo O O B-org O O O O O O O O O O O O O O,DT NNP NN NN NNP VBZ VBN DT JJ NNS IN DT JJ NN WDT VBZ DT NN .
+Researchers released the images and short video clips Wednesday in Washington .,O O O O O O O O B-tim O B-geo O,NNS VBD DT NNS CC JJ NN NNS NNP IN NNP .
+Scientists say they have already learned new things from the Solar Dynamics Observatory but they have yet to release any findings .,O O O O O O O O O O B-org I-org I-org O O O O O O O O O,NNS VBP PRP VBP RB VBN JJ NNS IN DT NNP NNP NNP CC PRP VBP RB TO VB DT NNS .
+The satellite was launched February 11 .,O O O O B-tim I-tim O,DT NN VBD VBN NNP CD .
+NASA says the new images show never-before-seen details of material streaming outward and away from sunspots .,B-org O O O O O O O O O O O O O O O O,NNP VBZ DT JJ NNS VBP JJ NNS IN NN VBG NN CC RB IN NNS .
+The new satellite is sending back images that have 10 times better resolution than high-definition television .,O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBG RP NNS WDT VBP CD NNS JJR NN IN JJ NN .
+The satellite will also examine the sun 's magnetic field and study the role the sun plays in Earth 's atmosphere and climate .,O O O O O O O O O O O O O O O O O O B-geo O O O O O,DT NN MD RB VB DT NN POS JJ NN CC NN DT NN DT NN VBZ IN NNP POS NN CC NN .

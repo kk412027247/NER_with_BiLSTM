@@ -1,0 +1,7 @@
+"Cuban dissident Hector Palacios , 65 , has been unexpectedly freed from prison after three years .",B-gpe O B-per I-per O O O O O O O O O O B-tim O O,"JJ NN NNP NNP , CD , VBZ VBN RB VBN IN NN IN CD NNS ."
+"The sociologist spoke to reporters at his home Wednesday , saying he was released because of his poor health .",O O O O O O O O B-tim O O O O O O O O O O O,"DT NN VBD TO NNS IN PRP$ NN NNP , VBG PRP VBD VBN IN IN PRP$ JJ NN ."
+He is reported to have heart problems .,O O O O O O O O,PRP VBZ VBN TO VB NN NNS .
+Palacios was among 75 people jailed in March 2003 in a government crackdown on dissidents .,B-per O O O O O O B-tim I-tim O O O O O O O,NNP VBD IN CD NNS VBN IN NNP CD IN DT NN NN IN NNS .
+He was later sentenced to 25 years in prison for conspiring against Cuba with the United States .,O O O O O O O O O O O O B-geo O O B-geo I-geo O,PRP VBD RB VBN TO CD NNS IN NN IN VBG IN NNP IN DT NNP NNPS .
+A total of 15 others arrested in that crackdown have since been freed because of health problems .,O O O O O O O O O O O O O O O O O O,DT NN IN CD NNS VBN IN DT NN VBP IN VBN VBN IN IN NN NNS .
+"Palacios 's wife is one of the Ladies in White , a group of wives of jailed dissidents who hold a weekly march to demand release for political prisoners .",B-per O O O O O O B-org O B-geo O O O O O O O O O O O O O O O O O O O O,"NNP POS NN VBZ CD IN DT NNS IN NNP , DT NN IN NNS IN JJ NNS WP VBP DT JJ NN TO VB NN IN JJ NNS ."

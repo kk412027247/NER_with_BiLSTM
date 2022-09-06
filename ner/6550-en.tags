@@ -1,0 +1,7 @@
+Officials in Iraq 's Kurdistan region say gunmen have killed seven border guards near the Iranian border .,O O B-geo O B-geo O O O O O O O O O O B-gpe O O,NNS IN NNP POS NNP NN VBP NNS VBP VBN CD NN NNS IN DT JJ NN .
+They say the guards were ambushed early Sunday .,O O O O O O O B-tim O,PRP VBP DT NNS VBD VBN RB NNP .
+Iraq 's Kurdistan region has been relatively peaceful compared to the rest of the country .,B-geo O B-geo O O O O O O O O O O O O O,NNP POS NNP NN VBZ VBN RB JJ VBN TO DT NN IN DT NN .
+"In other violence today , a car bomb killed at least four people and wounded 15 others in central Baghdad .",O O O B-tim O O O O O O O O O O O O O O O B-geo O,"IN JJ NN NN , DT NN NN VBD IN JJS CD NNS CC VBD CD NNS IN JJ NNP ."
+"South of the capital , gunmen killed the wife and son of a city official in Aziziyah .",B-geo O O O O O O O O O O O O O O O B-geo O,"NNP IN DT NN , NNS VBD DT NN CC NN IN DT NN NN IN NNP ."
+"North of Baghdad , a roadside bomb killed a truck driver near the oil refinery of Baiji .",B-geo I-geo I-geo O O O O O O O O O O O O O B-geo O,"NNP IN NNP , DT NN NN VBD DT NN NN IN DT NN NN IN NNP ."
+"On Saturday , car bomb blasts in Baghdad killed 10 civilians and wounded 24 others .",O B-tim O O O O O B-geo O O O O O O O O,"IN NNP , NN NN NNS IN NNP VBD CD NNS CC VBD CD NNS ."

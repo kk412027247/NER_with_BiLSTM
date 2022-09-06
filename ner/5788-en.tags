@@ -1,0 +1,8 @@
+The head of Iran 's civil aviation authority says 29 people were killed and several others injured in a plane crash in the northeastern city of Mashhad .,O O O B-geo O O O O O O O O O O O O O O O O O O O O O O B-geo O,DT NN IN NNP POS JJ NN NN VBZ CD NNS VBD VBN CC JJ NNS VBN IN DT NN NN IN DT JJ NN IN NNP .
+"Speaking to Iranian state television , Nourollah Rezai Niaraki rejected earlier reports that as many 80 people died in the crash Friday .",O O B-gpe O O O B-org I-org I-org O O O O O O O O O O O O B-tim O,"VBG TO JJ NN NN , NNP NNP NNP VBD JJR NNS IN IN JJ CD NNS VBD IN DT NN NNP ."
+"He said the plane carrying 148 passengers skidded off the runway during landing and crashed , sparking a fire .",O O O O O O O O O O O O O O O O O O O O,"PRP VBD DT NN VBG CD NNS VBD RP DT NN IN NN CC VBD , VBG DT NN ."
+"Television reports showed fire crews dousing the plane , as smoke rose from a hole in the center of the fuselage .",B-org O O O O O O O O O O O O O O O O O O O O O,"NN NNS VBD NN NNS VBG DT NN , IN NN VBD IN DT NN IN DT NN IN DT NN ."
+The Russian-made Tupolev airliner from Iran Airtour was arriving in Mashhad from the southern city of Bandar Abbas .,O O O O O B-geo I-geo O O O B-geo O O O O O B-geo I-geo O,DT JJ NNP NN IN NNP NNP VBD VBG IN NNP IN DT JJ NN IN NNP NNP .
+The incident is the latest crash involving Iran 's aging fleet of aircraft .,O O O O O O O B-geo O O O O O O,DT NN VBZ DT JJS NN VBG NNP POS VBG NN IN NN .
+"A military jet went down in January , killing 11 people .",O O O O O O B-tim O O O O O,"DT JJ NN VBD RB IN NNP , VBG CD NNS ."
+"And a cargo plane crashed into a Tehran building in December , killing 115 people .",O O O O O O O O O O B-tim O O O O O,"CC DT NN NN VBD IN DT JJ NN IN NNP , VBG CD NNS ."

@@ -1,0 +1,6 @@
+"Last month , a United Nations conference in Rome discussed the world 's rising food prices .",O O O O B-org I-org O O B-geo O O O O O O O O,"JJ NN , DT NNP NNP NN IN NNP VBD DT NN POS VBG NN NNS ."
+The group called for trade barriers to be reduced and food export bans to be lifted .,O O O O O O O O O O O O O O O O O,DT NN VBD IN NN NNS TO VB VBN CC NN NN NNS TO VB VBN .
+"The cost of major food commodities has doubled over the past two years with rice , corn and wheat at record highs .",O O O O O O O O O O B-tim I-tim O O O O O O O O O O O,"DT NN IN JJ NN NNS VBZ VBN IN DT JJ CD NNS IN NN , NN CC NN IN NN NNS ."
+"The Philippines and Haiti , among other countries , have been hard-hit .",O B-org I-org I-org O O O O O O O O O,"DT NNPS CC NNP , IN JJ NNS , VBP VBN JJ ."
+Some Filipino and Haitian immigrants in the United States are sending food to their families back home .,O B-gpe B-org B-gpe B-org O O B-geo I-geo O O O O O O O O O,DT JJ CC JJ NNS IN DT NNP NNPS VBP VBG NN TO PRP$ NNS RB NN .
+VOA 's Deborah Block has the story .,B-org O B-per I-per O O O O,NNP POS NNP NNP VBZ DT NN .

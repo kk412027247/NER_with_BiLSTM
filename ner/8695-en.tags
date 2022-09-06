@@ -1,0 +1,8 @@
+"Kidnappers in Haiti have released an American missionary , one day after seizing him at gunpoint outside the capital , Port-au-Prince .",O O B-geo O O O B-gpe O O O O O O O O O O O O O B-geo O,"NNS IN NNP VBP VBN DT JJ NN , CD NN IN VBG PRP IN NN IN DT NN , NNP ."
+Haitian police officials say Phillip Snyder was freed Friday after kidnappers received a ransom payment .,B-gpe O O O B-per I-per O O B-tim O O O O O O O,JJ NN NNS VBP NNP NNP VBD VBN NNP IN NNS VBD DT NN NN .
+"Mr. Snyder 's condition , as well as the amount of his ransom payment , are unclear .",B-per I-per O O O O O O O O O O O O O O O O,"NNP NNP POS NN , RB RB IN DT NN IN PRP$ NN NN , VBP JJ ."
+"In a separate incident , kidnappers released a group of children Thursday , after abducting them from a school bus hours earlier .",O O O O O O O O O O O B-tim O O O O O O O O O O O,"IN DT JJ NN , NNS VBD DT NN IN NNS NNP , IN VBG PRP IN DT NN NN NNS RB ."
+Police said the children were unharmed .,O O O O O O O,NNS VBD DT NNS VBD JJ .
+Some media report the abductors were paid an unspecified ransom .,O O O O O O O O O O O,DT NNS VBP DT NNS VBD VBN DT JJ NN .
+But the Associated Press quotes a police commissioner as denying any ransom was paid .,O O B-org I-org O O O O O O O O O O O,CC DT NNP NNP VBZ DT NN NN IN VBG DT NN VBD VBN .
+Neither case was considered to be politically motivated .,O O O O O O O O O,DT NN VBD VBN TO VB RB JJ .

@@ -1,0 +1,7 @@
+U.S. military officials say 75 prisoners at the American naval base at Guantanamo Bay are on a hunger strike .,B-geo O O O O O O O B-gpe O O O B-geo I-geo O O O O O O,NNP JJ NNS VBP CD NNS IN DT JJ JJ NN IN NNP NNP VBP IN DT NN NN .
+A military spokesman for the base Navy Commander Robert Durand says the hunger strike is an attempt to gain media attention .,O O O O O O O B-org I-org I-org O O O O O O O O O O O O,DT JJ NN IN DT NN NN NNP NNP NNP VBZ DT NN NN VBZ DT NN TO VB NNS NN .
+He said it may be related to May 18 clashes between detainees and military guards .,O O O O O O O B-tim I-tim O O O O O O O,PRP VBD PRP MD VB VBN TO NNP CD NNS IN NNS CC JJ NNS .
+Some of the detainees have been on the hunger strike since August .,O O O O O O O O O O B-tim I-tim O,DT IN DT NNS VBP VBN IN DT NN NN IN NNP .
+"In past months , the military has force-fed hunger strikers by placing a tube through their noses into their stomachs .",O B-tim O O O O O O O O O O O O O O O O O O O,"IN JJ NNS , DT NN VBZ VBN NN NNS IN VBG DT NN IN PRP$ NNS IN PRP$ NNS ."
+"Earlier this month , lawyers for a detainee filed a complaint saying the force-feeding method amounts to torture .",O O O O O O O O O O O O O O O O O O O,"RBR DT NN , NNS IN DT NN VBD DT NN VBG DT JJ NN NNS TO VB ."
+More than 400 prisoners are being held at Guantanamo on suspicion of links to al-Qaida or the Taleban .,O O O O O O O O B-geo O O O O O B-org O O B-org O,JJR IN CD NNS VBP VBG VBN IN NNP IN NN IN NNS TO NNP CC DT NNP .

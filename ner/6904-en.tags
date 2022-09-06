@@ -1,0 +1,7 @@
+"Burkina Faso is a poor , landlocked country that relies heavily on cotton and gold exports for revenue .",B-per I-per O O O O O O O O O O O O O O O O O,"NNP NNP VBZ DT JJ , JJ NN WDT VBZ RB IN NN CC NN NNS IN NN ."
+The country has few natural resources and a weak industrial base .,O O O O O O O O O O O O,DT NN VBZ JJ JJ NNS CC DT JJ JJ NN .
+"About 90 % of the population is engaged in subsistence agriculture , which is vulnerable to periodic drought .",O O O O O O O O O O O O O O O O O O O,"RB CD NN IN DT NN VBZ VBN IN NN NN , WDT VBZ JJ TO JJ NN ."
+Cotton is the main cash crop .,O O O O O O O,NN VBZ DT JJ NN NN .
+"Since 1998 , Burkina Faso has embarked upon a gradual privatization of state-owned enterprises and in 2004 revised its investment code to attract foreign investment .",B-tim I-tim O B-per I-per O O O O O O O O O O O B-tim O O O O O O O O O,"IN CD , NNP NNP VBZ VBN IN DT JJ NN IN JJ NNS CC IN CD VBN PRP$ NN NN TO VB JJ NN ."
+"As a result of this new code and other legislation favoring the mining sector , the country has seen an upswing in gold exploration and production .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN DT NN IN DT JJ NN CC JJ NN VBG DT NN NN , DT NN VBZ VBN DT NN IN NN NN CC NN ."
+"By 2010 , gold had become the main source of export revenue .",O B-tim O O O O O O O O O O O,"IN CD , NN VBD VBN DT JJ NN IN NN NN ."

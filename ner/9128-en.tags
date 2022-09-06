@@ -1,0 +1,8 @@
+Palestinian officials say ailing Palestinian leader Yasser Arafat has lost consciousness several times while in the intensive care unit of a French military hospital .,B-gpe O O O B-gpe O B-per I-per O O O O O O O O O O O O O B-gpe O O O,JJ NNS VBP VBG JJ NN NNP NNP VBZ VBN NN JJ NNS IN IN DT JJ NN NN IN DT JJ JJ NN .
+The officials say Mr. Arafat has drifted in and out of consciousness since Wednesday .,O O O B-per B-org O O O O O O O O B-tim O,DT NNS VBP NNP NNP VBZ VBN IN CC IN IN NN IN NNP .
+There are conflicting reports about his present condition and it is not clear whether he is in a coma .,O O O O O O O O O O O O O O O O O O O O,EX VBP VBG NNS IN PRP$ JJ NN CC PRP VBZ RB JJ IN PRP VBZ IN DT NN .
+Doctors at the Paris hospital are expected to speak to reporters later Thursday about Mr. Arafat 's condition .,O O O B-geo O O O O O O O B-tim I-tim O B-per B-org O O O,NNS IN DT NNP NN VBP VBN TO VB TO NNS RB NNP IN NNP NNP POS NN .
+The Palestinian officials provided no more details .,O B-gpe O O O O O O,DT NN NNS VBD DT JJR NNS .
+Mr. Arafat has been receiving emergency medical treatment at the hospital since late last week .,B-per I-per O O O O O O O O O O O O O O,NNP NNP VBZ VBN VBG NN JJ NN IN DT NN IN JJ JJ NN .
+He was airlifted to France after being ill for about two weeks .,O O O O B-geo O O O O O B-tim O O,PRP VBD VBN TO NNP IN VBG JJ IN IN CD NNS .
+"The exact nature of his illness is still not clear , but officials say he was experiencing intense stomach pains , diarrhea and vomiting .",O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN IN PRP$ NN VBZ RB RB JJ , CC NNS VBP PRP VBD VBG JJ NN NNS , NN CC NN ."

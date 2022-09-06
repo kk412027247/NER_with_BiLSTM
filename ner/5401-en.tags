@@ -1,0 +1,8 @@
+Chinese Prime Minister Wen Jiabao has begun a four-day visit to India aimed at enhancing bilateral trade and helping solve a four-decade-old border dispute .,B-gpe B-per O B-per I-per O O O O O O B-geo O O O O O O O O O O O O O,JJ NNP NNP NNP NNP VBZ VBN DT JJ NN TO NNP VBN IN VBG JJ NN CC VBG VB DT JJ NN NN .
+"Mr. Wen arrived Saturday in Bangalore , India 's high-technology capital .",B-per I-per O B-tim O B-geo O B-geo O O O O,"NNP NNP VBD NNP IN NNP , NNP POS JJ NN ."
+"He plans to meet his Indian counterpart , Manmohan Singh , on Monday .",O O O O O B-gpe O O B-per I-per O O B-tim O,"PRP VBZ TO VB PRP$ JJ NN , NNP NNP , IN NNP ."
+"The two sides are expected to discuss efforts to end the border dispute , which led to a brief war in 1962 .",O O O O O O O O O O O O O O O O O O O O O B-tim O,"DT CD NNS VBP VBN TO VB NNS TO VB DT NN NN , WDT VBD TO DT JJ NN IN CD ."
+Relations between the two countries have improved significantly in recent months .,O O O O O O O O O B-tim O O,NNP IN DT CD NNS VBP VBN RB IN JJ NNS .
+"Officials and observers also say the two countries are eager to develop their trade , which reached $ 13 billion last year .",O O O O O O O O O O O O O O O O O O O O O O O,"NNS CC NNS RB VBP DT CD NNS VBP JJ TO VB PRP$ NN , WDT VBD $ CD CD JJ NN ."
+They say China wants to establish a common free trade area between the two countries with a combined population of more than two billion .,O O B-geo O O O O O O O O O O O O O O O O O O O O B-tim O,PRP VBP NNP VBZ TO VB DT JJ JJ NN NN IN DT CD NNS IN DT VBN NN IN JJR IN CD CD .
+"Mr. Wen is on the last leg of a week-long , four-nation tour of South Asia tour .",B-per I-per O O O O O O O B-tim O O O O B-geo I-geo O O,"NNP NNP VBZ IN DT JJ NN IN DT JJ , JJ NN IN NNP NNP NN ."

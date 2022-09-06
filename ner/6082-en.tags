@@ -1,0 +1,5 @@
+"A LION who had caught a Mouse was about to kill him , when the Mouse said :",O O O O O O O O O O O O O O O O O O,"DT NN WP VBD VBN DT NN VBD IN TO VB PRP , WRB DT NN VBD :"
+""" If you will spare my life , I will do as much for you some day . """,O O O O O O O O O O O O O O O O O O O,"LQU IN PRP MD VB PRP$ NN , PRP MD VB RB RB IN PRP DT NN . LQU"
+"The Lion , good-naturedly let him go .",O B-per O O O O O O,"DT NNP , RB VB PRP VB ."
+It happened shortly afterwards that the Lion was caught by some hunters and bound with cords .,O O O O O O B-per O O O O O O O O O O,PRP VBD RB RB IN DT NNP VBD VBN IN DT NNS CC VBN IN NNS .
+"The Mouse , passing that way , and seeing that his benefactor was helpless , gnawed off his tail .",O O O O O O O O O O O O O O O O O O O O,"DT NN , VBG DT NN , CC VBG IN PRP$ NN VBD JJ , VBD RP PRP$ NN ."

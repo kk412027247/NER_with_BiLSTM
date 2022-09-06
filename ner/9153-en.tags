@@ -1,0 +1,7 @@
+"World and European champion Germany remains atop the latest International Football Federation ( FIFA ) women 's soccer rankings , with the Olympic champion U.S. team second .",O O O O B-geo O O O O B-org I-org I-org O B-org O O O O O O O O O O B-geo O O O,"NNP CC JJ NN NNP VBZ IN DT JJS NNP NNP NNP LRB NNP RRB NNS POS NN NNS , IN DT JJ JJ NNP NN NN ."
+"Norway is third followed by Brazil , France , and Sweden .",B-geo O O O O B-geo O B-geo O O B-geo O,"NNP VBZ JJ VBN IN NNP , NNP , CC NNP ."
+"North Korea is seventh followed by Denmark , which rose one place to eighth .",B-geo I-geo O O O O B-geo O O O O O O O O,"NNP NNP VBZ JJ VBN IN NNP , WDT VBD CD NN TO NN ."
+China dropped one place to ninth in the world and Italy remained in 10th place .,B-geo O O O O O O O O O B-geo O O B-tim O O,NNP VBD CD NN TO VB IN DT NN CC NNP VBD IN JJ NN .
+"Outside the top 10 , the big winner was Russia which came through three Women 's World Cup qualifiers without losing a match and is 13th in the world .",O O O B-tim O O O O O B-geo O O O B-tim I-tim O O O O O O O O O O B-tim O O O O,"IN DT JJ CD , DT JJ NN VBD NNP WDT VBD IN CD NNP POS NNP NNP NNS IN VBG DT NN CC VBZ JJ IN DT NN ."
+There are now 124 teams in the FIFA Women 's World Rankings .,O O O O O O O B-org I-org I-org I-org I-org O,EX VBP RB CD NNS IN DT NNP NNP POS NNP NNP .
+"The rankings are published four times a year and the next ranking will be issued December 16 , 2005 .",O O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim O,"DT NNS VBP VBN CD NNS DT NN CC DT JJ NN MD VB VBN NNP CD , CD ."

@@ -1,0 +1,6 @@
+"Saudi Arabia says it will send a delegation to Iraq next week to look into reopening its embassy , more than four years after the U.S.-led invasion of Iraq .",B-per I-per O O O O O O O B-geo O O O O O O O O O O O O O O O O O O B-geo O,"NNP NNP VBZ PRP MD VB DT NN TO NNP JJ NN TO VB IN VBG PRP$ NN , JJR IN CD NNS IN DT JJ NN IN NNP ."
+Saudi Foreign Minister Prince Saud al-Faisal said Tuesday the delegation will explore security concerns related to opening the diplomatic post .,O O B-per I-per I-per I-per O B-tim O O O O O O O O O O O O O,NNP NNP NNP NNP NNP NNP VBD NNP DT NN MD VB NN NNS VBN TO VBG DT JJ NN .
+He first announced the plan last week during a visit by U.S. Secretary of State Condoleezza Rice .,O O O O O O O O O O O B-geo O O B-org B-per I-per O,PRP RB VBD DT NN JJ NN IN DT NN IN NNP NNP IN NNP NNP NNP .
+Rice welcomed the move as an important step .,B-per O O O O O O O O,NNP VBD DT NN IN DT JJ NN .
+Iraq re-opened its embassy in Saudi Arabia last February .,B-geo O O O O B-geo I-geo O B-tim O,NNP VBD PRP$ NN IN NNP NNP JJ NNP .
+Saudi Arabia is a Sunni Muslim country and Iraq has a Shi'ite majority population and a Shi'ite prime minister .,B-geo I-geo O O B-per I-per O O B-geo O O O O O O O O O O O,NNP NNP VBZ DT NNP NNP NN CC NNP VBZ DT NNP NN NN CC DT JJ JJ NN .

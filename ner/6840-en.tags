@@ -1,0 +1,7 @@
+The cholera outbreak in Angola continues .,O O O O B-geo O O,DT NN NN IN NNP VBZ .
+"The medical aid group – Doctors Without Borders - says in all there have been about 32,000 cases over the past 13 weeks , with about 1,200 deaths .",O O O O O B-org I-org I-org O O O O O O O O O O O O B-tim I-tim O O O O O O O,"DT JJ NN NN ; NNPS NNP NNPS : VBZ IN DT EX VBP VBN IN CD NNS IN DT JJ CD NNS , IN IN CD NNS ."
+Richard Veerman is the group ’s head of mission in Angola .,B-per I-per O O O O O O O O B-geo O,NNP NNP VBZ DT NN POS NN IN NN IN NNP .
+"From the capital , Luanda , he gave English to Africa reporter Joe De Capua an update on the cholera outbreak .",O O O O B-geo O O O B-org I-org I-org O B-per I-per I-per O O O O O O O,"IN DT NN , NNP , PRP VBD NNP TO NNP NN NNP NNP NNP DT NN IN DT NN NN ."
+"He says there are about 600 new cases a day in the country , about half of those in Luanda .",O O O O O O O O O O O O O O O O O O O B-geo O,"PRP VBZ EX VBP IN CD JJ NNS DT NN IN DT NN , IN NN IN DT IN NNP ."
+That ’s down from over 900 cases a day about a week ago .,O O O O O O O O O O O O O O,DT VBZ RB IN IN CD NNS DT NN IN DT NN RB .
+"However , Veerman says it ’s still too early to tell whether this means the outbreak is truly on the decline .",O O B-per O O O O O O O O O O O O O O O O O O O,"RB , NNP VBZ PRP VBZ RB RB JJ TO VB IN DT VBZ DT NN VBZ RB IN DT NN ."

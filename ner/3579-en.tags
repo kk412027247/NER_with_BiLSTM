@@ -1,0 +1,7 @@
+Russia says it is commissioning its first unit of new mobile intercontinental ballistic missiles .,B-geo O O O O O O O O O O O O O O,NNP VBZ PRP VBZ VBG PRP$ JJ NN IN JJ JJ JJ JJ NNS .
+Monday told Russian television the new version of the Topol-M missile is capable of penetrating multi-layered missile defense systems .,B-tim O B-gpe O O O O O O B-art O O O O O O O O O O,NNP VBD JJ NN DT JJ NN IN DT NNP NN VBZ JJ IN VBG JJ NN NN NNS .
+Ivanov said the missiles will form the core of Russia 's strategic missile forces .,B-per O O O O O O O O B-org O O O O O,NNP VBD DT NNS MD VB DT NN IN NNP POS JJ NN NNS .
+He called them a new generation of the stationary Topol system already in service .,O O O O O O O O O B-art O O O O O,PRP VBD PRP DT JJ NN IN DT JJ NNP NN RB IN NN .
+Western analysts say Topol missiles were first deployed in Russian silos in the late 1990s .,O O O B-art O O O O O B-gpe O O O O B-tim O,JJ NNS VBP NNP NNS VBD JJ VBN IN JJ NNS IN DT JJ NNS .
+"The new missiles reportedly can carry a 1,200 kilogram payload and have an estimated range of about 10,000 kilometers .",O O O O O O O O O O O O O O O O O O O O,DT JJ NNS RB MD VB DT CD NN NN CC VBP DT VBN NN IN IN CD NNS .
+They are said to maneuver in ways that are difficult to detect .,O O O O O O O O O O O O O,PRP VBP VBN TO VB IN NNS WDT VBP JJ TO VB .

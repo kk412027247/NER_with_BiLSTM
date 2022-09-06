@@ -1,0 +1,8 @@
+"Four-time champion Argentina has defeated Colombia , 2-1 , while Nigeria blanked Ukraine , 1-0 , to reach the quarterfinals of the World Youth football ( soccer ) championships in the Netherlands .",O O B-org O O B-org O O O O B-org O B-org O O O O O O O O O B-org I-org O O O O O O B-geo I-geo O,"JJ NN NNP VBZ VBN NNP , CD , IN NNP VBD NNP , CD , TO VB DT NNS IN DT NNP NNP NN LRB NN RRB NNS IN DT NNP ."
+"In Emmen , Julio Barroso 's goal in injury time gave the under-age-20 Argentines the win after his team came back from a 1-0 deficit .",O B-geo O B-per I-per O O O O O O O O B-gpe O O O O O O O O O O O O,"IN NNP , NNP NNP POS NN IN NN NN VBD DT JJ NNS DT NN IN PRP$ NN VBD RB IN DT CD NN ."
+Colombia 's Harrison Otalvaro had opened the scoring in the 52nd minute .,B-org O B-per I-per O O O O O O B-tim O O,NNP POS NNP NNP VBD VBN DT VBG IN DT JJ NN .
+Argentina 's Lionel Messi tied the match six minutes later .,B-org O B-per I-per O O O B-tim O B-tim O,NNP POS NNP NNP VBD DT NN CD NNS RB .
+"Argentina takes on Spain , which scored a 3-0 win over Turkey .",B-org O O B-org O O O O O O O B-geo O,"NNP VBZ IN NNP , WDT VBD DT CD NN IN NNP ."
+"Meanwhile in Doetinchem , Nigeria defeated Ukraine , 1-0 , on Taye Taiwo 's 80th-minute goal .",O O B-geo O B-org O B-org O O O O B-geo I-geo O O O O,"RB IN NNP , NNP VBD NNP , CD , IN NNP NNP POS JJ NN ."
+"In the final eight , Nigeria faces the host country , which beat Chile , 3-0 .",O O O O O B-org O O O O O O O B-org O O O,"IN DT JJ CD , NNP VBZ DT NN NN , WDT VBD NNP , CD ."
+The other quarterfinals have Germany playing Brazil and Morocco taking on Italy .,O O O O B-org O B-org O B-org O O B-org O,DT JJ NNS VBP NNP VBG NNP CC NNP VBG IN NNP .

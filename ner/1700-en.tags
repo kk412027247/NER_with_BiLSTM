@@ -1,0 +1,6 @@
+"A strong earthquake has struck under the sea in eastern Indonesia , off of Sulawesi Island .",O O O O O O O O O B-geo I-geo O O O B-geo I-geo O,"DT JJ NN VBZ VBN IN DT NN IN JJ NNP , IN IN NNP NNP ."
+"The U.S. Geological Survey says the 7.3 magnitude quake struck Sunday night , about 165 kilometers east of the North Sulawesi provincial capital , Minado .",O B-org I-org I-org O O O O O O B-tim I-tim O O O O O O O B-geo I-geo O O O O O,"DT NNP NNP NNP VBZ DT CD NN NN VBD NNP NN , IN CD NNS NN IN DT NNP NNP JJ NN , NNP ."
+"Witnesses in Minado said hundreds of people fled their homes , and the foundations of some buildings were damaged .",O O O O O O O O O O O O O O O O O O O O,"NNS IN NNP VBD NNS IN NNS VBD PRP$ NNS , CC DT NNS IN DT NNS VBD VBN ."
+There were no reports of injuries .,O O O O O O O,EX VBD DT NNS IN NNS .
+"Shortly after the first quake reports , Indonesian authorities measured the quake strength at 6.9 magnitude , and said it could pose a tsunami risk .",O O O O O O O B-gpe O O O O O O O O O O O O O O O O O O,"RB IN DT JJ NN NNS , JJ NNS VBD DT NN NN IN CD NN , CC VBD PRP MD VB DT NN NN ."
+"However , no tsunami was reported .",O O O O O O O,"RB , DT NN VBD VBN ."

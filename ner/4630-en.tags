@@ -1,0 +1,9 @@
+The public memorial for the late United States Chief Justice William Rehnquist is under way at the Supreme Court building in Washington .,O O O O O O B-geo I-geo O B-org I-org I-org O O O O O B-org I-org O O B-geo O,DT JJ NN IN DT JJ NNP NNPS NNP NNP NNP NNP VBZ IN NN IN DT NNP NNP NN IN NNP .
+Mr. Rehnquist died of cancer Saturday at the age of 80 .,B-per I-per O O O B-tim O O O O O O,NNP NNP VBD IN NN NNP IN DT NN IN CD .
+"President Bush paid his respects to the late chief justice Tuesday , pausing for a moment of silence beside his flag-draped coffin in the Great Hall of the high court .",B-per I-per O O O O O O O O B-tim O O O O O O O O O O O O O B-geo B-per O O O O O,"NNP NNP VBD PRP$ NNS TO DT JJ NN NN NNP , VBG IN DT NN IN NN IN PRP$ JJ NN IN DT NNP NNP IN DT JJ NN ."
+"The public memorial continues until noon Wednesday , when he will be buried in a private ceremony at Arlington National Cemetery .",O O O O O B-tim I-tim O O O O O O O O O O O B-org I-org I-org O,"DT JJ NN VBZ IN NN NNP , WRB PRP MD VB VBN IN DT JJ NN IN NNP NNP NNP ."
+The conservative chief justice was first appointed to the nine-member court by President Nixon in 1972 .,O O O O O O O O O O O O B-per I-per O B-tim O,DT JJ NN NN VBD JJ VBN TO DT JJ NN IN NNP NNP IN CD .
+"President Reagan appointed him chief justice 14 years later , in 1986 .",B-per I-per O O O O B-tim O B-tim O O B-tim O,"NNP NNP VBD PRP JJ NN CD NNS RB , IN CD ."
+U.S. Supreme Court justices are appointed for life-long terms .,B-org I-org I-org O O O O O O O,NNP NNP NNP NNS VBP VBN IN JJ NNS .
+President Bush has nominated federal appeals court judge John Roberts to be the next chief justice .,B-per I-per O O O O O O B-per I-per O O O O O O O,NNP NNP VBZ VBN JJ NNS NN NN NNP NNP TO VB DT JJ NN NN .
+Senate confirmation hearings for Mr. Roberts are scheduled to begin Monday .,B-org O O O B-per I-per O O O O B-tim O,NNP NN NNS IN NNP NNP VBP VBN TO VB NNP .

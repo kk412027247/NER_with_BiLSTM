@@ -1,0 +1,7 @@
+Rwandan police have arrested a journalist accused of comparing President Paul Kagame to Nazi Germany 's leader Adolf Hitler .,B-gpe O O O O O O O O B-per I-per I-per O B-geo I-geo O O B-per I-per O,JJ NNS VBP VBN DT NN VBN IN VBG NNP NNP NNP TO NNP NNP POS NN NNP NNP .
+Saidati Mukakibibi is the second journalist from the independent newspaper Umurabyo arrested in the past week .,B-per I-per O O O O O O O O B-org O O O B-tim O O,NNP NNP VBZ DT JJ NN IN DT JJ NN NNP VBN IN DT JJ NN .
+The Reuters news agency quotes a police spokesman as saying Mukakibibi wrote articles comparing the president with Hitler .,O B-org O O O O O O O O B-per O O O O O O B-per O,DT NNP NN NN VBZ DT NN NN IN VBG NNP VBD NNS VBG DT NN IN NNP .
+He said the articles were accompanied by a photo of Mr. Kagame in front of a Nazi swastika that the publishers had inserted in the picture .,O O O O O O O O O O B-per I-per O O O O B-geo O O O O O O O O O O,PRP VBD DT NNS VBD VBN IN DT NN IN NNP NNP IN NN IN DT NN NN IN DT NNS VBD VBN IN DT NN .
+"Last week , authorities arrested Umurabyo editor Agnes Uwimana on allegations of civil disobedience .",O O O O O B-org O B-per I-per O O O O O O,"JJ NN , NNS VBN NNP NN NNP NNP IN NNS IN JJ NN ."
+Rights groups say the arrests are an attempt by the Rwandan government to clamp down on independent media ahead of next month 's elections .,O O O O O O O O O O B-gpe O O O O O O O O O O O O O O,NNS NNS VBP DT NNS VBP DT NN IN DT JJ NN TO VB RP IN JJ NNS RB IN JJ NN POS NNS .
+The government denies the allegations .,O O O O O O,DT NN VBZ DT NNS .

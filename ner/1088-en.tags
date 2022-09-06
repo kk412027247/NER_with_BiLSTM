@@ -1,0 +1,8 @@
+European stock prices are lower in midday trading Friday .,O O O O O O B-tim O B-tim O,JJ NN NNS VBP JJR IN NN NN NNP .
+"London 's Financial Times index is down 74 points , more than 1.7 percent , at 4,218 .",B-geo O O O O O O O O O O O O O O O O O,"NNP POS NNP NNP NN VBZ RB CD NNS , JJR IN CD NN , IN CD ."
+"The CAC-40 in Paris is down 59 points , more than 1.7 percent , at 3,348 , and the DAX index in Frankfurt is down two points at 4,867 .",O O O B-geo O O O O O O O O O O O O O O O B-org O O B-geo O O O O O O O,"DT NN IN NNP VBZ RB CD NNS , JJR IN CD NN , IN CD , CC DT NNP NN IN NNP VBZ RB CD NNS IN CD ."
+"In New York , the S&P futures contract is down 18 points , indicating a lower opening for U.S. stocks .",O B-geo I-geo O O B-org O O O O O O O O O O O O B-geo O O,"IN NNP NNP , DT NNP NNS NN VBZ RB CD NNS , VBG DT JJR NN IN NNP NNS ."
+"Tokyo 's Nikkei index lost 453 points , or 5 percent , to finish at 8,577 .",B-geo O B-geo O O O O O O O O O O O O O O,"NNP POS NNP NN VBD CD NNS , CC CD NN , TO VB IN CD ."
+"Hong Kong 's Hang Seng index dropped 361 points , just over 2.5 percent , to end the day 's trading at 13,969 .",B-geo I-geo O B-geo I-geo O O O O O O O O O O O O O O O O O B-tim O,"NNP NNP POS NNP NNP NN VBD CD NNS , RB IN CD NN , TO VB DT NN POS NN IN CD ."
+Gold is trading higher at $ 729.88 an ounce .,O O O O O O O O O O,NN VBZ VBG JJR IN $ CD DT NN .
+The dollar is mostly higher against other major currencies .,O O O O O O O O O O,DT NN VBZ RB JJR IN JJ JJ NNS .

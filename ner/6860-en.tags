@@ -1,0 +1,3 @@
+Guam was ceded to the US by Spain in 1898 .,B-geo O O O O B-org O B-org O B-tim O,NNP VBD VBN TO DT NNP IN NNP IN CD .
+"Captured by the Japanese in 1941 , it was retaken by the US three years later .",O O O B-gpe O B-tim O O O O O O B-org O O O O,"VBN IN DT NNS IN CD , PRP VBD VBN IN DT NNP CD NNS RB ."
+The military installation on the island is one of the most strategically important US bases in the Pacific .,O O O O O O O O O O O O O B-org O O O B-geo O,DT JJ NN IN DT NN VBZ CD IN DT RBS RB JJ NNP NNS IN DT NNP .

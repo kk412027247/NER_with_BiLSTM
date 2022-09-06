@@ -1,0 +1,6 @@
+The American fast food chain KFC is famous around the world for its fried chicken .,O B-gpe O O O B-org O O O O O O O O O O,DT JJ JJ NN NN NNP VBZ JJ IN DT NN IN PRP$ JJ NN .
+"KFC stands for Kentucky Fried Chicken and founded by Harlan David Sanders , better know to patrons as Colonel Sanders .",B-org O O B-org I-org I-org O O O B-per I-per I-per O O O O O O B-per I-per O,"NNP VBZ IN NNP NNP NNP CC VBN IN NNP NNP NNP , RB VBP TO NNS IN NNP NNP ."
+"In Kabul , Afghanistan , another KFC restaurant is doing a brisk business .",O B-geo O B-geo O O B-org O O O O O O O,"IN NNP , NNP , DT NNP NN VBZ VBG DT JJ NN ."
+But this KFC is short for Kabul Fried Chicken and serves kabobs and pizza alongside the chicken .,O O B-org O O O B-org I-org I-org O O O O O O O O O,CC DT NNP VBZ JJ IN NNP NNP NNP CC VBZ NNS CC NN IN DT NN .
+"Rahimgul Sarawan reports from Kabul that while this KFC was inspired by Colonel Sanders , that is where the association ends .",B-per I-per O O B-geo O O O B-org O O O B-per I-per O O O O O O O O,"NNP NNP VBZ IN NNP IN IN DT NNP VBD VBN IN NNP NNP , WDT VBZ WRB DT NN VBZ ."
+Brian Allen narrates .,B-per I-per O O,NNP NNP VBZ .

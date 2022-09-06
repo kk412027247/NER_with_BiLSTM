@@ -1,0 +1,9 @@
+"NATO has assumed command of 12,000 U.S. troops in eastern Afghanistan , completing the alliance 's hold on security throughout the country .",B-org O O O O O B-geo O O B-geo I-geo O O O O O O O O O O O O,"NNP VBZ VBN NN IN CD NNP NNS IN JJ NNP , VBG DT NN POS NN IN NN IN DT NN ."
+"NATO now commands international forces across the country and its capital , Kabul .",B-org O O O O O O O O O O O B-org O,"NNP RB VBZ JJ NNS IN DT NN CC PRP$ NN , NNP ."
+It is the organization 's largest operation .,O O O O O O O O,PRP VBZ DT NN POS JJS NN .
+The ceremony marking the transfer of command was held in Kabul Thursday .,O O O O O O O O O O B-org B-tim O,DT NN VBG DT NN IN NN VBD VBN IN NNP NNP .
+U.S. and NATO commanders as well as Afghan President Hamid Karzai attended .,B-geo O B-org O O O O B-gpe B-per I-per I-per O O,NNP CC NNP NNS RB RB IN JJ NNP NNP NNP VBD .
+President Karzai thanked his allies for their help in battling terrorism .,B-per I-per O O O O O O O O O O,NNP NNP VBD PRP$ NNS IN PRP$ NN IN VBG NN .
+"The commander of NATO 's Afghan force , British General David Richards , said the unity of command the transfer brought will enhance the effectiveness of the overall operation .",O O O B-org O B-gpe O O B-org I-org B-per I-per O O O O O O O O O O O O O O O O O O,"DT NN IN NNP POS JJ NN , NNP NNP NNP NNP , VBD DT NN IN NN DT NN VBD MD VB DT NN IN DT JJ NN ."
+"Referring to the fight in southern Afghanistan since NATO took command there in July , Richards said the NATO force has shown its resolve to meet the challenges of its expanded mission .",O O O O O B-geo I-geo O B-org O O O O B-tim O B-per O O B-org O O O O O O O O O O O O O O,"VBG TO DT NN IN JJ NNP IN NNP VBD NN RB IN NNP , NNP VBD DT NNP NN VBZ VBN PRP$ NN TO VB DT NNS IN PRP$ JJ NN ."
+Richards was promoted to four-star general hours before the command change .,B-per O O O O O O O O O O O,NNP VBD VBN TO JJ JJ NNS IN DT NN NN .

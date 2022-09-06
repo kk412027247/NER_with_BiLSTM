@@ -1,0 +1,7 @@
+A bomb blast late Tuesday in India 's northeastern state of Manipur killed at least 17 people and wounded more than 30 others .,O O O O B-tim O B-geo O O O O B-geo O O O O O O O O O O O O,DT NN NN JJ NNP IN NNP POS JJ NN IN NNP VBD IN JJS CD NNS CC VBD JJR IN CD NNS .
+"Local police say the bomb was concealed in a motorcycle outside a police training center in the city of Imphal , the state capital .",O O O O O O O O O O O O O O O O O O O B-geo O O O O O,"JJ NNS VBP DT NN VBD VBN IN DT NN IN DT NN NN NN IN DT NN IN NNP , DT NN NN ."
+Authorities say several people are in critical condition and the death toll is likely to rise .,O O O O O O O O O O O O O O O O O,NNS VBP JJ NNS VBP IN JJ NN CC DT NN NN VBZ JJ TO VB .
+"No one has claimed responsibility for the attack , but there are more than a dozen rebel groups operating in the region .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ VBN NN IN DT NN , CC EX VBP JJR IN DT NN NN NNS VBG IN DT NN ."
+"On Sunday , a grenade exploded outside the fortified home of Manipur 's chief minister , Okram Ibobi Singh .",O B-tim O O O O O O O O O B-geo O O O O B-org I-org B-per O,"IN NNP , DT NN VBD IN DT JJ NN IN NNP POS JJ NN , NNP NNP NNP ."
+No one was hurt .,O O O O O,DT NN VBD VBN .
+"Separatist violence in northeastern India has killed some 20,000 people since 1979 .",O O O O B-geo O O O O O B-tim I-tim O,NNP NN IN JJ NNP VBZ VBN DT CD NNS IN CD .

@@ -1,0 +1,8 @@
+"Iraqi soldiers , prisoners and hospital patients have cast early ballots for parliamentary elections set to open to the general public on Thursday .",B-gpe O O O O O O O O O O O O O O O O O O O O O B-tim O,"JJ NNS , NNS CC NN NNS VBP VBN JJ NNS IN JJ NNS VBN TO VB TO DT JJ NN IN NNP ."
+Officials have promised to implement tough security measures Thursday to guard against violence during the vote .,O O O O O O O O B-tim O O O O O O O O,NNS VBP VBN TO VB JJ NN NNS NNP TO VB IN NN IN DT NN .
+They include closing Iraq 's borders and restricting travel .,O O O B-geo O O O O O O,PRP VBP VBG NNP POS NNS CC VBG NN .
+Authorities are also expected to extend curfews across the country Tuesday .,O O O O O O O O O O B-tim O,NNS VBP RB VBN TO VB NNS IN DT NN NNP .
+"Polling stations were due to open today in 15 countries , including the United States , for voters living outside Iraq .",O O O O O O B-tim O O O O O O B-geo I-geo O O O O O B-geo O,"NN NNS VBD JJ TO VB NN IN CD NNS , VBG DT NNP NNPS , IN NNS VBG IN NNP ."
+"Meanwhile , officials in Iraq reported seven people were killed in attacks Monday .",O O O O B-geo O O O O O O O B-tim O,"RB , NNS IN NNP VBD CD NNS VBD VBN IN NNS NNP ."
+Separate roadside bomb attacks killed one American soldier and two other people in the Iraqi capital .,O O O O O O B-gpe O O O O O O O B-gpe O O,JJ NN NN NNS VBD CD JJ NN CC CD JJ NNS IN DT JJ NN .
+"And gunmen killed four Iraqis , including a police officer .",O O O O B-gpe O O O O O O,"CC NNS VBD CD NNS , VBG DT NN NN ."

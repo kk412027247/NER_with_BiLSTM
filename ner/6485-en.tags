@@ -1,0 +1,7 @@
+"Taiwan 's future president , Ma Ying-jeou , is a U.S.-educated lawyer who served as minister for justice and minister without portfolio during the 1990s .",B-geo O O O O B-per I-per O O O O O O O O O O O O O O O O O B-tim O,"NNP POS JJ NN , NNP NNP , VBZ DT JJ NN WP VBD IN NN IN NN CC NN IN NN IN DT NNS ."
+"Mr. Ma unseated Chen Shui-bian , the current president , as Taipei mayor in 1998 .",B-per I-per O B-per I-per O O O O O O B-geo O O B-tim O,"NNP NNP VBD NNP NNP , DT JJ NN , IN NNP NN IN CD ."
+"Last August , Mr. Ma was cleared of corruption charges filed against him .",O B-tim O B-per I-per O O O O O O O O O,"JJ NNP , NNP NNP VBD VBN IN NN NNS VBN IN PRP ."
+The charges prompted his resignation as party chairman .,O O O O O O O O O,DT NNS VBD PRP$ NN IN NN NN .
+"Prosecutors accused him of misusing $ 365,000 in government funds while Taipei mayor .",O O O O O O O O O O O B-geo O O,NNS VBD PRP IN VBG $ CD IN NN NNS IN NNP NN .
+"Mr. Ma has vowed not to provoke China with independence moves , so the two sides can co-exist and promote economic integration .",B-per I-per O O O O O B-geo O O O O O O O O O O O O O O O,"NNP NNP VBZ VBN RB TO VB NNP IN NN NNS , IN DT CD NNS MD VB CC VB JJ NN ."
+He has said he wants to open direct air and shipping links with China .,O O O O O O O O O O O O O B-geo O,PRP VBZ VBN PRP VBZ TO VB JJ NN CC NN NNS IN NNP .

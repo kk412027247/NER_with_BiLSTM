@@ -1,0 +1,7 @@
+"A strong winter storm has caused trouble for travelers , downed power lines to thousands of homes and caused deadly accidents in the midwestern United States .",O O O O O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,"DT JJ NN NN VBZ VBN NN IN NNS , VBN NN NNS TO NNS IN NNS CC VBN JJ NNS IN DT JJ NNP NNPS ."
+"In Dallas , Texas , icy conditions on Sunday prompted the cancellation of about 300 airline flights .",O B-geo O B-geo O O O O B-tim O O O O O O O O O,"IN NNP , NNP , NN NNS IN NNP VBD DT NN IN IN CD NN NNS ."
+The storm also prompted the governors of Missouri and Oklahoma to declare a state of emergency .,O O O O O O O B-geo O B-geo O O O O O O O,DT NN RB VBD DT NNS IN NNP CC NNP TO VB DT NN IN NN .
+Police in Oklahoma say icy roads were to blame for a head-on crash between a minivan and a tractor trailer truck that killed seven occupants of the van .,O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP NN NNS VBD TO VB IN DT JJ NN IN DT NN CC DT NN NN NN WDT VBD CD NNS IN DT NN .
+The seven were Mexican nationals .,O O O B-gpe O O,DT CD VBD JJ NNS .
+Five other occupants of the van were taken to the hospital .,O O O O O O O O O O O O,CD JJ NNS IN DT NN VBD VBN TO DT NN .
+Investigators said the minivan was hit after it skidded across the median of the divided highway Sunday morning about 180 kilometers west of Oklahoma City .,O O O O O O O O O O O O O O O O B-tim I-tim O O O O O B-geo I-geo O,NNS VBD DT NN VBD VBN IN PRP VBD IN DT NN IN DT VBN NN NNP NN IN CD NNS JJS IN NNP NNP .

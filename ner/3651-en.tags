@@ -1,0 +1,9 @@
+Egypt 's largest opposition group defied authorities and held anti-government protests in Cairo Sunday .,B-gpe O O O O O O O O O O O B-geo B-tim O,NNP POS JJS NN NN VBD NNS CC VBN JJ NNS IN NNP NNP .
+Several thousand riot police prevented the Muslim Brotherhood from holding a rally outside the Egyptian parliament as planned .,O O O O O O B-org I-org O O O O O O B-gpe O O O O,JJ CD NN NN VBD DT NNP NNP IN VBG DT NN IN DT JJ NN IN VBN .
+"Instead , members of the group gathered in front of a Cairo mosque , shouting demands for political reforms .",O O O O O O O O O O O B-geo O O O O O O O O,"RB , NNS IN DT NN VBD IN NN IN DT NNP NN , VBG NNS IN JJ NNS ."
+Authorities say they arrested at least 50 protesters .,O O O O O O O O O,NNS VBP PRP VBN IN JJS CD NNS .
+"Estimates of the crowd range from several hundred to 3,000 .",O O O O O O O O O O O,NNS IN DT NN VBP IN JJ CD TO CD .
+Smaller protests took place at two other Cairo locations .,O O O O O O O B-geo O O,JJR NNS VBD NN IN CD JJ NNP NNS .
+Egyptian authorities had arrested another 50 Brotherhood members before the protests .,B-gpe O O O O O B-org O O O O O,JJ NNS VBD VBN DT CD NNP NNS IN DT NNS .
+The Muslim Brotherhood calls for replacing Egypt 's secular government with an Islamic state .,O B-org I-org O O O B-org O O O O O O O O,DT NNP NNP VBZ IN VBG NNP POS JJ NN IN DT JJ NN .
+"The group was formally banned in 1954 , but its members , running in elections as independents , hold enough seats to make the Brotherhood the largest opposition group in Egypt 's parliament .",O O O O O O B-tim O O O O O O O O O O O O O O O O O B-geo O O O O O B-geo O O O,"DT NN VBD RB VBN IN CD , CC PRP$ NNS , VBG IN NNS IN NNS , VBP JJ NNS TO VB DT NN DT JJS NN NN IN NNP POS NN ."

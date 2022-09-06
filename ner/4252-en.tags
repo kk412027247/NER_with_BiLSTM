@@ -1,0 +1,7 @@
+Viktor Yushchenko,B-per I-per,NNP NNP
+Ukraine 's President Viktor Yushchenko has signed a decree ordering his country 's troops to be withdrawn from Iraq by the end of the year .,B-org O B-per I-per I-per O O O O O O O O O O O O O B-geo O O B-tim I-tim O O O,NNP POS NNP NNP NNP VBZ VBN DT NN VBG PRP$ NN POS NNS TO VB VBN IN NNP IN DT NN IN DT NN .
+"Ukraine started a phased pullout of its more than 1,600 troops in March .",B-org O O O O O O O O O O O B-tim O,NNP VBD DT VBN NN IN PRP$ JJR IN CD NNS IN NNP .
+"Last week , Mr. Yushchenko held talks in Washington with President Bush .",O O O B-per I-per O O O B-geo O B-per I-per O,"JJ NN , NNP NNP VBD NNS IN NNP IN NNP NNP ."
+"Mr. Bush thanked Ukraine for its contribution in Iraq , and said he understands Mr. Yushchenko 's need to fulfill a pledge to have the troops return home .",B-per I-per O B-org O O O O B-geo O O O O O B-per I-per O O O O O O O O O O O O O,"NNP NNP VBD NNP IN PRP$ NN IN NNP , CC VBD PRP VBZ NNP NNP POS NN TO VB DT NN TO VB DT NNS NN NN ."
+A number of Ukrainian troops have been injured and 18 have been killed in Iraq .,O O O B-gpe O O O O O O O O O O B-geo O,DT NN IN JJ NNS VBP VBN VBN CC CD VBP VBN VBN IN NNP .
+Many Ukrainians oppose the deployment in Iraq .,O B-gpe O O O O B-geo O,JJ NNS VBP DT NN IN NNP .

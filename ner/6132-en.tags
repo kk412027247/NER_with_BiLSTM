@@ -1,0 +1,6 @@
+"Discovered and claimed for Spain in 1499 , Aruba was acquired by the Dutch in 1636 .",O O O O B-geo O B-tim O B-gpe O O O O B-gpe O B-tim O,"VBN CC VBN IN NNP IN CD , NNP VBD VBN IN DT NNS IN CD ."
+The island 's economy has been dominated by three main industries .,O O O O O O O O O O O O,DT NN POS NN VBZ VBN VBN IN CD JJ NNS .
+A 19th century gold rush was followed by prosperity brought on by the opening in 1924 of an oil refinery .,O B-tim I-tim I-tim I-tim O O O O O O O O O O B-tim O O O O O,DT JJ NN NN NN VBD VBN IN NN VBN RP IN DT NN IN CD IN DT NN NN .
+The last decades of the 20th century saw a boom in the tourism industry .,O O O O O B-tim I-tim O O O O O O O O,DT JJ NNS IN DT JJ NN VBD DT NN IN DT NN NN .
+"Aruba seceded from the Netherlands Antilles in 1986 and became a separate , autonomous member of the Kingdom of the Netherlands .",B-gpe O O O B-geo I-geo O B-tim O O O O O O O O O B-org O O B-geo O,"NNP VBD IN DT NNP NNPS IN CD CC VBD DT JJ , JJ NN IN DT NNP IN DT NNP ."
+Movement toward full independence was halted at Aruba 's request in 1990 .,O O O O O O O B-geo O O O B-tim O,NN IN JJ NN VBD VBN IN NNP POS NN IN CD .

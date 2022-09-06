@@ -1,0 +1,8 @@
+"The World Health Organization says yet another person in Indonesia has died from bird flu , bringing the nation 's death toll to 55 .",O B-org I-org I-org O O O O O B-geo O O O O O O O O O O O O O O O,"DT NNP NNP NNP VBZ RB DT NN IN NNP VBZ VBN IN NN NN , VBG DT NN POS NN NN TO CD ."
+"The agency said in a statement Monday that a 27-year old woman died from the virus in Central Java province Friday , five days after she developed symptoms of the disease .",O O O O O O B-tim O O O O O O O O O O B-org I-org O B-tim O O O O O O O O O O O,"DT NN VBD IN DT NN NNP IN DT JJ JJ NN VBD IN DT NN IN NNP NNP NN NNP , CD NNS IN PRP VBD NNS IN DT NN ."
+The W.H.O. says it is still investigating how she was exposed to bird flu .,O B-org O O O O O O O O O O O O O,DT NNP VBZ PRP VBZ RB VBG WRB PRP VBD VBN TO VB NN .
+"Earlier Monday , Indonesian health authorities said Monday an elderly woman in West Java in the town of Bandung died overnight from bird flu .",O B-tim O B-gpe O O O B-tim O O O O B-geo I-geo O O O O B-geo O O O O O O,"RBR NNP , JJ NN NNS VBD NNP DT JJ NN IN NNP NNP IN DT NN IN NNP VBD RB IN NN NN ."
+"And on Saturday , an 11-year-old boy died from the virus in a Jakarta hospital .",O O B-tim O O O O O O O O O O B-geo O O,"CC IN NNP , DT JJ NN VBD IN DT NN IN DT NNP NN ."
+Indonesia has the highest number of bird flu-related deaths in the world .,B-geo O O O O O O O O O O O O,NNP VBZ DT JJS NN IN NN JJ NNS IN DT NN .
+The disease has killed at least 149 people worldwide over the past three years .,O O O O O O O O O O O B-tim I-tim O O,DT NN VBZ VBN IN JJS CD NNS JJ IN DT JJ CD NNS .
+Most victims contract the virus from dead or sick birds .,O O O O O O O O O O O,JJS NNS NN DT NN IN JJ CC JJ NNS .

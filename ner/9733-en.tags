@@ -1,0 +1,9 @@
+"A member of an Islamic terrorist group in the U.S. has been sentenced to 12.5 years in prison for plotting attacks against targets in Los Angeles , California .",O O O O O O O O O B-geo O O O O O O O O O O O O O O B-geo I-geo O B-geo O,"DT NN IN DT JJ JJ NN IN DT NNP VBZ VBN VBN TO CD NNS IN NN IN VBG NNS IN NNS IN NNP NNP , NNP ."
+Gregory Patterson pleaded guilty to conspiracy to wage war against the United States and possession of a firearm .,B-per I-per O O O O O O O O O B-geo I-geo O O O O O O,NNP NNP VBD JJ TO NN TO VB NN IN DT NNP NNPS CC NN IN DT NN .
+The 24-year-old was sentenced Monday by a U.S. District Court .,O O O O B-tim O O B-org I-org I-org O,DT JJ VBD VBN NNP IN DT NNP NNP NNP .
+Patterson was among four men charged in connection with the plot .,B-per O O O O O O O O O O O,NNP VBD IN CD NNS VBN IN NN IN DT NN .
+"Targets included the Los Angeles International Airport , U.S. military recruiting centers , and the Israeli Consulate .",O O O B-geo I-geo I-geo I-geo O B-geo O O O O O O B-gpe O O,"NNS VBD DT NNP NNP NNP NNP , NNP JJ NN NNS , CC DT JJ NN ."
+"Last month , co-conspirator Levar Washington was sentenced to 22 years imprisonment for conspiracy and weapons charges .",O O O B-org I-org I-org O O O O O O O O O O O O,"JJ NN , NN NNP NNP VBD VBN TO CD NNS NN IN NN CC NNS NNS ."
+"The men belonged to Jam'iyyat Ul-Islam Is-Saheeh , a local terrorist cell founded by Kevin James in 1997 while he was in prison .",O O O O B-geo I-geo I-geo O O O O O O O B-per I-per O B-tim O O O O O O,"DT NNS VBD TO NNP NNP NNP , DT JJ JJ NN VBN IN NNP NNP IN CD IN PRP VBD IN NN ."
+James is expected to be sentenced early next year .,B-per O O O O O O O O O,NNP VBZ VBN TO VB VBN RB JJ NN .
+"A fourth co-conspirator , Hammad Samana , was declared unfit to stand trial and is in a psychiatric facility .",O O O O B-per I-per O O O O O O O O O O O O O O,"DT JJ NN , NNP NNP , VBD VBN JJ TO VB NN CC VBZ IN DT JJ NN ."

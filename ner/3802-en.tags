@@ -1,0 +1,5 @@
+Turkey has detained 10 people with suspected links to the al-Qaida terrorist network .,B-org O O O O O O O O O B-org O O O,NNP VBZ VBN CD NNS IN JJ NNS TO DT NNP JJ NN .
+Among those arrested was a lawyer who identified himself as the leader of the group in Turkey .,O O O O O O O O O O O O O O O O B-org O,IN DT VBN VBD DT NN WP VBD PRP IN DT NN IN DT NN IN NNP .
+"The official Anatolia news agency said Saturday the suspects were detained in simultaneous operations begun in November in the capital , Ankara , Istanbul and the western city of Izmir .",O O B-geo O O O B-tim O O O O O O O O O B-tim O O O O B-geo O B-geo O O O O O B-geo O,"DT JJ NNP NN NN VBD NNP DT NNS VBD VBN IN JJ NNS VBN IN NNP IN DT NN , NNP , NNP CC DT JJ NN IN NNP ."
+Turkey has suffered several attacks blamed on al-Qaida .,B-org O O O O O O B-org O,NNP VBZ VBN JJ NNS VBN IN NNP .
+"In November 2003 , more than 60 people were killed in bombings of two synagogues , the British Consulate and a bank office in Istanbul .",O B-tim I-tim O O O O O O O O O O O O O O B-gpe B-org O O O O O B-geo O,"IN NNP CD , JJR IN CD NNS VBD VBN IN NNS IN CD NNS , DT JJ NNP CC DT NN NN IN NNP ."

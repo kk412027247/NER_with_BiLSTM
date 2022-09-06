@@ -1,0 +1,7 @@
+"Authorities in southern India say a shootout between security forces and suspected Maoist rebels has killed eight rebels , including four women .",O O O B-geo O O O O O O O O O O O O O O O O O O O,"NNS IN JJ NNP VBP DT NN IN NN NNS CC JJ NN NNS VBZ VBN CD NNS , VBG CD NNS ."
+Officials in Andhra Pradesh say police commandos led a raid against a group of rebels meeting in a densely forested area Sunday .,O O B-geo I-geo O O O O O O O O O O O O O O O O O B-tim O,NNS IN NNP NNP VBP NNS NNS VBD DT NN IN DT NN IN NNS VBG IN DT RB VBN NN NNP .
+"The officials say a senior Maoist leader was among those killed in the clash , some 400 kilometers south of the state capital , Hyderabad .",O O O O O O O O O O O O O O O O O O O O O O O O B-geo O,"DT NNS VBP DT JJ NNP NN VBD IN DT VBN IN DT NN , DT CD NNS RB IN DT NN NN , NNP ."
+Andhra Pradesh is one of several Indian states where the Maoists are active .,B-geo I-geo O O O O B-gpe O O O O O O O,NNP NNP VBZ CD IN JJ JJ NNS WRB DT NNS VBP JJ .
+Thousands of people have been killed in the violence over the past two decades .,O O O O O O O O O O O B-tim I-tim I-tim O,NNS IN NNS VBP VBN VBN IN DT NN IN DT JJ CD NNS .
+The rebels claim to be inspired by the teachings of Chinese revolutionary Mao Zedong .,O O O O O O O O O O B-gpe O B-per I-per O,DT NNS VBP TO VB VBN IN DT NNS IN JJ JJ NNP NNP .
+They say they are fighting for the rights of India 's poor and landless farmers .,O O O O O O O O O B-geo O O O O O O,PRP VBP PRP VBP VBG IN DT NNS IN NNP POS JJ CC JJ NNS .

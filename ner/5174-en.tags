@@ -1,0 +1,10 @@
+"Witnesses in Somalia 's capital say a roadside bomb explosion has killed at least 20 people , mostly women .",O O B-geo O O O O O O O O O O O O O O O O O,"NNS IN NNP POS NN VBP DT NN NN NN VBZ VBN IN JJS CD NNS , RB NNS ."
+Sunday 's early morning blast ripped through a group of female street cleaners .,B-tim O O O O O O O O O O O O O,NNP POS JJ NN NN VBD IN DT NN IN JJ NN NNS .
+"Witnesses counted 15 bodies at the scene , while five other people died after being taken to Mogadishu 's Medina Hospital .",O O O O O O O O O O O O O O O O O B-geo O B-geo I-geo O,"NNS VBD CD NNS IN DT NN , IN CD JJ NNS VBD IN VBG VBN TO NNP POS NNP NNP ."
+More than 40 others were injured .,O O O O O O O,JJR IN CD NNS VBD VBN .
+No one has claimed responsibility for the blast .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+"In a separate incident , Islamist insurgents attacked Ethiopian forces in Mogadishu 's Towfiq neighborhood early today .",O O O O O B-org O O B-gpe O O B-geo O B-geo O O B-tim O,"IN DT JJ NN , NNP NNS VBD JJ NNS IN NNP POS NNP NN RB NN ."
+Witnesses say at least three soldiers were killed .,O O O O O O O O O,NNS VBP IN JJS CD NNS VBD VBN .
+Ethiopian troops are supporting the Somali transitional government in its fight against the Islamist insurgency .,B-gpe O O O O B-gpe O O O O O O O B-org O O,JJ NNS VBP VBG DT JJ JJ NN IN PRP$ NN IN DT NNP NN .
+"Eighteen months of fighting has killed thousands of Somalis and displaced hundreds of thousands more , most of them from Mogadishu .",B-tim O O O O O O O B-gpe O O O O O O O O O O O B-geo O,"CD NNS IN NN VBZ VBN NNS IN NNS CC VBD NNS IN NNS RBR , JJS IN PRP IN NNP ."
+Somalia has not had a functioning government since 1991 when warlords overthrew dictator Mohamed Siad Barre and began fighting each other .,B-geo O O O O O O O B-tim O O O O B-per I-per I-per O O O O O O,NNP VBZ RB VBN DT JJ NN IN CD WRB NNS VBP NN NNP NNP NNP CC VBD VBG DT NN .

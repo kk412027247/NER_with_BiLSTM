@@ -1,0 +1,7 @@
+"Thousands of ethnic Albanians have marched through Kosovo 's capital , Pristina , to protest the killing of a police officer last week .",O O O B-gpe O O O B-geo O O O B-geo O O O O O O O O O O O O,"NNS IN JJ NNS VBP VBN IN NNP POS NN , NNP , TO VB DT NN IN DT NN NN JJ NN ."
+"The demonstrators carried photographs of the officer , Triumf Riza , who was shot to death in a parking lot .",O O O O O O O O B-org I-org O O O O O O O O O O O,"DT NNS VBD NNS IN DT NN , NNP NNP , WP VBD VBN TO NN IN DT NN NN ."
+Reaction to the shooting has highlighted citizens ' frustration with the high rate of crime in the area .,O O O O O O O O O O O O O O O O O O O,NN TO DT NN VBZ VBN NNS POS NN IN DT JJ NN IN NN IN DT NN .
+"The United Nations administrator of Kosovo , Joachim Ruecker , released a statement expressing full support for the demonstrators .",O B-org I-org O O B-geo O B-per I-per O O O O O O O O O O O,"DT NNP NNPS NN IN NNP , NNP NNP , VBD DT NN VBG JJ NN IN DT NNS ."
+"He called the murder of the policeman "" a heinous crime and a terrible tragedy . """,O O O O O O O O O O O O O O O O O,PRP VBD DT NN IN DT NN RQU DT JJ NN CC DT JJ NN . LQU
+He said the outpouring of emotion after Riza 's death is a sign that the people of Kosovo do not accept crime and violence .,O O O O O O O B-org O O O O O O O O O B-geo O O O O O O O,PRP VBD DT NN IN NN IN NNP POS NN VBZ DT NN IN DT NNS IN NNP VBP RB VB NN CC NN .
+Kosovo has been under U.N. administration since 1999 .,B-geo O O O B-geo O B-tim I-tim O,NNP VBZ VBN IN NNP NN IN CD .

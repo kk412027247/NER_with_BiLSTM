@@ -1,0 +1,6 @@
+"A man walked into a Circle-K , put a $ 20 bill on the counter and asked for change .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBD IN DT NN , VBD DT $ CD NN IN DT NN CC VBD IN NN ."
+"When the clerk opened the cash drawer , the man pulled out a gun and asked for all the cash in the register , which the clerk promptly provided .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"WRB DT NN VBD DT NN NN , DT NN VBD RP DT NN CC VBD IN PDT DT NN IN DT NN , WDT DT NN RB VBD ."
+"The man took the cash from the clerk and fled , leaving the $ 20 bill on the counter .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBD DT NN IN DT NN CC VBD , VBG DT $ CD NN IN DT NN ."
+The total amount of cash he got from the drawer ?,O O O O O O O O O O O,DT JJ NN IN NN PRP VBD IN DT NN .
+Fifteen dollars .,O O O,CD NNS .
+"If someone points a gun at you and gives you money , was a crime committed ?",O O O O O O O O O O O O O O O O O,"IN DT VBZ DT NN IN PRP CC VBZ PRP NN , VBD DT NN VBN ."

@@ -1,0 +1,6 @@
+Iran has officially confirmed it has detained an Iranian American in Tehran a week after the United States demanded his release and the release of three other Iranian-Americans .,B-geo O O O O O O O B-gpe I-gpe O B-tim O O O O B-geo I-geo O O O O O O O O O O O,NNP VBZ RB VBN PRP VBZ VBN DT JJ NN IN NNP DT NN IN DT NNP NNPS VBD PRP$ NN CC DT NN IN CD JJ NNS .
+"A foreign ministry spokesman confirmed the detainment of Ali Shakeri , a peace activist from California Sunday .",O O O O O O O O B-geo I-geo O O O O O B-geo B-tim O,"DT JJ NN NN VBD DT NN IN NNP NNP , DT NN NN IN NNP NNP ."
+"Iranian officials previously accused three of the dual nationals of endangering national security , but no information has been given about Shakeri .",B-gpe O O O O O O O O O O O O O O O O O O O O B-geo O,"JJ NNS RB VBD CD IN DT JJ NNS IN VBG JJ NN , CC DT NN VBZ VBN VBN IN NNP ."
+"President Bush has called for the detainees to be freed "" immediately and unconditionally . """,B-per I-per O O O O O O O O O O O O O O,NNP NNP VBZ VBN IN DT NNS TO VB VBN LQU RB CC RB . LQU
+He said the four pose no threat to Iran .,O O O O O O O O B-geo O,PRP VBD DT CD VBP DT NN TO NNP .
+He noted they were in Iran either to visit family or conduct humanitarian work .,O O O O O B-geo O O O O O O O O O,PRP VBD PRP VBD IN NNP CC TO VB NN CC NN JJ NN .

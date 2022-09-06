@@ -1,0 +1,8 @@
+The U.S. House of Representatives has narrowly passed a plan to cut federal spending by nearly $ 40 billion over the next five years .,O B-org I-org I-org I-org O O O O O O O O O O O O O O O O O B-tim O O,DT NNP NNP IN NNP VBZ RB VBN DT NN TO VB JJ NN IN RB $ CD CD IN DT JJ CD NNS .
+The bill includes cuts in health care and other social welfare programs .,O O O O O O O O O O O O O,DT NN VBZ NNS IN NN NN CC JJ JJ NN NNS .
+Lawmakers approved the measure by a vote of 212-to-206 .,O O O O O O O O O O,NNS VBD DT NN IN DT NN IN CD .
+"During the overnight session , the house also passed a $ 453 billion dollar defense bill by a vote of 308-to-106 .",O O B-tim I-tim O O O O O O O O O O O O O O O O O O,"IN DT JJ NN , DT NN RB VBD DT $ CD CD NN NN NN IN DT NN IN CD ."
+"It includes money for hurricane relief , bird flu preventive measures , oil drilling in Alaska 's Arctic wildlife refuge , and military operations in Iraq and Afghanistan .",O O O O O O O O O O O O O O O B-geo O B-geo O O O O O O O B-geo O B-geo O,"PRP VBZ NN IN NN NN , NN NN JJ NNS , NN NN IN NNP POS NNP NN NN , CC JJ NNS IN NNP CC NNP ."
+"Many Democrats complained they were forced to approve the oil drilling provision , which they oppose , because it was attached to the defense bill .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNPS VBD PRP VBD VBN TO VB DT NN NN NN , WDT PRP VBP , IN PRP VBD VBN TO DT NN NN ."
+The measures will be debated by the Senate this week .,O O O O O O O B-org O O O,DT NNS MD VB VBN IN DT NNP DT NN .
+Lawmakers are trying to finish major pieces of legislation before a long holiday recess .,O O O O O O O O O O O O O O O,NNS VBP VBG TO VB JJ NNS IN NN IN DT JJ NN NN .

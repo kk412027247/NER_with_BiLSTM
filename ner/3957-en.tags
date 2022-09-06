@@ -1,0 +1,6 @@
+Carib Indians occupied the islands for hundreds of years before the British began settlement in 1623 .,B-org B-gpe O O O O O O O O O B-gpe O O O B-tim O,NNP NNS VBD DT NNS IN NNS IN NNS IN DT NNS VBD NN IN CD .
+The islands became an associated state of the UK with full internal autonomy in 1967 .,O O O O O O O O B-org O O O O O B-tim O,DT NNS VBD DT VBN NN IN DT NNP IN JJ JJ NN IN CD .
+The island of Anguilla rebelled and was allowed to secede in 1971 .,O O O B-geo O O O O O O O B-tim O,DT NN IN NNP VBD CC VBD VBN TO VB IN CD .
+Saint Kitts and Nevis achieved independence in 1983 .,B-org I-org O B-per O O O B-tim O,NNP NNP CC NNP VBD NN IN CD .
+"In 1998 , a vote in Nevis on a referendum to separate from Saint Kitts fell short of the two-thirds majority needed .",O B-tim O O O O B-per O O O O O O B-per I-per O O O O O O O O,"IN CD , DT NN IN NNP IN DT NN TO VB IN NNP NNP VBD RB IN DT NNS NN VBN ."
+Nevis continues in its efforts to separate from Saint Kitts .,B-per O O O O O O O B-per I-per O,NNP VBZ IN PRP$ NNS TO VB IN NNP NNP .

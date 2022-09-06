@@ -1,0 +1,7 @@
+US officials say an al-Qaida leader killed in a drone attack in northwestern Pakistan was not Osama bin Laden .,B-geo O O O B-org O O O O O O O O B-geo O O B-per I-per I-per O,NNP NNS VBP DT NNP NN VBN IN DT NN NN IN JJ NNP VBD RB NNP NNP NNP .
+U.S. officials say a top al-Qaida leader has been killed in a drone attack in restive northwestern Pakistan .,B-geo O O O O B-org O O O O O O O O O O O B-geo O,NNP NNS VBP DT JJ NNP NN VBZ VBN VBN IN DT NN NN IN JJ JJ NNP .
+"The officials did not identify the person killed , but they said it was not al-Qaida leader Osama bin Laden .",O O O O O O O O O O O O O O O B-org O B-per I-per I-per O,"DT NNS VBD RB VB DT NN VBN , CC PRP VBD PRP VBD RB NNP NN NNP NNP NNP ."
+"A U.S. television network , NBC , first reported the drone attack earlier this week .",O B-geo O O O B-org O O O O O O O O O O,"DT NNP NN NN , NNP , RB VBD DT NN NN RBR DT NN ."
+The exact date of the attack is unclear .,O O O O O O O O O,DT JJ NN IN DT NN VBZ JJ .
+"Earlier this week , Pakistani officials said a suspected U.S. drone attack killed at least three people in northwestern Pakistan .",O O O O B-gpe O O O O B-geo O O O O O O O O O B-geo O,"RBR DT NN , JJ NNS VBD DT JJ NNP NN NN VBD IN JJS CD NNS IN JJ NNP ."
+Intelligence officials say the pace of attacks by drones ( unmanned aircraft ) has increased under the Obama administration .,O O O O O O O O O O O O O O O O O B-per O O,NN NNS VBP DT NN IN NNS IN NNS LRB JJ NN RRB VBZ VBN IN DT NNP NN .

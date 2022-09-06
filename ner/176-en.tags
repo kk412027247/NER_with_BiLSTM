@@ -1,0 +1,9 @@
+The Lebanese army says it is closing in on militants inside a Palestinian refugee camp in northern Lebanon .,O B-gpe O O O O O O O O O O B-gpe O O O O B-geo O,DT JJ NN VBZ PRP VBZ VBG RP IN NNS IN DT JJ NN NN IN JJ NNP .
+Lebanese troops bombarded Islamic militant positions Saturday and the Fatah al-Islam militants responded with artillery and rocket fire .,B-gpe O O O O O B-tim O O B-org I-org O O O O O O O O,JJ NNS VBD JJ JJ NNS NNP CC DT NNP NNP NNS VBD IN NN CC NN NN .
+"Military sources say militants launched eight Katyusha rockets at positions outside the Nahr el-Bared camp , near the city of Tripoli .",O O O O O O O O O O O O B-org I-org O O O O O O B-geo O,"JJ NNS VBP NNS VBD CD NNP NNS IN NNS IN DT NNP JJ NN , IN DT NN IN NNP ."
+No military casualties were confirmed from today 's violence .,O O O O O O B-tim I-tim I-tim O,DT JJ NNS VBD VBN IN NN POS NN .
+But military officials say a soldier who was wounded in clashes Friday died today .,O O O O O O O O O O O B-tim O B-tim O,CC JJ NNS VBP DT NN WP VBD VBN IN NNS NNP VBD NN .
+At least 11 soldiers have been killed in fighting since Thursday .,O O O O O O O O O B-tim I-tim O,IN JJS CD NNS VBP VBN VBN IN VBG IN NNP .
+"More than 170 people , including at least 96 Lebanese soldiers , have been killed since the standoff began May 20 .",O O O O O O O O O B-gpe O O O O O O O O O B-tim I-tim O,"JJR IN CD NNS , VBG IN JJS CD JJ NNS , VBP VBN VBN IN DT NN VBD NNP CD ."
+Nearly all of the Palestinian refugees living in the camp have fled .,O O O O B-gpe O O O O O O O O,RB DT IN DT JJ NNS VBG IN DT NN VBP VBN .
+"Last month , Lebanese officials claimed victory in the fighting , but daily firefights have continued since then .",O O O B-gpe O O O O O O O O O O O O O O O,"JJ NN , JJ NNS VBD NN IN DT NN , CC JJ NNS VBP VBN IN RB ."

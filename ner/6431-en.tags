@@ -1,0 +1,4 @@
+Resistance by native Caribs prevented colonization on Saint Vincent until 1719 .,O O O O O O O B-per I-per O B-tim O,NN IN JJ NNS VBD NN IN NNP NNP IN CD .
+"Disputed between France and the United Kingdom for most of the 18th century , the island was ceded to the latter in 1783 .",O O B-geo O O B-org I-org O O O O B-tim I-tim O O O O O O O O O B-tim O,"VBN IN NNP CC DT NNP NNP IN JJS IN DT JJ NN , DT NN VBD VBN TO DT NN IN CD ."
+"Between 1960 and 1962 , Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies .",B-tim I-tim I-tim I-tim O B-per I-per O O B-org O O O O O O O B-org O O B-geo I-geo O,"IN CD CC CD , NNP NNP CC DT NNP VBD DT JJ JJ NN IN DT NNP IN DT NNP NNPS ."
+Autonomy was granted in 1969 and independence in 1979 .,O O O O B-tim O O O B-tim O,NNP VBD VBN IN CD CC NN IN CD .

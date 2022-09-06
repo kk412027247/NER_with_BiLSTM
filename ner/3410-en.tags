@@ -1,0 +1,7 @@
+A rocket was fired on the Afghan capital of Kabul Saturday as more than 600 delegates from Pakistan and Afghanistan held a third day of talks aimed at improving security and strengthening bilateral relations .,O O O O O O B-gpe O O B-org B-tim O O O O O O B-org I-org I-org O O O O O O O O O O O O O O O,DT NN VBD VBN IN DT JJ NN IN NNP NNP IN JJR IN CD NNS IN NNP CC NNP VBD DT JJ NN IN NNS VBN IN VBG NN CC VBG JJ NNS .
+"Interior Ministry officials say the rocket landed in an open area , several kilometers from a high security zone where the meeting was being held .",B-org I-org O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNS VBP DT NN VBD IN DT JJ NN , JJ NNS IN DT JJ NN NN WRB DT NN VBD VBG VBN ."
+No damage or casualties have been reported .,O O O O O O O O,DT NN CC NNS VBP VBN VBN .
+"The four-day peace conference , or grand jirga , focuses on specific issues dividing the two countries .",O O O O O O O O O O O O O O O O O O,"DT JJ NN NN , CC JJ NN , VBZ IN JJ NNS VBG DT CD NNS ."
+Many Afghans expressed hope that the conference will help reduce violence in both countries .,O B-gpe O O O O O O O O O O O O O,JJ NNS VBD NN IN DT NN MD VB VB NN IN DT NNS .
+Pakistani President Pervez Musharraf is expected to attend the closing session on Sunday .,B-gpe B-per I-per I-per O O O O O O O O B-tim O,JJ NNP NNP NNP VBZ VBN TO VB DT NN NN IN NNP .
+A second conference is planned for Pakistan at a later date .,O O O O O O B-org O O B-tim I-tim O,DT JJ NN VBZ VBN IN NNP IN DT JJ NN .

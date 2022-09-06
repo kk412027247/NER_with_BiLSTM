@@ -1,0 +1,5 @@
+"A powerful bomb has ripped through a section of the Philippine House of Representatives in Manila , killing at least two people and injuring at least nine others .",O O O O O O O O O O B-org I-org I-org I-org O B-geo O O O O O O O O O O O O O,"DT JJ NN VBZ VBN IN DT NN IN DT JJ NNP IN NNPS IN NNP , VBG IN JJS CD NNS CC VBG IN JJS CD NNS ."
+"The blast occurred in the south wing of the building Tuesday evening local time , as the House was ending its session .",O O O O O O O O O O B-tim I-tim O B-tim O O O B-org O O O O O,"DT NN VBD IN DT JJ NN IN DT NN NNP NN JJ NN , IN DT NNP VBD VBG PRP$ NN ."
+"Emergency crews rushed to the scene , and police have sealed off streets around the building , in the Quezon City area .",O O O O O O O O O O O O O O O O O O O B-geo I-geo O O,"NN NNS VBD TO DT NN , CC NNS VBP VBN RP NNS IN DT NN , IN DT NNP NNP NN ."
+One of those killed was a Philippine lawmaker .,O O O O O O B-org O O,CD IN DT VBN VBD DT JJ NN .
+There was no immediate claim of responsibility for the bombing .,O O O O O O O O O O O,EX VBD DT JJ NN IN NN IN DT NN .

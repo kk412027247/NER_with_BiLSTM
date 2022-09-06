@@ -1,0 +1,8 @@
+Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe .,B-org O O O O O B-geo B-tim O O O O O O O O O O O O O B-geo O,NNP VBD DT JJ NN IN NNP CD CC IN JJ NNS VBD IN DT NN IN NNP NNP NN IN NNP .
+"The kingdom eventually became part of the polyglot Austro-Hungarian Empire , which collapsed during World War I .",O O O O O O O O O O O O O O B-eve I-eve I-eve O,"DT NN RB VBD NN IN DT NN JJ NN , WDT VBD IN NNP NNP NNP ."
+The country fell under Communist rule following World War II .,O O O O O O O O O B-eve O,DT NN VBD IN JJ NN VBG NNP NNP NNP .
+"In 1956 , a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow .",O B-tim O O O O O O O O O B-org I-org O O O O O O O O B-tim O,"IN CD , DT NN CC DT VBN NN IN DT NNP NNP VBD VBN IN DT JJ JJ NN IN NNP ."
+"Under the leadership of Janos KADAR in 1968 , Hungary began liberalizing its economy , introducing so-called "" Goulash Communism . """,O O O O B-geo I-geo O B-tim O B-org O O O O O O O O O O O O,"IN DT NN IN NNP NNP IN CD , NNP VBD VBG PRP$ NN , VBG JJ RQU NNP NNP . LQU"
+Hungary held its first multiparty elections in 1990 and initiated a free market economy .,B-org O O O O O O B-tim O O O O O O O,NNP VBD PRP$ JJ JJ NNS IN CD CC VBD DT JJ NN NN .
+It joined NATO in 1999 and the EU five years later .,O O B-org O B-tim O O B-org B-tim O B-tim O,PRP VBD NNP IN CD CC DT NNP CD NNS RB .
+"In 2011 , Hungary assumed the six-month rotating presidency of the EU for the first time .",O B-tim O B-org O O B-tim O O O O B-org O O O O O,"IN CD , NNP VBD DT JJ VBG NN IN DT NNP IN DT JJ NN ."

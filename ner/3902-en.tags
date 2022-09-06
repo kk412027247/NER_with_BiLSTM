@@ -1,0 +1,9 @@
+The Vatican says Pope John Paul 's condition has worsened .,O O O B-per I-per I-per O O O O O,DT NNP VBZ NNP NNP NNP POS NN VBZ VBN .
+"The Vatican Friday said the pontiff 's breathing has become shallow , he is facing kidney problems , and his respiratory and circulatory difficulties have increased .",O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBD DT NN POS NN VBZ VBN JJ , PRP VBZ VBG NN NNS , CC PRP$ JJ CC JJ NNS VBP VBN ."
+"Earlier , spokesman Joaquin Navarro-Valls said the pope received Vatican officials in his apartment and asked for scriptures to be read .",O O O B-per I-per O O O O O O O O O O O O O O O O O,"RB , NN NNP NNP VBD DT NN VBD NNP NNS IN PRP$ NN CC VBD IN NNS TO VB VBN ."
+He also celebrated Mass .,O O O O O,PRP RB VBD NNP .
+Cardinal Camillo Ruini celebrated a public Mass in Rome Friday for the pope .,B-per I-per I-per O O O O O B-geo B-tim O O O O,NNP NNP NNP VBD DT JJ NNP IN NNP NNP IN DT NN .
+Officials Friday also announced the appointment of a number of bishops and other church officials .,O B-tim O O O O O O O O O O O O O O,NNS NNP RB VBD DT NN IN DT NN IN NNS CC JJ NN NNS .
+"The Vatican said Thursday the pontiff suffered a "" cardio-circulatory collapse "" after developing a high fever from a urinary tract infection .",O O O B-tim O O O O O O O O O O O O O O O O O O O,DT NNP VBD NNP DT NN VBD DT RQU JJ NN LQU IN VBG DT JJ NN IN DT JJ NN NN .
+"Officials said the pope was informed of the gravity of his situation , but wanted to remain at his apartment in the Vatican .",O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBD DT NN VBD VBN IN DT NN IN PRP$ NN , CC VBD TO VB IN PRP$ NN IN DT NNP ."
+He underwent a procedure in February to ease breathing difficulties .,O O O O O B-tim O O O O O,PRP VBD DT NN IN NNP TO VB NN NNS .

@@ -1,0 +1,10 @@
+Gunmen in Iraq kidnapped a Catholic archbishop Monday and insurgents hit security forces in a series of attacks that killed at least 20 people .,O O B-geo O O O O B-tim O O O O O O O O O O O O O O O O O,NNS IN NNP VBD DT JJ NN NNP CC NNS VBD NN NNS IN DT NN IN NNS WDT VBD IN JJS CD NNS .
+"The Vatican called the kidnapping of the Syrian Catholic Church 's Mosul archbishop , Basile Georges Casmoussa , a terrorist act .",O O O O O O O B-gpe B-org I-org O B-org O O B-per I-per B-org O O O O O,"DT NNP VBD DT NN IN DT JJ NNP NNP POS NNP NN , NNP NNP NNP , DT JJ NN ."
+"Meanwhile , an attack on a checkpoint near Baquba killed seven Iraqi guardsmen and a civilian .",O O O O O O O O B-geo O O B-gpe O O O O O,"RB , DT NN IN DT NN IN NNP VBD CD JJ NNS CC DT JJ ."
+Terrorists loyal to al-Qaida-linked Abu Musab al-Zarqawi claimed responsibility .,O O O O B-per I-per I-per O O O,NNS JJ TO JJ NNP NNP NNP VBD NN .
+"Later , a car bomb outside a police station in Baiji killed at least seven Iraqi officers .",B-tim O O O O O O O O O B-geo O O O O B-gpe O O,"RB , DT NN NN IN DT NN NN IN NNP VBD IN JJS CD JJ NNS ."
+"Insurgents also attacked police in Sharqat and Dour , killing one officer in each city .",O O O O O B-geo O B-geo O O O O O O O O,"NNS RB VBD NNS IN NNP CC NNP , VBG CD NN IN DT NN ."
+"Near Fallujah , two U.S. soldiers were killed in action .",B-per I-per O O B-geo O O O O O O,"NNP NNP , CD NNP NNS VBD VBN IN NN ."
+No other details were released .,O O O O O O,DT JJ NNS VBD VBN .
+"And in Basra , gunmen killed a security guard at a polling place for January 30th 's elections .",O O B-geo O O O O O O O O O O O B-tim I-tim O O O,"CC IN NNP , NNS VBD DT NN NN IN DT VBG NN IN NNP NNP POS NNS ."
+U.S. forces have detained 91 suspected insurgents since Saturday as they step up security for the vote .,B-geo O O O O O O B-tim I-tim O O O O O O O O O,NNP NNS VBP VBN CD JJ NNS IN NNP IN PRP VBP RB NN IN DT NN .

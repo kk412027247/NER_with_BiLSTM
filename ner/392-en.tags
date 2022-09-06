@@ -1,0 +1,7 @@
+The first suspect formally charged in connection with the failed July 21 bombing of the London subway is expected to face a British judge Thursday .,O O O O O O O O O O B-tim I-tim O O O B-geo I-geo O O O O O B-gpe O B-tim O,DT JJ NN RB VBN IN NN IN DT VBN NNP CD NN IN DT NNP NN VBZ VBN TO VB DT JJ NN NNP .
+Police say Ismael Abdurahman allegedly withheld information that could have led them to those suspected of carrying out or planning terrorism .,O O B-per I-per O O O O O O O O O O O O O O O O O O,NNS VBP NNP NNP RB VBD NN WDT MD VB VBN PRP TO DT VBN IN VBG RP CC VBG NN .
+Police initially arrested him on suspicion of harboring a suspect one week after the attempted bombing .,O O O O O O O O O O O O O O O O O,NNS RB VBD PRP IN NN IN VBG DT NN CD NN IN DT JJ NN .
+"A total of 14 people are now in custody in connection with the failed attack , including all four bombers .",O O O O O O O O O O O O O O O O O O O O O,"DT NN IN CD NNS VBP RB IN NN IN NN IN DT JJ NN , VBG DT CD NNS ."
+"One suspect , Hamdi Isaac , was arrested in Italy .",O O O B-per I-per O O O O B-geo O,"CD NN , NNP NNP , VBD VBN IN NNP ."
+Britain has formally requested his extradition .,B-gpe O O O O O O,NNP VBZ RB VBN PRP$ NN .
+A prosecutor in Rome told Italian radio that extradition could take weeks while authorities investigate whether Mr. Isaac committed any crimes in Italy .,O O O B-geo O B-gpe O O O O O O O O O O B-per I-per O O O O B-geo O,DT NN IN NNP VBD JJ NN IN NN MD VB NNS IN NNS VBP IN NNP NNP VBD DT NNS IN NNP .

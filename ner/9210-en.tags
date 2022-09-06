@@ -1,0 +1,7 @@
+"India has test-fired a short-range surface-to-air missile , part of a series of recent tests of different missile types .",B-geo O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN DT JJ JJ NN , NN IN DT NN IN JJ NNS IN JJ NN NNS ."
+Sunday 's launch was conducted at the country 's main testing center at Chandipur in the eastern coastal state of Orissa .,B-tim O O O O O O O O O O O O B-geo O O O O O O B-geo O,NNP POS NN VBD VBN IN DT NN POS JJ NN NN IN NNP IN DT JJ JJ NN IN NNP .
+"The solid fuel-propelled missile , known as Trishul , is designed to target aircraft and sea-skimming missiles .",O O O O O O O B-org O O O O O O O O O O,"DT JJ JJ NN , VBN IN NNP , VBZ VBN TO VB NN CC JJ NNS ."
+It has a range of nine kilometers .,O O O O O O O O,PRP VBZ DT NN IN CD NNS .
+India also tested the system in early December .,B-geo O O O O O O B-tim O,NNP RB VBD DT NN IN JJ NNP .
+Officials say the Trishul is the Indian version of the anti-missile Patriot system built by U.S.-based Raytheon .,O O O B-org O O B-gpe O O O O O O O O B-org I-org O,NNS VBP DT NNP VBZ DT JJ NN IN DT JJ NN NN VBN IN JJ NN .
+"India is developing the Trishul for use by its army , navy and air force .",B-geo O O O B-org O O O O O O O O O O O,"NNP VBZ VBG DT NNP IN NN IN PRP$ NN , NN CC NN NN ."

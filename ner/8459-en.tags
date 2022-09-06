@@ -1,0 +1,4 @@
+Chinese state media say an explosion at a chemical plant in eastern China has killed at least 14 people and injured 30 others .,B-gpe O O O O O O O O O O B-geo I-geo O O O O O O O O O O O,JJ NN NNS VBP DT NN IN DT NN NN IN JJ NNP VBZ VBN IN JJS CD NNS CC VBN CD NNS .
+The official Xinhua news agency says the blast happened Friday at a chemical plant in Anhui province 's Dangtu County .,O O B-org O O O O O O B-tim O O O O O B-geo O O B-geo I-geo O,DT JJ NNP NN NN VBZ DT NN VBD NNP IN DT NN NN IN NNP NN POS NNP NNP .
+It is not immediately clear how many workers were in the plant at the time of the explosion .,O O O O O O O O O O O O O O O O O O O,PRP VBZ RB RB JJ WRB JJ NNS VBD IN DT NN IN DT NN IN DT NN .
+Xinhua says the plant produces explosives for civilian uses such as mining .,B-org O O O O O O O O O O O O,NNP VBZ DT NN VBZ NNS IN JJ NNS JJ IN NN .

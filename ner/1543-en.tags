@@ -1,0 +1,9 @@
+"Iraqi police say a bomb exploded Monday inside a bus in central Baghdad , killing four people .",B-gpe O O O O O B-tim O O O O O B-geo O O O O O,"JJ NNS VBP DT NN VBD NNP IN DT NN IN JJ NNP , VBG CD NNS ."
+Police say the bus was heading for the mainly Shi'ite district of Karradah when the bomb went off .,O O O O O O O O O O O O B-geo O O O O O O,NNS VBP DT NN VBD VBG IN DT RB JJ NN IN NNP WRB DT NN VBD RB .
+At least four people were wounded .,O O O O O O O,IN JJS CD NNS VBD VBN .
+"On Sunday , three car bombs exploded in mainly Shi'ite areas of Baghdad , killing at least 60 people .",O B-tim O O O O O O O O O O B-geo O O O O O O O,"IN NNP , CD NN NNS VBD IN RB JJ NNS IN NNP , VBG IN JJS CD NNS ."
+It was the worst violence since U.S. and Iraqi forces began a new security campaign in the city last week .,O O O O O O B-geo O B-gpe O O O O O O O O O O O O,PRP VBD DT JJS NN IN NNP CC JJ NNS VBD DT JJ NN NN IN DT NN JJ NN .
+Sunday 's blasts also wounded more than 100 people .,B-tim O O O O O O O O O,NNP POS NNS RB VBD JJR IN CD NNS .
+Officials say most of the casualties were caused by two car bombs at an outdoor market in the New Baghdad district .,O O O O O O O O O O O O O O O O O O B-geo I-geo O O,NNS VBP JJS IN DT NNS VBD VBN IN CD NN NNS IN DT JJ NN IN DT NNP NNP NN .
+A third car bomb exploded in Sadr City .,O O O O O O B-geo I-geo O,DT JJ NN NN VBD IN NNP NNP .
+"In another development , the U.S. military says two American soldiers died Saturday on patrol in Baghdad , and a Marine was killed in western al-Anbar province .",O O O O O B-geo O O O B-gpe O O B-tim O O O B-geo O O O B-org O O O O O O O,"IN DT NN , DT NNP NN VBZ CD JJ NNS VBD NNP IN NN IN NNP , CC DT NN VBD VBN IN JJ JJ NN ."

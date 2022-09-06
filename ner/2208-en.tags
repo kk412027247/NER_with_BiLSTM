@@ -1,0 +1,5 @@
+"United Nations peacekeeping troops in Haiti have surrounded the residence of ousted President Jean-Bertrand Aristide , threatening to forcefully evict demobilized soldiers who have seized the compound .",B-org I-org O O O B-geo O O O O O O B-per I-per I-per O O O O O O O O O O O O O,"NNP NNPS VBG NNS IN NNP VBP VBN DT NN IN JJ NNP NNP NNP , VBG TO RB VB JJ NNS WP VBP VBN DT NN ."
+Haiti 's interim government has ordered the rebels out of the compound in the suburb of Tabarre .,B-geo O O O O O O O O O O O O O O O B-geo O,NNP POS JJ NN VBZ VBN DT NNS IN IN DT NN IN DT NN IN NNP .
+The government said Thursday U.N. troops will do whatever is necessary to clear the residence .,O O O B-tim B-geo O O O O O O O O O O O,DT NN VBD NNP NNP NNS MD VB WDT VBZ JJ TO VB DT NN .
+The ex-soldiers - who helped lead the three-week rebellion that ousted Mr. Aristide in February - moved into the compound on Wednesday .,O O O O O O O O O O O B-per I-per O B-tim O O O O O O B-tim O,DT NNS : WP VBD VB DT JJ NN WDT VBD NNP NNP IN NNP : VBD IN DT NN IN NNP .
+Mr. Aristide is in exile in South Africa .,B-per I-per O O O O B-geo I-geo O,NNP NNP VBZ IN NN IN NNP NNP .

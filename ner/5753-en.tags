@@ -1,0 +1,7 @@
+Family and friends of international aid worker Margaret Hassan held a memorial service at London 's Westminster Cathedral Saturday .,O O O O O O O B-per I-per O O O O O B-geo O B-org I-org B-tim O,NN CC NNS IN JJ NN NN NNP NNP VBD DT JJ NN IN NNP POS NNP NNP NNP .
+"The Roman Catholic Archbishop of Westminster , Cardinal Cormac Murphy-O'Connor , presided over the funeral mass .",O B-per I-per I-per O B-org O B-per I-per I-per O O O O O O O,"DT NNP NNP NNP IN NNP , NNP NNP NNP , VBD IN DT JJ NN ."
+"Unknown militants kidnapped Mrs. Hassan , the director of the Baghdad office of Care International , in October .",O O O B-per I-per O O O O O B-geo O O B-org I-org O O B-tim O,"JJ NNS VBD NNP NNP , DT NN IN DT NNP NN IN NNP NNP , IN NNP ."
+"A video released to the Arabic news channel Al-Jazeera in November showed the murder of a western woman , believed to be Mrs. Hassan .",O O O O O B-geo O O O O B-tim O O O O O O O O O O O B-per I-per O,"DT NN VBN TO DT NNP NN NN NNP IN NNP VBD DT NN IN DT JJ NN , VBN TO VB NNP NNP ."
+Her body has never been recovered .,O O O O O O O,PRP$ NN VBZ RB VBN VBN .
+But family members and British officials say they believe she is dead .,O O O O B-gpe O O O O O O O O,CC NN NNS CC JJ NNS VBP PRP VBP PRP VBZ JJ .
+"Mrs. Hassan was born in Ireland , but lived in Iraq for 30 years and was married to an Iraqi .",B-per I-per O O O B-geo O O O O B-geo O B-tim O O O O O O B-gpe O,"NNP NNP VBD VBN IN NNP , CC VBD IN NNP IN CD NNS CC VBD VBN TO DT NN ."

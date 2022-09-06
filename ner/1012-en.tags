@@ -1,0 +1,5 @@
+Oil prices soared to a record high of $ 62.30 a barrel in New York trading on Monday after Saudi Arabia 's King Fahd died .,O O O O O O O O O O O O O B-geo I-geo O O B-tim O B-org I-org I-org I-org I-org O O,NN NNS VBD TO DT NN NN IN $ CD DT NN IN NNP NNP NN IN NNP IN NNP NNP POS NNP NNP VBD .
+"In London , Brent crude also hit a record high price $ 60.98 a barrel .",O B-geo O B-per O O O O O O O O O O O O,"IN NNP , NNP NN RB VBD DT NN JJ NN $ CD DT NN ."
+"Prices rose more than $ 1.5 , even though analysts expect no changes in Saudi oil policy .",O O O O O O O O O O O O O O O O O O,"NNS VBD JJR IN $ CD , RB IN NNS VBP DT NNS IN JJ NN NN ."
+Saudi Arabia is the world 's largest oil exporter and a key member of the Organization of Petroleum Exporting Countries .,B-per I-per O O O O O O O O O O O O O B-org I-org I-org I-org I-org O,NNP NNP VBZ DT NN POS JJS NN NN CC DT JJ NN IN DT NNP IN NNP NNP NNPS .
+Rising demand and supply concerns have pushed oil prices upward by 40 percent over the past year .,O O O O O O O O O O O O O O O B-tim O O,VBG NN CC NN NNS VBP VBN NN NNS RB IN CD NN IN DT JJ NN .

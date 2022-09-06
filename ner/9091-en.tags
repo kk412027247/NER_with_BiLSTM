@@ -1,0 +1,8 @@
+An advance team of Chinese engineers and medical officers arrived in Sudan 's war-torn Darfur region Saturday .,O O O O B-gpe O O O O O O B-geo O O O O B-tim O,DT NN NN IN JJ NNS CC JJ NNS VBD IN NNP POS JJ NNP NN NNP .
+A United Nations spokesman says the 135 personnel are the first of a 315-member army engineering unit that will support that joint African Union-U.N. peacekeeping mission to Darfur .,O B-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP NN VBZ DT CD NNS VBP DT NN IN DT JJ NN NN NN WDT MD VB DT JJ NNP NNP VBG NN TO NNP .
+The rest of the Chinese force is due to arrive in December .,O O O O B-gpe O O O O O O B-tim O,DT NN IN DT JJ NN VBZ JJ TO VB IN NNP .
+"The Chinese engineering team will dig wells and build roads and bridges in preparation for the deployment of the 26,000-member peacekeeping force scheduled to begin arriving in January .",O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O B-tim O,DT JJ NN NN MD VB NNS CC VB NNS CC NNS IN NN IN DT NN IN DT JJ NN NN VBN TO VB VBG IN NNP .
+"That force will replace 7,000 beleaguered African Union peacekeepers .",O O O O O O B-org I-org O O,DT NN MD VB CD JJ NNP NNP NNS .
+The Sudanese government has welcomed the Chinese mission to Darfur .,O B-gpe O O O O B-gpe O O O O,DT JJ NN VBZ VBN DT JJ NN TO NNP .
+But critics object to Beijing 's involvement because they say Chinese-made weapons that have found their way to the troubled region have contributed to genocide and robbery .,O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O,CC NNS VBP TO NNP POS NN IN PRP VBP JJ NNS WDT VBP VBN PRP$ NN TO DT JJ NN VBP VBN TO NN CC NN .
+China is the biggest buyer of Sudan 's oil .,B-gpe O O O O O B-geo O O O,NNP VBZ DT JJS NN IN NNP POS NN .

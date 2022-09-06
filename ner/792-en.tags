@@ -1,0 +1,6 @@
+"China says the death toll from an explosion in a northeastern coal mine has risen to 19 , with the confirmation of 18 more deaths .",B-org O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ DT NN NN IN DT NN IN DT JJ NN NN VBZ VBN TO CD , IN DT NN IN CD JJR NNS ."
+The official Xinhua news agency said Monday that 18 miners missing since Saturday have been found dead .,O O B-org O O O B-tim O O O O O B-tim O O O O O,DT JJ NNP NN NN VBD NNP IN CD NNS VBG IN NNP VBP VBN VBN JJ .
+Xinhua says the explosion occurred Saturday evening .,B-org O O O O B-tim I-tim O,NNP VBZ DT NN VBD NNP NN .
+One miner was found dead Sunday .,O O O O O B-tim O,CD NN VBD VBN JJ NNP .
+The news agency says an initial investigation found that the operators of the mine illegally resumed production after their license had been revoked .,O O O O O O O O O O O O O O O O O O O O O O O O,DT NN NN VBZ DT JJ NN VBD IN DT NNS IN DT NN RB VBD NN IN PRP$ NN VBD VBN VBN .
+"China 's mines are among the most dangerous in the world , with safety standards often ignored as mine operators push production amid soaring demand for coal .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NNS VBP IN DT RBS JJ IN DT NN , IN NN NNS RB VBN IN NN NNS VBP NN IN VBG NN IN NN ."

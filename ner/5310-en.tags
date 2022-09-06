@@ -1,0 +1,8 @@
+"A court in Houston , Texas in the southwestern United States , has convicted three U.S. citizens of involvement in a human trafficking ring responsible for the deaths of 19 people in 2003 .",O O O B-geo O B-geo O O O B-geo I-geo O O O O B-geo O O O O O O O O O O O O O O O O B-tim O,"DT NN IN NNP , NNP IN DT JJ NNP NNPS , VBZ VBN CD NNP NNS IN NN IN DT JJ NN NN JJ IN DT NNS IN CD NNS IN CD ."
+Victor Sanchez Rodriguez was found guilty of 17 of the 20 smuggling charges against him .,B-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP VBD VBN JJ IN CD IN DT CD NN NNS IN PRP .
+"His wife , Emma Rodriguez , was convicted of 14 smuggling counts , and her half-sister , Rosa Sarrata Gonzalez , was convicted of one smuggling count .",O O O B-per I-per O O O O O O O O O O O O B-org I-org I-org O O O O O O O O,"PRP$ NN , NNP NNP , VBD VBN IN CD NN NNS , CC PRP$ NN , NNP NNP NNP , VBD VBN IN CD NN NN ."
+"The three were participants in an operation carrying more than 70 illegal immigrants in a tractor-trailer rig from southern Texas , near the border with Mexico , to Houston .",O O O O O O O O O O O O O O O O O O B-geo I-geo O O O O O B-geo O O B-geo O,"DT CD VBD NNS IN DT NN VBG JJR IN CD JJ NNS IN DT NN NN IN JJ NNP , IN DT NN IN NNP , TO NNP ."
+"Seventeen people died during the trip of dehydration , overheating and suffocation .",O O O O O O O O O O O O O,"CD NNS VBD IN DT NN IN NN , NN CC NN ."
+Two more died later .,O O O O O,CD JJR VBD RB .
+Eleven other people have been indicted in the case .,O O O O O O O O O O,CD JJ NNS VBP VBN VBN IN DT NN .
+The Houston Chronicle reports sentencing is set for May .,O B-geo I-geo O O O O O B-tim O,DT NNP NNP VBZ NN VBZ VBN IN NNP .

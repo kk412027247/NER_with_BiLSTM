@@ -1,0 +1,6 @@
+"Clashes in southern Afghanistan have killed at least 30 Taliban fighters , including one Taliban commander .",O O O B-geo O O O O O B-org O O O O B-org O O,"NNS IN JJ NNP VBP VBN IN JJS CD NNP NNS , VBG CD NNP NN ."
+"The Afghan Defense Ministry says the operation took place Wednesday in southern Helmand province , a region where Taliban militants are highly active .",O B-gpe B-org I-org O O O O O B-tim O O B-geo O O O O O B-org O O O O O,"DT JJ NNP NNP VBZ DT NN VBD NN NNP IN JJ NNP NN , DT NN WRB NNP NNS VBP RB JJ ."
+Afghan officials say a coalition of Afghan and foreign special forces mounted coordinated attacks on insurgent cells in the Musa Qala region .,B-gpe O O O O O B-gpe O O O O O O O O O O O O B-geo I-geo O O,JJ NNS VBP DT NN IN JJ CC JJ JJ NNS VBD JJ NNS IN JJ NNS IN DT NNP NNP NN .
+Authorities say coalition aircraft bombed militant cells during a five-hour battle .,O O O O O O O O O O O O,NNS VBP NN NN VBD NN NNS IN DT JJ NN .
+No coalition casualties were reported .,O O O O O O,DT NN NNS VBD VBN .
+"Separately , a roadside bomb in Helmand hit a British patrol , killing one soldier and wounding four others .",O O O O O O B-geo O O B-gpe O O O O O O O O O O,"RB , DT NN NN IN NNP VBD DT JJ NN , VBG CD NN CC VBG CD NNS ."

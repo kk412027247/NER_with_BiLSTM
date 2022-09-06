@@ -1,0 +1,8 @@
+The most recent opinion poll in Peru indicates that nationalist candidate Ollanta Humala is now in first place in the race for president .,O O O O O O B-geo O O O O B-per I-per O O O O O O O O O O O,DT RBS JJ NN NN IN NNP VBZ IN JJ NN NNP NNP VBZ RB IN JJ NN IN DT NN IN NN .
+"The Apoyo polling company survey , which polled 2,000 citizens nationwide , says the former army officer leads pro-business former congresswoman Lourdes Flores , 32 to 28 percent .",O O O O O O O O O O O O O O O O O O O O O B-per I-per O O O O O O,"DT NNP VBG NN NN , WDT VBN CD NNS JJ , VBZ DT JJ NN NN VBZ JJ JJ NN NNP NNP , CD TO CD NN ."
+"If Flores is elected , she would be Peru 's first woman president .",O B-per O O O O O O B-geo O O O O O,"IN NNP VBZ VBN , PRP MD VB NNP POS JJ NN NN ."
+She is viewed by international investors as the best choice for the economy .,O O O O O O O O O O O O O O,PRP VBZ VBN IN JJ NNS IN DT JJS NN IN DT NN .
+Humala proposes higher corporate taxes and is campaigning to restrict foreign investment in Peru .,B-per O O O O O O O O O O O O B-geo O,NNP VBZ JJR JJ NNS CC VBZ VBG TO VB JJ NN IN NNP .
+He is backed by Bolivian President Evo Morales and Venezuelan President Hugo Chavez - both left-leaning leaders .,O O O O B-gpe B-per I-per I-per O B-gpe B-per I-per I-per O O O O O,PRP VBZ VBN IN JJ NNP NNP NNP CC JJ NNP NNP NNP IN DT JJ NNS .
+"His popularity has concerned Washington because he opposes the eradication of Peru 's coca crop , the raw material for cocaine .",O O O O B-geo O O O O O O B-geo O O O O O O O O O O,"PRP$ NN VBZ VBN NNP IN PRP VBZ DT NN IN NNP POS NN NN , DT JJ NN IN NN ."
+Peru 's elections will take place in next month .,B-geo O O O O O O O O O,NNP POS NNS MD VB NN IN JJ NN .

@@ -1,0 +1,8 @@
+Tribal clashes in drought-stricken central Kenya have killed at least 30 people .,O O O O O B-per O O O O O O O,JJ NNS IN JJ JJ NNP VBP VBN IN JJS CD NNS .
+Local authorities say cattle rustlers from the Pokot tribe attacked the Samburu tribe late Monday .,O O O O O O O B-geo O O O B-geo O O B-tim O,JJ NNS VBP NNS NNS IN DT NNP NN VBD DT NNP NN JJ NNP .
+The attackers killed at least 21 Samburu and made off with hundreds of cows .,O O O O O B-tim B-geo O O O O O O O O,DT NNS VBD IN JJS CD NNP CC VBD RP IN NNS IN NNS .
+"A local member of parliament , Raphael Letimalo , said some of those killed were children .",O O O O O O B-per I-per O O O O O O O O O,"DT JJ NN IN NN , NNP NNP , VBD DT IN DT VBN VBD NNS ."
+"Police killed nine of the raiders in a shootout , and are combing the area for the other suspected raiders and the stolen livestock .",O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBD CD IN DT NNS IN DT NN , CC VBP VBG DT NN IN DT JJ JJ NNS CC DT VBN NN ."
+"Much of Kenya is suffering from a severe drought that has hurt farm production , killed livestock and led to shortages of food and water .",O O B-per O O O O O O O O O O O O O O O O O O O O O O O,"NN IN NNP VBZ VBG IN DT JJ NN WDT VBZ VBN NN NN , VBN NN CC VBD TO NNS IN NN CC NN ."
+The U.N. World Food Program recently said that about 3.8 million Kenyans will not have enough food over the next months because of the drought .,O B-org I-org I-org I-org O O O O O O B-gpe O O O O O O O O O O O O O O,DT NNP NNP NNP NNP RB VBD IN IN CD CD NNS MD RB VB JJ NN IN DT JJ NNS IN IN DT NN .
+Kenya 's government blames the food crisis on four straight years of lower-than-normal rainfall .,B-per O O O O O O O B-tim I-tim O B-tim I-tim I-tim O,NNP POS NN VBZ DT NN NN IN CD JJ NNS IN JJ NN .

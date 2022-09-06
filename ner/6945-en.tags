@@ -1,0 +1,4 @@
+The city of Fort Wayne in the midwestern state of Indiana is home to one of the largest Burmese immigrant and refugee communities in the United States .,O O O B-geo I-geo O O O O O B-geo O O O O O O O B-gpe O O O O O O B-geo I-geo O,DT NN IN NNP NNP IN DT JJ NN IN NNP VBZ NN TO CD IN DT JJS JJ NN CC NN NNS IN DT NNP NNPS .
+"Now , the community is struggling to deal with the aftermath of a devastating cyclone that has affected most of their families in Burma .",O O O O O O O O O O O O O O O O O O O O O O O B-geo O,"RB , DT NN VBZ VBG TO VB IN DT NN IN DT JJ NN WDT VBZ VBN JJS IN PRP$ NNS IN NNP ."
+VOA 's Kane Farabaugh traveled to Fort Wayne .,B-org O B-per I-per O O B-geo I-geo O,NNP POS NNP NNP VBD TO NNP NNP .
+He reports that the biggest challenge for many Burmese in the United States is learning the fate of their loved ones .,O O O O O O O O B-gpe O O B-geo I-geo O O O O O O O O O,PRP VBZ IN DT JJS NN IN JJ NNS IN DT NNP NNPS VBZ VBG DT NN IN PRP$ VBN NNS .

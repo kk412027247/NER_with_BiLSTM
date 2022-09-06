@@ -1,0 +1,7 @@
+"Share prices on major exchanges in Asia and Europe fell sharply Monday , after Friday 's deep decline on Wall Street increased fears that a recession may hit the United States .",O O O O O O B-geo O B-geo O O B-tim O O B-tim O O O O B-org I-org O O O O O O O O B-geo I-geo O,"NN NNS IN JJ NNS IN NNP CC NNP VBD RB NNP , IN NNP POS JJ NN IN NNP NNP VBD NNS IN DT NN MD VB DT NNP NNPS ."
+"India 's benchmark index plunged more than five percent , while Japan 's Nikkei index was down 4.5 percent .",B-geo O O O O O O O O O O B-geo O B-geo O O O O O O,"NNP POS JJ NN VBD RBR IN CD NN , IN NNP POS NNP NN VBD RB CD NN ."
+"Benchmark stock indexes in Australia , Hong Kong , Singapore and Jakarta fell about three percent .",O O O O B-geo O B-geo I-geo O B-org I-org I-org O O O O O,"NNP NN NNS IN NNP , NNP NNP , NNP CC NNP VBD IN CD NN ."
+Indonesia 's market was off by 2.6 percent .,B-geo O O O O O O O O,NNP POS NN VBD RB IN CD NN .
+"European indexes were off one percent or more in afternoon trading , while U.S. shares declined in early trading .",O O O O B-tim O O O O B-tim O O O B-geo O O O O O O,"JJ NNS VBD IN CD NN CC JJR IN NN NN , IN NNP NNS VBD IN JJ NN ."
+"At the same time , the dollar slid to a three-year low against the yen .",O O O O O O O O O O B-tim O O O O O,"IN DT JJ NN , DT NN VBD TO DT JJ NN IN DT NN ."
+The weak dollar hurts Asian exports and drives up the price of dollar-priced commodities .,O O O O O O O O O O O O O O O,DT JJ NN VBZ JJ NNS CC NNS IN DT NN IN JJ NNS .

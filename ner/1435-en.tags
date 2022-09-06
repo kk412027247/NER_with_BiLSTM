@@ -1,0 +1,7 @@
+""" Undercover Brother "" may be good at karate , but his driving needs improvement .",O B-per I-per O O O O O O O O O O O O O,"LQU NNP NNP RQU MD VB JJ IN NN , CC PRP$ NN VBZ NN ."
+Comedian Eddie Griffin crashed a Ferrari Enzo sportscar worth an estimated $ 1.5 million .,O B-per I-per O O B-art I-art O O O O O O O O,NN NNP NNP VBD DT NNP NNP NN IN DT VBN $ CD CD .
+"The March 26 accident occurred at Irwindale Speedway in California , when the movie comic drove too fast around a curve .",O B-tim I-tim O O O B-art I-art O B-geo O O O O O O O O O O O O,"DT NNP CD NN VBD IN NNP NNP IN NNP , WRB DT NN NN VBD RB RB IN DT NN ."
+He was practicing for a charity race to promote his upcoming movie Redline .,O O O O O O O O O O O O B-art O,PRP VBD VBG IN DT NN NN TO VB PRP$ JJ NN NNP .
+"Eddie Griffin , whose film credits include Undercover Brother and two Deuce Bigalow movies , walked away unhurt from the crash .",B-per I-per O O O O O B-art I-art O O B-org I-org O O O O O O O O O,"NNP NNP , WP$ NN NNS VBP NNP NNP CC CD NNP NNP NNS , VBD RB JJ IN DT NN ."
+"The car belonged to Redline executive producer Daniel Sadek , whose exotic car collection is featured in the movie .",O O O O B-art O O B-per I-per O O O O O O O O O O O,"DT NN VBD IN NNP JJ NN NNP NNP , WP$ JJ NN NN VBZ VBN IN DT NN ."
+Ferrari produced a total of 400 Enzos between 2002 and 2004 .,B-org O O O O O B-art O B-tim I-tim I-tim O,NNP VBD DT NN IN CD NNPS IN CD CC CD .

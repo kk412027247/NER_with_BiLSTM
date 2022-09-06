@@ -1,0 +1,4 @@
+Burundi 's army says it killed at least 17 National Liberation Forces rebel fighters in recent clashes .,B-geo O O O O O O O O O O O O O O O O O,NNP POS NN VBZ PRP VBD IN JJS CD NNP NNP NNP NN NNS IN JJ NNS .
+"At least one soldier and a civilian also were killed in fighting that began late Friday in a village west of the capital , Bujumbura",O O O O O O O O O O O O O O O B-tim O O O O O O O O B-geo,"IN JJS CD NN CC DT NN RB VBD VBN IN VBG IN VBD RB NNP IN DT NN NN IN DT NN , NNP"
+The government says FNL rebels were robbing the village when the army intervened to stop them .,O O O B-org O O O O O O O O O O O O O,DT NN VBZ NNP NNS VBD VBG DT NN WRB DT NN VBD TO VB PRP .
+"The FNL signed a peace agreement with the government in July 2006 , but the accord was broken about a year later .",O B-org O O O O O O O O B-tim I-tim O O O O O O O O O B-tim O,"DT NNP VBD DT NN NN IN DT NN IN NNP CD , CC DT NN VBD VBN IN DT NN RB ."

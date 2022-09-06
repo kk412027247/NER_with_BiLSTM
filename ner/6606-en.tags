@@ -1,0 +1,8 @@
+Chinese state media are reporting two new mining accidents that killed two miners and trapped 23 underground .,B-gpe O O O O O O O O O O O O O O O O O,JJ NN NNS VBP VBG CD JJ NN NNS WDT VBD CD NNS CC VBN CD NN .
+"In the first incident , a coal mine was flooded early Wednesday in northern China 's Shanxi province , killing two miners .",O O O O O O O O O O O B-tim O O B-geo O B-geo O O O O O O,"IN DT JJ NN , DT NN NN VBD VBN JJ NNP IN JJ NNP POS NNP NN , VBG CD NNS ."
+"Rescuers are trying to reach 15 miners who failed to escape the flood in Dianwan town , Zuoyan county .",O O O O O O O O O O O O O O B-geo O O B-per I-per O,"NNS VBP VBG TO VB CD NNS WP VBD TO VB DT NN IN NNP NN , NNP NN ."
+The second accident occurred Thursday in the eastern province of Shandong .,O O O O B-tim O O O O O B-geo O,DT JJ NN VBD NNP IN DT JJ NN IN NNP .
+"A gold mine was flooded in Penglai city , trapping eight miners who were inside .",O O O O O O B-geo O O O O O O O O O,"DT NN NN VBD VBN IN NNP NN , VBG CD NNS WP VBD RB ."
+Officials say the causes of both flooding incidents are being investigated .,O O O O O O O O O O O O,NNS VBP DT NNS IN DT NN NNS VBP VBG VBN .
+China has suffered a string of deadly mine disasters in recent weeks .,B-geo O O O O O O O O O O O O,NNP VBZ VBN DT NN IN JJ NN NNS IN JJ NNS .
+"A mine explosion in Heilongjiang province killed 171 miners in late November , while another blast in Hebei province killed 91 miners earlier this month .",O O O O B-geo O O O O O O B-tim O O O O O B-geo O O O O O O O O,"DT NN NN IN NNP NN VBD CD NNS IN JJ NNP , IN DT NN IN NNP NN VBD CD NNS RBR DT NN ."

@@ -1,0 +1,8 @@
+A roadside bomb in eastern Afghanistan has killed eight civilians .,O O O O B-geo I-geo O O O O O,DT NN NN IN JJ NNP VBZ VBN CD NNS .
+Officials say women and children were among the victims of Monday 's blast in Ghazni province .,O O O O O O O O O O B-tim O O O B-geo O O,NNS VBP NNS CC NNS VBD IN DT NNS IN NNP POS NN IN NNP NN .
+The French news agency quotes a provincial police as saying the bomb was planted by the Taliban .,O B-gpe O O O O O O O O O O O O O O B-org O,DT JJ NN NN VBZ DT JJ NN IN VBG DT NN VBD VBN IN DT NNP .
+"In southern Afghanistan , NATO said a joint Afghan-international force has killed a Taliban commander and several armed individuals .",O O B-geo O B-org O O O O O O O O B-org O O O O O O,"IN JJ NNP , NNP VBD DT JJ JJ NN VBZ VBN DT NNP NN CC JJ JJ NNS ."
+The alliance says the Afghan and coalition forces encountered hostile fire Sunday at a compound outside Kandahar City .,O O O O B-gpe O O O O O O B-tim O O O O B-geo I-geo O,DT NN VBZ DT JJ CC NN NNS VBD JJ NN NNP IN DT NN IN NNP NNP .
+"The forces returned fire , killing Taliban commander Shyster Uhstad Khan , and several others .",O O O O O O B-org O O B-per I-per O O O O O,"DT NNS VBD NN , VBG NNP NN NNP NNP NNP , CC JJ NNS ."
+One suspected insurgent was detained .,O O O O O O,CD JJ NN VBD VBN .
+NATO say Khan was involved in the distribution and purchase of explosives .,B-org O B-per O O O O O O O O O O,NNP VBP NNP VBD VBN IN DT NN CC NN IN NNS .

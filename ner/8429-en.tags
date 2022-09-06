@@ -1,0 +1,8 @@
+Luxembourg voters will cast ballots Sunday in a referendum on the European Union 's troubled constitution .,B-geo O O O O B-tim O O O O O B-org I-org O O O O,NNP NNS MD VB NNS NNP IN DT NN IN DT NNP NNP POS JJ NN .
+"Prime Minister Jean-Claude Juncker , who has been a strong promoter of passage of the constitution , has threatened to resign if Luxembourg voters reject it .",B-per I-per I-per I-per O O O O O O O O O O O O O O O O O O B-geo O O O O,"NNP NNP NNP NNP , WP VBZ VBN DT JJ NN IN NN IN DT NN , VBZ VBN TO VB IN NNP NNS VBP PRP ."
+A June opinion poll showed 45 percent of respondents oppose the constitution .,O B-tim O O O O O O O O O O O,DT NNP NN NN VBD CD NN IN NNS VBP DT NN .
+"The Luxembourg vote comes despite the postponement of referendums in Britain , Denmark , Portugal , Sweden and Finland .",O B-geo O O O O O O O O B-geo O B-geo O B-geo O B-org I-org I-org O,"DT NNP NN VBZ IN DT NN IN NNS IN NNP , NNP , NNP , NNP CC NNP ."
+"French and Dutch voters rejected the constitution in referendums , placing the future of the pact in doubt .",B-gpe O B-gpe O O O O O O O O O O O O O O O O,"JJ CC JJ NNS VBD DT NN IN NNS , VBG DT NN IN DT NN IN NN ."
+EU leaders put the constitution issue on hold at a meeting last month in response to the rejections .,B-org O O O O O O O O O O O O O O O O O O,NNP NNS VBD DT NN NN IN NN IN DT NN JJ NN IN NN TO DT NNS .
+The constitution requires unanimous backing from all 25 member nations .,O O O O O O O O O O O,DT NN VBZ JJ NN IN DT CD NN NNS .
+"So far , 11 countries have ratified the document .",O O O O O O O O O O,"RB RB , CD NNS VBP VBN DT NN ."

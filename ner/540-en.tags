@@ -1,0 +1,5 @@
+A privately-owned Kuwaiti airline is offering free flights to Kuwaiti women who want to return home to vote in parliamentary elections .,O O B-gpe O O O O O O B-gpe O O O O O O O O O O O O,DT JJ JJ NN VBZ VBG JJ NNS TO JJ NNS WP VBP TO VB NN TO VB IN JJ NNS .
+The elections are the first in Kuwait that do not exclude women .,O O O O O O B-geo O O O O O O,DT NNS VBP DT JJ IN NNP WDT VBP RB VB NNS .
+"Marwan Boodai , the chairman of Jazeera Airways says the airline wants to make sure that Kuwaiti women currently overseas can exercise their new right to vote .",B-per I-per O O O O B-geo I-geo O O O O O O O O B-gpe O O O O O O O O O O O,"NNP NNP , DT NN IN NNP NNP VBZ DT NN VBZ TO VB JJ IN JJ NNS RB RB MD VB PRP$ JJ NN TO VB ."
+Elections are scheduled for June 29 .,O O O O B-tim I-tim O,NNS VBP VBN IN NNP CD .
+Kuwait passed a law last year granting women the right to vote and run for office .,B-geo O O O O O O O O O O O O O O O O,NNP VBD DT NN JJ NN VBG NNS DT NN TO VB CC VB IN NN .

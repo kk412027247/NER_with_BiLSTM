@@ -1,0 +1,8 @@
+"The National Guard is dropping hay bales from helicopters over the western U.S. state of Colorado to feed stranded cattle , while officials in surrounding states work to restore power after two powerful snowstorms hit the region in two weeks .",O B-org I-org O O O O O O O O O B-geo O O B-geo O O O O O O O O O O O O O O O O O O O O O O B-tim O O,"DT NNP NNP VBZ VBG JJ NNS IN NNS IN DT JJ NNP NN IN NNP TO VB JJ NNS , IN NNS IN VBG NNS VBP TO VB NN IN CD JJ NNS VBD DT NN IN CD NNS ."
+Guard members began this week to drop hay over snow-crusted pastures where cattle are immobilized in deep drifts .,B-org O O O O O O O O O O O O O O O O O O,NNP NNS VBD DT NN TO VB NN IN JJ NNS WRB NNS VBP VBN IN JJ NNS .
+Authorities say they could soon die of starvation or dehydration if not fed .,O O O O O O O O O O O O O O,NNS VBP PRP MD RB VB IN NN CC NN IN RB VBN .
+That would deeply hurt the state 's economy .,O O O O O O O O O,DT MD RB VB DT NN POS NN .
+The operation is hampered by the fact that many of the Guard 's larger helicopters are in use in Iraq .,O O O O O O O O O O O B-org O O O O O O O B-geo O,DT NN VBZ VBN IN DT NN IN NN IN DT NNP POS JJR NNS VBP IN NN IN NNP .
+"Meanwhile , officials in Colorado , Nebraska , Kansas and Oklahoma are working to restore electricity to tens of thousands of homes and businesses .",O O O O B-geo O B-geo O B-geo O B-geo O O O O O O O O O O O O O O,"RB , NNS IN NNP , NNP , NNP CC NNP VBP VBG TO VB NN TO NNS IN NNS IN NNS CC NNS ."
+Emergency workers are searching for people trapped in their homes without food or power .,O O O O O O O O O O O O O O O,NN NNS VBP VBG IN NNS VBN IN PRP$ NNS IN NN CC NN .
+Many residents are staying in emergency shelters to keep warm .,O O O O O O O O O O O,JJ NNS VBP VBG IN NN NNS TO VB JJ .

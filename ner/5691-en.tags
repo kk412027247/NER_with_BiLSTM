@@ -1,0 +1,6 @@
+Several automakers say their U.S. sales rose sharply in March as the American economy recovers from the worst recession in decades .,O O O O B-geo O O O O B-tim O O B-gpe O O O O O O O O O,JJ NNS VBP PRP$ NNP NNS VBD RB IN NNP IN DT JJ NN NNS IN DT JJS NN IN NNS .
+Toyota gained nearly 41 percent from the same month a year ago .,B-per O O O O O O O O O O O O,NNP VBD RB CD NN IN DT JJ NN DT NN RB .
+Toyota used discounts and other incentives to boost sales after safety recalls tarnished the company 's image of reliability .,B-per O O O O O O O O O O O O O O O O O O O,NNP VBD NNS CC JJ NNS TO VB NNS IN NN NNS VBN DT NN POS NN IN NN .
+"Sales for Ford jumped around 40 percent , Honda gained 22 percent , and General Motors improved 21 percent .",O O B-per O O O O O B-per O O O O O B-org I-org O B-tim O O,"NNS IN NNP VBD IN CD NN , NNP VBD CD NN , CC NNP NNPS VBD CD NN ."
+The Korea-based company Hyundai sold about 15 percent more cars .,O O O B-per O O O O O O O,DT JJ NN NNP VBD IN CD NN JJR NNS .
+Chrysler saw sales fall about eight percent .,B-per O O O O O O O,NNP VBD NNS VB IN CD NN .

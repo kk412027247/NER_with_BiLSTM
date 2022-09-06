@@ -1,0 +1,8 @@
+An audiotape purportedly from al-Qaida leader Osama bin Laden threatens new attacks against the United States .,O O O O B-org O B-per I-per I-per O O O O O B-geo I-geo O,DT NN RB IN NNP NN NNP NNP NNP VBZ JJ NNS IN DT NNP NNPS .
+The tape 's authenticity has not been confirmed .,O O O O O O O O O,DT NN POS NN VBZ RB VBN VBN .
+"It says there are plans for a new attack in the United States , but offers a "" long-term "" truce if American forces pull out of Iraq and Afghanistan .",O O O O O O O O O O O B-geo I-geo O O O O O O O O O B-gpe O O O O B-geo O B-geo O,"PRP VBZ EX VBP NNS IN DT JJ NN IN DT NNP NNPS , CC VBZ DT LQU JJ RQU NN IN JJ NNS VBP IN IN NNP CC NNP ."
+"The White House flatly rejected the purported offer , with a spokesman saying the United States does not negotiate with terrorists .",O B-org I-org O O O O O O O O O O O B-geo I-geo O O O O O O,"DT NNP NNP RB VBD DT JJ NN , IN DT NN VBG DT NNP NNPS VBZ RB VB IN NNS ."
+The message says heightened security in the United States has not prevented attacks .,O O O O O O O B-geo I-geo O O O O O,DT NN VBZ JJ NN IN DT NNP NNPS VBZ RB VBN NNS .
+It says the delay is simply due to preparations for new operations .,O O O O O O O O O O O O O,PRP VBZ DT NN VBZ RB JJ TO NNS IN JJ NNS .
+Arab broadcaster Al-Jazeera first broadcast selections from the recording earlier Thursday .,B-gpe O O O O O O O O O B-tim O,JJ NN NNP JJ NN NNS IN DT NN RB NNP .
+"There has been no specific information on when the tape was recorded , but the voice makes reference to sinking public opinion polls for President Bush .",O O O O O O O O O O O O O O O O O O O O O O O O B-per I-per O,"EX VBZ VBN DT JJ NN IN WRB DT NN VBD VBN , CC DT NN VBZ NN TO VBG JJ NN NNS IN NNP NNP ."

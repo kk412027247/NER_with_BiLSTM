@@ -1,0 +1,5 @@
+Iraqi officials say a senior Interior Ministry official has been shot and killed in Baghdad .,B-gpe O O O O B-org I-org O O O O O O O B-geo O,JJ NNS VBP DT JJ NNP NNP NN VBZ VBN VBN CC VBN IN NNP .
+The assassination occurred Tuesday .,O O O B-tim O,DT NN VBD NNP .
+Reuters news agency says the group led by Jordanian terrorist leader Abu Musab al-Zarqawi claimed responsibility for the killing .,B-org O O O O O O O O O O B-per I-per I-per O O O O O O,NNP NN NN VBZ DT NN VBN IN JJ JJ NN NNP NNP NNP VBD NN IN DT NN .
+Guerrillas loyal to Zaraqawi 's group also took responsibility for some of the attacks Monday in Iraq that left 25 people dead .,O O O B-geo O O O O O O O O O O B-tim O B-geo O O O O O O,NNP JJ TO NNP POS NN RB VBD NN IN DT IN DT NNS NNP IN NNP WDT VBD CD NNS JJ .
+A suicide attack killed 15 people north of Baghdad while several attacks on Iraqi police and soldiers in Baquba killed 10 people .,O O O O O O O O B-geo O O O O B-gpe O O O O B-geo O O O O,DT NN NN VBD CD NNS RB IN NNP IN JJ NNS IN JJ NNS CC NNS IN NNP VBD CD NNS .

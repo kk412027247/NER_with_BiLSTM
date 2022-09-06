@@ -1,0 +1,7 @@
+World oil prices hit a new record high Monday of nearly $ 64 a barrel .,O O O O O O O O B-tim O O O O O O O,NNP NN NNS VBD DT JJ NN JJ NNP IN RB $ CD DT NN .
+The price of crude oil for future delivery was as high as $ 63.95 a barrel in New York trading .,O O O O O O O O O O O O O O O O O B-geo I-geo O O,DT NN IN JJ NN IN JJ NN VBD RB JJ IN $ CD DT NN IN NNP NNP NN .
+"Analysts say the rising prices reflect security concerns in the world 's largest oil producer , Saudi Arabia .",O O O O O O O O O O O O O O O O B-per I-per O,"NNS VBP DT VBG NNS VBP NN NNS IN DT NN POS JJS NN NN , NNP NNP ."
+"The United States has temporarily closed its embassy in the Saudi capital , along with some other diplomatic facilities in the country , after threats of terrorist attacks .",O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNPS VBZ RB VBN PRP$ NN IN DT JJ NN , IN IN DT JJ JJ NNS IN DT NN , IN NNS IN JJ NNS ."
+Australia and Britain also warned of possible attacks .,B-geo O B-geo O O O O O O,NNP CC NNP RB VBD IN JJ NNS .
+Experts say oil prices also are being pushed upward by problems at refineries .,O O O O O O O O O O O O O O,NNS VBP NN NNS RB VBP VBG VBN RB IN NNS IN NNS .
+Crude oil prices are at least 40 percent higher today than they were one year ago .,O O O O O O O O O B-tim O O O B-tim O O O,JJ NN NNS VBP IN JJS CD NN JJR NN IN PRP VBD CD NN RB .

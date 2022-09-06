@@ -1,0 +1,8 @@
+"Sri Lanka 's Tamil Tiger rebels say new government air raids have killed 14 people , but the military denies that civilians were targeted in the attacks .",B-per B-gpe O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP POS NNP NNP NNS VBP JJ NN NN NNS VBP VBN CD NNS , CC DT NN VBZ IN NNS VBD VBN IN DT NNS ."
+"A rebel statement Tuesday said fighter jets dropped bombs on Mannar in northwest Sri Lanka , destroying residential homes .",O O O B-tim O O O O O O B-geo O B-geo B-per B-gpe O O O O O,"DT JJ NN NNP VBD NN NNS VBD NNS IN NNP IN NNP NNP NNP , VBG JJ NNS ."
+"It said six children were among those killed , and that dozens of other civilians were wounded .",O O O O O O O O O O O O O O O O O O,"PRP VBD CD NNS VBD IN DT VBN , CC IN NNS IN JJ NNS VBD VBN ."
+But the military strongly denied targeting civilians .,O O O O O O O O,CC DT NN RB VBD VBG NNS .
+"A military spokesman said one raid focused on a rebel naval base in Mannar , while another air attack was carried out on a rebel position in the east .",O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O,"DT JJ NN VBD CD NN VBD IN DT JJ JJ NN IN NNP , IN DT NN NN VBD VBN RP IN DT JJ NN IN DT NN ."
+"Violence has flared in Sri Lanka despite a 2002 truce between the government and rebels , who are fighting for independence .",O O O O B-per B-gpe O O B-tim O O O O O O O O O O O O O,"NN VBZ VBN IN NNP NNP IN DT CD NN IN DT NN CC NNS , WP VBP VBG IN NN ."
+"More than 3,000 people were killed last year .",O O O O O O O O O,JJR IN CD NNS VBD VBN JJ NN .
+"Since 1983 , some 67,000 civilians , troops and rebels have died in the conflict .",O B-tim O O O O O O O O O O O O O O,"IN CD , DT CD NNS , NNS CC NNS VBP VBN IN DT NN ."

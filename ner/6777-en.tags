@@ -1,0 +1,5 @@
+"Brad Delp was found dead March 9 , at his home in the northeastern state of New Hampshire .",B-per I-per O O O B-tim I-tim O O O O O O O O O B-geo I-geo O,"NNP NNP VBD VBN JJ NNP CD , IN PRP$ NN IN DT JJ NN IN NNP NNP ."
+"The 55-year-old musician , who sang for the popular rock act Boston , was apparently alone at the time of his death .",O O O O O O O O O O O B-geo O O O O O O O O O O O,"DT JJ NN , WP VBD IN DT JJ NN NN NNP , VBD RB RB IN DT NN IN PRP$ NN ."
+A police investigation is ongoing .,O O O O O O,DT NN NN VBZ JJ .
+"Formed in the early 1970s , Boston remains a staple on U.S. classic rock radio playlists .",O O O O B-tim O B-geo O O O O B-geo O O O O O,"VBN IN DT JJ NNS , NNP VBZ DT NN IN NNP JJ NN NN NNS ."
+The band was reportedly planning a mid-year tour .,O O O O O O B-tim I-tim O,DT NN VBD RB VBG DT JJ NN .

@@ -1,0 +1,8 @@
+"Afghan President Hamid Karzai says he has fired two "" high-ranking "" Afghan officials who were spying for other countries , and warns he would not spare anyone who engages in such activity .",B-gpe B-per I-per I-per O O O O O O O O B-gpe O O O O O O O O O O O O O O O O O O O O O,"JJ NNP NNP NNP VBZ PRP VBZ VBN CD RQU JJ RQU JJ NNS WP VBD VBG IN JJ NNS , CC VBZ PRP MD RB VB DT WP VBZ IN JJ NN ."
+"Mr. Karzai made the disclosure at a lunch meeting with newly sworn-in parliament members , and did not name the dismissed officials nor indicate when he took the action He also did not name the other countries involved .",B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD DT NN IN DT NN NN IN RB JJ NN NNS , CC VBD RB VB DT VBN NNS CC VBP WRB PRP VBD DT NN PRP RB VBD RB VB DT JJ NNS VBN ."
+Mr. Karzai said he had strong evidence against the two officials .,B-per I-per O O O O O O O O O O,NNP NNP VBD PRP VBD JJ NN IN DT CD NNS .
+"But he said even if he had minor evidence , he would have punished them .",O O O O O O O O O O O O O O O O,"CC PRP VBD RB IN PRP VBD JJ NN , PRP MD VB VBN PRP ."
+"He said anyone found spying for foreign countries will be shown on television , and put on trial .",O O O O O O O O O O O O O O O O O O O,"PRP VBD DT VBD VBG IN JJ NNS MD VB VBN IN NN , CC VBD IN NN ."
+Mr. Karzai has led Afghanistan since the Taleban were ousted in late 2001 .,B-per I-per O O B-gpe O O B-org O O O O B-tim O,NNP NNP VBZ VBN NNP IN DT NNP VBD VBN IN JJ CD .
+He won a presidential election in October 2004 .,O O O O O O B-tim I-tim O,PRP VBD DT JJ NN IN NNP CD .
+And now the Taleban are waging an insurgency against his administration .,O O O B-org O O O O O O O O,CC RB DT NNP VBP VBG DT NN IN PRP$ NN .

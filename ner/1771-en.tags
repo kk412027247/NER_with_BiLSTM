@@ -1,0 +1,8 @@
+Pope Benedict XVI has told Venezuela 's President Hugo Chavez that he is concerned about religious reforms in the largely Catholic nation .,O B-per I-per O O B-geo O B-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP VBZ VBN NNP POS NNP NNP NNP IN PRP VBZ VBN IN JJ NNS IN DT RB JJ NN .
+The pontiff and Mr. Chavez met at the Vatican Thursday .,O O O B-per I-per O O O B-tim I-tim O,DT NN CC NNP NNP VBD IN DT NNP NNP .
+A Vatican spokesman says Pope Benedict was worried about a proposal to ban teaching religion in Venezuelan schools .,O B-tim O O O B-per O O O O O O O O O O B-gpe O O,DT NNP NN VBZ NNP NNP VBD VBN IN DT NN TO VB NN NN IN JJ NNS .
+He said the pope expressed his hope that Santa Rosa Catholic University can maintain its religious identity .,O O O O O O O O B-org I-org I-org I-org O O O O O O,PRP VBD DT NN VBD PRP$ NN IN NNP NNP NNP NNP MD VB PRP$ JJ NN .
+"The pontiff also asked that the nation 's health programs "" respect life , "" an apparent reference to abortion , which the church opposes .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN RB VBD IN DT NN POS NN NNS LQU VB NN , RQU DT JJ NN TO NN , WDT DT NN VBZ ."
+"The Venezuelan leader assured the pope of his commitment to "" overcome every tension in respecting the legitimate rights of all . """,O B-gpe O O O O O O O O O O O O O O O O O O O O O,DT JJ NN VBD DT NN IN PRP$ NN TO LQU VB DT NN IN VBG DT JJ NNS IN DT . LQU
+Mr. Chavez often quotes from the bible during speeches .,B-per I-per O O O O O O O O,NNP NNP RB VBZ IN DT NN IN NNS .
+"But he has clashed with the Catholic leadership in Venezuela , referring to it as a "" cancer . """,O O O O O O O O O B-geo O O O O O O O O O O,"CC PRP VBZ VBN IN DT JJ NN IN NNP , VBG TO PRP IN DT LQU NN . LQU"

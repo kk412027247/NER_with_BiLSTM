@@ -1,0 +1,8 @@
+"The Ugandan military says it attacked a hideout of rebel leader Joseph Kony in southern Sudan this week , killing four of his bodyguards .",O B-gpe O O O O O O O O O B-per I-per O B-geo I-geo O O O O O O O O O,"DT JJ NN VBZ PRP VBD DT NN IN JJ NN NNP NNP IN JJ NNP DT NN , VBG CD IN PRP$ NNS ."
+"A military spokesman , Lieutenant Chris Magezi , says soldiers clashed with rebels commanded by Kony southwest of Juba on Tuesday .",O O O O O B-per I-per O O O O O O O O B-per O O B-geo O B-tim O,"DT JJ NN , NNP NNP NNP , VBZ NNS VBN IN NNS VBN IN NNP NN IN NNP IN NNP ."
+The spokesman says one Ugandan soldier was wounded in the battle .,O O O O B-gpe O O O O O O O,DT NN VBZ CD JJ NN VBD VBN IN DT NN .
+"He says Kony and his fighters are now fleeing a Ugandan offensive , heading toward the Democratic Republic of Congo .",O O B-per O O O O O O O B-gpe O O O O O B-geo I-geo O B-geo O,"PRP VBZ NNP CC PRP$ NNS VBP RB VBG DT JJ NN , VBG IN DT JJ NNP IN NNP ."
+Sudan allows Ugandan forces to pursue Kony and other leaders of the rebel Lord 's Resistance Army on its territory .,B-geo O B-gpe O O O B-per O O O O O O B-org I-org I-org I-org O O O O,NNP VBZ JJ NNS TO VB NNP CC JJ NNS IN DT NN NNP POS NNP NNP IN PRP$ NN .
+The International Criminal Court has issued arrest warrants for Kony and four other LRA leaders .,O B-org I-org I-org O O O O O B-per O O O B-org O O,DT NNP NNP NNP VBZ VBN NN NNS IN NNP CC CD JJ NNP NNS .
+The group is notorious for its brutality and use of child soldiers in northern Uganda .,O O O O O O O O O O O O O O B-geo O,DT NN VBZ JJ IN PRP$ NN CC NN IN NN NNS IN JJ NNP .
+The group 's 20-year uprising has displaced more than 1.5 million people .,O O O O O O O O O O O O O,DT NN POS JJ NN VBZ VBN JJR IN CD CD NNS .

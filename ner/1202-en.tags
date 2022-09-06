@@ -1,0 +1,7 @@
+"Masked gunmen have stormed a mosque in Somalia 's Puntland region , killing at least five preachers from Pakistan .",O O O O O O O B-geo O B-geo O O O O O O O O B-geo O,"VBN NNS VBP VBN DT NN IN NNP POS NNP NN , VBG IN JJS CD NNS IN NNP ."
+"Witnesses say the gunmen forced the Islamic preachers out of the Tawfiq Mosque in Galkayo on Wednesday , and killed them nearby .",O O O O O O O O O O O B-org I-org O B-geo O B-tim O O O O O O,"NNS VBP DT NNS VBD DT JJ NNS IN IN DT NNP NNP IN NNP IN NNP , CC VBD PRP RB ."
+Five of the preachers died at the scene .,O O O O O O O O O,CD IN DT NNS VBD IN DT NN .
+Two other men were wounded .,O O O O O O,CD JJ NNS VBD VBN .
+No one has claimed responsibility for the shooting .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+"Puntland , a semi-autonomous region , has been relatively peaceful compared to the Somali capital , Mogadishu , which sees near-daily violence and killing .",B-geo O O O O O O O O O O O O B-gpe O O B-geo O O O O O O O O,"NNP , DT JJ NN , VBZ VBN RB JJ VBN TO DT JJ NN , NNP , WDT VBZ JJ NN CC NN ."
+"Somalia has not had an effective government for 18 years , since 1991 when warlords overthrew longtime dictator Mohamed Siad Barre and plunged the country into civil war .",B-geo O O O O O O O B-tim O O B-tim I-tim O O O O O B-per I-per I-per O O O O O O O O,"NNP VBZ RB VBN DT JJ NN IN CD NNS , IN CD WRB NNS VBP JJ NN NNP NNP NNP CC VBD DT NN IN JJ NN ."

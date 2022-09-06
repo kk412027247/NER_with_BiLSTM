@@ -1,0 +1,6 @@
+A bomb attack on a major oil pipeline in northern Iraq has disrupted Iraqi crude oil exports sent through Turkey .,O O O O O O O O O O B-geo O O B-gpe O O O O O B-geo O,DT NN NN IN DT JJ NN NN IN JJ NNP VBZ VBN JJ NN NN NNS VBN IN NNP .
+Civil defense workers are trying to put out a fire caused by the attack at al-Hadhar south of Mosul Thursday morning .,B-org I-org O O O O O O O O O O O O O O O O B-geo B-tim I-tim O,JJ NN NNS VBP VBG TO VB RP DT NN VBN IN DT NN IN JJ NN IN NNP NNP NN .
+The bomb blew a hole in the pipeline .,O O O O O O O O O,DT NN VBD DT NN IN DT NN .
+Iraqi officials say it will take several days to repair the damage and get oil flowing again .,B-gpe O O O O O O O O O O O O O O O O O,JJ NNS VBP PRP MD VB JJ NNS TO VB DT NN CC VB NN VBG RB .
+"The pipeline runs from northern Iraq to Ceyhan , Turkey , and typically carries about 420,000 barrels of crude oil per day , a quarter of Iraq 's overall output .",O O O O O B-geo O B-geo O B-geo O O O O O O O O O O O O O O O O B-geo O O O O,"DT NN VBZ IN JJ NNP TO NNP , NNP , CC RB VBZ IN CD NNS IN JJ NN IN NN , DT NN IN NNP POS JJ NN ."
+The pipeline was last attacked in December .,O O O O O O B-tim O,DT NN VBD JJ VBN IN NNP .

@@ -1,0 +1,8 @@
+American tennis veteran Andre Agassi has notched another win at the Delray Beach International Championships in Florida .,B-gpe O O B-per I-per O O O O O O B-org I-org I-org I-org O B-geo O,JJ NN NN NNP NNP VBZ VBN DT NN IN DT NNP NNP NNP NNP IN NNP .
+But the tournament 's top seed had to work to get past Ramon Delgado of Paraguay Wednesday .,O O O O O O O O O O O O B-per I-per O B-geo B-tim O,CC DT NN POS JJ NN VBD TO VB TO VB JJ NNP NNP IN NNP NNP .
+"After losing the first set , 4-6 , Agassi survived a tough second set that included two match points , 7-6 .",O O O O O O O O B-per O O O O O O O O O O O O O,"IN VBG DT JJ NN , CD , NNP VBD DT JJ JJ NN WDT VBD CD NN NNS , CD ."
+"He then cruised through the deciding third set , 6-0 .",O O O O O O O O O O O,"PRP RB VBD IN DT JJ JJ NN , CD ."
+Also winning in the second round was third seeded Xavier Malisse of Belgium .,O O O O O O O O O B-per I-per O B-geo O,RB VBG IN DT JJ NN VBD JJ JJ NNP NNP IN NNP .
+"He defeated American Justin Gimelstob , 6-2 , 7-5 .",O O B-gpe B-per I-per O O O O O,"PRP VBD JJ NNP NNP , CD , CD ."
+"German Florian Mayer , the sixth seed at the Delray Beach Tennis Center , ousted Oliver Marach of Austria , 7-5 , 6-3 .",O B-per I-per O O O O O O B-org I-org I-org I-org O O B-per I-per O B-geo O O O O O,"JJ NNP NNP , DT JJ NN IN DT NNP NNP NNP NNP , VBD NNP NNP IN NNP , CD , CD ."
+"Guillermo Garcia-Lopez of Spain was a 6-3 , 6-2 winner over Todd Widom of the United States in a match between unseeded players .",B-per I-per O B-geo O O O O O O O B-geo I-geo O O B-geo I-geo O O O O O O O,"NNP NNP IN NNP VBD DT CD , CD NN IN NNP NNP IN DT NNP NNPS IN DT NN IN JJ NNS ."

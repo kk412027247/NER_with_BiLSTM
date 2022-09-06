@@ -1,0 +1,9 @@
+"The World Economic Forum has listed Switzerland as having the world 's most competitive economy , replacing the United States .",O B-org I-org I-org O O B-geo O O O O O O O O O O O B-geo I-geo O,"DT NNP NNP NNP VBZ VBN NNP IN VBG DT NN POS RBS JJ NN , VBG DT NNP NNPS ."
+"In its annual report , the Geneva-based research institution Tuesday praised Switzerland 's highly sophisticated business culture and its laws protecting intellectual property .",O O O O O O O O O B-tim O B-geo O O O O O O O O O O O O,"IN PRP$ JJ NN , DT JJ NN NN NNP VBD NNP POS RB JJ NN NN CC PRP$ NNS VBG JJ NN ."
+"Finland , Sweden and Denmark ranked second , third and fourth .",B-geo O B-geo O B-geo O O O O O O O,"NNP , NNP CC NNP VBD JJ , JJ CC JJ ."
+The survey said the three Scandinavian nations all have budget surpluses and low levels of public debt .,O O O O O O O O O O O O O O O O O O,DT NN VBD DT CD JJ NNS DT VBP NN NNS CC JJ NNS IN JJ NN .
+"Singapore led Asian nations in competitiveness , ranking fifth .",B-org O O O O O O O O O,"NNP VBD JJ NNS IN NN , JJ NN ."
+The United States fell from the top position to sixth .,O B-geo I-geo O O O O O O O O,DT NNP NNPS VBD IN DT JJ NN TO JJ .
+The forum said growing trade imbalances hurt Washington 's economic standing .,O O O O O O O B-geo O O O O,DT NN VBD VBG NN NNS VBP NNP POS JJ NN .
+"Japan , Germany , the Netherlands and Britain rounded out the top 10 .",B-geo O B-geo O B-geo I-geo O B-geo O O O O B-tim O,"NNP , NNP , DT NNP CC NNP VBD RP DT JJ CD ."
+"The World Economic Forum rates 125 countries based on a variety of factors - including market efficiency , education and training , innovation , infrastructure and technological development .",O B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NNP NNS CD NNS VBN IN DT NN IN NNS : VBG NN NN , NN CC NN , NN , NN CC JJ NN ."

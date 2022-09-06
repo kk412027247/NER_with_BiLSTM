@@ -1,0 +1,8 @@
+Spain has announced its Davis Cup tennis team that will host the United States in the final next month in Seville .,B-gpe O O O B-per I-per O O O O O O B-geo I-geo O O O O O B-tim I-tim O,NNP VBZ VBN PRP$ NNP NNP NN NN WDT MD VB DT NNP NNPS IN DT JJ JJ NN IN NNP .
+"The team members are Juan Carlos Ferrero , Carlos Moya , Rafael Nadal and Tommy Robredo , the same players Spain used to beat the Netherlands in the quarterfinal and France in the semifinal .",O O O O B-per I-per I-per O B-per I-per O B-per I-per O B-per I-per O O O O B-gpe O O O O B-geo O O O O B-geo O O O O,"DT NN NNS VBP NNP NNP NNP , NNP NNP , NNP NNP CC NNP NNP , DT JJ NNS NNP VBD TO VB DT NNP IN DT JJ CC NNP IN DT NN ."
+Moya is the highest ranked player on the team at number five .,B-per O O O O O O O O O O O O,NNP VBZ DT JJS VBN NN IN DT NN IN NN CD .
+Robredo is next at 13th .,B-per O O O B-tim O,NNP VBZ JJ IN NN .
+"The United States announced its team for the final last month , and it will be headed by world number two Andy Roddick .",O B-geo I-geo O O O O O O O O O O O O O O O O O O B-per I-per O,"DT NNP NNP VBD PRP$ NN IN DT JJ JJ NN , CC PRP MD VB VBN IN NN NN CD NNP NNP ."
+The Davis Cup final is set for December 3-5 .,O B-per I-per O O O O B-tim I-tim O,DT NNP NNP JJ VBZ VBN IN NNP CD .
+"The United States has won the cup a record 31 times but this is the first final since 1997 for the Americans , who last took the title in 1995 .",O B-geo I-geo O O O O O O O O O O O O O O O B-tim O O B-gpe O O O O O O O B-tim O,"DT NNP NNP VBZ VBN DT NN DT NN CD NNS CC DT VBZ DT JJ JJ IN CD IN DT NNS , WP JJ VBD DT NN IN CD ."
+Spain won the Davis Cup in 2000 .,B-gpe O O B-per I-per O B-tim O,NNP VBD DT NNP NNP IN CD .

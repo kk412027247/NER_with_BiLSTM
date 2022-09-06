@@ -1,0 +1,7 @@
+Investors got a mixed bag of U.S. economic information on Friday .,O O O O O O B-geo O O O B-tim O,NNS VBD DT JJ NN IN NNP JJ NN IN NNP .
+The huge General Electric corporation reported an 18 percent increase in profits in the last three months of 2004 .,O O B-org I-org O O O O O O O O O O O B-tim O B-tim I-tim O,DT JJ NNP NNP NN VBD DT CD NN NN IN NNS IN DT JJ CD NNS IN CD .
+"GE officials say strong industrial sales along with an "" excellent "" global economy helped them make nearly $ 5.4 billion during the period .",B-org O O O O O O O O O O O O O O O O O O O O O O B-tim O,NNP NNS VBP JJ JJ NNS IN IN DT LQU JJ LQU JJ NN VBD PRP VB RB $ CD CD IN DT NN .
+"Measured by its value on the stock market , GE is the biggest U.S. corporation .",O O O O O O O O O B-org O O O B-geo O O,"VBN IN PRP$ NN IN DT NN NN , NNP VBZ DT JJS NNP NN ."
+Researchers say U.S. consumers have a different view of the economy .,O O B-geo O O O O O O O O O,NNS VBP NNP NNS VBP DT JJ NN IN DT NN .
+"On Friday the University of Michigan said its index of consumer confidence declined 1.3 percent in early January , to a reading of 95.8 .",O B-tim O B-org I-org I-org O O O O O O O O O O O B-tim O O O O O O O,"IN NNP DT NNP IN NNP VBD PRP$ NN IN NN NN VBD CD NN IN JJ NNP , TO DT NN IN CD ."
+"Experts track consumer confidence for hints about future consumer spending , which drives much of the economic activity in the United States .",O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,"NNS VBP NN NN IN NNS IN JJ NN NN , WDT VBZ NN IN DT JJ NN IN DT NNP NNPS ."

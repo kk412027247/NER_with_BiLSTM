@@ -1,0 +1,8 @@
+Iranian media report that inspectors from the U.N. International Atomic Energy Agency will travel to Iran early next month .,B-gpe O O O O O O B-org I-org I-org I-org I-org O O O B-geo O O O O,JJ NNS VBP IN NNS IN DT NNP NNP NNP NNP NNP MD VB TO NNP RB JJ NN .
+News reports Saturday quote an unnamed Iranian official as saying a delegation will visit on August 6 to discuss technical issues and regulations .,O O B-tim O O O B-gpe O O O O O O O O B-tim I-tim O O O O O O O,NNP NNS NNP VBP DT JJ JJ NN IN VBG DT NN MD VB IN NNP CD TO VB JJ NNS CC NNS .
+"Separately , the United Nations ' nuclear agency is set to inspect Iran 's heavy water nuclear reactor in a matter of days .",O O O B-org I-org O O O O O O O B-org O O O O O O O O O O O,"RB , DT NNP NNPS POS JJ NN VBZ VBN TO VB NNP POS JJ NN JJ NN IN DT NN IN NNS ."
+That reactor is under construction in the industrial city of Arak .,O O O O O O O O O O B-geo O,DT NN VBZ IN NN IN DT JJ NN IN NNP .
+It will produce plutonium once it is completed .,O O O O O O O O O,PRP MD VB NN RB PRP VBZ VBN .
+Enriched plutonium and uranium can be used to build nuclear weapons .,O O O O O O O O O O O O,VBN NN CC NN MD VB VBN TO VB JJ NNS .
+The U.N. Security Council has imposed two sets of sanctions on Iran because of its refusal to suspend uranium enrichment .,O B-org I-org I-org O O O O O O O B-org O O O O O O O O O,DT NNP NNP NNP VBZ VBN CD NNS IN NNS IN NNP IN IN PRP$ NN TO VB NN NN .
+"The United States and its Western allies accuse Iran of trying to develop nuclear weapons , but Iran says its atomic program is for peaceful purposes .",O B-org I-org O O O O O B-org O O O O O O O O B-org O O O O O O O O O,"DT NNP NNPS CC PRP$ JJ NNS VBP NNP IN VBG TO VB JJ NNS , CC NNP VBZ PRP$ JJ NN VBZ IN JJ NNS ."

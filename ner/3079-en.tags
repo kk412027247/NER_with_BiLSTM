@@ -1,0 +1,8 @@
+"Iraqi officials have increased security in the holy city of Karbala where tens of thousands of pilgrims are gathering for Ashura , one of the most important holy days for Shi'ites .",B-gpe O O O O O O O O O B-geo O O O O O O O O O B-geo O O O O O O O O O O O,"JJ NNS VBP VBN NN IN DT JJ NN IN NNP WRB NNS IN NNS IN NNS VBP VBG IN NNP , CD IN DT RBS JJ JJ NNS IN NNS ."
+"Authorities have deployed at least 23,000 security force members around the city , located south of Baghdad .",O O O O O O O O O O O O O O O O B-geo O,"NNS VBP VBN IN JJS CD NN NN NNS IN DT NN , VBN NN IN NNP ."
+Police say a roadside bomb targeting Shi'ite pilgrims exploded in Baghdad,O O O O O O O O O O B-geo,NNS VBP DT NN NN VBG NNP NNS VBD IN NNP
+"Tuesday , killing at least 39 people .",B-tim O O O O O O O,"NNP , VBG IN JJS CD NNS ."
+"Iraqi officials say at least four Shi'ite pilgrims were killed in a suicide bombing near the capital , Monday .",B-gpe O O O O O O O O O O O O O O O O O B-tim O,"JJ NNS VBP IN JJS CD NNP NNS VBD VBN IN DT NN VBG IN DT NN , NNP ."
+Ashura is celebrated by Shi'ite Muslims around the world .,B-geo O O O O O O O O O,NNP VBZ VBN IN NNP NNPS IN DT NN .
+"It commemorates the death of Imam Hussein more than 1,300 years ago .",O O O O O B-geo I-geo O O B-tim O O O,PRP VBZ DT NN IN NNP NNP JJR IN CD NNS RB .
+He was a grandson of the Prophet Mohammed .,O O O O O O B-org I-org O,PRP VBD DT NN IN DT NNP NNP .

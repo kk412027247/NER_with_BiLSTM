@@ -1,0 +1,8 @@
+"The Palestinian militant group Islamic Jihad says an Israeli airstrike in the Gaza strip has killed three of its members , including a top commander .",O B-gpe O O B-per I-per O O B-gpe O O B-geo I-geo I-geo O O O O O O O O O O O O,"DT JJ JJ NN NNP NNP VBZ DT JJ NN IN DT NNP NN VBZ VBN CD IN PRP$ NNS , VBG DT JJ NN ."
+The Israeli army confirmed the strike on a vehicle carrying the militants Thursday in Gaza City .,O B-gpe O O O O O O O O O O B-tim O B-geo I-geo O,DT JJ NN VBD DT NN IN DT NN VBG DT NNS NNP IN NNP NNP .
+"Earlier Thursday in the southern Gaza Strip , Palestinian medical officials said Israeli forces killed a Hamas militant during a military operation .",O B-tim O O O B-geo I-geo O B-gpe O O O B-gpe O O O B-org O O O O O O,"RB NNP IN DT JJ NNP NNP , JJ JJ NNS VBD JJ NNS VBD DT NNP NN IN DT JJ NN ."
+The Israeli army said the operation was aimed at preventing terrorist threats .,O B-gpe O O O O O O O O O O O,DT JJ NN VBD DT NN VBD VBN IN VBG JJ NNS .
+The area is a source for rocket fire into Israel .,O O O O O O O O O B-geo O,DT NN VBZ DT NN IN NN NN IN NNP .
+"In the occupied West Bank , the Israeli military said a Palestinian man tried to stab a soldier near a Jewish settlement .",O O O B-org I-org O O B-gpe O O O B-gpe O O O O O O O O O O O,"IN DT JJ NNP NNP , DT JJ NN VBD DT JJ NN VBD TO VB DT NN IN DT JJ NN ."
+"It said another soldier hit the attacker in the head , seriously injuring him .",O O O O O O O O O O O O O O O,"PRP VBD DT NN VBD DT NN IN DT NN , RB VBG PRP ."
+"Palestinian witnesses say that during a scuffle an Israeli soldier shot the man , who later died of his wounds .",B-gpe O O O O O O O B-gpe O O O O O O O O O O O O,"JJ NNS VBP IN IN DT NN DT JJ NN VBD DT NN , WP RB VBD IN PRP$ NNS ."

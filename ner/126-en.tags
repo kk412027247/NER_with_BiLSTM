@@ -1,0 +1,8 @@
+The French parliament has thrown out a bill that would have allowed farmers to grow genetically modified crops .,O B-gpe O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN RP DT NN WDT MD VB VBN NNS TO VB RB VBN NNS .
+Lawmakers narrowly rejected the bill Tuesday 136 to 135 .,O O O O O B-tim I-tim I-tim I-tim O,NNS RB VBD DT NN NNP CD TO CD .
+"Protesters against the bill , some wearing hats shaped like corn cobs , cheered when the results were announced .",O O O O O O O O O O O O O O O O O O O O,"NNS IN DT NN , DT VBG NNS VBD IN NN NNS , VBD WRB DT NNS VBD VBN ."
+French Prime Minister Francois Fillon says he plans to submit a new bill to parliament .,B-gpe B-per I-per I-per I-per O O O O O O O O O O O,JJ JJ NN NNP NNP VBZ PRP VBZ TO VB DT JJ NN TO NN .
+Genetically modified crops have had their DNA engineered to make them resistant to disease and pests .,O O O O O O O O O O O O O O O O O,RB VBN NNS VBP VBN PRP$ NN VBN TO VB PRP JJ TO NN CC NNS .
+"Surveys show many French oppose such foods , saying their safety is still not assured .",O O O B-gpe O O O O O O O O O O O O,"NNS VBP JJ NNS VBP JJ NNS , VBG PRP$ NN VBZ RB RB VBN ."
+"In February , France imposed a temporary ban on genetically modified corn approved for sale by the European Union .",O B-tim O B-org O O O O O O O O O O O O O B-org I-org O,"IN NNP , NNP VBD DT JJ NN IN RB VBN NN VBN IN NN IN DT NNP NNP ."
+The corn is produced by the U.S. company Monsanto .,O O O O O O B-geo O B-geo O,DT NN VBZ VBN IN DT NNP NN NNP .

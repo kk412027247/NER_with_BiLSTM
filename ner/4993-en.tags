@@ -1,0 +1,8 @@
+"The Pacific Ocean was so named for its seemingly peaceful character , but unusually high waves pounded the California coastline Thursday .",O B-geo I-geo O O O O O O O O O O O O O O O B-geo O B-tim O,"DT NNP NNP VBD RB VBN IN PRP$ RB JJ NN , CC RB JJ NNS VBD DT NNP NN NNP ."
+"The waves rose up to five and one half meters in some places , but most were in the two-meter range .",O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBD RP TO CD CC CD NN NNS IN DT NNS , CC JJS VBD IN DT JJ NN ."
+A strong storm in the North Pacific Ocean that started out in the Gulf of Alaska generated the waves .,O O O O O B-geo I-geo I-geo O O O O O B-geo I-geo I-geo O O O O,DT JJ NN IN DT NNP NNP NNP WDT VBD RP IN DT NNP IN NNP VBD DT NNS .
+These high waves happen occasionally on the California coast and usually do n't harm coastline structures .,O O O O O O O B-geo O O O O O O O O O,DT JJ NNS VBP RB IN DT NNP NN CC RB VBP RB VB JJ NNS .
+Some beachside communities built sand berms to help protect their property .,O O O O O O O O O O O O,DT NN NNS VBN NN NNS TO VB VB PRP$ NN .
+But for the many California surfboard riders it is an exciting opportunity that only happens a couple of times each year .,O O O O B-geo O O O O O O O O O O O O O O B-tim O O,CC IN DT JJ NNP NN NNS PRP VBZ DT JJ NN WDT RB VBZ DT NN IN NNS DT NN .
+Coastline authorities and experienced surfers emphasize that only highly skilled surfers should enter the water in these extreme conditions .,O O O O O O O O O O O O O O O O O O O O,NNP NNS CC JJ NNS VBP IN RB RB JJ NNS MD VB DT NN IN DT JJ NNS .
+The large swells are expected to fade soon .,O O O O O O O O O,DT JJ NNS VBP VBN TO VB RB .

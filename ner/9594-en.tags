@@ -1,0 +1,5 @@
+Winning the women 's European football championship has given Germany sole possession of first place in the latest FIFA world rankings for women .,O O O O O O O O O B-org O O O O O O O O B-org O O O O O,VBG DT NNS POS JJ NN NN VBZ VBN NNP JJ NN IN JJ NN IN DT JJS NNP NN NNS IN NNS .
+"Previously , the Germans shared the top spot with the United States , which is now second .",O O O B-gpe O O O O O O B-org I-org O O O O O O,"RB , DT NNS VBD DT JJ NN IN DT NNP NNPS , WDT VBZ RB JJ ."
+"Germany defeated third-ranked Norway last Sunday in the European final , 3-1 .",B-org O B-tim B-org O B-tim O O O O O O O,"NNP VBD JJ NNP JJ NNP IN DT JJ JJ , JJ ."
+Brazil is the fourth ranked women 's team and France is fifth .,B-org O O O O O O O O B-org O O O,NNP VBZ DT NN VBD NNS POS NN CC NNP VBZ JJ .
+"Rounding out the latest top 10 are Sweden , South Korea , China , Denmark and Italy .",O O O O O O O B-org O B-org I-org O B-org O B-org O B-org O,"VBG IN DT JJS JJ CD VBP NNP , NNP NNP , NNP CC NNP CC NNP ."

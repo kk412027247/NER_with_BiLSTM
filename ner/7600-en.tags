@@ -1,0 +1,8 @@
+Americans are celebrating Columbus Day Monday .,B-gpe O O B-tim I-tim I-tim O,NNS VBP VBG NNP NNP NNP .
+"Columbus Day is a federal holiday observed on the second Monday in October , marking the anniversary of arrival of Christopher Columbus to the Americas .",B-tim I-tim O O O O O O O O B-tim I-tim I-tim O O O O O O O B-org I-org O B-geo I-geo O,"NNP NNP VBZ DT JJ NN VBD IN DT JJ NNP IN NNP , VBG DT NN IN NN IN NNP NNP TO DT NNPS ."
+"Columbus , an Italian explorer sailing under the Spanish flag , led four expeditions to the New World , but never accomplished his original goal -- to find a western ocean route to Asia .",B-tim O O B-gpe O O O O B-gpe O O O O O O O B-org I-org O O O O O O O O O O O O O O O B-geo O,"NNP , DT JJ NN NN IN DT JJ NN , VBD CD NNS TO DT NNP NNP , CC RB VBN PRP$ JJ NN : TO VB DT JJ NN NN TO NNP ."
+"Instead , Columbus ushered in a new era in world history by opening up the Americas to exploration .",O O B-per O O O O O O O O O O O O B-geo O O O,"RB , NNP VBD IN DT JJ NN IN NN NN IN VBG RP DT NNPS TO NN ."
+Columbus Day became a U.S. holiday in 1971 .,B-per B-tim O O B-geo O O B-tim O,NNP NNP VBD DT NNP NN IN CD .
+"It is generally observed by banks , the bond market , the Postal Service and other federal agencies , along with most state government offices and some school districts .",O O O O O O O O O O O O B-org I-org O O O O O O O O O O O O O O O O,"PRP VBZ RB VBN IN NNS , DT NN NN , DT NNP NNP CC JJ JJ NNS , IN IN JJS NN NN NNS CC DT NN NNS ."
+"However , many businesses and stock exchanges remain open .",O O O O O O O O O O,"RB , JJ NNS CC NN NNS VBP JJ ."
+There is a trend among some states away from observing the holiday .,O O O O O O O O O O O O O,EX VBZ DT NN IN DT NNS RB IN VBG DT NN .

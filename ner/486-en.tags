@@ -1,0 +1,8 @@
+The U.S. military says soldiers killed 24 insurgents in Iraq who attacked coalition troops on the outskirts of Baghdad Sunday .,O B-gpe O O O O O O O B-geo O O O O O O O O B-geo B-tim O,DT NNP NN VBZ NNS VBD CD NNS IN NNP WP VBD NN NNS IN DT NNS IN NNP NNP .
+Six coalition troops were wounded in the fighting .,O O O O O O O O O,CD NN NNS VBD VBN IN DT NN .
+Another insurgent attack killed a U.S. soldier in Kirkuk .,O O O O O B-geo O O B-geo O,DT JJ NN VBD DT NNP NN IN NNP .
+"Meanwhile , in Mosul , a suicide bomber killed a top Iraqi anti-corruption official in an attack claimed by al-Qaida-linked militants .",O O O B-geo O O O O O O O B-gpe O O O O O O O O O O,"RB , IN NNP , DT NN NN VBD DT JJ JJ NN NN IN DT NN VBN IN JJ NNS ."
+"Hours later , unidentified gunmen fired on cars in his funeral procession , killing two mourners .",O O O O O O O O O O O O O O O O O,"NNS RB , JJ NNS VBD IN NNS IN PRP$ JJ NN , VBG CD NNS ."
+"And in Samarra , gunmen killed a policeman who was walking to work .",O O B-geo O O O O O O O O O O O,"CC IN NNP , NNS VBD DT NN WP VBD VBG IN NN ."
+"In other developments , Iraq temporarily recalled its ambassador to Jordan on Sunday .",O O O O B-geo O O O O O B-gpe O B-tim O,"IN JJ NNS , NNP RB VBD PRP$ NN TO NNP IN NNP ."
+The move came hours after Jordan called its top diplomat home from Baghdad for consultations after Shi'ite demonstrators raised an Iraqi flag over the Jordanian embassy .,O O O O O B-gpe O O O O O O B-geo O O O O O O O B-gpe O O O O O O,DT NN VBD NNS IN NNP VBD PRP$ JJ NN NN IN NNP IN NNS IN NNP NNS VBD DT JJ NN IN DT JJ NN .

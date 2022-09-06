@@ -1,0 +1,7 @@
+A flurry of new reports give a mixed assessment of the US economy Thursday .,O O O O O O O O O O O B-org O B-tim O,DT NN IN JJ NNS VBP DT JJ NN IN DT NNP NN NNP .
+"The job market looks better , with the Labor Department reporting the biggest drop since 2001 in requests for first-time unemployment compensation .",O O O O O O O O B-org I-org O O O O O B-tim O O O O O O O,"DT NN NN VBZ RBR , IN DT NNP NNP VBG DT JJS NN IN CD IN NNS IN JJ NN NN ."
+"Its report shows the number of such initial claims falling 43,000 to 317,000 last week .",O O O O O O O O O O O O O O O O,PRP$ NN VBZ DT NN IN JJ JJ NNS VBG CD TO CD JJ NN .
+But that news was tempered by other reports .,O O O O O O O O O,CC DT NN VBD VBN IN JJ NNS .
+"The Commerce Department says the deficit in U.S. foreign trade and investment , called the current account , hit a record $ 165 billion between July and September .",O B-org I-org O O O O B-geo O O O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim O,"DT NNP NNP VBZ DT NN IN NNP JJ NN CC NN , VBD DT JJ NN , VBD DT NN $ CD CD IN NNP CC NNP ."
+Many economists had predicted the gap between what Americans buy abroad and what they sell would be even worse .,O O O O O O O O B-gpe O O O O O O O O O O O,JJ NNS VBD VBN DT NN IN WP NNS VBP RB CC WP PRP VBP MD VB RB JJR .
+"Commerce also reported the number of new houses started in November dropped 13 percent , the sharpest decline in almost 11 years .",B-org O O O O O O O O O B-tim O O O O O O O O B-tim I-tim O O,"NNP RB VBD DT NN IN JJ NNS VBD IN NNP VBD CD NN , DT JJS NN IN RB CD NNS ."

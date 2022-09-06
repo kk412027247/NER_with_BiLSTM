@@ -1,0 +1,8 @@
+"Germany 's national football ( soccer ) team has risen to fifth in the world in the latest International Football Federation rankings , the first poll to include all the world 's football associations .",B-gpe O O O O O O O O O O O O O O O O O B-org I-org I-org O O O O O O O O O O O O O O,"NNP POS JJ NN LRB NN RRB NN VBZ VBN TO NN IN DT NN IN DT JJS NNP NNP NNP NNS , DT JJ NN TO VB PDT DT NN POS NN NNS ."
+"Brazil is still the top team in the world followed by World Cup champions Italy , Argentina , and France .",B-gpe O O O O O O O O O O B-org I-org O B-gpe O B-gpe O O B-gpe O,"NNP VBZ RB DT JJ NN IN DT NN VBN IN NNP NNP NNS NNP , NNP , CC NNP ."
+"However , Germany rose to fifth ahead of England after the devaluation of previous results .",O O B-gpe O O O O O B-gpe O O O O O O O,"RB , NNP VBD TO RB RB IN NNP IN DT NN IN JJ NNS ."
+"The Netherlands is seventh , followed by Portugal , Nigeria , and the Czech Republic .",O B-gpe O O O O O B-gpe O B-gpe O O O B-gpe I-gpe O,"DT NNP VBZ JJ , VBN IN NNP , NNP , CC DT JJ NNP ."
+Egypt showed the largest move in the top 25 rising eight places to 19th in the world .,B-gpe O O O O O O O O O O O O B-tim O O O O,NNP VBD DT JJS NN IN DT JJ CD VBG CD NNS TO JJ IN DT NN .
+Denmark dropped two places to 23rd while Russia moved up two to 24th .,B-gpe O O O O O O B-gpe O O B-tim I-tim I-tim O,NNP VBD CD NNS TO CD IN NNP VBD RB CD TO CD .
+The United States remained in 31st place .,O B-gpe I-gpe O O B-tim O O,DT NNP NNPS VBD IN CD NN .
+January 's rankings were the first ever to include all 207 worldwide football associations .,B-tim O O O O O O O O O O O O O O,NNP POS NNS VBD DT JJ RB TO VB DT CD JJ NN NNS .

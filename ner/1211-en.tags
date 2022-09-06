@@ -1,0 +1,9 @@
+Militant nationalists have claimed responsibility for a bomb blast in southwestern Pakistan that killed at least 11 people Friday .,O O O O O O O O O O O B-geo O O O O O O B-tim O,JJ NNS VBP VBN NN IN DT NN NN IN JJ NNP WDT VBD IN JJS CD NNS NNP .
+"The bomb exploded near a military truck in Quetta , the capital of Baluchistan province .",O O O O O O O O B-geo O O O O B-geo O O,"DT NN VBD IN DT JJ NN IN NNP , DT NN IN NNP NN ."
+At least one of the dead was a Pakistani soldier .,O O O O O O O O B-gpe O O,IN JJS CD IN DT NN VBD DT JJ NN .
+At least 24 people were wounded .,O O O O O O O,IN JJS CD NNS VBD VBN .
+"The claim of responsibility came from a group calling itself the Baluchistan National Army , which said the military truck and its occupants were the intended target .",O O O O O O O O O O O B-org I-org I-org O O O O O O O O O O O O O O,"DT NN IN NN VBD IN DT NN VBG PRP DT NNP NNP NNP , WDT VBD DT JJ NN CC PRP$ NNS VBD DT JJ NN ."
+But most of the dead were civilians .,O O O O O O O O,CC JJS IN DT NN VBD NNS .
+The blast also destroyed several vehicles and damaged nearby shops .,O O O O O O O O O O O,DT NN RB VBD JJ NNS CC VBN JJ NNS .
+Information Minister Sheikh Rashid Ahmed condemned the bombing and said it would not go unpunished .,B-org B-per I-per I-per I-per O O O O O O O O O O O,NN NNP NNP NNP NNP VBD DT NN CC VBD PRP MD RB VB JJ .
+Recent violence in Baluchistan has been blamed on local struggles for greater autonomy and a bigger share of the province 's natural resources .,O O O B-geo O O O O O O O O O O O O O O O O O O O O,JJ NN IN NNP VBZ VBN VBN IN JJ NNS IN JJR NN CC DT JJR NN IN DT NN POS JJ NNS .

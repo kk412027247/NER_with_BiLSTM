@@ -1,0 +1,8 @@
+"British police have evacuated 20,000 people from the central city of Birmingham , after intelligence suggested a security threat .",B-gpe O O O O O O O O O O B-geo O O O O O O O O,"JJ NNS VBP VBN CD NNS IN DT JJ NN IN NNP , IN NN VBD DT NN NN ."
+Police on Saturday said they do not think the threat to England 's second-biggest city is linked to Thursday 's bombings in London .,O O B-tim O O O O O O O O B-geo O O O O O O B-tim O O O B-geo O,NNS IN NNP VBD PRP VBP RB VB DT NN TO NNP POS JJ NN VBZ VBN TO NNP POS NNS IN NNP .
+No specific information about the threat to Birmingham was released .,O O O O O O O B-geo O O O,DT JJ NN IN DT NN TO NNP VBD VBN .
+"Located 175 kilometers northwest of the capital , Birmingham has a lively entertainment district , packed with restaurants and nightclubs .",O O O O O O O O B-geo O O O O O O O O O O O O,"VBN CD NNS JJS IN DT NN , NNP VBZ DT JJ NN NN , VBN IN NNS CC NNS ."
+"In London , British authorities say the four bombs that devastated three subway trains and one bus Thursday were high explosives , not homemade devices .",O B-geo O B-gpe O O O O O O O O O O O O O B-tim O O O O O O O O,"IN NNP , JJ NNS VBP DT CD NNS WDT VBD CD NN NNS CC CD NN NNP VBD JJ NNS , RB JJ NNS ."
+"They note the explosions were almost simultaneous , and were likely set off by timing devices .",O O O O O O O O O O O O O O O O O,"PRP VBP DT NNS VBD RB JJ , CC VBD JJ VBN RP IN NN NNS ."
+Recovery crews are working to extricate bodies still trapped in a subway tunnel .,O O O O O O O O O O O O O O,NN NNS VBP VBG TO VB NNS RB VBN IN DT NN NN .
+British officials say the London attacks bear the hallmarks of the al-Qaida terrorist network .,B-gpe O O O B-geo O O O O O O B-org O O O,JJ NNS VBP DT NNP NNS VBP DT NNS IN DT NNP JJ NN .

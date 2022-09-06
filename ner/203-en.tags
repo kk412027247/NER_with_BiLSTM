@@ -1,0 +1,6 @@
+"Venezuela 's oil minister has said OPEC countries have reached consensus to cut back crude oil production by one million barrels a day , beginning December first .",B-org O O O O O B-org O O O O O O O O O O O O O O O O O O B-tim I-tim O,"NNP POS NN NN VBZ VBN NNP NNS VBP VBN NN TO VB RB JJ NN NN IN CD CD NNS DT NN , VBG NNP NN ."
+OPEC says it is currently producing 28 million barrels per day .,B-org O O O O O O O O O O O,NNP VBZ PRP VBZ RB VBG CD CD NNS IN NN .
+Rafael Ramirez said Friday in a television interview that OPEC oil ministers agree on the cut and will hold a meeting to discuss the mechanics of the cut .,B-per I-per O B-tim O O O O O B-org O O O O O O O O O O O O O O O O O O O,NNP NNP VBD NNP IN DT NN NN IN NNP NN NNS VBP IN DT NN CC MD VB DT NN TO VB DT NNS IN DT NN .
+An Opec official said a meeting is expected on October 20 in Qatar .,O B-org O O O O O O O B-tim I-tim O B-geo O,DT NNP NN VBD DT NN VBZ VBN IN NNP CD IN NNP .
+Ramirez said Venezuela would try to keep the price of oil above $ 55 a barrel .,B-per O B-geo O O O O O O O O O O O O O O,NNP VBD NNP MD VB TO VB DT NN IN NN IN $ CD DT NN .
+"He said Venezuela has already implemented a 50,000 barrel per day output reduction .",O O B-geo O O O O O O O O O O O,PRP VBD NNP VBZ RB VBN DT CD NN IN NN NN NN .

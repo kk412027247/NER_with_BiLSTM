@@ -1,0 +1,8 @@
+Lithuania has become the first European Union member state to ratify the bloc 's new constitution .,B-geo O O O O B-org I-org O O O O O O O O O O,NNP VBZ VBN DT JJ NNP NNP NN NN TO VB DT NN POS JJ NN .
+"The ratification bill passed parliament Thursday by 84 votes to four , with three abstentions .",O O O O O B-tim O O O O O O O O O O,"DT NN NN VBN NN NNP IN CD NNS TO CD , IN CD NNS ."
+The constitution will create an EU president and foreign minister .,O O O O O B-org O O O O O,DT NN MD VB DT NNP NN CC JJ NN .
+"It is aimed at speeding up decision-making by ending national vetoes in certain policy areas , including the economy , the judiciary and education .",O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ VBN IN VBG RP NN IN VBG JJ NNS IN JJ NN NNS , VBG DT NN , DT NN CC NN ."
+"Supporters called ratification a "" logical "" and "" honorable "" step .",O O O O O O O O O O O O O,NNS VBD NN DT LQU JJ LQU CC LQU JJ RQU NN .
+But opponents called it a blow to Lithuania 's independence .,O O O O O O O B-geo O O O,CC NNS VBD PRP DT NN TO NNP POS NN .
+"The Baltic country 's president , Valdas Adamkus , was one of 25 EU leaders who signed the constitution on October 29 in Rome .",O B-geo O O O O B-per I-per O O O O O B-org O O O O O O B-tim I-tim O B-geo O,"DT NNP NN POS NN , NNP NNP , VBD CD IN CD NNP NNS WP VBD DT NN IN NNP CD IN NNP ."
+The constitution will come into effect in two years if the remaining member states ratify it .,O O O O O O O B-tim O O O O O O O O O,DT NN MD VB IN NN IN CD NNS IN DT VBG NN NNS VBP PRP .

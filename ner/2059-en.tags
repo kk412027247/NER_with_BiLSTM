@@ -1,0 +1,9 @@
+Two car bombs have killed at least 11 Iraqis in Baghdad .,O O O O O O O O B-gpe O B-geo O,CD NN NNS VBP VBN IN JJS CD NNS IN NNP .
+Police said the bombs went off Thursday at a gas station and at a crowded outdoor market in eastern Baghdad .,O O O O O O B-tim O O O O O O O O O O O B-geo I-geo O,NNS VBD DT NNS VBD RP NNP IN DT NN NN CC IN DT JJ JJ NN IN JJ NNP .
+At least 70 people were injured .,O O O O O O O,IN JJS CD NNS VBD VBN .
+"Earlier , a roadside bomb killed three Iraqi soldiers in the capital .",O O O O O O O B-gpe O O O O O,"RB , DT NN NN VBD CD JJ NNS IN DT NN ."
+"Also on Thursday , a U.S. helicopter fired rockets into a Shiite neighborhood in Baghdad during a clash with gunmen .",O O B-tim O O B-geo O O O O O O O O B-geo O O O O O O,"RB IN NNP , DT NNP NN VBD NNS IN DT JJ NN IN NNP IN DT NN IN NNS ."
+Iraqi officials said the airstrike killed a woman who was not involved in the fighting .,B-gpe O O O O O O O O O O O O O O O,JJ NNS VBD DT NN VBD DT NN WP VBD RB VBN IN DT NN .
+"The U.S. military said the helicopter returned fire while pursuing "" known Sunni Muslim terrorists "" in the Sadr City area of the capital .",O B-geo O O O O O O O O O O B-per I-per O O O O B-geo I-geo O O O O O,DT NNP NN VBD DT NN VBD NN IN VBG LQU VBN NNP NNP NNS RQU IN DT NNP NNP NN IN DT NN .
+"In other violence , five U.S. servicemen died in several attacks , including three in a roadside bombing .",O O O O O B-geo O O O O O O O O O O O O O,"IN JJ NN , CD NNP NNS VBD IN JJ NNS , VBG CD IN DT NN NN ."
+"Gunmen also kidnapped two Iraqi journalists working for Sumariya TV , an Iraqi station as they were returning to their office in Baghdad .",O O O O B-gpe O O O B-org I-org O O B-gpe O O O O O O O O O B-geo O,"NNS RB VBD CD JJ NNS VBG IN NNP NNP , DT JJ NN IN PRP VBD VBG TO PRP$ NN IN NNP ."

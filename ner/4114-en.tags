@@ -1,0 +1,9 @@
+Forensics experts in Indonesia now say that three of four unidentifiied victims of Saturday 's bomb blasts in Bali were Australian nationals .,O O O B-geo O O O O O O O O O B-tim O O O O B-geo O B-gpe O O,NNS NNS IN NNP RB VBP IN CD IN CD JJ NNS IN NNP POS NN NNS IN NNP VBD JJ NNS .
+A total of four Australians are now confirmed to have died in the apparent suicide bombings that killed 19 people in addition to the three bombers .,O O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O,DT NN IN CD NNS VBP RB VBN TO VB VBN IN DT JJ NN NNS WDT VBD CD NNS IN NN TO DT CD NNS .
+One Japanese national was also killed in the attacks .,O B-gpe O O O O O O O O,CD JJ NN VBD RB VBN IN DT NNS .
+The remaining victims were Indonesian .,O O O O B-gpe O,DT VBG NNS VBD JJ .
+One victim remains unidentified .,O O O O O,CD NN VBZ JJ .
+"Wednesday , Australian officials said Foreign Minister Alexander Downer would travel to Indonesia soon to lobby the Indonesian government to ban the al-Qaida linked Jemaah Islamiyah .",B-tim O B-gpe O O O O B-per I-per O O O B-geo O O O O B-gpe O O O O B-org O B-org I-org O,"NNP , JJ NNS VBD NNP NNP NNP NNP MD VB TO NNP RB TO VB DT JJ NN TO VB DT NNP VBN NNP NNP ."
+"The group is believed to be behind Saturday 's bombings , as well as the 2002 Bali bombings which killed 202 people , including 88 Australians .",O O O O O O O B-tim O O O O O O O B-tim B-geo O O O O O O O O B-gpe O,"DT NN VBZ VBN TO VB IN NNP POS NNS , RB RB IN DT CD NNP NNS WDT VBD CD NNS , VBG CD NNS ."
+Authorities have questioned 94 people in connection with the bombings .,O O O O O O O O O O O,NNS VBP VBN CD NNS IN NN IN DT NNS .
+"However , no arrests have been made , despite a massive manhunt .",O O O O O O O O O O O O O,"RB , DT NNS VBP VBN VBN , IN DT JJ NN ."

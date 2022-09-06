@@ -1,0 +1,6 @@
+Shops and schools are closed in the main city of Indian Kashmir in protest of Israel 's continuing air strikes on southern Lebanon .,O O O O O O O O O O B-gpe B-geo O O O B-geo O O O O O O B-geo O,NNS CC NNS VBP VBN IN DT JJ NN IN JJ NNP IN NN IN NNP POS VBG NN NNS IN JJ NNP .
+The one-day strike Saturday in Kashmir 's summer capital of Srinagar was called by Syed Ali Geelani .,O O O B-tim O B-geo O B-tim O O B-geo O O O B-per I-per I-per O,DT JJ NN NNP IN NNP POS NN NN IN NNP VBD VBN IN NNP NNP NNP .
+"He heads the hard-line wing of the separatist alliance , the All Parties Hurriyat Conference .",O O O O O O O O O O O B-org I-org I-org I-org O,"PRP VBZ DT JJ NN IN DT JJ NN , DT NNP NNP NNP NNP ."
+Angry protests were held in several parts of India Friday against Israel 's military action .,O O O O O O O O B-geo B-tim O B-geo O O O O,JJ NNS VBD VBN IN JJ NNS IN NNP NNP IN NNP POS JJ NN .
+Protests erupted soon after Muslim prayers Friday afternoon in Kashmir .,O O O O B-org O B-tim O O B-geo O,NNS VBD RB IN NNP NNS NNP NN IN NNP .
+Kashmir is divided between India and Pakistan and is claimed in full by both,B-geo O O O B-geo O B-geo O O O O O O O,NNP VBZ VBN IN NNP CC NNP CC VBZ VBN IN JJ IN DT

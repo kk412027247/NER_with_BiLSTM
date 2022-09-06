@@ -1,0 +1,8 @@
+"Mexican police say gunmen shot 13 recovering drug addicts inside a rehabilitation center , killing at least 10 of them .",B-gpe O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP NNS VBD CD VBG NN NNS IN DT NN NN , VBG IN JJS CD IN PRP ."
+"Witnesses say the armed men burst into the center , lined up the clients and opened fire on them .",O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT JJ NNS VBD IN DT NN , VBD RP DT NNS CC VBD NN IN PRP ."
+"The attack took place Sunday in the city of Tijuana , near the U.S. border .",O O O O B-tim O O O O B-geo O O O B-geo O O,"DT NN VBD NN NNP IN DT NN IN NNP , IN DT NNP NN ."
+Police did not immediately identify a motive .,O O O O O O O O,NNS VBD RB RB VB DT NN .
+But authorities suspect the killings may be linked to drug gangs .,O O O O O O O O O O O O,CC NNS VBP DT NNS MD VB VBN TO NN NNS .
+Mexican security forces have been engaged in a brutal struggle against the country 's violent drug cartels since President Felipe Calderon took office in 2006 .,B-gpe O O O O O O O O O O O O O O O O O B-per I-per I-per O O O B-tim O,JJ NN NNS VBP VBN VBN IN DT JJ NN IN DT NN POS JJ NN NNS IN NNP NNP NNP VBD NN IN CD .
+"Nearly 30,000 people have been killed since the campaign began .",O O O O O O O O O O O,RB CD NNS VBP VBN VBN IN DT NN VBD .
+"Last week , Mexican security forces seized 105 tons of marijuana in Tijuana , the largest Mexican drug bust in recent years .",O O O B-gpe O O O O O O O O B-geo O O O B-gpe O O O B-tim O O,"JJ NN , JJ NN NNS VBN CD NNS IN NN IN NNP , DT JJS JJ NN NN IN JJ NNS ."

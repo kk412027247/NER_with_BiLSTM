@@ -1,0 +1,7 @@
+"The swollen waters of the Mississippi River in the central U.S. have broken through another embankment , threatening to flood more houses and farmland .",O O O O O B-geo I-geo O O O B-geo O O O O O O O O O O O O O O,"DT JJ NNS IN DT NNP NNP IN DT JJ NNP VBP VBN IN DT NN , VBG TO VB JJR NNS CC NN ."
+"The sandbag-reinforced levee broke early this Friday morning near the city of Winfield , in the state of Missouri , about 70 kilometers northeast of St. Louis .",O O O O O O B-tim I-tim O O O O B-geo O O O O O B-geo O O O O O O B-geo I-geo O,"DT JJ NN VBD RB DT NNP NN IN DT NN IN NNP , IN DT NN IN NNP , IN CD NNS NN IN NNP NNP ."
+"Officials say it will "" ultimately inundate "" the town .",O O O O O O O O O O O,NNS VBP PRP MD LQU RB VB RQU DT NN .
+"It is the latest of dozens of embankments to fail to contain the rain-flooded Mississippi over the past 10 days , ruining buildings and huge areas of farmland .",O O O O O O O O O O O O O O B-geo O O B-tim I-tim O O O O O O O O O O,"PRP VBZ DT JJS IN NNS IN NNS TO VB TO VB DT JJ NNP IN DT JJ CD NNS , VBG NNS CC JJ NNS IN NN ."
+Authorities say the worst of the flooding is over .,O O O O O O O O O O,NNS VBP DT JJS IN DT NN VBZ IN .
+But the effects are likely to continue .,O O O O O O O O,CC DT NNS VBP JJ TO VB .
+"The farms are major producers of corn , wheat and soybeans , prompting fears that crop losses will result in higher worldwide food prices .",O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBP JJ NNS IN NN , NN CC NNS , VBG NNS IN NN NNS MD VB IN JJR JJ NN NNS ."

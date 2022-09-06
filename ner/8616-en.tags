@@ -1,0 +1,5 @@
+The European Union has imposed more sanctions on Burma .,O B-org I-org O O O O O B-geo O,DT NNP NNP VBZ VBN JJR NNS IN NNP .
+"The new sanctions , adopted at an EU foreign ministers ' meeting in Brussels , include an embargo on the import of timber , gems and metals from Burma .",O O O O O O O B-org O O O O O B-geo O O O O O O O O O O O O O O B-geo O,"DT JJ NNS , VBN IN DT NNP JJ NNS POS NN IN NNP , VBP DT NN IN DT NN IN NN , NNS CC NNS IN NNP ."
+They also extend a list of Burmese leaders and their relatives subject to a travel ban and assets freeze .,O O O O O O B-gpe O O O O O O O O O O O O O,PRP RB VBP DT NN IN JJ NNS CC PRP$ NNS JJ TO DT NN NN CC NNS NN .
+"The EU foreign ministers urged Burma 's military government to enter into a "" meaningful dialogue "" that will lead to democracy .",O B-org O O O B-geo O O O O O O O O O O O O O O O O O,DT NNP JJ NNS VBD NNP POS JJ NN TO VB IN DT LQU JJ NN RQU WDT MD VB TO NN .
+They also called for the lifting of all restrictions on detained opposition leader Aung San Suu Kyi .,O O O O O O O O O O O O O B-geo I-geo I-geo I-geo O,PRP RB VBD IN DT NN IN DT NNS IN JJ NN NN NNP NNP NNP NNP .

@@ -1,0 +1,8 @@
+"Machinists for the U.S. airplane maker Boeing voted to strike Friday , after rejecting a new contract offer .",B-org O O B-geo O O B-org O O O B-tim O O O O O O O O,"NNS IN DT NNP NN NN NNP VBD TO VB NNP , IN VBG DT JJ NN NN ."
+"Union members voted late Thursday to authorize the strike by more than 18,000 workers who manufacture components and assemble planes .",B-org O O O B-tim O O O O O O O O O O O O O O O O,NNP NNS VBD JJ NNP TO VB DT NN IN JJR IN CD NNS WP VBP NNS CC JJ NNS .
+Boeing officials expressed disappointment at the vote .,B-org O O O O O O O,NNP NNS VBD NN IN DT NN .
+"In a written statement , they said they will not assemble airplanes during the strike .",O O O O O O O O O O O O O O O O,"IN DT JJ NN , PRP VBD PRP MD RB VB NNS IN DT NN ."
+"Earlier , Boeing officials warned a strike would be devastating to the company .",O O B-org O O O O O O O O O O O,"RB , NNP NNS VBD DT NN MD VB JJ TO DT NN ."
+"Union leaders had urged members to reject the new contract , saying it failed to meet their demands on health care and pension benefits .",B-org O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNS VBD VBN NNS TO VB DT JJ NN , VBG PRP VBD TO VB PRP$ NNS IN NN NN CC NN NNS ."
+"Boeing managers were seeking to cut some benefit costs , which they say have risen sharply in recent years .",B-org O O O O O O O O O O O O O O O O B-tim O O,"NNP NNS VBD VBG TO VB DT NN NNS , WDT PRP VBP VBP VBN RB IN JJ NNS ."
+Boeing is currently locked in a trade dispute with its European rival Airbus over government subsidies .,B-org O O O O O O O O O O O B-org O O O O,NNP VBZ RB VBN IN DT NN NN IN PRP$ JJ JJ NNP IN NN NNS .

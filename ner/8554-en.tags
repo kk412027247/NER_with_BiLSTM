@@ -1,0 +1,8 @@
+"Morocco has scored a 1-0 victory to dampen a World Cup warmup for the U.S. men 's national football ( soccer ) team in Nashville , Tennessee .",B-geo O O O O O O O O O O O O O B-geo O O O O O O O O O B-geo O B-geo O,"NNP VBZ VBN DT JJ NN TO VB DT NNP NNP NN IN DT NNP NNS POS JJ NN LRB NN RRB NN IN NNP , NNP ."
+Subsitute Mohamed Madihi scored in the 90th minute Tuesday .,O B-per I-per O O O O B-tim I-tim O,NN NNP NNP VBD IN DT JJ NN NNP .
+"The U.S. defense got caught in the Moroccan end of the field , leaving Madihi wide open for an easy goal .",O B-geo O O O O O B-gpe O O O O O O B-per O O O O O O O,"DT NNP NN VBD VBN IN DT JJ NN IN DT NN , VBG NNP JJ NN IN DT JJ NN ."
+Worse than the loss for the Americans was an injury to captain Claudio Reyna .,O O O O O O B-gpe O O O O O B-per I-per O,JJR IN DT NN IN DT NNS VBD DT NN IN NN NNP NNP .
+He hobbled off the field with a strained right hamstring .,O O O O O O O O O O O,PRP VBD RP DT NN IN DT JJ NN NN .
+The extent of his injury was not immediately known .,O O O O O O O O O O,DT NN IN PRP$ NN VBD RB RB VBN .
+"Morocco , one of Africa 's stronger teams , did not qualify for the 32-nation World Cup field .",B-org O O O B-geo O O O O O O O O O O O O O O,"NNP , CD IN NNP POS JJR NNS , VBD RB VB IN DT JJ NNP NNP NN ."
+"The fifth-ranked United States faces Venezuela on Friday and Latvia on Sunday , two more teams that did not qualify for the World Cup .",O O B-geo I-geo O B-geo O B-tim I-tim I-tim O B-tim O O O O O O O O O O O O O,"DT JJ NNP NNPS VBZ NNP IN NNP CC NNP IN NNP , CD JJR NNS WDT VBD RB VB IN DT NNP NNP ."

@@ -1,0 +1,4 @@
+"A CROW in great want of food saw a Serpent asleep in a sunny nook , and flying down , greedily seized him .",O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN IN JJ VBP IN NN VBD DT NN JJ IN DT JJ NN , CC VBG RB , RB VBD PRP ."
+"The Serpent , turning about , bit the Crow with a mortal wound .",O O O O O O O O O O O O O O,"DT NN , VBG RB , RB DT NN IN DT JJ NN ."
+"In the agony of death , the bird exclaimed :",O O O O O O O O O O,"IN DT NN IN NN , DT NN VBD :"
+""" O unhappy me ! who have found in that which I deemed a happy windfall the source of my destruction . """,O B-geo O O O O O O O O O O O O O O O O O O O O O,RQU NNP JJ PRP . WP VBP VBN IN DT WDT PRP VBD DT JJ NN DT NN IN PRP$ NN . RQU

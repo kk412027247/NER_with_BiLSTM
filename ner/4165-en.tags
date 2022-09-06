@@ -1,0 +1,5 @@
+"Iranian President Mahmoud Ahmadinejad is reported to have called Israel the "" flag of Satan . """,B-gpe B-per I-per I-per O O O O O B-geo O O O O B-geo O O,JJ NNP NNP NNP VBZ VBN TO VB VBN NNP DT LQU NN IN NNP . RQU
+The state-run IRNA news agency says the Iranian leader made the comment to a religious conference .,O O B-org O O O O B-gpe O O O O O O O O O,DT JJ NNP NN NN VBZ DT JJ NN VBD DT NN TO DT JJ NN .
+"It quotes him saying that when the philosophy of a state is in question , it may be on the path to decline and dissolution .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ PRP VBG IN WRB DT NN IN DT NN VBZ IN NN , PRP MD VB IN DT NN TO NN CC NN ."
+Mr. Ahmadinejad sparked international outrage in 2005 when he said Israel should be wiped off the map .,B-per I-per O O O O B-tim O O O B-geo O O O O O O O,NNP NNP VBD JJ NN IN CD WRB PRP VBD NNP MD VB VBN RP DT NN .
+He has also called the Holocaust a myth .,O O O O O B-eve O O O,PRP VBZ RB VBN DT NNP DT NN .

@@ -1,0 +1,6 @@
+"Kuwait authorities say a policeman , a suspected militant and a Bahraini man have been killed in a shootout near Kuwait City .",B-org O O O O O O O O O O B-gpe O O O O O O O O B-geo I-geo O,"NNP NNS VBP DT NN , DT JJ NN CC DT JJ NN VBP VBN VBN IN DT NN IN NNP NNP ."
+"The Interior Ministry said four security officers and a second gunman were wounded in the firefight , which erupted when police stormed a suspected militant hideout .",B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBD CD NN NNS CC DT JJ NN VBD VBN IN DT NN , WDT VBD WRB NNS VBD DT JJ JJ NN ."
+At least one other suspect was taken into custody .,O O O O O O O O O O,IN JJS CD JJ NN VBD VBN IN NN .
+The police raid came after U.S. and Kuwaiti authorities issued statements warning of the likelihood of more attacks against Western targets in the emirate .,O O O O O B-geo O B-gpe O O O O O O O O O O O O O O O O O,DT NN NN VBD IN NNP CC JJ NNS VBD NNS NN IN DT NN IN JJR NNS IN JJ NNS IN DT NN .
+It was the third such clash in Kuwait this month .,O O O O O O O B-geo O O O,PRP VBD DT JJ JJ NN IN NNP DT NN .
+Two security officers and two gunmen were killed in the earlier violence .,O O O O O O O O O O B-tim I-tim O,CD NN NNS CC CD NNS VBD VBN IN DT JJR NN .

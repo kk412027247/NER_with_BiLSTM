@@ -1,0 +1,7 @@
+"U.S.-based General Motors is laying off 30,000 people and closing 12 factories and other facilities over the next three years .",B-org I-org I-org O O O O O O O O O O O O O O O B-tim O O,JJ NNP NNPS VBZ VBG RP CD NNS CC VBG CD NNS CC JJ NNS IN DT JJ CD NNS .
+"Most of those layoffs were disclosed previously , but Monday 's announcement raises the total by 5,000 and gives plant-closing details .",O O O O O O O O O B-tim O O O O O O O O O O O O,"JJS IN DT NNS VBD VBN RB , CC NNP POS NN VBZ DT NN IN CD CC VBZ JJ NNS ."
+GM lost billions of dollars this year .,B-org O O O O O O O,NNP VBD NNS IN NNS DT NN .
+The world 's largest automaker has been battered by soaring fuel prices that hurt sales of its highly-profitable SUVs and other large vehicles .,O O O O O O O O O O O O O O O O O O O O O O O O,DT NN POS JJS NN VBZ VBN VBN IN VBG NN NNS WDT VBP NNS IN PRP$ JJ NNS CC JJ JJ NNS .
+"It is also hobbled by its workforce 's high wage , health , and pension costs .",O O O O O O O O O O O O O O O O O,"PRP VBZ RB VBN IN PRP$ NN POS JJ NN , NN , CC NN NNS ."
+"GM once had 51 percent of the U.S. auto market , but that share has fallen to just 26 percent this year .",B-org O O O O O O B-geo O O O O O O O O O O O O O O O,"NNP RB VBD CD NN IN DT NNP NN NN , CC DT NN VBZ VBN TO RB CD NN DT NN ."
+"Asian automakers , including Toyota , have gained market share with fuel-efficient cars and new , high-tech hybrid engines .",O O O O B-per O O O O O O O O O O O O O O O,"JJ NNS , VBG NNP , VBP VBN NN NN IN JJ NNS CC JJ , JJ JJ NNS ."

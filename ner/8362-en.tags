@@ -1,0 +1,10 @@
+Iraq 's interior minister says reports that Sunni Arab prisoners were tortured at a secret Baghdad jail are exaggerated .,B-geo O O O O O O B-per I-per O O O O O O B-geo O O O O,NNP POS JJ NN VBZ NNS IN NNP NNP NNS VBD VBN IN DT JJ NNP NN VBP JJ .
+Bayan Jabr says seven detainees showed signs of abuse .,B-per I-per O O O O O O O O,NNP NNP VBZ CD NNS VBD NNS IN NN .
+He stressed that those responsible will be held accountable .,O O O O O O O O O O,PRP VBD IN DT JJ MD VB VBN JJ .
+Mr. Jabr described those held at the detention center as dangerous terrorists .,B-per I-per O O O O O O O O O O O,NNP NNP VBD DT VBN IN DT NN NN IN JJ NNS .
+"He also rejected claims that all the detainees were Sunni Arabs , and referred to at least one Shi'ite man held there .",O O O O O O O O O B-per B-gpe O O O O O O O O O O O O,"PRP RB VBD NNS IN PDT DT NNS VBD NNP NNS , CC VBD TO IN JJS CD NNP NN VBD RB ."
+"Earlier Thursday , Mr. Jabr 's deputy , Major General Hussein Kamal , called for unified command over detention centers to prevent cases of abuse .",O B-tim O B-per I-per O O O O B-per I-per I-per O O O O O O O O O O O O O O,"RBR NNP , NNP NNP POS NN , NNP NNP NNP NNP , VBD IN JJ NN IN NN NNS TO VB NNS IN NN ."
+"Meanwhile , U.S. military officials have offered to support an Iraqi investigation into the prison .",O O B-geo O O O O O O O B-gpe O O O O O,"RB , NNP JJ NNS VBP VBN TO VB DT JJ NN IN DT NN ."
+"But the country 's main Sunni political party , the Iraqi Islamic Party , is demanding an international probe .",O O O O O B-per O O O O B-gpe O O O O O O O O O,"CC DT NN POS JJ NNP JJ NN , DT JJ NNP NNP , VBZ VBG DT JJ NN ."
+Some Sunnis accuse a Shi'ite militia ( Badr Organization ) of running the prison .,O O O O O O O B-org I-org O O O O O O,DT NNS VBP DT NNP NN LRB NNP NNP RRB IN VBG DT NN .
+The Shi'ite group denies any involvement .,O O O O O O O,DT NNP NN VBZ DT NN .

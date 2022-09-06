@@ -1,0 +1,5 @@
+"European Union defense ministers are meeting in Innsbruck , Austria Monday to try to bolster support for an EU military peacekeeping force in Democratic Republic of Congo .",B-org I-org I-org O O O O B-geo O B-geo B-tim O O O O O O O B-org O O O O B-geo I-geo I-geo I-geo O,"NNP NNP NN NNS VBP VBG IN NNP , NNP NNP TO VB TO VB NN IN DT NNP JJ NN NN IN NNP NNP IN NNP ."
+The strife-torn African nation is preparing for its first free elections since it gained independence from Belgium in 1961 .,O O B-gpe O O O O O O O O O O O O O B-geo O B-tim O,DT JJ JJ NN VBZ VBG IN PRP$ JJ JJ NNS IN PRP VBD NN IN NNP IN CD .
+The United Nations has asked for a few hundred European troops to add to the U.N. peacekeeping mission in Congo .,O B-org I-org O O O O O O O O O O O O B-geo O O O B-geo O,DT NNP NNP VBZ VBN IN DT JJ CD JJ NNS TO VB TO DT NNP NN NN IN NNP .
+Several European countries support the idea .,O O O O O O O,JJ JJ NNS VBP DT NN .
+but have been reluctant to commit troops without specific guidelines for their use .,O O O O O O O O O O O O O O,CC VBP VBN JJ TO VB NNS IN JJ NNS IN PRP$ NN .

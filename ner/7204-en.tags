@@ -1,0 +1,7 @@
+Colombian and Organization of American States officials have supervised the destruction of thousands of weapons surrendered by demobilized right-wing paramilitary fighters .,B-gpe O B-org I-org I-org I-org O O O O O O O O O O O O O O O O,JJ CC NNP IN NNP NNPS NNS VBP VBN DT NN IN NNS IN NNS VBN IN JJ JJ JJ NNS .
+"More than 18,000 weapons were melted down Friday .",O O O O O O O B-tim O,JJR IN CD NNS VBD VBN IN NNP .
+"They were handed over as part of a 2003 peace pact between the Colombian government and the United Self-Defense Force of Colombia , or AUC .",O O O O O O O O B-tim O O O O B-gpe O O O B-geo I-geo I-geo I-geo I-geo O O B-org O,"PRP VBD VBN IN IN NN IN DT CD NN NN IN DT JJ NN CC DT NNP NNP NNP IN NNP , CC NNP ."
+"Former fighters and their victims , as well as foreign dignitaries , attended the event .",O O O O O O O O O O O O O O O O,"JJ NNS CC PRP$ NNS , RB RB IN JJ NNS , VBD DT NN ."
+"The melted weapons will be used to make plagues honoring the 9,000 civilian victims of the AUC fighters .",O O O O O O O O O O O O O O O O B-org O O,DT JJ NNS MD VB VBN TO VB NNS VBG DT CD JJ NNS IN DT NNP NNS .
+"The 2003 peace accord resulted in the demobilization of over 30,000 men .",O B-tim O O O O O O O O O O O,DT CD NN NN VBD IN DT NN IN IN CD NNS .
+"However , officials say there is evidence that some fighters are re-arming .",O O O O O O O O O O O O O,"RB , NNS VBP EX VBZ NN IN DT NNS VBP JJ ."

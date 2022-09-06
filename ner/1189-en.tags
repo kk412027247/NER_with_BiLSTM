@@ -1,0 +1,8 @@
+The governor of the U.S. state of Colorado has declared a state of emergency as heavy snowstorms hamper holiday travelers and mail delivery on one of the highest-volume days of the year .,O O O O B-geo O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O,DT NN IN DT NNP NN IN NNP VBZ VBN DT NN IN NN IN JJ NNS VBP NN NNS CC NN NN IN CD IN DT JJ NNS IN DT NN .
+The storm struck Wednesday and continued Thursday across much of the United States ' central plains region .,O O O B-tim O O B-tim O O O O B-geo I-geo O O O O O,DT NN VBD NNP CC VBD NNP IN NN IN DT NNP NNPS POS JJ NNS NN .
+Some areas are buried under 61 centimeters of snow .,O O O O O O O O O O,DT NNS VBP VBN IN CD NNS IN NN .
+"Thousands of travelers are stranded at Denver International Airport , with all flights canceled .",O O O O O O B-org I-org I-org O O O O O O,"NNS IN NNS VBP VBN IN NNP NNP NNP , IN DT NNS VBN ."
+Major roads through the Rocky Mountains are closed .,O O O O B-org I-org O O O,JJ NNS IN DT NNP NNPS VBP VBN .
+Officials have reported numerous traffic crashes .,O O O O O O O,NNS VBP VBN JJ NN NNS .
+Mail delivery also has stopped in many areas .,O O O O O O O O O,NNP NN RB VBZ VBN IN JJ NNS .
+"December 21 is traditionally one of the highest-volume mailing days of the year , as people rush to get greeting cards and gifts to loved ones before Christmas Day , December 25 .",B-tim I-tim O O O O O O O O O O O O O O O O O O O O O O O O O B-tim I-tim O B-tim I-tim O,"NNP CD VBZ RB CD IN DT JJ NN NNS IN DT NN , IN NNS VBP TO VB VBG NNS CC NNS TO VBN NNS IN NNP NNP , NNP CD ."

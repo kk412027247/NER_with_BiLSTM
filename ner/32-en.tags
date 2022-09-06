@@ -1,0 +1,5 @@
+"Two years ago , war broke out along Israel 's border with Lebanon .",B-tim O O O O O O O B-geo O O O B-geo O,"CD NNS RB , NN VBD RP IN NNP POS NN IN NNP ."
+The conflict known as the Second Lebanon War started after Hezbollah guerrillas attacked an Israeli patrol and seized two Israeli soldiers .,O O O O O O B-geo O O O B-org O O O B-gpe O O O O B-gpe O O,DT NN VBN IN DT JJ NNP NNP VBD IN NNP NNS VBD DT JJ NN CC VBD CD JJ NNS .
+"On July 14 , Hezbollah returned the bodies of the two Israeli soldiers in a prisoner exchange with the Jewish state .",O B-tim I-tim O B-org O O O O O O B-gpe O O O O O O O O O O,"IN NNP CD , NNP VBD DT NNS IN DT CD JJ NNS IN DT NN NN IN DT JJ NN ."
+"No Israeli town was more affected by the war than Metullah , the closest Israeli town to Lebanon .",O B-gpe O O O O O O O O B-geo O O O B-gpe O O B-geo O,"DT JJ NN VBD RBR VBN IN DT NN IN NNP , DT JJS JJ NN TO NNP ."
+Jim Teeple recently visited the town where many residents say they want a lasting peace with Lebanon .,B-per I-per O O O O O O O O O O O O O O B-geo O,NNP NNP RB VBD DT NN WRB JJ NNS VBP PRP VBP DT JJ NN IN NNP .

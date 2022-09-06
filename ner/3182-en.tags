@@ -1,0 +1,8 @@
+U.S. President Barack Obama says improvements in the American health care system are inevitable .,B-gpe B-per I-per I-per O O O O B-gpe O O O O O O,NNP NNP NNP NNP VBZ NNS IN DT JJ NN NN NN VBP JJ .
+"Mr. Obama made his comments in the White House Rose Garden Monday as he nominated an African-American woman , Regina Benjamin , to become the U.S. Surgeon General .",B-per I-per O O O O O B-art I-art I-art I-art B-tim O O O O B-gpe O O B-per I-per O O O O B-gpe B-per I-per O,"NNP NNP VBD PRP$ NNS IN DT NNP NNP NNP NNP NNP IN PRP VBD DT JJ NN , NNP NNP , TO VB DT NNP NNP NNP ."
+"The president said "" naysayers and cynics "" should not bet against the passage of health insurance legislation .",O O O O O O O O O O O O O O O O O O O,DT NN VBD LQU NNS CC NNS RQU MD RB VB IN DT NN IN NN NN NN .
+He also said inaction on the issue is not an option .,O O O O O O O O O O O O,PRP RB VBD NN IN DT NN VBZ RB DT NN .
+Mr. Obama has vowed to sign a health care bill into law this year .,B-per I-per O O O O O O O O O O O O O,NNP NNP VBZ VBN TO VB DT NN NN NN IN NN DT NN .
+Democrats in the House of Representatives say they are nearly ready to unveil their health care reform plan .,B-org O O B-org I-org I-org O O O O O O O O O O O O O,NNS IN DT NNP IN NNPS VBP PRP VBP RB JJ TO VB PRP$ NN NN NN NN .
+Controversy over extending health coverage to uninsured Americans centers on how to pay for it .,O O O O O O O B-gpe O O O O O O O O,NN IN VBG NN NN TO JJ NNS VBZ IN WRB TO VB IN PRP .
+It is expected to cost $ 1 trillion over 10 years .,O O O O O O O O O O O O,PRP VBZ VBN TO VB $ CD CD IN CD NNS .

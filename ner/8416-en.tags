@@ -1,0 +1,8 @@
+"Police in northwest Pakistan say a suicide bomber has struck near a market , killing at least 18 people and wounding more than 30 .",O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O,"NNS IN JJ NNP VBP DT NN NN VBZ VBN IN DT NN , VBG IN JJS CD NNS CC VBG JJR IN CD ."
+Authorities say the attack happened Wednesday in the town of Kohat .,O O O O O B-tim O O O O B-geo O,NNS VBP DT NN VBD NNP IN DT NN IN NNP .
+Police say the bomber blew himself by a passenger bus near Tirah market .,O O O O O O O O O O O B-geo O O,NNS VBP DT NN VBD PRP IN DT NN NN IN NNP NN .
+Officials say the bus was headed to nearby Orakzai district .,O O O O O O O O B-geo O O,NNS VBP DT NN VBD VBN TO JJ NNP NN .
+No one has claimed responsibility for the blast .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+"Meanwhile , a purported spokesman for the Pakistani Taliban has claimed responsibility for a deadly blast that took place Monday during an anti-Taliban meeting .",O O O O O O O B-gpe B-org O O O O O O O O O O B-tim O O O O O,"RB , DT JJ NN IN DT JJ NNP VBZ VBN NN IN DT JJ NN WDT VBD NN NNP IN DT JJ NN ."
+"In that attack , two suicide bombers blew themselves in Mohmand near the Afghanistan border , killing 50 people .",O O O O O O O O O O B-geo O O B-geo O O O O O O,"IN DT NN , CD NN NNS VBD PRP IN NNP IN DT NNP NN , VBG CD NNS ."
+The Pakistani army has been fighting insurgents in the area but has been unable to defeat Taliban and al-Qaida linked groups .,O B-gpe O O O O O O O O O O O O O O B-org O B-org O O O,DT JJ NN VBZ VBN VBG NNS IN DT NN CC VBZ VBN JJ TO VB NNP CC NNP VBN NNS .

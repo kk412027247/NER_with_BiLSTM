@@ -1,0 +1,7 @@
+TIndia and Pakistan have ended talks on resolving a dispute over Indian plans to build a dam in the disputed Kashmir region without a breakthrough .,B-geo O B-geo O O O O O O O O B-gpe O O O O O O O O B-geo O O O O O,NNP CC NNP VBP VBN NNS IN VBG DT NN IN JJ NNS TO VB DT NN IN DT JJ NNP NN IN DT NN .
+Officials made the announcement Friday in New Delhi .,O O O O B-tim O B-geo I-geo O,NNS VBD DT NN NNP IN NNP NNP .
+The talks began Tuesday and were scheduled to last two days .,O O O B-tim O O O O O B-tim O O,DT NNS VBD NNP CC VBD VBN TO JJ CD NNS .
+But the delegations extended discussions another day in hopes an agreement would be reached with the extra time .,O O O O O O O O O O O O O O O O O O O,CC DT NNS VBD NNS DT NN IN NNS DT NN MD VB VBN IN DT JJ NN .
+"Islamabad fears that plans to build the dam at Baghliar in Indian-controlled Kashmir could deprive Pakistan of needed water from the Chenab River , which flows through both countries .",B-per O O O O O O O O B-geo O B-geo I-geo O O B-geo O O O O O B-geo I-geo O O O O O O O,"NNP VBZ IN NNS TO VB DT NN IN NNP IN JJ NNP MD VB NNP IN JJ NN IN DT NNP NNP , WDT VBZ IN DT NNS ."
+Pakistan has called the Indian plan a violation of a 1960 bilateral water-sharing treaty .,B-geo O O O B-gpe O O O O O B-tim O O O O,NNP VBZ VBN DT JJ NN DT NN IN DT CD JJ JJ NN .
+The Indian government says the dam will not disrupt water flows into Pakistan .,O B-gpe O O O O O O O O O O B-geo O,DT JJ NN VBZ DT NN MD RB VB NN NNS IN NNP .

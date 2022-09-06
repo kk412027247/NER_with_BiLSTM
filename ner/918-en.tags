@@ -1,0 +1,8 @@
+"The U.S. women 's soccer ( football ) team has defeated Sweden , 1-0 , in an Olympic prep match in Skelleftea , Sweden .",O B-geo O O O O O O O O O B-geo O O O O O O O O O B-geo O B-geo O,"DT NNP NNS POS NN LRB NN RRB NN VBZ VBN NNP , CD , IN DT NNP NN NN IN NNP , NNP ."
+Carli Lloyd of the United States scored with a deflected shot in the 29th minute .,B-per I-per O O B-geo I-geo O O O O O O O B-tim O O,NNP NNP IN DT NNP NNPS VBD IN DT VBN NN IN DT JJ NN .
+"Lloyd dribbled past three defenders and fired a low , left-footed shot that ricocheted past the Swedish goal keeper .",B-per O O O O O O O O O O O O O O O B-gpe O O O,"NNP VBD JJ CD NNS CC VBD DT JJ , JJ NN WDT VBD IN DT JJ NN NN ."
+"The win was the second in four days for the U.S. women , who also beat Norway , 4-0 , July 2 .",O O O O O O O O O O B-geo O O O O O B-geo O O O B-tim I-tim O,"DT NN VBD DT JJ IN CD NNS IN DT NNP NNS , WP RB VBD NNP , CD , NNP CD ."
+The win improved the Americans ' record against the Swedes to 16 wins in 25 matches .,O O O O B-gpe O O O O B-gpe O O O O O O O,DT NN VBD DT NNS POS NN IN DT NNS TO CD NNS IN CD NNS .
+The match also was the first for Pia Sundhage as coach of the United States against her native country .,O O O O O O O B-geo I-geo O O O O B-geo I-geo O O O O O,DT NN RB VBD DT JJ IN NNP NNP IN NN IN DT NNP NNPS IN PRP$ JJ NN .
+She played for Sweden in two World Cups and one Olympics .,O O O B-org O B-tim I-tim I-tim O O O O,PRP VBD IN NNP IN CD NNP NNP CC CD NNPS .
+The U.S. women next play Brazil July 13 .,O B-org O O O B-geo B-tim I-tim O,DT NNP NNS RB VBP NNP NNP CD .

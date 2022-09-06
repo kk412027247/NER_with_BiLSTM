@@ -1,0 +1,8 @@
+The World Health Organization has confirmed that a one-year-old girl has become the 23rd person in Indonesia to die of the H5N1 bird flu virus .,O B-org I-org I-org O O O O O O O O O O O O B-geo O O O O O O O O O,DT NNP NNP NNP VBZ VBN IN DT JJ NN VBZ VBN DT JJ NN IN NNP TO VB IN DT NNP NN NN NN .
+WHO officials say the girl died about a week ago at a Jakarta hospital .,O O O O O O O O O O O O B-geo O O,WP NNS VBP DT NN VBD IN DT NN RB IN DT NNP NN .
+Indonesia has seen more deaths from the virus than any other nation except Vietnam .,B-geo O O O O O O O O O O O O B-geo O,NNP VBZ VBN JJR NNS IN DT NN IN DT JJ NN IN NNP .
+"Meanwhile , health officials in Jordan Friday confirmed that nation 's first human case of bird flu .",O O O O O B-gpe B-tim O O O O O O O O O O O,"RB , NN NNS IN NNP NNP VBD DT NN POS JJ JJ NN IN NN NN ."
+They say a 31-year-old Egyptian worker is being treated and is in good condition .,O O O O B-gpe O O O O O O O O O O,PRP VBP DT JJ JJ NN VBZ VBG VBN CC VBZ IN JJ NN .
+"On Thursday , health authorities in Afghanistan began investigating the deaths of three children from the same family on suspicion they might have died of bird flu .",O B-tim O O O O B-geo O O O O O O O O O O O O O O O O O O O O O,"IN NNP , NN NNS IN NNP VBD VBG DT NNS IN CD NNS IN DT JJ NN IN NN PRP MD VB VBN IN NN NN ."
+"The deadly form of bird flu has killed more than 100 people since 2003 , mostly in East Asia .",O O O O O O O O O O O O B-tim I-tim O O O B-geo I-geo O,"DT JJ NN IN NN NN VBZ VBN JJR IN CD NNS IN CD , RB IN NNP NNP ."
+"It has recently spread to Europe , Africa and the Middle East .",O O O O O B-geo O B-geo O O B-geo I-geo O,"PRP VBZ RB VBN TO NNP , NNP CC DT NNP NNP ."

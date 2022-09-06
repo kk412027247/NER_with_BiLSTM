@@ -1,0 +1,7 @@
+The head of the U.S. central bank signaled Tuesday that interest rates are not likely to be cut anytime soon .,O O O O B-geo O O O B-tim O O O O O O O O O O O O,DT NN IN DT NNP JJ NN VBD NNP IN NN NNS VBP RB JJ TO VB VBN RB RB .
+"Federal Reserve Chairman Ben Bernanke said interest rate policies and efforts to stimulate the faltering U.S. economy are "" well positioned "" to promote growth and stable prices .",O O O B-per I-per O O O O O O O O O O B-geo O O O O O O O O O O O O O,NNP NNP NNP NNP NNP VBD NN NN NNS CC NNS TO VB DT VBG NNP NN VBP LQU RB VBN LQU TO VB NN CC JJ NNS .
+The Fed has been cutting interest rates steadily to boost economic growth .,O B-org O O O O O O O O O O O,DT NNP VBZ VBN VBG NN NNS RB TO VB JJ NN .
+But officials must balance the need to boost the economy with the concern that cutting interest rates too low could spark inflation .,O O O O O O O O O O O O O O O O O O O O O O O,CC NNS MD VB DT NN TO VB DT NN IN DT NN IN VBG NN NNS RB JJ MD VB NN .
+Inflation concerns have been rising along with the price of oil .,O O O O O O O O O O O O,NN NNS VBP VBN VBG IN IN DT NN IN NN .
+"Fuel price hikes are also forcing the biggest U.S. automaker to slash truck production and make more small , fuel-efficient cars .",O O O O O O O O B-geo O O O O O O O O O O O O O,"NN NN NNS VBP RB VBG DT JJS NNP NN TO VB NN NN CC VB JJR JJ , JJ NNS ."
+General Motors Tuesday announced that it will close four North American plants that make trucks .,B-org I-org B-tim O O O O O O O B-gpe O O O O O,NNP NNPS NNP VBD IN PRP MD VB CD JJ JJ NNS WDT VBP NNS .

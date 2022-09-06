@@ -1,0 +1,7 @@
+"Turkish authorities say two earthquakes have shaken the country 's third largest city , Izmir .",B-gpe O O O O O O O O O O O O O B-geo O,"JJ NNS VBP CD NNS VBP VBN DT NN POS JJ JJS NN , NNP ."
+"They say the earthquakes , measuring 5.7 and 5.9 on the Richter scale , were centered beneath the Aegean Sea near the Turkish coast .",O O O O O O O O O O O B-geo O O O O O O B-geo I-geo O O B-gpe O O,"PRP VBP DT NNS , VBG CD CC CD IN DT NNP NN , VBD VBN IN DT NNP NNP IN DT JJ NN ."
+Several other Turkish cities and Greek islands were rattled by the quakes .,O O B-gpe O O B-gpe B-per O O O O O O,JJ JJ JJ NNS CC JJ NNS VBD VBN IN DT NNS .
+At least 30 people were injured .,O O O O O O O,IN JJS CD NNS VBD VBN .
+"No severe building damage was reported , but several house chimneys collapsed , and cracks opened in building walls .",O O O O O O O O O O O O O O O O O O O O,"DT JJ NN NN VBD VBN , CC JJ NN NNS VBD , CC NNS VBD IN VBG NNS ."
+Turkey lies on several geological fault lines and is often hit by earthquakes .,B-org O O O O O O O O O O O O O,NNP VBZ IN JJ JJ NN NNS CC VBZ RB VBN IN NNS .
+"A major quake in 1999 killed more than 17,000 people in the northwestern part of the country .",O O O O B-tim O O O O O O O O O O O O O,DT JJ NN IN CD VBD JJR IN CD NNS IN DT JJ NN IN DT NN .

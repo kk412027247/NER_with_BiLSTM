@@ -1,0 +1,7 @@
+Suspected Taleban insurgents have killed an Afghan intelligence officer in southeastern Zabul province and wounded a Muslim cleric in southern Helmand province .,O B-org O O O O B-gpe O O O O B-geo O O O O O O O O B-geo O O,VBN NNP NNS VBP VBN DT JJ NN NN IN JJ NNP NN CC VBN DT NN NN IN JJ NNP NN .
+Afghan officials say the intelligence officer was shot dead early Thursday in Zabul 's Dai Chopan district .,B-gpe O O O O O O O O O B-tim O B-geo O B-geo I-geo O O,JJ NNS VBP DT NN NN VBD VBN RB RB NNP IN NNP POS NNP NNP NN .
+They say the attackers managed to flee the scene and that despite a massive manhunt no suspects have been arrested .,O O O O O O O O O O O O O O O O O O O O O,PRP VBP DT NNS VBD TO VB DT NN CC IN IN DT JJ NN DT NNS VBP VBN VBN .
+"Meanwhile , in Helmand 's Nurja district , a Muslim cleric was wounded by unidentified gunmen riding a motorcycle .",O O O B-geo O B-geo O O O O O O O O O O O O O O,"RB , IN NNP POS NNP NN , DT NNP NN VBD VBN IN JJ NNS VBG DT NN ."
+He was taken to a local hospital for treatment .,O O O O O O O O O O,PRP VBD VBN TO DT JJ NN IN NN .
+A purported Taleban spokesman claimed responsibility for both incidents .,O O B-org O O O O O O O,DT JJ NNP NN VBD NN IN DT NNS .
+Taleban militants and their supporters have stepped up their violent campaign aimed at disrupting Afghanistan 's parliamentary elections scheduled for September 18 .,B-org O O O O O O O O O O O O O B-geo O O O O O B-tim I-tim O,NNP NNS CC PRP$ NNS VBP VBN RP PRP$ JJ NN VBN IN VBG NNP POS JJ NNS VBN IN NNP CD .

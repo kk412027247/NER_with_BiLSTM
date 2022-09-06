@@ -1,0 +1,6 @@
+The U.S. Geological Survey has reported a 7.1 magnitude earthquake some 300 kilometers off the coast of eastern Indonesia .,O B-org I-org I-org O O O O O O O O O O O O O O B-geo O,DT NNP NNP NNP VBZ VBN DT CD NN NN DT CD NNS IN DT NN IN JJ NNP .
+Geologists say the quake is unlikely to cause a tsunami .,O O O O O O O O O O O,NNS VBP DT NN VBZ JJ TO VB DT NN .
+"There were no reports of casualties or damage , but the French news agency , AFP , says the Wednesday evening quake sparked panic among residents in several Indonesian provinces .",O O O O O O O O O O O B-gpe O O O B-org O O O B-tim I-tim O O O O O O O B-gpe O O,"EX VBD DT NNS IN NNS CC NN , CC DT JJ NN NN , NNP , VBZ DT NNP NN NN VBD NN IN NNS IN JJ JJ NNS ."
+People in Australia also reported feeling tremors .,O O B-geo O O O O O,NNS IN NNP RB VBD VBG NNS .
+Recovery workers in Indonesia are still pulling bodies from the rubble of cities devastated by the December 26 earthquake and tsunami .,O O O B-geo O O O O O O O O O O O O B-tim I-tim O O O O,NNP NNS IN NNP VBP RB VBG NNS IN DT NN IN NNS VBN IN DT NNP CD NN CC NN .
+"Jakarta 's official death count widely varies , but well over 100,000 people in Indonesia are believed to have died in the disaster .",B-geo O O O O O O O O O O O O O B-geo O O O O O O O O O,"NNP POS JJ NN NN RB VBZ , CC RB IN CD NNS IN NNP VBP VBN TO VB VBN IN DT NN ."

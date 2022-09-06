@@ -1,0 +1,7 @@
+An Afghan official says Taleban militants have captured a district in southern Kandahar province after several days of fierce fighting .,O B-gpe O O B-org O O O O O O B-geo I-geo O O O O O O O O,DT JJ NN VBZ NNP NNS VBP VBN DT NN IN JJ NNP NN IN JJ NNS IN JJ NN .
+"Kandahar 's provincial police chief , Esmatullah Alizai , Tuesday said the Taleban took control of Mian Neshin district late Monday .",B-geo O O O O O B-org I-org O B-tim O O B-org O O O B-geo I-geo O O B-tim O,"NNP POS JJ NN NN , NNP NNP , NNP VBD DT NNP VBD NN IN NNP NNP NN JJ NNP ."
+Officials said Afghan forces made a tactical decision to withdraw from clashes with militants .,O O B-gpe O O O O O O O O O O O O,NNS VBD JJ NNS VBD DT JJ NN TO VB IN NNS IN NNS .
+They added that authorities are planning an operation to recapture the district .,O O O O O O O O O O O O O,PRP VBD IN NNS VBP VBG DT NN TO VB DT NN .
+"Elsewhere , in nearby Uruzgan province , fighting continues Tuesday between NATO forces and Taleban militants .",O O O O B-geo O O O O B-tim O B-org O O B-org O O,"RB , IN JJ NNP NN , VBG VBZ NNP IN NNP NNS CC NNP NNS ."
+Officials say about 60 Taleban insurgents have been killed in the past three days of fighting in the district of Chora .,O O O O B-org O O O O O O B-tim I-tim O O O O O O O B-geo O,NNS VBP IN CD NNP NNS VBP VBN VBN IN DT JJ CD NNS IN VBG IN DT NN IN NNP .
+"Afghan authorities say civilians were also killed , but casualty figures could not be verified .",B-gpe O O O O O O O O O O O O O O O,"JJ NNS VBP NNS VBD RB VBN , CC NN NNS MD RB VB VBN ."

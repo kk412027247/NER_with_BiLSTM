@@ -1,0 +1,7 @@
+"The United States says it has temporarily suspended the resettlement of at least 6,000 Hmong refugees from Thailand , after at least a score of refugees already in the U.S. were diagnosed with tuberculosis .",O B-org I-org O O O O O O O O O O O O O O B-geo O O O O O O O O O O O B-geo O O O O O,"DT NNP NNPS VBZ PRP VBZ RB VBN DT NN IN IN JJS CD JJ NNS IN NNP , IN IN JJS DT NN IN NNS RB IN DT NNP VBD VBN IN NN ."
+At least 20 refugees infected with the disease are in the western U.S. state of California .,O O O O O O O O O O O O B-geo O O B-geo O,IN JJS CD NNS VBN IN DT NN VBP IN DT JJ NNP NN IN NNP .
+Health officials say 11 of the patients are children .,O O O O O O O O O O,NNP NNS VBP CD IN DT NNS VBP NNS .
+A handful of other cases were located in the midwestern states of Minnesota and Wisconsin .,O O O O O O O O O O O O B-geo O B-geo O,DT NN IN JJ NNS VBD VBN IN DT JJ NNS IN NNP CC NNP .
+"The U.S. has resettled at least 9,000 Hmong refugees living in the Wat Tham Krabok camp since June of last year .",O B-org O O O O O O O O O O B-org I-org I-org O B-tim I-tim I-tim O O O,DT NNP VBZ VBN IN JJS CD NNP NNS VBG IN DT NNP NNP NNP NN IN NNP IN JJ NN .
+Officials say they will begin enhanced medical treatment and screenings at the camp .,O O O O O O O O O O O O O O,NNS VBP PRP MD VB JJ JJ NN CC NNS IN DT NN .
+The suspension is expected to last for up to six months .,O O O O O O O O O B-tim O O,DT NN VBZ VBN TO VB IN RP TO CD NNS .

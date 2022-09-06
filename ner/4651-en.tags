@@ -1,0 +1,10 @@
+Turkish prosecutors are investigating whether Prime Minister Recep Tayyip Erdogan once referred to jailed Kurdish rebel leader Abdullah Ocalan as esteemed .,B-gpe O O O O B-per I-per I-per I-per I-per O O O O O O O B-per I-per O O O,JJ NNS VBP VBG IN NNP NNP NNP NNP NNP RB VBD TO JJ JJ NN NN NNP NNP IN VBN .
+"Turkey 's main opposition party says Mr. Erdogan referred to Ocalan as "" Sayin "" or esteemed during a 2000 interview .",B-geo O O O O O B-per I-per O O B-per O O O O O O O O B-tim O O,NNP POS JJ NN NN VBZ NNP NNP VBD TO NNP IN RQU FW LQU CC VBN IN DT CD NN .
+Prosecutors are examining recordings of the comments .,O O O O O O O O,NNS VBP VBG NNS IN DT NNS .
+Praising Ocalan is a criminal offense in Turkey .,O B-per O O O O O B-geo O,VBG NNP VBZ DT JJ NN IN NNP .
+Several Kurdish politicians are facing charges of referring to him in the honorific .,O O O O O O O O O O O O O O,JJ JJ NNS VBP VBG NNS IN VBG TO PRP IN DT NN .
+Mr. Erdogan 's allies say he never referred to Ocalan in the honorific .,B-per I-per O O O O O O O B-per O O O O,NNP NNP POS NNS VBP PRP RB VBD TO NNP IN DT NN .
+"Mr. Erdogan , as a member of parliament , has immunity from criminal prosecution .",B-per I-per O O O O O O O O O O O O O,"NNP NNP , IN DT NN IN NN , VBZ NN IN JJ NN ."
+He is considering running for Turkish president in May elections .,O O O O O B-gpe O O B-tim O O,PRP VBZ VBG VBG IN JJ NN IN NNP NNS .
+"Ocalan heads the Kurdistan Workers Party , PKK , which has been fighting for autonomy in southeastern Turkey since 1984 .",B-per O O B-org I-org I-org O B-org O O O O O O O O O B-geo B-tim I-tim O,"NNP VBZ DT NNP NNP NNP , NNP , WDT VBZ VBN VBG IN NN IN JJ NNP IN CD ."
+He was captured and convicted in 1999 .,O O O O O O B-tim O,PRP VBD VBN CC VBN IN CD .

@@ -1,0 +1,7 @@
+All seven cities bidding to host the 2014 Winter Olympics have submitted their candidate files to the International Olympic Committee ahead of Wednesday 's deadline .,O O O O O O O B-tim B-eve I-eve O O O O O O O O O B-org O O B-tim O O O,DT CD NNS VBG TO VB DT CD NNP NNPS VBP VBN PRP$ NN NNS TO DT NNP NNP NNP RB IN NNP POS NN .
+"The cities include Almaty , Kazakhstan , Borjomi , Georgia and Jaca , Spain .",O O O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O,"DT NNS VBP NNP , NNP , NNP , NNP CC NNP , NNP ."
+"PyeongChang , South Korea , Salzburg , Austria , Sochi , Russia and Sofia , Bulgaria are also candidates .",B-org O B-geo I-geo O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O O O O,"NNP , NNP NNP , NNP , NNP , NNP , NNP CC NNP , NNP VBP RB NNS ."
+"The cities responded to a 25-point questionnaire that covered issues such as venues , finances , transportation , accommodations and security .",O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBD TO DT JJ NN IN VBZ NNS JJ IN NNS , NNS , NN , NNS CC NN ."
+A group of International Olympic Committee officials will review the applications .,O O O O O B-org O O O O O O,DT NN IN NNP NNP NNP NNS MD VB DT NNS .
+The IOC executive board will meet in June to decide whether to accept all seven as official candidates .,O B-org O O O O O B-tim O O O O O O O O O O O,DT NNP NN NN MD VB IN NNP TO VB IN TO VB DT CD IN JJ NNS .
+The IOC will select the host city in July of 2007 .,O B-org O O O O O O B-tim I-tim I-tim O,DT NNP MD VB DT NN NN IN NNP IN CD .

@@ -1,0 +1,9 @@
+Romanian voters go to the polls Sunday in presidential and parliamentary elections .,B-gpe O O O O O B-tim O O O O O O,JJ NNS VBP TO DT NNS NNP IN JJ CC JJ NNS .
+Opinion polls indicate Socialist Democrat Prime Minister Adrian Nastase and Bucharest mayor Traian Basescu - the nominee of the Justice and Truth alliance-head the list of 12 presidential candidates .,O O O O O B-per I-per I-per I-per O B-gpe B-per I-per I-per O O O O O B-org O B-org O O O O O O O O,NN NNS VBP JJ NN NNP NNP NNP NNP CC NNP NNP NNP NNP IN DT NN IN DT NNP CC NNP VBD DT NN IN CD JJ NNS .
+If no candidate wins a majority a runoff is scheduled for December 12 .,O O O O O O O O O O O B-tim I-tim O,IN DT NN VBZ DT NN DT NN VBZ VBN IN NNP CD .
+Candidates of the Socialist Democrats and Justice and Truth alliance are also in tight races for seats in the country 's parliament .,O O O B-org I-org I-org I-org I-org I-org O O O O O O O O O O O O O O,NNS IN DT NNP NNPS CC NNP CC NNP NN VBP RB IN JJ NNS IN NNS IN DT NN POS NN .
+Sunday 's balloting comes as the Socialist Democrats fight new charges of corruption against the governing party .,B-tim O O O O O B-org I-org O O O O O O O O O O,NNP POS NN VBZ IN DT NNP NNPS VBP JJ NNS IN NN IN DT VBG NN .
+Documents said to be transcripts of top-level meetings are reported to highlight abuses of power .,O O O O O O O O O O O O O O O O,NNS VBN TO VB NNS IN JJ NNS VBP VBN TO VB NNS IN NN .
+Prime Minister Nastase calls the documents fake .,O O B-per O O O O O,JJ NN NNP VBZ DT NNS NN .
+Corruption is a major problem in Romania .,O O O O O O B-geo O,NN VBZ DT JJ NN IN NNP .
+The government has been seeking to implement reforms in hopes of moving the country towards European Union membership in 2007 .,O O O O O O O O O O O O O O O B-org I-org I-org O B-tim O,DT NN VBZ VBN VBG TO VB NNS IN NNS IN VBG DT NN IN NNP NNP NN IN CD .

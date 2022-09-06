@@ -1,0 +1,3 @@
+"Deep into the mountain state of West Virginia , a group of volunteers is determined to restore nature the way it was a century ago , before mining , logging and fires changed the landscape .",O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP IN DT NN NN IN NNP NNP , DT NN IN NNS VBZ VBN TO VB NN DT NN PRP VBD DT NN RB , IN NN , VBG CC NNS VBD DT NN ."
+"To do so , thousands of native trees are being planted .",O O O O O O O O O O O O,"TO VB RB , NNS IN JJ NNS VBP VBG VBN ."
+Producer Zulima Palacio prepared the story .,O B-per I-per O O O O,NN NNP NNP VBD DT NN .

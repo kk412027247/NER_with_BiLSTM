@@ -1,0 +1,9 @@
+Nigerian police say armed men wearing camouflage uniforms have kidnapped a German oil industry worker in the country 's Niger Delta region .,B-gpe O O O O O O O O O O B-gpe O O O O O O O B-gpe B-org O O,JJ NNS VBP JJ NNS VBG NN NNS VBP VBN DT JJ NN NN NN IN DT NN POS NNP NNP NN .
+A police spokesman says the kidnappers took the worker from his car near the southern city of Port Harcourt Thursday .,O O O O O O O O O O O O O O O O O B-geo I-geo B-tim O,DT NN NN VBZ DT NNS VBD DT NN IN PRP$ NN IN DT JJ NN IN NNP NNP NNP .
+The German man works for the company Bilfinger Berger .,O B-gpe O O O O O B-org I-org O,DT JJ NN VBZ IN DT NN NNP NNP .
+Police have not named any suspects in the case .,O O O O O O O O O O,NNS VBP RB VBN DT NNS IN DT NN .
+Kidnappings are common in the delta region .,O O O O O O O O,NNS VBP JJ IN DT NN NN .
+Local militants want residents to receive more of the region 's oil revenues .,O O O O O O O O O O O O O O,JJ NNS VBP NNS TO VB JJR IN DT NN POS NN NNS .
+"On Monday , Nigerian militants released eight soldiers and 16 oil workers they had held hostage at an oil pumping station for a week .",O B-tim O B-gpe O O O O O O O O O O O O O O O O O O O O O,"IN NNP , JJ NNS VBN CD NNS CC CD NN NNS PRP VBD VBN NN IN DT NN VBG NN IN DT NN ."
+Nigeria normally produces about 2.5 million barrels of oil per day .,B-geo O O O O O O O O O O O,NNP RB VBZ IN CD CD NNS IN NN IN NN .
+But recent attacks on oil facilities and the kidnappings have slashed production by at least 20 percent since February .,O O O O O O O O O O O O O O O O O B-tim I-tim O,CC JJ NNS IN NN NNS CC DT NNS VBP VBN NN IN IN JJS CD NN IN NNP .

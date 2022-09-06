@@ -1,0 +1,8 @@
+"The party of Liberian presidential candidate George Weah has called for a re-run of Tuesday 's run-off vote , charging electoral fraud .",O O O B-gpe O O B-per I-per O O O O O O B-tim O O O O O O O O,"DT NN IN JJ JJ NN NNP NNP VBZ VBN IN DT NN IN NNP POS NN NN , VBG JJ NN ."
+The call comes as Liberians await official confirmation of former Finance Minister Ellen Johnson-Sirleaf 's apparent victory .,O O O O B-gpe O O O O O O O B-per I-per O O O O,DT NN VBZ IN NNS VBP JJ NN IN JJ NNP NNP NNP NNP POS JJ NN .
+"With 99 percent of the votes counted , Mrs. Johnson-Sirleaf has won about 60 percent of the vote to 40 percent for Mr. Weah , a former football ( soccer ) star .",O O O O O O O O B-per B-geo O O O O O O O O O O O O B-per B-org O O O O O O O O O,"IN CD NN IN DT NNS VBN , NNP NNP VBZ VBN IN CD NN IN DT NN TO CD NN IN NNP NNP , DT JJ NN LRB NN RRB NN ."
+Final results are expected on Tuesday .,O O O O O B-tim O,JJ NNS VBP VBN IN NNP .
+The National Election Commission says it will hear Mr. Weah 's complaints of election irregularities on Wednesday .,O B-org I-org I-org O O O O B-per B-org O O O O O O B-tim O,DT NNP NNP NNP VBZ PRP MD VB NNP NNP POS NNS IN NN NNS IN NNP .
+International observers say there is no evidence of widespread fraud in the run-off .,O O O O O O O O O O O O O O,NNP NNS VBP EX VBZ DT NN IN JJ NN IN DT NN .
+"Saturday in the capital , Monrovia , hundreds of Mr. Weah 's supporters gathered in front of United Nations headquarters to demand a new election .",B-tim O O O O B-geo O O O B-per B-org O O O O O O B-org I-org O O O O O O O,"NNP IN DT NN , NNP , NNS IN NNP NNP POS NNS VBD IN NN IN NNP NNP NN TO VB DT JJ NN ."
+U.N. peacekeepers dispersed the crowd peacefully .,B-org O O O O O O,NNP NNS VBD DT NN RB .

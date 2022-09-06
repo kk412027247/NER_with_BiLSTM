@@ -1,0 +1,9 @@
+Hurricane Danielle is picking up strength as it moves over the Atlantic Ocean .,O B-nat O O O O O O O O O B-geo I-geo O,NNP NNP VBZ VBG RP NN IN PRP VBZ IN DT NNP NNP .
+The U.S. National Hurricane Center said the storm 's sustained winds increased to nearly 140 kilometers per hour Wednesday morning .,O B-org O O O O O O O O O O O O O O O O B-tim I-tim O,DT NNP NNP NNP NNP VBD DT NN POS JJ NNS VBD TO RB CD NNS IN NN NNP NN .
+It remains a Category 1 on the five-point scale of hurricane strength .,O O O O O O O O O O O O O,PRP VBZ DT NNP CD IN DT JJ NN IN NN NN .
+Danielle is moving northwest in the open waters of the Atlantic .,B-per O O O O O O O O O B-geo O,NNP VBZ VBG JJS IN DT JJ NNS IN DT NNP .
+"As of the last report , it was about 1,275 kilometers east of the Northern Leeward Islands .",O O O O O O O O O O O O O O B-org I-org I-org O,"IN IN DT JJ NN , PRP VBD IN CD NNS NN IN DT NNP NNP NNP ."
+"Meanwhile , in the Pacific , Tropical Storm Frank is also gaining strength as it continues on its path away from the southwestern coast of Mexico .",O O O O B-geo O O O B-per O O O O O O O O O O O O O O O O B-geo O,"RB , IN DT NNP , NNP NNP NNP VBZ RB VBG NN IN PRP VBZ IN PRP$ NN RB IN DT JJ NN IN NNP ."
+Forecasters say the storm could become a hurricane later Wednesday .,O O O O O O O O O B-tim O,NNS VBP DT NN MD VB DT NN RB NNP .
+Its sustained winds were last recorded at nearly 110 kilometers per hour .,O O O O O O O O O O O O O,PRP$ JJ NNS VBD JJ VBN IN RB CD NNS IN NN .
+"As of now , neither storm is posing a threat to land .",O O O O O O O O O O O O O,"IN IN RB , DT NN VBZ VBG DT NN TO NN ."

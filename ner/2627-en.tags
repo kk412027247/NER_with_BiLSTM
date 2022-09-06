@@ -1,0 +1,2 @@
+"Jan Mayen is a volcanic island with no exploitable natural resources , although surrounding waters contain substantial fish stocks and potential untapped petroleum resources .",B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBZ DT JJ NN IN DT JJ JJ NNS , IN VBG NNS VBP JJ NN NNS CC JJ VBN NN NNS ."
+Economic activity is limited to providing services for employees of Norway 's radio and meteorological stations on the island .,O O O O O O O O O O B-geo O O O O O O O O O,JJ NN VBZ VBN TO VBG NNS IN NNS IN NNP POS NN CC JJ NNS IN DT NN .

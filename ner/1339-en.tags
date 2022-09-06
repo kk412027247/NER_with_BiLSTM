@@ -1,0 +1,7 @@
+The U.S. government reported a one percent increase in retail sales for January .,O B-geo O O O O O O O O O O B-tim O,DT NNP NN VBD DT CD NN NN IN JJ NNS IN NNP .
+Economists watch retail sales closely because consumer demand drives about two-thirds of U.S. economic activity .,O O O O O O O O O O O O B-geo O O O,NNS VBP JJ NNS RB IN NN NN VBZ IN NNS IN NNP JJ NN .
+"According to the Commerce Department , this is the first sales increase in seven months .",O O O B-org I-org O O O O O O O O B-tim O O,"VBG TO DT NNP NNP , DT VBZ DT JJ NNS NN IN CD NNS ."
+"But the economy remains troubled , as a separate Labor Department report showed the number of Americans continuing to collect unemployment rose for the fourth week in a row .",O O O O O O O O O B-org I-org O O O O O B-gpe O O O O O O O B-tim O O O O O,"CC DT NN VBZ JJ , IN DT JJ NNP NNP NN VBD DT NN IN NNS VBG TO VB NN VBD IN DT JJ NN IN DT NN ."
+"The total is now just over 4.8 million , which is a record-high .",O O O O O O O O O O O O O O,"DT NN VBZ RB RB IN CD CD , WDT VBZ DT NN ."
+"The number of people signing up for unemployment benefits declined slightly - by 8000 to a total of 623,000 - last week .",O O O O O O O O O O O O O O O O O O O O O O O,DT NN IN NNS VBG RP IN NN NNS VBD RB IN IN CD TO DT NN IN CD : JJ NN .
+That level is close to a 26-year high .,O O O O O O O O O,DT NN VBZ RB TO DT JJ NN .

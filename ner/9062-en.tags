@@ -1,0 +1,9 @@
+Three contractors working for the U.N. World Food Program have been kidnapped in Sudan 's Darfur region .,O O O O O B-org I-org I-org I-org O O O O B-geo O B-geo O O,CD NNS VBG IN DT NNP NNP NNP NNP VBP VBN VBN IN NNP POS NNP NN .
+A WFP spokeswoman Amor Almagro said the three are members of a helicopter crew managed by the agency .,O B-org O B-per I-per O O O O O O O O O O O O O O,DT NNP NN NNP NNP VBD DT CD VBP NNS IN DT NN NN VBN IN DT NN .
+"She said they were abducted Thursday at an airstrip southeast of Geneina , the capital of West Darfur state .",O O O O O B-tim O O O O O B-geo O O O O B-geo I-geo O O,"PRP VBD PRP VBD VBN NNP IN DT NN NN IN NNP , DT NN IN NNP NNP NN ."
+Bulgaria 's foreign ministry says all three men are Bulgarian nationals .,B-geo O O O O O O O O B-gpe O O,NNP POS JJ NN VBZ DT CD NNS VBP JJ NNS .
+Bandits and armed groups frequently kidnap U.N. and international aid workers in Darfur .,O O O O O O B-org O O O O O B-geo O,NNS CC JJ NNS RB VBP NNP CC JJ NN NNS IN NNP .
+"The kidnappings have increased since March 2009 , when the International Criminal Court indicted Sudanese President Omar al-Bashir for alleged war crimes in the region .",O O O O O B-tim I-tim O O O B-org I-org I-org O B-gpe B-per I-per I-per O O O O O O O O,"DT NNS VBP VBN IN NNP CD , WRB DT NNP NNP NNP VBD JJ NNP NNP NNP IN JJ NN NNS IN DT NN ."
+Most of the hostages have been released unharmed .,O O O O O O O O O,JJS IN DT NNS VBP VBN VBN JJ .
+Darfur has experienced more than seven years of conflict since rebels took up arms against Mr. Bashir 's government in 2003 .,B-geo O O O O O O O O O O O O O O B-per B-geo O O O B-tim O,NNP VBZ VBN JJR IN CD NNS IN NN IN NNS VBD RP NNS IN NNP NNP POS NN IN CD .
+"The United Nations says some 300,000 people have died in the conflict , with another 2.7 million displaced from their homes .",O B-org I-org O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ DT CD NNS VBP VBN IN DT NN , IN DT CD CD VBN IN PRP$ NNS ."

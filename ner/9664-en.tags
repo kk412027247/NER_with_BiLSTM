@@ -1,0 +1,6 @@
+Puerto Rico has one of the most dynamic economies in the Caribbean region .,B-geo I-geo O O O O O O O O O B-geo O O,NNP NNP VBZ CD IN DT RBS JJ NNS IN DT JJ NN .
+A diverse industrial sector has far surpassed agriculture as the primary locus of economic activity and income .,O O O O O O O O O O O O O O O O O O,DT JJ JJ NN VBZ RB VBN NN IN DT JJ NN IN JJ NN CC NN .
+"Encouraged by duty-free access to the US and by tax incentives , US firms have invested heavily in Puerto Rico since the 1950s .",O O O O O O B-org O O O O O B-org O O O O O B-geo I-geo O O B-tim O,"VBN IN JJ NN TO DT NNP CC IN NN NNS , NNP NNS VBP VBN RB IN NNP NNP IN DT NNS ."
+US minimum wage laws apply .,B-org O O O O O,NNP JJ NN NNS VBP .
+Sugar production has lost out to dairy production and other livestock products as the main source of income in the agricultural sector .,O O O O O O O O O O O O O O O O O O O O O O O,NNP NN VBZ VBN RP TO NN NN CC JJ NN NNS IN DT JJ NN IN NN IN DT JJ NN .
+Tourism has traditionally been an important source of income with estimated arrivals of more than 3.6 million tourists in 2008 .,O O O O O O O O O O O O O O O O O O O B-tim O,NNP VBZ RB VBN DT JJ NN IN NN IN JJ NNS IN JJR IN CD CD NNS IN CD .

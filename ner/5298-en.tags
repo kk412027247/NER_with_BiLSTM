@@ -1,0 +1,7 @@
+"The Spanish football club Sevilla has won its first European football title by beating Middlesbrough of England , 4-0 , in the UEFA Cup final in Eindhoven , the Netherlands .",O B-gpe O O B-org O O O O O O O O O B-org O B-geo O O O O O B-org I-org O O B-geo O B-geo I-geo O,"DT JJ NN NN NNP VBZ VBN PRP$ JJ JJ NN NN IN VBG NNP IN NNP , CD , IN DT NNP NNP JJ IN NNP , DT NNP ."
+"Enzo Maresca scored two goals for the Spaniards , in the 78th and 84th minutes .",B-per I-per O O O O O B-gpe O O O B-tim O B-tim O O,"NNP NNP VBD CD NNS IN DT NNS , IN DT CD CC CD NNS ."
+"Luis Fabiano opened the scoring in the 27th minute , sending the ball in off the post after taking a cross from Daniel .",B-per I-per O O O O O B-tim O O O O O O O O O O O O O O B-per O,"NNP NNP VBD DT VBG IN DT JJ NN , VBG DT NN IN IN DT NN IN VBG DT NN IN NNP ."
+Frédéric Kanouté scored the fourth goal when he tapped in a rebound just one minute from time .,B-per I-per O O O O O O O O O O O O O O O O,NNP NNP VBD DT JJ NN WRB PRP VBD IN DT NN RB CD NN IN NN .
+Middlesbrough could not find the offense it needed to rebound from the deficit .,B-org O O O O O O O O O O O O O,NNP MD RB VB DT NN PRP VBD TO VB IN DT NN .
+The match was the first of two Anglo-Spanish finals .,O O O O O O O O O O,DT NN VBD DT NN IN CD JJ NNS .
+Barcelona faces Arsenal next Wednesday in the Champions ' League final at the Stade de France outside Paris .,B-org O B-org O B-tim O O O O O O O O B-art I-art I-art O B-geo O,NNP VBZ JJ JJ NNP IN DT NNS POS NNP JJ IN DT NNP IN NNP IN NNP .

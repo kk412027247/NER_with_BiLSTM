@@ -1,0 +1,5 @@
+"Ethiopian officials say swarms of desert locusts have invaded northern Ethiopia , threatening crops and agriculture .",B-gpe O O O O O O O O O B-geo O O O O O O,"JJ NNS VBP NNS IN NN NNS VBP VBN JJ NNP , VBG NNS CC NN ."
+"The officials say they are most concerned the locusts may lay eggs , leading to a massive invasion in the future .",O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBP PRP VBP RBS JJ DT NNS MD VB NNS , VBG TO DT JJ NN IN DT NN ."
+The government says it has begun aerial surveillance of the swarms .,O O O O O O O O O O O O,DT NN VBZ PRP VBZ VBN JJ NN IN DT NNS .
+"The flying insects can eat their weight in crops daily , devastating thousands of hectares of farmland used by both humans and livestock .",O O O O O O O O O O O O O O O O O O O O O O O O,"DT VBG NNS MD VB PRP$ NN IN NNS RB , VBG NNS IN NNS IN NN VBN IN DT NNS CC NN ."
+"Last week , the United Nations Food and Agriculture agency warned that desert locusts were threatening Sudan and Eritrea .",O O O O B-org I-org I-org I-org I-org I-org O O O O O O B-gpe O B-geo O,"JJ NN , DT NNP NNPS NNP CC NNP NN VBD IN NN NNS VBD VBG NNP CC NNP ."

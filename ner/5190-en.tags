@@ -1,0 +1,6 @@
+Environmental groups have often clashed with the Bush administration over enforcement of clean air and water laws .,O O O O O O O B-org O O O O O O O O O O,JJ NNS VBP RB VBN IN DT NNP NN IN NN IN JJ NN CC NN NNS .
+"In fact , last year they won a Supreme Court ruling compelling regulation of greenhouse gas emissions .",O O O O O O O O B-org I-org O O O O O O O O,"IN NN , JJ NN PRP VBD DT NNP NNP VBG JJ NN IN NN NN NNS ."
+"The White House has touted investment in new green technology , and the marketplace , as the best ways to address challenges like global warming .",O B-org I-org O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ VBN NN IN JJ JJ NN , CC DT NN , IN DT JJS NNS TO VB NNS IN JJ NN ."
+"This week , the U.S. Environmental Protection Agency gathered together scientists , investors and industry to show off what they say are key innovative technologies in the environmental effort .",O O O O B-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O,"DT NN , DT NNP NNP NNP NNP VBD RB NNS , NNS CC NN TO VB RP WP PRP VBP VBP JJ JJ NNS IN DT JJ NN ."
+VOA producer Zulima Palacio prepared the story .,B-org O B-per I-per O O O O,NNP NN NNP NNP VBD DT NN .
+Jeff Swicord narrates .,B-per I-per O O,NNP NNP VBZ .

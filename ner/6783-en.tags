@@ -1,0 +1,7 @@
+A jury has been selected for the trial of pop star Michael Jackson on child molestation charges .,O O O O O O O O O O O B-per I-per O O O O O,DT NN VBZ VBN VBN IN DT NN IN NN NN NNP NNP IN NN NN NNS .
+"Attorneys Wednesday settled on a jury of four men and eight women , ranging from 20 to 79 years old .",O B-tim O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD IN DT NN IN CD NNS CC CD NNS , VBG IN CD CC CD NNS JJ ."
+"The jury reportedly contains eight whites , three Hispanics , one Asian , and no African-Americans .",O O O O O O O O O O O B-gpe O O O O O,"DT NN RB VBZ CD NNS , CD NNS , CD NN , CC DT NNS ."
+The selection process took only two-and-a-half days after being delayed for a week by Jackson 's hospitalization with flu-like symptoms .,O O O O O O O O O O O O O O B-per O O O O O O,DT NN NN VBD RB JJ NNS IN VBG VBN IN DT NN IN NNP POS NN IN JJ NNS .
+The entertainer is accused of sexually molesting a 13-year-old boy at the singer 's Neverland ranch .,O O O O O O O O O O O O O O B-geo O O,DT NN VBZ VBN IN RB VBG DT JJ NN IN DT NN POS NNP NN .
+Jackson has pleaded not guilty and predicted his acquittal .,B-per O O O O O O O O O,NNP VBZ VBN RB JJ CC VBD PRP$ NN .
+"In 1993 , he paid more than $ 23 million to settle a separate child molestation case out of court .",O B-tim O O O O O O B-tim O O O O O O O O O O O O,"IN CD , PRP VBD JJR IN $ CD CD TO VB DT JJ NN NN NN IN IN NN ."

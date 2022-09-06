@@ -1,0 +1,6 @@
+"Witnesses say nearly 20 dead whales have washed up Wednesday on a beach in Dakar , Senegal .",O O O O O O O O O B-tim O O O O B-geo O B-geo O,"NNS VBP RB CD JJ NNS VBP VBN RP NNP IN DT NN IN NNP , NNP ."
+Dakar journalist Ricci Shryock tells VOA national police are removing the carcasses in trucks .,B-geo O B-per I-per O B-org O O O O O O O O O,NNP NN NNP NNP VBZ NNP JJ NNS VBP VBG DT NNS IN NNS .
+She said the whales measure some 3.5 to 4.5 meters .,O O O O O O O O O O O,PRP VBD DT NNS NN DT CD TO CD NNS .
+Local villagers say as many as 100 whales swam up to shore late Tuesday night .,O O O O O O O O O O O O B-tim I-tim I-tim O,JJ NNS VBP RB JJ IN CD NNS VBD RP TO VB JJ NNP NN .
+Fisherman were able to tow some of the animals out to sea .,O O O O O O O O O O O O O,NNP VBD JJ TO VB DT IN DT NNS IN TO NN .
+It is unclear why the animals swam close to shore .,O O O O O O O O O O O,PRP VBZ JJ WRB DT NNS VBP RB TO VB .

@@ -1,0 +1,6 @@
+China 's state-run media say a 19-year-old Chinese soldier has been hospitalized with bird flu .,B-geo O O O O O O B-gpe O O O O O O O O,NNP POS JJ NNS VBP DT JJ JJ NN VBZ VBN VBN IN NN NN .
+It is not immediately clear if the soldier has been infected with the often deadly H5N1 strain of bird flu .,O O O O O O O O O O O O O O O B-nat O O O O O,PRP VBZ RB RB JJ IN DT NN VBZ VBN VBN IN DT RB JJ NNP NN IN NN NN .
+Fifteen people have died in China since the outbreak in 2003 .,O O O O O B-geo O O O O B-tim O,CD NNS VBP VBN IN NNP IN DT NN IN CD .
+"Worldwide , the virus has killed 186 people , mostly in Southeast Asia .",O O O O O O O O O O O B-geo I-geo O,"RB , DT NN VBZ VBN CD NNS , RB IN NNP NNP ."
+The virus is mainly passed on to humans through contact with infected poultry .,O O O O O O O O O O O O O O,DT NN VBZ RB VBN IN TO NNS IN NN IN JJ NN .
+But experts fear the virus could spark a pandemic if it mutates into a form easily transmissible upon human to human contact .,O O O O O O O O O O O O O O O O O O O O O O O,CC NNS VBP DT NN MD VB DT JJ IN PRP VBZ IN DT NN RB JJ IN JJ TO JJ NN .

@@ -1,0 +1,5 @@
+"Reports from Syria say a small aircraft apparently used by the military has crashed near Damascus , killing three people on board .",O O B-geo O O O O O O O O O O O O B-geo O O O O O O O,"NNS IN NNP VBP DT JJ NN RB VBN IN DT NN VBZ VBN IN NNP , VBG CD NNS IN NN ."
+Witnesses said the plane appeared to be on a training flight Sunday when it came down .,O O O O O O O O O O O B-tim O O O O O,NNS VBD DT NN VBD TO VB IN DT NN NN NNP WRB PRP VBD RB .
+There was no immediate confirmation of the incident from Syrian officials .,O O O O O O O O O B-gpe O O,EX VBD DT JJ NN IN DT NN IN JJ NNS .
+"The plane crash happened at a time of heightened tension between Syria and Israel , which carried out an air strike deep inside Syrian territory on September 6 .",O O O O O O O O O O O B-geo O B-geo O O O O O O O O O B-gpe O O B-tim I-tim O,"DT NN NN VBD IN DT NN IN JJ NN IN NNP CC NNP , WDT VBD RP DT NN NN JJ IN JJ NN IN NNP CD ."
+Neither country has given much information about the target of the Israeli raid .,O O O O O O O O O O O B-gpe O O,DT NN VBZ VBN JJ NN IN DT NN IN DT JJ NN .

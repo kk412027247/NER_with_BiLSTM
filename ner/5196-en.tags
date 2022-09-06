@@ -1,0 +1,7 @@
+"Gunmen have attacked Iraq 's Central Bank in Baghdad , killing 12 people and wounding more than 20 others .",O O O B-geo O B-org I-org O B-geo O O O O O O O O O O O,"NNS VBP VBN NNP POS NNP NNP IN NNP , VBG CD NNS CC VBG JJR IN CD NNS ."
+Government officials say the attackers detonated at least six bombs Sunday during an apparent effort to rob the bank .,O O O O O O O O O O B-tim O O O O O O O O O,NN NNS VBP DT NNS VBD IN JJS CD NNS NNP IN DT JJ NN TO VB DT NN .
+The attackers and Iraqi security forces later exchanged gunfire .,O O O B-gpe O O O O O O,DT NNS CC JJ NN NNS RB VBD NN .
+"At last report , the attackers were positioned on the roof of the bank , in a standoff with security forces .",O O O O O O O O O O O O O O O O O O O O O O,"IN JJ NN , DT NNS VBD VBN IN DT NN IN DT NN , IN DT NN IN NN NNS ."
+Iraq has experienced a string of major robberies in recent weeks .,B-geo O O O O O O O O O O O,NNP VBZ VBN DT NN IN JJ NNS IN JJ NNS .
+"Last month , robbers stole $ 5.5 million from a state-owned bank in the southern Shiite province of Najaf .",O O O O O O O O O O O O O O O B-geo O O B-geo O,"JJ NN , NNS VBD $ CD CD IN DT JJ NN IN DT JJ NNP NN IN NNP ."
+"Earlier that week , masked gunmen escaped with a large amount of gold and cash in a brazen daytime robbery that left 14 people dead .",O B-tim O O O O O O O O O O O O O O O O O O O O O O O O,"RB DT NN , VBN NNS VBD IN DT JJ NN IN NN CC NN IN DT JJ NN NN WDT VBD CD NNS JJ ."

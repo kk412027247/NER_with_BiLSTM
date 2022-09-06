@@ -1,0 +1,6 @@
+Are the streets in America really paved with gold ?,O O O O B-geo O O O O O,VBP DT NNS IN NNP RB VBD IN NN .
+Moses Bittok probably thinks so .,B-per I-per O O O O,NNPS NNP RB VBZ RB .
+"Mr. Bittok , who immigrated from Kenya to the United States , learned last week he had a winning ticket worth nearly $ 2 million from an Iowa lottery .",B-per I-per O O O O B-geo O O B-geo I-geo O O O O O O O O O O O O O O O O B-geo O O,"NNP NNP , WP VBD IN NNP TO DT NNP NNPS , VBD JJ NN PRP VBD DT NN NN JJ RB $ CD CD IN DT NNP NN ."
+And get this - he realized he had won shortly after taking the oath of U.S. citizenship .,O O O O O O O O O O O O O O O B-org O O,CC VB DT : PRP VBD PRP VBD VBN RB IN VBG DT NN IN NNP NN .
+"As he cashed in his ticket , Mr. Bittok said - quote - "" It 's almost like you adopted a country and they netted you $ 1.8 million dollars . """,O O O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O,"IN PRP VBD IN PRP$ NN , NNP NNP VBD : NN : LQU PRP VBZ RB IN PRP VBD DT NN CC PRP VBD PRP $ CD CD NNS . LQU"
+He added that something like this can only happen in America .,O O O O O O O O O O B-geo O,PRP VBD IN DT IN DT MD RB VB IN NNP .

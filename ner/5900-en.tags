@@ -1,0 +1,6 @@
+"Niger 's newly re-elected president , Mamadou Tandja , has re-appointed Hama Amadou to the post of prime minister .",B-gpe O O O O O B-org I-org O O O B-org I-org O O O O O O O,"NNP POS RB VBN NN , NNP NNP , VBZ VBN NNP NNP TO DT NN IN JJ NN ."
+"The president made the announcement Friday , one day after Mr. Amadou and his cabinet tendered their resignations in line with Niger 's constitution .",O O O O O B-tim O B-tim I-tim I-tim B-per B-geo O O O O O O O O O B-gpe O O O,"DT NN VBD DT NN NNP , CD NN IN NNP NNP CC PRP$ NN VBD PRP$ NNS IN NN IN NNP POS NN ."
+"Mr. Amadou , who is 54 , has been praised for his efforts to steer the impoverished West African country towards economic and political stability .",B-per B-geo O O O O O O O O O O O O O O O O B-gpe O O O O O O O,"NNP NNP , WP VBZ CD , VBZ VBN VBN IN PRP$ NNS TO VB DT JJ JJ JJ NN IN JJ CC JJ NN ."
+He was widely expected to be re-appointed as prime minister .,O O O O O O O O O O O,PRP VBD RB VBN TO VB JJ IN JJ NN .
+"Earlier this month , President Mamadou won 65.5 percent of the vote in the final round of presidential elections .",O O O O B-per B-org O O O O O O O O O O O O O O,"RBR DT NN , NNP NNP VBD CD NN IN DT NN IN DT JJ NN IN JJ NNS ."
+His ruling party also won a strong majority in parliament .,O O O O O O O O O O O,PRP$ NN NN RB VBD DT JJ NN IN NN .

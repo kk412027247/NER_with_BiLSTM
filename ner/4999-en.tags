@@ -1,0 +1,9 @@
+The head of Iran 's atomic energy agency has proposed building nuclear power plants jointly with neighboring Arab countries .,O O O B-geo O O O O O O O O O O O O O B-gpe O O,DT NN IN NNP POS JJ NN NN VBZ VBN VBG JJ NN NNS RB IN JJ JJ NNS .
+Gholam Reza Aghazadeh did not give any specifics about his proposal Sunday for the development of light-water nuclear plants .,B-per I-per I-per O O O O O O O O B-tim O O O O O O O O,NNP NNP NNP VBD RB VB DT NNS IN PRP$ NN NNP IN DT NN IN JJ JJ NNS .
+Iran is building its first nuclear power plant with Russia 's help .,B-geo O O O O O O O O B-geo O O O,NNP VBZ VBG PRP$ JJ JJ NN NN IN NNP POS NN .
+"Iran says it is developing nuclear power , not weapons .",B-geo O O O O O O O O O O,"NNP VBZ PRP VBZ VBG JJ NN , RB NNS ."
+But Western nations are concerned Tehran 's intentions are militaristic .,O B-per O O O B-org O O O O O,CC JJ NNS VBP JJ NNP POS NNS VBP JJ .
+The U.N. Security Council has imposed sanctions on Iran to try to stop it from enriching uranium .,O B-org I-org I-org O O O O B-geo O O O O O O O O O,DT NNP NNP NNP VBZ VBN NNS IN NNP TO VB TO VB PRP IN VBG NN .
+Tehran says it wants to produce low-grade fuel for peaceful nuclear power plants .,B-org O O O O O O O O O O O O O,NNP VBZ PRP VBZ TO VB JJ NN IN JJ JJ NN NNS .
+But the same process could be used to enrich uranium to a higher grade for nuclear weapons .,O O O O O O O O O O O O O O O O O O,CC DT JJ NN MD VB VBN TO VB NN TO DT JJR NN IN JJ NNS .
+A recent International Atomic Energy Agency report says Iran is defying U.N. sanctions and has stopped providing substantial information to the U.N. nuclear agency about its activities .,O O B-org I-org I-org I-org O O B-geo O O B-org O O O O O O O O O B-org O O O O O O,DT JJ NNP NNP NNP NNP NN VBZ NNP VBZ VBG NNP NNS CC VBZ VBN VBG JJ NN TO DT NNP JJ NN IN PRP$ NNS .

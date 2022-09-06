@@ -1,0 +1,7 @@
+"The U.S. National Hurricane Center says the season 's latest storm , Ophelia , has weakened to "" tropical storm "" status as it hovers off the U.S. Atlantic coast .",O B-org O O O O O O O O O O B-per O O O O O O O O O O O O O O B-org I-org I-org O,"DT NNP NNP NNP NNP VBZ DT NN POS JJS NN , NNP , VBZ VBN TO LQU JJ NN LQU NN IN PRP VBZ RP DT NNP NNP NN ."
+"Ophelia 's winds dropped to about 115 kilometers an hour Monday , just below hurricane level ( 119 kph ) .",B-per O O O O O O O O O B-tim O O O O O O O O O O,"NNP POS NNS VBD TO IN CD NNS DT NN NNP , RB IN NN NN LRB CD NN RRB ."
+"But residents of both North and South Carolina remain wary , as it could regain strength .",O O O O B-geo O B-geo I-geo O O O O O O O O O,"CC NNS IN DT NNP CC NNP NNP VBP JJ , IN PRP MD VB NN ."
+The storm 's path is uncertain .,O O O O O O O,DT NN POS NN VBZ JJ .
+"Officials are taking extra precautions after the destruction caused by Hurricane Katrina , which hit the U.S. Gulf Coast two weeks ago .",O O O O O O O O O O O B-nat O O O O B-org O B-org B-tim O O O,"NNS VBP VBG JJ NNS IN DT NN VBN IN NNP NNP , WDT VBD DT NNP NNP NNP CD NNS RB ."
+There is a hurricane watch along 400 kilometers of the east coast .,O O O O O O O O O O O O O,EX VBZ DT NN NN IN CD NNS IN DT JJ NN .
+The governor of North Carolina has declared a state of emergency and ordered tourists to leave an island in the state 's Outer Banks chain .,O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O,DT NN IN NNP NNP VBZ VBN DT NN IN NN CC VBD NNS TO VB DT NN IN DT NN POS NNP NNP NN .

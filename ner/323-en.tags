@@ -1,0 +1,7 @@
+Two neighbors had been fighting each other for nigh on four decades .,O O O O O O O O O O O O O,CD NNS VBD VBN VBG DT NN IN NN IN CD NNS .
+Bob buys a Great Dane and teaches it to use the bathroom in Bill 's yard .,B-per O O B-org I-org O O O O O O O O B-per O O O,NNP VBZ DT NNP NNP CC VBZ PRP TO VB DT NN IN NNP POS NN .
+For one whole year Bill ignores the dog .,O O O O B-per O O O O,IN CD JJ NN NNP VBZ DT NN .
+So Bob then buys a cow and teaches it to use the bathroom in Bill 's yard .,O B-per O O O O O O O O O O O O B-per O O O,RB NNP RB VBZ DT NN CC VBZ PRP TO VB DT NN IN NNP POS NN .
+"After about a year and a half of Bob 's cow crapping in Bill 's yard ; being ignored all the while , a semi pulls up in front of Bill 's house .",O O O O O O O O B-per O O O O B-per O O O O O O O O O O O O O O O O B-per O O O,"IN IN DT NN CC DT NN IN NNP POS NN NN IN NNP POS NN ; VBG VBN PDT DT NN , DT NN VBZ RP IN NN IN NNP POS NN ."
+Bob runs over and demands to know what 's in the 18-wheeler .,B-per O O O O O O O O O O O O,NNP VBZ IN CC NNS TO VB WP VBZ IN DT JJ .
+"' My new pet elephant , ' Bill replies solemly .",O O O O O O O O O O O,"LQU PRP$ JJ NN NN , RQU NN VBZ RB ."

@@ -1,0 +1,9 @@
+The U.S. dollar has fallen to another record low against the Euro .,O B-geo O O O O O O O O O B-org O,DT NNP NN VBZ VBN TO DT NN NN IN DT NNP .
+"The Euro rose to $ 1.37 in New York trading Thursday , after a report showed manufacturing slowing down in the Chicago area , one of the nation 's economic centers .",O B-org O O O O O B-geo I-geo O B-tim O O O O O O O O O O B-geo O O O O O O O O O O,"DT NNP VBD TO $ CD IN NNP NNP NN NNP , IN DT NN VBD VBG VBG RP IN DT NNP NN , CD IN DT NN POS JJ NNS ."
+The European currency first rose above $ 1.36 on Monday .,O O O O O O O O O B-tim O,DT JJ NN RB VBD IN $ CD IN NNP .
+Many economists predict the dollar will continue to fall in 2005 .,O O O O O O O O O O B-tim O,JJ NNS VBP DT NN MD VB TO VB IN CD .
+Several European finance ministers have blamed the drop on the large U.S. large trade and budget deficits .,O O O O O O O O O O O B-geo O O O O O O,JJ JJ NN NNS VBP VBN DT NN IN DT JJ NNP JJ NN CC NN NNS .
+"A weak dollar makes U.S. exports cheaper on world markets , but hurts European traders .",O O O O B-geo O O O O O O O O O O O,"DT JJ NN VBZ NNP NNS JJR IN NN NNS , CC VBZ JJ NNS ."
+It also attracts Europeans to U.S. cities and stores .,O O O B-gpe O B-geo O O O O,PRP RB VBZ NNS TO NNP NNS CC NNS .
+The Bush administration says it is committed to a strong dollar .,O B-per O O O O O O O O O O,DT NNP NN VBZ PRP VBZ VBN TO DT JJ NN .
+"But it has taken no direct action , saying markets should determine exchange rates .",O O O O O O O O O O O O O O O,"CC PRP VBZ VBN DT JJ NN , VBG NNS MD VB NN NNS ."

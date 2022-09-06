@@ -1,0 +1,7 @@
+Egyptian police have killed a man they say was the leader of an Islamist militant group blamed for several attacks on tourist towns last month .,B-gpe O O O O O O O O O O O O B-org O O O O O O O O O O O O,JJ NNS VBP VBN DT NN PRP VBP VBD DT NN IN DT NNP NN NN VBN IN JJ NNS IN NN NNS JJ NN .
+Security officials said Tuesday that Nasser Khamis el-Mallahi was killed in a firefight near the North Sinai town of El-Arish .,O O O B-tim O B-org I-org I-org O O O O O O O B-geo I-geo O O O O,NNP NNS VBD NNP IN NNP NNP NNP VBD VBN IN DT NN IN DT NNP NNP NN IN JJ .
+One accomplice was captured .,O O O O O,CD NN VBD VBN .
+"Police say el-Mallahi headed Tawhid wal Jihad , which has been blamed for a series of attacks against tourist resorts in the Sinai since 2004 .",O O B-org O B-per I-per I-per O O O O O O O O O O O O O O O B-geo B-tim I-tim O,"NNS VBP NNP VBD NNP NNP NNP , WDT VBZ VBN VBN IN DT NN IN NNS IN NN NNS IN DT NNP IN CD ."
+The attacks have killed at least 117 people .,O O O O O O O O O,DT NNS VBP VBN IN JJS CD NNS .
+"The most recent occurred last month in Dahab , when three near-simultaneous explosions killed at least 19 people .",O O O O O O O B-geo O O O O O O O O O O O,"DT RBS JJ VBN JJ NN IN NNP , WRB CD JJ NNS VBD IN JJS CD NNS ."
+About 80 others were wounded in the blasts .,O O O O O O O O O,IN CD NNS VBD VBN IN DT NNS .

@@ -1,0 +1,7 @@
+U.S. automaker General Motors says it has reached a deal with its main union to offer an early retirement program for its hourly workers .,B-geo O B-org I-org O O O O O O O O O O O O O O O O O O O O O,NNP NN NNP NNP VBZ PRP VBZ VBN DT NN IN PRP$ JJ NN TO VB DT JJ NN NN IN PRP$ JJ NNS .
+"General Motors says the move is part of a plan to eliminate 30,000 jobs by 2008 .",B-org I-org O O O O O O O O O O O O O B-tim O,NNP NNPS VBZ DT NN VBZ NN IN DT NN TO VB CD NNS IN CD .
+It is also planning to shut down 12 factories by that time .,O O O O O O O O O O O O O,PRP VBZ RB VBG TO VB RP CD NNS IN DT NN .
+"Under the plan , $ 35,000 will be offered to eligible workers from GM and its former parts subsidiary , Delphi Corporation .",O O O O O O O O O O O O O B-org O O O O O O B-per I-per O,"IN DT NN , $ CD MD VB VBN TO JJ NNS IN NNP CC PRP$ JJ NNS NN , NNP NNP ."
+"Another 5,000 workers who are not eligible for the plan will be able to return to GM .",O O O O O O O O O O O O O O O O B-org O,DT CD NNS WP VBP RB JJ IN DT NN MD VB JJ TO VB TO NNP .
+GM says it lost $ 10.6 billion in 2005 .,B-org O O O O O O O B-tim O,NNP VBZ PRP VBD $ CD CD IN CD .
+The automaker 's share of the U.S. market has declined since consumers stopped buying its profitable SUVs and other large vehicles due to soaring gas prices .,O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O,DT NN POS NN IN DT NNP NN VBZ VBN IN NNS VBD VBG PRP$ JJ NNS CC JJ JJ NNS JJ TO VBG NN NNS .

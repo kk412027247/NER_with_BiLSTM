@@ -1,0 +1,7 @@
+The White House has expressed concern about reports that the U.S. military paid Iraqi newspapers to run pro-American stories about the war and rebuilding effort .,O B-org I-org O O O O O O O B-geo O O B-gpe O O O O O O O O O O O O,DT NNP NNP VBZ VBN NN IN NNS IN DT NNP NN VBD JJ NNS TO VB JJ NNS IN DT NN CC NN NN .
+Spokesman Scott McClellan Thursday said the White House is seeking more information from the Defense Department .,O B-per I-per B-tim O O B-org I-org O O O O O O B-org I-org O,NNP NNP NNP NNP VBD DT NNP NNP VBZ VBG JJR NN IN DT NNP NNP .
+The Los Angeles Times on Wednesday first reported the program to plant articles in Iraqi media .,O B-org I-org I-org O B-tim I-tim O O O O O O O B-gpe O O,DT NNP NNP NNP IN NNP RB VBD DT NN TO NN NNS IN JJ NNS .
+It reported that American soldiers wrote the articles and presented them to Iraqi media as unbiased accounts from independent journalists .,O O O B-gpe O O O O O O O O B-gpe O O O O O O O O,PRP VBD IN JJ NNS VBD DT NNS CC VBD PRP TO JJ NNS IN JJ NNS IN JJ NNS .
+The Defense Department said it is looking into the matter .,O B-org I-org O O O O O O O O,DT NNP NNP VBD PRP VBZ VBG IN DT NN .
+Pentagon spokesman Bryan Whitman said he sent inquiries to military officials in Iraq about the alleged activity .,B-org O B-per I-per O O O O O O O O B-geo O O O O O,NNP NN NNP NNP VBD PRP VBD NNS TO JJ NNS IN NNP IN DT JJ NN .
+"He added that , if true , some of the activities are troubling .",O O O O O O O O O O O O O O,"PRP VBD IN , IN JJ , DT IN DT NNS VBP JJ ."

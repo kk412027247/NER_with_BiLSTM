@@ -1,0 +1,4 @@
+"Los Angeles is one of the world 's most diverse cities , and a summer music series there brings together the city 's many ethnic communities .",B-geo I-geo O O O O O O O O O O O O B-tim O O O O O O O O O O O O,"NNP NNP VBZ CD IN DT NN POS RBS JJ NNS , CC DT NN NN NN EX VBZ RB DT NN POS JJ JJ NNS ."
+"A recent performance by Seun Kuti , son of Afro-beat legend Fela Kuti , kicked off this year 's concert series , bringing the sounds of Lagos , Nigeria to downtown Los Angeles .",O O O O B-per I-per O O O O O B-per I-per O O O O O O O O O O O O O B-geo O B-geo O O B-geo I-geo O,"DT JJ NN IN NNP NNP , NN IN JJ NN NNP NNP , VBD RP DT NN POS NN NN , VBG DT NNS IN NNP , NNP TO NN NNP NNP ."
+Six-thousand people came to celebrate the music and the city 's multi-cultural heritage .,O O O O O O O O O O O B-tim O O,JJ NNS VBD TO VB DT NN CC DT NN POS JJ NN .
+Nnamdi Moweta reports .,B-per I-per O O,NNP NNP VBZ .

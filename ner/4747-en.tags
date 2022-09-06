@@ -1,0 +1,6 @@
+"A record-breaking heat wave over southeastern Europe and parts of the Middle East is expected to continue , closing out what experts say will be the hottest June ever recorded in the region .",O O O O O O B-geo O O O O B-geo I-geo O O O O O O O O O O O O O O B-tim O O O O O O,"DT JJ NN NN IN JJ NNP CC NNS IN DT NNP NNP VBZ VBN TO VB , VBG RP WP NNS VBP MD VB DT JJS NNP RB VBD IN DT NN ."
+"Temperatures reached a stifling 46 degrees Celsius Monday in Athens , forcing government offices to close .",O O O O O O O B-tim O B-geo O O O O O O O,"NNS VBD DT VBG CD NNS NNP NNP IN NNP , VBG NN NNS TO VB ."
+Greek authorities say the heat killed two elderly women while another death was reported on Cyprus .,B-gpe O O O O O O O O O O O O O O B-tim O,JJ NNS VBP DT NN VBD CD JJ NNS IN DT NN VBD VBN IN NNP .
+Romanian authorities say the heat has killed 25 people .,B-gpe O O O O O O O O O,JJ NNS VBP DT NN VBZ VBN CD NNS .
+"Elsewhere , British authorities issued warnings across much of the country Monday , where flash floods killed three people in northern England .",O O B-gpe O O O O O O O O B-tim O O O O O O O O O B-geo O,"RB , JJ NNS VBD NNS IN NN IN DT NN NNP , WRB NN NNS VBD CD NNS IN JJ NNP ."
+The bad weather forced a delay in the Wimbledon tennis tournament in London .,O O O O O O O O B-geo O O O B-geo O,DT JJ NN VBD DT NN IN DT NNP NN NN IN NNP .

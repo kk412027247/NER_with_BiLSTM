@@ -1,0 +1,9 @@
+The National Basketball Association is considering a league-wide standard for physical exams following the death of Atlanta Hawks center Jason Collier .,O B-org I-org I-org O O O O O O O O O O O O B-geo I-geo O B-per I-per O,DT NNP NNP NNP VBZ VBG DT JJ NN IN JJ NNS VBG DT NN IN NNP NNPS NN NNP NNP .
+The 28-year-old Collier died on Saturday after he had difficulty breathing at home .,O O B-per O O B-tim O O O O O O O O,DT JJ NNP VBD IN NNP IN PRP VBD NN VBG IN NN .
+"His agent , Richard Howell said Collier may have had an enlarged heart .",O O O B-per I-per O B-per O O O O O O O,"PRP$ NN , NNP NNP VBD NNP MD VB VBN DT JJ NN ."
+Individual team doctors from each of the NBA 's 30 franchises currently conduct physical exams for their players before training camp .,O O O O O O O B-org O O O O O O O O O O O O O O,JJ NN NNS IN DT IN DT NNP POS CD NNS RB VBP JJ NNS IN PRP$ NNS IN NN NN .
+Some teams use echocardiograms to detect heart problems .,O O O O O O O O O,DT NNS VBP NNS TO VB NN NNS .
+But the test is not mandatory .,O O O O O O O,CC DT NN VBZ RB JJ .
+A number of NBA players have had heart-related problems .,O O O B-org O O O O O O,DT NN IN NNP NNS VBP VBN JJ NNS .
+New York Knicks forward Eddy Curry missed the final 13 games of last season and the playoffs with an irregular heartbeat .,B-org I-org I-org O B-per I-per O O O O O O O O O O O O O O O O,NNP NNP NNP RB NNP NNP VBD DT JJ CD NNS IN JJ NN CC DT NNS IN DT JJ NN .
+Minnesota guard Fred Hoiberg will miss this season after open heart surgery in June .,B-org O B-per I-per O O O O O O O O O B-tim O,NNP NN NNP NNP MD VB DT NN IN JJ NN NN IN NNP .

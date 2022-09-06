@@ -1,0 +1,8 @@
+The U.S. State Department has informed its diplomats that some will be required to serve in Iraq because of a lack of volunteers willing to work there .,O B-org I-org I-org O O O O O O O O O O O O B-geo O O O O O O O O O O O,DT NNP NNP NNP VBZ VBN PRP$ NNS IN DT MD VB VBN TO VB IN NNP IN IN DT NN IN NNS JJ TO VB RB .
+"The department sent a cable Friday to all diplomats , saying that 200 to 300 people will be notified Monday that they are prime candidates for postings in Iraq .",O O O O O B-tim O O O O O O O O O O O O O B-tim O O O O O O O O B-geo O,"DT NN VBD DT NN NNP TO DT NNS , VBG IN CD TO CD NNS MD VB VBN NNP IN PRP VBP JJ NNS IN NNS IN NNP ."
+"Harry Thomas , the director-general of the U.S. Foreign Service , said those notified would have 10 days to accept or reject the position .",B-per I-per O O O O O B-org I-org I-org O O O O O O B-tim O O O O O O O O,"NNP NNP , DT NN IN DT NNP NNP NNP , VBD DT VBN MD VB CD NNS TO VB CC VB DT NN ."
+Thomas said those who refuse face the possibility of dismissal .,B-per O O O O O O O O O O,NNP VBD DT WP VBP VBP DT NN IN NN .
+He said diplomats sent to Iraq will receive extra pay and vacation time .,O O O O O B-geo O O O O O O O O,PRP VBD NNS VBN TO NNP MD VB JJ NN CC NN NN .
+There are precedents for the directed assignments .,O O O O O O O O,EX VBP NNS IN DT VBN NNS .
+"In 1969 , an entire class of diplomats was sent to Vietnam .",O B-tim O O O O O O O O O B-geo O,"IN CD , DT JJ NN IN NNS VBD VBN TO NNP ."
+"During the 1970s and 1980s , some were required to work at embassies in Africa .",O O B-tim I-tim I-tim O O O O O O O O O B-geo O,"IN DT NNS CC NNS , DT VBD VBN TO VB IN NNS IN NNP ."

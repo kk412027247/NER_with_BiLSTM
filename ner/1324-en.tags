@@ -1,0 +1,6 @@
+Award-winning choreographer Michael Kidd has died at his home in Los Angeles .,O O B-per I-per O O O O O O B-geo I-geo O,JJ NN NNP NNP VBZ VBN IN PRP$ NN IN NNP NNP .
+"A family member says Kidd was 92-years-old , and died of cancer Sunday night .",O O O O B-per O O O O O O O B-tim I-tim O,"DT NN NN VBZ NNP VBD JJ , CC VBD IN NN NNP NN ."
+The choreographer was best known for producing exuberant dance numbers for Broadway shows such as Guys and Dolls and Can-Can .,O O O O O O O O O O O B-geo O O O B-org I-org I-org O O O,DT NN VBD RB VBN IN VBG JJ NN NNS IN NNP NNS JJ IN NNP CC NNP CC NNP .
+"He also worked on movies , including the 1954 film , Seven Brides for Seven Brothers .",O O O O O O O O B-tim I-tim O B-org I-org I-org I-org I-org O,"PRP RB VBD IN NNS , VBG DT CD NN , NNP NNP IN NNP NNPS ."
+"During his long career , Kidd won five Tony Awards for his theater work .",O O O O O B-per O O B-org O O O O O O,"IN PRP$ JJ NN , NNP VBD CD NNP NNS IN PRP$ NN NN ."
+He also earned a special Academy Award in 1997 in recognition of his choreography for movies .,O O O O O B-org I-org O B-tim O O O O O O O O,PRP RB VBD DT JJ NNP NNP IN CD IN NN IN PRP$ NN IN NNS .

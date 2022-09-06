@@ -1,0 +1,8 @@
+"Turkish media are reporting that two bombs have exploded in the southern Turkish resort city of Antalya , wounding at least six people .",B-gpe O O O O O O O O O O O B-gpe O O O B-geo O O O O O O O,"JJ NNS VBP VBG IN CD NNS VBP VBN IN DT JJ JJ NN NN IN NNP , VBG IN JJS CD NNS ."
+"Turkey 's Anatolia news agency says the explosions Tuesday were in two different locations , but occurred just minutes apart .",B-org I-org I-org O O O O O B-tim O O O O O O O O O O O O,"NNP POS NNP NN NN VBZ DT NNS NNP VBD IN CD JJ NNS , CC VBD RB NNS RB ."
+One of the bombs was planted in a trash can that exploded as workers were emptying it .,O O O O O O O O O O O O O O O O O O,CD IN DT NNS VBD VBN IN DT NN NN WDT VBD IN NNS VBD VBG PRP .
+"Anatolia reports that the second blast also came from a trash can and wounded three people , including a tourist .",B-org O O O O O O O O O O O O O O O O O O O O,"NNP VBZ IN DT JJ NN RB VBD IN DT NN NN CC VBD CD NNS , VBG DT NN ."
+It is unclear who planted the bombs .,O O O O O O O O,PRP VBZ JJ WP VBD DT NNS .
+Kurdish rebels from the banned Kurdistan Workers Party have recently launched several attacks on Turkish resort towns .,O O O O O B-org I-org I-org O O O O O O B-gpe O O O,JJ NNS IN DT VBN NNP NNP NNP VBP RB VBN JJ NNS IN JJ NN NNS .
+Other terrorist attacks in the country have been blamed on Islamic terrorists .,O O O O O O O O O O O O O,JJ JJ NNS IN DT NN VBP VBN VBN IN NNP NNS .
+"Antalya , on Turkey 's Mediterranean coast , is a popular vacation resort .",B-geo O O B-org O B-org I-org O O O O O O O,"NNP , IN NNP POS NNP NN , VBZ DT JJ NN NN ."

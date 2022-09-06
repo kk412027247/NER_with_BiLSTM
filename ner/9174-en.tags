@@ -1,0 +1,11 @@
+"Tonga has a small , open , South Pacific island economy .",B-org O O O O O O B-geo I-geo O O O,"NNP VBZ DT JJ , JJ , NNP NNP NN NN ."
+It has a narrow export base in agricultural goods .,O O O O O O O O O O,PRP VBZ DT JJ NN NN IN JJ NNS .
+"Squash , vanilla beans , and yams are the main crops .",O O O O O O O O O O O O,"NNP , NN NNS , CC NNS VBP DT JJ NNS ."
+"Agricultural exports , including fish , make up two-thirds of total exports .",O O O O O O O O O O O O O,"NNP NNS , VBG NN , VB RP NNS IN JJ NNS ."
+"The country must import a high proportion of its food , mainly from New Zealand .",O O O O O O O O O O O O O B-geo I-geo O,"DT NN MD VB DT JJ NN IN PRP$ NN , RB IN NNP NNP ."
+The country remains dependent on external aid and remittances from Tongan communities overseas to offset its trade deficit .,O O O O O O O O O O B-geo O O O O O O O O,DT NN VBZ JJ IN JJ NN CC NNS IN NNP NNS RB TO VB PRP$ NN NN .
+Tourism is the second-largest source of hard currency earnings following remittances .,O O O O O O O O O O O O,NNP VBZ DT JJ NN IN JJ NN NNS VBG NNS .
+"Tonga had 39,000 visitors in 2006 .",B-org O O O O B-tim O,NNP VBD CD NNS IN CD .
+"The government is emphasizing the development of the private sector , especially the encouragement of investment , and is committing increased funds for health and education .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ VBG DT NN IN DT JJ NN , RB DT NN IN NN , CC VBZ VBG VBN NNS IN NN CC NN ."
+Tonga has a reasonably sound basic infrastructure and well developed social services .,B-org O O O O O O O O O O O O,NNP VBZ DT RB JJ JJ NN CC RB VBN JJ NNS .
+"High unemployment among the young , a continuing upturn in inflation , pressures for democratic reform , and rising civil service expenditures are major issues facing the government .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NN IN DT JJ , DT VBG NN IN NN , NNS IN JJ NN , CC VBG JJ NN NNS VBP JJ NNS VBG DT NN ."

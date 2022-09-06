@@ -1,0 +1,8 @@
+"The United Nations refugee agency says four armed men attacked one of its field offices in Darfur , shooting a guard in the leg .",O B-org I-org O O O O O O O O O O O O O B-geo O O O O O O O O,"DT NNP NNP NN NN VBZ CD JJ NNS VBD CD IN PRP$ NN NNS IN NNP , VBG DT NN IN DT NN ."
+Spokeswoman Jennifer Pagonis says no one else was hurt in the attack .,O B-per I-per O O O O O O O O O O,NN NNP NNP VBZ DT NN RB VBD VBN IN DT NN .
+"It occurred late Monday in Habila , in western Darfur .",O O O B-tim O B-geo O O B-geo I-geo O,"PRP VBD JJ NNP IN NNP , IN JJ NNP ."
+She says the men stole communications equipment before leaving .,O O O O O O O O O O,PRP VBZ DT NNS VBP NNS NN IN VBG .
+It is unclear whether the attackers belonged to any of the rebel groups or government-backed militias active in the western Sudanese region .,O O O O O O O O O O O O O O O O O O O O B-gpe O O,PRP VBZ JJ IN DT NNS VBD TO DT IN DT NN NNS CC JJ NNS JJ IN DT JJ JJ NN .
+Violence still plagues Darfur despite a recent peace agreement between the Sudanese government and Darfur rebel groups .,O O O B-geo O O O O O O O B-gpe O O B-geo O O O,NN RB VBZ NNP IN DT JJ NN NN IN DT JJ NN CC NNP NN NNS .
+Some rebels have refused to sign the accord .,O O O O O O O O O,DT NNS VBP VBN TO VB DT NN .
+"It is designed to end more than three years of fighting that has killed more than 180,000 people .",O O O O O O O B-tim O O O O O O O O O O O,PRP VBZ VBN TO VB JJR IN CD NNS IN VBG DT VBZ VBN JJR IN CD NNS .

@@ -1,0 +1,7 @@
+"President Viktor Yushchenko says he will dismiss Ukraine 's chief veterinary official , Petro Verbytsky , for his handling of the bird flu crisis .",B-per I-per I-per O O O O B-geo O O O O O B-per I-per O O O O O O O O O O,"NNP NNP NNP VBZ PRP MD VB NNP POS NN JJ NN , NNP NNP , IN PRP$ NN IN DT NN NN NN ."
+President Yushchenko made the announcement Monday as he was visiting an area of the Crimea suddenly hit by the deadly virus .,B-per I-per O O O B-tim O O O O O O O O B-geo O O O O O O O,NNP NNP VBD DT NN NNP IN PRP VBD VBG DT NN IN DT NNP RB VBN IN DT JJ NN .
+He said the veterinary service had not been prepared for the health crisis .,O O O O O O O O O O O O O O,PRP VBD DT JJ NN VBD RB VBN VBN IN DT NN NN .
+The president also urged local authorities to consider firing Crimean veterinary service leaders .,O O O O O O O O O O O O O O,DT NN RB VBD JJ NNS TO VB VBG JJ JJ NN NNS .
+Experts are investigating the recent deaths of hundreds of birds .,O O O O O O O O O O O,NNS VBP VBG DT JJ NNS IN NNS IN NNS .
+"It is not yet known whether they succumbed to the H5N1 strain of the flu , which can be spread to humans .",O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ RB RB VBN IN PRP VBD TO DT NNP NN IN DT NN , WDT MD VB VBN TO NNS ."
+"Also Monday , Russia banned poultry imports from Ukraine .",O B-tim O B-geo O O O O B-geo O,"RB NNP , NNP VBD JJ NNS IN NNP ."

@@ -1,0 +1,9 @@
+Cuba 's former president Fidel Castro broke a one-month silence to praise new U.S. President Barack Obama .,B-geo O O O B-per I-per O O B-tim O O O O B-geo B-per I-per I-per O,NNP POS JJ NN NNP NNP VBD DT JJ NN TO VB JJ NNP NNP NNP NNP .
+"In a posting on a government website , Mr. Castro said he does not have the least doubt about Mr. Obama 's honesty .",O O O O O O O O B-per I-per O O O O O O O O O B-per I-per O O O,"IN DT VBG IN DT NN NN , NNP NNP VBD PRP VBZ RB VB DT JJS NN IN NNP NNP POS NN ."
+"But , he said , many questions remain about the new American leader .",O O O O O O O O O O O B-gpe O O,"CC , PRP VBD , JJ NNS VBP IN DT JJ JJ NN ."
+The comments were Mr. Castro 's first written remarks since December 15 .,O O O B-per I-per O O O O B-tim I-tim I-tim O,DT NNS VBD NNP NNP POS JJ VBN NNS IN NNP CD .
+His long silence prompted speculation that the 82-year-old 's health had deteriorated .,O O O O O O O O O O O O O,PRP$ JJ NN VBD NN IN DT JJ POS NN VBD VBN .
+"Mr. Castro 's article was about a conversation he had with Argentina 's president Christine Fernandez , who visited him in Cuba on Wednesday .",B-per I-per O O O O O O O O O B-geo O O B-per I-per O O O O O B-geo O B-tim O,"NNP NNP POS NN VBD IN DT NN PRP VBD IN NNP POS NN NNP NNP , WP VBD PRP IN NNP IN NNP ."
+"Following the meeting , Ms. Fernandez dispelled rumors about the former Cuban leader 's health , saying she thought he looked good .",O O O O B-per I-per O O O O O B-gpe O O O O O O O O O O O,"VBG DT NN , NNP NNP VBD NNS IN DT JJ JJ NN POS NN , VBG PRP VBD PRP VBD JJ ."
+Mr. Castro has not been seen in public since undergoing intestinal surgery in July 2006 .,B-per I-per O O O O O O O O O O O B-tim I-tim O,NNP NNP VBZ RB VBN VBN IN JJ IN VBG JJ NN IN NNP CD .
+Details of his health are considered a state secret .,O O O O O O O O O O,NNS IN PRP$ NN VBP VBN DT NN NN .

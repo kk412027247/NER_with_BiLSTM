@@ -1,0 +1,7 @@
+"An outbreak of cholera in West Africa has killed at least 177 people and sickened more than 9,000 in Guinea-Bissau within the past month .",O O O O O B-geo I-geo O O O O O O O O O O O O B-geo O O O O O,DT NN IN NN IN NNP NNP VBZ VBN IN JJS CD NNS CC VBN JJR IN CD IN NNP IN DT JJ NN .
+"In an attempt to control the outbreak , the government has banned the sale of water at markets .",O O O O O O O O O O O O O O O O O O O,"IN DT NN TO VB DT NN , DT NN VBZ VBN DT NN IN NN IN NNS ."
+Cholera is an intestinal infection usually spread through contaminated water or food .,O O O O O O O O O O O O O,NN VBZ DT JJ NN RB VBN IN JJ NN CC NN .
+It causes life-threatening dehydration if not treated .,O O O O O O O O,PRP VBZ JJ NN IN RB VBN .
+Health officials say this year 's rainy season in Guinea-Bissau has created favorable conditions for the spread of the disease .,O O O O O O O O O B-geo O O O O O O O O O O O,NN NNS VBP DT NN POS NN NN IN NNP VBZ VBN JJ NNS IN DT NN IN DT NN .
+Flooded latrines can contaminate nearby well water .,O O O O O O O O,JJ NNS MD VB RB RB NN .
+"The World Health Organization says Burkina Faso , Guinea , Liberia , Mali , Mauritania , Niger and Senegal also have seen a rise in cholera cases .",O B-org I-org I-org O B-geo I-geo O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O O O O O O O O O,"DT NNP NNP NNP VBZ NNP NNP , NNP , NNP , NNP , NNP , NNP CC NNP RB VBP VBN DT NN IN NN NNS ."

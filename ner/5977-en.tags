@@ -1,0 +1,6 @@
+Asian stock markets were mostly lower in trading Monday .,O O O O O O O O B-tim O,JJ NN NNS VBD RB JJR IN NN NNP .
+"Tokyo 's Nikkei index lost 85 points , to finish at 13.857 .",B-geo O B-geo O O O O O O O O B-tim O,"NNP POS NNP NN VBD CD NNS , TO VB IN CD ."
+"Hong Kong 's Hang Seng index gained 27 points , to end at 22.772 .",B-geo I-geo O B-geo I-geo O O O O O O O O B-tim O,"NNP NNP POS NNP NNP NN VBD CD NNS , TO VB IN CD ."
+"Elsewhere , share prices were lower in Shanghai , Singapore and Taipei .",O O O O O O O B-geo O B-org O B-geo O,"RB , NN NNS VBD JJR IN NNP , NNP CC NNP ."
+Stocks closed slightly higher in Wellington .,O O O O O B-geo O,NNS VBD RB JJR IN NNP .
+"The dollar was selling at 107.41 yen in Tokyo currency trading , up from 107.25 yen late Friday in New York .",O O O O O O O O B-geo O O O O O O O O B-tim O B-geo I-geo O,"DT NN VBD VBG IN CD NN IN NNP NN NN , RB IN CD NN JJ NNP IN NNP NNP ."

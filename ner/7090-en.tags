@@ -1,0 +1,4 @@
+The economy depends largely on US military spending and tourism .,O O O O O B-geo O O O O O,DT NN VBZ RB IN NNP JJ NN CC NN .
+"Total US grants , wage payments , and procurement outlays amounted to $ 1.3 billion in 2004 .",O B-geo O O O O O O O O O O O O O O B-tim O,"JJ NNP NNS , NN NNS , CC NN NNS VBD TO $ CD CD IN CD ."
+"Over the past 30 years , the tourist industry has grown to become the largest income source following national defense .",O O B-tim I-tim O O O O O O O O O O O O O O O O O,"IN DT JJ CD NNS , DT NN NN VBZ VBN TO VB DT JJS NN NN VBG JJ NN ."
+The Guam economy continues to experience expansion in both its tourism and military sectors .,O B-org O O O O O O O O O O O O O,DT NNP NN VBZ TO VB NN IN DT PRP$ NN CC JJ NNS .

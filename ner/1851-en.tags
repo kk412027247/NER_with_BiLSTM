@@ -1,0 +1,8 @@
+China is objecting to a decision by Internet search engine Google to change maps referring to Taiwan as a province of China .,B-org O O O O O O O O O B-art O O O O O B-geo O O O O B-geo O,NNP VBZ VBG TO DT NN IN NNP NN NN NNP TO VB NNS VBG TO NNP IN DT NN IN NNP .
+China 's state media report that officials are worried the decision may mislead people and give the impression of an independent Taiwan .,B-org O O O O O O O O O O O O O O O O O O O O B-geo O,NNP POS NN NNS VBP IN NNS VBP VBN DT NN MD VB NNS CC VB DT NN IN DT JJ NNP .
+"A Google spokesman told Xinhua the change was part of a regular update of all the site 's maps , rather than a deliberate effort to update the Taiwan page .",O B-org O O B-org O O O O O O O O O O O O O O O O O O O O O O O B-geo O O,"DT NNP NN VBD NNP DT NN VBD NN IN DT JJ NN IN PDT DT NN POS NNS , RB IN DT JJ NN TO VB DT NNP NN ."
+"Earlier this month , Taiwan asked Google to stop listing it as a Chinese province on its maps .",O O O O B-geo O B-org O O O O O O B-gpe O O O O O,"RBR DT NN , NNP VBD NNP TO VB VBG PRP IN DT JJ NN IN PRP$ NNS ."
+Now Google maps simply call the island Taiwan .,O B-org O O O O O B-geo O,RB NNP NNS RB VBP DT NN NNP .
+Taiwan calls itself the Republic of China .,B-org O O O B-org O B-org O,NNP VBZ PRP DT NNP IN NNP .
+China views Taiwan as a breakaway province .,B-org O B-org O O O O O,NNP VBZ NNP IN DT NN NN .
+The two split in a civil war that ended in 1949 .,O O O O O O O O O O B-tim O,DT CD VBD IN DT JJ NN WDT VBD IN CD .

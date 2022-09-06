@@ -1,0 +1,9 @@
+"A wave of insurgent attacks across Iraq killed at least 12 people , mostly Iraqi policemen Monday .",O O O O O O B-geo O O O O O O O B-gpe O B-tim O,"DT NN IN JJ NNS IN NNP VBD IN JJS CD NNS , RB JJ NNS NNP ."
+"In Baghdad , five bombs killed six Iraqis , including three policemen .",O B-geo O O O O O B-gpe O O O O O,"IN NNP , CD NNS VBN CD NNS , VBG CD NNS ."
+"North of the city , in Diyala province , gunmen killed five policemen at a checkpoint near Baquba .",B-geo O O O O O B-geo O O O O O O O O O O B-geo O,"NNP IN DT NN , IN NNP NN , NNS VBD CD NNS IN DT NN IN NNP ."
+Six of the attackers were killed .,O O O O O O O,CD IN DT NNS VBD VBN .
+"Separately , the province 's governor survived a bomb attack that killed his bodyguard .",O O O O O O O O O O O O O O O,"RB , DT NN POS NN VBD DT NN NN WDT VBD PRP$ NN ."
+"Meanwhile , Ukrainian President Viktor Yushchenko traveled to Iraq Monday to visit Ukrainian troops before they withdraw from the country .",O O B-gpe B-per I-per I-per O O B-geo B-tim O O B-gpe O O O O O O O O,"RB , JJ NNP NNP NNP VBD TO NNP NNP TO VB JJ NNS IN PRP VB IN DT NN ."
+Officials say he plans to attend a ceremony where Ukrainian troops will hand over equipment to Iraqi forces .,O O O O O O O O O B-gpe O O O O O O B-gpe O O,NNS VBP PRP VBZ TO VB DT NN WRB JJ NNS MD VB IN NN TO JJ NNS .
+And The New York Times reports that a Shi'ite alliance has refused to give 10 of its parliament seats to Sunni Arabs .,O B-org I-org I-org I-org O O O O O O O O O O O O O O O B-geo B-gpe O,CC DT NNP NNP NNP VBZ IN DT NNP NN VBZ VBN TO VB CD IN PRP$ NN NNS TO NNP NNS .
+Sunni Arabs complained of fraud in the December 15 election and asked for the seats to defuse tensions .,B-geo B-gpe O O O O O B-tim I-tim I-tim O O O O O O O O O,NNP NNS VBD IN NN IN DT NNP CD NN CC VBD IN DT NNS TO VB NNS .

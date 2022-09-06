@@ -1,0 +1,9 @@
+"Australia 's cricket team has beaten India by 337 runs with one day to spare in the first test of their series in Melbourne , Australia .",B-org O O O O O B-org O O O O O O O O O O O O O O O O B-geo O B-geo O,"NNP POS NN NN VBZ VBN NNP IN CD NNS IN CD NN TO VB IN DT JJ NN IN PRP$ NN IN NNP , NNP ."
+Strike bowler Brett Lee and left arm spinner Brad Hogg took two wickets apiece and Mitchell Johnson took three more as India collapsed to 161 all out in its second innings .,O O B-per I-per O O O O B-per I-per O O O O O B-per I-per O O O O B-geo O O O O O O O O O O,NN NN NNP NNP CC JJ NN NN NNP NNP VBD CD NNS RB CC NNP NNP VBD CD JJR IN NNP VBD TO CD DT RP IN PRP$ JJ NN .
+The visitors were chasing a victory target of 499 runs but the Aussie bowlers made sure they got nowhere near the total .,O O O O O O O O O O O O B-gpe O O O O O O O O O O,DT NNS VBD VBG DT NN NN IN CD NNS CC DT JJ NNS VBD JJ PRP VBD RB IN DT NN .
+Lee finished with 2-43 while Hogg was 2-51 .,B-per O O O O B-per O O O,NNP VBD IN JJ IN NNP VBD CD .
+Johnson was 3-21 .,B-per O O O,NNP VBD CD .
+The final score : Australia 343 all out and 351-7 .,O O O O B-org O O O O O O,DT JJ NN IN NNP CD DT RB CC CD .
+India 196 all out and 161 all out .,B-org O O O O O O O O,NNP CD DT JJ CC CD DT RB .
+The match was the first of four tests between the two sides .,O O O O O O O O O O O O O,DT NN VBD DT NN IN CD NNS IN DT CD NNS .
+The second test starts Wednesday in Sydney .,O O O O B-tim O B-geo O,DT JJ NN VBZ NNP IN NNP .

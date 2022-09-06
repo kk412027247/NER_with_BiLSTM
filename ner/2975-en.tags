@@ -1,0 +1,10 @@
+Australia 's cricket team has scored 376-7 by stumps on the first day of its second test match against India in Sydney .,B-geo O O O O O O O O O O O O O O O O O O B-geo O B-geo O,NNP POS NN NN VBZ VBN CD IN NNS IN DT JJ NN IN PRP$ JJ NN NN IN NNP IN NNP .
+"After winning the toss and electing to bat first , Australia lost four wickets in rapid succession .",O O O O O O O O O O B-geo O O O O O O O,"IN VBG DT NN CC VBG TO VB RB , NNP VBD CD NNS IN JJ NN ."
+"However , Andrew Symonds was able to lift his team out of trouble with an unbeaten 137 runs , his second career test century .",O O B-per I-per O O O O O O O O O O O O O O O O O O O O O,"RB , NNP NNP VBD JJ TO VB PRP$ NN IN IN NN IN DT JJ CD NNS , PRP$ JJ NN NN NN ."
+Indian bowler R. P. Singh was 4-28 in 21 overs .,B-gpe O B-per I-per I-per O O O O O O,JJ NN NNP NNP NNP VBD CD IN CD NNS .
+Harbhajan Singh finished 2-88 .,B-per I-per O O O,NNP NNP VBD CD .
+Symonds resurrected the home team 's innings with partnerships of 173 with Brad Hogg and 69 with Brett Lee .,B-per O O O O O O O O O O O B-per I-per O O O B-per I-per O,NNP VBD DT NN NN POS NNS IN NNS IN CD IN NNP NNP CC CD IN NNP NNP .
+Hogg was caught out for 79 runs while Lee was not out for 31 .,B-per O O O O O O O B-per O O O O B-tim O,NNP VBD VBN RP IN CD NNS IN NNP VBD RB RP IN CD .
+Australia won the first test of the series by 337 runs in Melbourne .,B-geo O O O O O O O O O O O B-geo O,NNP VBD DT JJ NN IN DT NN IN CD NNS IN NNP .
+The Aussies are hoping to win their 16th test match in a row .,O B-gpe O O O O O B-tim O O O O O O,DT NNS VBP VBG TO VB PRP$ JJ NN NN IN DT NN .
+The third test starts in Perth on January 16th .,O O O O O B-geo O B-tim I-tim O,DT JJ NN VBZ IN NNP IN NNP CD .

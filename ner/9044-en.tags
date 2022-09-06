@@ -1,0 +1,7 @@
+Egypt 's former foreign minister Ahmed Maher has died at the age of 75 .,B-geo O O O O B-per I-per O O O O O O O O,NNP POS JJ JJ NN NNP NNP VBZ VBN IN DT NN IN CD .
+Egypt 's MENA news agency says Maher died in a hospital Monday due to unspecified health problems .,B-geo O B-org O O O B-per O O O O B-tim O O O O O O,NNP POS NNP NN NN VBZ NNP VBD IN DT NN NNP JJ TO JJ NN NNS .
+Maher served as Egypt 's top diplomat from 2001 until 2004 .,B-per O O B-geo O O O B-tim I-tim I-tim I-tim O,NNP VBD IN NNP POS JJ NN IN CD IN CD .
+"A career diplomat , he participated in the Camp David peace talks between Israel and Egypt in 1978 .",O O O O O O O O B-geo I-geo O O O B-geo O B-geo O B-tim O,"DT NN NN , PRP VBD IN DT NNP NNP NN NNS IN NNP CC NNP IN CD ."
+Maher was attacked by Palestinian activists in 2003 while visiting al-Aqsa mosque in Jerusalem .,B-per O O O B-gpe O O B-tim O O O O O B-geo O,NNP VBD VBN IN JJ NNS IN CD IN VBG JJ NN IN NNP .
+"The activists threw shoes at him , a deep insult in the Arab world .",O O O O O O O O O O O O B-gpe O O,"DT NNS VBD NNS IN PRP , DT JJ NN IN DT JJ NN ."
+"The incident did not seriously injure Maher , but it underscored tensions surrounding efforts at the time to restart peace talks between Israelis and Palestinians .",O O O O O O B-per O O O O O O O O O O O O O O O B-gpe O B-gpe O,"DT NN VBD RB RB JJ NNP , CC PRP VBD NNS VBG NNS IN DT NN TO VB NN NNS IN NNS CC NNS ."

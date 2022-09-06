@@ -1,0 +1,8 @@
+"Palestinian President Mahmoud Abbas , hoping to advance peace efforts , has called on militants to stop rocket attacks on Israel .",B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O B-geo O,"JJ NNP NNP NNP , VBG TO VB NN NNS , VBZ VBN IN NNS TO VB NN NNS IN NNP ."
+Mr. Abbas made the appeal during talks Tuesday with militant leaders in the Gaza Strip .,B-per I-per O O O O O B-tim O O O O O B-geo I-geo O,NNP NNP VBD DT NN IN NNS NNP IN JJ NNS IN DT NNP NNP .
+But Islamic Jihad members at the talks accused Israel of violating a truce and suggested they would continue to launch attacks on Israel .,O B-org I-org O O O O O B-geo O O O O O O O O O O O O O B-geo O,CC NNP NNP NNS IN DT NNS VBD NNP IN VBG DT NN CC VBD PRP MD VB TO VB NNS IN NNP .
+"Elsewhere in Gaza , Israeli military planes fired missiles at suspected access routes used by Palestinian militants .",O O B-geo O B-gpe O O O O O O O O O O B-gpe O O,"RB IN NNP , JJ JJ NNS VBD NNS IN JJ NN NNS VBN IN JJ NNS ."
+No casualties were reported .,O O O O O,DT NNS VBD VBN .
+"And three rockets exploded in a residential area of northern Israel , causing some property damage but no casualties .",O O O O O O O O O O B-geo O O O O O O O O O,"CC CD NNS VBD IN DT JJ NN IN JJ NNP , VBG DT NN NN CC DT NNS ."
+"Officials said they were unsure of the origin of the attack , which occurred near the border with southern Lebanon where Hezbollah militants and Palestinian militants are known to be active .",O O O O O O O O O O O O O O O O O O O B-geo O B-org O O B-gpe O O O O O O O,"NNS VBD PRP VBD JJ IN DT NN IN DT NN , WDT VBD IN DT NN IN JJ NNP WRB NNP NNS CC JJ NNS VBP VBN TO VB JJ ."
+A Hezbollah spokesman denied any knowledge of the attack .,O B-org O O O O O O O O,DT NNP NN VBD DT NN IN DT NN .

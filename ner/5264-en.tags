@@ -1,0 +1,9 @@
+Italian police have arrested 36 people during protests in Rome ahead of the summit of leaders of the world 's eight major industrial countries .,B-gpe O O O O O O O O B-geo O O O O O O O O O O O O O O O,JJ NNS VBP VBN CD NNS IN NNS IN NNP RB IN DT NN IN NNS IN DT NN POS CD JJ JJ NNS .
+Hooded demonstrators clashed with police and set fires on streets near one of the capital 's universities Tuesday .,O O O O O O O O O O O O O O O O O B-tim O,JJ NNS VBN IN NNS CC VBN NNS IN NNS IN CD IN DT NN POS NNS NNP .
+"Police said citizens of France , Germany and Poland were among those arrested .",O O O O B-geo O B-geo O B-geo O O O O O,"NNP VBD NNS IN NNP , NNP CC NNP VBD IN DT VBN ."
+"Separately Tuesday , police in the town of L'Aquila seized clubs from five French protesters close to where the summit is being held .",O B-tim O O O O O O B-geo O O O O B-gpe O O O O O O O O O O,"RB NNP , NN IN DT NN IN NNP VBD NNS IN CD JJ NNS RB TO WRB DT NN VBZ VBG VBN ."
+They were not arrested .,O O O O O,PRP VBD RB VBN .
+"About 15,000 police officers have been deployed to L'Aquila to provide security during the three-day gathering , beginning Wednesday .",O O O O O O O O B-geo O O O O O B-tim O O O B-tim O,"IN CD NNS NNS VBP VBN VBN TO NNP TO VB NN IN DT JJ NN , VBG NNP ."
+"The G8 summit was originally scheduled to take place on an island , La Maddalena , off the Sardinian coast .",O O O O O O O O O O O O O B-per I-per O O O O O O,"DT NNP NN VBD RB VBN TO VB NN IN DT NN , NNP NNP , IN DT JJ NN ."
+Officials moved it to L'Aquila after an April earthquake shook the area and killed almost 300 people .,O O O O B-geo O O B-tim O O O O O O O O O O,NNS VBD PRP TO NNP IN DT NNP NN VBD DT NN CC VBD RB CD NNS .
+Italian officials said the transfer was aimed at giving the area an economic boost .,B-gpe O O O O O O O O O O O O O O,JJ NNS VBD DT NN VBD VBN IN VBG DT NN DT JJ NN .

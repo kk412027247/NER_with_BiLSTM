@@ -1,0 +1,9 @@
+"Sudanese President Omar al-Bashir has made a rare visit to Darfur , where he made an appeal for peace and unity in the region .",B-gpe B-per I-per I-per O O O O O O B-geo O O O O O O O O O O O O O O,"JJ NNP NNP NNP VBZ VBN DT JJ NN TO NNP , WRB PRP VBD DT NN IN NN CC NN IN DT NN ."
+"Mr. Bashir spoke Saturday to a gathering in Nyala , the provincial capital .",B-per I-per O B-tim O O O O B-geo O O O O O,"NNP NNP VBD NNP TO DT NN IN NNP , DT JJ NN ."
+The president said citizens want a comprehensive peace followed by development .,O O O O O O O O O O O O,DT NN VBD NNS VBP DT JJ NN VBN IN NN .
+He called on armed rebels to join the political process .,O O O O O O O O O O O,PRP VBD RP JJ NNS TO VB DT JJ NN .
+"Later Sunday , President Bashir will chair a Cabinet meeting in El~Fasher , the capital of north Darfur .",B-tim I-tim O B-per I-per O O O B-org O O B-geo O O O O O B-geo O,"RB NNP , NNP NNP NN NN DT NNP NN IN NNP , DT NN IN JJ NNP ."
+He returns Monday to Khartoum .,O O B-tim O B-geo O,PRP VBZ NNP TO NNP .
+"More than four years of fighting in the western Sudanese Darfur region have killed an estimated 200,000 people and displaced more than two million others .",B-tim I-tim I-tim O O O O O O B-gpe B-geo O O O O O O O O O O O O O O O,JJR IN CD NNS IN VBG IN DT JJ JJ NNP NN VBP VBN DT JJ CD NNS CC VBN JJR IN CD CD NNS .
+"The Sudanese government has been accused of arming Arab militia , which have been blamed for many atrocities .",O B-gpe O O O O O O B-gpe O O O O O O O O O O,"DT JJ NN VBZ VBN VBN IN VBG JJ NN , WDT VBP VBN VBN IN JJ NNS ."
+Khartoum denies any connection with the violence .,B-geo O O O O O O O,NNP VBZ DT NN IN DT NN .

@@ -1,0 +1,8 @@
+"Interpol says more than 5,000 people across Asia have been arrested in a coordinated crackdown on illegal gambling during the World Cup .",B-geo O O O O O O B-geo O O O O O O O O O O O O B-org I-org O,NNP VBZ JJR IN CD NNS IN NNP VBP VBN VBN IN DT JJ NN IN JJ NN IN DT NNP NNP .
+"The Paris-based police organization said Friday that almost $ 10 million was seized during the raids on nearly 800 gambling dens in China , Malaysia , Singapore and Thailand .",O O O O O B-tim O O O O O O O O O O O O O O O O B-geo O B-geo O B-org O B-geo O,"DT JJ NN NN VBD NNP IN RB $ CD CD VBD VBN IN DT NNS IN RB CD NN NNS IN NNP , NNP , NNP CC NNP ."
+Sites in Hong Kong and Macau also were raided .,O O B-geo I-geo O B-geo O O O O,NNS IN NNP NNP CC NNP RB VBD VBN .
+Police targeted betting shops with links to organized crime .,O O O O O O O O O O,NNS VBD VBG NNS IN NNS TO JJ NN .
+Interpol said the raided shops had handled bets totaling more than $ 150 million .,B-geo O O O O O O O O O O O O O O,NNP VBD DT JJ NNS VBD VBN NNS VBG JJR IN $ CD CD .
+"The crackdown took place between June 11 and July 11 to coincide with the World Cup competition , which captured the attention of millions of sports fans around the world .",O O O O O B-tim I-tim I-tim I-tim I-tim O O O O B-org I-org O O O O O O O O O O O O O O O,"DT NN VBD NN IN NNP CD CC NNP CD TO VB IN DT NNP NNP NN , WDT VBD DT NN IN NNS IN NNS NNS IN DT NN ."
+"Interpol said illegal football ( soccer ) gambling is linked with corruption , money-laundering and prostitution .",B-geo O O O O O O O O O O O O O O O O,"NNP VBD JJ NN LRB NN RRB NN VBZ VBN IN NN , NN CC NN ."
+It said the operation should have an impact on all of those activities .,O O O O O O O O O O O O O O,PRP VBD DT NN MD VB DT NN IN DT IN DT NNS .

@@ -1,0 +1,6 @@
+Costa Rican President Abel Pacheco has declared a national emergency in response to three days of heavy rains that forced thousands of residents along the country 's Caribbean coast to flee their homes .,O B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O B-geo O O O O O O,JJ JJ NNP NNP NNP VBZ VBN DT JJ NN IN NN TO CD NNS IN JJ NNS WDT VBD NNS IN NNS IN DT NN POS JJ NN TO VB PRP$ NNS .
+"Authorities say about 7,500 Costa Ricans were affected by the storms , which left at least one person dead .",O O O O O O O O O O O O O O O O O O O O,"NNS VBP IN CD JJ NNS VBD VBN IN DT NNS , WDT VBD IN JJS CD NN NN ."
+An eight-year-old boy and four members of the same family are also reported missing .,O O O O O O O O O O O O O O O,DT JJ NN CC CD NNS IN DT JJ NN VBP RB VBN VBG .
+Homes and rivers have been flooded and at least a dozen bridges destroyed in the Central American nation .,O O O O O O O O O O O O O O O O B-gpe O O,NNP CC NNS VBP VBN VBN CC IN JJS DT NN NNS VBN IN DT JJ JJ NN .
+The heavy downpours also left neighboring Panama waterlogged .,O O O O O O B-geo O O,DT JJ NNS RB VBD VBG NNP VBD .
+Officials there say the severe weather - which also caused widespread flooding - is expected to continue for another 24 hours .,O O O O O O O O O O O O O O O O O O O B-tim O O,NNS RB VBP DT JJ NN : WDT RB VBD JJ NN : VBZ VBN TO VB IN DT CD NNS .

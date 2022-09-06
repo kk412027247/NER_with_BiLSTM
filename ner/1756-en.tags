@@ -1,0 +1,6 @@
+"The European Union 's top military advisor says a lack of equipment , including helicopters , may delay the bloc 's peacekeeping mission to Chad .",O B-org I-org O O O O O O O O O O O O O O O O O O O O O B-geo O,"DT NNP NNP POS JJ JJ NN VBZ DT NN IN NN , VBG NNS , MD VB DT NN POS NN NN TO NNP ."
+General Henri Bentegeat says the mission also needs medical support and logistics assets .,B-per I-per I-per O O O O O O O O O O O,NNP NNP NNP VBZ DT NN RB VBZ JJ NN CC NNS NNS .
+He is to discuss the issue with EU defense ministers on Monday in Brussels .,O O O O O O O B-org O O O B-tim O B-geo O,PRP VBZ TO VB DT NN IN NNP NN NNS IN NNP IN NNP .
+"The EU plans to send about 3,000 peacekeeping troops to Chad to help secure refugee camps along Chad 's border with Sudan 's troubled Darfur region .",O B-org O O O O O O O O B-geo O O O O O O B-geo O O O B-gpe O O B-tim O O,DT NNP VBZ TO VB IN CD VBG NNS TO VB TO VB VB NN NNS IN NNP POS NN IN NNP POS JJ NNP NN .
+"Violence from the Darfur conflict has spilled into Chad , displacing tens of thousands of people .",O O O B-tim O O O O B-geo O O O O O O O O,"NN IN DT NNP NN VBZ VBN IN NNP , VBG NNS IN NNS IN NNS ."
+The first EU troops are expected to arrive in Chad in December .,O O B-org O O O O O O B-geo O B-tim O,DT JJ NNP NNS VBP VBN TO VB IN NNP IN NNP .

@@ -1,0 +1,10 @@
+"Denmark 's foreign ministry is urging Danish nationals to leave Lebanon after protesters , angered over a political cartoon of the prophet Mohammed , burned the Danish consulate .",B-org O O O O O B-gpe O O O B-geo O O O O O O O O O O O B-per O O O B-gpe O O,"NNP POS JJ NN VBZ VBG JJ NNS TO VB NNP IN NNS , VBD IN DT JJ NN IN DT NN NNP , VBD DT JJ NN ."
+Riot police used tear gas and water cannons to break up the mob .,O O O O O O O O O O O O O O,NN NNS VBD JJ NN CC NN NNS TO VB RP DT NN .
+Lebanese Interior Minister Hassan al-Sabaa resigned following the unrest .,B-gpe O B-per I-per I-per O O O O O,JJ NNP NNP NNP NNP VBD VBG DT NN .
+"Protesters burned the Danish and Norwegian embassies in Damascus , Syria Saturday .",O O O B-gpe O B-gpe O O B-geo O B-geo B-tim O,"NNS VBD DT JJ CC JJ NNS IN NNP , NNP NNP ."
+Muslims throughout the region are boycotting Danish goods .,B-org O O O O O B-gpe O O,NNPS IN DT NN VBP VBG JJ NNS .
+Store owners have pulled Danish products from shelves .,O O O O B-gpe O O O O,NNP NNS VBP VBN JJ NNS IN NNS .
+The cartoon was first printed in a Danish newspaper and then reprinted in a number of European cities .,O O O O O O O B-gpe O O O O O O O O O O O,DT NN VBD JJ VBN IN DT JJ NN CC RB VBN IN DT NN IN JJ NNS .
+Muslims call any depiction of the prophet blasphemous .,O O O O O O O O O,NNPS VBP DT NN IN DT NN JJ .
+Muslim and Arab leaders are calling for calm .,B-per O B-gpe O O O O O O,NNP CC JJ NNS VBP VBG IN NN .
+Lebanese leaders say violence is as harmful to Islam as the cartoon .,B-gpe O O O O O O O B-art O O O O,JJ NNS VBP NN VBZ IN JJ IN NNP IN DT NN .

@@ -1,0 +1,8 @@
+The Democratic Republic of Congo has transferred a militia leader to the International Criminal Court in the Hague to face war crimes charges .,O B-geo I-geo I-geo I-geo O O O O O O O B-org I-org I-org O B-geo I-geo O O O O O O,DT JJ NNP IN NNP VBZ VBN DT NN NN TO DT NNP NNP NNP IN DT NNP TO VB NN NNS NNS .
+"The head of the Union of Congolese Patriots , Thomas Lubanga , was being flown from the capital Kinshasa to the court 's headquarters Friday .",O O O O B-org I-org B-gpe B-org O B-per I-per O O O O O O O O O O O O O B-tim O,"DT NN IN DT NNP IN JJ NNPS , NNP NNP , VBD VBG VBN IN DT NN NN TO DT NN POS NN NNP ."
+"The court issued an arrest warrant for Lubanga last month , but it was not made public until Friday .",O O O O O O O B-per O O O O O O O O O O B-tim O,"DT NN VBD DT NN NN IN NNP JJ NN , CC PRP VBD RB VBN JJ IN NNP ."
+The court says there are reasons to believe Lubanga enlisted children under the age of 15 to participate in fighting .,O O O O O O O O B-per O O O O O O O O O O O O,DT NN VBZ EX VBP NNS TO VB NNP JJ NNS IN DT NN IN CD TO VB IN NN .
+The rebel leader is to become the first person processed by the court .,O O O O O O O O O O O O O O,DT JJ NN VBZ TO VB DT JJ NN VBN IN DT NN .
+Lubanga has been detained in Kinshasa since his arrest in March 2005 .,B-per O O O O B-geo O O O O B-tim I-tim O,NNP VBZ VBN VBN IN NNP IN PRP$ NN IN NNP CD .
+"His group , dominated by ethnic Hema rebels , is accused of committing widespread human rights violations in Congo 's northeastern Ituri district .",O O O O O O B-geo O O O O O O O O O O O B-geo O O B-geo O O,"PRP$ NN , VBN IN JJ NNP NNS , VBZ VBN IN VBG JJ JJ NNS NNS IN NNP POS JJ NNP NN ."
+Congo 's five-year civil war ended in 2003 .,B-geo O B-tim O O O O B-tim O,NNP POS JJ JJ NN VBN IN CD .

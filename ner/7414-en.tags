@@ -1,0 +1,5 @@
+"Tribesmen in northwestern Pakistan say they publicly executed four people Monday , on charges of adultery .",O O O B-geo O O O O O O B-tim O O O O O O,"NNS IN JJ NNP VBP PRP RB VBD CD NNS NNP , IN NNS IN NN ."
+"The three men and one woman were taken from a home in the Khyber region and shot dead in a public square after confessing their crime to a tribal council , or jirga .",O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O,"DT CD NNS CC CD NN VBD VBN IN DT NN IN DT NNP NN CC VBN NN IN DT JJ NN IN VBG PRP$ NN TO DT JJ NN , CC NN ."
+Tribal leaders confirmed the four were punished according to their customs and tradition .,O O O O O O O O O O O O O O,JJ NNS VBD DT CD VBD VBN VBG TO PRP$ NNS CC NN .
+Human rights organizations have criticized such public executions .,O O O O O O O O O,NN NNS NNS VBP VBN JJ JJ NNS .
+"The punishments often occur in Pakistan 's remote , semi-autonomous tribal areas , where the federal government has limited jurisdiction .",O O O O O B-geo O O O O O O O O O O O O O O O,"DT NNS RB VBP IN NNP POS JJ , JJ JJ NNS , WRB DT JJ NN VBZ VBN NN ."

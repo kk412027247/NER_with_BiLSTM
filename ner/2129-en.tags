@@ -1,0 +1,7 @@
+U.S.-led coalition forces in Afghanistan say troops killed 24 Taleban fighters in a seven-hour battle in the country 's restive south .,O O O O B-geo O O O O B-org O O O O O O O O O O O O,JJ NN NNS IN NNP VBP NNS VBD CD NNP NNS IN DT JJ NN IN DT NN POS JJ NN .
+A coalition statement said the fight happened Wednesday in the Sangin district of Helmand province .,O O O O O O O B-tim O O B-geo O O B-geo O O,DT NN NN VBD DT NN VBD NNP IN DT NNP NN IN NNP NN .
+Two coalition soldiers were wounded .,O O O O O O,CD NN NNS VBD VBN .
+"Meanwhile , Amnesty International said Taleban insurgents are deliberately targeting civilians in Afghanistan to instill fear and exert control over the population .",O O B-org I-org O B-org O O O O O O B-geo O O O O O O O O O O,"RB , NNP NNP VBD NNP NNS VBP RB VBG NNS IN NNP TO VB NN CC NN NN IN DT NN ."
+"The London-based rights group said civilians are increasingly facing suicide attacks , abductions and beheadings .",O O O O O O O O O O O O O O O O,"DT JJ NNS NN VBD NNS VBP RB VBG NN NNS , NNS CC NNS ."
+"The organization said Taleban militants have a deliberate policy of killing teachers , abducting aid workers and burning school buildings .",O O O B-org O O O O O O O O O O O O O O O O O,"DT NN VBD NNP NNS VBP DT JJ NN IN VBG NNS , VBG NN NNS CC NN NN NNS ."
+"Amnesty said at least 756 civilians were killed in 2006 , mostly from roadside bombs and suicide attacks .",O O O O O O O O O B-tim O O O O O O O O O,"NNP VBD IN JJS CD NNS VBD VBN IN CD , RB IN NN NNS CC NN NNS ."

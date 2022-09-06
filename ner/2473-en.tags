@@ -1,0 +1,8 @@
+An Italian intelligence agent who was kidnapped last month in Afghanistan has died of injuries sustained during a NATO raid to free him .,O B-gpe O O O O O O O O B-geo O O O O O O O B-org O O O O O,DT JJ NN NN WP VBD VBN JJ NN IN NNP VBZ VBN IN NNS VBN IN DT NNP NN TO VB PRP .
+Italian Defense Ministry officials say Lorenzo D'Auria died Thursday in a hospital near Rome .,B-gpe B-org I-org O O B-per I-per O B-tim O O O O B-geo O,JJ NNP NNP NNS VBP NNP NNP VBD NNP IN DT NN IN NNP .
+The 33-year-old agent suffered critical head injuries as he was being rescued from Afghan rebels during a NATO-led raid on September 24 .,O O O O O O O O O O O O O B-gpe O O O O O O B-tim I-tim O,DT JJ NN VBD JJ NN NNS IN PRP VBD VBG VBN IN JJ NNS IN DT JJ NN IN NNP CD .
+Members of the Taleban had kidnapped D'Auria and another Italian intelligence officer two days before the raid .,O O O B-org O O B-per O O B-gpe O O B-tim O B-tim O B-tim O,NNS IN DT NNP VBD VBN NNP CC DT JJ NN NN CD NNS IN DT NN .
+At least five of their abductors were reported killed during the gunbattle between NATO-led forces and the rebels .,O O O O O O O O O O O O O O O O O O O,IN JJS CD IN PRP$ NNS VBD VBN VBN IN DT NN IN JJ NNS CC DT NNS .
+NATO has denied Italian media reports that the two agents were wounded by friendly fire during the raid .,B-org O O B-gpe O O O O O O O O O O O O O O O,NNP VBZ VBN JJ NNS NNS IN DT CD NNS VBD VBN IN JJ NN IN DT NN .
+"Instead , NATO says the hostages were struck when their Taleban captors opened fire .",O O B-org O O O O O O O B-org O O O O,"RB , NNP VBZ DT NNS VBD VBN WRB PRP$ NNP NNS VBD NN ."
+"There are more than 2,000 Italian soldiers currently stationed in Afghanistan .",O O O O O B-gpe O O O O B-geo O,EX VBP JJR IN CD JJ NNS RB VBN IN NNP .

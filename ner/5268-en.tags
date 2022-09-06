@@ -1,0 +1,6 @@
+"Mexican President Felipe Calderon is appealing for clean drinking water , canned food and other emergency aid for the storm-damaged Gulf state of Veracruz .",B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O O O B-geo O,"JJ NNP NNP NNP VBZ VBG IN JJ NN NN , VBN NN CC JJ NN NN IN DT JJ NNP NN IN NNP ."
+"Hurricane Karl tore across the Mexico 's Yucatan peninsula late last week as a strong Category 3 storm , killing at least 14 people and leaving thousands homeless .",O B-per O O O B-geo O B-geo O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD IN DT NNP POS NNP NN RB JJ NN IN DT JJ NNP CD NN , VBG IN JJ CD NNS CC VBG NNS JJ ."
+"The president visited Veracruz Monday , touring flooded villages and meeting with civil defense officials and storm victims .",O O O B-geo B-tim O O O O O O O O O O O O O O,"DT NN VBD NNP NNP , VBG VBN NNS CC NN IN JJ NN NNS CC NN NNS ."
+Looting has been reported in flood-stricken areas .,O O O O O O O O,NN VBZ VBN VBN IN JJ NNS .
+Local newspapers and television have shown pictures of people running from stores with bags of food and cases of beer .,O O O O O O O O O O O O O O O O O O O O O,JJ NNS CC NN VBP VBN NNS IN NNS VBG IN NNS IN NNS IN NN CC NNS IN NN .
+Police have arrested 11 people .,O O O O O O,NNS VBP VBN CD NNS .

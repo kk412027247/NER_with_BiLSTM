@@ -1,0 +1,8 @@
+World Health Organization officials are meeting in Geneva to consider the possibility of a global human bird flu pandemic as the deadly H5N1 strain continues to spread rapidly in birds .,O B-org I-org O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP NNP NNS VBP VBG IN NNP TO VB DT NN IN DT JJ JJ NN NN NN IN DT JJ NNP NN VBZ TO VB RB IN NNS .
+Top influenza official Margaret Chan said the outbreak in poultry is historically unprecedented .,O O O B-per I-per O O O O O O O O O,NN NN NN NNP NNP VBD DT NN IN NN VBZ RB JJ .
+She said the deadly virus presents a greater challenge to the world than any other emerging infectious disease .,O O O O O O O O O O O O O O O O O O O,PRP VBD DT JJ NN VBZ DT JJR NN TO DT NN IN DT JJ VBG JJ NN .
+The meeting was called to plan a response in case the bird flu virus mutates into a widespread human flu virus .,O O O O O O O O O O O O O O O O O O O O O O,DT NN VBD VBN TO VB DT NN IN NN DT NN NN NN VBZ IN DT JJ JJ NN NN .
+"So far , the virus has killed 94 people , mostly in Asia .",O O O O O O O O O O O O B-geo O,"RB RB , DT NN VBZ VBN CD NNS , RB IN NNP ."
+"It has infected birds in 30 countries , and it has appeared in cats in Austria and Germany .",O O O O O O O O O O O O O O O B-geo O B-geo O,"PRP VBZ VBN NNS IN CD NNS , CC PRP VBZ VBN IN NNS IN NNP CC NNP ."
+French officials confirmed a new case in a dead swan .,B-gpe O O O O O O O O O O,JJ NNS VBD DT JJ NN IN DT JJ NN .
+"Russian news agencies reported Monday mass deaths of birds in the south in Stavropol Territory , and Serbia confirmed it in dead swans in several areas .",B-gpe O O O B-tim O O O O O O B-geo O B-geo I-geo O O B-per O O O O O O O O O,"JJ NN NNS VBD NNP NN NNS IN NNS IN DT NN IN NNP NNP , CC NNP VBD PRP IN JJ NNS IN JJ NNS ."

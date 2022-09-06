@@ -1,0 +1,10 @@
+A Ukrainian court has temporarily suspended the results of this month 's presidential election pending review of an appeal filed by the losing candidate .,O B-gpe O O O O O O B-tim O O O O O O O O O O O O O O O O,DT JJ NN VBZ RB VBN DT NNS IN DT NN POS JJ NN VBG NN IN DT NN VBN IN DT JJ NN .
+The Supreme Administrative Court released a statement Wednesday saying the Central Election Commission ruling that declared Viktor Yanukovych the winner had been put on hold .,O B-org I-org I-org O O O B-tim O O B-org I-org I-org O O O B-per I-per O O O O O O O O,DT NNP NNP NNP VBD DT NN NNP VBG DT NNP NNP NNP NN WDT VBD NNP NNP DT NN VBD VBN VBN IN NN .
+Defeated Ukrainian presidential candidate Yulia Tymoshenko has filed a lawsuit seeking to overturn the results of the February 7 vote .,O B-gpe O O B-per I-per O O O O O O O O O O O B-tim I-tim I-tim O,JJ JJ JJ NN NNP NNP VBZ VBN DT NN VBG TO VB DT NNS IN DT NNP CD NN .
+"Ms. Tymoshenko , Ukraine 's current prime minister , says the election was rigged .",B-per B-geo O B-geo O O O O O O O O O O O,"NNP NNP , NNP POS JJ JJ NN , VBZ DT NN VBD VBN ."
+She has refused to concede defeat .,O O O O O O O,PRP VBZ VBN TO VB NN .
+The prime minister claims vote-rigging robbed her of 1 million votes in the runoff election .,O O O O O O O O O O O O O O O O,DT JJ NN VBZ NN VBD PRP IN CD CD NNS IN DT NN NN .
+"Final results show her losing by nearly 888,000 votes .",O O O O O O O O O O,JJ NNS VBP PRP VBG IN RB CD NNS .
+"Tuesday , Ukraine 's parliament set February 25 for the swearing in of President-elect Yanukovych .",B-tim O B-geo O O O B-tim I-tim O O O O O O B-per O,"NNP , NNP POS NN VBD NNP CD IN DT NN IN IN JJ NNP ."
+A majority of 238 lawmakers in the 450-seat parliament endorsed the date Tuesday .,O O O O O O O O O O O O B-tim O,DT NN IN CD NNS IN DT JJ NN VBD DT NN NNP .
+But factions loyal to Ms. Tymoshenko boycotted the vote .,O O O O B-per B-geo O O O O,CC NNS JJ TO NNP NNP VBD DT NN .

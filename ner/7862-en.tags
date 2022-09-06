@@ -1,0 +1,7 @@
+Thousands of people are pouring into Cyprus to escape Israeli airstrikes in Lebanon .,O O O O O O B-org O O B-gpe O O B-geo O,NNS IN NNS VBP VBG IN NNP TO VB JJ NNS IN NNP .
+"U.S. officials say they plan to evacuate more than 1,000 Americans Wednesday and bring several thousand more to Cyprus in the coming days .",B-geo O O O O O O O O O B-gpe B-tim O O O O O O O O O O O O,NNP NNS VBP PRP VBP TO VB JJR IN CD NNS NNP CC VB JJ CD JJR TO VB IN DT JJ NNS .
+"The U.S. government has been criticized for being slow in evacuating the 25,000 Americans in Lebanon .",O B-geo O O O O O O O O O O O B-gpe O B-geo O,DT NNP NN VBZ VBN VBN IN VBG JJ IN VBG DT CD NNS IN NNP .
+Several European vessels are on their way to Lebanon to evacuate more people .,O O O O O O O O B-geo O O O O O,JJ JJ NNS VBP IN PRP$ NN TO NNP TO VB JJR NNS .
+Thousands of other foreign nationals have already been brought out of Lebanon to Cyprus or through Syria .,O O O O O O O O O O O B-geo O B-geo O O B-geo O,NNS IN JJ JJ NNS VBP RB VBN VBN RP IN NNP TO NNP CC IN NNP .
+Many people from Arab countries have crossed by land into Syria on the way to their countries .,O O O B-gpe O O O O O O B-geo O O O O O O O,JJ NNS IN JJ NNS VBP VBN IN NN IN NNP IN DT NN TO PRP$ NNS .
+The United Nations says it is evacuating non-essential staff from Lebanon .,O B-org I-org O O O O O O O B-geo O,DT NNP NNP VBZ PRP VBZ VBG JJ NN IN NNP .

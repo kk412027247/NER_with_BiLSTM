@@ -1,0 +1,8 @@
+Venezuelan President Hugo Chavez is in Havana for talks with Cuban leader Fidel Castro .,B-gpe B-per I-per I-per O O B-geo O O O B-gpe O B-per I-per O,JJ NNP NNP NNP VBZ IN NNP IN NNS IN JJ NN NNP NNP .
+The two close allies met at the Palace of the Revolution Tuesday .,O O O O O O O B-geo O O O B-tim O,DT CD JJ NNS VBD IN DT NNP IN DT NN NNP .
+"Their agenda was not made public , but experts say they likely discussed Cuba 's energy needs .",O O O O O O O O O O O O O B-geo O O O O,"PRP$ NN VBD RB VBN JJ , CC NNS VBP PRP RB VBD NNP POS NN NNS ."
+Venezuela provides about one-third of Cuba 's oil .,B-geo O O O O B-geo O O O,NNP VBZ IN NN IN NNP POS NN .
+Mr. Castro has appeared in public in a wheelchair since an accidental fall in October .,B-per I-per O O O O O O O O O O O O B-tim O,NNP NNP VBZ VBN IN NN IN DT NN IN DT JJ NN IN NNP .
+But he was shown standing next to Mr. Chavez in an official photo taken when he welcomed him at the Havana airport late Monday .,O O O O O O O B-per I-per O O O O O O O O O O O B-geo I-geo O B-tim O,CC PRP VBD VBN VBG JJ TO NNP NNP IN DT JJ NN VBN WRB PRP VBD PRP IN DT NNP NN JJ NNP .
+"The two countries have close political , economic and cultural ties .",O O O O O O O O O O O O,"DT CD NNS VBP JJ JJ , JJ CC JJ NNS ."
+Havana has sent hundreds of health care workers and teachers to its South American ally .,B-geo O O O O O O O O O O O O B-gpe O O,NNP VBZ VBN NNS IN NN NN NNS CC NNS TO PRP$ JJ JJ NN .

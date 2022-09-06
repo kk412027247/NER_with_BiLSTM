@@ -1,0 +1,5 @@
+"Police in northwestern Pakistan say a suicide bomber detonated an explosives -filled car at a security post Tuesday , killing a Pakistani soldier and wounding at least seven others .",O O O B-geo O O O O O O O O O O O O O B-tim O O O B-gpe O O O O O O O O,"NNS IN JJ NNP VBP DT NN NN VBD DT NNS JJ NN IN DT NN NN NNP , VBG DT JJ NN CC VBG IN JJS CD NNS ."
+Authorities say the attack occurred in the town of Doaba in Hangu district .,O O O O O O O O O B-geo O B-geo O O,NNS VBP DT NN VBD IN DT NN IN NNP IN NNP NN .
+Pakistan 's northwestern tribal areas are considered to be Taliban and al-Qaida militant strongholds .,B-geo O O O O O O O O B-org O B-org O O O,NNP POS JJ JJ NNS VBP VBN TO VB NNP CC NNP JJ NNS .
+"Elsewhere in the northwest , officials say two rockets landed near the runway of Peshawar airport before dawn Tuesday .",O O O O O O O O O O O O O O B-geo I-geo O B-tim I-tim O,"RB IN DT NN , NNS VBP CD NNS VBD IN DT NN IN NNP NN IN NN NNP ."
+"Reports of damage varied , from slight to none at all .",O O O O O O O O O O O O,"NNS IN NN VBN , IN JJ IN NN IN DT ."

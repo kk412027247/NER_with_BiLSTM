@@ -1,0 +1,4 @@
+"Under US administration as part of the UN Trust Territory of the Pacific , the people of the Northern Mariana Islands decided in the 1970s not to seek independence but instead to forge closer links with the US .",O B-geo O O O O O B-org I-org I-org O O B-geo O O O O O B-org I-org I-org O O O B-tim O O O O O O O O O O O O B-org O,"IN NNP NN IN NN IN DT NNP NNP NNP IN DT NNP , DT NNS IN DT NNP NNP NNP VBD IN DT NNS RB TO VB NN CC RB TO VB JJR NNS IN DT NNP ."
+Negotiations for territorial status began in 1972 .,O O O O O O B-tim O,NNS IN JJ NN VBD IN CD .
+"A covenant to establish a commonwealth in political union with the US was approved in 1975 , and came into force on 24 March 1976 .",O O O O O O O O O O O B-org O O O B-tim O O O O O O B-tim I-tim I-tim O,"DT NN TO VB DT NN IN JJ NN IN DT NNP VBD VBN IN CD , CC VBD IN NN IN CD NNP CD ."
+A new government and constitution went into effect in 1978 .,O O O O O O O O O B-tim O,DT JJ NN CC NN VBD IN NN IN CD .

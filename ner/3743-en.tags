@@ -1,0 +1,9 @@
+Lindsay Lohan has reportedly checked into a Utah rehabilitation center .,B-per I-per O O O O O B-geo O O O,NNP NNP VBZ RB VBN IN DT NNP NN NN .
+"CBS News reports the 21-year-old actress has checked into the Cirque Lodge drug and alcohol treatment center in Sundance , Utah .",B-org I-org O O O O O O O O B-geo I-geo O O O O O O B-geo O B-geo O,"NNP NNP VBZ DT JJ NN VBZ VBN IN DT NNP NNP NN CC NN NN NN IN NNP , NNP ."
+"It would be her third stint in rehab , following two stays at Wonderland and Promises in the Los Angeles area .",O O O O O O O O O O O O O B-geo O B-geo O O B-geo I-geo O O,"PRP MD VB PRP$ JJ NN IN NN , VBG CD NNS IN NNP CC NNP IN DT NNP NNP NN ."
+Town and Country Magazine recently named Cirque Lodge as one of the nation 's top substance abuse treatment facilities .,O O B-org I-org O O B-geo I-geo O O O O O O O O O O O O,NNP CC NNP NNP RB VBD NNP NNP IN CD IN DT NN POS JJ NN NN NN NNS .
+The New York Post reported that Lohan had on August 3 gone to her mother 's home on Long Island .,O B-org I-org I-org O O B-per O O B-tim I-tim O O O O O O O B-geo I-geo O,DT NNP NNP NNP VBD IN NNP VBD IN NNP CD VBN TO PRP$ NN POS NN IN NNP NNP .
+The exact day of her reported check-in to Cirque Lodge is not known .,O O O O O O O O B-geo I-geo O O O O,DT JJ NN IN PRP$ VBN NN TO NNP NNP VBZ RB VBN .
+Lohan 's representatives did not comment on her whereabouts .,B-per O O O O O O O O O,NNP POS NNS VBD RB VB IN PRP$ NNS .
+"She is due in court in Santa Monica , CA on August 24 , when she faces charges from her July 24 arrest for suspicion of driving under the influence and driving on a suspended license .",O O O O O O B-geo I-geo O B-org O B-tim I-tim O O O O O O O B-tim I-tim O O O O O O O O O O O O O O O,"PRP VBZ JJ IN NN IN NNP NNP , NNP IN NNP CD , WRB PRP VBZ NNS IN PRP$ NNP CD NN IN NN IN VBG IN DT NN CC VBG IN DT JJ NN ."
+She also faces previous DUI-related charges .,O O O O O O O,PRP RB VBZ JJ JJ NNS .

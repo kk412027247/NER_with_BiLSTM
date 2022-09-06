@@ -1,0 +1,6 @@
+Muslims around the world are preparing for the start of Islam 's holy month of Ramadan .,O O O O O O O O O O B-geo O O O O B-eve O,NNPS IN DT NN VBP VBG IN DT NN IN NNP POS JJ NN IN NNP .
+Some countries begin observances Monday .,O O O O B-tim O,DT NNS VBP NNS NNP .
+The timing of the start of the holiday varies in Muslim communities and countries depending on the sighting of the new moon .,O O O O O O O O O O B-geo O O O O O O O O O O O O,DT NN IN DT NN IN DT NN NNS IN NNP NNS CC NNS VBG IN DT NN IN DT JJ NN .
+"Ramadan , the ninth month of the Islamic calendar , marks the time 1,400 years ago when Muslims believe the words of Islam 's holy book , the Koran , were revealed to the Prophet Muhammed .",B-eve O O B-tim O O O B-geo O O O O O B-tim O O O O O O O O B-geo O O O O O B-per O O O O O B-per I-per O,"NNP , DT JJ NN IN DT NNP NN , VBZ DT NN CD NNS RB WRB NNS VBP DT NNS IN NNP POS JJ NN , DT NNP , VBD VBN TO DT NNP NNP ."
+"During Ramadan , Muslims fast from sunrise to sundown - abstaining from eating , drinking , smoking and sexual relations .",O B-eve O O O O O O O O O O O O O O O O O O O,"IN NNP , NNP RB IN NN TO VB : VBG IN NN , NN , NN CC JJ NNS ."
+"The fast is broken at sundown each day with a feast called "" iftaar . """,O O O O O O O O O O O O O B-eve O O,DT NN VBZ VBN IN NN DT NN IN DT NN VBN LQU NNP . RQU

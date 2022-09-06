@@ -1,0 +1,7 @@
+"Two Egyptian children have tested positive for bird flu , bringing the total number infected in the country to 29 .",O B-gpe O O O O O O O O O O O O O O O O O O O,"CD JJ NNS VBP VBN JJ IN NN NN , VBG DT JJ NN VBN IN DT NN TO CD ."
+"The health ministry said Tuesday , the two children are from different areas south of Cairo .",O O O O B-tim O O O O O O O O O O B-geo O,"DT NN NN VBD NNP , DT CD NNS VBP IN JJ NNS RB IN NNP ."
+They were taken to the hospital and both are in stable condition .,O O O O O O O O O O O O O,PRP VBD VBN TO DT NN CC DT VBP IN JJ NN .
+"Sunday , a three-year-old girl from the southern town of Aswan tested positive for the potentially deadly H5N1 strain of bird flu .",B-tim O O O O O O O O O B-geo O O O O O O O O O O O O,"NNP , DT JJ NN IN DT JJ NN IN NNP VBD JJ IN DT RB JJ NNP NN IN NN NN ."
+The girl 's condition is improving .,O O O O O O O,DT NN POS NN VBZ VBG .
+Egypt has the largest number of human cases of bird flu outside Asia .,B-org O O O O O O O O O O O B-geo O,NNP VBZ DT JJS NN IN JJ NNS IN NN NN IN NNP .
+At least 13 people have died since the first confirmed case in the country about a year ago .,O O O O O O O O O O O O O O O O O O O,IN JJS CD NNS VBP VBN IN DT NN VBD NN IN DT NN IN DT NN RB .

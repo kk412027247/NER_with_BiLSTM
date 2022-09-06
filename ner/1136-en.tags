@@ -1,0 +1,6 @@
+Police say unknown attackers have killed at least seven police officers in central Pakistan .,O O O O O O O O O O O O O B-geo O,NNS VBP JJ NNS VBP VBN IN JJS CD NNS NNS IN JJ NNP .
+"The attack happened early Saturday near the town of Mianwali , in Punjab province .",O O O O B-tim O O O O B-geo O O B-geo O O,"DT NN VBD JJ NNP IN DT NN IN NNP , IN NNP NN ."
+Police say militants first opened fire on a police checkpoint and then blew it up with explosives .,O O O O O O O O O O O O O O O O O O,NNS VBP NNS RB VBD NN IN DT NN NN CC RB VBD PRP RP IN NNS .
+The outpost building was destroyed in the blast .,O O O O O O O O O,DT NN NN VBD VBN IN DT NN .
+Security officials say it is not clear who is behind the attack .,O O O O O O O O O O O O O,NN NNS VBP PRP VBZ RB JJ WP VBZ IN DT NN .
+"Mianwali is near the restive North West Frontier Province , where Pakistani security forces have been battling pro-Taliban militants .",B-geo O O O O B-org I-org I-org I-org O O B-gpe O O O O O O O O,"NNP VBZ IN DT JJ NNP NNP NNP NNP , WRB JJ NN NNS VBP VBN VBG JJ NNS ."

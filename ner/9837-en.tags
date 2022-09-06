@@ -1,0 +1,7 @@
+Sweden has charged two men of Somali descent with planning terrorist attacks in Somalia .,B-org O O O O O B-gpe O O O O O O B-geo O,NNP VBZ VBN CD NNS IN JJ NN IN VBG JJ NNS IN NNP .
+The men were charged Friday at the district court in the southwestern city of Göteborg .,O O O O B-tim O O O O O O O O O B-geo O,DT NNS VBD VBN NNP IN DT NN NN IN DT JJ NN IN NNP .
+"Prosecutors say the two men are linked to al-Shabab , a Somali insurgent group affiliated with al-Qaida .",O O O O O O O O B-geo O O B-gpe O O O O B-org O,"NNS VBP DT CD NNS VBP VBN TO NNP , DT JJ JJ NN VBN IN NNP ."
+Prosecutors say the men were planning suicide attacks that would cause widespread destruction .,O O O O O O O O O O O O O O,NNS VBP DT NNS VBD VBG NN NNS WDT MD VB JJ NN .
+At least one of the men is a Swedish citizen .,O O O O O O O O B-gpe O O,IN JJS CD IN DT NNS VBZ DT JJ NN .
+The nationality of the other man was not immediately clear .,O O O O O O O O O O O,DT NN IN DT JJ NN VBD RB RB JJ .
+The men were arrested in May and June as part of an investigation into Somalia-linked terrorism activities in the Nordic country .,O O O O O B-tim O B-tim O O O O O O O O O O O O O O,DT NNS VBD VBN IN NNP CC NNP IN NN IN DT NN IN JJ NN NNS IN DT JJ NN .

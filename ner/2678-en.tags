@@ -1,0 +1,7 @@
+Afghan officials say a clash between security forces and suspected Taleban militants in eastern Nangarhar province bordering Pakistan has left two militants and one woman dead .,B-gpe O O O O O O O O O B-org O O B-geo I-geo O O B-geo O O O O O O O O O,JJ NNS VBP DT NN IN NN NNS CC VBN NNP NNS IN JJ NNP NN VBG NNP VBZ VBN CD NNS CC CD NN NN .
+The officials say heavy fighting between the troops and the insurgents hiding in a building in the province 's Chaparhar district began late Wednesday and lasted for hours .,O O O O O O O O O O O O O O O O O O O B-geo O O O B-tim O O O O O,DT NNS VBP JJ NN IN DT NNS CC DT NNS VBG IN DT NN IN DT NN POS NNP NN VBD JJ NNP CC VBD IN NNS .
+Several suspected Taleban appeared to have fled .,O O B-org O O O O O,JJ JJ NNP VBD TO VB VBN .
+Authorities say U.S. troops supported local forces .,O O B-geo O O O O O,NNS VBP NNP NNS VBD JJ NNS .
+But U.S. military officials could not confirm the incident .,O B-geo O O O O O O O O,CC NNP JJ NNS MD RB VB DT NN .
+The clash is the latest rebel violence to hit southern and eastern provinces .,O O O O O O O O O O O O O O,DT NN VBZ DT JJS NN NN TO VB JJ CC JJ NNS .
+"U.S.-led forces ousted the Taleban from power in late 2001 , after they refused to hand over al-Qaida leader Osama bin Laden following the September 11 attacks on the United States .",O O O O B-org O O O O B-tim O O O O O O O B-org O B-per I-per I-per O O B-tim I-tim O O O B-geo I-geo O,"JJ NNS VBD DT NNP IN NN IN JJ CD , IN PRP VBD TO VB RP NNP NN NNP NNP NNP VBG DT NNP CD NNS IN DT NNP NNPS ."

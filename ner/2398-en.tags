@@ -1,0 +1,9 @@
+"The U.S. space shuttle Discoveryhas undocked from the International Space Station and is returning to Earth , ending its nine-day stay at the orbiting outpost .",O B-geo O O B-per O O B-geo I-geo I-geo I-geo O O O O B-geo O O O B-tim O O O O O O,"DT NNP NN NN NNP VBD IN DT NNP NNP NNP CC VBZ VBG TO NNP , VBG PRP$ JJ NN IN DT NN NN ."
+Discovery pulled away from the space station Wednesday .,B-art O O O O O O B-tim O,NNP VBD RB IN DT NN NN NNP .
+The shuttle 's crew is using a laser-tipped boom to inspect the craft 's wings and nose before returning home .,O O O O O O O O O O O O O O O O O O O O O,DT NN POS NN VBZ VBG DT JJ NN TO VB DT NN POS NNS CC NN IN VBG NN .
+"Discovery and its seven-member crew , which includes a Japanese astronaut , is scheduled to land back on Earth Saturday .",B-art O O O O O O O O B-gpe O O O O O O O O B-geo B-tim O,"NNP CC PRP$ JJ NN , WDT VBZ DT JJ NN , VBZ VBN TO VB RB IN NNP NNP ."
+The astronauts arrived at the space station last week to deliver and attach a $ 1 billion Japanese laboratory .,O O O O O O O O O O O O O O O O O B-gpe O O,DT NNS VBD IN DT NN NN JJ NN TO VB CC VB DT $ CD CD JJ NN .
+They also tested a robotic arm that will help with science experiments outside the station .,O O O O O O O O O O O O O O O O,PRP RB VBD DT JJ NN WDT MD VB IN NN NNS IN DT NN .
+"Discovery 's commander , Mark Kelly , says the mission was a great success .",B-art O O O B-per I-per O O O O O O O O O,"NNP POS NN , NNP NNP , VBZ DT NN VBD DT JJ NN ."
+Astronaut Garrett Reisman is returning to Earth on the shuttle after spending three months aboard the space station .,O B-per I-per O O O B-geo O O O O O O O O O O O O,NN NNP NNP VBZ VBG TO NNP IN DT NN IN VBG CD NNS IN DT NN NN .
+"His replacement , Greg Chamitoff , will remain on the station for six months .",O O O B-per I-per O O O O O O O B-tim O O,"PRP$ NN , NNP NNP , MD VB IN DT NN IN CD NNS ."

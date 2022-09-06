@@ -1,0 +1,6 @@
+Health officials in Indonesia are awaiting tests results on the latest patient suspected of contracting bird flu .,O O O B-geo O O O O O O O O O O O O O O,NNP NNS IN NNP VBP VBG NNS NNS IN DT JJS NN VBN IN NN NN NN .
+"If samples sent to a Hong Kong laboratory prove positive , the officials say the four-year-old boy from Sumatra 's Lampung province would be the sixth person in Indonesia to contract the deadly H5N1 strain of bird flu .",O O O O O B-geo I-geo O O O O O O O O O O O B-geo O B-geo O O O O O O O B-geo O O O O O O O O O O,"IN NNS VBD TO DT NNP NNP NN VBP JJ , DT NNS VBP DT JJ NN IN NNP POS NNP NN MD VB DT JJ NN IN NNP TO VB DT JJ NNP NN IN NN NN ."
+The virus has killed three people in Indonesia since July .,O O O O O O O B-geo B-tim I-tim O,DT NN VBZ VBN CD NNS IN NNP IN NNP .
+Since 2003 it has killed about 60 people in Asia and millions of birds .,O B-tim O O O O O O O B-geo O O O O O,IN CD PRP VBZ VBN IN CD NNS IN NNP CC NNS IN NNS .
+"Indonesian officials say that so far , all patients appear to have contracted the virus directly from birds .",B-gpe O O O O O O O O O O O O O O O O O O,"JJ NNS VBP IN RB RB , DT NNS VBP TO VB VBN DT NN RB IN NNS ."
+Health officials have warned of dire consequences if the virus begins spreading quickly among humans .,O O O O O O O O O O O O O O O O,NNP NNS VBP VBN IN JJ NNS IN DT NN VBZ VBG RB IN NNS .

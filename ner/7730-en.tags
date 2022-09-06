@@ -1,0 +1,8 @@
+"China 's ambassador to the United Nations in Geneva says the United States should "" shut up "" about his country 's military spending .",B-geo O O O O B-org I-org O B-geo O O B-geo I-geo O O O O O O O O O O O O,NNP POS NN TO DT NNP NNPS IN NNP VBZ DT NNP NNPS MD LQU VB RP RQU IN PRP$ NN POS JJ NN .
+Sha Zukang was responding Thursday to a BBC interviewer .,B-per I-per O O B-tim O O B-org O O,NNP NNP VBD VBG NNP TO DT NNP NN .
+The interviewer had asked him about U.S. Defense Secretary Donald Rumsfeld 's assertion that much of China 's military spending is concealed .,O O O O O O B-org I-org B-per I-per I-per O O O O O B-geo O O O O O O,DT NN VBD VBN PRP IN NNP NNP NNP NNP NNP POS NN IN NN IN NNP POS JJ NN VBZ VBN .
+Sha said the United States should keep quiet and not dictate policy to China .,B-per O O B-org I-org O O O O O O O O B-geo O,NNP VBD DT NNP NNPS MD VB JJ CC RB VB NN TO NNP .
+He said the United States itself accounts for half of the world 's military spending .,O O O B-geo I-geo O O O O O O O O O O O,PRP VBD DT NNP NNPS PRP VBZ IN NN IN DT NN POS JJ NN .
+He also said China would sacrifice lives if Taiwan declares independence .,O O O B-geo O O O O B-geo O O O,PRP RB VBD NNP MD VB NNS IN NNP VBZ NN .
+"He said for China , one inch of territory is more valuable than the lives of its people .",O O O B-geo O O O O O O O O O O O O O O O,"PRP VBD IN NNP , CD NN IN NN VBZ RBR JJ IN DT NNS IN PRP$ NNS ."
+He added China has a sacred duty to defend its state sovereignty .,O O B-geo O O O O O O O O O O,PRP VBD NNP VBZ DT JJ NN TO VB PRP$ NN NN .

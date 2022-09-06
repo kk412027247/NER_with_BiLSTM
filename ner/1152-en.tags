@@ -1,0 +1,8 @@
+Chinese state media say at least 51 people died in two travel accidents Sunday .,B-gpe O O O O O O O O O O O O B-tim O,JJ NN NNS VBP IN JJS CD NNS VBD IN CD NN NNS NNP .
+The official Xinhua news agency says at least 32 people were killed when a truck and a bus collided on an expressway in northeastern Liaoning province .,O O B-org O O O O O O O O O O O O O O O O O O O O O O O O,DT JJ NNP NN NN VBZ IN JJS CD NNS VBD VBN WRB DT NN CC DT NN VBN IN DT NN IN JJ NN NN .
+The accident occurred on a section of an expressway that was undergoing maintenance in the city of Fuxin .,O O O O O O O O O O O O O O O O O B-geo O,DT NN VBD IN DT NN IN DT NN WDT VBD VBG NN IN DT NN IN NNP .
+"In a separate incident , Xinhua said at least 19 people were killed early Sunday when a passenger train was hit by a landslide .",O O O O O B-org O O O O O O O O B-tim O O O O O O O O O O,"IN DT JJ NN , NNP VBD IN JJS CD NNS VBD VBN RB NNP WRB DT NN NN VBD VBN IN DT NN ."
+"Officials say at least 71 others were injured when the train , bound for the tourist destination of Guilin , derailed in eastern Jiangxi province .",O O O O O O O O O O O O O O O O O O B-geo O O O O B-geo O O,"NNS VBP IN JJS CD NNS VBD VBN WRB DT NN , VBN IN DT NN NN IN NNP , VBN IN JJ NNP NN ."
+Firefighters pulled 53 survivors from mangled and overturned train carriages .,O O O O O O O O O O O,NNS VBD CD NNS IN JJ CC JJ NN NNS .
+More than 280 people were evacuated .,O O O O O O O,JJR IN CD NNS VBD VBN .
+"Jiangxi province has been hit by heavy rains in recent days , flooding low-lying towns .",B-geo O O O O O O O O O O O O O O O,"NNP NN VBZ VBN VBN IN JJ NNS IN JJ NNS , VBG JJ NNS ."

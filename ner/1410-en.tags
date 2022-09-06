@@ -1,0 +1,7 @@
+"A car bomb explosion in Iraq has killed five people , including four police officers who were on patrol .",O O O O O B-geo O O O O O O O O O O O O O O,"DT NN NN NN IN NNP VBZ VBN CD NNS , VBG CD NNS NNS WP VBD IN NN ."
+"Officials say a civilian was also among the dead in the town of Khan Bani Saad , near Baquba , just north of Baghdad .",O O O O O O O O O O O O O B-geo I-geo I-geo O O B-geo O O O O B-geo O,"NNS VBP DT JJ VBD RB IN DT NN IN DT NN IN NNP NNP NNP , IN NNP , RB NN IN NNP ."
+At least three other people were injured .,O O O O O O O O,IN JJS CD JJ NNS VBD VBN .
+"Meanwhile , the U.S. military reported Saturday , that a Marine was killed in action Friday , in the western city of Ramadi .",O O O B-geo O O B-tim O O O O O O O O B-tim O O O O O O B-geo O,"RB , DT NNP NN VBD NNP , IN DT NN VBD VBN IN NN NNP , IN DT JJ NN IN NNP ."
+"In political news , the Iraqi National Assembly is scheduled to meet Sunday to finally elect a speaker .",O O O O O B-gpe O O O O O O B-tim O O O O O O,"IN JJ NN , DT JJ NNP NNP VBZ VBN TO VB NNP TO RB VB DT NN ."
+But politicians say Shi'ite and Sunni leaders are still not able to agree on a Sunni candidate for the post .,O O O O O B-org O O O O O O O O O O O O O O O,CC NNS VBP NNP CC NNP NNS VBP RB RB JJ TO VB IN DT NNP NN IN DT NN .
+The impasse has delayed formation of the new government .,O O O O O O O O O O,DT NN VBZ VBN NN IN DT JJ NN .

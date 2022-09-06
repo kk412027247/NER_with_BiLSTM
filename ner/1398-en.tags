@@ -1,0 +1,7 @@
+Former Venezuelan President Rafael Caldera died early Thursday at the age of 93 .,O B-gpe B-per I-per I-per O O B-tim O O O O O O,JJ JJ NNP NNP NNP VBD JJ NNP IN DT NN IN CD .
+He had suffered from Parkinson 's disease for many years .,O O O O B-geo O O O O O O,PRP VBD VBN IN NNP POS NN IN JJ NNS .
+"Mr. Caldera served two terms as president - the first between 1969 and 1974 , and again from 1994 to 1999 .",B-per I-per O O O O O O O O B-tim I-tim I-tim I-tim O O O O B-tim I-tim I-tim O,"NNP NNP VBD CD NNS IN NN IN DT NN IN CD CC CD , CC RB IN CD TO CD ."
+"He entered politics in the 1930s , and helped to found the Social-Christian Copei party in 1946 .",O O O O O B-tim O O O O O O O B-org O O B-tim O,"PRP VBD NNS IN DT NNS , CC VBD TO VB DT JJ NNP NN IN CD ."
+"In 1994 , he pardoned current President Hugo Chavez , who was in prison at the time for leading a coup two years earlier .",O B-tim O O O O B-per I-per I-per O O O O O O O O O O O O B-tim O O O,"IN CD , PRP VBD JJ NNP NNP NNP , WP VBD IN NN IN DT NN IN VBG DT NN CD NNS RBR ."
+Mr. Chavez succeeded Mr. Caldera as president in 1999 .,B-per I-per O B-per I-per O O O B-tim O,NNP NNP VBD NNP NNP IN NN IN CD .
+"Mr. Caldera 's son said the funeral will take place Saturday and that the family "" will not accept any homage from the government of Hugo Chavez . """,B-per I-per O O O O O O O O B-tim O O O O O O O O O O O O O O B-per I-per O O,NNP NNP POS NN VBD DT NN MD VB NN NNP CC IN DT NN LQU MD RB VB DT NN IN DT NN IN NNP NNP . LQU

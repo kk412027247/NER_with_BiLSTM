@@ -1,0 +1,8 @@
+U.S. government agents have arrested two men and detained two others as part of an ongoing terrorism investigation in the western U.S. state of California .,B-geo O O O O O O O O O O O O O O O O O O O O B-geo O O B-geo O,NNP NN NNS VBP VBN CD NNS CC VBD CD NNS IN NN IN DT JJ NN NN IN DT JJ NNP NN IN NNP .
+"One of those arrested , 22-year-old Hamid Hayat , is accused of training at an al-Qaida camp in Pakistan and then lying about it to FBI agents .",O O O O O O B-per I-per O O O O O O O B-org O O B-geo O O O O O O B-org O O,"CD IN DT VBN , JJ NNP NNP , VBZ VBN IN NN IN DT NNP NN IN NNP CC RB VBG IN PRP TO NNP NNS ."
+"His father , Umer Hayat , is charged with lying about and financing his son 's alleged terrorist activity .",O O O B-per I-per O O O O O O O O O O O O O O O,"PRP$ NN , NNP NNP , VBZ VBN IN VBG RB CC VBG PRP$ NN POS JJ JJ NN ."
+The Los Angeles Times newspaper quotes a family member as denying the charges .,O B-org I-org I-org O O O O O O O O O O,DT NNP NNP NNP NN VBZ DT NN NN IN VBG DT NNS .
+The two men made brief appearances in a U.S. district court on Tuesday .,O O O O O O O O B-geo O O O B-tim O,DT CD NNS VBD JJ NNS IN DT NNP NN NN IN NNP .
+Both are U.S. citizens who live in the town of Lodi .,O O B-geo O O O O O O O B-geo O,DT VBP NNP NNS WP VBP IN DT NN IN NNP .
+"Media reports say as part of the investigation , federal agents have also detained two local Islamic leaders , Muhammed Adil Khan and Shabbir Ahmed .",O O O O O O O O O O O O O O O O O O O B-per I-per I-per O B-per I-per O,"NNS NNS VBP IN NN IN DT NN , JJ NNS VBP RB VBN CD JJ JJ NNS , NNP NNP NNP CC NNP NNP ."
+Both are being held for alleged immigration violations .,O O O O O O O O O,DT VBP VBG VBN IN JJ NN NNS .

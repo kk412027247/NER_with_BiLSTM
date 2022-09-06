@@ -1,0 +1,9 @@
+"The outgoing president of Georgia 's Abkhazia region , Vladislav Ardzinba , has fired his chosen successor and warned of a possible civil war in the breakaway area .",O O O O B-geo O B-geo O O B-per I-per O O O O O O O O O O O O O O O O O O,"DT JJ NN IN NNP POS NNP NN , NNP NNP , VBZ VBN PRP$ JJ NN CC VBN IN DT JJ JJ NN IN DT JJ NN ."
+"Mr. Ardzinba removed Prime Minister Raul Khadjimba from his post Wednesday and replaced him with a former Russian emergency ministries official , Nodar Khashba .",B-per I-per O B-per O B-per I-per O O O B-tim O O O O O O B-gpe O O O O B-org I-org O,"NNP NNP VBD NNP NNP NNP NNP IN PRP$ NN NNP CC VBD PRP IN DT JJ JJ NN NNS NN , NNP NNP ."
+He also blamed opposition candidate Sergei Bagapsh for the region 's current political problems that began after Sunday 's presidential elections .,O O O O O B-per I-per O O O O O O O O O O B-tim O O O O,PRP RB VBD NN NN NNP NNP IN DT NN POS JJ JJ NNS WDT VBD IN NNP POS JJ NNS .
+Mr. Bagapsh has already claimed victory against Mr. Khadjimba .,B-per I-per O O O O O B-per B-org O,NNP NNP VBZ RB VBN NN IN NNP NNP .
+Election officials say latest returns put Mr. Bagapsh in the lead .,O O O O O O B-per B-org O O O O,NN NNS VBP JJS NNS VBD NNP NNP IN DT NN .
+Mr. Khadjimba wanted the election voided because of alleged fraud .,B-per B-org O O O O O O O O O,NNP NNP VBD DT NN VBD IN IN JJ NN .
+Electoral officials say the southern Gali district will hold a re-vote on October 17 because of voting problems .,O O O O O B-geo O O O O O O B-tim I-tim O O O O O,NNP NNS VBP DT JJ NNP NN MD VB DT NN IN NNP CD IN IN NN NNS .
+The contest was the first open presidential election in Abkhazia since the area declared independence from Georgia in 1993 .,O O O O O O O O O B-geo O O O O O O B-geo O B-tim O,DT NN VBD DT JJ JJ JJ NN IN NNP IN DT NN VBD NN IN NNP IN CD .
+Georgian officials say the vote was illegal .,B-gpe O O O O O O O,JJ NNS VBP DT NN VBD JJ .

@@ -1,0 +1,8 @@
+"Former U.S. president Jimmy Carter has left a Cleveland , Ohio hospital , where he had been treated for a stomach ailment .",O B-geo O B-per I-per O O O B-geo O B-geo O O O O O O O O O O O O,"JJ NNP NN NNP NNP VBZ VBN DT NNP , NNP NN , WRB PRP VBD VBN VBN IN DT NN NN ."
+A statement from the medical center in Cleveland says Mr. Carter left the hospital after midday Thursday .,O O O O O O O B-geo O B-per I-per O O O O B-tim I-tim O,DT NN IN DT JJ NN IN NNP VBZ NNP NNP VBD DT NN IN NN NNP .
+The statement says he thanked his medical team for the care and treatment he received during his stay .,O O O O O O O O O O O O O O O O O O O,DT NN VBZ PRP VBD PRP$ JJ NN IN DT NN CC NN PRP VBD IN PRP$ NN .
+The 85-year-old former president had been admitted to the hospital Tuesday after developing an upset stomach during a flight to Cleveland .,O O O O O O O O O O B-tim O O O O O O O O O B-geo O,DT JJ JJ NN VBD VBN VBN TO DT NN NNP IN VBG DT JJ NN IN DT NN TO NNP .
+Doctors had determined he had been suffering from a viral infection and kept him in the hospital for two nights to monitor his health .,O O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBD VBN PRP VBD VBN VBG IN DT JJ NN CC VBD PRP IN DT NN IN CD NNS TO VB PRP$ NN .
+"Mr. Carter has been traveling across the country to promote his new book , White House Diary .",B-per I-per O O O O O O O O O O O O B-org I-org I-org O,"NNP NNP VBZ VBN VBG IN DT NN TO VB PRP$ JJ NN , NNP NNP NNP ."
+The hospital says he will resume his schedule with a meeting in Washington .,O O O O O O O O O O O O B-geo O,DT NN VBZ PRP MD VB PRP$ NN IN DT NN IN NNP .
+Mr. Carter served as U.S. president from 1977 to 1981 .,B-per I-per O O B-geo O O B-tim I-tim I-tim O,NNP NNP VBD IN NNP NN IN CD TO CD .

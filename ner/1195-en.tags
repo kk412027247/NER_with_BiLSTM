@@ -1,0 +1,8 @@
+The U.S. motorcycle company Harley-Davidson opened its first authorized Chinese dealership Saturday in Beijing .,O B-geo O O B-per O O O O B-gpe O B-tim O B-geo O,DT NNP NN NN NNP VBD PRP$ JJ JJ JJ NN NNP IN NNP .
+Company officials say they expect the motorcycle 's entry into the Chinese market to be a gradual one .,O O O O O O O O O O O B-gpe O O O O O O O,NN NNS VBP PRP VBP DT NN POS NN IN DT JJ NN TO VB DT JJ CD .
+Many Chinese cities have restrictions on where motorcycles can be ridden .,O B-gpe O O O O O O O O O O,JJ JJ NNS VBP NNS IN WRB NNS MD VB VBN .
+The company says it hopes to address the riding restrictions over time .,O O O O O O O O O O O O O,DT NN VBZ PRP VBZ TO VB DT NN NNS IN NN .
+"Harley Davidson officials say that while China 's economy is booming , they also realize their motorcycles may be too expensive in a country where disposable income is limited .",B-per I-per O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNS VBP IN IN NNP POS NN VBZ JJ , PRP RB VBP PRP$ NNS MD VB RB JJ IN DT NN WRB JJ NN VBZ VBN ."
+Harley Davidson is based in the midwestern U.S. state of Wisconsin and has been making motorcycles for more than 100 years .,B-per I-per O O O O O B-geo O O B-geo O O O O O O O O O O O,NNP NNP VBZ VBN IN DT JJ NNP NN IN NNP CC VBZ VBN VBG NNS IN JJR IN CD NNS .
+They are the only major U.S. motorcycle manufacturer .,O O O O O B-geo O O O,PRP VBP DT RB JJ NNP NN NN .
+"They specialize in large , heavyweight bikes , often known as "" hogs . """,O O O O O O O O O O O O O O O,"PRP VBP IN JJ , JJ NNS , RB VBN IN RQU NNS . LQU"

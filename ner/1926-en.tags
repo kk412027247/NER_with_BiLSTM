@@ -1,0 +1,9 @@
+"Lebanese and Israeli soldiers exchanged cross-border fire Wednesday , but no casualties were reported .",B-gpe O B-gpe O O O O B-tim O O O O O O O,"JJ CC JJ NNS VBD JJ NN NNP , CC DT NNS VBD VBN ."
+The Lebanese army says its soldiers opened fire on an Israeli bulldozer that crossed the border .,O B-gpe O O O O O O O O B-gpe O O O O O O,DT JJ NN VBZ PRP$ NNS VBD NN IN DT JJ NN WDT VBD DT NN .
+The Israeli army says its soldiers returned fire .,O B-gpe O O O O O O O,DT JJ NN VBZ PRP$ NNS VBD NN .
+"The Israeli forces were searching for explosives along the border , after discovering four bombs there Monday .",O B-gpe O O O O O O O O O O O O O O B-tim O,"DT JJ NNS VBD VBG IN NNS IN DT NN , IN VBG CD NNS RB NNP ."
+The Shi'ite militant group Hezbollah says it did not recently plant the bombs .,O O O O B-org O O O O O O O O O,DT NNP JJ NN NNP VBZ PRP VBD RB RB VB DT NNS .
+Hezbollah officials said Tuesday that the bombs were placed before last year 's war between Israel and Hezbollah .,B-org O O B-tim O O O O O B-tim O O O O O B-geo O B-org O,NNP NNS VBD NNP IN DT NNS VBD VBN IN JJ NN POS NN IN NNP CC NNP .
+Israeli officials have said they believe the bombs were placed in recent days under the cover of fog and rain .,B-gpe O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP VBN PRP VBP DT NNS VBD VBN IN JJ NNS IN DT NN IN NN CC NN .
+"If Hezbollah is responsible for placing explosives in recent days , it would mark a violation of a U.N.-brokered ceasefire agreement declared last August .",O B-org O O O O O O O O O O O O O O O O O O O O O B-tim O,"IN NNP VBZ JJ IN VBG NNS IN JJ NNS , PRP MD VB DT NN IN DT JJ NN NN VBN JJ NNP ."
+"In July 2006 , Hezbollah abducted two Israeli soldiers in a cross-border raid , which started a month-long war between Israel and the militia .",O B-tim I-tim O B-org O O B-gpe O O O O O O O O O B-tim O O B-geo O O O O,"IN NNP CD , NNP VBD CD JJ NNS IN DT JJ NN , WDT VBD DT JJ NN IN NNP CC DT NN ."

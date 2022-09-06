@@ -1,0 +1,7 @@
+A man whose home was raided by British police on suspicion of terrorism said police never identified themselves and shot him without warning .,O O O O O O O B-gpe O O O O O O O O O O O O O O O O,DT NN WP$ NN VBD VBN IN JJ NN IN NN IN NN VBD NN RB VBN PRP CC VBD PRP IN NN .
+Mohammed Abdul Kahar was shot in the shoulder when about 250 police officers burst into his home before dawn on June 2 .,B-per I-per I-per O O O O O O O O O O O O O O O O O B-tim I-tim O,NNP NNP NNP VBD VBN IN DT NN WRB IN CD NN NNS VBD IN PRP$ NN IN NN IN NNP CD .
+The police were acting on information that a chemical bomb was being made on the property .,O O O O O O O O O O O O O O O O O,DT NNS VBD VBG IN NN IN DT NN NN VBD VBG VBN IN DT NN .
+"Kahar and his brother , Abul Koyair , were detained on suspicion of terrorism and released without charge a week later .",B-per O O O O B-per I-per O O O O O O O O O O O O O B-tim O,"NNP CC PRP$ NN , NNP NNP , VBD VBN IN NN IN NN CC VBN IN NN DT NN RB ."
+"Both brothers said in a news conference Tuesday , that they were beaten by police during the raid .",O O O O O O O B-tim O O O O O O O O O O O,"DT NNS VBD IN DT NN NN NNP , IN PRP VBD VBN IN NNS IN DT NN ."
+The London police have come under heavy criticism for the raid .,O B-geo O O O O O O O O O O,DT NNP NNS VBP VBN IN JJ NN IN DT NN .
+"They have defended their actions , saying they received very specific intelligence that they had to act on .",O O O O O O O O O O O O O O O O O O O,"PRP VBP VBN PRP$ NNS , VBG PRP VBD RB JJ NN IN PRP VBD TO VB IN ."

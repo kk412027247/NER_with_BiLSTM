@@ -1,0 +1,5 @@
+The United States has confirmed that two U.S. officials met with North Korean diplomats in New York last week .,O B-geo I-geo O O O O B-geo O O O O B-gpe O O B-geo I-geo O O O,DT NNP NNPS VBZ VBN IN CD NNP NNS VBD IN JJ JJ NNS IN NNP NNP JJ NN .
+"A spokesman for the U.S. embassy in Tokyo Thursday said the working-level meeting was used to convey U.S. policy , not to negotiate .",O O O O B-geo O O B-geo B-tim O O O O O O O O B-geo O O O O O O,"DT NN IN DT NNP NN IN NNP NNP VBD DT JJ NN VBD VBN TO VB NNP NN , RB TO VB ."
+He did not elaborate on what the two sides discussed .,O O O O O O O O O O O,PRP VBD RB VB IN WP DT CD NNS VBD .
+But Washington has been urging North Korea to return to six party talks on its nuclear program .,O B-geo O O O B-geo I-geo O O O O O O O O O O O,CC NNP VBZ VBN VBG NNP NNP TO VB TO CD NN NNS IN PRP$ JJ NN .
+"The talks have been stalled since last September , and North Korea has boycotted efforts to arrange a new meeting .",O O O O O B-tim O B-tim O O B-geo I-geo O O O O O O O O O,"DT NNS VBP VBN VBN IN JJ NNP , CC NNP NNP VBZ VBN NNS TO VB DT JJ NN ."

@@ -1,0 +1,8 @@
+A suicide bomber tried to kill the leader of Iraq 's most powerful Shi'ite political group Monday while the main Sunni party withdrew from the country 's January 30th election .,O O O O O O O O O B-geo O O O O O O B-tim O O O B-geo O O O O O O B-tim I-tim I-tim O,DT NN NN VBD TO VB DT NN IN NNP POS RBS JJ NNP JJ NN NNP IN DT JJ NNP NN VBD IN DT NN POS NNP CD NN .
+"Abdul Aziz al-Hakim , whose United Iraqi Alliance is expected to dominate the vote , survived the Baghdad attack .",B-per I-per I-per O O B-org B-gpe B-org O O O O O O O O O B-org O O,"NNP NNP NNP , WP$ NNP JJ NNP VBZ VBN TO VB DT NN , VBD DT NNP NN ."
+But at least 13 people were killed .,O O O O O O O O,CC IN JJS CD NNS VBD VBN .
+"Earlier in the day , the Sunni Iraqi Islamic Party pulled out of the vote because of concerns over violence .",O B-tim O B-tim O O B-org B-gpe B-org I-org O O O O O O O O O O O,"RBR IN DT NN , DT NNP JJ NNP NNP VBD IN IN DT NN IN IN NNS IN NN ."
+The party says more time is needed to ensure that all Shi'ites and Sunnis participate in the election .,O O O O O O O O O O O O O O O O O B-tim O,DT NN VBZ JJR NN VBZ VBN TO VB IN DT NNS CC NNS VBP IN DT NN .
+"In other election news , a new audiotape purportedly from Osama bin Laden calls for Iraqis to boycott the vote , saying those who take part will be infidels .",O O O O O O O O O O B-per I-per I-per O O B-gpe O O O O O O O O O O O O O O,"IN JJ NN NN , DT JJ NN RB IN NNP NNP NNP VBZ IN NNS TO VB DT NN , VBG DT WP VBP NN MD VB NNS ."
+The speaker also endorses Abu Musab al-Zarqawi as his deputy in Iraq .,O O O O B-org I-org B-per O O O O B-geo O,DT NN RB VBZ NNP NNP NNP IN PRP$ NN IN NNP .
+The tape has not been authenticated .,O O O O O O O,DT NN VBZ RB VBN VBN .

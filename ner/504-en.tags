@@ -1,0 +1,6 @@
+France 's oldest World War One veteran has died at the age of 111 .,B-geo O O B-eve I-eve I-eve O O O O O O O O O,NNP POS JJS NNP NNP NNP NN VBZ VBN IN DT NN IN CD .
+"Maurice Floquet died at his home in southern France on the eve of November 11 , the 88th anniversary of the armistice that ended the war .",B-per I-per O O O O O B-geo I-geo O O O O B-tim I-tim O O B-tim I-tim I-tim O B-tim I-tim O O O O,"NNP NNP VBD IN PRP$ NN IN JJ NNP IN DT NN IN NNP CD , DT JJ NN IN DT NN WDT VBD DT NN ."
+His death leaves France with only four living veterans of the conflict .,O O O B-geo O O O O O O O O O,PRP$ NN VBZ NNP IN RB CD JJ NNS IN DT NN .
+Floquet joined the French infantry and fought in a number of battles including the Somme .,B-per O O B-gpe O O O O O O O O O O B-eve O,NNP VBD DT JJ NN CC VBD IN DT NN IN NNS VBG DT NNP .
+"Saturday , French President Jacques Chirac is to lead the traditional Armistice Day ceremonies in Paris .",B-tim O B-gpe B-per I-per I-per O O O O O B-eve I-eve O O B-geo O,"NNP , JJ NNP NNP NNP VBZ TO VB DT JJ NNP NNP NNS IN NNP ."
+One of the four remaining World War I veterans will join the French leader at the Arc de Triomphe commemorations .,O O O O O B-eve I-eve I-eve O O O O B-gpe O O O B-art I-art I-art O O,CD IN DT CD VBG NNP NNP NNP NNS MD VB DT JJ NN IN DT NNP NNP NNP NNS .

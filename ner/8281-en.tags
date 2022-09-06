@@ -1,0 +1,7 @@
+Burma on Friday granted a permit to participate in upcoming elections to an opposition party that split from Aung San Suu Kyi 's National League for Democracy .,B-geo O B-tim O O O O O O O O O O O O O O O B-geo I-geo I-geo I-geo O B-geo I-geo O B-geo O,NNP IN NNP VBD DT NN TO VB IN JJ NNS TO DT NN NN WDT VBD IN NNP NNP NNP NNP POS NNP NNP IN NNP .
+The state-run New Light of Myanmar newspaper said Saturday that the National Democratic Force will join 37 other new political parties and five existing groups in contesting elections later this year .,O O O O O B-geo O O B-tim O O B-org I-org I-org O O O O O O O O O O O O O O B-tim O O O,DT JJ NNP NNP IN NNP NN VBD NNP IN DT NNP NNP NNP MD VB CD JJ JJ JJ NNS CC CD VBG NNS IN VBG NNS RBR DT NN .
+The military government has not yet set a date for the polls .,O O O O O O O O O O O O O,DT JJ NN VBZ RB RB VBN DT NN IN DT NNS .
+Aung San Suu Kyi 's NLD will not participate in the elections .,B-geo I-geo I-geo I-geo O B-geo O O O O O O O,NNP NNP NNP NNP POS NNP MD RB VB IN DT NNS .
+"The party won the last election , held in 1990 by a landslide , but was never allowed to take power .",O O O O O O O O O B-tim O O O O O O O O O O O O,"DT NN VBD DT JJ NN , VBN IN CD IN DT NN , CC VBD RB VBN TO VB NN ."
+New election laws ban Aung San Suu Kyi from running for office .,O O O O B-geo I-geo I-geo I-geo O O O O O,JJ NN NNS VBP NNP NNP NNP NNP IN VBG IN NN .
+The NLD has called the laws unfair and undemocratic .,O B-org O O O O O O O O,DT NNP VBZ VBN DT NNS JJ CC JJ .

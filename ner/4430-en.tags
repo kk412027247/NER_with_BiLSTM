@@ -1,0 +1,7 @@
+"Syria 's foreign minister , Farouk al-Shara , says his government will exchange ambassadors with Baghdad when a new Iraqi government is formed .",B-geo O O O O B-per I-per O O O O O O O O B-geo O O O B-gpe O O O O,"NNP POS JJ NN , NNP NNP , VBZ PRP$ NN MD VB NNS IN NNP WRB DT JJ JJ NN VBZ VBN ."
+This is the first time that Damascus has set a time frame for restoring ties .,O O O O O O B-geo O O O O O O O O O,DT VBZ DT JJ NN IN NNP VBZ VBN DT NN NN IN VBG NNS .
+Al-Shara says Syria welcomes a close relationship with Iraq and is committed to Iraq 's territorial integrity and to an end to the U.S. occupation .,B-geo O B-geo O O O O O B-geo O O O O B-geo O O O O O O O O O B-geo O O,NNP VBZ NNP VBZ DT JJ NN IN NNP CC VBZ VBN TO NNP POS JJ NN CC TO DT NN TO DT NNP NN .
+Damascus broke off relations with Baghdad more than 20 years ago .,B-geo O O O O B-geo O O B-tim O O O,NNP VBD RP NNS IN NNP JJR IN CD NNS RB .
+Relations between the two countries deteriorated after Syria sided with Iran in the Iran-Iraq war .,O O O O O O O B-geo O O B-geo O O O O O,NNP IN DT CD NNS VBD IN NNP VBD IN NNP IN DT NNP NN .
+Syria also joined the U.S.-led coalition against Iraq in the 1991 Gulf War .,B-geo O O O O O O B-geo O O B-tim O O O,NNP RB VBD DT JJ NN IN NNP IN DT CD NNP NNP .
+Iraq is encouraging Arab countries to send ambassadors to Baghdad .,B-geo O O B-gpe O O O O O B-geo O,NNP VBZ VBG JJ NNS TO VB NNS TO NNP .

@@ -1,0 +1,9 @@
+The White House has strongly condemned Friday 's rocket attack at the Jordanian Red Sea port of Aqaba where two American naval ships were docked .,O B-org I-org O O O B-tim O O O O O B-org I-org I-org O O B-geo O O B-gpe O O O O O,DT NNP NNP VBZ RB VBN NNP POS NN NN IN DT JJ NNP NNP NN IN NNP WRB CD JJ JJ NNS VBD VBN .
+"A statement says the United States condemns all such attacks , and that U.S. officials are investigating in cooperation with Jordan .",O O O O B-geo I-geo O O O O O O O B-geo O O O O O O B-gpe O,"DT NN VBZ DT NNP NNPS VBP DT JJ NNS , CC IN NNP NNS VBP VBG IN NN IN NNP ."
+"U.S. military officials say it is safe to conclude that the two warships , the USS Ashland and the USS were the main target .",B-geo O O O O O O O O O O O O O O B-org I-org O O B-org O O O O O,"NNP JJ NNS VBP PRP VBZ JJ TO VB IN DT CD NNS , DT NNP NNP CC DT NNS VBD DT JJ NN ."
+"One of the rockets hit a military warehouse , killing a Jordanian soldier .",O O O O O O O O O O O O O O,"CD IN DT NNS VBD DT JJ NN , VBG DT JJ NN ."
+Another exploded near a military hospital .,O O O O O O O,DT VBD IN DT JJ NN .
+"The third rocket landed about 15 kilometers away , on the Israeli side of the border near the town of Eilat .",O O O O O O O O O O O B-gpe O O O O O O O O B-org O,"DT JJ NN VBD IN CD NNS RB , IN DT JJ NN IN DT NN IN DT NN IN NNP ."
+It did not explode .,O O O O O,PRP VBD RB VB .
+Jordanian security forces have launched a massive hunt for four individuals suspected of firing the Katyusha rockets .,O O O O O O O O O O O O O O O B-org O O,JJ NN NNS VBP VBN DT JJ NN IN CD NNS VBN IN VBG DT NNP NNS .
+A group linked to al-Qaida has claimed responsibility in an unverifiable Internet statement .,O O O O B-org O O O O O O O O O,DT NN VBN TO NNP VBZ VBN NN IN DT JJ NN NN .

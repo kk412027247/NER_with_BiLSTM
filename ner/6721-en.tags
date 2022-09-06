@@ -1,0 +1,8 @@
+"Direct charter flights from Taiwan to mainland China have begun for the Lunar New Year holiday season , under an agreement between the diplomatic rivals to temporarily allow non-stop air travel .",O O O O B-geo O O B-geo O O O O B-org I-org I-org O O O O O O O O O O O O O O O O O,"JJ NN NNS IN NNP TO VB NNP VBP VBN IN DT NNP NNP NNP NN NN , IN DT NN IN DT JJ NNS TO RB VB JJ NN NN ."
+"A plane with Taiwan 's biggest carrier , China Airlines , arrived in Shanghai Friday from Taipei .",O O O B-geo O O O O B-org I-org O O O B-geo B-tim O B-geo O,"DT NN IN NNP POS JJS NN , NNP NNPS , VBD IN NNP NNP IN NNP ."
+Six airlines from each side will operate 72 flights across the Taiwan Strait .,O O O O O O O O O O O B-geo I-geo O,CD NNS IN DT NN MD VB CD NNS IN DT NNP NNP .
+"The service will connect the mainland Chinese cities of Beijing , Shanghai , Guangzhou and Xiamen with Taipei and Kaohsiung on Taiwan until February 7 .",O O O O O O B-gpe O O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O B-tim I-tim O,"DT NN MD VB DT JJ JJ NNS IN NNP , NNP , NNP CC NNP IN NNP CC NNP IN NNP IN NNP CD ."
+This is the second year that Beijing and Taipei have allowed the holiday flights .,O O O B-tim O B-tim B-geo O B-geo O O O O O O,DT VBZ DT JJ NN IN NNP CC NNP VBP VBN DT NN NNS .
+"Last year , flights were limited to Taiwan business people living on the mainland .",O O O O O O O B-geo O O O O O O O,"JJ NN , NNS VBD VBN TO NNP NN NNS VBG IN DT NN ."
+"This year , the flights include Taiwan tourists .",O O O O O O B-geo O O,"DT NN , DT NNS VBP NNP NNS ."
+"At other times of year , travelers must connect through other airports , usually Hong Kong .",O O O B-tim O O O O O O O O O O B-geo I-geo O,"IN JJ NNS IN NN , NNS MD VB IN JJ NNS , RB NNP NNP ."

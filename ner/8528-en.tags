@@ -1,0 +1,7 @@
+The State Department says the human rights records of several Middle Eastern countries are problematic .,O B-org I-org O O O O O O O B-geo I-geo O O O O,DT NNP NNP VBZ DT JJ NNS NNS IN JJ NNP NNP NNS VBP JJ .
+"Assistant Secretary of State for Democracy , Human Rights and Labor Barry Lowenkron says Syria and Iran are of particular concern .",O O O B-org I-org I-org I-org I-org I-org O B-per I-per I-per O B-geo O B-geo O O O O O,"NNP NNP IN NNP IN NNP , NNP NNP CC NNP NNP NNP VBZ NNP CC NNP VBP IN JJ NN ."
+He spoke to reporters Wednesday at the release of the State Department 's annual report on human rights .,O O O O B-tim O O O O O B-org I-org O O O O O O O,PRP VBD TO NNS NNP IN DT NN IN DT NNP NNP POS JJ NN IN JJ NNS .
+"Mr. Lowenkron says the United States is in talks with Saudi Arabia on wide-ranging issues , including improving the kingdom 's human rights situation .",B-per I-per O O B-geo I-geo O O O O B-per I-per O O O O O O O O O O O O O,"NNP NNP VBZ DT NNP NNPS VBZ IN NNS IN NNP NNP IN JJ NNS , VBG VBG DT NN POS JJ NNS NN ."
+He added that elections in the Palestinian territories were a major advancement .,O O O O O O B-gpe O O O O O O,PRP VBD IN NNS IN DT JJ NNS VBD DT JJ NN .
+He says Hamas must now choose between terrorism and politics .,O O B-org O O O O O O O O,PRP VBZ NNP MD RB VB IN NN CC NNS .
+The report also says there were serious abuses by members of Israeli security forces against Palestinian detainees .,O O O O O O O O O O O B-gpe O O O B-gpe O O,DT NN RB VBZ EX VBD JJ NNS IN NNS IN JJ NN NNS IN JJ NNS .

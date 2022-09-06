@@ -1,0 +1,8 @@
+"Pro-government lawmakers in Venezuela have appointed 17 new judges to the Supreme Court , strengthening the administration of President Hugo Chavez .",O O O B-geo O O O O O O O B-org I-org O O O O O B-per I-per I-per O,"JJ NNS IN NNP VBP VBN CD JJ NNS TO DT NNP NNP , VBG DT NN IN NNP NNP NNP ."
+"In Caracas Monday , legislators from the ruling party pushed the appointments through the 165-seat Congress .",O B-tim I-tim O O O O O O O O O O O O B-org O,"IN NNP NNP , NNS IN DT VBG NN VBD DT NNS IN DT JJ NNP ."
+"Opposition leaders condemned the appointments as unconstitutional , and then walked out of the session .",O O O O O O O O O O O O O O O O,"NN NNS VBD DT NNS IN JJ , CC RB VBD IN IN DT NN ."
+"Earlier this year , lawmakers approved measures that expanded the number of Supreme Court justices from 20 to 32 .",O O O O O O O O O O O O B-org I-org O O O O O O,"RBR DT NN , NNS VBD NNS WDT VBD DT NN IN NNP NNP NNS IN CD TO CD ."
+"They also changed the rules to allow Congress to appoint judges with a simple majority , and to fire sitting justices .",O O O O O O O B-org O O O O O O O O O O O O O O,"PRP RB VBD DT NNS TO VB NNP TO VB NNS IN DT JJ NN , CC TO VB VBG NNS ."
+"Human rights groups have condemned the measures , saying they are a threat to democracy .",O O O O O O O O O O O O O O O O,"JJ NNS NNS VBP VBN DT NNS , VBG PRP VBP DT NN TO NN ."
+"Among the new justices is Francisco Carrasquero , head of the nation 's electoral council .",O O O O O B-geo I-geo O O O O O O O O O,"IN DT JJ NNS VBZ NNP NNP , NN IN DT NN POS JJ NN ."
+Critics accuse him of helping Mr. Chavez defeat a recall in August .,O O O O O B-per I-per O O O O B-tim O,NNS VBP PRP IN VBG NNP NNP VB DT NN IN NNP .

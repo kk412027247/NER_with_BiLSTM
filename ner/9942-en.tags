@@ -1,0 +1,8 @@
+"An explosion during a parade of the militant Palestinian group Hamas has killed 15 people and wounded 80 others , including children , in the Gaza Strip .",O O O O O O O O B-gpe O B-org O O O O O O O O O O O O O O B-geo I-geo O,"DT NN IN DT NN IN DT JJ JJ NN NNP VBZ VBN CD NNS CC VBD CD NNS , VBG NNS , IN DT NNP NNP ."
+Palestinian President Mahmoud Abbas 's Fatah faction blamed Hamas for the casualties for holding a military parade in the densely populated Jebaliya refugee camp .,B-gpe B-per I-per I-per O B-geo O O B-org O O O O O O O O O O O O B-geo O O O,JJ NNP NNP NNP POS NNP NN VBD NNP IN DT NNS IN VBG DT JJ NN IN DT RB JJ NNP NN NN .
+Witnesses say a truck carrying homemade weapons accidentally exploded .,O O O O O O O O O O,NNS VBP DT NN VBG JJ NNS RB VBD .
+"But Hamas blamed Israel , saying a drone flying over the area fired a missile at the vehicle .",O B-org O B-geo O O O O O O O O O O O O O O O,"CC NNP VBD NNP , VBG DT NN VBG IN DT NN VBD DT NN IN DT NN ."
+Israel quickly denied any involvement .,B-geo O O O O O,NNP RB VBD DT NN .
+"Earlier Friday , an Israeli raid in the West Bank town of Tulkarem turned violent and three Islamic Jihad members were killed .",O B-tim O O B-gpe O O O B-org I-org O O B-geo O O O O B-org I-org O O O O,"RBR NNP , DT JJ NN IN DT NNP NNP NN IN NNP VBD JJ CC CD NNP NNP NNS VBD VBN ."
+"Islamic Jihad retaliated , firing several rockets into Israel that did not cause casualties or damage .",B-org I-org O O O O O O B-geo O O O O O O O O,"NNP NNP VBD , VBG JJ NNS IN NNP WDT VBD RB VB NNS CC NN ."
+Palestinian chief negotiator Saeb Erekat condemned the Israeli raid and urged calm on all sides .,B-gpe O O B-per I-per O O B-gpe O O O O O O O O,JJ NN NN NNP NNP VBD DT JJ NN CC VBD NN IN DT NNS .

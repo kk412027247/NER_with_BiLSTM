@@ -1,0 +1,9 @@
+President Bush is again calling on the U.S. Senate to give him authority to remove certain items from bills before signing them into law .,B-per I-per O O O O O B-org I-org O O O O O O O O O O O O O O O O,NNP NNP VBZ RB VBG IN DT NNP NNP TO VB PRP NN TO VB JJ NNS IN NNS IN VBG PRP IN NN .
+Mr. Bush raised the issue Tuesday in a speech in Washington .,B-per I-per O O O B-tim O O O O B-geo O,NNP NNP VBD DT NN NNP IN DT NN IN NNP .
+It is called the line-item veto .,O O O O O O O,PRP VBZ VBN DT JJ NN .
+He also talked about it Saturday in his weekly radio address .,O O O O O B-tim O O O O O O,PRP RB VBD IN PRP NNP IN PRP$ JJ NN NN .
+The President said the move would help him get rid of wasteful spending measures tacked onto important legislation .,O B-per O O O O O O O O O O O O O O O O O,DT NNP VBD DT NN MD VB PRP VB JJ IN JJ NN NNS VBN IN JJ NN .
+"He said those last-minute additions , known as earmarks , have grown more common in recent years .",O O O B-tim O O O O O O O O O O O B-tim O O,"PRP VBD DT JJ NNS , VBN IN NNS , VBP VBN RBR JJ IN JJ NNS ."
+President Clinton briefly had line-item veto authority before the Supreme Court struck it down as unconstitutional in 1998 .,B-per I-per O O O O O O O B-org I-org O O O O O O B-tim O,NNP NNP RB VBD JJ NN NN IN DT NNP NNP VBD PRP RP IN JJ IN CD .
+The Court said it gave the president too much power .,O B-org O O O O O O O O O,DT NNP VBD PRP VBD DT NN RB JJ NN .
+House lawmakers on Thursday voted to grant President Bush a modified line-item veto that would allow Congress to approve or reject his changes before they become law .,B-org O O B-tim O O O B-per I-per O O O O O O O B-org O O O O O O O O O O O,NNP NNS IN NNP VBD TO VB NNP NNP DT VBN JJ NN WDT MD VB NNP TO VB CC VB PRP$ NNS IN PRP VBP NN .

@@ -1,0 +1,5 @@
+A BOSS who had gone to Canada was taunted by a Citizen of Montreal with having fled to avoid prosecution .,O O O O O O B-geo O O O O O O B-org O O O O O O O,DT NN WP VBD VBN TO NNP VBD VBN IN DT NN IN NNP IN VBG VBN TO VB NN .
+""" You do me a grave injustice , "" said the Boss , parting with a pair of tears .",O O O O O O O O O O O O O O O O O O O O,"LQU PRP VBP PRP DT JJ NN , RQU VBD DT NN , VBG IN DT NN IN NNS ."
+""" I came to Canada solely because of its political attractions ; its Government is the most corrupt in the world . """,O O O O B-geo O O O O O O O O O O O O O O O O O O,LQU PRP VBD TO NNP RB IN IN PRP$ JJ NNS ; PRP$ NN VBZ DT RBS JJ IN DT NN . LQU
+""" Pray forgive me , "" said the Citizen of Montreal .",O O O O O O O O O O B-org O,"LQU VBP VB PRP , RQU VBD DT NN IN NNP ."
+"They fell upon each other 's neck , and at the conclusion of that touching rite the Boss had two watches .",O O O O O O O O O O O O O O O O O O O O O O,"PRP VBD IN DT NN POS NN , CC IN DT NN IN DT JJ NN DT NNP VBD CD NNS ."

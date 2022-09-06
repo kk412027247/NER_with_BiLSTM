@@ -1,0 +1,9 @@
+A U.S. jury has found that drug maker Merck is not liable for the heart attack suffered by a man taking its painkiller Vioxx .,O B-geo O O O O O O B-org O O O O O O O O O O O O O O B-art O,DT NNP NN VBZ VBN IN NN NN NNP VBZ RB JJ IN DT NN NN VBN IN DT NN VBG PRP$ NN NNP .
+The New Jersey jurists agreed with Merck that job stress and health risks caused the 60-year old postal worker to have a heart attack four years ago .,O B-geo I-geo O O O B-org O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP NNS VBD IN NNP IN NN NN CC NN NNS VBD DT JJ JJ JJ NN TO VB DT NN NN CD NNS RB .
+The plaintiff argued Vioxx was responsible .,O O O B-org O O O,DT NN VBD NNP VBD JJ .
+The jury also rejected the man 's claim that Merck failed to properly warn users about the drug 's risks .,O O O O O O O O O B-org O O O O O O O O O O O,DT NN RB VBD DT NN POS NN IN NNP VBD TO RB VB NNS IN DT NN POS NNS .
+Merck withdrew the popular drug last year after a study showed it doubled the risk of heart problems in long-term users .,B-org O O O O O O O O O O O O O O O O O O O O O,NNP VBD DT JJ NN JJ NN IN DT NN VBD PRP VBD DT NN IN NN NNS IN JJ NNS .
+Merck is facing thousands of other lawsuits over Vioxx .,B-org O O O O O O O B-art O,NNP VBZ VBG NNS IN JJ NNS IN NNP .
+Thursday 's verdict is only the second in a Vioxx case .,B-tim O O O O O O O O B-art O O,NNP POS NN VBZ RB DT NN IN DT NNP NN .
+"In the first , Merck was ordered to pay millions of dollars to the widow of a Vioxx user .",O O O O B-org O O O O O O O O O O O O B-art O O,"IN DT JJ , NNP VBD VBN TO VB NNS IN NNS TO DT NN IN DT NNP NN ."
+Merck is appealing that decision .,B-org O O O O O,NNP VBZ VBG DT NN .

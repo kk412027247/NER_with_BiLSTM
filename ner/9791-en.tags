@@ -1,0 +1,6 @@
+"Niger police have arrested a former prime minister , who is an ally of ousted president Mamadou Tandja .",B-gpe O O O O O O O O O O O O O O O B-per I-per O,"NNP NNS VBP VBN DT JJ JJ NN , WP VBZ DT NN IN JJ NN NNP NNP ."
+"Authorities are accusing Seini Oumarou of embezzling more than $ 500,000 of public money .",O O O B-per I-per O O O O O O O O O O,NNS VBP VBG NNP NNP IN VBG JJR IN $ CD IN JJ NN .
+Mr. Oumarou 's two years as prime minister ended last February when a military coup ousted Mr. Tandja after he sought to change the constitution to stay in office longer .,B-per I-per O B-tim O O O O O O B-tim O O O O O B-per I-per O O O O O O O O O O O O O,NNP NNP POS CD NNS IN JJ NN VBD JJ NNP WRB DT JJ NN VBD NNP NNP IN PRP VBD TO VB DT NN TO VB IN NN RB .
+The military junta that took power has vowed to clean up corruption .,O O O O O O O O O O O O O,DT JJ NN WDT VBD NN VBZ VBN TO VB RP NN .
+"Mr. Tandja has sought leniency from the ruling junta because of his poor health , but his fate is unclear .",B-per I-per O O O O O O O O O O O O O O O O O O O,"NNP NNP VBZ VBN NN IN DT NN NN IN IN PRP$ JJ NN , CC PRP$ NN VBZ JJ ."
+Police have taken three other former Tandja officials into custody .,O O O O O O B-per O O O O,NNS VBP VBN CD JJ JJ NNP NNS IN NN .

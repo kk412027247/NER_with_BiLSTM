@@ -1,0 +1,7 @@
+"Bangladesh fire officials say a five-story building has collapsed in the capital of Dhaka , killing at least 20 people .",B-org O O O O O O O O O O O O B-geo O O O O O O O,"NNP NN NNS VBP DT JJ NN VBZ VBN IN DT NN IN NNP , VBG IN JJS CD NNS ."
+"Authorities said the building toppled late Tuesday , flattening surrounding homes .",O O O O O O B-tim O O O O O,"NNS VBD DT NN VBD JJ NNP , VBG VBG NNS ."
+At least 25 people were injured when the building fell .,O O O O O O O O O O O,IN JJS CD NNS VBD VBN WRB DT NN VBD .
+Police say it was poorly constructed .,O O O O O O O,NNS VBP PRP VBD RB VBN .
+Rescue teams are continuing to search the rubble for bodies and survivors .,O O O O O O O O O O O O O,NN NNS VBP VBG TO VB DT NN IN NNS CC NNS .
+Officials fear the death count could rise as several people are reported missing .,O O O O O O O O O O O O O O,NNS VBP DT NN NN MD VB IN JJ NNS VBP VBN VBG .
+Officials say many of the victims were sleeping in the surrounding homes -- poorly constructed shanties with tin roofs -- when the building collapsed .,O O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP NN IN DT NNS VBD VBG IN DT VBG NNS : RB VBN NNS IN NN NNS : WRB DT NN VBD .

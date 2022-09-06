@@ -1,0 +1,9 @@
+Doctors in Vienna say Ukraine 's opposition leader Viktor Yushchenko was the victim of dioxin poisoning .,O O B-geo O B-geo O O O B-per I-per O O O O O O O,NNS IN NNP VBP NNP POS NN NN NNP NNP VBD DT NN IN NN NN .
+"The director of a leading Vienna hospital , Rudolfinerhaus - Dr. Michael Zimpfer , told reporters there is no doubt the illness that disfigured Mr. Yushchenko 's face was the result of the dioxin .",O O O O O B-geo O O B-per I-per I-per I-per I-per O O O O O O O O O O O B-per B-org O O O O O O O O O,"DT NN IN DT VBG NNP NN , NNP IN NNP NNP NNP , VBD NNS EX VBZ DT NN DT NN WDT VBD NNP NNP POS NN VBD DT NN IN DT NN ."
+He said blood tests and a check on the size and functioning of Mr. Yushchenko 's vital organs confirmed the poisoning .,O O O O O O O O O O O O O B-per B-org O O O O O O O,PRP VBD NN NNS CC DT NN IN DT NN CC NN IN NNP NNP POS JJ NNS VBD DT NN .
+But he stressed that it remains unclear if it was deliberate .,O O O O O O O O O O O O,CC PRP VBD IN PRP VBZ JJ IN PRP VBD JJ .
+Mr. Yushchenko became ill in September .,B-per B-org O O O B-tim O,NNP NNP VBD JJ IN NNP .
+He has consistently accused Ukrainian authorities of trying to poison him in the run-up to November 's disputed presidential election .,O O O O B-gpe O O O O O O O O B-tim I-tim I-tim O O O O O,PRP VBZ RB VBN JJ NNS IN VBG TO VB PRP IN DT NN TO NNP POS JJ JJ NN .
+Ukraine 's Supreme Court voided the outcome on grounds of widespread fraud .,B-geo O B-org I-org O O O O O O O O O,NNP POS NNP NNP VBD DT NN IN NNS IN JJ NN .
+"According to those results , Prime Minister Viktor Yanukovych won the vote .",O O O O O B-per O B-per I-per O O O O,"VBG TO DT NNS , NNP NNP NNP NNP VBD DT NN ."
+Court ordered repeat of the runoff balloting is set for December 26 .,B-org O O O O O O O O O B-tim I-tim O,NN VBD NN IN DT NN NN VBZ VBN IN NNP CD .

@@ -1,0 +1,5 @@
+"The European Union is offering to resume development aid to Sudan , now that an agreement has been reached to end the nation 's 21-year civil war .",O B-org I-org O O O O O O O B-geo O O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ VBG TO VB NN NN TO NNP , RB IN DT NN VBZ VBN VBN TO VB DT NN POS JJ JJ NN ."
+"In a statement Sunday , the EU offered to give Sudan more than $ 540 million to aid development over the next three years .",O O O B-tim O O B-org O O O B-geo O O O O O O O O O O O B-tim O O,"IN DT NN NNP , DT NNP VBD TO VB NNP JJR IN $ CD CD TO VB NN IN DT JJ CD NNS ."
+But the offer requires that the agreement with southern rebels be implemented .,O O O O O O O O O O O O O,CC DT NN VBZ IN DT NN IN JJ NNS VB VBN .
+It also requires Sudan to make progress at ending the separate fighting and humanitarian disaster in its Darfur region .,O O O B-geo O O O O O O O O O O O O O B-geo O O,PRP RB VBZ NNP TO VB NN IN VBG DT JJ NN CC JJ NN IN PRP$ NNP NN .
+The EU stopped sending development money to Sudan 14 years ago because of the southern civil war .,O B-org O O O O O B-org B-tim O O O O O O O O O,DT NNP VBD VBG NN NN IN NNP CD NNS RB IN IN DT JJ JJ NN .

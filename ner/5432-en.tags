@@ -1,0 +1,9 @@
+"Tourists in Mexico 's hurricane-ravaged Yucatan peninsula were expected to begin flying home Tuesday , after spending days in crowded shelters to escape damage wrought by Hurricane Wilma .",O O B-geo O O O O O O O O O O B-tim O O O O O O O O O O O O O O O,"NNS IN NNP POS JJ NNP NN VBD VBN TO VB VBG NN NNP , IN VBG NNS IN JJ NNS TO VB NN VBN IN NNP NNP ."
+President Vicente Fox said Monday that authorities were expected to open Cancun 's airport Tuesday .,B-per I-per I-per O B-tim O O O O O O B-geo O B-geo B-tim O,NNP NNP NNP VBD NNP IN NNS VBD VBN TO VB NNP POS NN NNP .
+He also said some tourists would be bused to the city of Merida and flown out from there .,O O O O O O O O O O O O B-geo O O O O O O,PRP RB VBD DT NNS MD VB VBN TO DT NN IN NNP CC VBN RP IN RB .
+"Monday night , police patrolled the streets of Cancun to discourage looters .",B-tim I-tim O O O O O O B-geo O O O O,"NNP NN , NN VBD DT NNS IN NNP TO VB NNS ."
+The Associated Press reports some 200 people were arrested .,B-org I-org I-org O O O O O O O,DT NNP NNP VBZ DT CD NNS VBD VBN .
+"In western Cuba , floodwaters have begun to recede and authorities have begun assessing damage .",O B-geo I-geo O O O O O O O O O O O O O,"IN JJ NNP , NNS VBP VBN TO VB CC NNS VBP VBN VBG NN ."
+No deaths or injuries were immediately reported .,O O O O O O O O,DT NNS CC NNS VBD RB VBN .
+Hundreds of thousands of people evacuated their homes before the storm 's onslaught .,O O O O O O O O O O O O O O,NNS IN NNS IN NNS VBD PRP$ NNS IN DT NN POS NN .
+"In the capital city of Havana , emergency workers have been using boats to rescue residents stranded by the floodwaters .",O O O O O B-geo O O O O O O O O O O O O O O O,"IN DT NN NN IN NNP , NN NNS VBP VBN VBG NNS TO VB NNS VBN IN DT NNS ."

@@ -1,0 +1,8 @@
+Israel completed its handover of the West Bank town of Tulkarem to the Palestinians Tuesday .,B-geo O O O O O B-org I-org O O B-geo O O B-gpe B-tim O,NNP VBD PRP$ NN IN DT NNP NNP NN IN NNP TO DT NNS NNP .
+"Tulkarem is the second town transferred to the Palestinians , after Jericho last week .",B-geo O O O O O O O B-gpe O O B-geo O O O,"NNP VBZ DT JJ NN VBN TO DT NNS , IN NNP JJ NN ."
+The transfer of five West Bank towns is one of the steps Israeli and Palestinian leaders agreed to at a summit in Egypt last month .,O O O O B-org I-org O O O O O O B-gpe O B-gpe O O O O O O O B-geo O O O,DT NN IN CD NNP NNP NNS VBZ CD IN DT NNS JJ CC JJ NNS VBD TO IN DT NN IN NNP JJ NN .
+"Israel has yet to hand over three other towns - Qalqiliya , Bethlehem and Ramallah .",B-gpe O O O O O O O O O B-geo O B-geo O B-geo O,"NNP VBZ RB TO VB RP CD JJ NNS : NNP , NNP CC NNP ."
+"Meanwhile , Israel confirmed plans to build 3,500 new homes in Maale Adumin , the largest Jewish settlement in the West Bank .",O O B-geo O O O O O O O O B-geo I-geo O O O O O O O B-org I-org O,"RB , NNP VBD NNS TO VB CD JJ NNS IN NNP NNP , DT JJS JJ NN IN DT NNP NNP ."
+"Palestinians condemned the move as a violation of the internationally-backed "" Road Map "" peace plan and said it threatens the newly-energized Middle East peace process .",B-gpe O O O O O O O O O O O O O O O O O O O O O B-geo I-geo O O O,NNS VBD DT NN IN DT NN IN DT JJ LQU NNP NNP RQU NN NN CC VBD PRP VBZ DT JJ NNP NNP NN NN .
+The peace plan calls on Israel to freeze its settlement activity in the West Bank .,O O O O O B-geo O O O O O O O B-org I-org O,DT NN NN VBZ IN NNP TO VB PRP$ NN NN IN DT NNP NNP .
+It also requires the Palestinians to dismantle militant groups .,O O O O B-gpe O O O O O,PRP RB VBZ DT NNS TO VB JJ NNS .

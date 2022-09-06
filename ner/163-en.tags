@@ -1,0 +1,6 @@
+China says a gas explosion in an illegal coal mine in the country 's north has killed 20 people .,B-geo O O O O O O O O O O O O O O O O O O O,NNP VBZ DT NN NN IN DT JJ NN NN IN DT NN POS NN VBZ VBN CD NNS .
+"The official Xinhua news agency said Monday that the blast occurred Sunday evening in Shanxi province , while miners were trying to mine coal secretly .",O O B-org O O O B-tim O O O O B-tim I-tim O B-geo O O O O O O O O O O O,"DT JJ NNP NN NN VBD NNP IN DT NN VBD NNP NN IN NNP NN , IN NNS VBD VBG TO VB NN RB ."
+Xinhua gave no further details .,B-org O O O O O,NNP VBD DT JJ NNS .
+"China 's mining industry is the most dangerous in the world , with numerous fires , floods and other disasters every year , despite repeated government promises to improve safety .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NN NN VBZ DT RBS JJ IN DT NN , IN JJ NNS , NNS CC JJ NNS DT NN , IN JJ NN NNS TO VB NN ."
+"Many of the accidents are in small , illegal mines , where safety procedures are often ignored .",O O O O O O O O O O O O O O O O O O,"NN IN DT NNS VBP IN JJ , JJ NNS , WRB NN NNS VBP RB VBN ."
+An average of 13 Chinese workers die every day in mining accidents .,O O O O B-gpe O O O B-tim O O O O,DT NN IN CD JJ NNS VBP DT NN IN NN NNS .

@@ -1,0 +1,9 @@
+China 's state-run media say 138 workers are now known to have died after an explosion in a coal mine in the northeastern province of Heilongjiang .,B-org O O O O O O O O O O O O O O O O O O O O O O O O B-geo O,NNP POS JJ NNS VBP CD NNS VBP RB VBN TO VB VBN IN DT NN IN DT NN NN IN DT JJ NN IN NNP .
+The Xinhua news agency says 221 miners were working at the time of the blast late Sunday ( at the Dongfeng mine in Qitaihe ) .,O B-org O O O O O O O O O O O O O O B-tim O O O B-geo O O B-geo O O,DT NNP NN NN VBZ CD NNS VBD VBG IN DT NN IN DT NN JJ NNP LRB IN DT NNP NN IN NNP RRB .
+Only 72 miners have been found alive .,O O O O O O O O,RB CD NNS VBP VBN VBN JJ .
+Eleven remain missing .,O O O O,CD VBP JJ .
+Rescue workers entered the mine shaft to search for survivors after the ventilation systems were restored .,O O O O O O O O O O O O O O O O O,NN NNS VBD DT NN NN TO VB IN NNS IN DT NN NNS VBD VBN .
+The systems had been shut down by the coal dust explosion .,O O O O O O O O O O O O,DT NNS VBD VBN VBN RP IN DT NN NN NN .
+"Chinese news reports say the mine was properly licensed , as part of ( Heilongjiang Longmei Group ) a state-owned mining conglomerate .",B-gpe O O O O O O O O O O O O O B-org I-org I-org O O O O O O,"JJ NN NNS VBP DT NN VBD RB VBN , IN NN IN LRB NNP NNP NNP RRB DT JJ NN NN ."
+China 's mining industry is the world 's most dangerous .,B-org O O O O O O O O O O,NNP POS NN NN VBZ DT NN POS RBS JJ .
+"Many mines devote little attention to safety standards , resulting in frequent cave-ins , explosions , floods and fires .",O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP JJ NN TO NN NNS , VBG IN JJ NNS , NNS , NNS CC NNS ."

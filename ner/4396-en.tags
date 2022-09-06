@@ -1,0 +1,7 @@
+"Taiwan President Chen Shui-bian has resigned as head of his Democratic Progressive Party , after the party and its allies suffered a major defeat in Saturday 's parliamentary election .",O B-per I-per I-per O O O O O O B-org I-org I-org O O O O O O O O O O O O B-tim O O O O,"NNP NNP NNP NNP VBZ VBN IN NN IN PRP$ JJ NNP NNP , IN DT NN CC PRP$ NNS VBD DT JJ NN IN NNP POS JJ NN ."
+"An opposition alliance , led by the Nationalists , won 114 seats in the 225-member chamber .",O O O O O O O O O O O O O O O O O,"DT NN NN , VBN IN DT NNPS , VBD CD NNS IN DT JJ NN ."
+Mr. Chen 's coalition won 101 seats .,B-per I-per O O O O O O,NNP NNP POS NN VBD CD NNS .
+Mr. Chen told reporters,B-per I-per O O,NNP NNP VBD NNS
+Tuesday that he takes full blame for the coalition 's defeat and will leave his party leadership post as a result .,B-tim O O O O O O O O O O O O O O O O O O O O O,NNP IN PRP VBZ JJ NN IN DT NN POS NN CC MD VB PRP$ NN NN NN IN DT NN .
+Observers say the election deals a setback to President Chen 's drive to move Taiwan toward an identity apart from mainland China .,O O O O O O O O B-per I-per O O O O B-geo O O O O O O B-geo O,NNS VBP DT NN VBZ DT NN TO NNP NNP POS NN TO VB NNP IN DT NN RB IN JJ NNP .
+China considers Taiwan a renegade province and has threatened to seize the island by force if it makes moves toward independence .,B-geo O B-geo O O O O O O O O O O O O O O O O O O O,NNP VBZ NNP DT NN NN CC VBZ VBN TO VB DT NN IN NN IN PRP VBZ NNS IN NN .

@@ -1,0 +1,7 @@
+Pope Benedict is urging nuclear-armed nations to get rid of their arsenals .,B-per I-per O O O O O O O O O O O,NNP NNP VBZ VBG JJ NNS TO VB JJ IN PRP$ NNS .
+The pope issued the plea Saturday at the Vatican after Japan 's new ambassador to the Holy See presented his credentials to the pontiff .,O O O O O B-tim O O B-geo O B-geo O O O O O B-org I-org O O O O O O O,DT NN VBD DT NN NNP IN DT NNP IN NNP POS JJ NN TO DT NNP NNP VBD PRP$ NNS TO DT NN .
+Pope Benedict called nuclear weapons a source of tension and mistrust .,B-per I-per O O O O O O O O O O,NNP NNP VBD JJ NNS DT NN IN NN CC NN .
+He said the 65th anniversary of bombings of the Japanese cities of Hiroshima and Nagasaki should serve as a reminder of the horror nuclear weapons can cause .,O O O B-tim O O O O O B-gpe O O B-geo O B-geo O O O O O O O O O O O O O,PRP VBD DT JJ NN IN NNS IN DT JJ NNS IN NNP CC NNP MD VB IN DT NN IN DT NN JJ NNS MD VB .
+"The United States dropped atomic bombs on both cities in August of 1945 , killing more than 200.000 people .",O B-geo I-geo O O O O O O O B-tim I-tim I-tim O O O O O O O,"DT NNP NNPS VBD JJ NNS IN DT NNS IN NNP IN CD , VBG JJR IN CD NNS ."
+"Japan surrendered unconditionally shortly afterwards , ending World War Two .",B-geo O O O O O O O O O O,"NNP VBD RB RB RB , VBG NNP NNP CD ."
+"Pope Benedict praised Japan for setting an example since the bombings , for always trying to find peaceful solutions to conflicts .",B-per I-per O B-geo O O O O O O O O O O O O O O O O O O,"NNP NNP VBD NNP IN VBG DT NN IN DT NNS , IN RB VBG TO VB JJ NNS TO NNS ."

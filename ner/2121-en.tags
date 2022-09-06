@@ -1,0 +1,7 @@
+The world is divided into two groups .,O O O O O O O O,DT NN VBZ VBN IN CD NNS .
+"There are those who know , and those who do n't know .",O O O O O O O O O O O O O,"EX VBP DT WP VBP , CC DT WP VBP RB VB ."
+Those who know are no problem .,O O O O O O O,DT WP VBP VBP DT NN .
+Those who do n't know are also in two groups .,O O O O O O O O O O O,DT WP VBP RB VB VBP RB IN CD NNS .
+One is those who do n't know and know they do n't know .,O O O O O O O O O O O O O O,CD VBZ DT WP VBP RB VB CC VB PRP VBP RB VB .
+"Well , they can learn ! But then , there are those who do n't know , and do n't know they do n't know .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"RB , PRP MD VB . CC RB , EX VBP DT WP VBP RB VB , CC VBP RB VB PRP VBP RB VB ."
+And they become unit managers !,O O O O O O,CC PRP VBP NN NNS .

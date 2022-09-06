@@ -1,0 +1,5 @@
+China 's official Xinhua news agency says a fire in a high-rise apartment building in Shanghai has killed at least 42 people .,B-geo O O B-org O O O O O O O O O O O B-geo O O O O O O O,NNP POS JJ NNP NN NN VBZ DT NN IN DT JJ NN NN IN NNP VBZ VBN IN JJS CD NNS .
+"Earlier , local officials said more than 90 others were injured .",O O O O O O O O O O O O,"RB , JJ NNS VBD JJR IN CD NNS VBD VBN ."
+Xinhua said the 20-story building was being renovated when it caught fire Monday afternoon .,B-org O O O O O O O O O O O B-tim I-tim O,NNP VBD DT JJ NN VBD VBG VBN WRB PRP VBD NN NNP NN .
+"It said the structure is a residential building for teachers , many of whom are retired .",O O O O O O O O O O O O O O O O O,"PRP VBD DT NN VBZ DT JJ NN IN NNS , NN IN WP VBP VBN ."
+"The article said the cause of the fire is not known , but a witness said he saw the blaze spread from a worker 's scaffold to the rest of the building .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD DT NN IN DT NN VBZ RB VBN , CC DT NN VBD PRP VBD DT JJ NN IN DT NN POS NN TO DT NN IN DT NN ."

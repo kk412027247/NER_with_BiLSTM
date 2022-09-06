@@ -1,0 +1,5 @@
+""" ARE the industries of this country in a flourishing condition ? "" asked a Traveller from a Foreign Land of the first man he met in America .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-geo O,LQU VBP DT NNS IN DT NN IN DT JJ NN . RQU VBD DT NN IN DT JJ NN IN DT JJ NN PRP VBD IN NNP .
+""" Splendid ! "" said the Man .",O O O O O O O O,LQU JJ . RQU VBD DT NN .
+""" I have more orders than I can fill . """,O O O O O O O O O O O,LQU PRP VBP JJR NNS IN PRP MD VB . RQU
+""" What is your business ? "" the Traveller from a Foreign Land inquired .",O O O O O O O O O O O O O O O,LQU WP VBZ PRP$ NN . RQU DT NN IN DT NNP NNP VBD .
+"The Man replied , "" I make boxing-gloves for the tongues of pugilists . """,O O O O O O O O O O O O O O O,"DT NN VBD , LQU PRP VBP NNS IN DT NNS IN NNS . RQU"

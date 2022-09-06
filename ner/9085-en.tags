@@ -1,0 +1,3 @@
+"Phosphate mining had been the only significant economic activity , but in December 1987 the Australian government closed the mine .",O O O O O O O O O O O O B-tim I-tim O B-gpe O O O O O,"NNP NN VBD VBN DT JJ JJ JJ NN , CC IN NNP CD DT JJ NN VBD DT NN ."
+"In 1991 , the mine was reopened .",O B-tim O O O O O O,"IN CD , DT NN VBD VBN ."
+"With the support of the government , a $ 34 million casino opened in 1993 , but closed in 1998 .",O O O O O O O O O O O O O O B-tim O O O O B-tim O,"IN DT NN IN DT NN , DT $ CD CD NN VBD IN CD , CC VBD IN CD ."

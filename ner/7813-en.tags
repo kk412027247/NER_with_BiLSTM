@@ -1,0 +1,9 @@
+Iranian President Mahmoud Ahmadinejad has officially welcomed his Venezuelan counterpart to Tehran .,B-gpe B-per I-per I-per O O O O B-gpe O O B-geo O,JJ NNP NNP NNP VBZ RB VBN PRP$ JJ NN TO NNP .
+"Speaking at a reception at the presidential palace Saturday , Mr. Ahmadinejad said Hugo Chavez is very popular in Iran for his revolutionary views .",O O O O O O O O B-tim O B-per B-org O B-per I-per O O O O B-geo O O O O O,"VBG IN DT NN IN DT JJ NN NNP , NNP NNP VBD NNP NNP VBZ RB JJ IN NNP IN PRP$ JJ NNS ."
+The leaders are expected to discuss bilateral issues and to sign energy deals during the two-day visit .,O O O O O O O O O O O O O O O O O O,DT NNS VBP VBN TO VB JJ NNS CC TO VB NN NNS IN DT JJ NN .
+"Mr. Chavez is on a two-week world tour , leading a delegation that includes Oil Minister Rafael Ramirez .",B-per I-per O O O O O O O O O O O O O O B-per I-per O,"NNP NNP VBZ IN DT JJ NN NN , VBG DT NN WDT VBZ NNP NNP NNP NNP ."
+"The delegation was scheduled to arrive in Tehran Friday , and no reason was given for the one-day delay .",O O O O O O O B-geo B-tim O O O O O O O O B-tim O O,"DT NN VBD VBN TO VB IN NNP NNP , CC DT NN VBD VBN IN DT JJ NN ."
+Saturday 's visit marks the Venezuelan leader 's fifth trip to Iran as president .,B-tim O O O O B-gpe O O O O O B-geo O O O,NNP POS NN VBZ DT JJ NN POS JJ NN TO NNP IN NN .
+"Mr. Chavez was in Moscow Thursday , where he sealed a deal to buy Russian fighter jets and helicopters .",B-per I-per O O B-tim I-tim O O O O O O O O B-gpe O O O O O,"NNP NNP VBD IN NNP NNP , WRB PRP VBD DT NN TO VB JJ NN NNS CC NNS ."
+The head of Russia 's state arms export agency says the contracts are worth more than $ 3 billion .,O O O B-geo O O O O O O O O O O O O O O O O,DT NN IN NNP POS NN NNS NN NN VBZ DT NNS VBP JJ JJR IN $ CD CD .
+The United States has banned arms sales to Venezuela .,O B-geo I-geo O O O O O B-geo O,DT NNP NNP VBZ VBN NNS NNS TO NNP .

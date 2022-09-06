@@ -1,0 +1,4 @@
+"A well-known journalist in Gambia has been shot and killed in the capital , Banjul .",O O O O B-geo O O O O O O O O O B-geo O,"DT JJ NN IN NNP VBZ VBN VBN CC VBN IN DT NN , NNP ."
+Colleagues and family members say newspaper editor and news-agency correspondent Deyda Hydara died at the spot where he was gunned down after leaving work late Thursday .,O O O O O O O O O O B-per I-per O O O O O O O O O O O O O B-tim O,NNS CC NN NNS VBP NN NN CC NN NN NNP NNP VBD IN DT NN WRB PRP VBD VBN RP IN VBG NN RB NNP .
+No attacker was identified .,O O O O O,DT NN VBD VBN .
+"Mr. Hydara was an editor for the newspaper The Point and a correspondent for the French news agency , AFP .",B-per I-per O O O O O O O O O O O O O B-gpe O O O O O,"NNP NNP VBD DT NN IN DT NN DT NN CC DT NN IN DT JJ NN NN , NNP ."

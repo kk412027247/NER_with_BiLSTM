@@ -1,0 +1,4 @@
+"Police in Kyrgyzstan say unknown gunmen have shot dead a leading parliamentarian in the capital , Bishkek .",O O B-geo O O O O O O O O O O O O O B-geo O,"NNS IN NNP VBP JJ NNS VBP VBN RB DT VBG NN IN DT NN , NNP ."
+"Authorities named the victim as Zhirgalbek Surabaldiyev , but gave no other details .",O O O O O B-org I-org O O O O O O O,"NNS VBD DT NN IN NNP NNP , CC VBD DT JJ NNS ."
+The motive for the shooting and the identity of the attackers were not immediately clear .,O O O O O O O O O O O O O O O O,DT NN IN DT NN CC DT NN IN DT NNS VBD RB RB JJ .
+Kyrgyzstan has been wracked by political turmoil for months following a disputed parliamentary poll in February and March that sparked protests and led to the ousting of President Askar Akayev .,B-geo O O O O O O O O O O O O O O B-tim O B-tim O O O O O O O O O B-per I-per I-per O,NNP VBZ VBN VBN IN JJ NN IN NNS VBG DT JJ JJ NN IN NNP CC NNP WDT VBD NNS CC VBD TO DT NN IN NNP NNP NNP .

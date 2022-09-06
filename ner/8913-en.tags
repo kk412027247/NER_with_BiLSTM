@@ -1,0 +1,7 @@
+"A convoy of dozens of trucks transporting a massive oil drilling machine arrived Friday at the site of the San Jose gold and copper mine in Chile , where 33 miners are trapped .",O O O O O O O O O O O O O B-tim O O O O O B-geo I-geo O O O O O B-geo O O O O O O O,"DT NN IN NNS IN NNS VBG DT JJ NN NN NN VBD NNP IN DT NN IN DT NNP NNP NN CC NN NN IN NNP , WRB CD NNS VBP VBN ."
+"The drill is the third one being employed to try to rescue the miners , who have now been underground for 36 days .",O O O O O O O O O O O O O O O O O O O O O B-tim O O,"DT NN VBZ DT JJ CD VBG VBN TO VB TO VB DT NNS , WP VBP RB VBN JJ IN CD NNS ."
+"It has been labeled "" Plan C "" and it is hoped that it will speed the rescue effort .",O O O O O O O O O O O O O O O O O O O O,PRP VBZ VBN VBN LQU NNP NNP LQU CC PRP VBZ VBN IN PRP MD VB DT NN NN .
+"However , freedom for the trapped miners is likely to still be months away .",O O O O O O O O O O O O O O O,"RB , NN IN DT JJ NNS VBZ JJ TO RB VB NNS RB ."
+The 33 men were trapped by a mine cave-in on August 5 .,O O O O O O O O O O B-tim I-tim O,DT CD NNS VBD VBN IN DT NN NN IN NNP CD .
+But it was not until August 22 that they were discovered alive .,O O O O O B-tim I-tim O O O O O O,CC PRP VBD RB IN NNP CD IN PRP VBD VBN JJ .
+"Rescuers have been sending food , medicine and relatives ' letters through a chute to where the miners are located , 700 meters below the surface .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP VBN VBG NN , NN CC NNS POS NNS IN DT NN IN WRB DT NNS VBP VBN , CD NNS IN DT NN ."

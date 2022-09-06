@@ -1,0 +1,6 @@
+Pakistan 's military says it has successfully test-fired a short-range nuclear-capable missile .,B-geo O O O O O O O O O O O O,NNP POS JJ VBZ PRP VBZ RB VBN DT JJ JJ NN .
+"Officials say the ( Abdali ) surface-to-surface ballistic missile , with a range of 200 kilometers , was launched Saturday from an undisclosed location inside Pakistan .",O O O O B-org O O O O O O O O O O O O O O B-tim O O O O O B-geo O,"NNS VBP DT LRB NNP RRB JJ JJ NN , IN DT NN IN CD NNS , VBD VBN NNP IN DT JJ NN IN NNP ."
+It is the country 's second missile test this month .,O O O O O O O O O O O,PRP VBZ DT NN POS JJ NN NN DT NN .
+"The launch comes one day after Pakistan 's rival , India , test-fired a nuclear-capable ballistic missile from a ship off its east coast in the Bay of Bengal .",O O O O O O B-geo O O O B-geo O O O O O O O O O O O O O O B-geo I-geo I-geo I-geo O,"DT NN VBZ CD NN IN NNP POS NN , NNP , VBD DT JJ JJ NN IN DT NN IN PRP$ JJ NN IN DT NNP IN NNP ."
+Pakistan and India often conduct such tests to demonstrate their defensive readiness .,B-geo O B-geo O O O O O O O O O O,NNP CC NNP RB VBP JJ NNS TO VB PRP$ JJ NN .
+The two rivals normally give each other notice for long-range missile launches .,O O O O O O O O O O O O O,DT CD NNS RB VBP DT JJ NN IN JJ NN NNS .

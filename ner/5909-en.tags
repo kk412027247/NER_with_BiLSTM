@@ -1,0 +1,6 @@
+India 's Tata Motors is expected to unveil the world 's cheapest car on Thursday .,B-org I-org I-org I-org O O O O O O O O O O B-tim O,NNP POS NNP NNPS VBZ VBN TO VB DT NN POS JJS NN IN NNP .
+"The new vehicle is expected to cost about $ 2,500 .",O O O O O O O O O O O,DT JJ NN VBZ VBN TO VB IN $ CD .
+"A news report says the company worked to keep costs down by keeping the vehicle small , light and as simple as possible .",O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN NN VBZ DT NN VBD TO VB NNS RB IN VBG DT NN JJ , JJ CC RB JJ IN JJ ."
+"The report says the car has one windshield wiper instead of two , and no frills such as radios or power steering .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ DT NN VBZ CD NN NN IN IN CD , CC DT NNS JJ IN NNS CC NN NN ."
+Much of the vehicle is expected to be made of plastic .,O O O O O O O O O O O O,NN IN DT NN VBZ VBN TO VB VBN IN NN .
+"Only about eight Indians out of every 1,000 now own a car , so there may be a large market for the vehicle in the nation 's fast-growing economy .",O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O O,"RB IN CD NNS IN IN DT CD RB VBP DT NN , RB EX MD VB DT JJ NN IN DT NN IN DT NN POS JJ NN ."

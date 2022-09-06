@@ -1,0 +1,7 @@
+"PepsiCo , the U.S. company that markets Pepsi and other beverages , has selected a woman born in India to be its next chief executive officer .",B-org O O B-geo O O O B-art O O O O O O O O O O B-geo O O O O O O O O,"NNP , DT NNP NN WDT VBZ NNP CC JJ NNS , VBZ VBN DT NN VBN IN NNP TO VB PRP$ JJ JJ NN NN ."
+"Indra Nooyi will assume control of the company on Oct. 1 , PepsiCo announced Monday .",B-per I-per O O O O O O O B-tim I-tim O B-org O B-tim O,"NNP NNP MD VB NN IN DT NN IN NNP CD , NNP VBD NNP ."
+Nooyi was born in Madras and earned her undergraduate and master 's degrees in India .,B-per O O O B-geo O O O O O O O O O B-geo O,NNP VBD VBN IN NNP CC VBD PRP$ NN CC NN POS NNS IN NNP .
+She is also a graduate of the Yale School of Management in the United States .,O O O O O O O B-org I-org I-org I-org O O B-geo I-geo O,PRP VBZ RB DT NN IN DT NNP NNP IN NNP IN DT NNP NNPS .
+The business magazine Forbes included Nooyi in a list of the 100 most powerful women in the United States last year .,O O O B-art O B-per O O O O O O O O O O O B-geo I-geo O O O,DT NN NN NNP VBD NNP IN DT NN IN DT CD RBS JJ NNS IN DT NNP NNPS JJ NN .
+"She has worked for PepsiCo for the past 12 years , most recently as the company 's chief financial officer .",O O O O B-org I-org O B-tim I-tim O O O O O O O O O O O O,"PRP VBZ VBN IN NNP IN DT JJ CD NNS , RBS RB IN DT NN POS JJ JJ NN ."
+The value of the company 's stock rose slightly after her promotion was announced .,O O O O O O O O O O O O O O O,DT NN IN DT NN POS NN VBD RB IN PRP$ NN VBD VBN .

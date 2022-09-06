@@ -1,0 +1,4 @@
+"According to the World Bank , 300 million people in China - a number roughly equal to the population of the United States - live on less than a dollar a day .",O O O B-org I-org O O O O O B-geo O O O O O O O O O O B-geo I-geo O O O O O O O O B-tim O,"VBG TO DT NNP NNP , CD CD NNS IN NNP IN DT NN RB JJ TO DT NN IN DT NNP NNPS : VBP IN JJR IN DT NN DT NN ."
+"As China 's government works to control record high inflation , the country 's poor are struggling to put food on the table .",O B-geo O O O O O O O O O O O O O O O O O O O O O O,"IN NNP POS NN VBZ TO VB JJ JJ NN , DT NN POS NN VBP VBG TO VB NN IN DT NN ."
+"And the recent earthquake , officials say , is likely to fuel even higher inflation because of the damage to the country 's agriculture .",O O O O O O O O O O O O O O O O O O O O O O O O O,"CC DT JJ NN , NNS VBP , VBZ JJ TO VB RB JJR NN IN IN DT NN TO DT NN POS NN ."
+Sam Beattie reports from Beijing .,B-per I-per O O B-geo O,NNP NNP VBZ IN NNP .

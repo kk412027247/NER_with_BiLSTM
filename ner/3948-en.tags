@@ -1,0 +1,8 @@
+The West Indies cricket team has scored 281-4 by the close of play on the first day of its first test match against South Africa at St. George 's Park in Port Elizabeth .,O B-org I-org O O O O O O O O O O O O O O O O O O O O B-geo I-geo O B-geo I-geo O B-geo O B-geo I-geo O,DT NNP NNP NN NN VBZ VBN CD IN DT NN IN NN IN DT JJ NN IN PRP$ JJ NN NN IN NNP NNP IN NNP NNP POS NNP IN NNP NNP .
+Marlon Samuels led the visitors with 94 runs while captain Chris Gayle scored 66 runs on the easy-paced pitch .,B-per I-per O O O O O O O O B-per I-per O O O O O O O O,NNP NNP VBD DT NNS IN CD NNS IN JJ NNP NNP VBD CD NNS IN DT JJ NN .
+"Gayle , the opening batsman , had 13 fours and scored his runs off 49 balls in his first innings since injuring a right leg muscle against Zimbabwe nearly a month ago .",B-per O O O O O O O O O O O O O O O O O O O O O O O O O O B-geo O O O O O,"NNP , DT NN NN , VBD CD NNS CC VBD PRP$ NNS IN CD NNS IN PRP$ JJ NN IN VBG DT JJ NN NN IN NNP RB DT NN RB ."
+"Samuels scored his runs in 267 minutes , facing 195 balls with 12 fours .",B-per O O O O B-tim O O O O O O O O O,"NNP VBD PRP$ NNS IN CD NNS , VBG CD NNS IN CD NNS ."
+Bad light forced play to close six overs early .,O O O O O O O O O O,JJ NN VBD NN TO VB CD NNS RB .
+The two sides will play three tests and five one-day internationals during the Caribbean squad 's tour .,O O O O O O O O O B-tim O O O B-geo O O O O,DT CD NNS MD VB CD NNS CC CD JJ NNS IN DT NNP NN POS NN .
+The second test starts in Cape Town January second .,O O O O O B-geo I-geo B-tim I-tim O,DT JJ NN VBZ IN NNP NNP NNP NN .
+The third test begins January 10th in Durban .,O O O O B-tim I-tim O B-geo O,DT JJ NN VBZ NNP CD IN NNP .

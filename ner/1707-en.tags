@@ -1,0 +1,5 @@
+Doctors have developed a new device to measure cancer cells that break off from lung tumors and travel through the blood .,O O O O O O O O O O O O O O O O O O O O O O,NNS VBP VBN DT JJ NN TO VB NN NNS WDT VBP RP IN NN NNS CC NN IN DT NN .
+It can also determine when the cancer cells become resistant to drug treatments .,O O O O O O O O O O O O O O,PRP MD RB VB WRB DT NN NNS VBP JJ TO NN NNS .
+The technology was developed at Massachusetts General Hospital in Boston .,O O O O O B-org I-org I-org O B-geo O,DT NN VBD VBN IN NNP NNP NNP IN NNP .
+A clinical trial using the device was published in the New England Journal of Medicine .,O O O O O O O O O O B-org I-org I-org I-org I-org O,DT JJ NN VBG DT NN VBD VBN IN DT NNP NNP NNP IN NNP .
+VOA 's Deborah Block has more .,B-org O B-geo I-geo O O O,NNP POS NNP NNP VBZ RBR .

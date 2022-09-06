@@ -1,0 +1,6 @@
+British Prime Minister Tony Blair says authorities are investigating allegations that British troops abused civilians in Iraq .,B-gpe B-per I-per I-per I-per O O O O O O B-gpe O O O O B-geo O,JJ NNP NNP NNP NNP VBZ NNS VBP VBG NNS IN JJ NNS VBD NNS IN NNP .
+Mr. Blair says he takes any such allegations very seriously .,B-per I-per O O O O O O O O O,NNP NNP VBZ PRP VBZ DT JJ NNS RB RB .
+He spoke Sunday after television stations aired footage that appeared to show British soldiers beating teenage Iraqis .,O O B-tim O O O O O O O O O B-gpe O O O B-gpe O,PRP VBD NNP IN NN NNS VBD NN WDT VBD TO VB JJ NNS VBG NN NNS .
+The video was released by Britain 's News of the World newspaper after it published photographs of the incident .,O O O O O B-geo O O O O O O O O O O O O O O,DT NN VBD VBN IN NNP POS NN IN DT NNP NN IN PRP VBD NNS IN DT NN .
+The tabloid says the footage was shot in southern Iraq in 2004 .,O O O O O O O O B-geo I-geo O B-tim O,DT NN VBZ DT NN VBD VBN IN JJ NNP IN CD .
+Mr. Blair added that the overwhelming majority of British soldiers in Iraq and elsewhere behave properly and are doing a great job .,B-per I-per O O O O O O B-gpe O O B-geo O O O O O O O O O O O,NNP NNP VBD IN DT JJ NN IN JJ NNS IN NNP CC RB VB RB CC VBP VBG DT JJ NN .

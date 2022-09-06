@@ -1,0 +1,4 @@
+Jane Fonda reportedly scolded her co-star Lindsay Lohan about her antics on the set of their film Georgia Rules .,B-per I-per O O O O B-per I-per O O O O O O O O O B-org I-org O,NNP NNP RB VBD PRP$ NN NNP NNP IN PRP$ NNS IN DT NN IN PRP$ NN NNP NNP .
+The veteran star is said to have sent Lohan a note taking her to task for widely-publicized bad behavior .,O O O O O O O O B-per O O O O O O O O O O O,DT NN NN VBZ VBN TO VB VBN NNP DT NN VBG PRP TO NN IN JJ JJ NN .
+Fonda 's publicist denies reports that Lindsay Lohan is not welcome at the film 's May 7 premiere .,B-per O O O O O B-per I-per O O O O O O O B-tim I-tim O O,NNP POS NN VBZ NNS IN NNP NNP VBZ RB JJ IN DT NN POS NNP CD NN .
+"Held in Atlanta , Georgia , it will benefit the non-profit organization G-CAPP , which Jane Fonda co-chairs .",O O B-geo O B-geo O O O O O O O B-org O O B-per I-per O O,"NNP IN NNP , NNP , PRP MD VB DT JJ NN NNP , WDT NNP NNP VBZ ."

@@ -1,0 +1,8 @@
+The U.S. government is spending more money than it is taking in - at an unprecedented level .,O B-geo O O O O O O O O O O O O O O O O,DT NNP NN VBZ VBG JJR NN IN PRP VBZ VBG RP : IN DT JJ NN .
+The Treasury Department said Monday the federal budget deficit has exceeded $ 1 trillion for the first time .,O B-org I-org O B-tim O O O O O O O O O O O O B-tim O,DT NNP NNP VBD NNP DT JJ NN NN VBZ VBN $ CD CD IN DT JJ NN .
+"In the midst of a severe recession , Washington is spending billions on programs to stimulate the economy .",O O O O O O O O B-geo O O O O O O O O O O,"IN DT NN IN DT JJ NN , NNP VBZ VBG NNS IN NNS TO VB DT NN ."
+"At the same time , tax receipts have slowed because of the downturn .",O O O O O O O O O O O O O O,"IN DT JJ NN , NN NNS VBP VBN IN IN DT NN ."
+The wars in Iraq and Afghanistan are also drawing down the government 's purse .,O O O B-geo O B-geo O O O O O O O O O,DT NNS IN NNP CC NNP VBP RB VBG RP DT NN POS NN .
+The Treasury released new numbers that put the deficit for the month of June at more than $ 94 billion .,O B-org O O O O O O O O O O B-tim I-tim O O O O O O O,DT NNP VBD JJ NNS WDT VBP DT NN IN DT NN IN NNP IN JJR IN $ CD CD .
+"At nine months into the fiscal year , that pushes the total above $ 1 trillion .",O O O O O B-tim O O O O O O O O O O O,"IN CD NNS IN DT JJ NN , IN VBZ DT NN IN $ CD CD ."
+"Economists say with the government owing that much money , they worry about rising interest rates and inflation .",O O O O O O O O O O O O O O O O O O O,"NNS VBP IN DT NN VBG IN JJ NN , PRP VBP IN VBG NN NNS CC NN ."

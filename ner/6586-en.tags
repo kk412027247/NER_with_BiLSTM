@@ -1,0 +1,8 @@
+Barcelona of Spain and the English football club Arsenal face each other later Wednesday near Paris in the final of the European Champions League tournament .,B-org B-geo I-geo O O B-gpe O O B-org O O O B-tim I-tim O B-geo O O O O O B-org I-org I-org O O,NNP IN NNP CC DT JJ NN NN NNP VBP DT NN RB NNP IN NNP IN DT JJ IN DT JJ NNP NNP NN .
+Arsenal is hoping to become the sixth different British team to win the tournament .,B-org O O O O O O O B-gpe O O O O O O,NNP VBZ VBG TO VB DT JJ JJ JJ NN TO VB DT NN .
+The title also would give England a record 11th overall championship title .,O O O O O B-geo O O B-tim O O O O,DT NN RB MD VB NNP DT NN JJ JJ NN NN .
+Glasgow Celtic of Scotland was the first British club to win the European Cup in 1967 .,B-org I-org O B-geo O O O B-gpe O O O O B-org I-org O B-tim O,NNP NNP IN NNP VBD DT JJ JJ NN TO VB DT JJ NNP IN CD .
+"Liverpool has since won five titles , Manchester United and Nottingham Forest two each and Aston Villa one .",B-org O O O O O O B-org I-org O B-org I-org O O O B-per I-per O O,"NNP VBZ IN VBN CD NNS , NNP NNP CC NNP NNP CD DT CC NNP NNP CD ."
+Barcelona and Real Madrid are the only Spanish clubs to win European Cups .,B-org O B-org I-org O O O B-gpe O O O B-org I-org O,NNP CC NNP NNP VBP DT RB JJ NNS TO VB JJ NNS .
+"But Madrid has a record of nine titles , while Barcelona won its only title in 1992 .",O B-org O O O O O O O O B-geo O O O O O B-tim O,"CC NNP VBZ DT NN IN CD NNS , IN NNP VBD PRP$ JJ NN IN CD ."
+"The championship game is at the Stade de France in St. Denis , just north of Paris .",O O O O O O B-org I-org I-org O B-geo I-geo O O O O B-geo O,"DT NN NN VBZ IN DT NNP NNP NNP IN NNP NNP , RB NN IN NNP ."

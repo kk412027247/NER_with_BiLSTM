@@ -1,0 +1,8 @@
+"A leading figure in Latin jazz music , Ray Barretto , has died .",O O O O O O O O B-per I-per O O O O,"DT VBG NN IN JJ NN NN , NNP NNP , VBZ VBN ."
+"The Grammy-winning percussionist , known as "" Hard Hands "" for his work on the conga drums , died Friday in the northeastern U.S. state of New Jersey .",O O O O O O O O O O O O O O O O O O O B-tim O O O B-geo O O B-geo I-geo O,"DT JJ NN , VBN IN RQU NNP NNPS LQU IN PRP$ NN IN DT NN NNS , VBD NNP IN DT JJ NNP NN IN NNP NNP ."
+He was 76 .,O O O O,PRP VBD CD .
+"His family did not give a cause of death , but he underwent heart bypass surgery earlier this year .",O O O O O O O O O O O O O O O O O O O O,"PRP$ NN VBD RB VB DT NN IN NN , CC PRP VBD NN NN NN RBR DT NN ."
+Barretto was raised in the United States by Puerto Rican immigrants .,B-per O O O O B-geo I-geo O B-geo B-gpe O O,NNP VBD VBN IN DT NNP NNPS IN NNP JJ NNS .
+"In a career that spanned more than four decades , Barretto played with such jazz greats as Dizzy Gillespie and Tito Puente .",O O O O O O O O O O B-per O O O O O O B-per I-per O B-per I-per O,"IN DT NN WDT VBD JJR IN CD NNS , NNP VBD IN JJ NN NNS IN JJ NNP CC NNP NNP ."
+"He won a Grammy with Cuban salsa singer Celia Cruz in 1990 , for a single called Rhythm in the Heart .",O O O O O B-gpe O O B-per I-per O B-tim O O O O O O O O B-geo O,"PRP VBD DT NN IN JJ NN NN NNP NNP IN CD , IN DT JJ VBN NN IN DT NNP ."
+"His latest album , Time Was - Time Is , was nominated for a Grammy this year for Best Latin Jazz Album .",O O O O B-art I-art I-art I-art I-art O O O O O B-tim O O O O O O O O,"PRP$ JJS NN , NNP NNP NNP NNP NNP , VBD VBN IN DT NNP DT NN IN NNP NNP NNP NNP ."

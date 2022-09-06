@@ -1,0 +1,9 @@
+Polls have closed in Zimbabwe where parliamentary elections were conducted smoothly and without the kind of violence that has marred previous elections .,O O O O B-geo O O O O O O O O O O O O O O O O O O,NNS VBP VBN IN NNP WRB JJ NNS VBD VBN RB CC IN DT NN IN NN WDT VBZ VBN JJ NNS .
+"Turnout was reported to be high , with long lines at polling stations across the country .",O O O O O O O O O O O O O O O O O,"NN VBD VBN TO VB JJ , IN JJ NNS IN VBG NNS IN DT NN ."
+"After casting his ballot , President Robert Mugabe said he was confident his ruling ZANU-PF party would win an overwhelming victory .",O O O O O B-per I-per I-per O O O O O O O O O O O O O O,"IN VBG PRP$ NN , NNP NNP NNP VBD PRP VBD JJ PRP$ NN NNP NN MD VB DT JJ NN ."
+Morgan Tsvangirai the leader of the Movement for Democratic Change casts his vote Opposition leader Morgan Tsvangirai said he believed Zimbabweans want change .,B-per I-per O O O O B-org I-org I-org I-org O O O O O B-per I-per O O O B-gpe O O O,NNP NNP DT NN IN DT NN IN JJ NNP VBZ PRP$ NN NN NN NNP NNP VBD PRP VBD NNS VBP NN .
+"He called the election fundamentally unfair , accusing the ruling party of using repressive policies to guarantee victory .",O O O O O O O O O O O O O O O O O O O,"PRP VBD DT NN RB JJ , VBG DT VBG NN IN VBG JJ NNS TO VB NN ."
+Vote counting is expected to begin immediately .,O O O O O O O O,JJ NN VBZ VBN TO VB RB .
+120 parliamentary seats are at stake in the election .,O O O O O O O O O O,CD JJ NNS VBP IN NN IN DT NN .
+"In another development , a police spokesman says two British journalists were arrested in the town of Norton while interviewing voters .",O O O O O O O O O B-gpe O O O O O O O B-geo O O O O,"IN DT NN , DT NN NN VBZ CD JJ NNS VBD VBN IN DT NN IN NNP IN VBG NNS ."
+They are accused of covering the election without proper accreditation as required by Zimbabwe law .,O O O O O O O O O O O O O B-geo O O,PRP VBP VBN IN VBG DT NN IN JJ NN IN VBN IN NNP NN .

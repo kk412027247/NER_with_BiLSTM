@@ -1,0 +1,5 @@
+Burma 's detained opposition leader Aung San Suu Kyi is to be honored later Monday for her efforts to promote democracy in her homeland .,B-org O O O O B-per I-per I-per I-per O O O O O B-tim O O O O O O O O O O,NNP POS JJ NN NN NNP NNP NNP NNP VBZ TO VB VBN RB NNP IN PRP$ NNS TO VB NN IN PRP$ NN .
+Aung San Suu Kyi and 19 other women will receive the Buddhism Prize for Women from the United Nations .,B-per I-per I-per I-per O O O O O O O B-art I-art I-art I-art O O B-org I-org O,NNP NNP NNP NNP CC CD JJ NNS MD VB DT NNP NNP IN NNP IN DT NNP NNPS .
+The awards will be presented in Bangkok by Swiss Ambassador to Thailand Hans-Peter Erismann .,O O O O O O B-geo O B-gpe O O B-geo I-geo I-geo O,DT NNS MD VB VBN IN NNP IN JJ NNP TO NNP NNP NNP .
+The awards are being given in observance of International Women 's Day Tuesday .,O O O O O O O O B-eve I-eve O B-eve B-tim O,DT NNS VBP VBG VBN IN NN IN NNP NNP POS NNP NNP .
+Aung San Suu Kyi remains under house arrest in Rangoon .,B-per I-per I-per I-per O O O O O B-geo O,NNP NNP NNP NNP VBZ IN NN NN IN NNP .

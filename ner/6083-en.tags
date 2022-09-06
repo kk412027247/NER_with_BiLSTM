@@ -1,0 +1,6 @@
+"Authorities in Indian Kashmir say monsoon rains have caused a house to collapse south of Srinagar , killing six members of a family .",O O B-gpe B-geo O O O O O O O O O O O B-geo O O O O O O O O,"NNS IN JJ NNP VBP NN NNS VBP VBN DT NN TO VB NN IN NNP , VBG CD NNS IN DT NN ."
+One person was rescued from the debris .,O O O O O O O O,CD NN VBD VBN IN DT NN .
+"Local officials say heavy rains also forced authorities to close the Himalayan region 's main highways , leaving thousands of motorists stranded .",O O O O O O O O O O O B-geo O O O O O O O O O O O,"JJ NNS VBP JJ NNS RB VBD NNS TO VB DT NNP NN POS JJ NNS , VBG NNS IN NNS VBN ."
+Military units are on standby for flood relief operations .,O O O O O O O O O O,JJ NNS VBP IN NN IN NN NN NNS .
+"Monsoon rains sweep through South Asia every year from June to September , killing hundreds of people .",O O O O B-geo I-geo O O O B-tim O B-tim O O O O O O,"NN VBZ NN IN NNP NNP DT NN IN NNP TO NNP , VBG NNS IN NNS ."
+"They bring misery to millions of people , but are also crucial for the farm-dependent economies .",O O O O O O O O O O O O O O O O O,"PRP VBP NN TO NNS IN NNS , CC VBP RB JJ IN DT JJ NNS ."

@@ -1,0 +1,8 @@
+Ukraine 's Central Election Commission has officially declared opposition leader Viktor Yushchenko the winner of the December 26 runoff presidential election .,B-geo O B-org I-org I-org O O O O O B-per I-per O O O O B-tim I-tim O O O O,NNP POS NNP NNP NNP VBZ RB VBN NN NN NNP NNP DT NN IN DT NNP CD NN JJ NN .
+"The final results announced late Monday give Mr. Yushchenko 51 percent of the vote , while former pro-Russian Prime Minister Viktor Yanukovych received 44 percent .",O O O O O B-tim O B-per B-org O O O O O O O O O B-per I-per I-per I-per O O O O,"DT JJ NNS VBN JJ NNP VBP NNP NNP CD NN IN DT NN , IN JJ JJ NNP NNP NNP NNP VBD CD NN ."
+Election officials had been waiting until Mr. Yanukovych exhausted his appeals to the Supreme Court before officially declaring a winner .,B-org O O O O O B-per B-org O O O O O B-org I-org O O O O O O,NNP NNS VBD VBN VBG IN NNP NNP VBD PRP$ NNS TO DT NNP NNP IN RB VBG DT NN .
+The former prime minister filed a number of complaints to the high court alleging massive fraud .,O O B-per O O O O O O O O O O O O O O,DT JJ JJ NN VBD DT NN IN NNS TO DT JJ NN VBG JJ NN .
+They were all dismissed by the court .,O O O O O O O O,PRP VBD DT VBN IN DT NN .
+Aides to Mr. Yanukovych say they will keep up their legal fight .,O O B-per B-org O O O O O O O O O,NNS TO NNP NNP VBP PRP MD VB RP PRP$ JJ NN .
+The supreme court ordered the December 26 runoff after throwing out a November vote it said was rigged in favor of Mr. Yanukovych .,O O O O O B-tim I-tim O O O O O B-tim O O O O O O O O B-per B-org O,DT NN NN VBD DT NNP CD NN IN VBG RP DT NNP NN PRP VBD VBD VBN IN NN IN NNP NNP .
+Mr. Yushchenko may take the oath of office as early as this week .,B-per B-org O O O O O O O O O O O O,NNP NNP MD VB DT NN IN NN RB RB IN DT NN .

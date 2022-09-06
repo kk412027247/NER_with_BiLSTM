@@ -1,0 +1,9 @@
+Iran 's newly elected President Mahmoud Ahmadinejad,B-geo O O O B-per I-per I-per,NNP POS RB VBN NNP NNP NNP
+Aides to Iranian President-elect Mahmoud Ahmadinejad have again rejected accusations that he was involved in the 1979 seizure of the American embassy in Tehran .,O O B-gpe O B-per I-per O O O O O O O O O O B-tim O O O B-gpe O O B-geo O,NNS TO JJ NNP NNP NNP VBP RB VBN NNS IN PRP VBD VBN IN DT CD NN IN DT JJ NN IN NNP .
+One senior campaign advisor said Saturday that photographs of a hostage-taker purported to be a young Mr. Ahmadinejad actually show someone else .,O O O O O B-tim O O O O O O O O O O B-per B-org O O O O O,CD JJ NN NN VBD NNP IN NNS IN DT NN VBN TO VB DT JJ NNP NNP RB VBP DT RB .
+Some of the hostage-takers also have denied that he played any role in the siege .,O O O O O O O O O O O O O O O O,DT IN DT NNS RB VBP VBN IN PRP VBD DT NN IN DT NN .
+And other aides to the president-elect have added to the denials .,O O O O O O O O O O O O,CC JJ NNS TO DT NN VBP VBN TO DT NNS .
+The White House says it is looking into allegations linking the Iranian president-elect to the crisis that lasted 444 days .,O B-org I-org O O O O O O O O B-gpe O O O O O O O O O,DT NNP NNP VBZ PRP VBZ VBG IN NNS VBG DT JJ NN TO DT NN WDT VBD CD NNS .
+Another accusation against Mr. Ahmadinejad has surfaced in Europe .,O O O B-per B-org O O O B-geo O,DT NN IN NNP NNP VBZ VBN IN NNP .
+An Austrian political figure contends that the Iranian president-elect was involved in the 1989 slaying in Vienna of a Kurdish opposition leader .,O B-gpe O O O O O B-gpe O O O O O B-tim O O B-geo O O O O O O,DT JJ JJ NN VBZ IN DT JJ NN VBD VBN IN DT CD NN IN NNP IN DT JJ NN NN .
+Aides to Mr. Ahmadinejad said the latest accusation is not worth comment .,O O B-per B-org O O O O O O O O O,NNS TO NNP NNP VBD DT JJS NN VBZ RB JJ NN .

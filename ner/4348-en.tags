@@ -1,0 +1,10 @@
+Authorities in Niger have detained a local journalist they say is linked to Tuareg rebels in the northern part of the country .,O O B-gpe O O O O O O O O O O B-geo O O O O O O O O O,NNS IN NNP VBP VBN DT JJ NN PRP VBP VBZ VBN TO NNP NNS IN DT JJ NN IN DT NN .
+"Moussa Kaka , a reporter for Radio France International , has been held since Thursday .",B-per I-per O O O O B-org I-org I-org O O O O B-tim I-tim O,"NNP NNP , DT NN IN NNP NNP NNP , VBZ VBN VBN IN NNP ."
+"He is accused of what authorities call "" conniving "" with the rebel Niger Movement for Justice .",O O O O O O O O O O O O O B-gpe B-org I-org I-org O,PRP VBZ VBN IN WP NNS VBP LQU VBG RQU IN DT NN NNP NNP IN NNP .
+The rebel group has captured about 40 soldiers during raids in northern Niger this year .,O O O O O O O O O O O O B-gpe O O O,DT NN NN VBZ VBN IN CD NNS IN NNS IN JJ NNP DT NN .
+Another 40 government troops have been killed in rebel attacks .,O O O O O O O O O O O,DT CD NN NNS VBP VBN VBN IN NN NNS .
+Tuareg rebels have been demanding a larger share of royalties from uranium mining in the northeast .,B-geo O O O O O O O O O O O O O O O O,NNP NNS VBP VBN VBG DT JJR NN IN NNS IN NN NN IN DT NN .
+The government dismisses the rebels as bandits and drug traffickers .,O O O O O O O O O O O,DT NN VBZ DT NNS IN NNS CC NN NNS .
+"Niger temporarily suspended local Radio France FM broadcasts in July , claiming their reports were biased toward the rebels .",B-gpe O O O B-org I-org I-org O O B-tim O O O O O O O O O O,"NNP RB VBD JJ NNP NNP NNP NNS IN NNP , VBG PRP$ NNS VBD VBN IN DT NNS ."
+Radio France confirmed Kaka 's detention on its Web site .,B-org I-org O B-per O O O O O O O,NNP NNP VBD NNP POS NN IN PRP$ NNP NN .
+It did not comment on the charges against him .,O O O O O O O O O O,PRP VBD RB VB IN DT NNS IN PRP .

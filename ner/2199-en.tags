@@ -1,0 +1,4 @@
+"A CRAB , forsaking the seashore , chose a neighboring green meadow as its feeding ground .",O B-org O O O O O O O O O O O O O O O,"DT NNP , VBG DT NN , VBD DT JJ JJ NN IN PRP$ NN NN ."
+"A Fox came across him , and being very hungry ate him up .",O B-org O O O O O O O O O O O O,"DT NNP VBD IN PRP , CC VBG RB JJ NN PRP RP ."
+"Just as he was on the point of being eaten , the Crab said , "" I well deserve my fate , for what business had I on the land , when by my nature and habits I am only adapted for the sea ? '",O O O O O O O O O O O O B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"RB IN PRP VBD IN DT NN IN VBG VBN , DT NNP VBD , LQU PRP RB VBP PRP$ NN , IN WP NN VBD PRP IN DT NN , WRB IN PRP$ NN CC NNS PRP VBP RB VBN IN DT NN . RQU"
+Contentment with our lot is an element of happiness .,O O O O O O O O O O,NN IN PRP$ NN VBZ DT NN IN NN .

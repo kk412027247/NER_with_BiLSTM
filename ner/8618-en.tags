@@ -1,0 +1,6 @@
+Officials in Sierra Leone say at least 200 people are missing and feared drowned after a boat capsized off the coast of the west African nation .,O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O B-gpe O O,NNS IN NNP NNP VBP IN JJS CD NNS VBP VBG CC VBD VBN IN DT NN VBN IN DT NN IN DT JJ JJ NN .
+Eight people have been confirmed dead and 37 have been rescued as officials continue to search for survivors .,O O O O O O O O O O O O O O O O O O O,CD NNS VBP VBN VBN JJ CC CD VBP VBN VBN IN NNS VBP TO VB IN NNS .
+Transportation authorities have been unable to determine the exact number of passengers .,B-org O O O O O O O O O O O O,NNP NNS VBP VBN JJ TO VB DT JJ NN IN NNS .
+"Police said the boat , carrying a large number of schoolchildren , turned over late Wednesday in a heavy storm south of the capital , Freetown .",O O O O O O O O O O O O O O O B-tim O O O O O O O O O B-per O,"NNS VBD DT NN , VBG DT JJ NN IN NNS , VBD RP JJ NNP IN DT JJ NN NN IN DT NN , NNP ."
+Authorities have not said what caused the accident .,O O O O O O O O O,NNS VBP RB VBN WP VBD DT NN .
+"However , maritime accidents are not uncommon in Sierra Leone where boats are often overloaded and safety standards are frequently lacking or ignored .",O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O,"RB , NN NNS VBP RB JJ IN NNP NNP WRB NNS VBP RB VBN CC NN NNS VBP RB VBG CC VBN ."

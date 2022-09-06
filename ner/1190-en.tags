@@ -1,0 +1,10 @@
+Venezuela has begun using a new currency system in an effort to slow the country 's rate of inflation .,B-org O O O O O O O O O O O O O O O O O O O,NNP VBZ VBN VBG DT JJ NN NN IN DT NN TO VB DT NN POS NN IN NN .
+"The "" strong bolivar "" began circulating on January 1 .",O O O O O O O O B-tim I-tim O,DT LQU JJ NN RQU VBD VBG IN NNP CD .
+"The money was created by taking three trailing zeroes off the value of the former currency , the bolivar .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBD VBN IN VBG CD VBG NNS IN DT NN IN DT JJ NN , DT NN ."
+Officials say the new currency will simplify transactions and lower inflation .,O O O O O O O O O O O O,NNS VBP DT JJ NN MD VB NNS CC JJR NN .
+"Venezuela 's inflation rate in 2007 was more than 20 percent , the highest in the region .",B-geo O O O O B-tim O O O O O O O O O O O O,"NNP POS NN NN IN CD VBD JJR IN CD NN , DT JJS IN DT NN ."
+Critics say they doubt the new currency will stabilize rising prices .,O O O O O O O O O O O O,NNS VBP PRP VBP DT JJ NN MD VB VBG NNS .
+The official exchange rate is 2.15 new bolivars to the dollar .,O O O O O O O O O O O O,DT JJ NN NN VBZ CD JJ NNS TO DT NN .
+But the black market exchange rate is more than five new bolivars to the dollar .,O O O O O O O O O O O O O O O O,CC DT JJ NN NN NN VBZ JJR IN CD JJ NNS TO DT NN .
+"The Venezuelan government is also re-introducing the locha , a coin worth one eighth of a strong bolivar .",O B-gpe O O O O O O O O O O O O O O O O O,"DT JJ NN VBZ RB VBG DT NN , DT NN JJ CD NN IN DT JJ NN ."
+The locha has not been in circulation since the 1970s .,O O O O O O O O O B-tim O,DT NN VBZ RB VBN IN NN IN DT NNS .

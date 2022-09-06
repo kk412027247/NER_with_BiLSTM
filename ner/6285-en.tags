@@ -1,0 +1,5 @@
+"Mexican officials say a small plane has crashed in central Mexico state , killing two people and destroying at least one house .",B-gpe O O O O O O O O O B-geo O O O O O O O O O O O O,"JJ NNS VBP DT JJ NN VBZ VBN IN JJ NNP NN , VBG CD NNS CC VBG IN JJS CD NN ."
+Officials say the twin-engine Aero Commander aircraft was en route from Cancun to the city of Toluca when it went down late Friday in a residential area a few kilometers from of the runway .,O O O O B-org I-org O O O O O B-geo O O O O B-geo O O O O O B-tim O O O O O O O O O O O O,NNS VBP DT JJ NNP NNP NN VBD IN NN IN NNP TO DT NN IN NNP WRB PRP VBD RB RB NNP IN DT JJ NN DT JJ NNS IN IN DT NN .
+Emergency crews say two people from the plane were killed and a third was injured .,O O O O O O O O O O O O O O O O,NN NNS VBP CD NNS IN DT NN VBD VBN CC DT NN VBD VBN .
+No injuries on the ground have been reported .,O O O O O O O O O,DT NNS IN DT NN VBP VBN VBN .
+Officials have yet to say what may have caused the accident .,O O O O O O O O O O O O,NNS VBP RB TO VB WP MD VB VBN DT NN .

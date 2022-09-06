@@ -1,0 +1,5 @@
+A Russian court has approved the extradition to Colombia of a former Israeli army officer convicted in absentia of training Colombian rightist paramilitaries .,O B-gpe O O O O O O B-geo O O O B-gpe O O O O O O O B-gpe O O O,DT JJ NN VBZ VBN DT NN TO NNP IN DT JJ JJ NN NN VBN IN NN IN NN JJ NN NNS .
+Yair Klein was sentenced to 10 years in prison in Colombia .,B-per I-per O O O B-tim O O O O B-geo O,NNP NNP VBD VBN TO CD NNS IN NN IN NNP .
+He was detained at a Moscow airport in August last year .,O O O O O B-geo O O B-tim O O O,PRP VBD VBN IN DT NNP NN IN NNP JJ NN .
+"A court spokesman says Klein has 10 days to appeal the ruling , which was made Tuesday .",O O O O B-per O B-tim O O O O O O O O O B-tim O,"DT NN NN VBZ NNP VBZ CD NNS TO VB DT NN , WDT VBD VBN NNP ."
+Colombia 's paramilitary groups were organized in the 1980s as private armies for landlords to protect them from leftist guerrillas .,B-geo O O O O O O O B-tim O O O O O O O O O O O O,NNP POS JJ NNS VBD VBN IN DT NNS IN JJ NNS IN NNS TO VB PRP IN JJ NNS .

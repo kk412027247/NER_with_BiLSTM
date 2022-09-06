@@ -1,0 +1,7 @@
+Thousands of people have marched through the streets of French cities in support of legislation designed to protect women against violence .,O O O O O O O O O B-gpe O O O O O O O O O O O O,NNS IN NNS VBP VBN IN DT NNS IN JJ NNS IN NN IN NN VBN TO VB NNS IN NN .
+"Up to 8,000 demonstrators turned out in Paris and about 1,000 in the southern port of Marseilles .",O O O O O O O B-geo O O O O O O O O B-geo O,IN TO CD NNS VBD RP IN NNP CC IN CD IN DT JJ NN IN NNP .
+"The demonstrators in Marseilles focused on the death of a 23-year-old Tunisian woman , Ghofrane Haddaoui , stoned to death in the city last month .",O O O B-geo O O O O O O O O O O B-per I-per O O O O O O O O O O,"DT NNS IN NNP VBD IN DT NN IN DT JJ JJ NN , NNP NNP , VBD TO NN IN DT NN JJ NN ."
+The Reuters news agency say authorities have arrested a 17-year-old boy in connection with the crime .,O B-org O O O O O O O O O O O O O O O,DT NNP NN NN VBP NNS VBP VBN DT JJ NN IN NN IN DT NN .
+They are investigating a 16-year-old as an accomplice and another 17-year-old for failing to report the crime .,O O O O O O O O O O O O O O O O O O,PRP VBP VBG DT JJ IN DT NN CC DT JJ IN VBG TO VB DT NN .
+The French news agency also reported marches in Toulouse and Rennes .,O B-gpe O O O O O O B-geo O B-geo O,DT JJ NN NN RB VBD NNS IN NNP CC NNP .
+Officials estimate that six women die in France as the result of domestic violence each month .,O O O O O O O B-geo O O O O O O B-tim O O,NNS VBP IN CD NNS VBP IN NNP IN DT NN IN JJ NN DT NN .

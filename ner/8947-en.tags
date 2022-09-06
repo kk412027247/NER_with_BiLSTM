@@ -1,0 +1,8 @@
+South Africa 's public sector unions are threatening to strike during the World Cup because of a wage dispute .,B-geo I-geo O O O O O O O O O O O O O O O O O O,NNP NNP POS JJ NN NNS VBP VBG TO VB IN DT NNP NNP IN IN DT NN NN .
+"The unions , which represent some 1.2 million workers , issued the threat on Thursday after rejecting the government 's latest wage offer .",O O O O O O O O O O O O O O B-tim O O O O O O O O O,"DT NNS , WDT VBP DT CD CD NNS , VBD DT NN IN NNP IN VBG DT NN POS JJS NN NN ."
+A strike would put nurses and police officers off the job as South Africa hosts one of the world 's biggest sporting events .,O O O O O O O O O O O O B-geo I-geo O O O O O O O O O O,DT NN MD VB NNS CC NN NNS IN DT NN IN NNP NNP VBZ CD IN DT NN POS JJS VBG NNS .
+"Manie de Clerq , head of the Public Servants Association , says a strike may also include immigration officials , who may be needed to help World Cup tourists .",B-per I-per I-per O O O O B-org I-org I-org O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNP , NN IN DT NNP NNP NNP , VBZ DT NN MD RB VB NN NNS , WP MD VB VBN TO VB NNP NNP NNS ."
+Other South African unions have taken advantage of the World Cup to demand and receive significant pay increases .,O B-geo B-gpe O O O O O O O O O O O O O O O O,JJ JJ JJ NNS VBP VBN NN IN DT NNP NNP TO VB CC VB JJ NN NNS .
+"Most recently , port and railroad workers received an 11 percent wage hike after a three-week strike .",O O O O O O O O O O O O O O O B-tim O O,"JJS RB , NN CC NN NNS VBD DT CD NN NN NN IN DT JJ NN ."
+The public sector unions are demanding an 8.5 percent pay increase .,O O O O O O O O O O O O,DT JJ NN NNS VBP VBG DT CD NN NN NN .
+The government has offered 6.2 percent .,O O O O O O O,DT NN VBZ VBN CD NN .

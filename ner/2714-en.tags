@@ -1,0 +1,3 @@
+The Cayman Islands were colonized from Jamaica by the British during the 18th and 19th centuries and were administered by Jamaica after 1863 .,O B-org I-org O O O B-geo O O B-org O O B-tim I-tim I-tim O O O O O B-geo O B-tim O,DT NNP NNP VBD VBN IN NNP IN DT JJ IN DT JJ CC JJ NNS CC VBD VBN IN NNP IN CD .
+"In 1959 , the islands became a territory within the Federation of the West Indies .",O B-tim O O O O O O O O B-org I-org I-org I-org I-org O,"IN CD , DT NNS VBD DT NN IN DT NNP IN DT NNP NNPS ."
+"When the Federation dissolved in 1962 , the Cayman Islands chose to remain a British dependency .",O O B-org O O B-tim O O B-org I-org O O O O B-gpe O O,"WRB DT NNP VBD IN CD , DT NNP NNP VBD TO VB DT JJ NN ."

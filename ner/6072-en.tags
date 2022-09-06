@@ -1,0 +1,4 @@
+"Every year , millions of tourists visit Washington 's National Mall .",O O O O O O O B-geo O B-geo I-geo O,"DT NN , NNS IN NNS VBP NNP POS NNP NNP ."
+Many come to participate in events that take place in the U.S. capital .,O O O O O O O O O O O B-geo O O,JJ VBN TO VB IN NNS WDT VBP NN IN DT NNP NN .
+"But the Mall , the 4 kilometer-long green space stretching from the Lincoln Memorial to the domed Capitol Building , is in trouble .",O O B-geo O O O O O O O O O B-geo I-geo O O O B-org I-org O O O O O,"CC DT NNP , DT CD JJ JJ NN VBG IN DT NNP NNP TO DT JJ NNP NNP , VBZ IN NN ."
+"Producer Zulima Palacio has the story , narrated by Jim Bertel , about the Mall 's decay and the urgent need for repair .",O B-per I-per O O O O O O B-per I-per O O O B-geo O O O O O O O O O,"NNP NNP NNP VBZ DT NN , VBN IN NNP NNP , IN DT NNP POS NN CC DT JJ NN IN NN ."

@@ -1,0 +1,8 @@
+"An unofficial predictor of U.S. weather has made his forecast , Americans will get an early spring .",O O O O B-geo O O O O O O B-gpe O O O O B-tim O,"DT JJ NN IN NNP NN VBZ VBN PRP$ NN , NNS MD VB DT JJ NN ."
+A groundhog named Punxsutawney Phil was pulled from his home in a tree stump Friday morning in a small town in Pennsylvania .,O O O B-per I-per O O O O O O O O O B-tim I-tim O O O O O B-geo O,DT NN VBN NNP NNP VBD VBN IN PRP$ NN IN DT NN NN NNP NN IN DT JJ NN IN NNP .
+"He did not see his shadow and , according to an American ritual , that means it will be a short winter .",O O O O O O O O O O O B-gpe O O O O O O O O O O O,"PRP VBD RB VB PRP$ NN CC , VBG TO DT JJ NN , WDT VBZ PRP MD VB DT JJ NN ."
+"Every year , thousands gather in Punxsutawney on February 2 for what is known as Groundhog Day .",O O O O O O B-geo O B-tim I-tim O O O O O B-tim I-tim O,"DT NN , NNS VBP IN NNP IN NNP CD IN WP VBZ VBN IN NNP NNP ."
+The crowd cheered at this year 's results .,O O O O O O O O O,DT NN VBD IN DT NN POS NNS .
+"According to tradition , had he seen his shadow , winter would last another six weeks .",O O O O O O O O O O O O O O B-tim O O,"VBG TO NN , VBD PRP VBN PRP$ NN , NN MD VB DT CD NNS ."
+The observance of Groundhog Day in the United States is a carryover of a centuries-old German tradition known as Candlemas Day .,O O O B-eve I-eve O O B-geo I-geo O O O O O O B-gpe O O O B-eve I-eve O,DT NN IN NNP NNP IN DT NNP NNPS VBZ DT NN IN DT JJ JJ NN VBN IN NNP NNP .
+"That tradition has grown in popularity in recent years , driven in part by the 1993 film comedy Groundhog Day .",O O O O O O O B-tim O O O O O O O B-tim O O B-art I-art O,"DT NN VBZ VBN IN NN IN JJ NNS , VBN IN NN IN DT CD NN NN NNP NNP ."

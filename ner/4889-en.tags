@@ -1,0 +1,8 @@
+Center-left candidate Alvaro Colom is holding the lead as official return are counted from Guatemala 's run-off presidential election .,O O B-per I-per O O O O O O O O O O B-geo O O O O O,JJ NN NNP NNP VBZ VBG DT NN IN JJ NN VBP VBN IN NNP POS JJ JJ NN .
+"With ballots from 68 percent of the nation 's polling stations counted Sunday night , Colom had 51.4 percent of the vote , to 41.6 percent for retired General Otto Perez Molina .",O O O O O O O O O O O O B-tim I-tim O B-per O O O O O O O O O O O O B-org I-org B-per I-per O,"IN NNS IN CD NN IN DT NN POS NN NNS VBN NNP NN , NNP VBD CD NN IN DT NN , TO CD NN IN JJ NNP NNP NNP NNP ."
+"Colom and Perez were the top two finishers in the first-round presidential election , in September .",B-per O B-per O O O O O O O O O O O O B-tim O,"NNP CC NNP VBD DT JJ CD NNS IN DT JJ JJ NN , IN NNP ."
+Perez based his campaign on pledges to fight crime and combat drug trafficking .,B-per O O O O O O O O O O O O O,NNP VBD PRP$ NN IN NNS TO VB NN CC NN NN NN .
+Colom 's platform focused on poverty issues .,B-per O O O O O O O,NNP POS NN VBD IN NN NNS .
+"About 50 people died in election-related violence before September 's vote , making it the deadliest political campaign since Guatemala 's 36-year civil war ended in 1996 .",O O O O O O O O B-tim O O O O O O O O O O B-geo O O O O O O B-tim O,"IN CD NNS VBD IN JJ NN IN NNP POS NN , VBG PRP DT JJS JJ NN IN NNP POS JJ JJ NN VBN IN CD ."
+Gunmen in Guatemala City killed a Perez aide last month .,O O B-geo I-geo O O B-per O O O O,NNS IN NNP NNP VBD DT NNP NN JJ NN .
+The retired general has linked the killing to his vow to crack down on drug trafficking .,O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN DT NN TO PRP$ NN TO VB RP IN NN NN .

@@ -1,0 +1,8 @@
+Hundreds of protesters marched through the streets of Guatemala City Friday to voice opposition to the Central American Free Trade Agreement with the United States .,O O O O O O O O B-geo I-geo B-tim O O O O O O O O O O O O B-geo I-geo O,NNS IN NNS VBD IN DT NNS IN NNP NNP NNP TO VB NN TO DT NNP NNP NNP NNP NNP IN DT NNP NNPS .
+"The protesters said the pact , known as CAFTA , will benefit only large companies and harm the poor .",O O O O O O O O B-org O O O O O O O O O O O,"DT NNS VBD DT NN , VBN IN NNP , MD VB RB JJ NNS CC VB DT NN ."
+Supporters say the deal will help lift the region out of poverty .,O O O O O O O O O O O O O,NNS VBP DT NN MD VB VB DT NN IN IN NN .
+"The trade agreement was supposed to take effect on January 1 , but was delayed .",O O O O O O O O O B-tim I-tim O O O O O,"DT NN NN VBD VBN TO VB NN IN NNP CD , CC VBD VBN ."
+"U.S. Trade Representative Rob Portman , however , recommended Friday that the accord with El Salvador take effect on March 1 .",B-org O O B-per I-per O O O O B-tim O O O O B-org I-org O O O B-tim I-tim O,"NNP NNP NNP NNP NNP , RB , VBD NNP IN DT NN IN NNP NNP VBP NN IN NNP CD ."
+The other countries that make up CAFTA have not yet met rules proposed by the United States .,O O O O O O B-org O O O O O O O O B-geo I-geo O,DT JJ NNS WDT VBP RP NNP VBP RB RB VBN NNS VBN IN DT NNP NNPS .
+"CAFTA also comprises Costa Rica , Honduras , Nicaragua and the Dominican Republic .",B-org O O B-geo I-geo O B-geo O B-geo O O B-geo I-geo O,"NNP RB VBZ NNP NNP , NNP , NNP CC DT NNP NNP ."
+Costa Rica is the only country within CAFTA that has not yet ratified the agreement .,B-geo I-geo O O O O O B-org O O O O O O O O,NNP NNP VBZ DT JJ NN IN NNP WDT VBZ RB RB VBN DT NN .

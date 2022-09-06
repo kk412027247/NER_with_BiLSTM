@@ -1,0 +1,6 @@
+Jordan 's largest opposition group says it will boycott the country 's November parliamentary elections .,B-gpe O O O O O O O O O O O B-tim O O O,NNP POS JJS NN NN VBZ PRP MD VB DT NN POS NNP JJ NNS .
+The decision late Thursday deals a blow to polls the government hailed as a cornerstone of political reforms .,O O O B-tim O O O O O O O O O O O O O O O,DT NN RB NNP VBZ DT NN TO NNS DT NN VBD IN DT NN IN JJ NNS .
+"The powerful Muslim Brotherhood Movement based its decision on the fallout from a new electoral law , which it says will undercut the group 's robust showing in past elections .",O O B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NNP NNP NNP VBD PRP$ NN IN DT NN IN DT JJ JJ NN , WDT PRP VBZ MD VB DT NN POS JJ NN IN JJ NNS ."
+"The new legislation reduced seats for lawmakers elected from urban areas , where the Brotherhood is popular .",O O O O O O O O O O O O O O B-org O O O,"DT JJ NN VBN NNS IN NNS VBN IN JJ NNS , WRB DT NNP VBZ JJ ."
+"It increased seats from rural regions , dominated by pro-government Bedouin tribes .",O O O O O O O O O O B-org O O,"PRP VBD NNS IN JJ NNS , VBN IN JJ NNP NNS ."
+The boycott by the country 's largest opposition group will leave it without a voice in parliament .,O O O O O O O O O O O O O O O O O O,DT NN IN DT NN POS JJS NN NN MD VB PRP IN DT NN IN NN .

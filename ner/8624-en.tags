@@ -1,0 +1,6 @@
+"A new law comes into effect in Brazil Sunday , allowing the country 's air force to shoot down planes suspected of smuggling drugs .",O O O O O O O B-geo B-tim O O O O O O O O O O O O O O O O,"DT JJ NN VBZ IN NN IN NNP NNP , VBG DT NN POS NN NN TO VB RP NNS VBN IN VBG NNS ."
+Drug traffickers frequently fly over Brazil while smuggling drugs from neighboring Colombia .,O O O O O B-geo O O O O O B-geo O,NN NNS RB VBP IN NNP IN VBG NNS IN VBG NNP .
+Bogota also has a similar shoot-down policy .,B-geo O O O O O O O,NNP RB VBZ DT JJ JJ NN .
+Brazilian officials say air force pilots must follow an eight-step procedure before shooting at a suspected drug plane .,B-gpe O O O O O O O O O O O O O O O O O O,JJ NNS VBP NN NN NNS MD VB DT JJ NN IN VBG IN DT JJ NN NN .
+"Critics say that despite those steps , the chance of human error remains and innocent people could be killed .",O O O O O O O O O O O O O O O O O O O O,"NNS VBP IN IN DT NNS , DT NN IN JJ NN VBZ CC JJ NNS MD VB VBN ."
+"Such a mistake occurred in Peru in 2001 , and an American missionary and her child were killed .",O O O O O B-geo O B-tim O O O B-gpe O O O O O O O,"JJ DT NN VBD IN NNP IN CD , CC DT JJ NN CC PRP$ NN VBD VBN ."

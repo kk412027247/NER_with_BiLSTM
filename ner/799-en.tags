@@ -1,0 +1,9 @@
+Venezuela and Cuba have asked a United Nations committee to investigate the release on bail of a Cuban militant from a U.S. prison .,B-geo O B-geo O O O B-org I-org O O O O O O O O O B-gpe O O O B-geo O O,NNP CC NNP VBP VBN DT NNP NNP NN TO VB DT NN IN NN IN DT JJ NN IN DT NNP NN .
+"The governments in Caracas and Havana sent a letter Wednesday to the U.N. 's Counter-Terrorism Committee , urging it to examine the release of Luis Posada Carriles .",O O O B-geo O B-geo O O O B-tim O O B-org I-org I-org I-org O O O O O O O O B-org I-org I-org O,"DT NNS IN NNP CC NNP VBD DT NN NNP TO DT NNP POS NNP NNP , VBG PRP TO VB DT NN IN NNP NNP NNP ."
+"Venezuela and Cuba accuse the U.S. of "" flagrantly violating "" U.N. Security Council resolutions on counter-terrorism by releasing him .",B-geo O B-geo O O B-geo O O O O O B-org I-org I-org O O O O O O O,NNP CC NNP VBP DT NNP IN RQU RB VBG LQU NNP NNP NNP NNS IN NN IN VBG PRP .
+Venezuela convicted the former U.S. intelligence operative of plotting the 1976 bombing of a Cuban airliner that killed 73 people .,B-geo O O O B-geo O O O O O B-tim O O O B-gpe O O O O O O,NNP VBD DT JJ NNP NN NN IN VBG DT CD NN IN DT JJ NN WDT VBD CD NNS .
+Posada Carriles denies the charge .,B-org I-org O O O O,NNP NNP VBZ DT NN .
+He escaped a Venezuelan prison in 1985 .,O O O B-gpe O O B-tim O,PRP VBD DT JJ NN IN CD .
+Posada Carriles has been in U.S. custody since 2005 for alleged immigration offenses .,B-org I-org O O O B-geo O O B-tim O O O O O,NNP NNP VBZ VBN IN NNP NN IN CD IN JJ NN NNS .
+A U.S. court released him on bail last week ahead of his trial on May 11 .,O B-geo O O O O O O O O O O O O B-tim I-tim O,DT NNP NN VBD PRP IN NN JJ NN RB IN PRP$ NN IN NNP CD .
+Posada Carriles was born in Cuba and is a naturalized Venezuelan citizen .,B-org I-org O O O B-geo O O O O B-gpe O O,NNP NNP VBD VBN IN NNP CC VBZ DT JJ JJ NN .

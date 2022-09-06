@@ -1,0 +1,11 @@
+"According to a news report , a certain private school in Victoria , BC , recently was faced with a unique problem .",O O O O O O O O O O O B-geo O B-geo O O O O O O O O O,"VBG TO DT NN NN , DT JJ JJ NN IN NNP , NNP , RB VBD VBN IN DT JJ NN ."
+A number of grade 12 girls were beginning to use lipstick and would put it on in the bathroom .,O O O O O O O O O O O O O O O O O O O O,DT NN IN NN CD NNS VBD VBG TO VB NN CC MD VB PRP IN IN DT NN .
+"That was fine , but after they put on their lipstick they would press their lips to the mirror leaving dozens of little lip prints .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT VBD JJ , CC IN PRP VBD IN PRP$ NN PRP MD VB PRP$ NNS TO DT NN VBG NNS IN JJ JJ NNS ."
+"Every night , the maintenance man would remove them and the next day , The girls would put them back .",B-tim I-tim O O O O O O O O O O B-tim O B-org O O O O O O,"DT NN , DT NN NN MD VB PRP CC DT JJ NN , DT NNS MD VB PRP RB ."
+Finally the principal decided that something had to be done .,O O O O O O O O O O O,RB DT NN VBD IN DT VBD TO VB VBN .
+She called all the girls to the bathroom and met them there with the maintenance man .,O O O O O O O O O O O O O O O O O,PRP VBD PDT DT NNS TO DT NN CC VBD PRP RB IN DT NN NN .
+She explained that all these lip prints were causing a major problem for the custodian who had to clean the mirrors every night .,O O O O O O O O O O O O O O O O O O O O O O B-tim O,PRP VBD IN DT DT JJ NNS VBD VBG DT JJ NN IN DT NN WP VBD TO VB DT NNS DT NN .
+"To demonstrate how difficult it had been to clean the mirrors , she asked the maintenance man to show the girls how much effort was required .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"TO VB WRB JJ PRP VBD VBN TO VB DT NNS , PRP VBD DT NN NN TO VB DT NNS WRB JJ NN VBD VBN ."
+"He took out a long-handled squeegee , dipped it in the toilet , and cleaned the mirror with it .",O O O O O O O O O O O O O O O O O O O O,"PRP VBD RP DT JJ NN , VBD PRP IN DT NN , CC VBD DT NN IN PRP ."
+"Since then , there have been no lip prints on the mirror .",O O O O O O O O O O O O O,"IN RB , EX VBP VBN DT JJ NNS IN DT NN ."
+"There are teachers , and then there are educators ...",O O O O O O O O O O,"EX VBP NNS , CC RB EX VBP NNS :"

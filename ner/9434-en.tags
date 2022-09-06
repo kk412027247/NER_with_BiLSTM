@@ -1,0 +1,6 @@
+"The small Midwestern town of Slater ,",O O O O O B-geo O,"DT JJ JJ NN IN NNP ,"
+"Missouri is planning a three-day festival to honor its most illustrious inhabitant , Steve McQueen .",B-geo O O O B-tim O O O O O O O O B-per I-per O,"NNP VBZ VBG DT JJ NN TO VB PRP$ RBS JJ NN , NNP NNP ."
+"Although born in Indiana , the movie star spent most of his childhood in Slater on his great-uncle 's farm .",O O O B-geo O O O O O O O O O O B-geo O O O O O O,"IN VBN IN NNP , DT NN NN VBD JJS IN PRP$ NN IN NNP IN PRP$ NN POS NN ."
+"Dubbed "" The King Of Cool , "" Mc Queen starred in a series of famous films in the 1960s and '70s , among them The Great Escape , Bullitt , and Papillon .",O O O B-per I-per I-per O O B-per I-per O O O O O O O O O B-tim O B-tim O O O B-org I-org I-org O B-org O O B-geo O,"VBN LQU DT NNP IN NNP , RQU NNP NNP VBD IN DT NN IN JJ NNS IN DT NNS CC NNS , IN PRP DT NNP NNP , NNP , CC NNP ."
+He died of cancer in 1980 at age 50 .,O O O O O B-tim O O B-tim O,PRP VBD IN NN IN CD IN NN CD .
+"Running March 23-25 , "" Steve McQueen Days "" will include screenings of his movies , a show of memorabilia , and tours of his boyhood home and former school .",O B-tim I-tim O O B-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O O,"VBG NNP CD , LQU NNP NNP NNPS LQU MD VB NNS IN PRP$ NNS , DT NN IN NNS , CC NNS IN PRP$ NN NN CC JJ NN ."

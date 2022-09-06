@@ -1,0 +1,9 @@
+South Korea 's foreign ministry says a South Korean fishing boat has been seized by pirates off the coast of Somalia .,B-geo I-geo O O O O O O B-gpe O O O O O O O O O O O B-geo O,NNP NNP POS JJ NN VBZ DT JJ JJ NN NN VBZ VBN VBN IN NNS IN DT NN IN NNP .
+The ministry says eight armed assailants in two motor boats captured the vessel Tuesday .,O O O O O O O O O O O O O B-tim O,DT NN VBZ CD JJ NNS IN CD NN NNS VBD DT NN NNP .
+All 25 crew members have been taken hostage .,O O O O O O O O O,DT CD NN NNS VBP VBN VBN NN .
+"Eight South Koreans , nine Indonesians , five Vietnamese and three Chinese were on board .",O B-geo B-gpe O B-tim B-gpe O O O O O B-gpe O O O O,"CD NNP NNS , CD NNS , CD NNS CC CD NNS VBD IN NN ."
+They have been confirmed safe .,O O O O O O,PRP VBP VBN VBN JJ .
+"The ministry says Dutch and U.S. naval vessels tried to intervene , but gave up after the ship entered Somali waters .",O O O B-gpe O B-geo O O O O O O O O O O O O O B-gpe O O,"DT NN VBZ JJ CC NNP JJ NNS VBD TO VB , CC VBD RP IN DT NN VBD JJ NNS ."
+The ship was taken to a port in northeastern Somalia .,O O O O O O O O O B-geo O,DT NN VBD VBN TO DT NN IN JJ NNP .
+South Korea has set up a special task force to respond to the incident .,B-geo I-geo O O O O O O O O O O O O O,NNP NNP VBZ VBN RP DT JJ NN NN TO VB TO DT NN .
+"The International Maritime Bureau says the number of piracy incidents off Somalia jumped to 35 last year , up from just two in 2004 .",O B-org I-org I-org O O O O O O O B-geo O O O O O O O O O O O B-tim O,"DT NNP NNP NNP VBZ DT NN IN NN NNS IN NNP VBD TO CD JJ NN , RB IN RB CD IN CD ."

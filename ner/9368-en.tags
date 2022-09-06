@@ -1,0 +1,6 @@
+A Lebanese lawmaker wounded in the February bombing in Beirut that killed former Prime Minister Rafik Hariri has died of his injuries .,O B-gpe O O O O B-tim O O B-geo O O O B-per I-per I-per I-per O O O O O O,DT JJ NN VBN IN DT NNP NN IN NNP WDT VBD JJ NNP NNP NNP NNP VBZ VBN IN PRP$ NNS .
+Former Lebanese minister of economy Bassel Fleihan passed away Monday in a hospital in Paris .,O B-gpe O O O B-per I-per O O B-tim O O O O B-geo O,JJ JJ NN IN NN NNP NNP VBD RB NNP IN DT NN IN NNP .
+Mr. Fleihan was riding in the car with Mr. Hariri on February 14 when a huge bomb detonated outside their motorcade .,B-per I-per O O O O O O B-per I-per O B-tim I-tim O O O O O O O O O,NNP NNP VBD VBG IN DT NN IN NNP NNP IN NNP CD WRB DT JJ NN VBN IN PRP$ NN .
+The blast instantly killed the former prime minister .,O O O O O O B-per O O,DT NN RB VBD DT JJ JJ NN .
+"Mr. Fleihan , one of Mr. Hariri 's top aides , suffered severe burns over most of his body .",B-per I-per O O O B-per I-per O O O O O O O O O O O O O,"NNP NNP , CD IN NNP NNP POS JJ NNS , VBD JJ NNS IN JJS IN PRP$ NN ."
+Reports from Beirut say Mr. Fleihan is the 21st victim to die as a result of the bombing .,O O B-geo O B-per I-per O O B-tim O O O O O O O O O O,NNS IN NNP VBP NNP NNP VBZ DT JJ NN TO VB IN DT NN IN DT NN .

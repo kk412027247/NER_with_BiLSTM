@@ -1,0 +1,8 @@
+Iraq says it will close its borders and extend curfew hours as part of an extensive security plan to foil insurgent attacks during Thursday 's parliamentary elections .,B-geo O O O O O O O O O O O O O O O O O O O O O O B-tim O O O O,NNP VBZ PRP MD VB PRP$ NNS CC VB NN NNS IN NN IN DT JJ NN NN TO VB JJ NNS IN NNP POS JJ NNS .
+The Interior Ministry says the curfews will begin Tuesday and last until Saturday .,B-org I-org I-org O O O O O B-tim O O O B-tim O,DT NNP NNP VBZ DT NNS MD VB NNP CC JJ IN NNP .
+"During that time , road travel will be restricted to vehicles with special permits .",O O O O O O O O O O O O O O O,"IN DT NN , NN NN MD VB VBN TO NNS IN JJ NNS ."
+All airports will be closed from Wednesday to Friday .,O O O O O B-tim I-tim I-tim I-tim O,DT NNS MD VB VBN IN NNP TO NNP .
+A coalition of Shi'ite religious parties is expected to win the biggest bloc of seats in the new legislature .,O O O O O O O O O O O O O O O O O O O O,DT NN IN NNP JJ NNS VBZ VBN TO VB DT JJS NN IN NNS IN DT JJ NN .
+"But analysts predict that no party will win an outright majority , and that a coalition of Shi'ites and Kurds will likely govern .",O O O O O O O O O O O O O O O O O O O B-per O O O O,"CC NNS VBP IN DT NN MD VB DT JJ NN , CC IN DT NN IN NNS CC NNS MD RB VB ."
+The polls will be the first under the constitution ratified in October in a national referendum .,O O O O O O O O O O O B-tim O O O O O,DT NNS MD VB DT JJ IN DT NN VBN IN NNP IN DT JJ NN .
+"Meanwhile , the U.S. military says an American soldier was killed Sunday when a roadside bomb exploded near his patrol in western Baghdad .",O O O B-geo O O O B-gpe O O O B-tim O O O O O O O O O B-geo I-geo O,"RB , DT NNP NN VBZ DT JJ NN VBD VBN NNP WRB DT NN NN VBD IN PRP$ NN IN JJ NNP ."

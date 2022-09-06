@@ -1,0 +1,5 @@
+Authorities in the northern Indian state of Uttar Pradesh say at least 11 people were killed Sunday afternoon when a bus packed with passengers veered off a road and plunged into a canal .,O O O O B-gpe O O B-org I-org O O O O O O O B-tim I-tim O O O O O O O O O O O O O O O O,NNS IN DT JJ JJ NN IN NNP NNP VBP IN JJS CD NNS VBD VBN NNP NN WRB DT NN VBN IN NNS VBN IN DT NN CC VBD IN DT NN .
+The authorities say the accident happened in the Bulandshahr district after the driver lost control of the vehicle .,O O O O O O O O B-geo O O O O O O O O O O,DT NNS VBP DT NN VBD IN DT NNP NN IN DT NN VBD NN IN DT NN .
+"They say 11 bodies have been recovered by rescue workers , but cautioned the death toll could rise .",O O O O O O O O O O O O O O O O O O O,"PRP VBP CD NNS VBP VBN VBN IN NN NNS , CC VBD DT NN NN MD VB ."
+The rescue operation continued into the night .,O O O O O B-tim I-tim O,DT NN NN VBD IN DT NN .
+"India is plagued by traffic accidents due to poorly maintained vehicles and roads , and hazardous driving .",B-geo O O O O O O O O O O O O O O O O O,"NNP VBZ VBN IN NN NNS JJ TO RB VBN NNS CC NNS , CC JJ NN ."

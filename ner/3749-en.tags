@@ -1,0 +1,4 @@
+"One day after Senator Barack Obama picked up the endorsement of a key Democrat , U.S. media reports say Obama has gained as many as eight delegates .",O O O B-per I-per I-per O O O O O O O B-art O B-geo O O O B-per O O O O O O O O,"CD NN IN NNP NNP NNP VBD RP DT NN IN DT JJ NNP , NNP NNS NNS VBP NNP VBZ VBN RB JJ IN CD NNS ."
+"The reports conflict on how many moved from Senator John Edwards , who endorsed Obama May 14 .",O O O O O O O O B-per I-per I-per O O O B-per B-tim I-tim O,"DT NNS VBP IN WRB JJ VBD IN NNP NNP NNP , WP VBD NNP NNP CD ."
+"On Thursday , the Democratic Party frontrunner lashed out at the White House , following comments by President Bush in Israel .",O B-tim O O B-org I-org O O O O O B-org I-org O O O O B-per I-per O B-geo O,"IN NNP , DT NNP NNP NN VBD RP IN DT NNP NNP , VBG NNS IN NNP NNP IN NNP ."
+VOA 's Robert Raffaele has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

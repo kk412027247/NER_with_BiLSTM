@@ -1,0 +1,8 @@
+Turkish Prime Minister Recep Tayyip Erdogan has met with a leading pro-Kurdish politician after the government expressed interest in granting more rights to minority Kurds .,B-gpe B-per I-per I-per I-per I-per O O O O O O O O O O O O O O O O O O O O,JJ NNP NNP NNP NNP NNP VBZ VBN IN DT VBG JJ NN IN DT NN VBD NN IN VBG JJR NNS TO NN NNS .
+"Mr. Erdogan held talks Wednesday with Ahmet Turk , the head of the pro-Kurdish Democratic Society Party .",B-per I-per O O B-tim O B-per I-per O O O O O O O O O O,"NNP NNP VBD NNS NNP IN NNP NNP , DT NN IN DT JJ JJ NNP NNP ."
+The meeting is linked to an effort to end the 25-year insurgency by Kurdish rebels .,O O O O O O O O O O O O O B-org O O,DT NN VBZ VBN TO DT NN TO VB DT JJ NN IN NNP NNS .
+Officials did not give details about topics under discussion .,O O O O O O O O O O,NNS VBD RB VB NNS IN NNS IN NN .
+Mr. Erdogan has criticized the pro-Kurdish party for not denouncing members of the outlawed Kurdistan Workers ' Party as terrorists .,B-per I-per O O O O O O O O O O O O B-org I-org I-org I-org O O O,NNP NNP VBZ VBN DT JJ NN IN RB VBG NNS IN DT JJ NNP NNP POS NN IN NNS .
+The PKK is listed as a terrorist group by Ankara and much of the international community .,O B-org O O O O O O O B-geo O O O O O O O,DT NNP VBZ VBN IN DT JJ NN IN NNP CC NN IN DT JJ NN .
+Separatist rebels have been fighting for Kurdish rule in southeastern Turkey for a quarter-century .,O O O O O O O O O O B-geo O O B-tim O,NNP NNS VBP VBN VBG IN JJ NN IN JJ NNP IN DT NN .
+Tens of thousands of people have died in the conflict .,O O O O O O O O O O O,NNS IN NNS IN NNS VBP VBN IN DT NN .

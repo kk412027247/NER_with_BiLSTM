@@ -1,0 +1,4 @@
+The House Highways and Transit Subcommittee is examining the impact of rising diesel prices on the trucking industry .,B-org I-org I-org I-org I-org I-org O O O O O O O O O O O O O,DT NNP NNPS CC NNP NNP VBZ VBG DT NN IN VBG NN NNS IN DT NN NN .
+"The Triple A automotive association says the price of diesel fuel , which is used by most transport trucks , has risen much faster than regular gasoline .",B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP JJ NN VBZ DT NN IN NN NN , WDT VBZ VBN IN JJS NN NNS , VBZ VBN RB RBR IN JJ NN ."
+"The trucking industry says record high fuel prices are cutting into profits and in some cases , destroying livelihoods .",O O O O O O O O O O O O O O O O O O O O,"DT NN NN VBZ NN JJ NN NNS VBP VBG IN NNS CC IN DT NNS , VBG NNS ."
+VOA 's Mil Arcega reports .,B-org I-org B-per I-per O O,NNP POS NNP NNP VBZ .

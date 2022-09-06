@@ -1,0 +1,5 @@
+Police in Afghanistan say Afghan and NATO forces have killed 10 Taleban rebels in fighting in the country 's south .,O O B-geo O B-gpe O B-org O O O O B-org O O O O O O O O O,NNS IN NNP VBP JJ CC NNP NNS VBP VBN CD NNP NNS IN VBG IN DT NN POS NN .
+Police say the fighting broke out when Afghan and NATO forces raided the rebels ' hideouts in Helmand province 's Garmser district .,O O O O O O O B-gpe O B-org O O O O O O O B-geo O O O O O,NNS VBP DT NN VBD RP WRB JJ CC NNP NNS VBD DT NNS POS NNS IN NNP NN POS NNP NN .
+"It is the same area where , on Tuesday , Afghan and NATO forces killed 18 Taleban insurgents .",O O O O O O O O B-tim O B-gpe O B-org O O O B-org O O,"PRP VBZ DT JJ NN WRB , IN NNP , JJ CC NNP NNS VBD CD NNP NNS ."
+One police officer was also killed .,O O O O O O O,CD NN NN VBD RB VBN .
+NATO took over security operations from U.S.-led coalition forces this week in six southern Afghan provinces .,B-org O O O O O O O O O O O O O B-gpe O O,NNP VBD RP NN NNS IN JJ NN NNS DT NN IN CD JJ JJ NNS .

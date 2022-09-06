@@ -1,0 +1,9 @@
+"Iraqi officials say a suicide car bomber has struck an army recruitment center in Baghdad , killing at least four people and wounding more than 30 others .",B-gpe O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O,"JJ NNS VBP DT NN NN NN VBZ VBN DT NN NN NN IN NNP , VBG IN JJS CD NNS CC VBG JJR IN CD NNS ."
+Al-Qaida-linked insurgents claimed responsibility .,O O O O O,JJ NNS VBD NN .
+"West of the capital , authorities say insurgents opened fire Tuesday on Iraqi soldiers in the town of Khalidiyah , killing four troops and wounding several others .",B-per O O O O O O O O O B-tim O B-gpe O O O O O B-geo O O O O O O O O O,"NNP IN DT NN , NNS VBP NNS VBD NN NNP IN JJ NNS IN DT NN IN NNP , VBG CD NNS CC VBG JJ NNS ."
+"Separately , gunmen shot and killed a Baghdad university professor and his son in Baghdad , as the academic drove to work .",O O O O O O O B-geo O O O O O O B-geo O O O O O O O O,"RB , NNS VBD CC VBD DT NNP NN NN CC PRP$ NN IN NNP , IN DT NN VBD TO VB ."
+"Meanwhile , the Iraqi parliament adjourned today for about an hour , to protest the alleged mistreatment of a lawmaker at a U.S. checkpoint in Baghdad .",O O O B-gpe O O B-tim O O O O O O O O O O O O O O O B-geo O O B-geo O,"RB , DT JJ NN VBD NN IN IN DT NN , TO VB DT JJ NN IN DT NN IN DT NNP NN IN NNP ."
+The U.S. military said it is investigating the incident .,O B-geo O O O O O O O O,DT NNP NN VBD PRP VBZ VBG DT NN .
+Iraqi politicians continue talks on forming a new government .,B-gpe O O O O O O O O O,JJ NNS VBP NNS IN VBG DT JJ NN .
+Some lawmakers say they expect a government to be announced by the end of the week .,O O O O O O O O O O O O B-tim I-tim O O O,DT NNS VBP PRP VBP DT NN TO VB VBN IN DT NN IN DT NN .
+"Some infromation for this report provided by AFP , AP and Reuters .",O O O O O O O B-org O B-org O B-org O,"DT NN IN DT NN VBN IN NNP , NNP CC NNP ."

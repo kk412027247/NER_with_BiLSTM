@@ -1,0 +1,5 @@
+China 's giant pandas have been on endangered species lists for nearly 30 years .,B-geo O O O O O O O O O O O O O O,NNP POS JJ NNS VBP VBN IN JJ NNS NNS IN RB CD NNS .
+"There are only about 1,600 pandas still living in the wild in China .",O O O O O O O O O O O O B-geo O,EX VBP RB IN CD NNS RB VBG IN DT NN IN NNP .
+One of the 2008 Olympic mascots is modeled on a panda called Jing Jing .,O O O B-eve I-eve O O O O O O O B-nat I-nat O,CD IN DT CD JJ NNS VBZ VBN IN DT NN VBN NNP NNP .
+Conservationists hope she will help draw attention to the threats facing the giant panda -- one of China 's national symbols .,O O O O O O O O O O O O O O O O O B-gpe O O O O,NNS VBP PRP MD VB VB NN TO DT NNS VBG DT JJ NN IN CD IN NNP POS JJ NNS .
+Sam Beattie reports from Jing Jing 's home in Sichuan province .,B-per I-per O O B-nat I-nat O O O B-geo O O,NNP NNP VBZ IN NNP NNP POS NN IN NNP NN .

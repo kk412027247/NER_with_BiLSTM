@@ -1,0 +1,7 @@
+Early results from Taiwan 's parliamentary election show pro-independence parties in the lead .,O O O B-geo O O O O O O O O O O,RB NNS IN NNP POS JJ NN VBP JJ NNS IN DT NN .
+"President Chen Shui-bian 's Democratic Progressive Party and its ally , the Taiwan Solidarity Union , are about three seats ahead of the opposition Nationalist alliance , with about a third of the votes counted .",B-per I-per I-per O B-org I-org I-org O O O O O B-geo I-geo I-geo O O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNP POS JJ NNP NNP CC PRP$ NN , DT NNP NNP NNP , VBP IN CD NNS RB IN DT NN NN NN , IN IN DT NN IN DT NNS VBN ."
+President Chen is hoping his pro-independence coalition will win a majority in Taiwan 's 225-seat legislature .,B-per I-per O O O O O O O O O O B-geo O O O O,NNP NNP VBZ VBG PRP$ JJ NN MD VB DT NN IN NNP POS JJ NN .
+"A coalition led by the Nationalist Party , which advocates unification with Beijing , currently controls 51 percent of the legislature .",O O O O O O B-org O O O O O B-geo O O O O O O O O O,"DT NN VBN IN DT NNP NNP , WDT VBZ NN IN NNP , RB VBZ CD NN IN DT NN ."
+A total of 386 candidates vied for 176 directly elected seats .,O O O O O O O O O O O O,DT NN IN CD NNS VBN IN CD RB VBN NNS .
+The remaining 49 seats will be allocated based on the proportion of total votes each party receives .,O O O O O O O O O O O O O O O O O O,DT VBG CD NNS MD VB VBN VBN IN DT NN IN JJ NNS DT NN VBZ .
+Full election results are expected by 9:00 p.m. local time .,O O O O O O B-tim I-tim I-tim I-tim O,JJ NN NNS VBP VBN IN CD NN JJ NN .

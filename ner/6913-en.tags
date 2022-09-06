@@ -1,0 +1,7 @@
+Japan 's foreign minister says his country and North Korea will resume bilateral talks on November 3 in Beijing .,B-geo O O O O O O O B-geo I-geo O O O O O B-tim I-tim O B-geo O,NNP POS JJ NN VBZ PRP$ NN CC NNP NNP MD VB JJ NNS IN NNP CD IN NNP .
+Japanese Foreign Minister Nobutaka Machimura said Wednesday the talks will include North Korea 's nuclear weapons program and the abductee issue .,B-geo B-per I-per I-per I-per O B-tim O O O O B-geo I-geo O O O O O O O O O,JJ NNP NNP NNP NNP VBD NNP DT NNS MD VB NNP NNP POS JJ NNS NN CC DT JJ NN .
+The North has admited abducting 13 Japanese citizens to help train North Korean spies .,O B-geo O O O O B-geo O O O O B-geo B-gpe O O,DT NNP VBZ VBN VBG CD JJ NNS TO VB VB JJ JJ NNS .
+Five of the abductees have returned to Japan .,O O O O O O O B-geo O,CD IN DT NNS VBP VBN TO NNP .
+Pyongyang says the other eight are dead .,B-geo O O O O O O O,NNP VBZ DT JJ CD VBP JJ .
+Bilateral talks at government level have been held up since late last year when Japan accused North Korea of lying over the fate of the abductees .,O O O O O O O O O O O O O O B-geo O B-geo I-geo O O O O O O O O O,NNP NNS IN NN NN VBP VBN VBN RP IN JJ JJ NN WRB NNP VBD NNP NNP IN VBG IN DT NN IN DT NNS .
+"Mr. Machimura said he expects North Korea to also bring up the issue of reparation for Japan 's colonial rule of Korea , from 1910 to 1945 .",B-per I-per O O O B-geo I-geo O O O O O O O O O B-geo O O O O B-geo O B-tim I-tim I-tim I-tim O,"NNP NNP VBD PRP VBZ NNP NNP TO RB VB RP DT NN IN NN IN NNP POS JJ NN IN NNP , IN CD TO CD ."

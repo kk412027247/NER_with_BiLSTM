@@ -1,0 +1,5 @@
+"Pirates have hijacked a Greek-owned cargo vessel in the Gulf of Aden , off the coast of Somalia .",O O O O O O O O B-geo I-geo I-geo I-geo O O O O O B-geo O,"NNS VBP VBN DT JJ NN NN IN DT NNP IN NNP , IN DT NN IN NNP ."
+"The Greek merchant marine ministry says pirates seized the MV Saldanha early Sunday , as it headed toward Slovenia with a load of coal .",O B-gpe O O O O O O O B-org I-org O B-tim O O O O O B-geo O O O O O O,"DT JJ NN NN NN VBZ NNS VBD DT NNP NNP JJ NNP , IN PRP VBD IN NNP IN DT NN IN NN ."
+"The ministry says the ship was carrying 22 crew members , their nationalities unknown .",O O O O O O O O O O O O O O O,"DT NN VBZ DT NN VBD VBG CD NN NNS , PRP$ NNS NN ."
+Somali pirates have received millions of dollars in ransom payments during a hijacking spree over the past year .,B-gpe O O O O O O O O O O O O O O O B-tim O O,JJ NNS VBP VBN NNS IN NNS IN NN NNS IN DT JJ NN IN DT JJ NN .
+"The attacks have continued despite increased naval patrols by the U.S. , European Union and other world powers .",O O O O O O O O O O B-org O B-org I-org O O O O O,"DT NNS VBP VBN IN VBN JJ NNS IN DT NNP , NNP NNP CC JJ NN NNS ."

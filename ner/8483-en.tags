@@ -1,0 +1,10 @@
+"The chief of Palestinian security has resigned , six weeks after the Islamic militant group Hamas overtook his forces in the Gaza Strip .",O O O B-gpe O O O O B-tim O O O B-tim O O B-org O O O O O B-geo I-geo O,"DT NN IN JJ NN VBZ VBN , CD NNS IN DT NNP JJ NN NNP VBD PRP$ NNS IN DT NNP NNP ."
+"The Fatah faction 's national security adviser , Mohammed Dahlan , submitted his resignation to President Mahmoud Abbas Thursday .",O B-org O O O O O O B-per I-per O O O O O B-per I-per I-per B-tim O,"DT NNP NN POS JJ NN NN , NNP NNP , VBD PRP$ NN TO NNP NNP NNP NNP ."
+"Palestinian authorities say Mr. Abbas , leader of the Fatah movement , accepted the request .",B-gpe O O B-per I-per O O O O B-org O O O O O O,"JJ NNS VBP NNP NNP , NN IN DT NNP NN , VBD DT NN ."
+Dahlan cited health reasons for his decision .,B-per O O O O O O O,NNP VBD NN NNS IN PRP$ NN .
+But officials say a government committee pushed for Dahlan 's dismissal after finding him responsible for Fatah 's fall to Hamas in Gaza .,O O O O O O O O B-per O O O O O O O B-org O O O B-org O B-geo O,CC NNS VBP DT NN NN VBD IN NNP POS NN IN VBG PRP JJ IN NNP POS NN TO NNP IN NNP .
+Dahlan had been widely criticized for the defeat .,B-per O O O O O O O O,NNP VBD VBN RB VBN IN DT NN .
+Hamas seized control of Gaza in mid-June after six days of clashes .,B-org O O O B-geo O B-geo O B-tim O O O O,NNP VBD NN IN NNP IN NNP IN CD NNS IN NNS .
+More than 100 people died in the fighting .,O O O O O O O O O,JJR IN CD NNS VBD IN DT NN .
+"Afterwards , Mr. Abbas dissolved the Hamas-led unity government and created an emergency cabinet based in the West Bank .",O O B-per I-per O O O O O O O O O O O O O B-org I-org O,"RB , NNP NNP VBD DT JJ NN NN CC VBD DT NN NN VBN IN DT NNP NNP ."
+The Palestinian president restructured the cabinet in mid-July after a month-long state of emergency .,O B-gpe O O O O O B-geo O O B-tim O O O O,DT JJ NN VBD DT NN IN NNP IN DT JJ NN IN NN .

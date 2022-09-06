@@ -1,0 +1,8 @@
+"The French news agency , Agence France Presse , says one of its photographers has been kidnapped in the Gaza Strip .",O B-gpe O O O B-org I-org I-org O O O O O O O O O O O B-geo I-geo O,"DT JJ NN NN , NNP NNP NNP , VBZ CD IN PRP$ NNS VBZ VBN VBN IN DT NNP NNP ."
+"The agency has identified the photographer as 50 year old Jaime Razuri , a Peruvian national .",O O O O O O O B-tim O O B-per I-per O O B-gpe O O,"DT NN VBZ VBN DT NN IN CD NN JJ NNP NNP , DT JJ NN ."
+AFP says Razuri had just finished covering a story and had returned to the agency 's office in Gaza .,B-org O B-per O O O O O O O O O O O O O O O B-geo O,NNP VBZ NNP VBD RB VBN VBG DT NN CC VBD VBN TO DT NN POS NN IN NNP .
+His translator says two gunmen abducted the photographer and fled in a Japanese car .,O O O O O O O O O O O O B-gpe O O,PRP$ NN VBZ CD NNS VBD DT NN CC VBD IN DT JJ NN .
+Kidnappings are frequent in the Gaza Strip .,O O O O O B-geo I-geo O,NNS VBP JJ IN DT NNP NNP .
+"Reporters without Borders , a Press watchdog , says Gaza is one of the riskiest places for journalists .",O O O O O B-org O O O B-geo O O O O O O O O O,"NNS IN NNS , DT NNP NN , VBZ NNP VBZ CD IN DT JJS NNS IN NNS ."
+"In October , a Spanish photographer was kidnapped in the Gaza Strip .",O B-tim O O B-gpe O O O O O B-geo I-geo O,"IN NNP , DT JJ NN VBD VBN IN DT NNP NNP ."
+He was released unharmed after half-a-day in captivity .,O O O O O B-tim O O O,PRP VBD VBN JJ IN NN IN NN .

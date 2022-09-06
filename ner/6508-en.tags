@@ -1,0 +1,8 @@
+An Israeli television station has broadcast the first video images of Israel 's controversial Dimona nuclear facility .,O B-gpe O O O O O O O O O B-geo O O B-geo O O O,DT JJ NN NN VBZ VBN DT JJ NN NNS IN NNP POS JJ NNP JJ NN .
+"The privately owned station , Channel 10 , showed the video Friday as part of a documentary about the plant .",O O O O O O O O O O O B-tim O O O O O O O O O,"DT RB VBN NN , NNP CD , VBD DT NN NNP IN NN IN DT NN IN DT NN ."
+"It did not explain how the video was obtained , but it said the showing had been authorized by Israeli military censors .",O O O O O O O O O O O O O O O O O O O B-gpe O O O,"PRP VBD RB VB WRB DT NN VBD VBN , CC PRP VBD DT NN VBD VBN VBN IN JJ JJ NNS ."
+The Israeli government has prohibited journalists from viewing the Dimona plant and has denied safety inspections by foreign nuclear experts .,O B-gpe O O O O O O O B-geo O O O O O O O O O O O,DT JJ NN VBZ VBN NNS IN VBG DT NNP NN CC VBZ VBN NN NNS IN JJ JJ NNS .
+"In 1986 , the first still pictures of the facility were released by former technician , Mordechai Vanunu .",O B-tim O O O O O O O O O O O O O O B-geo I-geo O,"IN CD , DT JJ RB NNS IN DT NN VBD VBN IN JJ NN , NNP NNP ."
+He was later jailed for 18 years on treason charges .,O O O O O B-tim O O O O O,PRP VBD RB VBN IN CD NNS IN NN NNS .
+Foreign experts say Dimona is being used to produce nuclear warheads .,O O O B-geo O O O O O O O O,JJ NNS VBP NNP VBZ VBG VBN TO VB JJ NNS .
+Israel has neither acknowledged nor denied having a nuclear arsenal .,B-geo O O O O O O O O O O,NNP VBZ RB VBN CC VBN VBG DT JJ NN .

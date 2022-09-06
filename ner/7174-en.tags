@@ -1,0 +1,4 @@
+Bolivian President Evo Morales has declared a national disaster in the Andean country following heavy rains and flooding that have killed at least 50 people in recent weeks .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN DT JJ NN IN DT JJ NN VBG JJ NNS CC NN WDT VBP VBN IN JJS CD NNS IN JJ NNS .
+Mr. Morales issued the decree Tuesday to release government aid to flooded areas .,B-per I-per O O O B-tim O O O O O O O O,NNP NNP VBD DT NN NNP TO VB NN NN TO VBN NNS .
+"On Monday , he toured the hard-hit city of Trinidad , where officials have pitched tents to accommodate people fleeing the town 's flooded outskirts .",O B-tim O O O O O O O B-geo O O O O O O O O O O O O O O O O,"IN NNP , PRP VBD DT JJ NN IN NNP , WRB NNS VBP VBN NNS TO VB NNS VBG DT NN POS VBN NNS ."
+"Officials say the flooding has affected some 45,000 families across Bolivia .",O O O O O O O O O O B-geo O,NNS VBP DT NN VBZ VBN DT CD NNS IN NNP .

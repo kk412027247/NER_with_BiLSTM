@@ -1,0 +1,8 @@
+New data show the U.S. trade deficit grew slightly in June as imports rose for the first time in 11 months .,O O O O B-geo O O O O O B-tim O O O O O B-tim I-tim I-tim I-tim O O,NNP NNS VBP DT NNP NN NN VBD RB IN NNP IN NNS VBD IN DT JJ NN IN CD NNS .
+"The U.S. Commerce Department says the deficit reached $ 27 billion in June , up from $ 26 billion in May .",O B-org I-org I-org O O O O O O O O B-tim O O O O O O O B-tim O,"DT NNP NNP NNP VBZ DT NN VBD $ CD CD IN NNP , RB IN $ CD CD IN NNP ."
+The increase reflects a 2.3 percent jump in U.S. imports of goods and services in June - the biggest increase this year .,O O O O O O O O B-geo O O O O O O B-tim I-tim O O O O O O,DT NN VBZ DT CD NN NN IN NNP NNS IN NNS CC NNS IN NNP IN DT JJS NN DT NN .
+U.S. exports rose 2 percent in the same month .,B-geo O O O O O O O O O,NNP NNS VBD CD NN IN DT JJ NN .
+A trade deficit occurs when a country imports more than it exports .,O O O O O O O O O O O O O,DT NN NN VBZ WRB DT NN NNS RBR IN PRP VBZ .
+The widening U.S. deficit indicates increased demand by American consumers - a sign the recession is starting to ease .,O O B-geo O O O O O B-gpe O O O O O O O O O O O,DT VBG NNP NN VBZ VBN NN IN JJ NNS IN DT NN DT NN VBZ VBG TO VB .
+"The U.S. central bank , known as the Federal Reserve , is wrapping up a two-day meeting on the economic situation .",O B-geo O O O O O O B-org I-org O O O O O B-tim O O O O O O,"DT NNP JJ NN , VBN IN DT NNP NNP , VBZ VBG RP DT JJ NN IN DT JJ NN ."
+"Officials are scheduled to publish their closely-watched economic assessment Wednesday afternoon , Washington time .",O O O O O O O O O B-tim I-tim O B-org O O,"NNS VBP VBN TO VB PRP$ JJ JJ NN NNP NN , NNP NN ."

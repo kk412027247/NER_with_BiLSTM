@@ -1,0 +1,7 @@
+Iran 's parliament has ordered the resumption of nuclear processing activities .,B-geo O O O O O O O O O O O,NNP POS NN VBZ VBN DT NN IN JJ NN NNS .
+But Iranian officials say implementation of the order will be delayed to give one last chance to talks with the European Union .,O B-gpe O O O O O O O O O O O O O O O O O O B-org I-org O,CC JJ NNS VBP NN IN DT NN MD VB VBN TO VB CD JJ NN TO NNS IN DT NNP NNP .
+EU foreign ministers and Iran are expected to meet within the coming days .,B-org O O O B-geo O O O O O O O O O,NNP JJ NNS CC NNP VBP VBN TO VB IN DT JJ NNS .
+Iran had previously agreed to suspend its nuclear processing program to avoid sanctions from the United Nations .,B-geo O O O O O O O O O O O O O O B-org I-org O,NNP VBD RB VBN TO VB PRP$ JJ NN NN TO VB NNS IN DT NNP NNPS .
+Iran says it wants to use the processed nuclear material to produce electricity .,B-geo O O O O O O O O O O O O O,NNP VBZ PRP VBZ TO VB DT JJ JJ NN TO VB NN .
+But the EU and the United States worry that Iran could be developing nuclear weapons .,O O B-org O O B-geo I-geo O O B-geo O O O O O O,CC DT NNP CC DT NNP NNPS VBP IN NNP MD VB VBG JJ NNS .
+"France , Britain , and Germany want Tehran to abandon its enrichment activities in exchange for economic aid and backing for Iran 's efforts to join mainstream international organizations .",B-geo O B-geo O O B-geo O B-geo O O O O O O O O O O O O O B-geo O O O O O O O O,"NNP , NNP , CC NNP VBP NNP TO VB PRP$ NN NNS IN NN IN JJ NN CC NN IN NNP POS NNS TO VB JJ JJ NNS ."

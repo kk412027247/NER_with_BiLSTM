@@ -1,0 +1,4 @@
+Bisphenol A is a chemical used in making plastic bottles and most other plastic products we use every day .,B-art I-art O O O O O O O O O O O O O O O O B-tim O,NNP NNP VBZ DT NN VBN IN VBG JJ NNS CC RBS JJ NN NNS PRP VBP DT NN .
+"Until now , the only indication that bisphenol A , or BPA , might be harmful came from studies using laboratory animals .",O O O O O O O B-art I-art O O B-art O O O O O O O O O O O,"IN RB , DT JJ NN IN NNP NNP , CC NNP , MD VB JJ VBD IN NNS VBG NN NNS ."
+"Now , a study involving humans indicates exposure to the chemical may increase the risk of developing heart disease , diabetes and liver problems .",O O O O O O O O O O O O O O O O O O O O O O O O O,"RB , DT NN VBG NNS VBZ NN TO DT NN MD VB DT NN IN VBG NN NN , NNS CC NN NNS ."
+VOA 's Carol Pearson has more .,B-org O B-per I-per O O O,NNP POS NNP NNP VBZ RBR .

@@ -1,0 +1,8 @@
+Afghan President Hamid Karzai has sworn in the chief justice and five other judges on the country 's Supreme Court .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O B-org I-org O,JJ NNP NNP NNP VBZ VBN IN DT NN NN CC CD JJ NNS IN DT NN POS NNP NNP .
+A government statement says the ceremony took place Saturday at the presidential palace in Kabul .,O O O O O O O O B-tim O O O O O B-geo O,DT NN NN VBZ DT NN VBD NN NNP IN DT JJ NN IN NNP .
+The judges took the oath less than a week after the country 's parliament overwhelmingly approved their nominations .,O O O O O O O O O O O O O O O O O O O,DT NNS VBD DT NN JJR IN DT NN IN DT NN POS NN RB VBD PRP$ NNS .
+"U.S.-educated Abdul Salam Azimi , a former university professor , became chief justice .",O B-per I-per I-per O O O O O O O O O O,"JJ NNP NNP NNP , DT JJ NN NN , VBD JJ NN ."
+He served as Mr. Karzai 's advisor before being nominated for the new post .,O O O B-per I-per O O O O O O O O O O,PRP VBD IN NNP NNP POS NN IN VBG VBN IN DT JJ NN .
+"Azimi replaces Fazel Hadi Shinwari , whose reappointment in May had been rejected by lawmakers .",B-per O B-org I-org I-org O O O O B-tim O O O O O O,"NNP VBZ NNP NNP NNP , WP$ NN IN NNP VBD VBN VBN IN NNS ."
+Shinwari had held the post since shortly after the ouster of the Taleban regime in late 2001 .,B-org O O O O O O O O O O O B-org O O O B-tim O,NNP VBD VBN DT NN IN RB IN DT NN IN DT NNP NN IN JJ CD .
+"The Supreme Court plays a crucial role in Afghanistan , especially in the struggle over how much influence Islam should have in government and society .",O B-org I-org O O O O O B-geo O O O O O O O O O B-per O O O O O O O,"DT NNP NNP VBZ DT JJ NN IN NNP , RB IN DT NN IN WRB JJ NN NNP MD VB IN NN CC NN ."

@@ -1,0 +1,7 @@
+U.S. military prosecutors have filed terror-related charges against an Afghan detainee accused of launching missiles toward U.S.-occupied areas in Afghanistan several years ago .,B-geo O O O O O O O O B-gpe O O O O O O O O O B-geo B-tim O O O,NNP JJ NNS VBP VBN JJ NNS IN DT JJ NN VBN IN VBG NNS IN JJ NNS IN NNP JJ NNS RB .
+"Mohamed Kamin , who is believed to be 30 years old , was charged Wednesday with one count of providing material support for terrorism .",B-per I-per O O O O O O O O O O O O B-tim O O O O O O O O O O,"NNP NNP , WP VBZ VBN TO VB CD NNS JJ , VBD VBN NNP IN CD NN IN VBG JJ NN IN NN ."
+The charge must be approved by the Defense Department before Kamin can be tried .,O O O O O O O B-org I-org O B-per O O O O,DT NN MD VB VBN IN DT NNP NNP IN NNP MD VB VBN .
+Kamin allegedly trained at an al-Qaida camp .,B-per O O O O B-org O O,NNP RB VBN IN DT NNP NN .
+He is also accused of conducting surveillance on U.S. military bases .,O O O O O O O O B-geo O O O,PRP VBZ RB VBN IN VBG NN IN NNP JJ NNS .
+"He is the 14th detainee at the U.S. military base in Guantanamo Bay , Cuba , selected for prosecution under a special U.S. military war-crimes tribunal .",O O O B-tim O O O B-geo O O O B-geo I-geo O B-geo O O O O O O O B-geo O O O O,"PRP VBZ DT JJ NN IN DT NNP JJ NN IN NNP NNP , NNP , VBN IN NN IN DT JJ NNP JJ NNS JJ ."
+The Guantanamo facility holds at least 275 terror suspects captured in Afghanistan and elsewhere .,O B-geo O O O O O O O O O B-geo O O O,DT NNP NN VBZ IN JJS CD NN NNS VBN IN NNP CC RB .

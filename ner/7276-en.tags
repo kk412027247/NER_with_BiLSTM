@@ -1,0 +1,9 @@
+Colombian President Alvaro Uribe and two of his South American counterparts have opened a gas pipeline between Colombia and Venezuela .,B-gpe B-per I-per I-per O O O O O B-gpe O O O O O O O B-geo O B-geo O,JJ NNP NNP NNP CC CD IN PRP$ JJ JJ NNS VBP VBN DT NN NN IN NNP CC NNP .
+Venezuela 's Hugo Chavez and Rafael Correa of Ecuador participated in a ceremony Friday by turning on the pipeline valves in Colombia 's Guajira region .,B-geo O B-geo I-geo O B-per I-per O B-geo O O O O B-tim O O O O O O O B-geo O B-geo O O,NNP POS NNP NNP CC NNP NNP IN NNP VBD IN DT NN NNP IN VBG IN DT NN NNS IN NNP POS NNP NN .
+It connects Guajira with Venezuela 's Lake Maracaibo area .,O O B-geo O B-geo O B-geo I-geo O O,PRP VBZ NNP IN NNP POS NNP NNP NN .
+"Venezuela 's state-owned oil company , PDVSA , invested millions of dollars in the 225-kilometer-long pipeline .",B-geo O O O O O B-org O O O O O O O O O O,"NNP POS JJ NN NN , NNP , VBD NNS IN NNS IN DT JJ NN ."
+All but 89 kilometers of the line are in Venezuelan territory .,O O O O O O O O O B-gpe O O,DT CC CD NNS IN DT NN VBP IN JJ NN .
+Officials say the pipeline will have the capacity to pump 14 million cubic meters of natural gas daily from Colombia to Venezuela .,O O O O O O O O O O O O O O O O O O O B-geo O B-geo O,NNS VBP DT NN MD VB DT NN TO VB CD CD JJ NNS IN JJ NN NN IN NNP TO NNP .
+"They also say that the pipeline is to carry gas to Venezuela until 2011 , then reverse course to take the gas in the other direction .",O O O O O O O O O O O B-geo O B-tim O O O O O O O O O O O O O,"PRP RB VBP IN DT NN VBZ TO VB NN TO NNP IN CD , RB VB NN TO VB DT NN IN DT JJ NN ."
+Venezuela 's president has been promoting Latin American energy integration .,B-geo O O O O O O B-gpe O O O,NNP POS NN VBZ VBN VBG JJ JJ NN NN .
+He also wants to extend a vast gas pipeline across South America .,O O O O O O O O O O B-geo I-geo O,PRP RB VBZ TO VB DT JJ NN NN IN NNP NNP .

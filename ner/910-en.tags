@@ -1,0 +1,6 @@
+"President Bush meets at the White House Tuesday with Massoud Barzani , the president of Iraq 's Kurdish region .",B-per I-per O O O B-org I-org B-tim O B-per I-per O O O O B-geo O O O O,"NNP NNP VBZ IN DT NNP NNP NNP IN NNP NNP , DT NN IN NNP POS JJ NN ."
+The two men are scheduled to speak to reporters after their meeting .,O O O O O O O O O O O O O,DT CD NNS VBP VBN TO VB TO NNS IN PRP$ NN .
+A White House spokesman praised Mr. Barzani Tuesday as a leader committed to building a free and democratic Iraq .,O B-org I-org O O B-per I-per B-tim O O O O O O O O O O B-geo O,DT NNP NNP NN VBD NNP NNP NNP IN DT NN VBN TO VBG DT JJ CC JJ NNP .
+"Mr. Barzani , who is a former Kurdish rebel leader , was elected regional president by Kurdish lawmakers in June .",B-per I-per O O O O O O O O O O O O O O O O O B-tim O,"NNP NNP , WP VBZ DT JJ NNP NN NN , VBD VBN JJ NN IN NNP NNS IN NNP ."
+"He has pledged to strengthen Iraqi national unity , and he took part in negotiations on Iraq 's new constitution .",O O O O O B-gpe O O O O O O O O O O B-geo O O O O,"PRP VBZ VBN TO VB JJ JJ NN , CC PRP VBD NN IN NNS IN NNP POS JJ NN ."
+Kurds in northern Iraq have enjoyed relative autonomy since the Persian Gulf War of 1991 .,O O O B-geo O O O O O O B-geo I-geo B-tim I-tim I-tim O,NNS IN JJ NNP VBP VBN JJ NN IN DT NNP NNP NNP IN CD .

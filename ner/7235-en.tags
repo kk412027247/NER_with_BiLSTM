@@ -1,0 +1,5 @@
+Russian President Vladimir Putin has dissolved the government .,B-gpe B-per I-per I-per O O O O O,JJ NNP NNP NNP VBZ VBN DT NN .
+Russian officials and news reports say Mr. Putin dismissed the government Wednesday after Prime Minister Mikhail Fradkov offered his resignation .,B-gpe O O O O O B-per B-org O O O B-tim O B-per I-per I-per I-per O O O O,JJ NNS CC NN NNS VBP NNP NNP VBD DT NN NNP IN NNP NNP NNP NNP VBD PRP$ NN .
+"The reports say Mr. Fradkov decided to urge Mr. Putin to dissolve the government because of upcoming major political events , and a desire to give the president the full freedom to make decisions about staff .",O O O B-per I-per O O O B-per B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNS VBP NNP NNP VBD TO VB NNP NNP TO VB DT NN IN IN VBG JJ JJ NNS , CC DT NN TO VB DT NN DT JJ NN TO VB NNS IN NN ."
+Russia is set to hold parliamentary elections in December .,B-geo O O O O O O O B-tim O,NNP VBZ VBN TO VB JJ NNS IN NNP .
+Presidential elections are to be held three months after that .,O O O O O O B-tim O O B-tim O,JJ NNS VBP TO VB VBN CD NNS IN DT .

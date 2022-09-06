@@ -1,0 +1,7 @@
+"China 's state media report a sixth person in the country has been diagnosed with bird flu , while a new outbreak of the disease has been spotted in a flock of ducks .",B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NN NNS VBP DT JJ NN IN DT NN VBZ VBN VBN IN NN NN , IN DT JJ NN IN DT NN VBZ VBN VBN IN DT NN IN NNS ."
+The Xinhua news agency says the Health Ministry has identified the latest human victim as a 35-year-old man in Suichuan County in the eastern province of Jiangxi .,O B-org O O O O B-org I-org O O O O O O O O O O O B-geo I-geo O O O O O B-geo O,DT NNP NN NN VBZ DT NNP NNP VBZ VBN DT JJS JJ NN IN DT JJ NN IN NNP NNP IN DT JJ NN IN NNP .
+There were no further details .,O O O O O O,EX VBD DT JJ NNS .
+"Earlier , the Agriculture Ministry reported an outbreak in a flock of ducks , also in Jiangxi province .",O O O B-org I-org O O O O O O O O O O O B-geo O O,"RB , DT NNP NNP VBD DT NN IN DT NN IN NNS , RB IN NNP NN ."
+It is not clear if the two incidents are linked .,O O O O O O O O O O O,PRP VBZ RB JJ IN DT CD NNS VBP VBN .
+The H5N1 strain of bird flu has killed more than 70 people in East Asia since 2003 .,O O O O O O O O O O O O O B-geo I-geo B-tim I-tim O,DT NNP NN IN NN NN VBZ VBN JJR IN CD NNS IN NNP NNP IN CD .
+Scientists fear it could mutate and be passed from human to human .,O O O O O O O O O O O O O,NNS VBP PRP MD VB CC VB VBN IN JJ TO JJ .

@@ -1,0 +1,8 @@
+Nepal 's parliament has voted to abolish the country 's centuries-old monarchy and change to a republic .,B-gpe O O O O O O O O O O O O O O O O O,NNP POS NN VBZ VBN TO VB DT NN POS JJ NN CC VB TO DT NN .
+Friday 's vote was part of negotiations between former Maoist rebels and six other political parties .,B-tim O O O O O O O O B-geo O O O O O O O,NNP POS NN VBD NN IN NNS IN JJ NNP NNS CC CD JJ JJ NNS .
+The Maoists bolted from the interim government in September after demanding election reform and an immediate end to the monarchy .,O B-org O O O O O O B-tim O O O O O O O O O O O O,DT NNPS VBD IN DT JJ NN IN NNP IN VBG NN NN CC DT JJ NN TO DT NN .
+The final vote was 270 - 3 .,O O O O O O O O,DT JJ NN VBD CD IN CD .
+King Gyanendra will still remain on the throne until parliamentary elections are held in April .,B-per I-per O O O O O O O O O O O O B-tim O,NNP NNP MD RB VB IN DT NN IN JJ NNS VBP VBN IN NNP .
+"Under the plan , voters will elect 240 assembly members by direct vote , and 335 other candidates based on proportional representation .",O O O O O O O O O O O O O O O O O O O O O O O,"IN DT NN , NNS MD VB CD NN NNS IN JJ NN , CC CD JJ NNS VBN IN JJ NN ."
+The vote brings to an end a decade-long effort by the Maoists to replace the monarchy .,O O O O O O O O O O O B-org O O O O O,DT NN VBZ TO DT NN DT JJ NN IN DT NNS TO VB DT NN .
+"The rebels which fought a bloody civil war that left some 13,000 Nepalese dead .",O O O O O O O O O O O O B-gpe O O,DT NNS WDT VBD DT JJ JJ NN WDT VBD DT CD NNS JJ .

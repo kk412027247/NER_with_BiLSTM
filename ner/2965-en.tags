@@ -1,0 +1,10 @@
+Palestinian political rivals Hamas and Fatah have called-off scheduled talks on forming a unity government .,B-gpe O O B-org O B-geo O O O O O O O O O O,JJ JJ NNS NNP CC NNP VBP JJ VBN NNS IN VBG DT NN NN .
+"In an apparent sign that deep differences remain , aides to President Mahmoud Abbas said he canceled Tuesday 's meeting with Hamas leaders in Gaza .",O O O O O O O O O O O B-per I-per I-per O O O B-tim O O O B-org O O B-geo O,"IN DT JJ NN IN JJ NNS VBP , NNS TO NNP NNP NNP VBD PRP VBD NNP POS NN IN NNP NNS IN NNP ."
+No new meeting date was announced .,O O O O O O O,DT JJ NN NN VBD VBN .
+"Earlier , Hamas said it is serious about reaching a deal on a unity government .",O O B-org O O O O O O O O O O O O O,"RB , NNP VBD PRP VBZ JJ IN VBG DT NN IN DT NN NN ."
+Mr. Abbas has said any unity government including Hamas would have to accept interim peace deals with Israel .,B-per I-per O O O O O O B-org O O O O O O O O B-geo O,NNP NNP VBZ VBN DT NN NN VBG NNP MD VB TO VB JJ NN NNS IN NNP .
+"Hamas leaders say they want to share power with Fatah , but they will not accept language that explicitly recognizes Israel .",B-org O O O O O O O O B-geo O O O O O O O O O O B-geo O,"NNP NNS VBP PRP VBP TO VB NN IN NNP , CC PRP MD RB VB NN WDT RB VBZ NNP ."
+The militant group 's charter calls for the destruction of the Jewish state .,O O O O O O O O O O O O O O,DT JJ NN POS NN VBZ IN DT NN IN DT JJ NN .
+Hamas has said that it would instead support a long term truce with Israel .,B-org O O O O O O O O O O O O B-geo O,NNP VBZ VBN IN PRP MD RB VB DT JJ NN NN IN NNP .
+The Palestinian president has accused Hamas of violating an agreement reached earlier this month on the political platform for a unity government .,O B-gpe O O O B-org O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN NNP IN VBG DT NN VBN RBR DT NN IN DT JJ NN IN DT NN NN .
+Hamas denies the charge .,B-org O O O O,NNP VBZ DT NN .

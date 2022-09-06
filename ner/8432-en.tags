@@ -1,0 +1,7 @@
+"A former Haitian refugee is being sworn in Tuesday as Canada 's governor general , the representative of Britain 's Queen Elizabeth .",O O B-gpe O O O O O B-tim O B-geo O O O O O O O B-org O B-per I-per O,"DT JJ JJ NN VBZ VBG VBN IN NNP IN NNP POS NN NN , DT NN IN NNP POS NNP NNP ."
+Michaelle Jean will be the first black and only the third woman to hold the position .,B-per I-per O O O O O O O O O O O O O O O,NNP NNP MD VB DT JJ JJ CC RB DT JJ NN TO VB DT NN .
+"At 48 , she is also one of Canada 's youngest governor generals .",O O O O O O O O B-geo O O O O O,"IN CD , PRP VBZ RB CD IN NNP POS JJS NN NNS ."
+She replaces Adrienne Clarkson in the ceremonial role .,O O B-per I-per O O O O O,PRP VBZ NNP NNP IN DT JJ NN .
+"Ms. Jean immigrated to Canada 's French-speaking Quebec province as a child , after her parents fled Haiti to escape dictatorial rule .",B-per I-per O O B-geo O O B-geo O O O O O O O O O B-geo O O O O O,"NNP NNP VBD TO NNP POS JJ NNP NN IN DT NN , IN PRP$ NNS VBD NNP TO VB JJ NN ."
+"Critics have accused her of ties to Quebec 's separatist movement , although the former broadcast journalist says she is committed to Canadian federalism .",O O O O O O O B-geo O O O O O O O O O O O O O O B-gpe O O,"NNS VBP VBN PRP IN NNS TO NNP POS JJ NN , IN DT JJ NN NN VBZ PRP VBZ VBN TO JJ NN ."
+"Canada became a self-governing dominion in 1867 , but retains some ties to the British crown .",B-geo O O O O O B-tim O O O O O O O B-gpe O O,"NNP VBD DT JJ NN IN CD , CC VBZ DT NNS TO DT JJ NN ."

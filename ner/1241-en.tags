@@ -1,0 +1,7 @@
+"Venezuela has signed a deal with Russia for the purchase of 98 Ilyushin aircraft , which can be used for passengers and cargo .",B-geo O O O O O B-geo O O O O O O O O O O O O O O O O O,"NNP VBZ VBN DT NN IN NNP IN DT NN IN CD NNP NN , WDT MD VB VBN IN NNS CC NN ."
+"Russian newspapers reported Friday that the state arms exporter , Rosoboronexport , signed the agreement during an air show near Moscow .",B-gpe O O B-tim O O O O O O B-per O O O O O O O O O B-geo O,"JJ NNS VBD NNP IN DT NN NNS NN , NNP , VBD DT NN IN DT NN NN IN NNP ."
+The value of the contract has not been disclosed .,O O O O O O O O O O,DT NN IN DT NN VBZ RB VBN VBN .
+The Izvestia newspaper quoted experts as saying the deal could be worth several billion dollars .,O B-geo O O O O O O O O O O O O O O,DT NNP NN VBD NNS IN VBG DT NN MD VB JJ JJ CD NNS .
+Russia has already sold 24 Sukhoi jets and 53 helicopters to Venezuela .,B-geo O O O O O O O O O O B-geo O,NNP VBZ RB VBN CD NNP NNS CC CD NNS TO NNP .
+"Last year during a visit to Moscow , Venezuelan President Hugo Chavez signed a long-term deal with Russia to purchase $ 3 billion worth of helicopters , fighter jets and arms .",O O O O O O B-geo O B-gpe B-per I-per I-per O O O O O B-geo O O O O O O O O O O O O O O,"JJ NN IN DT NN TO NNP , JJ NNP NNP NNP VBD DT JJ NN IN NNP TO VB $ CD CD NN IN NNS , NN NNS CC NNS ."
+The United States bans sales of arms to Venezuela .,O B-geo I-geo O O O O O B-geo O,DT NNP NNPS VBZ NNS IN NNS TO NNP .

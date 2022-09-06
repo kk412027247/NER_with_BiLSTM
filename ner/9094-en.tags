@@ -1,0 +1,7 @@
+Poland 's defense minister has announced plans to cut his country 's forces in Iraq by almost one third next year .,B-gpe O O O O O O O O O O O O O B-geo O B-tim I-tim I-tim O O O,NNP POS NN NN VBZ VBN NNS TO VB PRP$ NN POS NNS IN NNP IN RB CD JJ JJ NN .
+"Minister Jerzy Szmajdzinski said the number of Polish troops remaining in Iraq in mid-February will stand at 1,700 .",B-per I-per I-per O O O O B-gpe O O O B-geo O B-geo O O O O O,NNP NNP NNP VBD DT NN IN JJ NNS VBG IN NNP IN NNP MD VB IN CD .
+He said another 700 will remain in Poland on standby in case of emergency .,O O O O O O O B-gpe O O O O O O O,PRP VBD DT CD MD VB IN NNP IN NN IN NN IN NN .
+The withdrawal is to follow Iraq 's parliamentary elections .,O O O O O B-geo O O O O,DT NN VBZ TO VB NNP POS JJ NNS .
+"Poland has about 2,400 soldiers in Iraq .",B-gpe O O O O O B-geo O,NNP VBZ IN CD NNS IN NNP .
+"It is the third largest contributor of troops to the international stabilization forces in that country , after the United States and Britain .",O O O O O O O O O O O O O O O O O O O B-geo I-geo O B-geo O,"PRP VBZ DT JJ JJS NN IN NNS TO DT JJ NN NNS IN DT NN , IN DT NNP NNPS CC NNP ."
+"Poland commands a 6,500-strong international force south of Baghdad .",B-gpe O O O O O O O B-geo O,NNP VBZ DT JJ JJ NN NN IN NNP .

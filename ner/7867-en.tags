@@ -1,0 +1,9 @@
+"Sporadic gunfire has been reported in Andijon and other border areas of Uzbekistan , where security forces fired on protesters last week , reportedly killing as many as 500 people .",O O O O O O B-geo O O O O O B-geo O O O O O O O O O O O O O O O O O O,"JJ NN VBZ VBN VBN IN NNP CC JJ NN NNS IN NNP , WRB NN NNS VBN IN NNS JJ NN , RB VBG RB JJ IN CD NNS ."
+"President Islam Karimov has denied security forces opened fire on demonstrators , as witnesses claimed .",B-per I-per I-per O O O O O O O O O O O O O,"NNP NNP NNP VBZ VBN NN NNS VBD NN IN NNS , IN NNS VBD ."
+But the authoritarian government has sought to restrict access for reporters in the affected areas .,O O O O O O O O O O O O O O O O,CC DT JJ NN VBZ VBN TO VB NN IN NNS IN DT JJ NNS .
+The Associated Press quotes a local doctor as saying that about 500 bodies had been laid out at a school for collection by relatives .,B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP VBZ DT JJ NN IN VBG IN IN CD NNS VBD VBN VBN RP IN DT NN IN NN IN NNS .
+There was no independent confirmation .,O O O O O O,EX VBD DT JJ NN .
+President Karimov blamed the bloodshed on Islamic radicals trying to overthrow the government .,B-per I-per O O O O B-geo O O O O O O O,NNP NNP VBD DT NN IN NNP NNS VBG TO VB DT NN .
+"Several countries , including the United States , have called for restraint .",O O O O O B-geo I-geo O O O O O O,"JJ NNS , VBG DT NNP NNPS , VBP VBN IN NN ."
+British Foreign Secretary Jack Straw has called the Andijan crackdown a clear abuse of human rights .,B-gpe O B-per I-per I-per O O O O O O O O O O O O,JJ NNP NNP NNP NNP VBZ VBN DT NNP NN DT JJ NN IN JJ NNS .
+Some of information for this report provided by AP and AFP .,O O O O O O O O B-org O B-org O,DT IN NN IN DT NN VBN IN NNP CC NNP .

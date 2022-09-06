@@ -1,0 +1,8 @@
+A top opposition leader in Ivory Coast has returned to the west African nation after three years in exile .,O O O O O B-geo I-geo O O O O O B-gpe O O B-tim O B-tim I-tim O,DT JJ NN NN IN NNP NNP VBZ VBN TO DT JJ JJ NN IN CD NNS IN NN .
+"Alassane Ouattara arrived in Abidjan Wednesday , greeted by a small group of supporters and dozens of U.N. peacekeepers who will provide him protection .",B-per I-per O O B-geo B-tim O O O O O O O O O O O B-geo O O O O O O O,"NNP NNP VBD IN NNP NNP , VBN IN DT JJ NN IN NNS CC NNS IN NNP NNS WP MD VB PRP NN ."
+"He issued a call for unity and said he is returning to his country with "" a lot of love . """,O O O O O O O O O O O O O O O O O O O O O O,PRP VBD DT NN IN NN CC VBD PRP VBZ VBG TO PRP$ NN IN LQU DT NN IN NN . LQU
+Ouattara is a former prime minster and heads the Rally of Republicans party .,B-per O O O O O O O O O O O O O,NNP VBZ DT JJ JJ NN CC VBZ DT NN IN NNPS NN .
+He fled Ivory Coast for France three years ago after allies of President Laurent Gbagbo accused him of supporting northern-based rebels in the country 's civil war .,O O B-geo I-geo O B-geo B-tim O O O O O B-per I-per I-per O O O O O O O O O O O O O,PRP VBD NNP NNP IN NNP CD NNS RB IN NNS IN NNP NNP NNP VBD PRP IN VBG JJ NNS IN DT NN POS JJ NN .
+Ouattara has said he will run in presidential elections scheduled for October .,B-per O O O O O O O O O O B-tim O,NNP VBZ VBN PRP MD VB IN JJ NNS VBN IN NNP .
+Ivory Coast is divided between rebel-held and government-controlled areas .,B-geo I-geo O O O O O O O O,NNP NNP VBZ VBN IN JJ CC JJ NNS .
+A peace deal to reunite the country has repeatedly stalled .,O O O O O O O O O O O,DT NN NN TO VB DT NN VBZ RB VBN .

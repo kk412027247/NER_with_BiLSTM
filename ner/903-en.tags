@@ -1,0 +1,7 @@
+Chinese President Hu Jintao has called on major economies to ensure trade and energy stability in order to promote a balanced world economy .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN IN JJ NNS TO VB NN CC NN NN IN NN TO VB DT JJ NN NN .
+"Mr. Hu spoke Saturday in Beijing , where he opened the start of a two-day meeting of top finance officials from 20 countries .",B-per I-per O B-tim O B-geo O O O O O O O O B-tim O O O O O O O O O,"NNP NNP VBD NNP IN NNP , WRB PRP VBD DT NN IN DT JJ NN IN JJ NN NNS IN CD NNS ."
+"He urged countries to create a "" sound trading environment for economic growth . """,O O O O O O O O O O O O O O O,PRP VBD NNS TO VB DT LQU JJ NN NN IN JJ NN . LQU
+He also said major powers should make concerted efforts to stabilize the global energy market .,O O O O O O O O O O O O O O O O,PRP RB VBD JJ NNS MD VB JJ NNS TO VB DT JJ NN NN .
+"The so-called Group of 20 is made up of larger developing countries and rich nations , including the United States .",O O B-org O O O O O O O O O O O O O O O B-geo I-geo O,"DT JJ NNP IN CD VBZ VBN IN IN JJR VBG NNS CC JJ NNS , VBG DT NNP NNPS ."
+The meeting is being held at a time of trade tensions between Beijing and Washington .,O O O O O O O O O O O O B-geo O B-geo O,DT NN VBZ VBG VBN IN DT NN IN NN NNS IN NNP CC NNP .
+Some critics accuse China of manipulating its currency to give Chinese exports an unfair price advantage on world markets .,O O O B-geo O O O O O O B-gpe O O O O O O O O O,DT NNS VBP NNP IN VBG PRP$ NN TO VB JJ NNS DT JJ NN NN IN NN NNS .

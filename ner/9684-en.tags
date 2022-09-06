@@ -1,0 +1,8 @@
+Arabic language al-Jazeera television has broadcast what it says is a new videotape of kidnapped U.S. journalist Jill Carroll pleading for freedom for female Iraqi prisoners .,O O B-org O O O O O O O O O O O O B-geo O B-per I-per O O O O O B-gpe O O,JJ NN NNP NN VBZ VBN WP PRP VBZ VBZ DT JJ NN IN VBN NNP NN NNP NNP VBG IN NN IN JJ JJ NNS .
+"The tape is time-stamped January 28 , showing Carroll dressed in traditional Islamic headscarf and crying .",O O O O B-tim I-tim O O B-per O O O O O O O O,"DT NN VBZ JJ NNP CD , VBG NNP VBN IN JJ JJ NN CC NN ."
+Al Jazeera did not broadcast any sound with the tape Monday .,B-org I-org O O O O O O O O B-tim O,NNP NNP VBD RB VB DT NN IN DT NN NNP .
+But a newscaster said Carroll appealed to the U.S. military in Iraq to free all women prisoners .,O O O O B-per O O O B-geo O O B-geo O O O O O O,CC DT NN VBD NNP VBD TO DT NNP NN IN NNP TO VB DT NNS NNS .
+This was the main demand of her captors who threatened to kill her if it was not met .,O O O O O O O O O O O O O O O O O O O,DT VBD DT JJ NN IN PRP$ NNS WP VBD TO VB PRP IN PRP VBD RB VBN .
+Carroll is a journalist for the U.S. based Christian Science Monitor newspaper .,B-per O O O O O B-geo O B-org I-org I-org O O,NNP VBZ DT NN IN DT NNP VBN NNP NNP NNP NN .
+She was kidnapped January 7 .,O O O B-tim I-tim O,PRP VBD VBN NNP CD .
+"The U.S. military freed five female prisoners in Iraq last week , but said their release was not connected to the Carroll case .",O B-geo O O O O O O B-geo O O O O O O O O O O O O B-per O O,"DT NNP NN VBD CD JJ NNS IN NNP JJ NN , CC VBD PRP$ NN VBD RB VBN TO DT NNP NN ."

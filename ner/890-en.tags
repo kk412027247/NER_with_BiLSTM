@@ -1,0 +1,9 @@
+The United States has claimed the final quarterfinal slot in the men 's Olympic ice hockey tournament at the Turin Games in Italy .,O B-geo I-geo O O O O O O O O O O O O O O O O B-org O O B-geo O,DT NNP NNPS VBZ VBN DT JJ JJ NN IN DT NNS POS NNP NN NN NN IN DT NNP NNPS IN NNP .
+"The U.S. team did not have to play Tuesday to advance because Kazakhstan defeated Latvia , 5-2 .",O B-geo O O O O O O B-tim O O O B-geo O B-geo O B-geo O,"DT NNP NN VBD RB VB TO VB NNP TO VB IN NNP VBD NNP , CD ."
+The Group-B result eliminated the slim chance for Latvia to overtake the United States at the end of first round play .,O O O O O O O O B-geo O O O B-geo I-geo O O O O O O O O,DT NNP NN VBD DT JJ NN IN NNP TO VB DT NNP NNPS IN DT NN IN JJ NN NN .
+The Latvians needed to beat Kazakhstan and erase a huge 16-goal margin while hoping the United States would lose against Russia later in the day .,O B-gpe O O O B-geo O O O O O O O O O B-geo I-geo O O O B-geo O O O B-tim O,DT NNS VBD TO VB NNP CC VB DT JJ JJ NN IN VBG DT NNP NNPS MD VB IN NNP RB IN DT NN .
+Switzerland rallied for a 3-3 tie with Italy to clinch second place in Group-A behind Finland .,B-per O O O O O O B-geo O O O O O O O B-geo O,NNP VBD IN DT JJ NN IN NNP TO VB JJ NN IN NNP IN NNP .
+All eight teams have been determined for the quarterfinal round beginning Wednesday .,O O O O O O O O O O O B-tim O,DT CD NNS VBP VBN VBN IN DT JJ NN VBG NNP .
+But results from the final games will decide how the teams are paired in the next round .,O O O O O O O O O O O O O O O O O O,CC NNS IN DT JJ NNS MD VB WRB DT NNS VBP VBN IN DT JJ NN .
+Canada and the Czech Republic are the other teams advancing from Group-A .,B-geo O O B-gpe B-geo O O O O O O O O,NNP CC DT JJ NNP VBP DT JJ NNS VBG IN NNP .
+"The United States joins Slovakia , Russia and Sweden from Group-B .",O B-geo I-geo O B-geo O B-geo O B-geo O B-geo O,"DT NNP NNPS VBZ NNP , NNP CC NNP IN NNP ."

@@ -1,0 +1,9 @@
+"The International Committee of the Red Cross says it is concerned about prisoners on a hunger strike at the U.S. naval base at Guantanamo Bay , Cuba .",O B-org I-org O O B-org I-org O O O O O O O O O O O O B-geo O O O B-geo I-geo O B-geo O,"DT NNP NNP IN DT NNP NNP VBZ PRP VBZ JJ IN NNS IN DT NN NN IN DT NNP JJ NN IN NNP NNP , NNP ."
+Spokeswoman Antonella Notari on Friday described the situation at Guantanamo as serious .,O B-per I-per O B-tim O O O O B-geo O O O,NN NNP NNP IN NNP VBD DT NN IN NNP IN JJ .
+She said the International Red Cross spent 10 days visiting with detainees in late September .,O O O B-org I-org I-org O B-tim O O O O O O B-tim O,PRP VBD DT NNP NNP NNP VBD CD NNS VBG IN NNS IN JJ NNP .
+The prisoners have been fasting since August to protest their detention without charges or trial .,O O O O O B-tim I-tim O O O O O O O O O,DT NNS VBP VBN VBG IN NNP TO VB PRP$ NN IN NNS CC NN .
+Human rights groups say more than 200 prisoners have refused food .,O O O O O O O O O O O O,JJ NNS NNS VBP JJR IN CD NNS VBP VBN NN .
+U.S. authorities say fewer than 30 detainees are currently not eating .,B-geo O O O O O O O O O O O,NNP NNS VBP JJR IN CD NNS VBP RB RB VBG .
+Twenty-two have been hospitalized and fed involuntarily through tubes .,O O O O O O O O O O,CD VBP VBN VBN CC VBN RB IN NNS .
+The U.S. military is holding about 500 prisoners at Guantanamo .,O B-geo O O O O O O O B-geo O,DT NNP NN VBZ VBG IN CD NNS IN NNP .
+Most were captured in Afghanistan and are suspected of being members of al-Qaida or the former Taliban regime .,O O O O B-geo O O O O O O O B-org O O O B-org O O,JJS VBD VBN IN NNP CC VBP VBN IN VBG NNS IN NNP CC DT JJ NNP NN .

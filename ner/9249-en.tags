@@ -1,0 +1,7 @@
+"A Galapagos giant tortoise , thought to be the last of its kind , might soon save its species from extinction by becoming a father .",O B-org O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NN NN , VBN TO VB DT JJ IN PRP$ NN , MD RB VB PRP$ NNS IN NN IN VBG DT NN ."
+"Ecuador 's Galapagos National Park said Monday the tortoise , nicknamed "" Lonesome George , "" stunned his keepers by mating with a female companion of a similar species .",B-geo O B-geo I-geo I-geo O B-tim O O O O O B-nat I-nat O O O O O O O O O O O O O O O O,"NNP POS NNP NNP NNP VBD NNP DT NN , VBN LQU NNP NNP , RQU VBD PRP$ NNS IN VBG IN DT JJ NN IN DT JJ NNS ."
+They had tried for 36 years to get him to reproduce .,O O O O B-tim O O O O O O O,PRP VBD VBN IN CD NNS TO VB PRP TO VB .
+Three eggs are now being cared for in incubators .,O O O O O O O O O O,CD NNS VBP RB VBG VBN IN IN NNS .
+It will take about four months to know if they are viable .,O O O O O O O O O O O O O,PRP MD VB RB CD NNS TO VB IN PRP VBP JJ .
+George was discovered on Pinta island in the early 1970s .,B-per O O O B-geo I-geo O O O B-tim O,NNP VBD VBN IN NNP NN IN DT JJ NNS .
+"He is about 70 years old , middle age for a giant tortoise , and should be able to reproduce .",O O O O O O O O O O O O O O O O O O O O O,"PRP VBZ IN CD NNS JJ , JJ NN IN DT JJ NN , CC MD VB JJ TO VB ."

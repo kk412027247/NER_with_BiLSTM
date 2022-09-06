@@ -1,0 +1,8 @@
+"A Hart hotly pursued by the hounds fled for refuge into an ox-stall , and buried itself in a truss of hay , leaving nothing to be seen but the tips of his horns .",O B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP RB VBN IN DT NNS VBD IN NN IN DT NN , CC VBD PRP IN DT NN IN NN , VBG DT TO VB VBN CC DT NNS IN PRP$ NNS ."
+Soon after the Hunters came up and asked if any one had seen the Hart .,O O O O O O O O O O O O O O B-org O,RB IN DT NNPS VBD RB CC VBN IN DT CD VBD VBN DT NNP .
+"The stable boys , who had been resting after their dinner , looked round , but could see nothing , and the Hunters went away .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NNS , WP VBD VBN VBG IN PRP$ NN , VBD NN , CC MD VB DT , CC DT NNP VBD RB ."
+"Shortly afterwards the master came in , and looking round , saw that something unusual had taken place .",O O O O O O O O O O O O O O O O O O O,"RB RB DT NN VBD IN , CC VBG NN , VBD IN DT JJ VBD VBN NN ."
+"He pointed to the truss of hay and said : "" What are those two curious things sticking out of the hay ? """,O O O O O O O O O O O O O O O O O O O O O O O O,PRP VBD TO DT NN IN NN CC VBD : LQU WP VBP DT CD JJ NNS VBG IN IN DT NN . LQU
+"And when the stable boys came to look they discovered the Hart , and soon made an end of him .",O O O O O O O O O O O B-org O O O O O O O O O,"CC WRB DT JJ NNS VBD TO VB PRP VBD DT NNP , CC RB VBD DT NN IN PRP ."
+He thus learnt that,O O O O,PRP RB VBP DT
+Nothing escapes the master 's eye .,O O O O O O O,DT VBZ DT NN POS NN .

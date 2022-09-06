@@ -1,0 +1,8 @@
+"A lingering ankle injury will keep tennis great Andre Agassi from playing in the Australian Open , the first Grand Slam tennis tournament of the season .",O O O O O O O O B-per I-per O O O O B-eve I-eve O O O B-eve I-eve O O O O O O,"DT VBG NN NN MD VB NN JJ NNP NNP IN VBG IN DT NNP NNP , DT JJ NNP NNP NN NN IN DT NN ."
+Agassi 's management company issued a statement in Australia Thursday saying the former Australian Open champion would not play in the event beginning January 16 .,B-per O O O O O O O B-geo B-tim O O O B-eve I-eve O O O O O O O O B-tim I-tim O,NNP POS NN NN VBD DT NN IN NNP NNP VBG DT JJ NNP NNP NN MD RB VB IN DT NN VBG NNP CD .
+The 35-year-old Agassi has also withdrawn from the Kooyong exhibition event next week .,O O B-per O O O O O B-geo O O O O O,DT JJ NNP VBZ RB VBN IN DT NNP NN NN JJ NN .
+Agassi sustained a severe sprain to his left ankle on October 12 while playing racquetball .,B-per O O O O O O O O O B-tim I-tim O O O O,NNP VBD DT JJ NN TO PRP$ JJ NN IN NNP CD IN VBG NN .
+The injury initially forced his withdrawal from the Tennis Masters Cup in Shanghai in November .,O O O O O O O O B-eve I-eve I-eve O B-geo O B-tim O,DT NN RB VBD PRP$ NN IN DT NNP NNP NNP IN NNP IN NNP .
+Agassi finished 2005 ranked number seven by the Association of Tennis Professionals .,B-per O B-tim O O O O O B-org I-org I-org I-org O,NNP VBD CD VBD NN CD IN DT NNP IN NNP NNPS .
+Agassi has won eight career Grand Slam titles .,B-per O O O O B-eve I-eve O O,NNP VBZ VBN CD NN NNP NNP NNS .
+Half of them were at the Australian Open .,O O O O O O B-eve I-eve O,NN IN PRP VBD IN DT NNP NNP .

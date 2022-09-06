@@ -1,0 +1,8 @@
+The U.S. space agency NASA has added a day to the flight of the space shuttle Discovery to allow time to review a routine inspection of the orbiter 's heat shields .,O B-geo O O B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O,DT NNP NN NN NNP VBZ VBN DT NN TO DT NN IN DT NN NN NNP TO VB NN TO VB DT JJ NN IN DT NN POS NN NNS .
+NASA said Saturday a problem with Discovery 's communication system prompted the extension .,B-org O B-tim O O O O O O O O O O O,NNP VBD NNP DT NN IN NNP POS NN NN VBD DT NN .
+Astronauts will use communications equipment aboard the International Space Station to transmit heat shield video and laser scans to engineers on the ground .,O O O O O O O B-geo I-geo I-geo O O O O O O O O O O O O O O,NNS MD VB NNS NN IN DT NNP NNP NNP TO VB NN NN NN CC NN NNS TO NNS IN DT NN .
+Discovery is now scheduled to land Monday at 1254 UTC .,O O O O O O B-tim O B-tim I-tim O,NNP VBZ RB VBN TO VB NNP IN CD NNP .
+The space shuttle docked at the space station Wednesday .,O O O O O O O O B-tim O,DT NN NN VBD IN DT NN NN NNP .
+"On Friday , shuttle astronauts conducted a spacewalk to disconnect an old ammonia tank and prepare for the installation of a new one .",O B-tim O O O O O O O O O O O O O O O O O O O O O O,"IN NNP , NN NNS VBD DT NN TO VB DT JJ NN NN CC VB IN DT NN IN DT JJ CD ."
+They also retrieved a Japanese experiment from the station 's exterior .,O O O O B-gpe O O O O O O O,PRP RB VBD DT JJ NN IN DT NN POS NN .
+The second of three planned spacewalks will begin early Sunday .,O O O O O O O O O B-tim O,DT NN IN CD JJ NNS MD VB JJ NNP .

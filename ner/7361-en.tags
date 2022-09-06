@@ -1,0 +1,10 @@
+Officials in Afghanistan say Taleban militants have beheaded four Afghan men .,O O B-geo O B-org O O O O B-gpe O O,NNS IN NNP VBP NNP NNS VBP VBN CD JJ NNS .
+Authorities say the decapitated bodies were found in Shajoy district of insurgent-hit Zabol province .,O O O O O O O O B-geo O O O O O O,NNS VBP DT JJ NNS VBD VBN IN NNP NN IN JJ NNP NN .
+They say the men were kidnapped from their homes Tuesday .,O O O O O O O O O B-tim O,PRP VBP DT NNS VBD VBN IN PRP$ NNS NNP .
+"The Taleban claimed responsibility , accusing the men of spying for the United States .",O B-org O O O O O O O O O O B-geo I-geo O,"DT NNP VBD NN , VBG DT NNS IN VBG IN DT NNP NNPS ."
+That claim could not be immediately confirmed .,O O O O O O O O,DT NN MD RB VB RB VBN .
+"Also Friday , a roadside bomb exploded as a convoy carrying Denmark 's defense chief , Jesper Helsoe , passed by .",O B-tim O O O O O O O O O B-gpe O O O O B-per I-per O O O O,"RB NNP , DT NN NN VBD IN DT NN VBG NNP POS NN NN , NNP NNP , VBN IN ."
+The explosion occurred near Feyzabad in the northeastern part of the country .,O O O O B-geo O O O O O O O O,DT NN VBD IN NNP IN DT JJ NN IN DT NN .
+No casualties were reported .,O O O O O,DT NNS VBD VBN .
+"Late Thursday , coalition leaders announced the deaths of 14 militants during the ongoing military offensive to flush out insurgents from southern Afghanistan .",O B-tim O O O O O O O O O O O O O O O O O O O O B-geo O,"RB NNP , NN NNS VBD DT NNS IN CD NNS IN DT JJ JJ NN TO VB RP NNS IN JJ NNP ."
+"The Taleban , whose government was toppled by a U.S.-led military coalition in late 2001 , have been fighting against the new government .",O B-org O O O O O O O O O O O O B-tim O O O O O O O O O,"DT NNP , WP$ NN VBD VBN IN DT JJ JJ NN IN JJ CD , VBP VBN VBG IN DT JJ NN ."

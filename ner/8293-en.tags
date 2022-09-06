@@ -1,0 +1,4 @@
+"According to the American Heart Association , cardiac arrest occurs more than 900 times a day in the United States .",O O O B-org I-org I-org O O O O O O O O O O O O B-geo I-geo O,"VBG TO DT NNP NNP NNP , JJ NN VBZ JJR IN CD NNS DT NN IN DT NNP NNPS ."
+Almost half of these incidents are unexpected and occur in places other than a hospital .,O O O O O O O O O O O O O O O O,RB NN IN DT NNS VBP JJ CC VBP IN NNS JJ IN DT NN .
+"In many cases , death can be prevented if medical help arrives quickly .",O O O O O O O O O O O O O O,"IN JJ NNS , NN MD VB VBN IN JJ NN VBZ RB ."
+VOA 's Melinda Smith says a new study reveals that location where the victim is located can greatly influence survival .,B-org O B-per I-per O O O O O O O O O O O O O O O O O,NNP POS NNP NNP VBZ DT JJ NN VBZ IN NN WRB DT NN VBZ VBN MD RB VB NN .

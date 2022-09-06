@@ -1,0 +1,5 @@
+U.S. automaker Chrysler has opened a $ 570 million engine plant in northern Mexico .,B-geo O B-org O O O O O O O O O O B-geo O,NNP NN NNP VBZ VBN DT $ CD CD NN NN IN JJ NNP .
+"During the ceremonial startup of the Saltillo plant Friday , Mexican President Felipe Calderon said Chrysler 's sixth plant in Mexico will create 700 jobs .",O O O O O O B-art O B-tim O B-gpe B-per I-per I-per O B-org O O O O B-geo O O O O O,"IN DT JJ NN IN DT NNP NN NNP , JJ NNP NNP NNP VBD NNP POS JJ NN IN NNP MD VB CD NNS ."
+Mr. Calderon said Mexico has become a worldwide leader in the auto industry .,B-per I-per O B-gpe O O O O O O O O O O,NNP NNP VBD NNP VBZ VBN DT JJ NN IN DT NN NN .
+"Chrysler plans to build its new fuel-efficient Pentastar V-6 engine for Chrysler , Dodge , Jeep and Ram vehicles .",B-org O O O O O O B-art I-art O O B-art O B-art O B-art O B-art O O,"NNP VBZ TO VB PRP$ JJ JJ NNP NNP NN IN NNP , NNP , NNP CC NNP NNS ."
+"Mexican officials say the new plant will have the capacity to build 440,000 engines per year .",B-gpe O O O O O O O O O O O O O O O O,JJ NNS VBP DT JJ NN MD VB DT NN TO VB CD NNS IN NN .

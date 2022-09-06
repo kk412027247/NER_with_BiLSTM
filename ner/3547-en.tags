@@ -1,0 +1,8 @@
+The African Union says it is temporarily suspending the deployment of troops to Sudan 's troubled Darfur region because of a fuel shortage .,O B-org I-org O O O O O O O O O O B-geo O O B-geo O O O O O O O,DT NNP NNP VBZ PRP VBZ RB VBG DT NN IN NNS TO NNP POS JJ NNP NN IN IN DT NN NN .
+AU officials say the suspension will last several weeks .,B-org O O O O O O B-tim O O,NNP NNS VBP DT NN MD VB JJ NNS .
+"The Associated Press reports the fuel shortage was caused by the closure of a refinery in Sudan 's capital , Khartoum , for repairs .",O B-org I-org O O O O O O O O O O O O O B-geo O O O B-geo O O O O,"DT NNP NNP VBZ DT NN NN VBD VBN IN DT NN IN DT NN IN NNP POS NN , NNP , IN NNS ."
+AU officials say heavy rains in Darfur are also hindering the deployment of troops as some roads have become impassable .,O O O O O O B-geo O O O O O O O O O O O O O O,NNP NNS VBP JJ NNS IN NNP VBP RB VBG DT NN IN NNS IN DT NNS VBP VBN JJ .
+Several thousand AU troops and police officers are already in Darfur .,O O B-org O O O O O O O B-geo O,JJ CD NNP NNS CC NNS NNS VBP RB IN NNP .
+"The force is expected to number more than 7,000 when the deployment is completed .",O O O O O O O O O O O O O O O,DT NN VBZ VBN TO VB JJR IN CD WRB DT NN VBZ VBN .
+The force is monitoring a cease-fire between Darfur rebels and pro-government Arab militia .,O O O O O O O B-geo O O O B-gpe O O,DT NN VBZ VBG DT NN IN NNP NNS CC JJ JJ NN .
+"The conflict has left 180,000 people dead and two million others displaced .",O O O O O O O O O O O O O,DT NN VBZ VBN CD NNS JJ CC CD CD NNS VBD .

@@ -1,0 +1,4 @@
+"Pakistan briefly blocked two independent news channels Saturday , as they covered the standoff between militants and soldiers at army headquarters in Islamabad",B-geo O O O O O O B-tim O O O O O O O O O O O O O O B-geo,"NNP RB VBD CD JJ NN NNS NNP , IN PRP VBD DT NN IN NNS CC NNS IN NN NN IN NNP"
+"The Geo and SAMA channels , were taken off the air for a short period of time .",O B-org O B-org O O O O O O O O O O O O O O,"DT NNP CC NNP NNS , VBD VBN RP DT NN IN DT JJ NN IN NN ."
+"The stations showed a message from Pakistan 's media regulatory body saying it is temporarily suspending transmission of "" independent news TV channels "" until further notice .",O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O O,DT NNS VBD DT NN IN NNP POS NNS JJ NN VBG PRP VBZ RB VBG NN IN LQU JJ NN NN NNS RQU IN JJ NN .
+Both stations have been critical of the government in the past .,O O O O O O O O O O O O,DT NNS VBP VBN JJ IN DT NN IN DT NN .

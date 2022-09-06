@@ -1,0 +1,6 @@
+Spanish police have arrested an Algerian man charged with providing logistical support to a suspected coordinator of the September 11 terrorist attacks on the United States .,B-gpe O O O O B-gpe O O O O O O O O O O O O B-tim I-tim O O O O B-geo I-geo O,JJ NNS VBP VBN DT JJ NN VBN IN VBG JJ NN TO DT JJ NN IN DT NNP CD JJ NNS IN DT NNP NNPS .
+"Authorities say they arrested the man , identified as Tahar Izerouel , late Tuesday .",O O O O O O O O O B-org I-org O O B-tim O,"NNS VBP PRP VBN DT NN , VBN IN NNP NNP , JJ NNP ."
+He was charged earlier this week along with seven other terrorist suspects .,O O O O O O O O O O O O O,PRP VBD VBN RBR DT NN IN IN CD JJ JJ NNS .
+The Algerian was still at large when formally charged and anti-terrorism judge Baltasar Garzon ordered his arrest .,O B-gpe O O O O O O O O O O B-per I-per O O O O,DT NN VBD RB IN JJ WRB RB VBN CC JJ NN NNP NNP VBD PRP$ NN .
+All eight were accused of providing false identity papers and other documents to Ramzi Binalshibh .,O O O O O O O O O O O O O B-geo I-geo O,DT CD VBD VBN IN VBG JJ NN NNS CC JJ NNS TO NNP NNP .
+"He is in U.S. custody , suspected of being the contact between al-Qaida and the September 11 hijackers .",O O O B-geo O O O O O O O O B-org O O B-tim I-tim O O,"PRP VBZ IN NNP NN , VBN IN VBG DT NN IN NNP CC DT NNP CD NNS ."

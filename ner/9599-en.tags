@@ -1,0 +1,5 @@
+President Bush signed a new anti-genetic discrimination bill on May 22 .,B-per I-per O O O O O O O B-tim I-tim O,NNP NNP VBD DT JJ JJ NN NN IN NNP CD .
+He says the act protects Americans against misuse of their genetic information by employers and insurance companies .,O O O O O B-gpe O O O O O O O O O O O O,PRP VBZ DT NN VBZ NNS IN NN IN PRP$ JJ NN IN NNS CC NN NNS .
+The U.S. House of Representatives passed the legislation earlier this month with a near unanimous vote .,O B-org I-org I-org I-org O O O O O O O O O O O O,DT NNP NNP IN NNPS VBD DT NN RBR DT NN IN DT JJ JJ NN .
+"Later , the Senate unanimously approved it .",B-tim O O B-org O O O O,"RB , DT NNP RB VBD PRP ."
+VOA 's Deborah Block reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

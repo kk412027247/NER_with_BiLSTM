@@ -1,0 +1,5 @@
+Chinese state media says Beijing has established a company to manufacture passenger jumbo jets .,B-gpe O O O B-geo O O O O O O O O O O,JJ NN NNS VBZ NNP VBZ VBN DT NN TO VB NN JJ NNS .
+The Xinhua news agency says the Commercial Aircraft Corporation of China was established in Shanghai Sunday .,O B-org O O O O B-org I-org I-org I-org I-org O O O B-geo B-tim O,DT NNP NN NN VBZ DT NNP NNP NNP IN NNP VBD VBN IN NNP NNP .
+"Xinhua said the company will be responsible for researching , developing , manufacturing and marketing large passenger aircraft .",B-org O O O O O O O O O O O O O O O O O O,"NNP VBD DT NN MD VB JJ IN VBG , VBG , VBG CC VBG JJ NN NN ."
+The news agency said the central government and China 's two largest aircraft manufacturing and servicing companies are among the major shareholders .,O O O O O O O O B-org O O O O O O O O O O O O O O,DT NN NN VBD DT JJ NN CC NNP POS CD JJS NN NN CC NN NNS VBP IN DT JJ NNS .
+The company was launched with capital of $ 2.7 billion .,O O O O O O O O O O O,DT NN VBD VBN IN NN IN $ CD CD .

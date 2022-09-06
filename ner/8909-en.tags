@@ -1,0 +1,9 @@
+Floods and landslides in the wake of Hurricane Stan have killed at least 617 people throughout Central America and Mexico .,O O O O O O O O O O O O O O O O B-geo I-geo O B-geo O,NNS CC NNS IN DT NN IN NNP NNP VBP VBN IN JJS CD NNS IN NNP NNP CC NNP .
+"More than 500 people were killed in Guatemala , which sustained the worst blow from last week 's storm .",O O O O O O O B-geo O O O O O O O O O O O O,"JJR IN CD NNS VBD VBN IN NNP , WDT VBD DT JJS NN IN JJ NN POS NN ."
+"At least 1,400 other people are missing and presumed dead in the Guatemalan village of Panabaj .",O O O O O O O O O O O O B-gpe O O B-geo O,IN JJS CD JJ NNS VBP VBG CC VBN JJ IN DT JJ NN IN NNP .
+The Mayan Indian village was buried in a mudslide triggered by Stan 's torrential rains .,O O B-gpe O O O O O O O O B-per O O O O,DT JJ JJ NN VBD VBN IN DT NN VBN IN NNP POS JJ NNS .
+"Rescue workers are digging through tons of mud and rock searching for victims , but the town may eventually be declared a mass burial site .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"NN NNS VBP VBG IN NNS IN NN CC NN VBG IN NNS , CC DT NN MD RB VB VBN DT NN NN NN ."
+"The remainder of the dead are scattered throughout El Salvador , Nicaragua and Mexico .",O O O O O O O O B-geo I-geo O B-geo O B-geo O,"DT NN IN DT NN VBP VBN IN NNP NNP , NNP CC NNP ."
+Entire families are either dead or missing in some communities .,O O O O O O O O O O O,NNP NNS VBP RB JJ CC JJ IN DT NNS .
+The disaster has left thousands of people homeless .,O O O O O O O O O,DT NN VBZ VBN NNS IN NNS JJ .
+Rescue crews have been unable to reach some isolated communities because many bridges and roads were washed out in the storm .,O O O O O O O O O O O O O O O O O O O O O O,NN NNS VBP VBN JJ TO VB DT JJ NNS IN JJ NNS CC NNS VBD VBN RP IN DT NN .

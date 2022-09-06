@@ -1,0 +1,8 @@
+A U.S. Border Patrol agent has been charged with murder in the fatal shooting of a Mexican illegal immigrant in January .,O B-org I-org I-org O O O O O O O O O O O O B-gpe O O O B-tim O,DT NNP NNP NNP NN VBZ VBN VBN IN NN IN DT JJ NN IN DT JJ JJ NN IN NNP .
+"Prosecutors in the southwestern state of Arizona filed four charges Monday against agent Nicholas Corbett , including first-degree murder .",O O O O O O B-geo O O O B-tim O O B-per I-per O O O O O,"NNS IN DT JJ NN IN NNP VBD CD NNS NNP IN NN NNP NNP , VBG JJ NN ."
+The charges say Corbett unlawfully killed Francisco Dominguez-Rivera January 12 as the immigrant crossed the Mexican border illegally into Arizona .,O O O B-per O O B-geo I-geo B-tim I-tim O O O O O B-gpe O O O B-geo O,DT NNS VBP NNP RB VBD NNP NNP NNP CD IN DT NN VBD DT JJ NN RB IN NNP .
+Corbett has said he fired at Dominguez-Rivera in self-defense after being threatened with a rock .,B-per O O O O O B-geo O O O O O O O O O,NNP VBZ VBN PRP VBD IN NNP IN JJ IN VBG VBN IN DT NN .
+"Prosecutors say evidence shows Dominguez-Rivera presented "" no threat "" to the agent .",O O O O B-geo O O O O O O O O O,NNS VBP NN VBZ NNP VBD LQU DT NN RQU TO DT NN .
+The evidence includes testimony from three Mexicans who tried to cross the border with Dominguez-Rivera .,O O O O O O B-gpe O O O O O O O B-geo O,DT NN VBZ NN IN CD NNS WP VBD TO VB DT NN IN NNP .
+The Mexican government has condemned the killing .,O B-gpe O O O O O O,DT JJ NN VBZ VBN DT NN .
+Corbett remains a Border Patrol agent but is no longer working in the field .,B-per O O B-org I-org O O O O O O O O O O,NNP VBZ DT NNP NNP NN CC VBZ RB RB VBG IN DT NN .

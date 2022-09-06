@@ -1,0 +1,7 @@
+"China has rushed a first batch of vaccine to the southwestern province of Sichuan , where a pig-borne disease has killed at least 34 people .",B-org O O O O O O O O O O O O B-geo O O O O O O O O O O O O,"NNP VBZ VBN DT JJ NN IN NN TO DT JJ NN IN NNP , WRB DT JJ NN VBZ VBN IN JJS CD NNS ."
+"The Xinhua news agency reports that enough vaccine to treat Streptococcus suis bacteria in 350,000 pigs has been flown to the province .",O B-org O O O O O O O O B-nat I-nat O O O O O O O O O O O,DT NNP NN NN VBZ IN JJ NN TO VB NNP NNP NNS IN CD NNS VBZ VBN VBN TO DT NN .
+Another 10 million doses are being manufactured and will be sent to affected areas .,O O O O O O O O O O O O O O O,DT CD CD NNS VBP VBG VBN CC MD VB VBN TO JJ NNS .
+Health authorities have identified 174 human cases - either confirmed or suspected - of the illness as of Saturday .,O O O O O O O O O O O O O O O O O O B-tim O,NN NNS VBP VBN CD JJ NNS IN DT VBN CC VBN : IN DT NN IN IN NNP .
+Most victims had handled either infected pigs or pork .,O O O O O O O O O O,JJS NNS VBD VBN RB JJ NNS CC NN .
+China says no human-to-human transmission of the ailment has been seen .,B-org O O O O O O O O O O O,NNP VBZ DT JJ NN IN DT NN VBZ VBN VBN .
+"Two cases have been reported in Hong Kong , adjacent to Guangdong , but they are believed to be unrelated to the Sichuan outbreak .",O O O O O O B-geo I-geo O O O B-geo O O O O O O O O O O B-geo O O,"CD NNS VBP VBN VBN IN NNP NNP , JJ TO NNP , CC PRP VBP VBN TO VB JJ TO DT NNP NN ."

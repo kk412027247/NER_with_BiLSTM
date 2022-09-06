@@ -1,0 +1,5 @@
+"The U.S. space agency 's Mars probe is set to land Sunday , May 25 .",O B-geo O O O B-geo O O O O O B-tim O B-tim I-tim O,"DT NNP NN NN POS NNP NN VBZ VBN TO VB NNP , NNP CD ."
+"NASA scientists in Washington recently talked about what they call the mission 's "" seven minutes of terror . """,B-org O O B-geo O O O O O O O O O O O O O O O O,NNP NNS IN NNP RB VBD IN WP PRP VBP DT NN POS LQU CD NNS IN NN . LQU
+That is how long it will take for a probe to slow down enough to land on its surface .,O O O O O O O O O O O O O O O O O O O O,DT VBZ WRB JJ PRP MD VB IN DT NN TO VB RB RB TO VB IN PRP$ NN .
+"Once there , the Phoenix Mars Lander will dig into the Martian ice and soil , study the planet 's atmosphere , and more .",O O O O B-art I-art I-art O O O O B-geo O O O O O O O O O O O O O,"RB RB , DT NNP NNP NNP MD VB IN DT JJ NN CC NN , NN DT NN POS NN , CC RBR ."
+VOA 's Paul Sisco reports .,B-org O B-per I-per O O,NNP POS NNP NNP VBZ .

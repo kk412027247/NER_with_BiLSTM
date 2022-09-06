@@ -1,0 +1,7 @@
+"Haiti 's electoral board has again postponed the country 's presidential and legislative elections , this time setting the poll for January 8 .",B-geo O O O O O O O O O O O O O O O O O O O O B-tim I-tim O,"NNP POS JJ NN VBZ RB VBN DT NN POS JJ CC JJ NNS , DT NN VBG DT NN IN NNP CD ."
+This is the fourth time the board has pushed back the poll to replace the country 's interim administration with an elected body .,O O O O O O O O O O O O O O O O O O O O O O O O,DT VBZ DT JJ NN DT NN VBZ VBN RB DT NN TO VB DT NN POS JJ NN IN DT VBN NN .
+The vote was originally scheduled for October 9 .,O O O O O O B-tim I-tim O,DT NN VBD RB VBN IN NNP CD .
+Election officials have attributed the postponements to poor organization and a lack of resources for the poll .,O O O O O O O O O O O O O O O O O O,NN NNS VBP VBN DT NNS TO JJ NN CC DT NN IN NNS IN DT NN .
+"An official on the nine-member election council , Rosemond Pradel told the Associated Press the new delay is because the country is still not prepared for a vote .",O O O O O O O O B-per I-per O O B-org I-org O O O O O O O O O O O O O O O,"DT NN IN DT JJ NN NN , NNP NNP VBD DT NNP NNP DT JJ NN VBZ IN DT NN VBZ RB RB VBN IN DT NN ."
+But he insisted the new poll date is final .,O O O O O O O O O O,CC PRP VBD DT JJ NN NN VBZ JJ .
+Haiti 's constitution requires that a new government be in place by February 7 .,B-geo O O O O O O O O O O O B-tim I-tim O,NNP POS NN VBZ IN DT JJ NN VB IN NN IN NNP CD .

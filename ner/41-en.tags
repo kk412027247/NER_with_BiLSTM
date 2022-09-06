@@ -1,0 +1,6 @@
+India 's cricket team has scored 365-5 by the close of play on the first day of its third and final test match against Pakistan in Bangalore .,B-geo O O O O O O O O O O O O O O O O O O O O O O O B-org O B-geo O,NNP POS NN NN VBZ VBN CD IN DT NN IN NN IN DT JJ NN IN PRP$ JJ CC JJ NN NN IN NNP IN NNP .
+"Yuvraj Singh and Sourav Ganguly both had centuries for the home side , with Singh blasting a career-best 169 runs while Ganguly had an unbeaten 125 .",B-per I-per O B-org I-org O O O O O O O O O B-per O O O O O O B-geo O O O O O,"NNP NNP CC NNP NNP DT VBD NNS IN DT NN NN , IN NNP VBG DT JJ CD NNS IN NNP VBD DT JJ CD ."
+"Singh had 28 fours and a six in his time at the crease , while Ganguly hammered 20 fours .",B-per O O O O O O O O O O O O O O O O O O O,"NNP VBD CD NNS CC DT CD IN PRP$ NN IN DT NN , IN RB VBN CD NNS ."
+Pakistani bowler Yasir Araft took three wickets while allowing 98 runs in 22 overs .,B-gpe O B-per I-per O O O O O O O O O O O,JJ NN NNP NNP VBD CD NNS IN VBG CD NNS IN CD NNS .
+"India last won a home series against Pakistan in 1979 , but leads this series 1-0 after winning the first test by six wickets .",B-org O O O O O O B-org O B-tim O O O O O O O O O O O O O O O,"NNP JJ VBD DT NN NN IN NNP IN CD , CC VBZ DT NN CD IN VBG DT JJ NN IN CD NNS ."
+The second test was a draw .,O O O O O O O,DT JJ NN VBD DT NN .

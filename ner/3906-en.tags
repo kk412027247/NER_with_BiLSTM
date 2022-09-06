@@ -1,0 +1,7 @@
+Militants in Nigeria 's oil-rich Niger Delta region say they have killed three soldiers in a clash near a major natural gas plant .,O O B-geo O B-org B-gpe B-org O O O O O O O O O O O O O O O O O,NNS IN NNP POS NN NNP NNP NN VBP PRP VBP VBN CD NNS IN DT NN IN DT JJ JJ NN NN .
+The Movement for the Emancipation of the Niger Delta made the announcement in an e-mail statement Saturday .,O O O O O O O B-gpe B-org O O O O O O O B-tim O,DT NN IN DT NN IN DT NNP NNP VBD DT NN IN DT JJ NN NNP .
+The group says it seized a military boat as well as weapons and ammunition during Thursday 's encounter .,O O O O O O O O O O O O O O O B-tim O O O,DT NN VBZ PRP VBD DT JJ NN RB RB IN NNS CC NN IN NNP POS NN .
+"An Army spokesman says three soldiers went missing near Soku , but says at this time , there is no confirmation of them being killed .",O B-org O O O O O O O B-geo O O O O B-tim I-tim O O O O O O O O O O,"DT NNP NN VBZ CD NNS VBD VBG IN NNP , CC VBZ IN DT NN , EX VBZ DT NN IN PRP VBG VBN ."
+Militants groups are demanding greater autonomy for the Delta region .,O O O O O O O O B-org O O,NNS NNS VBP VBG JJR NN IN DT NNP NN .
+They have carried out several attacks and kidnapped foreign oil workers in recent months .,O O O O O O O O O O O O O O O,PRP VBP VBN RP JJ NNS CC VBN JJ NN NNS IN JJ NNS .
+"Militants are still holding three hostages , two Americans and a Briton .",O O O O O O O O B-gpe O O B-gpe O,"NNS VBP RB VBG CD NNS , CD NNS CC DT NN ."

@@ -1,0 +1,4 @@
+"This desolate , arctic , mountainous island was named after a Dutch whaling captain who indisputably discovered it in 1614 ( earlier claims are inconclusive ) .",O O O O O O O O O O O B-gpe O O O O O O O B-tim O O O O O O O,"DT NN , JJ , JJ NN VBD VBN IN DT JJ NN NN WP RB VBD PRP IN CD LRB JJR NNS VBP JJ RRB ."
+"Visited only occasionally by seal hunters and trappers over the following centuries , the island came under Norwegian sovereignty in 1929 .",O O O O O O O O O O O O O O O O O B-gpe O O B-tim O,"VBN RB RB IN NN NNS CC NNS IN DT VBG NNS , DT NN VBD IN JJ NN IN CD ."
+The long dormant Beerenberg volcano resumed activity in 1970 ; the most recent eruption occurred in 1985 .,O O O B-per O O O O B-tim O O O O O O O B-tim O,DT JJ NN NNP NNP VBD NN IN CD ; DT RBS JJ NN VBD IN CD .
+It is the northernmost active volcano on earth .,O O O O O O O O O,PRP VBZ DT JJ JJ NN IN NN .

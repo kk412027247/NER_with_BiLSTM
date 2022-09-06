@@ -1,0 +1,8 @@
+Israel says Syria has test-fired three Scud missiles - the first such tests since 2001 .,B-geo O B-geo O O O O O O O O O O B-tim I-tim O,NNP VBZ NNP VBZ VBN CD NNP NNS IN DT JJ JJ NNS IN CD .
+Israeli military officials said their air defense systems detected the missile launches from northern Syria last Friday .,B-gpe O O O O O O O O O O O O O B-geo O B-tim O,JJ NN NNS VBD PRP$ NN NN NNS VBD DT NN NNS IN JJ NNP JJ NNP .
+"They said one missile broke up over Turkey , showering debris on two towns .",O O O O O O O B-geo O O O O O O O,"PRP VBD CD NN VBD RP IN NNP , VBG NN IN CD NNS ."
+Turkish officials say Syria has informed them that the incident was an accident that happened during a military exercise .,B-gpe O O B-geo O O O O O O O O O O O O O O O O,JJ NNS VBP NNP VBZ VBN PRP IN DT NN VBD DT NN WDT VBD IN DT JJ NN .
+Turkish authorities say no injuries were reported .,B-gpe O O O O O O O,JJ NNS VBP DT NNS VBD VBN .
+There has been no public comment from Syria .,O O O O O O O B-geo O,EX VBZ VBN DT JJ NN IN NNP .
+"Israel 's military described the tests as an act of defiance toward the United States and the United Nations , which pushed Syria to withdraw its troops from Lebanon this year .",B-geo O O O O O O O O O O O O B-geo I-geo O O B-org I-org O O O B-geo O O O O O B-geo O O O,"NNP POS JJ VBD DT NNS IN DT NN IN NN IN DT NNP NNPS CC DT NNP NNPS , WDT VBD NNP TO VB PRP$ NNS IN NNP DT NN ."
+Israeli officials also expressed concern that the missiles could carry chemical weapons capable of hitting Israeli targets .,B-gpe O O O O O O O O O O O O O O B-gpe O O,JJ NNS RB VBD NN IN DT NNS MD VB NN NNS JJ IN VBG JJ NNS .

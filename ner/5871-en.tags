@@ -1,0 +1,8 @@
+"The U.S. economy grew a little more slowly than first thought during April , May , and June .",O B-geo O O O O O O O O O B-tim I-tim I-tim I-tim O O B-tim O,"DT NNP NN VBD DT RB RBR RB IN RB VBN IN NNP , NNP , CC NNP ."
+Wednesday 's update of gross domestic product growth in the second quarter shows the economy expanding at a healthy 3.3 percent .,B-tim O O O O O O O O O B-tim I-tim O O O O O O O O O O,NNP POS NN IN JJ JJ NN NN IN DT JJ NN VBZ DT NN VBG IN DT JJ CD NN .
+The Commerce Department says that is a little less ( 0.1 percent less ) than first thought .,O B-org I-org O O O O O O O O O O O O O O O,DT NNP NNP VBZ DT VBZ DT RB RBR LRB CD NN RBR RRB IN JJ NN .
+It is also half a percent below first quarter growth .,O O O O O O O O O O O,PRP VBZ RB PDT DT NN IN JJ NN NN .
+The new figures do not take into account the damage done to the U.S. energy industry by Hurricane Katrina .,O O O O O O O O O O O O O B-geo O O O O O O,DT JJ NNS VBP RB VB IN NN DT NN VBN TO DT NNP NN NN IN NNP NNP .
+Analysts say hurricane damage is likely to crimp energy supplies and boost prices .,O O O O O O O O O O O O O O,NNS VBP NN NN VBZ JJ TO VB NN NNS CC VB NNS .
+Economists are revising their predictions of future economic growth as they get more detailed reports of the damage and the time needed to repair it .,O O O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP VBG PRP$ NNS IN JJ JJ NN IN PRP VBP JJR JJ NNS IN DT NN CC DT NN VBN TO VB PRP .
+Higher energy costs can hurt the economy by leaving consumers and businesses with less money to spend on other goods .,O O O O O O O O O O O O O O O O O O O O O,JJR NN NNS MD VB DT NN IN VBG NNS CC NNS IN JJR NN TO VB IN JJ NNS .

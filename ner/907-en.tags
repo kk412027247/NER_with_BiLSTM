@@ -1,0 +1,8 @@
+"Police in southwestern Afghanistan say suspected Taleban militants Saturday attacked a mine-clearing team , killing seven people .",O O O B-geo O O B-org O B-tim O O O O O O O O O,"NNS IN JJ NNP VBP JJ NNP NNS NNP VBD DT JJ NN , VBG CD NNS ."
+Authorities in western Farah province say gunmen ambushed the team as they traveled from southern Kandahar to the western province of Herat .,O O O B-geo O O O O O O O O O O O B-geo O O O O O B-geo O,NNS IN JJ NNP NN VBP NNS VBD DT NN IN PRP VBD IN JJ NNP TO DT JJ NN IN NNP .
+Police say a total of six security guards and de-miners who worked for a U.S.-based mine clearing company ( RONCO ) and an Afghan woman were killed .,O O O O O O O O O O O O O O O O O O O B-org O O O B-gpe O O O O,NNS VBP DT NN IN CD NN NNS CC NNS WP VBD IN DT JJ NN NN NN LRB NNP RRB CC DT JJ NN VBD VBN .
+Four other people were wounded in the shootout .,O O O O O O O O O,CD JJ NNS VBD VBN IN DT NN .
+Taleban militants are waging a bloody insurgency in Afghanistan .,B-org O O O O O O O B-geo O,NNP NNS VBP VBG DT JJ NN IN NNP .
+"On Friday , Afghan President Hamid Karzai disclosed his government has held direct talks with Taleban militants .",O B-tim O B-gpe B-per I-per I-per O O O O O O O O B-org O O,"IN NNP , JJ NNP NNP NNP VBD PRP$ NN VBZ VBN JJ NNS IN NNP NNS ."
+"At a news conference in Kabul , Mr. Karzai said the talks have been going on for some time .",O O O O O B-geo O B-per I-per O O O O O O O O O O O,"IN DT NN NN IN NNP , NNP NNP VBD DT NNS VBP VBN VBG IN IN DT NN ."
+Taleban representatives later denied the president 's claim .,B-org O O O O O O O O,NNP NNS RB VBD DT NN POS NN .

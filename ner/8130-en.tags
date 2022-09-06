@@ -1,0 +1,7 @@
+"Singapore 's men 's national football team has defeated Indonesia , 3-1 , in the first leg of the Tiger Cup finals in Jakarta .",B-geo O O O O O O O O B-org O O O O O O O O O B-eve I-eve O O B-geo O,"NNP POS NNS POS JJ NN NN VBZ VBN NNP , CD , IN DT JJ NN IN DT NNP NNP NNS IN NNP ."
+First-half goals from England native Daniel Bennett and Khairul Amri gave Singapore the lead .,O O O B-geo O B-per I-per O B-per I-per O B-org O O O,JJ NNS IN NNP JJ NNP NNP CC NNP NNP VBD NNP DT NN .
+Nigerian-born Agu Casmir added another goal in the second half .,O B-per I-per O O O O O B-tim I-tim O,JJ NNP NNP VBD DT NN IN DT JJ NN .
+Indonesia 's only score came in injury time when substitute Mahyadi Panggabean deflected a free kick into the goal .,B-org O O O O O O O O O B-per I-per O O O O O O O O,NNP POS JJ NN VBD IN NN NN WRB NN NNP NNP VBD DT JJ NN IN DT NN .
+Singapore holds a two-goal lead over Indonesia headed into the second leg match in Singapore January 16 .,B-org O O O O O B-org O O O O O O O B-geo B-tim I-tim O,NNP VBZ DT JJ NN IN NNP VBD IN DT JJ NN NN IN NNP NNP CD .
+Singapore is trying to win the tournament for the second time in six years .,B-org O O O O O O O O O O O B-tim O O,NNP VBZ VBG TO VB DT NN IN DT JJ NN IN CD NNS .
+Indonesia has lost twice before in the Tiger Cup finals in 2000 and 2002 .,B-org O O O O O O B-eve I-eve O O B-tim I-tim I-tim O,NNP VBZ VBN RB RB IN DT NNP NNP NNS IN CD CC CD .

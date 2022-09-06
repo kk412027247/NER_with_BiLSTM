@@ -1,0 +1,4 @@
+IRAQ-POVERTY ( Washington ),B-eve O B-geo O,NNP LRB NNP RRB
+"Rep. Tony Hall , D-Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq .",B-per I-per I-per O B-geo O O O B-org I-org O O O O O O O O O O B-geo O,"NNP NNP NNP , NNP , VBZ DT NNP NNPS TO VB DT JJR NN IN NN CC NN IN NNP ."
+"Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .",B-per O O O O O O O O B-geo O O B-org O O O O O O O O O,"NNP , WP RB VBD IN DT NN IN NNP , VBD NN JJ NNS VBP VBN NNS IN NNS RB ."
+By AUSTIN ZALKIN .,O B-per I-per O,IN NNP NNP .

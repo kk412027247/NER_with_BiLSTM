@@ -1,0 +1,8 @@
+A 37-year-old woman has become the 13th person in Egypt to die of the H5N1 strain of bird flu .,O O O O O O B-tim O O B-geo O O O O O O O O O O,DT JJ NN VBZ VBN DT JJ NN IN NNP TO VB IN DT NNP NN IN NN NN .
+Nadia Mohammed Abdel Hafez died in a hospital in Cairo early Friday .,B-per I-per I-per I-per O O O O O B-geo O B-tim O,NNP NNP NNP NNP VBD IN DT NN IN NNP JJ NNP .
+Health officials initially reported that her condition was stable and that she was being treated with the drug Tamiflu .,O O O O O O O O O O O O O O O O O O B-geo O,NNP NNS RB VBD IN PRP$ NN VBD JJ CC IN PRP VBD VBG VBN IN DT NN NNP .
+"The woman raised poultry in her home in the province of Fayoum , south of Cairo , where a teenage girl died of bird flu earlier this month .",O O O O O O O O O O O B-geo O B-geo I-geo I-geo O O O O O O O O O O O O O,"DT NN VBD NN IN PRP$ NN IN DT NN IN NNP , NN IN NNP , WRB DT NN NN VBD IN NN NN RBR DT NN ."
+Health officials announced separately Friday that a five-year-old boy has tested positive for bird flu .,O O O O B-tim O O O O O O O O O O O,NNP NNS VBD RB NNP IN DT JJ NN VBZ VBN JJ IN NN NN .
+He is the 22nd confirmed human case of bird flu in Egypt .,O O O B-tim O O O O O O O B-geo O,PRP VBZ DT NN VBD JJ NN IN NN NN IN NNP .
+"Egypt has become the largest cluster of human cases of bird flu outside of Asia , where the disease originated .",B-geo O O O O O O O O O O O O O B-geo O O O O O O,"NNP VBZ VBN DT JJS NN IN JJ NNS IN NN NN IN IN NNP , WRB DT NN VBN ."
+Cases have been discovered in 19 of Egypt 's 26 provinces .,O O O O O O O B-geo O O O O,NNS VBP VBN VBN IN CD IN NNP POS CD NNS .

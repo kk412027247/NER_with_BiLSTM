@@ -1,0 +1,8 @@
+"Catholic and Jewish mourners have gathered for the funeral of the former Roman Catholic archbishop of Paris , Cardinal Jean-Marie Lustiger .",B-per O B-per O O O O O O O O O B-geo I-geo O O B-geo O B-per I-per I-per O,"JJ CC JJ NNS VBP VBN IN DT NN IN DT JJ NNP NNP NN IN NNP , NNP NNP NNP ."
+Friday 's service was held in Paris at the Notre Dame Cathedral and began with a Jewish prayer .,B-tim O O O O O B-geo O O B-art I-art I-art O O O O O O O,NNP POS NN VBD VBN IN NNP IN DT NNP NNP NNP CC VBD IN DT JJ NN .
+His coffin was then carried inside the cathedral to be placed in a crypt .,O O O O O O O O O O O O O O O,PRP$ NN VBD RB VBN IN DT NN TO VB VBN IN DT NN .
+"Lustiger , who was born to Jewish parents before converting to Catholicism , had requested that his funeral include both faiths .",B-geo O O O O O O O O O O B-geo O O O O O O O O O O,"NNP , WP VBD VBN TO JJ NNS IN VBG TO NNP , VBD VBN IN PRP$ NN VBP DT NNS ."
+The cardinal was known for his work promoting greater understanding between Catholics and Jews .,O O O O O O O O O O O B-org I-org I-org O,DT NN VBD VBN IN PRP$ NN VBG JJR NN IN NNPS CC NNPS .
+He died on Sunday at the age of 80 .,O O O B-tim O O O O O O,PRP VBD IN NNP IN DT NN IN CD .
+French President Nicolas Sarkozy interrupted his vacation in the United States to attend the funeral .,B-gpe B-per I-per I-per O O O O O B-geo I-geo O O O O O,JJ NNP NNP NNP JJ PRP$ NN IN DT NNP NNPS TO VB DT NN .
+He heads back to the U.S. Friday for a meeting with U.S. President George Bush .,O O O O O B-geo B-tim O O O O B-org B-per I-per I-per O,PRP VBZ RB TO DT NNP NNP IN DT NN IN NNP NNP NNP NNP .

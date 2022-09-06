@@ -1,0 +1,10 @@
+A Hungarian government spokesman says the deadly strain of bird flu virus has been found in southern Hungary .,O B-gpe O O O O O O O O O O O O O O O B-geo O,DT JJ NN NN VBZ DT JJ NN IN NN NN NN VBZ VBN VBN IN JJ NNP .
+"The spokesman , Andras Batiz , said Tuesday three wild swans found last week have tested positive for the H5N1 virus .",O O O B-per I-per O O B-tim I-tim I-tim O O O O O O O O O B-nat O O,"DT NN , NNP NNP , VBD NNP CD JJ NNS VBN JJ NN VBP VBN JJ IN DT NNP NN ."
+A British laboratory confirmed the test results .,O B-gpe O O O O O O,DT JJ NN VBD DT NN NNS .
+German veterinary officials Tuesday confirmed 22 new cases of flu in birds on the island of Ruegen .,B-gpe O O B-tim O O O O O O O O O O O O B-geo O,JJ JJ NNS NNP VBD CD JJ NNS IN NN IN NNS IN DT NN IN NNP .
+The German government announced Monday the virus had spread to the mainland .,O B-gpe O O B-tim O O O O O O O O,DT JJ NN VBD NNP DT NN VBD VBN TO DT NN .
+103 cases have now been found in wild birds in Germany .,O O O O O O O O O O B-geo O,CD NNS VBP RB VBN VBN IN JJ NNS IN NNP .
+Troops have been deployed to control the outbreak .,O O O O O O O O O,NNS VBP VBN VBN TO VB DT NN .
+"In Malaysia Tuesday , officials began culling birds and launched house-to-house inspections for sick people a day after the nation 's first outbreak in more than a year .",O B-geo B-tim O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN NNP NNP , NNS VBD VBG NNS CC VBD NN NNS IN JJ NNS DT NN IN DT NN POS JJ NN IN JJR IN DT NN ."
+No human infections have been reported .,O O O O O O O,DT JJ NNS VBP VBN VBN .
+"And in India , officials wrapped up the culling of thousands of birds to control the latest outbreak in Maharastra state .",O O B-geo O O O O O O O O O O O O O O O O B-geo O O,"CC IN NNP , NNS VBD RP DT NN IN NNS IN NNS TO VB DT JJS NN IN NNP NN ."

@@ -1,0 +1,8 @@
+China is reporting a new outbreak of bird flu in poultry in the northwest Xinjiang region .,B-geo O O O O O O O O O O O O O O O O,NNP VBZ VBG DT JJ NN IN NN NN IN NN IN DT JJS NN NN .
+Agriculture ministry officials said Thursday the virus responsible for the 11 dead birds in Turpan city has been confirmed as the highly contagious H5N1 type .,O O O O B-tim O O O O O O O O O B-geo O O O O O O O O O O O,NNP NN NNS VBD NNP DT NN JJ IN DT CD JJ NNS IN NNP NN VBZ VBN VBN IN DT RB JJ NNP NN .
+"More than 5,000 birds have been culled to contain the new outbreak .",O O O O O O O O O O O O O,JJR IN CD NNS VBP VBN VBN TO VB DT JJ NN .
+"In Indonesia , agriculture officials say hundreds of chickens infected with the most deadly strain of avian influenza have died in three districts in Aceh .",O B-geo O O O O O O O O O O O O O O O O O O O O O O B-geo O,"IN NNP , NN NNS VBP NNS IN NNS VBN IN DT RBS JJ NN IN JJ NN VBP VBN IN CD NNS IN NNP ."
+"In Vietnam , public health officials say a 15-year-old boy from the northern port city of Haiphong has tested positive for the same H5N1 strain of the flu virus .",O B-geo O O O O O O O O O O O O O O B-geo O O O O O O O O O O O O O,"IN NNP , JJ NN NNS VBP DT JJ NN IN DT JJ JJ NN IN NNP VBZ VBN JJ IN DT JJ NNP NN IN DT NN NN ."
+The findings have not yet been confirmed by the World Health Organization .,O O O O O O O O O B-org I-org I-org O,DT NNS VBP RB RB VBN VBN IN DT NNP NNP NNP .
+Nearly 70 people have died from bird flu in Asia since 2003 .,O O O O O O O O O B-geo B-tim I-tim O,RB CD NNS VBP VBN IN NN NN IN NNP IN CD .
+All known human cases of avian flu are believed to have resulted from close contact with infected birds .,O O O O O O O O O O O O O O O O O O O,DT VBN JJ NNS IN JJ NN VBP VBN TO VB VBN IN JJ NN IN JJ NNS .

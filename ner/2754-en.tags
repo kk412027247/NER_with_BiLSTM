@@ -1,0 +1,7 @@
+"Hurricane Ophelia has gathered more strength and battered the coast of North Carolina Wednesday night , pounding the beachfront communities with rains and sustained winds of 140-kilometers per hour .",O B-geo O O O O O O O O O B-geo I-geo B-tim I-tim O O O O O O O O O O O O O O O,"NNP NNP VBZ VBN JJR NN CC VBD DT NN IN NNP NNP NNP NN , VBG DT NN NNS IN NNS CC VBD NNS IN NNS IN NN ."
+"The U.S. National Hurricane Center has issued a hurricane warning for coastal North Carolina , north to Virginia .",O B-org O O O O O O O O O O B-geo I-geo O O O B-geo O,"DT NNP NNP NNP NNP VBZ VBN DT NN NN IN JJ NNP NNP , NN TO NNP ."
+Forecasters have discontinued all warnings for South Carolina .,O O O O O O B-geo I-geo O,NNS VBP VBN DT NNS IN NNP NNP .
+"Fears of floods are intensifying , as the storm 's slow speed indicates that it could rain for days over the region , producing as much as 38 centimeters .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS IN NNS VBP VBG , IN DT NN POS JJ NN VBZ IN PRP MD VB IN NNS IN DT NN , VBG RB RB IN CD NNS ."
+Storm surges are also expected .,O O O O O O,NN NNS VBP RB VBN .
+"Some 50,000 people along North Carolina 's coast have already lost power due to high winds and heavy rain .",O O O O B-geo I-geo O O O O O O O O O O O O O O,DT CD NNS IN NNP NNP POS NN VBP RB VBN NN JJ TO JJ NNS CC JJ NN .
+The governors of Virginia and North Carolina have declared states of emergency ahead of the storm .,O O O B-geo O B-geo I-geo O O O O O O O O O O,DT NNS IN NNP CC NNP NNP VBP VBN NNS IN NN RB IN DT NN .

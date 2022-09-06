@@ -1,0 +1,7 @@
+A Jordanian military court has sentenced to jail 10 Islamic militants for plotting attacks on U.S. forces in Jordan and Iraq .,O O O O O O O O O O O O O O O B-geo O O B-gpe O B-geo O,DT JJ JJ NN VBZ VBN TO NN CD NNP NNS IN VBG NNS IN NNP NNS IN NNP CC NNP .
+The court handed out prison terms of two to five years .,O O O O O O O B-tim I-tim I-tim O O,DT NN VBD RP NN NNS IN CD CC CD NNS .
+At least one of those found guilty has been linked to al-Qaida in Iraq leader Abu Musab al-Zarqawi .,O O O O O O O O O O O B-org O B-geo O B-per I-per I-per O,IN JJS CD IN DT VBN NN VBZ VBN VBN TO NNP IN NNP NN NNP NNP NNP .
+"Ten other suspects , including a Syrian national , were found not-guilty .",O O O O O O B-gpe O O O O O O,"CD JJ NNS , IN DT JJ NN , VBD VBN JJ ."
+The 17 were rounded up in 2005 .,O O O O O O B-tim O,DT CD VBD VBN RP IN CD .
+"They faced several charges , including plotting to attack U.S. troops who were training Iraqi forces in Jordan at the time .",O O O O O O O O O B-geo O O O O B-gpe O O B-gpe O O O O,"PRP VBD JJ NNS , VBG VBG TO VB NNP NNS WP VBD VBG JJ NNS IN NNP IN DT NN ."
+They were also accused of plotting activity to undermine Jordan 's relations with another country .,O O O O O O O O O B-gpe O O O O O O,PRP VBD RB VBN IN VBG NN TO VB NNP POS NNS IN DT NN .

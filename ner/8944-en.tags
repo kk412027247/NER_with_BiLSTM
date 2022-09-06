@@ -1,0 +1,8 @@
+"Officials in Afghanistan say Taleban , al-Qaida and hundreds of other inmates at a high-security prison in Kabul have taken control of a prison block after clashing with security guards .",O O B-geo O B-org O B-org O O O O O O O O O O B-geo O O O O O O O O O O O O O,"NNS IN NNP VBP NNP , NNP CC NNS IN JJ NNS IN DT JJ NN IN NNP VBP VBN NN IN DT NN NN IN VBG IN NN NNS ."
+Prison officials say the riot erupted Saturday night after a group of prisoners refused to wear new prison uniforms intended to prevent inmates from mingling with visitors and possibly escaping .,O O O O O O B-tim I-tim O O O O O O O O O O O O O O O O O O O O O O O,NN NNS VBP DT NN VBD NNP NN IN DT NN IN NNS VBD TO VB JJ NN VBZ VBN TO VB NNS IN VBG IN NNS CC RB VBG .
+Seven Taleban inmates used such a method to escape last month .,O B-org O O O O O O O O O O,CD NNP VBZ VBN PDT DT NN TO VB JJ NN .
+"Officials say at least 1,300 prisoners were involved in the riot .",O O O O O O O O O O O O,NNS VBP IN JJS CD NNS VBD VBN IN DT NN .
+Shots were heard at the Pul-e-Charkhi prison Saturday and early Sunday .,O O O O O B-art O B-tim O O B-tim O,NNS VBD VBN IN DT NNP NN NNP CC JJ NNP .
+"Authorities say no guards were hurt , but several prisoners were injured .",O O O O O O O O O O O O O,"NNS VBP DT NNS VBD VBN , CC JJ NNS VBD VBN ."
+Pul-e-Charkhi prison is a huge facility built in the 1970s where thousands of Afghans opposing communist rule in the 1980s were tortured and killed .,B-art O O O O O O O O B-tim O O O B-gpe O O O O O B-tim O O O O O,NNP NN VBZ DT JJ NN VBN IN DT NNS WRB NNS IN NNS VBG JJ NN IN DT NNS VBD VBN CC VBN .
+The prison now holds common criminals as well as al-Qaida and Taleban-linked militants .,O O O O O O O O O B-org O O O O,DT NN RB VBZ JJ NNS RB RB IN NNP CC JJ NNS .

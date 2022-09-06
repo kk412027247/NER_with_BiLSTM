@@ -1,0 +1,7 @@
+"The U.S. men 's team has won the bronze medal in the Olympic curling competition , the first ever Olympic medal in the sport for the United States .",O B-geo O O O O O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,"DT NNP NNS POS NN VBZ VBN DT NN NN IN DT NNP VBG NN , DT JJ RB JJ NN IN DT NN IN DT NNP NNPS ."
+"The U.S. men defeated Great Britain , 8-6 .",O B-geo O O B-geo I-geo O O O,"DT NNP NNS VBD NNP NNP , CD ."
+Curling is a sport where competitors slide a large rounded stone down the ice an attempt to come close to a target .,O O O O O O O O O O O O O O O O O O O O O O O,NNP VBZ DT NN WRB NNS VB DT JJ JJ NN IN DT NN DT NN TO VB RB TO DT NN .
+"Points are calculated based on the distance the stones finish from the target or "" house . """,O O O O O O O O O O O O O O O O O O,NNS VBP VBN VBN IN DT NN DT NNS VBP IN DT NN CC LQU NN . LQU
+The gold medal match is later Friday with Finland taking on Canada .,O O O O O O B-tim O B-geo O O B-geo O,DT NN NN NN VBZ RB NNP IN NNP VBG IN NNP .
+"Thursday , Sweden beat Switzerland and won the women 's gold medal .",B-tim O B-org O B-geo O O O O O O O O,"NNP , NNP VBD NNP CC VBD DT NNS POS NN NN ."
+Canada took the bronze medal .,B-geo O O O O O,NNP VBD DT NN NN .

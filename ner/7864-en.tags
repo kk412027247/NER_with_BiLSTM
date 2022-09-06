@@ -1,0 +1,4 @@
+"The Ann Arbor News crime column reported that a man walked into a Burger King in Ypsilanti , Michigan , at 7:50 a.m. , flashed a gun , and demanded cash .",O B-org I-org I-org O O O O O O O O O B-geo I-geo O B-geo O B-geo O O B-tim I-tim O O O O O O O O O,"DT NNP NNP NNP NN NN VBD IN DT NN VBD IN DT NNP NNP IN NNP , NNP , IN CD RB , VBD DT NN , CC VBD NN ."
+The clerk turned him down because he said he could n't open the cash register without a food order .,O O O O O O O O O O O O O O O O O O O O,DT NN VBD PRP RB IN PRP VBD PRP MD RB VB DT NN NN IN DT NN NN .
+"When the man ordered onion rings , the clerk said they were n't available for breakfast .",O O O O O O O O O O O O O O O O O,"WRB DT NN VBD JJ NNS , DT NN VBD PRP VBD RB JJ IN NN ."
+"The man , frustrated , walked away .",O O O O O O O O,"DT NN , JJ , VBD RB ."

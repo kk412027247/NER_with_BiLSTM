@@ -1,0 +1,7 @@
+"French rally driver Sebastien Loeb has continued his dominance of the Rally of Turkey , stretching his lead to more than one minute after the second day of the event .",B-gpe O O B-per I-per O O O O O O B-org I-org I-org O O O O O O O O O O O B-tim I-tim O O O O,"JJ NN NN NNP NNP VBZ VBN PRP$ NN IN DT NN IN NNP , VBG PRP$ NN TO JJR IN CD NN IN DT JJ NN IN DT NN ."
+"Loeb , in a Citroen , expanded his lead to 1:16 minutes over Subaru driver Petter Solberg of Norway .",B-per O O O B-org O O O O O O O O B-geo O B-per I-per O B-geo O,"NNP , IN DT NNP , VBD PRP$ NN TO CD NNS IN NNP NN NNP NNP IN NNP ."
+"Former world champion Marcus Gronholm of Finland in a Peugeot is third overall , 1:24 behind Loeb .",O O O B-per I-per O B-geo O O B-geo O O O O O O B-per O,"JJ NN NN NNP NNP IN NNP IN DT NNP VBZ JJ JJ , CD IN NNP ."
+"Mitsubishi 's Gigi Galli of Italy , who briefly led the rally Friday , dropped to ninth place after suffering a turbo charger malfunction in the 10th stage .",B-geo O B-per I-per O B-geo O O O O O O B-tim O O O O O O O O O O O O O B-tim O O,"NNP POS NNP NNP IN NNP , WP RB VBD DT NN NNP , VBD TO JJ NN IN VBG DT NN NN NN IN DT JJ NN ."
+Loeb now has a total time of 3:34:33.2 hours .,B-per O O O O O O B-tim O O,NNP RB VBZ DT JJ NN IN CD NNS .
+The French driver leads the season standings with 45 points .,O B-gpe O O O O O O O O O,DT JJ NN VBZ DT NN NNS IN CD NNS .
+Petter Solberg and Markko Martin of Estonia are tied for second with 34 points .,B-per I-per O B-per I-per O B-geo O O O O O O O O,NNP NNP CC NNP NNP IN NNP VBP VBN IN JJ IN CD NNS .

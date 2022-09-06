@@ -1,0 +1,5 @@
+"When people think of the capital of the United States , Washington , D.C. - they usually think of monuments , museums and the White House .",O O O O O O O O B-geo I-geo O B-geo O B-geo O O O O O O O O O O B-org I-org O,"WRB NNS VBP IN DT NN IN DT NNP NNPS , NNP , NNP IN PRP RB VBP IN NNS , NNS CC DT NNP NNP ."
+"But for some , a small family restaurant comes to mind .",O O O O O O O O O O O O,"CC IN DT , DT JJ NN NN VBZ TO NN ."
+Ben 's Chili Bowl has been open for 50 years and is one of the city 's most enduring landmarks .,B-org I-org I-org I-org O O O O B-tim O O O O O O O O O O O O,NNP POS NNP NNP VBZ VBN JJ IN CD NNS CC VBZ CD IN DT NN POS RBS JJ NNS .
+VOA 's Ana Ward recently spent an afternoon at the renowned restaurant .,B-org I-org I-org I-org O O O B-tim O O O O O,NNP POS NNP NNP RB VBD DT NN IN DT JJ NN .
+VOA 's Sean Maroney narrates .,B-org I-org I-org I-org O O,NNP POS NNP NNP VBZ .

@@ -1,0 +1,8 @@
+Turkish Prime Minister Recep Tayyip Erdogan has met Iranian leaders in Tehran to discuss regional tensions and bilateral trade .,B-gpe B-per I-per I-per I-per I-per O O B-gpe O O B-geo O O O O O O O O,JJ NNP NNP NNP NNP NNP VBZ VBN JJ NNS IN NNP TO VB JJ NNS CC JJ NN .
+Mr. Erdogan had separate meetings Sunday with Iranian President Mahmoud Ahmadinejad and Vice President Parviz Davoodi .,B-per I-per O O O B-tim O B-gpe B-per I-per I-per O B-per I-per I-per I-per O,NNP NNP VBD JJ NNS NNP IN JJ NNP NNP NNP CC NNP NNP NNP NNP .
+Iranian state media say Mr. Erdogan raised Iraq 's security situation during the talks .,B-gpe O O O B-per I-per O B-geo O O O O O O O,JJ NN NNS VBP NNP NNP VBD NNP POS NN NN IN DT NNS .
+Iran and Turkey share borders with Iraq and are concerned about sectarian violence in the country .,B-gpe O B-gpe O O O B-gpe O O O O O O O O O O,NNP CC NNP VBP NNS IN NNP CC VBP VBN IN JJ NN IN DT NN .
+The Turkish prime minister also said he would discuss boosting trade with Iran .,O B-gpe B-per O O O O O O O O O B-geo O,DT JJ JJ NN RB VBD PRP MD VB VBG NN IN NNP .
+He is accompanied on the visit by Turkish oil and gas officials .,O O O O O O O B-gpe O O O O O,PRP VBZ VBN IN DT NN IN JJ NN CC NN NNS .
+Relations between Iran and Turkey have not always been smooth .,O O B-gpe O B-gpe O O O O O O,NNS IN NNP CC NNP VBP RB RB VBN JJ .
+"Turkey has good relations with the United States and Israel , two countries viewed as hostile by Iran 's government .",B-geo O O O O O B-geo I-geo O B-geo O O O O O O O B-geo O O O,"NNP VBZ JJ NNS IN DT NNP NNPS CC NNP , CD NNS VBN IN JJ IN NNP POS NN ."

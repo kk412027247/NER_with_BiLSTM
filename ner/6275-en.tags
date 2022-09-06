@@ -1,0 +1,8 @@
+Chinese authorities say 254 people were killed in a massive mudslide that buried a northern Chinese village .,B-gpe O O O O O O O O O O O O O O B-gpe O O,JJ NNS VBP CD NNS VBD VBN IN DT JJ NN WDT VBD DT JJ JJ NN .
+The death toll rose sharply Saturday after the discovery of more than 70 additional bodies in Shanxi province .,O O O O O B-tim O O O O O O O O O O B-geo O O,DT NN NN VBD RB NNP IN DT NN IN JJR IN CD JJ NNS IN NNP NN .
+"The official Xinhua news agency reported a wall of waste and mud from an illegal mine plowed into a village of about 1,000 people on Monday .",O O B-org O O O O O O O O O O O O O O O O O O O O O O B-tim O,DT JJ NNP NN NN VBD DT NN IN NN CC NN IN DT JJ NN VBD IN DT NN IN IN CD NNS IN NNP .
+The slide buried an outdoor market said to have been packed with people .,O O O O O O O O O O O O O O,DT NN VBD DT JJ NN VBN TO VB VBN VBN IN NNS .
+Officials stated hundreds could have been killed .,O O O O O O O O,NNS VBD NNS MD VB VBN VBN .
+"More than 1,000 people are involved in rescue and recovery operations .",O O O O O O O O O O O O,JJR IN CD NNS VBP VBN IN NN CC NN NNS .
+Chinese work safety officials blamed the illegal mine for the disaster .,B-gpe O O O O O O O O O O O,JJ NN NN NNS VBD DT JJ NN IN DT NN .
+"Police have detained 12 people associated with the mine , including its boss .",O O O O O O O O O O O O O O,"NNS VBP VBN CD NNS VBN IN DT NN , VBG PRP$ NN ."

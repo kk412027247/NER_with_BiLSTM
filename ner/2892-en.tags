@@ -1,0 +1,7 @@
+"Economic reports paint a mixed picture of the U.S. economy , with manufacturing rising and construction dropping .",O O O O O O O O B-geo O O O O O O O O O,"JJ NNS VBP DT JJ NN IN DT NNP NN , IN NN VBG CC NN VBG ."
+Monday 's report from the Institute for Supply Management says an index of manufacturing rose 2.3 percentage points in December .,B-tim O O O O B-org I-org I-org I-org O O O O O O O O O O B-tim O,NNP POS NN IN DT NNP IN NNP NNP VBZ DT NN IN NN VBD CD NN NNS IN NNP .
+Factories are apparently boosting production to meet growing demand from government stimulus programs .,O O O O O O O O O O O O O O,NNS VBP RB VBG NN TO VB VBG NN IN NN NN NNS .
+Demand is also helped by businesses that are rebuilding inventories that were drastically cut during the worst of the economic crisis .,O O O O O O O O O O O O O O O O O O O O O O,NN VBZ RB VBN IN NNS WDT VBP VBG NNS WDT VBD RB VBN IN DT JJS IN DT JJ NN .
+A separate government report shows a very different trend .,O O O O O O O O O O,DT JJ NN NN VBZ DT RB JJ NN .
+The latest figures from the U.S. Commerce Department show construction falling to the lowest level in six years .,O O O O O B-org I-org I-org O O O O O O O O B-tim O O,DT JJS NNS IN DT NNP NNP NNP VBP NN VBG TO DT JJS NN IN CD NNS .
+"November 's data show a .6 percent decline for the month , which is the seventh drop in as many months .",B-tim O O O O O O O O O O O O O O O O O O O O O,"NNP POS NNS VBP DT CD NN NN IN DT NN , WDT VBZ DT JJ NN IN IN JJ NNS ."

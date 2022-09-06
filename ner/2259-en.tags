@@ -1,0 +1,8 @@
+"Security officials in Gaza City say gunmen killed five Palestinians , including a top intelligence officer , in a drive-by shooting Friday .",O O O B-geo I-geo O O O O B-gpe O O O O O O O O O O O B-tim O,"NN NNS IN NNP NNP VBP NNS VBD CD NNS , VBG DT JJ NN NN , IN DT JJ NN NNP ."
+The incident occurred near the home of Palestinian Prime Minister Ismail Haniyeh .,O O O O O O O B-gpe B-per I-per I-per I-per O,DT NN VBD IN DT NN IN JJ NNP NNP NNP NNP .
+"Officials say unidentified gunmen in a car opened fire on a vehicle carrying Jad Tayeh , an officer in the Palestinian intelligence service and four of his bodyguards .",O O O O O O O O O O O O O B-per I-per O O O O O B-gpe O O O O O O O O,"NNS VBP JJ NNS IN DT NN VBD NN IN DT NN VBG NNP NNP , DT NN IN DT JJ NN NN CC CD IN PRP$ NNS ."
+The motive for the attack is not clear .,O O O O O O O O O,DT NN IN DT NN VBZ RB JJ .
+There was no immediate claim of responsibility .,O O O O O O O O,EX VBD DT JJ NN IN NN .
+"In the past , there have been several incidents of deadly clashes between rival Palestinian factions , including the ruling Hamas organization and the Fatah group led by Palestinian President Mahmoud Abbas .",O O O O O O O O O O O O O O B-gpe O O O O O B-org O O O B-org O O O B-gpe B-per I-per I-per O,"IN DT NN , EX VBP VBN JJ NNS IN JJ NNS IN JJ JJ NNS , VBG DT NN NNP NN CC DT NNP NN VBN IN JJ NNP NNP NNP ."
+"Also in Gaza City , witnesses say a small explosion caused minor damage outside a Greek Orthodox church Friday .",O O B-geo I-geo O O O O O O O O O O O B-gpe B-org I-org B-tim O,"RB IN NNP NNP , NNS VBP DT JJ NN VBD JJ NN IN DT JJ NNP NN NNP ."
+No one was injured in the blast .,O O O O O O O O,DT NN VBD VBN IN DT NN .

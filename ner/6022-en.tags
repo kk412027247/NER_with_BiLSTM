@@ -1,0 +1,6 @@
+Russian news reports say a court ruled Monday that Mikhail Khodorkovsky and his business partner are guilty of embezzling property .,B-gpe O O O O O O B-tim O B-geo B-per O O O O O O O O O O,JJ NN NNS VBP DT NN VBD NNP IN NNP NNP CC PRP$ NN NN VBP JJ IN VBG NN .
+The verdict means the two have been found guilty of stealing oil from Khodorkovsky 's now-defunct company Yukos .,O O O O O O O O O O O O O B-per O O O B-org O,DT NN VBZ DT CD VBP VBN VBN JJ IN VBG NN IN NNP POS JJ NN NNP .
+The judge has yet to announce a sentence .,O O O O O O O O O,DT NN VBZ RB TO VB DT NN .
+"Former chief executive of Yukos , Khodorkovsky - once Russia 's richest man - and his partner , Platon Lebedev , are accused of embezzling 350 million tons of oil and laundering about $ 25 billion in proceeds .",O O O O B-org O B-per O O B-geo O O O O O O O O B-per I-per O O O O O O O O O O O O O O O O O O O,"JJ JJ NN IN NNP , NNP : RB NNP POS JJS NN : CC PRP$ NN , NNP NNP , VBP VBN IN VBG CD CD NNS IN NN CC NN IN $ CD CD IN NNS ."
+"Both defendants deny the charges , saying they were framed for opposing Kremlin policies .",O O O O O O O O O O O O B-org O O,"DT NNS VBP DT NNS , VBG PRP VBD VBN IN VBG NNP NNS ."
+Khodorkovsky is currently nearing the end of an 8-year sentence for fraud and tax evasion .,B-per O O O O O O O O O O O O O O O,NNP VBZ RB VBG DT NN IN DT JJ NN IN NN CC NN NN .

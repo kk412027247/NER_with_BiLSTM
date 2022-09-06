@@ -1,0 +1,4 @@
+Mick was showing an American some Irish marrows and the American said that they had gherkins as big as marrows .,B-per O O O B-gpe O B-gpe O O O B-org O O O O O O O O O O,NNP VBD VBG DT JJ DT JJ NNS CC DT NNP VBD IN PRP VBD NNS RB JJ IN NNS .
+"Then Mick showed him some cabbages , the American said that in the States they had brussel sprouts as big as them and that American cabbages are about 3 feet in diameter .",O B-per O O O O O O B-org O O O O B-geo O O O O O O O O O O B-gpe O O O O O O O O,"RB NNP VBD PRP DT NNS , DT NNP VBD IN IN DT NNS PRP VBD NN NNS RB JJ IN PRP CC IN JJ NNS VBP IN CD NNS IN NN ."
+Eventually the American pointed to some old gasometers and asked what they were .,O O B-org O O O O O O O O O O O,RB DT NNP VBD TO DT JJ NNS CC VBD WP PRP VBD .
+Mick replied they are saucepans for cooking American cabbages .,B-per O O O O O O B-gpe O O,NNP VBD PRP VBP NNS IN JJ JJ NNS .

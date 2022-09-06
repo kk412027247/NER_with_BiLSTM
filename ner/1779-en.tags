@@ -1,0 +1,6 @@
+Justin Timberlake has a message for U.S. celebrity journalists : drop dead .,B-per I-per O O O O B-geo O O O O O O,NNP NNP VBZ DT NN IN NNP NN NNS IN NN NN .
+"Speaking to Details Magazine , the 26-year-old entertainer says he despises tabloids for turning his personal life into gossip fodder .",O O B-org I-org O O O O O O O O O O O O O O O O O,"VBG TO NNP NNP , DT JJ NN VBZ PRP VBZ NNS IN VBG PRP$ JJ NN IN NN NN ."
+""" They create soap operas out of people 's lives ... it 's a spin game , and I choose not to take part in it , "" Timberlake said .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-per O O,"LQU PRP VBP NN NNS IN IN NNS POS NNS : PRP VBZ DT NN NN , CC PRP VBP RB TO VB NN IN PRP , RQU NNP VBD ."
+He takes particular exception to speculation about his relationships with Britney Spears and Cameron Diaz .,O O O O O O O O O O B-per I-per O B-per I-per O,PRP VBZ JJ NN TO NN IN PRP$ NNS IN NNP NNPS CC NNP NNP .
+He and Britney ended their three-year relationship in 2002 .,O O B-per O O B-tim O O B-tim O,PRP CC NNP VBD PRP$ JJ NN IN CD .
+"He and Diaz , who had dated since 2003 , confirmed their split in January .",O O B-per O O O O B-tim I-tim O O O O O B-tim O,"PRP CC NNP , WP VBD VBN IN CD , VBD PRP$ NN IN NNP ."

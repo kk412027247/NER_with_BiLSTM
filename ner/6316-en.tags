@@ -1,0 +1,7 @@
+"Courtney Love plans to sell most of the items which once belonged to her husband , former Nirvana leader Kurt Cobain .",B-per I-per O O O O O O O O O O O O O O O B-org O B-per I-per O,"NNP NNP VBZ TO VB JJS IN DT NNS WDT RB VBD TO PRP$ NN , JJ NNP NN NNP NNP ."
+"Comparing her house to a "" mausoleum , "" the 42-year-old rock singer says she plans to hold a charity auction .",O O O O O O O O O O O O O O O O O O O O O O,"VBG PRP$ NN TO DT RQU NN , LQU DT JJ NN NN VBZ PRP VBZ TO VB DT NN NN ."
+"Love and Cobain wed in 1992 and later that year had a daughter , Frances Bean .",B-per O B-per O O B-tim O O O O O O O O B-per I-per O,"NNP CC NNP VBD IN CD CC RB DT NN VBD DT NN , NNP NNP ."
+Kurt Cobain committed suicide in 1994 .,B-per I-per O O O B-tim O,NNP NNP VBD NN IN CD .
+"Speaking to AOL Music , Love says "" My daughter does n't need to inherit a giant ... bag full of flannel ... shirts . """,O O B-org I-org O B-per O O O O O O O O O O O O O O O O O O O O,"VBG TO NNP NNP , NNP VBZ LQU PRP$ NN VBZ RB VB TO VB DT NN : NN JJ IN NN : NNS . RQU"
+"She says Frances will get one of Cobain 's sweaters , a guitar , and the lyrics to Nirvana 's biggest hit , "" Smells Like Teen Spirit . """,O O B-per O O O O B-per O O O O O O O O O O B-org O O O O O B-art I-art I-art I-art O O,"PRP VBZ NNS MD VB CD IN NNP POS NNS , DT NN , CC DT NNS IN NNP POS JJS NN , LQU NNPS NNP NNP NNP . RQU"
+AOL publicist Kurt Patat gave no date for the auction .,B-org O B-per I-per O O O O O O O,NNP NN NNP NNP VBD DT NN IN DT NN .

@@ -1,0 +1,5 @@
+"Militants in Iraq detonated several roadside bombs Friday , killing at least two people and injuring eight others .",O O B-geo O O O O B-tim O O O O O O O O O O O,"NNS IN NNP VBD JJ NN NNS NNP , VBG IN JJS CD NNS CC VBG CD NNS ."
+Police in Iraq say insurgents set off a bomb near a U.S. Army convoy in Baghdad 's exclusive Mansour district .,O O B-geo O O O O O O O O B-org I-org O O B-geo O O B-geo O O,NNS IN NNP VBP NNS VBD RP DT NN IN DT NNP NNP NN IN NNP POS JJ NNP NN .
+The explosion killed one person and wounded at least five others -- some seriously .,O O O O O O O O O O O O O O O,DT NN VBD CD NN CC VBD IN JJS CD NNS : DT RB .
+"Across town , a bomb targeting Iraqi National Guard troops killed one person and wounded at least three others .",O O O O O O B-gpe B-org I-org O O O O O O O O O O O,"IN NN , DT NN VBG JJ NNP NNP NNS VBD CD NN CC VBD IN JJS CD NNS ."
+The attacks followed twin suicide car-bomb blasts Thursday that killed at least 15 people and wounded more than 30 others .,O O O O O O O B-tim O O O O O O O O O O O O O,DT NNS VBD JJ NN NN NNS NNP WDT VBD IN JJS CD NNS CC VBD JJR IN CD NNS .

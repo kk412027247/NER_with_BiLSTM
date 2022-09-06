@@ -1,0 +1,8 @@
+"Three more countries have reported their first cases of the H5N1 virus , as the deadly strain of bird flu continues to spread .",O O O O O O O O O O O O O O O O O O O O O O O O,"CD JJR NNS VBP VBN PRP$ JJ NNS IN DT NNP NN , IN DT JJ NN IN NN NN VBZ TO VB ."
+Georgian President Mikhail Saakashvili declared a state of emergency in the western region where officials found the virus in a wild swan .,B-gpe B-per I-per I-per O O O O O O O O O O O O O O O O O O O,JJ NNP NNP NNP VBD DT NN IN NN IN DT JJ NN WRB NNS VBD DT NN IN DT JJ NN .
+He ordered the culling of all domestic birds near a Black Sea village where the swan died .,O O O O O O O O O O B-org I-org O O O O O O,PRP VBD DT NN IN DT JJ NNS IN DT NNP NNP NN WRB DT NN VBD .
+Bosnia and Niger have also confirmed the presence of H5N1 in dead birds .,B-geo O B-gpe O O O O O O O O O O O,NNP CC NNP VBP RB VBN DT NN IN NNP IN JJ NNS .
+"Niger is the third African country with an outbreak of bird flu this month , joining Nigeria and Egypt .",B-gpe O O O B-gpe O O O O O O O O O O O B-geo O B-geo O,"NNP VBZ DT JJ JJ NN IN DT NN IN NN NN DT NN , VBG NNP CC NNP ."
+"Meanwhile , Paris is hosting an international conference on ways to combat the spread of the disease .",O O B-geo O O O O O O O O O O O O O O O,"RB , NNP VBZ VBG DT JJ NN IN NNS TO VB DT NN IN DT NN ."
+Health experts fear the avian virus could mutate into a form that could be passed between humans .,O O O O O O O O O O O O O O O O O O,NNP NNS VBP DT JJ NN MD VB IN DT NN WDT MD VB VBN IN NNS .
+The disease has spread from Asia and killed more than 90 people since late 2003 .,O O O O O B-geo O O O O O O O O B-tim O,DT NN VBZ VBN IN NNP CC VBN JJR IN CD NNS IN JJ CD .

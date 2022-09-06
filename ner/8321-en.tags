@@ -1,0 +1,10 @@
+The first day of voting in Italy 's general elections has ended after an angry campaign between incumbent Prime Minister Silvio Berlusconi and center-left leader Romano Prodi .,O O O O O O B-geo O O O O O O O O O O O B-per O B-per I-per O O O B-per I-per O,DT JJ NN IN VBG IN NNP POS JJ NNS VBZ VBN IN DT JJ NN IN JJ NNP NNP NNP NNP CC JJ NN NNP NNP .
+"The last opinion poll taken two weeks ago gave Mr. Prodi a slight lead , with millions of voters still undecided .",O O O O O B-tim O O O B-per I-per O O O O O O O O O O O,"DT JJ NN NN VBN CD NNS RB VBD NNP NNP DT JJ NN , IN NNS IN NNS RB VBD ."
+First day voter turnout was 66 percent .,O O O O O O O O,JJ NN NN NN VBD CD NN .
+Voting resumes Monday morning and first results are expected by the end of the day .,O O B-tim I-tim O O O O O O O B-tim I-tim O B-tim O,NN VBZ NNP NN CC JJ NNS VBP VBN IN DT NN IN DT NN .
+Mr. Berlusconi has been Italian prime minister for five years .,B-per I-per O O B-gpe O O O B-tim O O,NNP NNP VBZ VBN JJ JJ NN IN CD NNS .
+"He has promised to cut taxes , including eliminating the housing tax .",O O O O O O O O O O O O O,"PRP VBZ VBN TO VB NNS , VBG VBG DT NN NN ."
+He accuses Prodi 's leftist-bloc of being communist dominated .,O O B-per O O O O O O O,PRP VBZ NNP POS NN IN VBG JJ VBN .
+Mr. Prodi calls the proposal unworkable and has assailed Mr. Berlusconi 's economic record .,B-per I-per O O O O O O O B-per I-per O O O O,NNP NNP VBZ DT NN JJ CC VBZ VBN NNP NNP POS JJ NN .
+The campaign was marked by two televised debates in which the candidates traded insults .,O O O O O B-tim I-tim O O O O O O O O,DT NN VBD VBN IN CD JJ NNS IN WDT DT NNS VBD NNS .
+"Mr. Prodi compared Mr. Berlusconi to a drunk while the prime minister called his rival a "" useful idiot . """,B-per I-per O B-per I-per O O O O O O O O O O O O O O O O,NNP NNP VBD NNP NNP TO DT NN IN DT JJ NN VBD PRP$ NN DT LQU JJ NN . LQU

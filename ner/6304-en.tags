@@ -1,0 +1,8 @@
+The Islamic militant group Hamas says it has formed its cabinet and will present the choices to Palestinian President Mahmoud Abbas on Sunday .,O B-org I-org I-org I-org O O O O O O O O O O O O B-gpe B-per I-per I-per O B-tim O,DT NNP JJ NN NNP VBZ PRP VBZ VBN PRP$ NN CC MD VB DT NNS TO JJ NNP NNP NNP IN NNP .
+"Hamas , which won parliamentary elections in January , failed to get any other Palestinian faction to join the new government .",B-org O O O O O O B-tim O O O O O O B-gpe O O O O O O O,"NNP , WDT VBD JJ NNS IN NNP , VBD TO VB DT JJ JJ NN TO VB DT JJ NN ."
+Hamas had planned to meet with Mr. Abbas Saturday .,B-org O O O O O B-per I-per B-tim O,NNP VBD VBN TO VB IN NNP NNP NNP .
+There is no word on why the plans were changed .,O O O O O O O O O O O,EX VBZ DT NN IN WRB DT NNS VBD VBN .
+"Mr. Abbas 's Fatah Party has refused to join a Hamas-led government , saying the militant group must first renounce violence and accept past peace accords with Israel .",B-per I-per O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O B-geo O,"NNP NNP POS NNP NNP VBZ VBN TO VB DT JJ NN , VBG DT JJ NN MD RB VB NN CC VB JJ NN NNS IN NNP ."
+"Mr. Abbas has to approve the cabinet , and his aides say he would accept the choices .",B-per I-per O O O O O O O O O O O O O O O O,"NNP NNP VBZ TO VB DT NN , CC PRP$ NNS VBP PRP MD VB DT NNS ."
+Hamas has claimed dozens of suicide attacks against Israeli targets in recent years .,B-org O O O O O O O B-gpe O O B-tim O O,NNP VBZ VBN NNS IN NN NNS IN JJ NNS IN JJ NNS .
+"The United States , Israel and Europe classify the group as a terrorist organization .",O B-geo I-geo O B-geo O B-geo O O O O O O O O,"DT NNP NNPS , NNP CC NNP VBP DT NN IN DT JJ NN ."

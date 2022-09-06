@@ -1,0 +1,4 @@
+The World Health Organization says every year hundreds of millions of people are becoming ill with preventable chronic respiratory diseases .,O B-org I-org I-org O O O O O O O O O O O O O O O O O,DT NNP NNP NNP VBZ DT NN NNS IN NNS IN NNS VBP VBG JJ IN JJ JJ JJ NNS .
+"One of the most common allergies is said to be hay fever , which is caused by contact with ragweed [ Botanical name : artemisiifolia ] .",O O O O O O O O O O O O O O O O O O O B-nat O O O O B-nat O O,"CD IN DT RBS JJ NNS VBZ VBN TO VB JJ NN , WDT VBZ VBN IN NN IN NNP LRB JJ NN IN NNP RRB ."
+Scientists now say the increase in ragweed is stimulated by climate change .,O O O O O O O O O O O O O,NNS RB VBP DT NN IN NN VBZ VBN IN NN NN .
+VOA 's Melinda Smith has more on this condition .,B-org O B-per I-per O O O O O O,NNP POS NNP NNP VBZ RBR IN DT NN .

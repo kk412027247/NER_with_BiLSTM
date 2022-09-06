@@ -1,0 +1,9 @@
+"Iraqi election officials say it is too early to suspect problems during Saturday 's constitutional referendum , as workers continue to review ballots .",B-gpe O O O O O O O O O O O B-tim O O O O O O O O O O O,"JJ NN NNS VBP PRP VBZ RB JJ TO VB NNS IN NNP POS JJ NN , IN NNS VBP TO VB NNS ."
+"Officials say workers are still auditing results for about 12 Shi'ite and Kurdish areas which reported unusually high totals of "" yes "" votes .",O O O O O O O O O B-tim I-tim I-tim B-org O O O O O O O O O O O O,NNS VBP NNS VBP RB VBG NNS IN IN CD NNP CC NNP NNS WDT VBD RB JJ NNS IN LQU UH LQU NNS .
+Those regions were expected to support the constitution .,O O O O O O O O O,DT NNS VBD VBN TO VB DT NN .
+Election officials say a final vote count may be ready by Friday or Saturday .,O O O O O O O O O O O B-tim I-tim I-tim O,NN NNS VBP DT JJ NN NN MD VB JJ IN NNP CC NNP .
+"At least one predominantly Sunni Arab province , Salaheddin , appeared to have voted against the constitution .",O O O O B-per I-per O O B-org O O O O O O O O O,"IN JJS CD RB NNP NNP NN , NNP , VBD TO VB VBN IN DT NN ."
+The draft will fail if three provinces vote against it .,O O O O O O O O O O O,DT NN MD VB IN CD NNS NN IN PRP .
+Some Sunni Arab leaders have alleged fraud in Saturday 's vote .,O B-per I-per O O O O O B-tim O O O,DT NNP NNP NNS VBP VBN NN IN NNP POS NN .
+"Meanwhile , Iraqi police said gunmen in Ramadi killed the deputy governor of Anbar province , Talib al-Dulaimi , on Tuesday .",O O B-gpe O O O O B-geo O O O O O B-geo O O B-per I-per O O B-tim O,"RB , JJ NNS VBD NNS IN NNP VBD DT NN NN IN NNP NN , NNP NNP , IN NNP ."
+And U.S. military officials said one soldier died in a gun battle in Mosul .,O B-geo O O O O O O O O O O O B-geo O,CC NNP JJ NNS VBD CD NN VBD IN DT NN NN IN NNP .

@@ -1,0 +1,3 @@
+"In place of the cult of personality that the Communist Party built around Chairman Mao , the Chinese are embracing a new cult : celebrity .",O O O O O O O O O B-org I-org O O O B-per O O B-gpe O O O O O O O O,"IN NN IN DT NN IN NN IN DT NNP NNP VBD IN NNP NNP , DT NNS VBP VBG DT JJ NN IN NN ."
+"No Chinese person is more famous now than basketball player and NBA All-Star , Yao Ming , who is headlining China 's Olympic basketball team .",O B-gpe O O O O O O O O O B-org I-org O B-per I-per O O O O B-geo O O O O O,"DT JJ NN VBZ RBR JJ RB IN NN NN CC NNP NNP , NNP NNP , WP VBZ VBG NNP POS NNP NN NN ."
+Mandy Clark reports from Beijing .,B-per I-per O O B-geo O,NNP NNP VBZ IN NNP .

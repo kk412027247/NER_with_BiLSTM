@@ -1,0 +1,4 @@
+"The Goldman Environmental Prize is awarded to environmental activists around the world annually for what the Goldman foundation calls "" environmental grass roots heroism . """,O B-org I-org I-org O O O O O O O O O O O O B-per O O O O O O O O O,DT NNP NNP NNP VBZ VBN TO JJ NNS IN DT NN RB IN WP DT NNP NN VBZ LQU JJ NN NNS NN . LQU
+"The prize carries with it $ 150,000 and has been called the nobel prize for the environment .",O O O O O O O O O O O O O O O O O O,DT NN VBZ IN PRP $ CD CC VBZ VBN VBN DT NN NN IN DT NN .
+This year 's winner from Europe is Belgium 's Ignace Schops .,O O O O O B-geo O B-geo O B-geo I-geo O,DT NN POS NN IN NNP VBZ NNP POS NNP NNP .
+VOA'S Paul Sisco has his story and the story of the national park he helped establish .,B-per I-per I-per O O O O O O O O O O O O O O,NNP NNP NNP VBZ PRP$ NN CC DT NN IN DT JJ NN PRP VBD VB .

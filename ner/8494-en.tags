@@ -1,0 +1,6 @@
+The Gambia gained its independence from the UK in 1965 .,O B-geo O O O O O B-org O B-tim O,DT NNP VBD PRP$ NN IN DT NNP IN CD .
+"Geographically surrounded by Senegal , it formed a short-lived federation of Senegambia between 1982 and 1989 .",O O O B-geo O O O O O O O B-geo B-tim I-tim I-tim I-tim O,"RB VBN IN NNP , PRP VBD DT JJ NN IN NNP IN CD CC CD ."
+"In 1991 the two nations signed a friendship and cooperation treaty , but tensions have flared up intermittently since then .",O B-tim O O O O O O O O O O O O O O O O O O O,"IN CD DT CD NNS VBD DT NN CC NN NN , CC NNS VBP VBN RP RB IN RB ."
+Yahya JAMMEH led a military coup in 1994 that overthrew the president and banned political activity .,B-per I-per O O O O O B-tim O O O O O O O O O,NNP NNP VBD DT JJ NN IN CD WDT VBD DT NN CC VBD JJ NN .
+"A new constitution and presidential elections in 1996 , followed by parliamentary balloting in 1997 , completed a nominal return to civilian rule .",O O O O O O O B-tim O O O O O O B-tim O O O O O O O O O,"DT JJ NN CC JJ NNS IN CD , VBN IN JJ NN IN CD , VBD DT JJ NN TO JJ NN ."
+JAMMEH has been elected president in all subsequent elections including most recently in late 2006 .,B-per O O O O O O O O O O O O O B-tim O,NNP VBZ VBN VBN NN IN DT JJ NNS VBG RBS RB IN JJ CD .

@@ -1,0 +1,8 @@
+The World Bank has approved $ 73 million in loans to help Haiti 's economic and disaster recovery efforts .,O B-org I-org O O O O O O O O O B-geo O O O O O O O,DT NNP NNP VBZ VBN $ CD CD IN NNS TO VB NNP POS JJ CC NN NN NNS .
+Bank President James Wolfensohn said in a statement Thursday the main goal is to help Haiti 's government deliver urgently needed basic services to its people and strengthen the transparency and credibility of public institutions .,B-org B-per I-per I-per O O O O B-tim O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O,NNP NNP NNP NNP VBD IN DT NN NNP DT JJ NN VBZ TO VB NNP POS NN VB RB VBN JJ NNS TO PRP$ NNS CC VB DT NN CC NN IN JJ NNS .
+Mr. Wolfensohn also said the bank plans to disburse $ 46 million of the assistance in the coming days .,B-per I-per O O O O O O O O O O O O O O O O O O,NNP NNP RB VBD DT NN VBZ TO VB $ CD CD IN DT NN IN DT JJ NNS .
+Haiti is the Western Hemisphere 's poorest country .,B-geo O O B-org I-org O O O O,NNP VBZ DT NNP NNP POS JJS NN .
+"Last February , an armed rebellion in the impoverished nation led to the ouster of then-President Jean-Bertrand Aristide .",O B-tim O O O O O O O O O O O O O O O O O,"JJ NNP , DT JJ NN IN DT JJ NN VBD TO DT NN IN JJ JJ NN ."
+He now lives in exile in South Africa .,O O O O O O B-geo I-geo O,PRP RB VBZ IN NN IN NNP NNP .
+"In September , Haiti was devastated by Tropical Storm Jeanne , which caused widespread flooding .",O B-tim O B-geo O O O B-org I-org I-org O O O O O O,"IN NNP , NNP VBD VBN IN NNP NNP NNP , WDT VBD JJ NN ."
+"Some 2,000 people were killed and thousands more left homeless .",O O O O O O O O O O O,DT CD NNS VBD VBN CC NNS RBR JJ NN .

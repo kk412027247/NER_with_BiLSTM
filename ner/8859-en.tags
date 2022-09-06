@@ -1,0 +1,5 @@
+For decades Washington 's National Air and Space Museum has been among the city 's top tourist attractions .,O O B-org I-org I-org I-org I-org I-org I-org O O O O O O O O O O,IN NNS NNP POS NNP NNP CC NNP NNP VBZ VBN IN DT NN POS JJ NN NNS .
+"It is an impressively large building - located within sight of the U.S. Capitol Building - and operated by the non-profit Smithsonian Institution , which manages the collection .",O O O O O O O O O O O O B-org I-org I-org O O O O O B-org I-org I-org O O O O O O,"PRP VBZ DT RB JJ NN IN VBN IN NN IN DT NNP NNP NNP : CC VBN IN DT JJ NNP NNP , WDT VBZ DT NN ."
+"But in spite of its spacious proportions , the museum had - for years - been able to display only about 10 percent of the Institution 's vast collection .",O O O O O O O O O O O O O O O O O O O O O O O O O B-org I-org O O O,"CC IN NN IN PRP$ JJ NNS , DT NN VBD : IN NNS IN VBN JJ TO VB RB IN CD NN IN DT NNP POS JJ NN ."
+VOA 's George Dwyer reports another even larger facility was opened four years ago .,B-org I-org I-org I-org O O O O O O O B-tim O O O,NNP POS NNP NNP VBZ DT RB JJR NN VBD VBN CD NNS RB .
+Jim Bertel narrates .,B-per I-per O O,NNP NNP VBZ .

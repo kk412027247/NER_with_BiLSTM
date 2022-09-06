@@ -1,0 +1,8 @@
+Turkish authorities say a security officer and a Kurdish rebel have been killed in clashes in the country 's mainly Kurdish southeast .,B-gpe O O O O O O O O O O O O O O O O O O O O O O,JJ NNS VBP DT NN NN CC DT JJ NN VBP VBN VBN IN NNS IN DT NN POS RB JJ NN .
+They say the two died in Siirt province Tuesday .,O O O O O O O O B-tim O,PRP VBP DT CD VBD IN NNP NN NNP .
+"Authorities say the rebel was a member of the banned Kurdistan Workers Party , or PKK .",O O O O O O O O O O B-org I-org I-org O O B-org O,"NNS VBP DT NN VBD DT NN IN DT VBN NNP NNP NNP , CC NNP ."
+The violence is the latest in southeastern Turkey .,O O O O O O O B-geo O,DT NN VBZ DT JJS IN JJ NNP .
+"In March , clashes erupted at funerals for some of the 14 Kurdish guerrillas killed by Turkish security forces in Diyarbakir .",O B-tim O O O O O O O O O O O O O O B-gpe O O O B-geo O,"IN NNP , NNS VBD IN NNS IN DT IN DT CD NNP NNS VBN IN JJ NN NNS IN NNP ."
+The PKK has been fighting for autonomy in Turkey 's southeastern region since 1984 .,O B-org O O O O O O B-geo O O O B-tim I-tim O,DT NNP VBZ VBN VBG IN NN IN NNP POS JJ NN IN CD .
+"More than 30,000 people have been killed .",O O O O O O O O,JJR IN CD NNS VBP VBN VBN .
+The PKK guerrillas are based mainly in the mountains of southeastern Turkey and northern Iraq .,O B-org O O O O O O O O O B-geo O O B-geo O,DT NNP NNS VBP VBN RB IN DT NNS IN JJ NNP CC JJ NNP .

@@ -1,0 +1,3 @@
+Greek officials say a moderate earthquake has struck off the coast of some of the country 's islands in the Aegean Sea .,B-gpe O O O O O O O O O O O O O O O O O O O B-geo I-geo O,JJ NNS VBP DT JJ NN VBZ VBN RP DT NN IN DT IN DT NN POS NNS IN DT NNP NNP .
+"The Athens Geodynamic Institute says Friday 's magnitude 5.1 quake was centered near the eastern islands of Kos and Astypaleia , about 300 kilometers from the Greek capital .",O B-org I-org I-org O B-tim O O O O O O O O O O O B-geo O B-geo O O O O O O B-gpe O O,"DT NNP NNP NNP VBZ NNP POS NN CD NN VBD VBN IN DT JJ NNS IN NNP CC NNP , IN CD NNS IN DT JJ NN ."
+There were no immediate reports of damage or injuries .,O O O O O O O O O O,EX VBD DT JJ NNS IN NN CC NNS .

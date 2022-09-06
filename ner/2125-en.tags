@@ -1,0 +1,8 @@
+Palestinians are voting to pick a successor to Yasser Arafat .,B-gpe O O O O O O O B-org I-org O,NNS VBP VBG TO VB DT NN TO NNP NNP .
+It is their first presidential election in nine years and a key step towards renewing peace talks with Israel .,O O O O O O O B-tim O O O O O O O O O O B-geo O,PRP VBZ PRP$ JJ JJ NN IN CD NNS CC DT NN NN IN VBG NN NNS IN NNP .
+"Lines of Palestinians are forming at polling stations across the West Bank , Gaza Strip , and East Jerusalem as some of the 1.8 million eligible voters cast their ballots .",B-org I-org B-gpe O O O O O O O B-org I-org I-org I-org I-org O O B-geo I-geo O O O O O O O O O O O O,"NNS IN NNS VBP VBG IN VBG NNS IN DT NNP NNP , NNP NNP , CC NNP NNP IN DT IN DT CD CD JJ NNS VBD PRP$ NNS ."
+Israeli and Palestinian security forces are on high alert to prevent disturbances and protect access to the voting sites .,B-gpe O B-gpe O O O O O O O O O O O O O O O O O,JJ CC JJ NN NNS VBP IN JJ NN TO VB NNS CC VB NN TO DT NN NNS .
+"Former President Jimmy Carter , here to help monitor the elections , says he is optimistic the vote will be a success .",O B-per I-per I-per O O O O O O O O O O O O O O O O O O O,"JJ NNP NNP NNP , RB TO VB VB DT NNS , VBZ PRP VBZ JJ DT NN MD VB DT NN ."
+""" We expect there to be an honest and fair , open and transparent election process , "" he said .",O O O O O O O O O O O O O O O O O O O O O,"LQU PRP VBP EX TO VB DT JJ CC JJ , JJ CC JJ NN NN , RQU PRP VBD ."
+Former Prime Minister Mahmoud Abbas is widely expected to win the election .,O B-per O B-per I-per O O O O O O O O,JJ NNP NNP NNP NNP VBZ RB VBN TO VB DT NN .
+He campaigned on promises to end violence and resume peace talks with Israel .,O O O O O O O O O O O O B-geo O,PRP VBD IN NNS TO VB NN CC VB NN NNS IN NNP .

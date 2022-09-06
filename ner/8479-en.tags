@@ -1,0 +1,7 @@
+George W. Bush,B-per I-per I-per,NNP NNP NNP
+President George Bush used his Saturday weekly radio address to focus on the sacrifices made by members of America 's armed services .,B-per I-per I-per O O B-tim O O O O O O O O O O O O B-geo O O O O,NNP NNP NNP VBD PRP$ NNP JJ NN NN TO VB IN DT NNS VBN IN NNS IN NNP POS JJ NNS .
+"President Bush noted that this year is the 60th anniversary of the end of World War II , a conflict that claimed more than 400,000 American lives .",B-per I-per O O O O O O B-tim I-tim I-tim O B-tim I-tim I-tim I-tim B-eve O O O O O O O O B-gpe O O,"NNP NNP VBD IN DT NN VBZ DT JJ NN IN DT NN IN NNP NNP NNP , DT NN WDT VBD JJR IN CD JJ NNS ."
+Mr. Bush said a new generation is now making its own sacrifice on behalf of peace and freedom .,B-per I-per O O O O O O O O O O O O O O O O O,NNP NNP VBD DT JJ NN VBZ RB VBG PRP$ JJ NN IN NN IN NN CC NN .
+He mentioned by name two American soldiers killed in Iraq who had written to their loved ones that they were committed to their mission .,O O O O O B-gpe O O O B-geo O O O O O O O O O O O O O O O,PRP VBD IN NN CD JJ NNS VBN IN NNP WP VBD VBN TO PRP$ VBN NNS IN PRP VBD VBN TO PRP$ NN .
+"This is Memorial Day weekend in the United States , a day of remembrance for those who have died in service to the nation .",O O B-tim I-tim I-tim O O B-geo I-geo O O O O O O O O O O O O O O O O,"DT VBZ NNP NNP NN IN DT NNP NNPS , DT NN IN NN IN DT WP VBP VBN IN NN TO DT NN ."
+The holiday will be observed on Monday .,O O O O O O B-tim O,DT NN MD VB VBN IN NNP .

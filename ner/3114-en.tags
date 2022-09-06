@@ -1,0 +1,6 @@
+Pakistan 's military says it has killed about 60 pro-Taliban militants in heavy fighting in the country 's northwest .,B-geo O O O O O O O O O O O O O O O O O O O,NNP POS JJ VBZ PRP VBZ VBN IN CD JJ NNS IN JJ NN IN DT NN POS NN .
+A military spokesman says fighter jets attacked militant camps in the Swat Valley inflicting heavy casualties .,O O O O O O O O O O O B-geo I-geo O O O O,DT JJ NN VBZ NN NNS VBD JJ NNS IN DT NNP NNP VBG JJ NNS .
+The attacks took place near Bajaur where there has been heavy fighting between the military and militants since August .,O O O O O B-geo O O O O O O O O O O O B-tim I-tim O,DT NNS VBD NN IN NNP WRB EX VBZ VBN JJ NN IN DT NN CC NNS IN NNP .
+"The main town in the area , Khar has been under a strict curfew for several days .",O O O O O O O B-org O O O O O O O B-tim O O,"DT JJ NN IN DT NN , NNP VBZ VBN IN DT JJ NN IN JJ NNS ."
+"According to the United Nations the fighting has displaced about 190,000 people .",O O O B-org I-org O O O O O O O O,VBG TO DT NNP NNPS DT NN VBZ VBN IN CD NNS .
+The U.N. says many have fled into neighboring Afghanistan to escape the violence .,O B-org O O O O O O B-geo O O O O O,DT NNP VBZ NN VBP VBN IN VBG NNP TO VB DT NN .

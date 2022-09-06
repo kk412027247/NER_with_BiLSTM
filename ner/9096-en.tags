@@ -1,0 +1,8 @@
+Authorities in Mauritania say suspects in the recent killing of four French tourists are members of an extremist group linked to al-Qaida .,O O B-geo O O O O O O O O B-gpe O O O O O O O O O B-org O,NNS IN NNP VBP NNS IN DT JJ NN IN CD JJ NNS VBP NNS IN DT NN NN VBN TO NNP .
+"Justice officials say the three primary suspects were previously arrested on terror-related charges , but all were released .",B-org O O O O O O O O O O O O O O O O O O,"NNP NNS VBP DT CD JJ NNS VBD RB VBN IN JJ NNS , CC DT VBD VBN ."
+Prosecutors said they were members of a north African branch of the al-Qaida terror network .,O O O O O O O O B-gpe O O O B-org O O O,NNS VBD PRP VBD NNS IN DT JJ JJ NN IN DT NNP NN NN .
+Security officials say the French tourists were picnicking on the side of the highway outside of Aleg when a group of gunmen pulled up and demanded money .,O O O O B-gpe O O O O O O O O O O O O O O O O O O O O O O O,NN NNS VBP DT JJ NNS VBD VBG IN DT NN IN DT NN IN IN NNP WRB DT NN IN NNS VBD RB CC VBD NN .
+The family refused and the gunmen opened fire .,O O O O O O O O O,DT NN VBD CC DT NNS VBD NN .
+"One man survived the attack , but lost his two children , his brother and a family friend .",O O O O O O O O O O O O O O O O O O O,"CD NN VBD DT NN , CC VBD PRP$ CD NNS , PRP$ NN CC DT NN NN ."
+Authorities say the suspects may have fled to neighboring Senegal .,O O O O O O O O O B-geo O,NNS VBP DT NNS MD VB VBN TO VBG NNP .
+"French President Nicolas Sarkozy offered his condolences and said he is in touch with his Mauritanian counterpart , Sidi Ould Cheikh Abdallahi .",B-gpe B-per I-per I-per O O O O O O O O O O O O O O B-org I-org I-org I-org O,"JJ NNP NNP NNP VBD PRP$ NNS CC VBD PRP VBZ IN NN IN PRP$ JJ NN , NNP NNP NNP NNP ."

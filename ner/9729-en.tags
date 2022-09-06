@@ -1,0 +1,8 @@
+"Vietnamese veterinary officials say bird flu has infected chickens on two farms in the capital , Hanoi .",B-gpe O O O O O O O O O O O O O O O B-geo O,"JJ JJ NNS VBP NN NN VBZ VBN NNS IN CD NNS IN DT NN , NNP ."
+Officials say authorities have slaughtered the surviving chickens after a number of birds died on the farms in Hanoi 's Dong Anh district .,O O O O O O O O O O O O O O O O O O B-geo O B-geo I-geo O O,NNS VBP NNS VBP VBN DT VBG NNS IN DT NN IN NNS VBD IN DT NNS IN NNP POS NNP NNP NN .
+Authorities say some of the dead chickens tested positive for the often-fatal H5N1 strain of the bird flu virus .,O O O O O O O O O O O O O O O O O O O O,NNS VBP DT IN DT JJ NNS VBD JJ IN DT JJ NNP NN IN DT NN NN NN .
+"Wednesday 's announcement follows one from Ha Tay province , where a bird flu outbreak was reported Tuesday .",B-tim O O O O O B-geo I-geo O O O O O O O O O B-tim O,"NNP POS NN VBZ CD IN NNP NNP NN , WRB DT NN NN NN VBD VBN NNP ."
+"Last month , the virus was identified on farms in the provinces of Hai Duong and Vinh Long .",O O O O O O O O O O O O O B-geo I-geo O B-geo I-geo O,"JJ NN , DT NN VBD VBN IN NNS IN DT NNS IN NNP NNP CC NNP NNP ."
+Bird flu emerged in Vietnam in 2003 and has killed 42 people in the country since then .,O O O O B-geo O B-tim O O O O O O O O O O O,NN NN VBD IN NNP IN CD CC VBZ VBN CD NNS IN DT NN IN RB .
+It has not reported any human cases of bird flu since late 2005 .,O O O O O O O O O O O O B-tim O,PRP VBZ RB VBN DT JJ NNS IN NN NN IN JJ CD .
+The disease has killed 167 people worldwide .,O O O O O O O O,DT NN VBZ VBN CD NNS JJ .

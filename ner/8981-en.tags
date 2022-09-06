@@ -1,0 +1,7 @@
+"Burma is reporting new cases of bird flu among poultry at a farm north of Rangoon , the fifth such outbreak in the country in recent weeks .",B-geo O O O O O O O O O O O O O O B-geo O O O O O O O O O B-tim O O,"NNP VBZ VBG JJ NNS IN NN NN IN NN IN DT NN NN IN NNP , DT NN JJ NN IN DT NN IN JJ NNS ."
+"Burmese state media say 1,600 chickens died from the H5N1 strain of the virus on a farm in Hmawbi township ( 40 kilometers north of Rangoon ) over the past week .",B-gpe O O O O O O O O O O O O O O O O O B-geo O O O O O O B-geo O O O B-tim O O,JJ NN NNS VBP CD NNS VBD IN DT NNP NN IN DT NN IN DT NN IN NNP NN LRB CD NNS RB IN NNP RRB IN DT JJ NN .
+"The farm 's remaining 20,000 poultry were culled as a precautionary measure .",O O O O O O O O O O O O O,DT NN POS VBG CD NN VBD VBN IN DT JJ NN .
+The state-controlled New Light of Myanmar newspaper says the new outbreak may have been caused by the movement of people and birds in the area .,O O O O O B-geo O O O O O O O O O O O O O O O O O O O O,DT JJ NNP NNP IN NNP NN VBZ DT JJ NN MD VB VBN VBN IN DT NN IN NNS CC NNS IN DT NN .
+It says authorities have banned the sale and transport of poultry within six-kilometers of the farm .,O O O O O O O O O O O O O O O O O,PRP VBZ NNS VBP VBN DT NN CC NN IN NN IN NNS IN DT NN .
+The latest series of bird flu outbreaks in and around Rangoon began last month .,O O O O O O O O O O B-geo O O O O,DT JJS NN IN NN NN NNS IN CC IN NNP VBD JJ NN .
+They are the first reported in Burma since March 2006 .,O O O O O O B-geo B-tim I-tim I-tim O,PRP VBP DT JJ VBN IN NNP IN NNP CD .

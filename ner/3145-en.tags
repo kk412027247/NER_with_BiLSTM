@@ -1,0 +1,8 @@
+"Olympic champion Philipp Schoch of Switzerland and compatriot Ursula Bruhin have won World Cup parallel giant slalom snowboard events in Le Relais , Canada .",O O B-per I-per O B-geo O O B-per I-per O O O O O O O O O O B-geo I-geo O B-geo O,"JJ NN NNP NNP IN NNP CC NN NNP NNP VBP VBN NNP NNP NN NN NN VBD NNS IN NNP NNP , NNP ."
+"Schoch beat Austrian Andreas Prommegger in the final , winning both runs .",B-per O B-gpe B-per I-per O O O O O O O O,"NNP VBD JJ NNP NNP IN DT JJ , VBG DT NNS ."
+"Schoch leads the World Cup standings with 1,700 points .",B-per O O O O O O O O O,NNP VBZ DT NNP NNP NNS IN CD NNS .
+"Countryman Heinz Inniger is second ( 1,630 points ) with Switzerland 's Gilles Jaquet third ( 1,460 points ) .",O B-per I-per O O O O O O O B-geo O B-geo I-geo O O O O O O,NNP NNP NNP VBZ JJ LRB CD NNS RRB IN NNP POS NNP NNP JJ LRB CD NNS RRB .
+"In the women 's final , Ursula Bruhin beat compatriot Fraenzi Kohli in both runs to take the title .",O O O O O O B-per I-per O O B-per I-per O O O O O O O O,"IN DT NNS POS JJ , NNP NNP VBD NN NNP NNP IN DT NNS TO VB DT NN ."
+"Another Swiss athlete , Daniela Meuli , finished third .",O B-gpe O O B-per I-per O O O O,"DT JJ NN , NNP NNP , VBD JJ ."
+"Bruhin is tied with French skier Julie Pomagalski atop the World Cup standings with 1,950 points .",B-per O O O B-gpe O B-per I-per O O O O O O O O O,NNP VBZ VBN IN JJ NN NNP NNP IN DT NNP NNP NNS IN CD NNS .
+"Salt Lake City gold medalist Isabelle Blanc of France is third with 1,900 points .",O B-geo I-geo O O B-per I-per O B-geo O O O O O O,NNP NNP NNP NN NN NNP NNP IN NNP VBZ JJ IN CD NNS .

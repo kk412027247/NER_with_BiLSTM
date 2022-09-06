@@ -1,0 +1,10 @@
+Pope John Paul II The Vatican has released the spiritual testament of Pope John Paul II .,O B-per I-per I-per O O O O O O O O O B-per I-per I-per O,NNP NNP NNP NNP DT NNP VBZ VBN DT JJ NN IN NNP NNP NNP NNP .
+"In the document , the pontiff said he considered resigning in 2000 .",O O O O O O O O O O O B-tim O,"IN DT NN , DT NN VBD PRP VBD VBG IN CD ."
+"He also said he thought about being buried in his native Poland , but decided to leave that decision up to the College of Cardinals .",O O O O O O O O O O O B-geo O O O O O O O O O O B-org I-org I-org O,"PRP RB VBD PRP VBD IN VBG VBN IN PRP$ JJ NNP , CC VBD TO VB DT NN RB TO DT NNP IN NNPS ."
+"The pope requested that his personal notes be destroyed , and said he left no material property .",O O O O O O O O O O O O O O O O O O,"DT NN VBD IN PRP$ JJ NNS VB VBN , CC VBD PRP VBD DT NN NN ."
+"He began writing the document a quarter-century ago , and also reflected on his family and youth , and said it was a miracle he survived an assassination attempt in 1981 .",O O O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O B-tim O,"PRP VBD VBG DT NN DT NN RB , CC RB VBD IN PRP$ NN CC NN , CC VBD PRP VBD DT NN PRP VBD DT NN NN IN CD ."
+"Meanwhile , thousands of people continue to wait hours to view the pope 's body at St. Peter 's Basilica .",O O O O O O O O O O O O O O O O B-geo B-per O B-geo O,"RB , NNS IN NNS VBP TO VB NNS TO VB DT NN POS NN IN NNP NNP POS NNP ."
+The Vatican says some two million people have already passed by it .,O O O O O O O O O O O O O,DT NNP VBZ DT CD CD NNS VBP RB VBN IN PRP .
+President Bush and some 200 other world leaders are to attend the pope 's funeral Friday .,B-per I-per O O O O O O O O O O O O O B-tim O,NNP NNP CC DT CD JJ NN NNS VBP TO VB DT NN POS JJ NNP .
+The pontiff will be interred in a crypt beneath the basilica .,O O O O O O O O O O O O,DT NN MD VB VBN IN DT NN IN DT NN .
+Italian officials have imposed extraordinary security measures that include anti-aircraft missiles and instituting a no-fly zone over Rome .,B-gpe O O O O O O O O O O O O O O O O B-geo O,JJ NNS VBP VBN JJ NN NNS WDT VBP JJ NNS CC VBG DT JJ NN IN NNP .

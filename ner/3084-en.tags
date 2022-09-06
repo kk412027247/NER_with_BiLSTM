@@ -1,0 +1,9 @@
+The leader of Brazil 's ruling Workers Party has resigned amid a bribes-for-votes scandal in Congress .,O O O B-geo O O B-org I-org O O O O O O O B-org O,DT NN IN NNP POS NN NNP NNP VBZ VBN IN DT JJ NN IN NNP .
+Jose Genoino announced his resignation Saturday at a news conference in Sao Paulo .,B-per I-per O O O B-tim O O O O O B-geo I-geo O,NNP NNP VBD PRP$ NN NNP IN DT NN NN IN NNP NNP .
+"Later , the party elected Education Minister Tarso Genro as its new leader .",O O O O O O O O O O O O O O,"RB , DT NN VBD NNP NNP NNP NNP IN PRP$ JJ NN ."
+"Mr. Genoino 's resignation comes amid allegations that the Workers Party paid $ 12,000 a month to several lawmakers to win their support on key votes .",B-per I-per O O O O O O O B-org I-org O O O O O O O O O O O O O O O O,NNP NNP POS NN VBZ IN NNS IN DT NNP NNP VBD $ CD DT NN TO JJ NNS TO VB PRP$ NN IN JJ NNS .
+The party denies the accusations .,O O O O O O,DT NN VBZ DT NNS .
+Mr. Genoino is the latest senior official in President Luiz Inacio Lula da Silva 's government to leave his post .,B-per I-per O O O O O O B-per I-per I-per I-per I-per I-per O O O O O O O,NNP NNP VBZ DT JJS JJ NN IN NNP NNP NNP NNP NNP NNP POS NN TO VB PRP$ NN .
+Both the party treasurer and secretary-general stepped down recently .,O O O O O O O O O O,DT DT NN NN CC NN VBD RB RB .
+The scandal also forced presidential chief of staff Jose Dirceu to resign last month .,O O O O O O O O B-per I-per O O O O O,DT NN RB VBD JJ NN IN NN NNP NNP TO VB JJ NN .
+President da Silva has been reshuffling his Cabinet to boost support for his governing coalition .,B-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP VBZ VBN VBG PRP$ NN TO VB NN IN PRP$ NN NN .

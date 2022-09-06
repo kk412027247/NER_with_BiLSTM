@@ -1,0 +1,6 @@
+"U.S. Secretary of State-designate Condoleezza Rice is resting , after successful , minimally invasive surgery .",B-org O O O B-per I-per O O O O O O O O O O,"NNP NNP IN NNP NNP NNP VBZ VBG , IN JJ , RB JJ NN ."
+A senior administration official told VOA Dr. Rice underwent a one-and-a-half hour uterine fibroid embolization operation at a Washington hospital Friday .,O O O O O B-org B-per I-per O O O O O O O O O O B-geo O B-tim O,DT JJ NN NN VBD NNP NNP NNP VBD DT JJ NN JJ JJ NN NN IN DT NNP NN NNP .
+"The operation , an alternative to hysterectomy , shrinks fibroid tumors and allows for a rapid recovery .",O O O O O O O O O O O O O O O O O O,"DT NN , DT NN TO NN , VBZ JJ NNS CC VBZ IN DT JJ NN ."
+"Uterine fibroids are among the most common tumors in women , and are not cancerous .",O O O O O O O O O O O O O O O O,"NNP NNS VBP IN DT RBS JJ NNS IN NNS , CC VBP RB JJ ."
+"The administration official said Dr. Rice will stay in the hospital overnight , and return to work Monday .",O O O O B-per I-per O O O O O O O O O O O B-tim O,"DT NN NN VBD NNP NNP MD VB IN DT NN JJ , CC VBZ IN NN NNP ."
+"Currently the national security adviser , she was nominated by President Bush on Tuesday to head the State Department .",O O O O O O O O O O B-per I-per O B-tim O O O B-org I-org O,"RB DT JJ NN NN , PRP VBD VBN IN NNP NNP IN NNP TO VB DT NNP NNP ."

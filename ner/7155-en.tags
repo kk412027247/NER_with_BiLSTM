@@ -1,0 +1,9 @@
+A conservative Iranian lawmaker says some senior clerics want President Mahmoud Ahmadinejad to reconsider his nomination of three women for his new cabinet .,O O B-gpe O O O O O O B-per I-per I-per O O O O O O O O O O O O,DT JJ JJ NN VBZ DT JJ NNS VBP NNP NNP NNP TO VB PRP$ NN IN CD NNS IN PRP$ JJ NN .
+Lawmaker Mohammad Taqi Rahbar heads the clerical faction in Iran 's conservative-dominated parliament .,O B-per I-per I-per O O O O O B-geo O O O O,NNP NNP NNP NNP VBZ DT JJ NN IN NNP POS JJ NN .
+"He said it is an innovative idea to choose women as ministers , but that there are what he called "" religious uncertainties "" about women when it comes to management .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"PRP VBD PRP VBZ DT JJ NN TO VB NNS IN NNS , CC IN EX VBP WP PRP VBD RQU JJ NNS RQU IN NNS WRB PRP VBZ TO NN ."
+He says the government should consider these .,O O O O O O O O,PRP VBZ DT NN MD VB DT .
+"Mr. Ahmadinejad named Fatemah Ajorlu as minister of welfare and social security , Marziyeh Vahid-Dastjerdi as minister of health and Susan Keshavarz as minister of education .",B-per I-per O B-per I-per O O O O O O O O B-per I-per O O O O O B-per I-per O O O O O,"NNP NNP VBD NNP NNP IN NN IN NN CC JJ NN , NNP NNP IN NN IN NN CC NNP NNP IN NN IN NN ."
+Iranian lawmakers have warned they may challenge President Ahmadinejad 's picks for his new cabinet .,B-gpe O O O O O O B-per I-per O O O O O O O,JJ NNS VBP VBN PRP MD VB NNP NNP POS NNS IN PRP$ JJ NN .
+Parliament must approve his nominees .,B-org O O O O O,NNP MD VB PRP$ NNS .
+Mr. Ahmadinejad won a second term as president in an election in June .,B-per I-per O O O O O O O O O O B-tim O,NNP NNP VBD DT JJ NN IN NN IN DT NN IN NNP .
+"His re-election was fiercely disputed , and sparked massive opposition protests that led security forces to detain thousands .",O O O O O O O O O O O O O O O O O O O,"PRP$ NN VBD RB JJ , CC VBD JJ NN NNS WDT VBD NN NNS TO VB NNS ."

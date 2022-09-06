@@ -1,0 +1,9 @@
+European Union nations have summoned Iranian ambassadors to protest the detention of British Embassy staff in Tehran .,B-org I-org O O O B-gpe O O O O O O B-gpe B-org O O B-geo O,NNP NNP NNS VBP VBN JJ NNS TO VB DT NN IN JJ NNP NN IN NNP .
+Officials say EU members agreed to the move Friday at a meeting in Brussels .,O O B-org O O O O O B-tim O O O O B-geo O,NNS VBP NNP NNS VBD TO DT NN NNP IN DT NN IN NNP .
+EU officials are considering additional measures including visa bans on Iranian officials .,B-org O O O O O O O O O B-gpe O O,NNP NNS VBP VBG JJ NNS VBG NN NNS IN JJ NNS .
+A top Iranian cleric Friday said that some British Embassy staff will be put on trial for allegedly playing a role in post-election demonstrations .,O O B-gpe O B-tim O O O B-gpe B-org O O O O O O O O O O O O O O O,DT JJ JJ NN NNP VBD IN DT JJ NNP NN MD VB VBN IN NN IN RB VBG DT NN IN JJ NNS .
+Ayatollah Ahmad Jannati said during a prayer sermon that some embassy employees confessed to instigating unrest .,B-per I-per I-per O O O O O O O O O O O O O O,NNP NNP NNP VBD IN DT NN NN IN DT JJ NNS VBD TO VBG NN .
+Jannati is close to Iran 's supreme leader .,B-per O O O B-geo O O O O,NNP VBZ JJ TO NNP POS JJ NN .
+Nine British Embassy staffers were arrested in Tehran last Sunday .,O B-org I-org O O O O B-geo O B-tim O,CD NNP NNP NNS VBD VBN IN NNP JJ NNP .
+"Some were freed , but the British government says two are still in custody .",O O O O O O B-gpe O O O O O O O O,"DT VBD VBN , CC DT JJ NN VBZ CD VBP RB IN NN ."
+Britain 's foreign office expressed concern Friday and said it is investigating reports that the employees face trial .,B-geo O O O O O B-tim O O O O O O O O O O O O,NNP POS JJ NN VBD NN NNP CC VBD PRP VBZ VBG NNS IN DT NNS VBP NN .

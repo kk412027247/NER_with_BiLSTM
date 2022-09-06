@@ -1,0 +1,6 @@
+"Canadian Prime Minister Stephen Harper says the country will not pull its troops out of Afghanistan , despite opposition calls for debate on the issue .",B-gpe B-per I-per I-per I-per O O O O O O O O O O B-geo O O O O O O O O O O,"JJ NNP NNP NNP NNP VBZ DT NN MD RB VB PRP$ NNS IN IN NNP , IN NN NNS IN NN IN DT NN ."
+"Mr. Harper said Tuesday , that debating the deployment could weaken the troops and put them in danger .",B-per I-per O B-tim O O O O O O O O O O O O O O O,"NNP NNP VBD NNP , IN VBG DT NN MD VB DT NNS CC VBD PRP IN NN ."
+"Canada has 2,300 troops in Kandahar as part of a NATO mission and was originally scheduled to pull them out after a short time .",B-org O O O O B-geo O O O O B-org O O O O O O O O O O O O O O,NNP VBZ CD NNS IN NNP IN NN IN DT NNP NN CC VBD RB VBN TO VB PRP RP IN DT JJ NN .
+But military officials say the troops ' return likely will be delayed .,O O O O O O O O O O O O O,CC JJ NNS VBP DT NNS POS NN RB MD VB VBN .
+"Over the past week , two Canadian soldiers have died in traffic accidents and another was attacked with an axe .",O O B-tim O O O B-gpe O O O O O O O O O O O O O O,"IN DT JJ NN , CD JJ NNS VBP VBN IN NN NNS CC DT VBD VBN IN DT NN ."
+Ten Canadian troops and one diplomat have died in Afghanistan since 2001 .,O B-gpe O O O O O O O B-geo B-tim I-tim O,CD JJ NNS CC CD NN VBP VBN IN NNP IN CD .

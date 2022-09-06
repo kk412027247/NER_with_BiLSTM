@@ -1,0 +1,6 @@
+Iran has warned the European Union that Tehran will never surrender its right to nuclear fuel .,B-geo O O O B-org I-org O B-geo O O O O O O O O O,NNP VBZ VBN DT NNP NNP IN NNP MD RB VB PRP$ NN TO JJ NN .
+A spokesman for Iran 's Supreme National Security Council said Saturday EU negotiators can offer no incentive that would compel the Islamic republic to abandon its nuclear program .,O O O B-geo O B-org I-org I-org I-org O B-tim B-org O O O O O O O O O O O O O O O O O,DT NN IN NNP POS NNP NNP NNP NNP VBD NNP NNP NNS MD VB DT NN WDT MD VB DT JJ NN TO VB PRP$ JJ NN .
+"Britain , France and Germany have asked Tehran to surrender its fuel-making program in return for economic incentives .",B-geo O B-geo O B-geo O O B-geo O O O O O O O O O O O,"NNP , NNP CC NNP VBP VBN NNP TO VB PRP$ JJ NN IN NN IN JJ NNS ."
+Tehran insists it has every right to enrich uranium for reactors to make electricity .,B-geo O O O O O O O O O O O O O O,NNP VBZ PRP VBZ DT NN TO VB NN IN NNS TO VB NN .
+The United States accuses Iran of secretly developing nuclear weapons .,O B-geo I-geo O B-geo O O O O O O,DT NNP NNPS VBZ NNP IN RB VBG JJ NNS .
+Tehran says its nuclear program is only for peaceful purposes .,B-geo O O O O O O O O O O,NNP VBZ PRP$ JJ NN VBZ RB IN JJ NNS .

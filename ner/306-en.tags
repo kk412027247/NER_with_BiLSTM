@@ -1,0 +1,10 @@
+Four U.S. soldiers have been killed in Afghanistan by a roadside bomb in eastern Kunar province .,O B-geo O O O O O B-geo O O O O O O B-geo O O,CD NNP NNS VBP VBN VBN IN NNP IN DT NN NN IN JJ NNP NN .
+A U.S. military statement said the soldier 's vehicle was hit by an improvised explosive device while on patrol Sunday .,O B-geo O O O O O O O O O O O O O O O O O B-tim O,DT NNP JJ NN VBD DT NN POS NN VBD VBN IN DT JJ JJ NN IN IN NN NNP .
+"Also Sunday , Sibghatullah Mujaddedi , who chairs the upper house of Afghanistan 's parliament , escaped with minor injuries from a suicide bombing in Kabul .",O B-tim O B-per I-per O O O O O O O B-geo O O O O O O O O O O O O B-geo O,"RB NNP , NNP NNP , WP VBZ DT JJ NN IN NNP POS NN , VBD IN JJ NNS IN DT NN VBG IN NNP ."
+The bombing killed two bystanders and two suicide bombers .,O O O O O O O O O O,DT NN VBD CD NNS CC CD NN NNS .
+Mujaddedi said he believed Pakistan 's intelligence agency organized the bombing .,B-per O O O B-geo O O O O O O O,NNP VBD PRP VBD NNP POS NN NN VBD DT NN .
+Pakistan denied the charge .,B-geo O O O O,NNP VBD DT NN .
+"Meanwhile , the Taleban claimed responsibility Sunday for kidnapping four Albanians and four Afghan men working for U.S. forces in southern Afghanistan .",O O O B-org O O B-tim O O O B-gpe O O B-gpe O O O B-geo O O B-geo I-geo O,"RB , DT NNP VBD NN NNP IN VBG CD NNS CC CD JJ NNS VBG IN NNP NNS IN JJ NNP ."
+"Taleban spokesman , Qari Mohammed Yousaf said his group kidnapped the men Saturday .",B-org O O B-per I-per I-per O O O O O O B-tim O,"NNP NN , NNP NNP NNP VBD PRP$ NN VBD DT NNS NNP ."
+He also said the Taleban 's fugitive leader Mullah Mohammad Omar would decide what would happen to the men .,O O O O B-org O O O B-per I-per I-per O O O O O O O O O,PRP RB VBD DT NNP POS JJ NN NNP NNP NNP MD VB WP MD VB TO DT NNS .
+All eight worked for a cleaning company employed by coalition forces .,O O O O O O O O O O O O,DT CD VBD IN DT NN NN VBN IN NN NNS .

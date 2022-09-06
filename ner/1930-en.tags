@@ -1,0 +1,3 @@
+"Japan 's billion dollar Kibo science laboratory has been delivered to the International Space Station , and the astronauts have been installing and setting it up .",B-geo O O O O O O O O O O O B-geo I-geo I-geo O O O O O O O O O O O O,"NNP POS CD NN NNP NN NN VBZ VBN VBN TO DT NNP NNP NNP , CC DT NNS VBP VBN VBG CC VBG PRP RP ."
+"This week , crew members from shuttle Discovery and the space station have also been doing a little "" home repair "" on the station 's toilet .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN , NN NNS IN NN NN CC DT NN NN VBP RB VBN VBG DT JJ LQU NN NN RQU IN DT NN POS NN ."
+Paul Sisco has a report on the week 's activities in space .,B-per I-per O O O O O O O O O O O,NNP NNP VBZ DT NN IN DT NN POS NNS IN NN .

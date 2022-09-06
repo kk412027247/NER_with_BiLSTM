@@ -1,0 +1,6 @@
+"Zimbabwe 's Information Minister , Tichaona Jokonya , has been found dead in a hotel room in the capital , Harare .",B-org O O O O B-per I-per O O O O O O O O O O O O O B-org O,"NNP POS NN NN , NNP NNP , VBZ VBN VBN JJ IN DT NN NN IN DT NN , NNP ."
+There was no information on the cause of death .,O O O O O O O O O O,EX VBD DT NN IN DT NN IN NN .
+Local media reported the 68-year-old Jokonya had been ill earlier this year .,O O O O O B-per O O O O O O O,JJ NNS VBD DT JJ NNP VBD VBN RB RBR DT NN .
+"Jokonya was appointed to the post last year after President Robert Mugabe fired the previous information minister , Jonathan Moyo .",B-per O O O O O O O O B-per I-per I-per O O O O O O B-per I-per O,"NNP VBD VBN TO DT NN JJ NN IN NNP NNP NNP VBD DT JJ NN NN , NNP NNP ."
+"In a recent press conference , Jokonya threatened Zimbabwe 's journalists , telling them traitors would die .",O O O O O O B-per O B-org O O O O O O O O O,"IN DT JJ NN NN , NNP VBD NNP POS NNS , VBG PRP NNS MD VB ."
+"Jokonya was a career diplomat , and served as Zimbabwe 's ambassador to the United Nations for ten years .",B-per O O O O O O O O B-per O O O O B-org I-org O O O O,"NNP VBD DT NN NN , CC VBD IN NNP POS NN TO DT NNP NNPS IN CD NNS ."

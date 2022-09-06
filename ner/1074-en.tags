@@ -1,0 +1,3 @@
+"Senegal-based band , Jac et le Takeifa , prepare for their album-release concert .",O O O B-org I-org I-org I-org O O O O O O O,"JJ NN , NNP NNP NNP NNP , VBP IN PRP$ JJ NN ."
+"As a family band in West Africa , leader Jac Keita wants to use music not just as entertainment , but also to address development issues in the region .",O O O O O B-geo I-geo O O B-per I-per O O O O O O O O O O O O O O O O O O O,"IN DT NN NN IN NNP NNP , NN NNP NNP VBZ TO VB NN RB RB IN NN , CC RB TO VB NN NNS IN DT NN ."
+Ricci Shyrock has more on the band .,B-per I-per O O O O O O,NNP NNP VBZ RBR IN DT NN .

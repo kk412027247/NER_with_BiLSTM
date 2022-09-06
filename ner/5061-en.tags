@@ -1,0 +1,8 @@
+Officials from the Federal Bureau of Investigations say violent crime in the U.S. has increased for a second straight year in 2006 .,O O O B-org I-org I-org I-org O O O O O B-geo O O O O B-tim I-tim O B-tim I-tim O,NNS IN DT NNP NNP IN NNS VBP JJ NN IN DT NNP VBZ VBN IN DT JJ JJ NN IN CD .
+"In its annual crime report , released Monday , the FBI says violent crime increased nationwide by 1.3 percent .",O O O O O O O B-tim O O B-org O O O O O O O O O,"IN PRP$ JJ NN NN , VBN NNP , DT NNP VBZ JJ NN VBN JJ IN CD NN ."
+The increase follows a rise of 2.3 percent in 2005 .,O O O O O O O O O B-tim O,DT NN VBZ DT NN IN CD NN IN CD .
+"The report shows that murders in large cities , with populations over one million , were up by 6.7 percent .",O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ IN NNS IN JJ NNS , IN NNS IN CD CD , VBD RP IN CD NN ."
+"They include cities such as Miami in the southeastern state of Florida , Oakland in the western state of California and Phoenix in the southwestern state of Arizona and New York City , among others .",O O O O O B-geo O O O O O B-geo O B-geo O O O O O B-org I-org I-org O O O O O B-geo O B-geo I-geo I-geo O O O O,"PRP VBP NNS JJ IN NNP IN DT JJ NN IN NNP , NNP IN DT JJ NN IN NNP CC NNP IN DT JJ NN IN NNP CC NNP NNP NNP , IN NNS ."
+Around the country incidences of forcible rape decreased by nearly two percent .,O O O O O O O O O O B-tim O O,IN DT NN NNS IN JJ NN VBN IN RB CD NN .
+Robbery saw an overall increase of near six percent .,O O O O O O O O O O,NNP VBD DT JJ NN IN JJ CD NN .
+"The statistics were collected from more than 11,700 law enforcement agencies nationwide .",O O O O O O O O O O O O O,DT NNS VBD VBN IN JJR IN CD NN NN NNS JJ .

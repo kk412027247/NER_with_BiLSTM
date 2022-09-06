@@ -1,0 +1,5 @@
+The International Olympic Committee says a Ukrainian heptathlon silver medalist is under investigation for a positive drug test at the Beijing Olympics .,O B-org I-org I-org O O B-gpe O O O O O O O O O O O O O B-eve I-eve O,DT NNP NNP NNP VBZ DT JJ NN NN NN VBZ IN NN IN DT JJ NN NN IN DT NNP NNPS .
+"The IOC said Wednesday it has opened a probe into Lyudmila Blonska , who finished second behind Ukrainian Natalia Dobrynska last Saturday .",O B-org O B-tim O O O O O O B-per I-per O O O O O B-gpe B-per I-per O B-tim O,"DT NNP VBD NNP PRP VBZ VBN DT NN IN NNP NNP , WP VBD JJ IN JJ NNP NNP JJ NNP ."
+The IOC 's disciplinary commission and executive board are expected to rule on the case Thursday .,O B-org O O O O O O O O O O O O O B-tim O,DT NNP POS JJ NN CC JJ NN VBP VBN TO VB IN DT NN NNP .
+"If found guilty , Blonska would be stripped of her medal and could be subjected to a lifetime ban .",O O O O B-per O O O O O O O O O O O O O O O,"IN VBN JJ , NNP MD VB VBN IN PRP$ NN CC MD VB VBN TO DT NN NN ."
+Blonska served a separate doping suspension earlier this decade .,B-per O O O O O O O B-tim O,NNP VBD DT JJ NN NN RBR DT NN .

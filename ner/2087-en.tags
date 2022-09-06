@@ -1,0 +1,8 @@
+The World Health Organization says Egypt has confirmed its first human bird flu death .,O B-org I-org I-org O B-org O O O O O O O O O,DT NNP NNP NNP VBZ NNP VBZ VBN PRP$ JJ JJ NN NN NN .
+The Egyptian health ministry says a 30-year-old woman near Cairo died last Friday after coming in contact with diseased poultry .,O B-gpe O O O O O O O B-geo O O B-tim O O O O O O O O,DT JJ NN NN VBZ DT JJ NN IN NNP VBD JJ NNP IN VBG IN NN IN JJ NN .
+"If confirmed by the WHO , she would be the 99th human death from bird flu since 2003 .",O O O O B-org O O O O O B-tim O O O O O B-tim I-tim O,"IN VBN IN DT NNP , PRP MD VB DT JJ JJ NN IN NN NN IN CD ."
+Most of the deaths have come in Asia .,O O O O O O O B-geo O,JJS IN DT NNS VBP VBN IN NNP .
+"The disease has spread from southeast Asia and China into the Middle East , Africa , India , and Europe .",O O O O O O B-geo O B-geo O O B-geo I-geo O B-geo O B-geo O O B-geo O,"DT NN VBZ VBN IN JJ NNP CC NNP IN DT NNP NNP , NNP , NNP , CC NNP ."
+"Monday , the Bush administration warned that the United States is likely to see its first case in wild birds this year .",B-tim O O B-geo O O O O B-geo I-geo O O O O O O O O O O O O O,"NNP , DT NNP NN VBD IN DT NNP NNPS VBZ JJ TO VB PRP$ JJ NN IN JJ NNS DT NN ."
+"Officials with the U.S. Interior and Agriculture Departments say they plan to collect samples from as many as 100,000 live and dead wild birds to monitor the virus .",O O O B-org I-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O O O,NNS IN DT NNP NNP CC NNP NNS VBP PRP VBP TO VB NNS IN RB JJ IN CD JJ CC JJ JJ NNS TO VB DT NN .
+Officials say they will focus on migration routes through Alaska and Pacific Ocean islands .,O O O O O O O O O B-geo O B-geo I-geo O O,NNS VBP PRP MD VB IN NN NNS IN NNP CC NNP NNP NNS .

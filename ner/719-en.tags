@@ -1,0 +1,5 @@
+"During a visit to a military medical clinic , I was sent to the lab to have blood drawn .",O O O O O O O O O O O O O O O O O O O O,"IN DT NN TO DT JJ JJ NN , PRP VBD VBN TO DT NN TO VB NN VBN ."
+The technician there was friendly and mentioned that his mood improved every day because he was due to leave the service in two months .,O O O O O O O O O O O O O O O O O O O O O O B-tim O O,DT NN EX VBD JJ CC VBD IN PRP$ NN VBD DT NN IN PRP VBD JJ TO VB DT NN IN CD NNS .
+"As he applied the tourniquet on my arm , he told me that taking the blood would n't hurt much .",O O O O O O O O O O O O O O O O O O O O O,"IN PRP VBD DT NN IN PRP$ NN , PRP VBD PRP IN VBG DT NN MD RB VB RB ."
+"Then , noticing my Air Force T-shirt , he asked me what my husband did .",O O O O B-org I-org I-org O O O O O O O O O,"RB , VBG PRP$ NNP NNP NNP , PRP VBD PRP WP PRP$ NN VBD ."
+"When I replied that he was a recruiter , the technician smiled slyly and said , "" This might hurt a little more than I thought . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"WRB PRP VBD IN PRP VBD DT NN , DT NN VBD RB CC VBD , LQU DT MD VB DT RB JJR IN PRP VBD . LQU"

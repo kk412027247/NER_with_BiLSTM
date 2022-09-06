@@ -1,0 +1,8 @@
+"Guatemala 's death toll following Hurricane Stan has risen past 500 , as rescuers continue to retrieve bodies from whole villages buried by mudslides .",B-geo O O O O B-eve I-eve O O O O O O O O O O O O O O O O O O,"NNP POS NN NN VBG NNP NNP VBZ VBN IN CD , IN NNS VBP TO VB NNS IN JJ NNS VBN IN NNS ."
+Guatemalan officials said Saturday that rescuers may find hundreds more .,B-gpe O O B-tim O O O O O O O,JJ NNS VBD NNP IN NNS MD VB NNS RBR .
+"Already , Hurricane Stan has become the country 's worst natural disaster .",O O O O O O O O O O O O O,"RB , NNP NNP VBZ VBN DT NN POS JJS JJ NN ."
+"Its death toll has surpassed that of Hurricane Mitch , which killed 268 people in 1998 .",O O O O O O O O O O O O O O O B-tim O,"PRP$ NN NN VBZ VBN IN IN NNP NNP , WDT VBD CD NNS IN CD ."
+"Guatemala was the worst-hit of the nations ravaged by Stan , which struck Central America during the past week , and Mexico 's Gulf Coast Tuesday .",B-geo O O O O O O O O O O O O B-geo I-geo O O B-tim O O O B-geo O B-geo I-geo B-tim O,"NNP VBD DT NN IN DT NNS VBN IN NNP , WDT VBD NNP NNP IN DT JJ NN , CC NNP POS NNP NNP NNP ."
+Officials say at least 67 people were killed in El Salvador .,O O O O O O O O O B-geo I-geo O,NNS VBP IN JJS CD NNS VBD VBN IN NNP NNP .
+"At least 15 deaths are reported in Mexico , and at least 10 in Nicaragua .",O O O O O O O B-geo O O O O O O B-geo O,"IN JJS CD NNS VBP VBN IN NNP , CC IN JJS CD IN NNP ."
+Thousands of people in the region are in shelters or homeless after their homes were covered in mud or washed away .,O O O O O O O O O O O O O O O O O O O O O O,NNS IN NNS IN DT NN VBP IN NNS CC NN IN PRP$ NNS VBD VBN IN NN CC VBN RB .

@@ -1,0 +1,8 @@
+"A HARE one day ridiculed the short feet and slow pace of the Tortoise , who replied , laughing :",O O O O O O O O O O O O O O O O O O O O,"DT NN CD NN VBD DT JJ NNS CC JJ NN IN DT NN , WP VBD , VBG :"
+""" Though you be swift as the wind , I will beat you in a race . """,O O O O O O O O O O O O O O O O O O,"LQU IN PRP VB JJ IN DT NN , PRP MD VB PRP IN DT NN . RQU"
+"The Hare , believing her assertion to be simply impossible , assented to the proposal ; and they agreed that the Fox should choose the course and fix the goal .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN , VBG PRP$ NN TO VB RB JJ , VBN TO DT NN ; CC PRP VBD IN DT NN MD VB DT NN CC VB DT NN ."
+On the day appointed for the race the two started together .,O O B-tim O O O O O O O O O,IN DT NN VBN IN DT NN DT CD VBD RB .
+"The Tortoise never for a moment stopped , but went on with a slow but steady pace straight to the end of the course .",O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN RB IN DT NN VBD , CC VBD IN IN DT JJ CC JJ NN RB TO DT NN IN DT NN ."
+"The Hare , lying down by the wayside , fell fast asleep .",O O O O O O O O O O O O O,"DT NN , VBG RP IN DT NN , VBD RB JJ ."
+"At last waking up , and moving as fast as he could , he saw the Tortoise had reached the goal , and was comfortably dozing after her fatigue .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN JJ VBG RP , CC VBG RB RB IN PRP MD , PRP VBD DT NN VBD VBN DT NN , CC VBD RB VBG IN PRP$ NN ."
+Slow but steady wins the race .,O O O O O O O,NNP CC JJ NNS DT NN .

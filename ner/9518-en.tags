@@ -1,0 +1,7 @@
+The chief prosecutor in the trial of ousted Iraqi leader Saddam Hussein has detailed government documents surrounding the deadly crackdown on an Iraqi village .,O O O O O O O O B-gpe O B-per I-per O O O O O O O O O O B-gpe O O,DT JJ NN IN DT NN IN JJ JJ NN NNP NNP VBZ VBN NN NNS VBG DT JJ NN IN DT JJ NN .
+In the paperwork is a document prosecutors said was signed by Saddam approving the execution of 148 Shi'ite Muslim villagers in Dujail .,O O O O O O O O O O O B-per O O O O O O O O O B-geo O,IN DT NN VBZ DT NN NNS VBD VBD VBN IN NNP VBG DT NN IN CD NNP NNP NNS IN NNP .
+That item was presented Tuesday .,O O O O B-tim O,DT NN VBD VBN NNP .
+"After Wednesday 's session , the trial was adjourned until March 12 .",O B-tim O O O O O O O O B-tim I-tim O,"IN NNP POS NN , DT NN VBD VBN IN NNP CD ."
+Saddam and seven co-defendants are on trial for the killing of more than 140 villagers in Dujail .,B-per O O O O O O O O O O O O O O O B-geo O,NNP CC CD NNS VBP IN NN IN DT NN IN JJR IN CD NNS IN NNP .
+The deaths were part of a crackdown following an assassination attempt against Saddam in Dujail .,O O O O O O O O O O O O B-per O B-geo O,DT NNS VBD NN IN DT NN VBG DT NN NN IN NNP IN NNP .
+The defendants face hanging if convicted .,O O O O O O O,DT NNS VBP VBG IN VBN .

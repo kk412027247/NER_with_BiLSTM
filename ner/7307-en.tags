@@ -1,0 +1,5 @@
+Great Britain formally acquired possession of Malta in 1814 .,B-geo I-geo O O O O B-geo O B-tim O,NNP NNP RB VBD NN IN NNP IN CD .
+The island staunchly supported the UK through both world wars and remained in the Commonwealth when it became independent in 1964 .,O O O O O B-org O O O O O O O B-geo I-geo O O O O O B-tim O,DT NN RB VBD DT NNP IN DT NN NNS CC VBD IN DT NNP WRB PRP VBD JJ IN CD .
+A decade later Malta became a republic .,O B-tim I-tim B-geo O O O O,DT NN RB NNP VBD DT NN .
+"Since about the mid-1980s , the island has transformed itself into a freight transshipment point , a financial center , and a tourist destination .",O O O B-org O O O O O O O O O O O O O O O O O O O O O,"IN IN DT NNS , DT NN VBZ VBN PRP IN DT NN NN NN , DT JJ NN , CC DT NN NN ."
+Malta became an EU member in May 2004 and began using the euro as currency in 2008 .,B-geo O O B-org O O B-tim I-tim O O O O O O O O B-tim O,NNP VBD DT NNP NN IN NNP CD CC VBD VBG DT NN IN NN IN CD .

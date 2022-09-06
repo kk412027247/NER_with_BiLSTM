@@ -1,0 +1,7 @@
+Authorities in Britain have detained and plan to deport 10 foreign nationals suspected of posing a threat to national security .,O O B-gpe O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP VBN CC VBP TO VB CD JJ NNS VBN IN VBG DT NN TO JJ NN .
+Home Secretary Charles Clarke made the announcement Thursday but did not give any details .,O O B-per I-per O O O B-tim O O O O O O O,NN NN NNP NNP VBD DT NN NNP CC VBD RB VB DT NNS .
+"British media say one of the detainees could be Abu Qatada , who fled to Britain claiming persecution in Jordan .",B-gpe O O O O O O O O B-per I-per O O O O B-geo O O O B-gpe O,"JJ NNS VBP CD IN DT NNS MD VB NNP NNP , WP VBD TO NNP VBG NN IN NNP ."
+British authorities have described him as a top al-Qaida recruiter .,B-gpe O O O O O O O B-org O O,JJ NNS VBP VBN PRP IN DT JJ NNP NN .
+"Last week , Prime Minister Tony Blair announced a series of measures aimed at fighting terrorism following the July London bomb attacks .",O O O O O B-per I-per O O O O O O O O O O O B-tim B-geo O O O,"JJ NN , JJ NN NNP NNP VBD DT NN IN NNS VBN IN VBG NN VBG DT NNP NNP NN NNS ."
+They include deporting foreigners who advocate violence .,O O O O O O O O,PRP VBP VBG NNS WP VBP NN .
+Mr. Clarke said he received assurances from the countries where the detainees will sent that they will not be subject to torture or ill-treatment .,B-per I-per O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP VBD PRP VBD NNS IN DT NNS WRB DT NNS MD VBN IN PRP MD RB VB JJ IN NN CC NN .

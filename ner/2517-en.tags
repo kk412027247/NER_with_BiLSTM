@@ -1,0 +1,14 @@
+"A Rabbi , a Hindu , and a lawyer are in a car .",O B-org O O B-geo O O O O O O O O O,"DT NNP , DT NNP , CC DT NN VBP IN DT NN ."
+They run out of gas and are forced to stop at a farmer 's house .,O O O O O O O O O O O O O O O O,PRP VBP IN IN NN CC VBP VBN TO VB IN DT NN POS NN .
+"The farmer says that there are only two extra beds , so one person will have to sleep in the barn .",O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ IN EX VBP RB CD JJ NNS , RB CD NN MD VB TO VB IN DT NN ."
+"The Hindu says , ' I 'm humble , I will sleep in the barn . '",O B-geo O O O O O O O O O O O O O O O,"DT NNP VBZ , LQU PRP VBP JJ , PRP MD VB IN DT NN . RQU"
+"So , he goes out to the barn .",O O O O O O O O O,"RB , PRP VBZ RP TO DT NN ."
+"In a few minutes , the farmer hears a knock on the door .",O O O O O O O O O O O O O O,"IN DT JJ NNS , DT NN VBZ DT NN IN DT NN ."
+"It 's the Hindu and he says , ' There is a cow in the barn .",O O O B-geo O O O O O O O O O O O O O,"PRP VBZ DT NNP CC PRP VBZ , LQU EX VBZ DT NN IN DT NN ."
+It 's against my beliefs to sleep with a cow . ',O O O O O O O O O O O O,PRP VBZ IN PRP$ NNS TO VB IN DT NN . RQU
+"So , the Rabbi says , ' I 'm humble , I 'll sleep in the barn . '",O O O B-org O O O O O O O O O O O O O O O,"RB , DT NNP VBZ , LQU PRP VBP JJ , PRP MD VB IN DT NN . RQU"
+"A few minutes later , the farmer hears another knock on the door and it 's the Rabbi .",O O O B-tim O O O O O O O O O O O O O B-org O,"DT JJ NNS RB , DT NN VBZ DT NN IN DT NN CC PRP VBZ DT NNP ."
+He says that it is against his beliefs to sleep where there is a pig and there is a pig in the barn .,O O O O O O O O O O O O O O O O O O O O O O O O,PRP VBZ IN PRP VBZ IN PRP$ NNS TO VB WRB EX VBZ DT NN CC EX VBZ DT NN IN DT NN .
+"So , the lawyer is forced to sleep in the barn .",O O O O O O O O O O O O,"RB , DT NN VBZ VBN TO VB IN DT NN ."
+"A few minutes later , there is a knock on the door .",O O O B-tim O O O O O O O O O,"DT JJ NNS RB , EX VBZ DT NN IN DT NN ."
+It 's the pig and the cow ...,O O O O O O O O,PRP VBZ DT NN CC DT NN .

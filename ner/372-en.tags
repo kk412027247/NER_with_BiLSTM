@@ -1,0 +1,5 @@
+A powerful earthquake has shaken the area around Tibet in China .,O O O O O O O O B-geo O B-geo O,DT JJ NN VBZ VBN DT NN IN NNP IN NNP .
+"The U.S. Geological Survey says the quake had a 6.9 magnitude and was centered about 245 kilometers north of Qamdo prefecture , which borders China 's Sichuan province .",O B-org I-org I-org O O O O O O O O O O O O O O O B-geo O O O O B-geo O O O O,"DT NNP NNP NNP VBZ DT NN VBD DT CD NN CC VBD VBN IN CD NNS RB IN NNP NN , WDT VBZ NNP POS JJ NN ."
+At least one strong aftershock with a 5.2 magnitude struck about 30 minutes later .,O O O O O O O O O O O B-tim O O O,IN JJS CD JJ NN IN DT CD NN VBD IN CD NNS RB .
+There were no early reports about damage or injuries .,O O O O O O O O O O,EX VBD DT JJ NNS IN NN CC NNS .
+"A massive 7.9 quake hit Sichuan province in 2008 , killing close to 90,000 people .",O O O O O B-geo O O B-tim O O O O O O O,"DT JJ CD NN VBD NNP NN IN CD , VBG RB TO CD NNS ."

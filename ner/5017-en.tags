@@ -1,0 +1,9 @@
+"Estonia 's Kristina Smigun has captured her second gold medal of the Turin Winter Olympics , with a victory in the women 's 10-kilometer classical cross country ski event .",B-geo O B-geo I-geo O O O O O O O O B-org I-org I-org O O O O O O O O O O O O O O O,"NNP POS NNP NNP VBZ VBN PRP$ JJ NN NN IN DT NNP NNP NNPS , IN DT NN IN DT NNS POS JJ JJ NN NN NN NN ."
+"Smigun , who won the 15-kilometer pursuit on Sunday , finished more than 21 seconds ahead of Marit Bjoergen of Norway , who took the silver medal Thursday .",B-geo O O O O O O O B-tim O O O O O O O O B-org I-org I-org I-org O O O O O O B-tim O,"NNP , WP VBD DT JJ NN IN NNP , VBD RBR IN CD NNS RB IN NNP NNP IN NNP , WP VBD DT NN NN NNP ."
+"Hilde Pedersen , also from Norway , won the bronze .",B-per I-per O O O B-geo O O O O O,"NNP NNP , RB IN NNP , VBD DT NN ."
+"Seven other gold medals are at stake Thursday , in Turin .",O O O O O O O B-tim O O B-geo O,"CD JJ JJ NNS VBP IN NN NNP , IN NNP ."
+The men 's Nordic Combined is on the schedule after high winds postponed the event on Wednesday .,O O O B-org I-org O O O O O O O O O O O B-tim O,DT NNS POS NNP NNP VBZ IN DT NN IN JJ NNS VBD DT NN IN NNP .
+"Thursday 's schedule also includes the debut of men 's snowboard cross , while the free program will complete men 's figure skating .",B-tim O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NN RB VBZ DT NN IN NNS POS NN NN , IN DT JJ NN MD VB NNS POS NN NN ."
+Women will ski and shoot for gold in the 7.5 kilometer biathlon sprint .,O O O O O O O O O O O O O O,NNS MD VB CC VB IN NN IN DT CD NN NN NN .
+Women will also compete in skeleton singles .,O O O O O O O O,NNS MD RB VB IN NN NNS .
+Both genders will seek medals in speedskating team pursuit .,O O O O O O O O O O,DT NNS MD VB NNS IN VBG NN NN .

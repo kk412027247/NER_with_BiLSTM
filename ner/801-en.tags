@@ -1,0 +1,8 @@
+"Palestinians in Jerusalem marched through the streets of Bethlehem Monday celebrating the Eve of Christmas , the day before the traditional birth of Jesus Christ .",B-gpe O B-geo O O O O O B-geo B-tim O O B-org I-org I-org O O O O O O O O B-geo I-geo O,"NNS IN NNP VBD IN DT NNS IN NNP NNP VBG DT NNP IN NNP , DT NN IN DT JJ NN IN NNP NNP ."
+Robert Berger is in Bethlehem and filed this on-scene report .,B-per I-per O O B-geo O O O O O O,NNP NNP VBZ IN NNP CC VBD DT JJ NN .
+"Palestinian boy and girl scouts are marched through Manger Square in Bethlehem , kicking off Christmas Eve celebrations .",B-gpe O O O O O O O B-org I-org O B-geo O O O B-org I-org O O,"JJ NN CC NN NNS VBP VBN IN NNP NNP IN NNP , VBG RP NNP NNP NNS ."
+"They marched past the Church of the Nativity , the traditional birthplace of Jesus , playing drums and bagpipes .",O O O O O O O B-geo O O O O O B-geo O O O O O O,"PRP VBD IN DT NN IN DT NNP , DT JJ NN IN NNP , VBG NNS CC NNS ."
+It was a festive atmosphere .,O O O O O O,PRP VBD DT JJ NN .
+Manger Square is decked out with Christmas Trees that light and colorful balloons .,B-org I-org O O O O B-eve O O O O O O O,NNP NNP VBZ VBN RP IN NNP NNS IN VBP CC JJ NNS .
+"On a cool , sunny day a big crowd is looking on , including some pilgrims , but mostly local Palestinians .",O O O O O O O O O O O O O O O O O O O O B-gpe O,"IN DT JJ , JJ NN DT JJ NN VBZ VBG IN , VBG DT NNS , CC RB JJ NNS ."
+Christmas Eve celebrations will culminate with midnight mass at the Church of the Nativity .,B-eve I-eve O O O O O O O O O O O B-geo O,NNP NNP NNS MD VB IN NN NN IN DT NN IN DT NN .

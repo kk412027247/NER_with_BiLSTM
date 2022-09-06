@@ -1,0 +1,3 @@
+A BULL finding a lion 's cub asleep gored him to death with his horns .,O O O O O O O O O O O O O O O O,DT NN VBG DT NN POS NN JJ VBD PRP TO NN IN PRP$ NNS .
+"The Lioness came up , and bitterly lamented the death of her whelp .",O O O O O O O O O O O O O O,"DT NN VBD RB , CC RB VBD DT NN IN PRP$ NN ."
+"A wild-boar Hunter , seeing her distress , stood at a distance and said to her , "" Think how many men there are who have reason to lament the loss of their children , whose deaths have been caused by you . """,O O B-per O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN NNP , VBG PRP$ NN , VBD IN DT NN CC VBD TO PRP , LQU VBP WRB JJ NNS EX VBP WP VBP NN TO VB DT NN IN PRP$ NNS , WP$ NNS VBP VBN VBN IN PRP . RQU"

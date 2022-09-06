@@ -1,0 +1,4 @@
+"The United States Government , Wednesday [ May 14 ] officially added polar bears to the list of threatened animals under the Endangered Species Act .",O B-org I-org I-org O B-tim O B-tim I-tim O O O O O O O O O O O O O B-art I-art I-art O,"DT NNP NNP NNP , NNP LRB NNP CD RRB RB VBD JJ NNS TO DT NN IN JJ NNS IN DT NNP NNP NNP ."
+Bush administration scientists decided the species is at risk of becoming endangered .,B-per O O O O O O O O O O O O,NNP NN NNS VBD DT NNS VBZ IN NN IN VBG VBN .
+"Officials cited warming trends and loss of sea ice as threatening the bears , opening a debate over whether to regulate greenhouse gases to protect the bear and its habitat .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBD NN NNS CC NN IN NN NN IN VBG DT NNS , VBG DT NN IN IN TO VB NN NNS TO VB DT NN CC PRP$ NN ."
+Paul Sisco reports .,B-per I-per O O,NNP NNP VBZ .

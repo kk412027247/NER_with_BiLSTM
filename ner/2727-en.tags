@@ -1,0 +1,8 @@
+"A four-year-old girl in Egypt has tested positive for bird flu , the 44th confirmed human case of the deadly disease in the Arab world 's most populous country .",O O O O B-geo O O O O O O O O B-org O O O O O O O O O B-gpe O O O O O O,"DT JJ NN IN NNP VBZ VBN JJ IN NN NN , DT NN VBD JJ NN IN DT JJ NN IN DT JJ NN POS RBS JJ NN ."
+Egyptian health ministry officials say the girl is from the southern village of Sheik Massoud in Minya province .,B-gpe O O O O O O O O O O O O B-geo I-geo O B-geo O O,JJ NN NN NNS VBP DT NN VBZ IN DT JJ NN IN NNP NNP IN NNP NN .
+She was admitted to a Cairo hospital for treatment on Monday .,O O O O O B-geo O O O O B-tim O,PRP VBD VBN TO DT NNP NN IN NN IN NNP .
+"Of the 44 bird flu cases confirmed so far in Egypt , 19 have been fatal .",O O O O O O O O O O B-geo O O O O O O,"IN DT CD NN NN NNS VBN RB RB IN NNP , CD VBP VBN JJ ."
+"Most of the fatalities have been women or girls whose families raise poultry , which brings them into daily contact with chickens or turkeys .",O O O O O O O O O O O O O O O O O O O O O O O O O,"JJS IN DT NNS VBP VBN NNS CC NNS WP$ NNS VBP NN , WDT VBZ PRP IN JJ NN IN NNS CC NNS ."
+Close to five million Egyptian households depend on poultry for food or income .,O O O O B-gpe O O O O O O O O O,NN TO CD CD JJ NNS VBP IN NN IN NN CC NN .
+The government says this makes it unlikely that the disease can be eradicated despite a large-scale poultry vaccination program .,O O O O O O O O O O O O O O O O O O O O,DT NN VBZ DT VBZ PRP JJ IN DT NN MD VB VBN IN DT JJ NN NN NN .
+Four Egyptian women died from bird flu last December .,O B-gpe O O O O O O B-tim O,CD JJ NNS VBD IN NN NN JJ NNP .

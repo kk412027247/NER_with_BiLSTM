@@ -1,0 +1,8 @@
+"U.S. Secretary of State Condoleezza Rice , who is on a tour of the Middle East , met with Egyptian President Hosni Mubarak Wednesday .",B-org O O O B-per I-per O O O O O O O O B-geo I-geo O O O B-gpe B-per I-per I-per B-tim O,"NNP NNP IN NNP NNP NNP , WP VBZ IN DT NN IN DT NNP NNP , VBD IN JJ NNP NNP NNP NNP ."
+Rice and Mr. Mubarak were to discuss the aftermath of the militant group Hamas 's victory in the Palestinian elections .,B-per O B-per I-per O O O O O O O O O B-org O O O O B-gpe O O,NNP CC NNP NNP VBD TO VB DT NN IN DT JJ NN NNP POS NN IN DT JJ NNS .
+She also met with Egyptian democracy activists Wednesday .,O O O O B-gpe O O B-tim O,PRP RB VBD IN JJ NN NNS NNP .
+Few details were given about those meetings .,O O O O O O O O,JJ NNS VBD VBN IN DT NNS .
+Rice 's Middle East tour is aimed at convincing Arab governments to take a stance against a Hamas-led Palestinian government .,B-per O B-geo I-geo O O O O O B-gpe O O O O O O O O B-gpe O O,NNP POS NNP NNP NN VBZ VBN IN VBG JJ NNS TO VB DT NN IN DT JJ JJ NN .
+Her next stop will be Saudi Arabia and then she will wrap up her tour in the United Arab Emirates .,O O O O O B-geo I-geo O O O O O O O O O O B-org I-org I-org O,PRP$ JJ NN MD VB NNP NNP CC RB PRP MD VB RP PRP$ NN IN DT NNP NNP NNPS .
+"On Tuesday , Rice met with Egyptian Foreign Minister Ahmed Aboul Gheit in Cairo .",O B-tim O B-per O O B-gpe O B-per I-per I-per I-per O B-geo O,"IN NNP , NNP VBD IN JJ NNP NNP NNP NNP NNP IN NNP ."
+"During their meeting , Rice said Hamas must choose between terrorism and politics if it wants to successfully lead a Palestinian government .",O O O O B-per O B-org O O O O O O O O O O O O O B-gpe O O,"IN PRP$ NN , NNP VBD NNP MD VB IN NN CC NNS IN PRP VBZ TO RB VB DT JJ NN ."

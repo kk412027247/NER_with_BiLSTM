@@ -1,0 +1,8 @@
+"Authorities in Vietnam say Typhoon Kai Tak killed at least 18 people , and emergency workers are still searching for bodies .",O O B-geo O B-org B-per I-per O O O O O O O O O O O O O O O,"NNS IN NNP VBP NNP NNP NNP VBD IN JJS CD NNS , CC NN NNS VBP RB VBG IN NNS ."
+Weather officials say the typhoon dissipated Wednesday after battering the coast of central Vietnam .,O O O O O O B-tim O O O O O O B-geo O,NNP NNS VBP DT NN VBD NNP IN VBG DT NN IN JJ NNP .
+"Authorities say deaths have been reported in several regions , including the provinces of Quang Ngai and Thua Thien Hue .",O O O O O O O O O O O O O O B-org I-org I-org I-org I-org I-org O,"NNS VBP NNS VBP VBN VBN IN JJ NNS , VBG DT NNS IN NNP NNP CC NNP NNP NNP ."
+At least six people are missing .,O O O O O O O,IN JJS CD NNS VBP VBG .
+Vietnam 's official news agency says heavy rain and widespread flooding inundated thousands of homes and severely damaged roads and other infrastructure .,B-geo O O O O O O O O O O O O O O O O O O O O O O,NNP POS JJ NN NN VBZ JJ NN CC JJ NN VBD NNS IN NNS CC RB VBN NNS CC JJ NN .
+Thousands of hectares of crops have been destroyed .,O O O O O O O O O,NNS IN NNS IN NNS VBP VBN VBN .
+The typhoon also prompted Chinese President Hu Jintao to cut short his visit to Vietnam .,O O O O B-gpe B-per I-per I-per O O O O O O B-geo O,DT NN RB VBD JJ NNP NNP NNP TO VB JJ PRP$ NN TO NNP .
+Official reports say damage from the typhoon is estimated at $ 1.7 million .,O O O O O O O O O O O O O O,JJ NNS VBP NN IN DT NN VBZ VBN IN $ CD CD .

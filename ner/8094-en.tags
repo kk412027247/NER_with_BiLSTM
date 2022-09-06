@@ -1,0 +1,7 @@
+The World Health Organization has confirmed Burma 's first human case of bird flu .,O B-org I-org I-org O O B-geo O O O O O O O O,DT NNP NNP NNP VBZ VBN NNP POS JJ JJ NN IN NN NN .
+"Based on information provided by the Burmese Ministry of Health , the WHO identified the victim as a seven-year-old girl from eastern Shan State .",O O O O O O B-gpe B-org I-org I-org O O B-org O O O O O O O O O B-geo I-geo O,"VBN IN NN VBN IN DT JJ NNP IN NNP , DT NNP VBD DT NN IN DT JJ NN IN JJ NNP NNP ."
+Officials say she developed symptoms of the disease last month in an area where there had been an outbreak of the H5N1 virus in poultry .,O O O O O O O O O O O O O O O O O O O O O O O O O O,NNS VBP PRP VBD NNS IN DT NN JJ NN IN DT NN WRB EX VBD VBN DT NN IN DT NNP NN IN NN .
+The girl survived the disease .,O O O O O O,DT NN VBD DT NN .
+Seven countries in East Asia have reported human cases of the potentially deadly H5N1 virus .,O O O B-geo I-geo O O O O O O O O O O O,CD NNS IN NNP NNP VBP VBN JJ NNS IN DT RB JJ NNP NN .
+The two with the greatest number of cases are Indonesia and Vietnam .,O O O O O O O O O B-geo O B-geo O,DT CD IN DT JJS NN IN NNS VBP NNP CC NNP .
+More than 200 people in 13 countries have died from the disease since 2003 .,O O O O O O O O O O O O B-tim I-tim O,JJR IN CD NNS IN CD NNS VBP VBN IN DT NN IN CD .

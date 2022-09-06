@@ -1,0 +1,7 @@
+"Nepal 's Defense Ministry says at least 29 people - including Maoist rebels , soldiers and police - have been killed in a fierce gunfight in the western part of the country .",B-gpe B-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP POS NNP NNP VBZ IN JJS CD NNS : VBG NNP NNS , NNS CC NNS : VBP VBN VBN IN DT JJ NN IN DT JJ NN IN DT NN ."
+"An army statement says the clash occurred late Tuesday in the Palpa area , some 250 kilometers west of the capital , Kathmandu .",O O O O O O O O B-tim O O B-geo O O O O O O O O O O B-geo O,"DT NN NN VBZ DT NN VBD JJ NNP IN DT NNP NN , DT CD NNS JJS IN DT NN , NNP ."
+"It says 18 rebels , 10 soldiers and a policeman were killed in the fighting .",O O O O O O O O O O O O O O O O,"PRP VBZ CD NNS , CD NNS CC DT NN VBD VBN IN DT NN ."
+No other details were immediately available .,O O O O O O O,DT JJ NNS VBD RB JJ .
+Rebel attacks have increased since the Maoists ended a unilateral cease-fire in early January .,O O O O O O B-org O O O O O O B-tim O,NN NNS VBP VBN IN DT NNPS VBD DT JJ NN IN JJ NNP .
+They have been fighting since 1996 to overthrow Nepal 's constitutional monarchy and replace it with a communist state .,O O O O O B-tim O O B-gpe B-org O O O O O O O O O O,PRP VBP VBN VBG IN CD TO VB NNP POS JJ NN CC VB PRP IN DT JJ NN .
+"About 13,000 people have been killed in the war that shattered Nepal 's economy .",O O O O O O O O O O O B-gpe B-org O O,IN CD NNS VBP VBN VBN IN DT NN WDT VBD NNP POS NN .

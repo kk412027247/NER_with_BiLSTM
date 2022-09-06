@@ -1,0 +1,7 @@
+Army officials in Colombia say 20 soldiers have died in a helicopter crash during a drug eradication mission .,B-org O O B-geo O O O O O O O O O O O O O O O,NNP NNS IN NNP VBP CD NNS VBP VBN IN DT NN NN IN DT NN NN NN .
+"The officials say the Black Hawk helicopter went down Thursday near the town of Tumaco , in the province Narino .",O O O O B-art I-art O O O B-tim O O O O B-geo O O O O B-geo O,"DT NNS VBP DT NNP NNP NN VBD RB NNP IN DT NN IN NNP , IN DT NN NNP ."
+They say there was bad weather during the time of the crash .,O O O O O O O O O O O O O,PRP VBP EX VBD JJ NN IN DT NN IN DT NN .
+The Black Hawk was part of a U.S. funded anti-drug effort called Plan Colombia .,O B-art I-art O O O O B-geo O O O O O B-geo O,DT NNP NNP VBD NN IN DT NNP JJ JJ NN VBD NNP NNP .
+It supported military operations against drug traffickers and leaders of rebel groups .,O O O O O O O O O O O O O,PRP VBD JJ NNS IN NN NNS CC NNS IN NN NNS .
+"The Revolutionary Armed Forces of Colombia ,",O O O O O B-geo O,"DT JJ JJ NNS IN NNP ,"
+"FARC , which has been fighting the Colombian government for 40 years , uses drug trafficking to finance its insurgency .",B-org O O O O O O B-gpe O O B-tim O O O O O O O O O O,"NNP , WDT VBZ VBN VBG DT JJ NN IN CD NNS , VBZ NN NN TO VB PRP$ NN ."

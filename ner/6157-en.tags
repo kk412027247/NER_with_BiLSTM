@@ -1,0 +1,10 @@
+"This South Pacific island economy is based primarily on small-scale agriculture , which provides a living for about two-thirds of the population .",O B-geo I-geo O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NN NN VBZ VBN RB IN JJ NN , WDT VBZ DT NN IN IN NNS IN DT NN ."
+"Fishing , offshore financial services , and tourism , with nearly 197,000 visitors in 2008 , are other mainstays of the economy .",O O O O O O O O O O O O O O B-tim O O O O O O O O,"NNP , JJ JJ NNS , CC NN , IN RB CD NNS IN CD , VBP JJ NNS IN DT NN ."
+Mineral deposits are negligible ; the country has no known petroleum deposits .,O O O O O O O O O O O O O,NN NNS VBP JJ ; DT NN VBZ DT VBN NN NNS .
+A small light industry sector caters to the local market .,O O O O O O O O O O O,DT JJ JJ NN NN NNS TO DT JJ NN .
+Tax revenues come mainly from import duties .,O O O O O O O O,NN NNS VBP RB IN NN NNS .
+"Economic development is hindered by dependence on relatively few commodity exports , vulnerability to natural disasters , and long distances from main markets and between constituent islands .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NN VBZ VBN IN NN IN RB JJ NN NNS , NN TO JJ NNS , CC JJ NNS IN JJ NNS CC IN JJ NNS ."
+"In response to foreign concerns , the government has promised to tighten regulation of its offshore financial center .",O O O O O O O O O O O O O O O O O O O,"IN NN TO JJ NNS , DT NN VBZ VBN TO VB NN IN PRP$ JJ JJ NN ."
+"In mid-2002 , the government stepped up efforts to boost tourism through improved air connections , resort development , and cruise ship facilities .",O B-tim O O O O O O O O O O O O O O O O O O O O O O,"IN NN , DT NN VBD RP NNS TO VB NN IN JJ NN NNS , NN NN , CC NN NN NNS ."
+"Agriculture , especially livestock farming , is a second target for growth .",O O O O O O O O O O O O O,"NN , RB JJ NN , VBZ DT JJ NN IN NN ."
+Australia and New Zealand are the main suppliers of tourists and foreign aid .,B-org O B-org I-org O O O O O O O O O O,NNP CC NNP NNP VBP DT JJ NNS IN NNS CC JJ NN .

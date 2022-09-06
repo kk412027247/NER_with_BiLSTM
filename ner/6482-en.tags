@@ -1,0 +1,8 @@
+"South Africa has offered a higher wage increase to public service workers in an effort to avert a strike by some 900,000 members of the civil service .",B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP NNP VBZ VBN DT JJR NN NN TO JJ NN NNS IN DT NN TO VB DT NN IN DT CD NNS IN DT JJ NN .
+The public services ministry announced Thursday it has offered to raise salaries by 7 percent .,O O O O O B-tim O O O O O O O O O O,DT JJ NNS NN VBD NNP PRP VBZ VBN TO VB NNS IN CD NN .
+"The previous offer was 6.5 percent , but unions are demanding an 8.6 percent raise .",O O O O O O O O O O O O O O O O,"DT JJ NN VBD CD NN , CC NNS VBP VBG DT CD NN NN ."
+The ministry said its offer of about $ 86 ( 630 rand ) for a housing allowance had not changed .,O O O O O O O O O O O O O O O O O O O O O,DT NN VBD PRP$ NN IN IN $ CD LRB CD NNS RRB IN DT NN NN VBD RB VBN .
+"Unions have asked for nearly $ 140 ( 1,000 rand ) .",O O O O O O O O O O O O,NNS VBP VBN IN RB $ CD LRB CD NN RRB .
+"One union , the 210,000 member Public Servants Association , had threatened to begin its strike Thursday .",O O O O O O B-org I-org I-org O O O O O O O B-tim O,"CD NN , DT CD NN NNP NNP NNP , VBD VBN TO VB PRP$ NN NNP ."
+The other workers have threatened to walk off their jobs next week .,O O O O O O O O O O O O O,DT JJ NNS VBP VBN TO VB RP PRP$ NNS JJ NN .
+Public Service and Administration Minister Richard Baloyi has called for any strikes to be delayed until he is able to meet with union leaders Thursday .,B-org I-org O O O B-per I-per O O O O O O O O O O O O O O O O O B-tim O,NNP NNP CC NNP NNP NNP NNP VBZ VBN IN DT NNS TO VB VBN IN PRP VBZ JJ TO VB IN NN NNS NNP .

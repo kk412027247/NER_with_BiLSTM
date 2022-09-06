@@ -1,0 +1,6 @@
+"Lawmakers on Cyprus have ratified the European Union treaty , despite opposition from the communist party of President Dimitris Christofias .",O O B-per O O O B-org I-org O O O O O O O O O B-per I-per I-per O,"NNS IN NNP VBP VBN DT NNP NNP NN , IN NN IN DT JJ NN IN NNP NNP NNP ."
+"The Mediterranean island-nation Thursday became the 20th EU state to ratify the treaty , after 31 lawmakers out of 49 present in Nicosia voted in favor .",O O O B-tim O O O B-org O O O O O O O O O O O O O O B-geo O O O O,"DT NNP NN NNP VBD DT JJ NNP NN TO VB DT NN , IN CD NNS IN IN CD JJ IN NNP VBD IN NN ."
+The charter is aimed at streamlining EU bureaucracy and making it easier for the European Commission to enact policy .,O O O O O O B-org O O O O O O O B-org I-org O O O O,DT NN VBZ VBN IN VBG NNP NN CC VBG PRP JJR IN DT JJ NNP TO VB NN .
+The Cyprus vote comes less than a month after Irish voters rejected the treaty in a referendum .,O B-org O O O O O O O B-gpe O O O O O O O O,DT NNP NN VBZ JJR IN DT NN IN JJ NNS VBD DT NN IN DT NN .
+All 27 nations must ratify the treaty for it to take effect .,O O O O O O O O O O O O O,DT CD NNS MD VB DT NN IN PRP TO VB NN .
+Advocates say it remains unclear whether the charter can be salvaged after the Irish defeat .,O O O O O O O O O O O O O B-gpe O O,NNS VBP PRP VBZ JJ IN DT NN MD VB VBN IN DT JJ NN .

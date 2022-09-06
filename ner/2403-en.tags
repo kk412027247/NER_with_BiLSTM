@@ -1,0 +1,7 @@
+"Georgia 's President Mikhail Saakashvili says his country is ready to increase its military presence in Iraq to as many as 2,000 troops .",B-geo O B-per I-per I-per O O O O O O O O O O O B-geo O O O O O O O,NNP POS NNP NNP NNP VBZ PRP$ NN VBZ JJ TO VB PRP$ JJ NN IN NNP TO RB JJ IN CD NNS .
+President Saakashvili said the increased contingent will remain in Iraq for a year .,B-per I-per O O O O O O O B-geo O O O O,NNP NNP VBD DT VBN JJ MD VB IN NNP IN DT NN .
+He spoke to reporters Friday as he continued his visit Japan .,O O O O B-tim O O O O O B-geo O,PRP VBD TO NNS NNP IN PRP VBD PRP$ NN NNP .
+Georgia now has more than 850 troops in Iraq .,B-geo O O O O O O O B-geo O,NNP RB VBZ JJR IN CD NNS IN NNP .
+"The Georgian leader said his country , which hopes to gain NATO membership , also is planning to send troops to Afghanistan to help alliance forces there .",O B-gpe O O O O O O O O O B-org O O O O O O O O O B-geo O O O O O O,"DT JJ NN VBD PRP$ NN , WDT VBZ TO VB NNP NN , RB VBZ VBG TO VB NNS TO NNP TO VB NN NNS RB ."
+Mr. Saakashvili 's five-day Japanese tour follows his visit to Kazakhstan .,B-per I-per O O B-gpe O O O O O B-geo O,NNP NNP POS JJ JJ NN VBZ PRP$ NN TO NNP .
+He has discussed bilateral trade and economic opportunities in both countries .,O O O O O O O O O O O O,PRP VBZ VBN JJ NN CC JJ NNS IN DT NNS .

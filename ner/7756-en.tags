@@ -1,0 +1,6 @@
+"Officials in Afghanistan say multiple suicide bombers attacked the governor 's compound in the southern Afghan city of Kandahar Saturday , killing five policemen .",O O B-geo O O O O O O O O O O O O B-gpe O O B-tim I-tim O O O O O,"NNS IN NNP VBP JJ NN NNS VBD DT NN POS NN IN DT JJ JJ NN IN NNP NNP , VBG CD NNS ."
+"Provincial official Ahmad Wali Karzai , who is the president 's brother , says three suicide bombers were involved in the attack .",O O B-org I-org I-org O O O O O O O O O O O O O O O O O O,"NNP JJ NNP NNP NNP , WP VBZ DT NN POS NN , VBZ CD NN NNS VBD VBN IN DT NN ."
+"There are reports that at least one of the bombers detonated his explosives outside the compound , while the others may have been inside the compound .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"EX VBP NNS IN IN JJS CD IN DT NNS VBD PRP$ NNS IN DT NN , IN DT NNS MD VB VBN IN DT NN ."
+The Taliban has claimed responsibility for the attack .,O B-org O O O O O O O,DT NNP VBZ VBN NN IN DT NN .
+"Earlier this month , four suicide bombers struck a provincial council office in Kandahar , killing 13 people .",O O O O O O O O O O O O O B-tim O O O O O,"RBR DT NN , CD NN NNS VBD DT JJ NN NN IN NNP , VBG CD NNS ."
+Taliban militants also claimed responsibility for that attack .,B-org O O O O O O O O,NNP NNS RB VBD NN IN DT NN .

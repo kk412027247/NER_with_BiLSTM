@@ -1,0 +1,8 @@
+"Indonesia 's president , Susilo Bambang Yudhoyono , has declared the island of Sumatra a national disaster area because of Sunday 's devastating earthquake and tsunami waves .",B-geo O O O B-org I-org I-org O O O O O O B-geo O O O O O O B-tim O O O O O O O,"NNP POS NN , NNP NNP NNP , VBZ VBN DT NN IN NNP DT JJ NN NN IN IN NNP POS JJ NN CC NN NNS ."
+"Emergency officials said the worst-hit area was the northeastern province of Aceh , the scene of decades of separatist violence .",O O O O O O O O O O O B-org O O O O O O O O O,"NN NNS VBD DT JJ NN VBD DT JJ NN IN NNP , DT NN IN NNS IN JJ NN ."
+"Most of Indonesia 's victims - some 3,000 people - died in the provincial capital , Banda Aceh .",O O B-geo O O O O O O O O O O O O O B-per I-per O,"JJS IN NNP POS NNS IN DT CD NNS : VBD IN DT JJ NN , NNP NNP ."
+Officials say many of the dead were children swept away in floodwaters .,O O O O O O O O O O O O O,NNS VBP NN IN DT NN VBD NNS VBN RB IN NNS .
+The toll is expected to rise as more bodies are recovered .,O O O O O O O O O O O O,DT NN VBZ VBN TO VB IN JJR NNS VBP VBN .
+"The floods overturned cars and trucks , and bodies were seen caught in the branches of trees .",O O O O O O O O O O O O O O O O O O,"DT NNS VBD NNS CC NNS , CC NNS VBD VBN VBN IN DT NNS IN NNS ."
+Most lines of communication to the city have been down since the quake .,O O O O O O O O O O O O O O,JJS NNS IN NN TO DT NN VBP VBN RP IN DT NN .
+Thousands have fled homes that were damaged or destroyed by the floods .,O O O O O O O O O O O O O,NNS VBP VBN NNS WDT VBD VBN CC VBN IN DT NNS .

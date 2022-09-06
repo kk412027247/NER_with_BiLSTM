@@ -1,0 +1,6 @@
+"Officials from the World Health Organization say they fear Yemen could be facing a major polio epidemic , after confirming 83 cases of the disease .",O O O B-org I-org I-org O O O B-gpe O O O O O O O O O O O O O O O O,"NNS IN DT NNP NNP NNP VBP PRP VBP NNP MD VB VBG DT JJ NN NN , IN VBG CD NNS IN DT NN ."
+Sixty-seven of the cases were found in a single province al-Hudaidah .,O O O O O O O O O O O O,CD IN DT NNS VBD VBN IN DT JJ NN NN .
+"Meanwhile , health officials are investigating another 411 suspected cases across the country .",O O O O O O O O O O O O O O,"RB , NN NNS VBP VBG DT CD JJ NNS IN DT NN ."
+"A first round of vaccinations was completed last month , and officials say another round is planned .",O O O O O O O O O O O O O O O O O O,"DT JJ NN IN NNS VBD VBN JJ NN , CC NNS VBP DT NN VBZ VBN ."
+Yemen is one of 16 previously polio-free countries that have reported new cases of the disease since 2003 .,B-org O O O O O O O O O O O O O O O B-tim I-tim O,NNP VBZ CD IN CD RB JJ NNS WDT VBP VBN JJ NNS IN DT NN IN CD .
+"The water-borne disease , which mostly strikes the young , attacks the nervous system and can cause paralysis and sometimes death .",O O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN , WDT RB VBZ DT JJ , VBZ DT JJ NN CC MD VB NN CC RB NN ."

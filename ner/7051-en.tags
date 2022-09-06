@@ -1,0 +1,7 @@
+A flurry of economic reports on Monday paint a mixed picture of the U.S. economy .,O O O O O O B-tim O O O O O O B-geo O O,DT NN IN JJ NNS IN NNP VBP DT JJ NN IN DT NNP NN .
+The Commerce Department says sales of newly-built homes dropped 9.2 percent in January .,O B-org I-org O O O O O O O O B-tim I-tim O,DT NNP NNP VBZ NNS IN JJ NNS VBD CD NN IN NNP .
+"Home sales have been central to the U.S. economic expansion over the past year , boosted by low mortgage rates that allowed home buyers to take out larger loans .",O O O O O O O B-geo O O O O B-tim O O O O O O O O O O O O O O O O O,"NN NNS VBP VBN JJ TO DT NNP JJ NN IN DT JJ NN , VBN IN JJ NN NNS WDT VBD NN NNS TO VB RP JJR NNS ."
+A separate report on manufacturing in the Chicago area showed factory work expanding at an accelerated rate in February .,O O O O O O O B-geo O O O O O O O O O O B-tim O,DT JJ NN IN NN IN DT NNP NN VBD NN NN VBG IN DT JJ NN IN NNP .
+Economists track the key area for clues about the nation-wide health of the troubled factory sector .,O O O O O O O O O O O O O O O O O,NNS VBP DT JJ NN IN NNS IN DT JJ NN IN DT JJ NN NN .
+"Still another government report showed U.S. consumer spending did not grow in January , while a measure of inflation rose .",O O O O O B-geo O O O O O O B-tim O O O O O O O O,"RB DT NN NN VBD NNP NN NN VBD RB VB IN NNP , IN DT NN IN NN VBD ."
+Consumer spending offers indications of the overall health of the U.S. economy .,O O O O O O O O O O B-geo O O,NN NN VBZ NNS IN DT JJ NN IN DT NNP NN .

@@ -1,0 +1,9 @@
+The U.S. dollar fell to its lowest level in more than four years compared to the Japanese yen on Friday .,O B-geo O O O O O O O O O O O O O O B-gpe O O B-tim O,DT NNP NN VBD TO PRP$ JJS NN IN JJR IN CD NNS VBN TO DT JJ NN IN NNP .
+"At one point , the dollar bought fewer than 103 yen .",O O O O O O O O O O O O,"IN CD NN , DT NN VBD JJR IN CD NNS ."
+"The greenback also declined against the euro , with traders paying more than $ 1.30 for each euro .",O O O O O O O O O O O O O O O O O O O,"DT NN RB VBD IN DT NN , IN NNS VBG JJR IN $ CD IN DT NN ."
+The price is close to a record low against the euro .,O O O O O O O O O O O O,DT NN VBZ JJ TO DT NN NN IN DT NN .
+The dollar has been sliding amid concerns over the large U.S. budget and trade deficits .,O O O O O O O O O O B-geo O O O O O,DT NN VBZ VBN VBG IN NNS IN DT JJ NNP NN CC NN NNS .
+Those concerns were sharpened Friday by comments from top U.S. economic officials .,O O O O B-tim O O O O B-geo O O O,DT NNS VBD VBN NNP IN NNS IN JJ NNP JJ NNS .
+U.S. Federal Reserve Chairman Alan Greenspan said foreign investors could tire of financing the record U.S. current account deficit .,B-org I-org I-org O B-per I-per O O O O O O O O O B-geo O O O O,NNP NNP NNP NNP NNP NNP VBD JJ NNS MD VB RP VBG DT NN NNP JJ NN NN .
+And Treasury Secretary John Snow said the upcoming meeting of the G-20 in Berlin is not the right forum to discuss currency matters .,O B-org O B-per I-per O O O O O O O O B-geo O O O O O O O O O O,CC NNP NNP NNP NNP VBD DT JJ NN IN DT NN IN NNP VBZ RB DT JJ NN TO VB NN NNS .
+The G-20 brings together the seven richest developed nations along with large emerging economies like China and Brazil .,O B-org O O O O O O O O O O O O O B-geo O B-geo O,DT NNP VBZ RB DT CD JJS VBN NNS IN IN JJ VBG NNS IN NNP CC NNP .

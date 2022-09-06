@@ -1,0 +1,10 @@
+The U.S. automotive company General Motors is reporting its largest annual loss .,O B-geo O O B-org I-org O O O O O O O,DT NNP JJ NN NNP NNP VBZ VBG PRP$ JJS JJ NN .
+GM Tuesday announced a deficit of $ 38.7 billion in 2007 .,B-org B-tim O O O O O O O O B-tim O,NNP NNP VBD DT NN IN $ CD CD IN CD .
+It posted a fourth-quarter loss of $ 722 million .,O O O O O O O O O O,PRP VBD DT JJ NN IN $ CD CD .
+"In a restructuring effort , the company said it will offer buyouts to 74,000 hourly workers in the United States .",O O O O O O O O O O O O O O O O O O B-geo I-geo O,"IN DT NN NN , DT NN VBD PRP MD VB NNS TO CD JJ NNS IN DT NNP NNPS ."
+General Motors is the world 's largest automaker .,B-org I-org O O O O O O O,NNP NNPS VBZ DT NN POS JJS NN .
+It says its North American division is struggling .,O O O O B-gpe O O O O,PRP VBZ PRP$ JJ JJ NN VBZ VBG .
+"But overall , GM reported earlier this month that it sold more than two percent more cars this January than it had one year ago .",O O O B-org O O O O O O O O O O O O O O B-tim O O O B-tim O O O,"CC JJ , NNP VBD RBR DT NN IN PRP VBD JJR IN CD NN JJR NNS DT NNP IN PRP VBD CD NN RB ."
+That increase followed sales declines reported by other major car companies .,O O O O O O O O O O O O,DT NN VBD NNS NNS VBN IN JJ JJ NN NNS .
+"White House spokeswoman Dana Perino today said GM 's loss is "" significant . """,B-org I-org O B-per I-per B-tim O B-org O O O O O O O,NNP NNP NN NNP NNP NN VBD NNP POS NN VBZ LQU JJ . LQU
+But she cited the company 's restructuring efforts and expressed optimism that the automaker would remain competitive .,O O O O O O O O O O O O O O O O O O,CC PRP VBD DT NN POS NN NNS CC VBD NN IN DT NN MD VB JJ .

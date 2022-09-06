@@ -1,0 +1,7 @@
+The assembly rewriting Ecuador 's constitution is meeting Thursday to debate the new charter that would grant President Rafael Correa broad powers .,O O O B-geo O O O O B-tim O O O O O O O O B-per I-per I-per O O O,DT NN VBG NNP POS NN VBZ VBG NNP TO VB DT JJ NN WDT MD VB NNP NNP NNP JJ NNS .
+The assembly has been working on the changes since November .,O O O O O O O O B-tim I-tim O,DT NN VBZ VBN VBG IN DT NNS IN NNP .
+"If the new constitution is approved , voters will decide in September whether to adopt it .",O O O O O O O O O O O B-tim O O O O O,"IN DT JJ NN VBZ VBN , NNS MD VB IN NNP IN TO VB PRP ."
+President Correa has said the constitution should be changed to limit the power of Ecuador 's major political parties .,B-per I-per O O O O O O O O O O O O B-geo O O O O O,NNP NNP VBZ VBN DT NN MD VB VBN TO VB DT NN IN NNP POS JJ JJ NNS .
+The proposed constitution also would allow Mr. Correa to seek re-election to a new four-year term .,O O O O O O B-per I-per O O O O O O O O O,DT VBN NN RB MD VB NNP NNP TO VB NN TO DT JJ JJ NN .
+"Separately , it would transfer to the president functions currently performed by the Central Bank .",O O O O O O O B-per O O O O O B-org I-org O,"RB , PRP MD VB TO DT NN NNS RB VBN IN DT NNP NNP ."
+"Earlier this week , the Constitutional Assembly announced that the Central Bank president , Robert Andrade , resigned but gave no reason for his decision .",O O O O O B-org I-org O O O B-org I-org O O B-per I-per O O O O O O O O O O,"RBR DT NN , DT NNP NNP VBD IN DT NNP NNP NN , NNP NNP , VBD CC VBD DT NN IN PRP$ NN ."

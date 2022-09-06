@@ -1,0 +1,5 @@
+The Paracel Islands are surrounded by productive fishing grounds and by potential oil and gas reserves .,O B-org I-org O O O O O O O O O O O O O O,DT NNP NNP VBP VBN IN JJ NN NNS CC IN JJ NN CC NN NNS .
+"In 1932 , French Indochina annexed the islands and set up a weather station on Pattle Island ; maintenance was continued by its successor , Vietnam .",O B-tim O B-gpe B-org O O O O O O O O O O B-geo I-geo O O O O O O O O B-geo O,"IN CD , JJ NNP VBD DT NNS CC VBN RP DT NN NN IN NNP NNP ; NN VBD VBN IN PRP$ NN , NNP ."
+"China has occupied the Paracel Islands since 1974 , when its troops seized a South Vietnamese garrison occupying the western islands .",B-geo O O O B-org I-org O B-tim O O O O O O B-org B-gpe B-org O O O O O,"NNP VBZ VBN DT NNP NNP IN CD , WRB PRP$ NNS VBD DT NNP JJ NN VBG DT JJ NNS ."
+China built a military installation on Woody Island with an airfield and artificial harbor .,B-geo O O O O O B-geo I-geo O O O O O O O,NNP VBD DT JJ NN IN NNP NNP IN DT NN CC JJ NN .
+The islands also are claimed by Taiwan and Vietnam .,O O O O O O B-geo O B-geo O,DT NNS RB VBP VBN IN NNP CC NNP .

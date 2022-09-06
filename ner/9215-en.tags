@@ -1,0 +1,6 @@
+February is Black History Month in the United States .,B-tim O B-org I-org I-org O O B-geo I-geo O,NNP VBZ NNP NNP NNP IN DT NNP NNPS .
+Each year communities are encouraged to celebrate the achievements of African Americans and their forebears .,O O O O O O O O O O B-gpe I-gpe O O O O,DT NN NNS VBP VBN TO VB DT NNS IN JJ NNS CC PRP$ NNS .
+It is also a time to commemorate the many struggles they have faced .,O O O O O O O O O O O O O O,PRP VBZ RB DT NN TO VB DT NN VBZ PRP VBP VBN .
+"Among the most painful of those episodes was the centuries-long practice of slavery , when men and women of African descent were bought and sold , and forced into lives of bondage and hard labor .",O O O O O O O O O O O O O O O O O O O B-gpe O O O O O O O O O O O O O O O O,"IN DT RBS JJ IN DT NNS VBD DT JJ NN IN NN , WRB NNS CC NNS IN JJ NN VBD VBN CC VBN , CC VBN IN NNS IN NN CC JJ NN ."
+"As VOA 's George Dwyer reports , a small museum in a town just outside Washington D.C. is acknowledging the nation 's slave-owning past .",O B-org O B-per I-per O O O O O O O O O O B-geo I-geo O O O O O B-tim I-tim O,"IN NNP POS NNP NNP VBZ , DT JJ NN IN DT NN RB IN NNP NNP VBZ VBG DT NN POS JJ NN ."
+Jim Bertel narrates .,B-per I-per O O,NNP NNP VBZ .

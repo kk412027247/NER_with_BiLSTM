@@ -1,0 +1,7 @@
+Sheriff 's investigators have conducted a search of Michael Jackson 's Neverland Ranch in California .,O O O O O O O O B-per I-per O B-geo I-geo O B-geo O,NNP POS NNS VBP VBN DT NN IN NNP NNP POS NNP NNP IN NNP .
+California authorities filed child molestation charges against the pop music star in December 2003 .,B-geo O O O O O O O O O O O B-tim I-tim O,NNP NNS VBD NN NN NNS IN DT NN NN NN IN NNP CD .
+The charges involve an unidentified child under the age of 14 .,O O O O O O O O O O O O,DT NNS VBP DT JJ NN IN DT NN IN CD .
+"A sheriff 's spokesman confirmed Friday 's search , but declined to give any further details .",O O O O O B-tim O O O O O O O O O O O,"DT NN POS NN VBD NNP POS NN , CC VBD TO VB DT JJ NNS ."
+Jackson 's Neverland Ranch is a theme-park-like estate about 160 kilometers northwest of Los Angeles .,B-per O B-geo I-geo O O O O O O O O O B-geo I-geo O,NNP POS NNP NNP VBZ DT JJ NN IN CD NNS JJS IN NNP NNP .
+"Michael Jackson has pleaded not guilty to child molestation , conspiracy and administering an intoxicating agent .",B-per I-per O O O O O O O O O O O O O O O,"NNP NNP VBZ VBN RB JJ TO NN NN , NN CC VBG DT JJ NN ."
+His trial is scheduled to being January 31 .,O O O O O O B-tim I-tim O,PRP$ NN VBZ VBN TO VBG NNP CD .

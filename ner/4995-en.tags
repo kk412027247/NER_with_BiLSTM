@@ -1,0 +1,7 @@
+Yet another major carmaker is slashing jobs .,O O O O O O O O,RB DT JJ NN VBZ VBG NNS .
+This time DaimlerChrysler is cutting 6000 positions to save more than $ 1 billion a year .,O O B-org O O O O O O O O O O O O O O,DT NN NNP VBZ VBG CD NNS TO VB JJR IN $ CD CD DT NN .
+The cuts trim one fifth of the company 's management and administrative workers over the next two years .,O O O O O O O O O O O O O O O O B-tim O O,DT NNS JJ CD NN IN DT NN POS NN CC JJ NNS IN DT JJ CD NNS .
+"Daimler announced 8,500 production job cuts last year .",B-org O O O O O O O O,NNP VBD CD NN NN NNS JJ NN .
+DaimlerChrysler 's cuts follow recent announcements by larger rivals Ford and General Motors that they are slashing tens of thousands of workers and closing two dozen factories and other facilities .,B-org O O O O O O O O B-per O B-org I-org O O O O O O O O O O O O O O O O O O,NNP POS NNS VBP JJ NNS IN JJR NNS NNP CC NNP NNPS IN PRP VBP VBG NNS IN NNS IN NNS CC VBG CD NN NNS CC JJ NNS .
+"DaimlerChrysler is the world 's fifth-largest carmaker , and it is based in Germany and the United States .",B-org O O O O O O O O O O O O B-geo O O B-geo I-geo O,"NNP VBZ DT NN POS JJ NN , CC PRP VBZ VBN IN NNP CC DT NNP NNPS ."
+Intensified competition from Asian automakers is forcing European and U.S. companies to slash costs and search for greater efficiency .,O O O O O O O O O B-geo O O O O O O O O O O,VBN NN IN JJ NNS VBZ VBG JJ CC NNP NNS TO VB NNS CC NN IN JJR NN .

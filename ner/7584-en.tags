@@ -1,0 +1,7 @@
+"Tropical Storm Alpha , following on the heels of brutal Hurricane Wilma , has caused at least 12 deaths in Haiti .",O B-per I-per O O O O O O O O B-per O O O O O O O O B-geo O,"JJ NN NNP , VBG IN DT NNS IN JJ NNP NNP , VBZ VBN IN JJS CD NNS IN NNP ."
+"Officials announced the deaths Tuesday , as Alpha weakened into a tropical depression and drifted out to sea .",O O O O B-tim O O B-per O O O O O O O O O O O,"NNS VBD DT NNS NNP , IN NNP VBD IN DT JJ NN CC VBD RP TO NN ."
+Alpha 's rains caused floods and mudslides in Haiti that cut off roads and swept houses and people away .,B-per O O O O O O O B-geo O O O O O O O O O O O,NNP POS NNS VBD NNS CC NNS IN NNP WDT VBD RP NNS CC VBD NNS CC NNS RB .
+"In addition to the 12 deaths , officials say an uncertain number of people are missing .",O O O O O O O O O O O O O O O O O,"IN NN TO DT CD NNS , NNS VBP DT JJ NN IN NNS VBP VBG ."
+They also predict the death toll could rise as emergency workers search remote areas .,O O O O O O O O O O O O O O O,PRP RB VBP DT NN NN MD VB IN NN NNS NN JJ NNS .
+"Alpha became the 22nd named storm of 2005 , which is now the most prolific hurricane season on record .",B-per O O B-tim O O O B-tim O O O O O O O O O O O O,"NNP VBD DT CD VBN NN IN CD , WDT VBZ RB DT RBS JJ NN NN IN NN ."
+"Earlier this month , the island of Hispaniola bore the assault from Hurricane Wilma .",O O O O O O O B-geo O O O O O B-per O,"RBR DT NN , DT NN IN NNP VBD DT NN IN NNP NNP ."

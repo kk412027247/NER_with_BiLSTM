@@ -1,0 +1,7 @@
+Tamil Tiger rebels have rejected an offer from the Sri Lankan government to hold another round of peace talks because of a dispute over the venue for the session .,B-per I-per O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O,NNP NNP NNS VBP VBN DT NN IN DT NNP NNP NN TO VB DT NN IN NN NNS IN IN DT NN IN DT NN IN DT NN .
+The government has suggested talks to take place in any Asian country .,O O O O O O O O O O O O O,DT NN VBZ VBN NNS TO VB NN IN DT JJ NN .
+"The rebels have turned down the offer , insisting that the talks be held in Norway .",O O O O O O O O O O O O O O O B-geo O,"DT NNS VBP VBN RP DT NN , VBG IN DT NNS VB VBN IN NNP ."
+The rejection comes just days after Japan offered to host the peace talks .,O O O O O O B-geo O O O O O O O,DT NN VBZ RB NNS IN NNP VBD TO VB DT NN NNS .
+The rebels have been fighting for a separate homeland for the ethnic Tamil minority for more than two decades .,O O O O O O O O O O O O B-geo O O O O O O O,DT NNS VBP VBN VBG IN DT JJ NN IN DT JJ NNP NN IN JJR IN CD NNS .
+"The conflict claimed more 64,000 lives before Norway brokered a cease-fire between the rebels and the government that took effect in 2002 .",O O O O O O O B-geo O O O O O O O O O O O O O B-tim O,DT NN VBD RBR CD NNS IN NNP VBD DT NN IN DT NNS CC DT NN WDT VBD NN IN CD .
+The deadlocked talks are threatening to further disrupt the already shaky truce .,O O O O O O O O O O O O O,DT JJ NNS VBP VBG TO RB VB DT RB JJ NN .

@@ -1,0 +1,5 @@
+"Police in Indian Kashmir say suspected militants have set fire to a government building , trapping dozens of workers .",O O B-gpe B-geo O O O O O O O O O O O O O O O O,"NNS IN JJ NNP VBP JJ NNS VBP VBN NN TO DT NN NN , VBG NNS IN NNS ."
+At least one person has died .,O O O O O O O,IN JJS CD NN VBZ VBN .
+"Reports from Kashmir 's summer capital , Srinagar , say at least two militants marched into an income tax office Friday and started the blaze .",O O B-geo O B-tim O O B-per O O O O O O O O O O O O B-tim O O O O O,"NNS IN NNP POS NN NN , NNP , VBP IN JJS CD NNS VBD IN DT NN NN NN NNP CC VBD DT NN ."
+A security official told Associated Press that authorities are trying to storm the building in order to put out the blaze and evacuate civilians safely .,O O O O B-org I-org O O O O O O O O O O O O O O O O O O O O,DT NN NN VBD NNP NNP IN NNS VBP VBG TO NN DT NN IN NN TO VB RP DT NN CC VB NNS RB .
+Militants opposed to Indian rule in Kashmir have waged a guerilla campaign against Indian authorities since 1989 .,O O O B-gpe O O B-geo O O O O O O B-gpe O B-tim I-tim O,NNS VBN TO JJ NN IN NNP VBP VBN DT NN NN IN JJ NNS IN CD .

@@ -1,0 +1,4 @@
+"Reports from Darfur say an air raid by the Sudanese army has killed at least 13 people and wounded others , including children .",O O B-org O O O O O O B-gpe O O O O O O O O O O O O O O,"NNS IN NNP VBP DT NN NN IN DT JJ NN VBZ VBN IN JJS CD NNS CC VBN NNS , VBG NNS ."
+Aid groups and rebel representatives say a Sudanese military plane bombed the village of Shegag Karo in North Darfur state on Sunday .,O O O O O O O B-gpe O O O O O O B-geo I-geo O B-geo I-geo O O B-tim O,JJ NNS CC JJ NNS VBP DT JJ JJ NN VBD DT NN IN NNP NNP IN NNP NNP NN IN NNP .
+The Sudanese army has not commented .,O B-gpe O O O O O,DT JJ NN VBZ RB VBN .
+"Five years of fighting in Darfur between rebels , the Sudanese government and government-backed militias has killed an estimated 200,000 people and displaced some 2.5 million others .",B-tim O O O O B-geo O O O O B-gpe O O O O O O O O O O O O O O O O O,"CD NNS IN VBG IN NNP IN NNS , DT JJ NN CC JJ NNS VBZ VBN DT JJ CD NNS CC VBD DT CD CD NNS ."

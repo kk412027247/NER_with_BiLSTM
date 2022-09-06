@@ -1,0 +1,8 @@
+Palestinians have clashed with Egyptian police at the Rafah border crossing between Egypt and the Gaza Strip .,B-gpe O O O B-gpe O O O B-org O O O B-geo O O B-org I-org O,NNS VBP VBN IN JJ NNS IN DT NNP NN VBG IN NNP CC DT NNP NNP .
+Witnesses and police say angry Palestinians threw stones at border guards after only a limited number of them were allowed to enter Egypt .,O O O O O B-gpe O O O O O O O O O O O O O O O O B-geo O,NNS CC NNS VBP JJ NNS VBD NNS IN NN NNS IN RB DT JJ NN IN PRP VBD VBN TO VB NNP .
+At least six police were injured .,O O O O O O O,IN JJS CD NNS VBD VBN .
+Police used water cannons against the crowd .,O O O O O O O O,NNS VBD NN NNS IN DT NN .
+Egypt opened the crossing on Tuesday to allow entry by Palestinians who need medical treatment not available in Gaza .,B-geo O O O O B-tim O O O O B-gpe O O O O O O O B-geo O,NNP VBD DT VBG IN NNP TO VB NN IN NNS WP VBP JJ NN RB JJ IN NNP .
+Egypt has kept the Rafah crossing closed since the militant group Hamas seized control of Gaza more than a year ago .,B-geo O O O B-org O O O O O O B-org O O O B-geo O O O O O O,NNP VBZ VBN DT NN VBG JJ IN DT JJ NN NNP VBD NN IN NNP JJR IN DT NN RB .
+"In January , Hamas militants blew open the border wall , allowing thousands of Palestinians to stream into Egypt to buy goods that are scarce in Gaza , which is subject to an Israeli blockade .",O B-tim O B-org O O O O O O O O O O B-gpe O O O B-geo O O O O O O O B-geo O O O O O O B-gpe O O,"IN NNP , NNP NNS VBD JJ DT NN NN , VBG NNS IN NNS TO NN IN NNP TO VB NNS WDT VBP JJ IN NNP , WDT VBZ JJ TO DT JJ NN ."
+Egypt sealed the border breach about two weeks later .,B-geo O O O O O B-tim O B-tim O,NNP VBD DT NN NN IN CD NNS RB .

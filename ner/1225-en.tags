@@ -1,0 +1,4 @@
+Chinese Premier Wen Jiabao has ordered officials in southern China to brace for Typhoon Damrey .,B-gpe B-org I-org I-org O O O O O B-geo O O O B-org I-org O,JJ NNP NNP NNP VBZ VBN NNS IN JJ NNP TO VB IN NNP NNP .
+"He says authorities must make preparations for the typhoon , which is expected to make landfall late Sunday or early Monday and pound the region with heavy rains and strong winds .",O O O O O O O O O O O O O O O O O B-tim O O B-tim O O O O O O O O O O O,"PRP VBZ NNS MD VB NNS IN DT NN , WDT VBZ VBN TO VB NN JJ NNP CC JJ NNP CC VB DT NN IN JJ NNS CC JJ NNS ."
+"Earlier this month , Typhoon Khanun killed at least 14 people in coastal provinces of eastern China .",O O O O B-org I-org O O O O O O O O O O B-geo O,"RBR DT NN , NNP NNP VBD IN JJS CD NNS IN JJ NNS IN JJ NNP ."
+And Typhoon Talim killed at least 42 people when it hit Zhejiang province .,O B-org I-org O O O O O O O O B-per O O,CC NNP NNP VBD IN JJS CD NNS WRB PRP VBD NNP NN .

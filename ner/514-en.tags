@@ -1,0 +1,6 @@
+Afghan police say suspected Taleban fighters have killed five police officers in an ambush in southern Afghanistan .,B-gpe O O O B-org O O O O O O O O O O B-geo I-geo O,JJ NNS VBP VBN NNP NNS VBP VBN CD NNS NNS IN DT NN IN JJ NNP .
+"Authorities said Wednesday , the attacks occurred late Tuesday in Helmand province .",O O B-tim O O O O O B-tim O B-geo O O,"NNS VBD NNP , DT NNS VBD JJ NNP IN NNP NN ."
+"The incident comes one day after Afghan police killed two suspected Taleban fighters , including a Taleban commander , during a gunbattle in the same province .",O O O O O O B-gpe O O O O B-org O O O O B-org O O O O O O O O O O,"DT NN VBZ CD NN IN JJ NNS VBD CD JJ NNP NNS , VBG DT NNP NN , IN DT NN IN DT JJ NN ."
+Twelve other fighters were arrested .,O O O O O O,CD JJ NNS VBD VBN .
+Helmand province has been the scene of several clashes in recent weeks .,B-geo O O O O O O O O O O O O,NNP NN VBZ VBN DT NN IN JJ NNS IN JJ NNS .
+"In late October , at least eight Afghan police were killed in an ambush there .",O O B-tim O O O O B-gpe O O O O O O O O,"IN JJ NNP , IN JJS CD JJ NNS VBD VBN IN DT NN RB ."

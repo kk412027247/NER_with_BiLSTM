@@ -1,0 +1,5 @@
+A New York jury has convicted a Yemeni cleric and his assistant of charges of conspiring to fund the Islamic terror groups al-Qaida and Hamas .,O B-geo I-geo O O O O B-gpe O O O O O O O O O O O O O O B-org O B-org O,DT NNP NNP NN VBZ VBN DT JJ NN CC PRP$ NN IN NNS IN VBG TO VB DT JJ NN NNS NNP CC NNP .
+"Sheik Mohammed Ali Hassan al-Moayad and Mohammed Yahya Zayed were arrested in an FBI operation in Frankfurt , Germany in 2003 .",B-per I-per I-per I-per I-per O B-per I-per I-per O O O O B-org O O B-geo O B-geo O B-tim O,"NNP NNP NNP NNP NNP CC NNP NNP NNP VBD VBN IN DT NNP NN IN NNP , NNP IN CD ."
+Undercover agents videotaped them offering to send money to the terror groups .,O O O O O O O O O O O O O,NN NNS VBD PRP VBG TO VB NN TO DT NN NNS .
+Their lawyers called them victims of entrapment .,O O O O O O O O,PRP$ NNS VBD PRP NNS IN NN .
+"The jury Thursday also found al-Moyad guilty of actually providing support to Hamas , but acquitted him of charges of sending such backing to al-Qaida .",O O B-tim O O O O O O O O O B-org O O O O O O O O O O O B-org O,"DT NN NNP RB VBD JJ NN IN RB VBG NN TO NNP , CC VBN PRP IN NNS IN VBG JJ NN TO NNP ."

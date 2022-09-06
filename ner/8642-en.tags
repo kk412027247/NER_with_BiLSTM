@@ -1,0 +1,9 @@
+Twelve mine clearing workers are missing in eastern Afghanistan .,B-tim I-tim O O O O O B-geo I-geo O,CD NN NN NNS VBP VBG IN JJ NNP .
+Authorities said Thursday that the workers of a local demining company disappeared while traveling through Paktia province .,O O B-tim O O O O O O O O O O O O B-geo O O,NNS VBD NNP IN DT NNS IN DT JJ NN NN VBD IN VBG IN NNP NN .
+The Reuters news agency quotes a Paktia official as saying insurgents abducted the 12 deminers .,O B-org O O O O B-geo O O O O O O O O O,DT NNP NN NN VBZ DT NNP NN IN VBG NNS VBD DT CD NNS .
+"In southern Afghanistan , NATO said two soldiers were killed and several others wounded by two separate bomb attacks Thursday .",O O B-geo O B-org O O O O O O O O O O O O O O B-tim O,"IN JJ NNP , NNP VBD CD NNS VBD VBN CC JJ NNS VBN IN CD JJ NN NNS NNP ."
+It gave no other details .,O O O O O O,PRP VBD DT JJ NNS .
+"On Wednesday , Afghan and U.S.-led coalition troops killed more than 40 Taleban fighters during a 12-hour battle in southern Kandahar province .",O B-tim O B-gpe O O O O O O O O B-org O O O O O O O B-geo O O,"IN NNP , JJ CC JJ NN NNS VBD JJR IN CD NNP NNS IN DT JJ NN IN JJ NNP NN ."
+The military says nearly 200 Taleban insurgents have been killed in fighting in the area in the past two weeks .,O O O O O B-org O O O O O O O O O O O B-tim I-tim O O,DT JJ VBZ RB CD NNP NNS VBP VBN VBN IN VBG IN DT NN IN DT JJ CD NNS .
+The Taleban were ousted from power in Afghanistan by a U.S.-led offensive in late 2001 .,O B-org O O O O O B-geo O O O O O O B-tim O,DT NNP VBD VBN IN NN IN NNP IN DT JJ NN IN JJ CD .
+"However , Taleban fighters have regrouped in recent months to mount an increasingly bloody insurgency aimed at the U.S.-backed government in Kabul .",O O B-org O O O O O O O O O O O O O O O O O O B-geo O,"RB , NNP NNS VBP VBN IN JJ NNS TO VB DT RB JJ NN VBN IN DT JJ NN IN NNP ."

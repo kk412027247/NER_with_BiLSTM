@@ -1,0 +1,7 @@
+Witnesses in Somalia 's capital say the militant group al-Shabab has publicly executed two teenagers by firing squad .,O O B-geo O O O O O O B-org O O O O O O O O O,NNS IN NNP POS NN VBP DT JJ NN NNP VBZ RB VBN CD NNS IN VBG NN .
+The executions took place Monday in front of hundreds of Mogadishu residents .,O O O O B-tim O O O O O B-geo O O,DT NNS VBD NN NNP IN NN IN NNS IN NNP NNS .
+"One of the teens executed was a 15-year-old boy , accused of sexually molesting another boy , age 9 .",O O O O O O O O O O O O O O O O O O B-tim O,"CD IN DT NNS VBD VBD DT JJ NN , VBN IN RB VBG DT NN , NN CD ."
+"The other teen , said to be 18 years old , was accused of spying for the Somali transitional government .",O O O O O O O O O O O O O O O O O B-gpe O O O,"DT JJ NN , VBN TO VB CD NNS JJ , VBD VBN IN VBG IN DT JJ JJ NN ."
+Al-Shabab is trying to overthrow the Western-backed government and impose a harshly conservative form of Islamic law across Somalia .,B-org O O O O O O O O O O O O O O O O O B-geo O,NNP VBZ VBG TO VB DT JJ NN CC VB DT RB JJ NN IN JJ NN IN NNP .
+"Last month , the group executed two teenage girls it accused of spying for the government .",O O O O O O O O O O O O O O O O O,"JJ NN , DT NN VBD CD JJ NNS PRP VBD IN VBG IN DT NN ."
+"Back in April , it publicly executed an accused murderer and chopped off the hand of an alleged thief .",B-tim I-tim I-tim O O O O O O O O O O O O O O O O O,"RB IN NNP , PRP RB VBD DT VBN NN CC VBD RP DT NN IN DT JJ NN ."

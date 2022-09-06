@@ -1,0 +1,8 @@
+Farmer in Ivory Coast 's Duekoue cocoa plantation Unidentified attackers have killed at least 41 villagers in Ivory Coast 's western cocoa region .,O O B-geo I-geo O O O O O O O O O O O O O B-geo I-geo O O O O O,NNP IN NNP NNP POS JJ NN NN VBN NNS VBP VBN IN JJS CD NNS IN NNP NNP POS JJ NN NN .
+Army spokesman Jules Yao Yao says 64 others were wounded in the attack early Wednesday outside the town of Duekoue .,B-org O B-per I-per I-per O O O O O O O O O B-tim O O O O O O,NNP NN NNP NNP NNP VBZ CD NNS VBD VBN IN DT NN JJ NNP IN DT NN IN NNP .
+"He says the victims were shot , stabbed or burned to death .",O O O O O O O O O O O O O,"PRP VBZ DT NNS VBD VBN , VBN CC VBN TO NN ."
+Witnesses say they were all members of the ethnic Guere tribe .,O O O O O O O O O B-geo O O,NNS VBP PRP VBD DT NNS IN DT JJ NNP NN .
+It is not clear what sparked the attack .,O O O O O O O O O,PRP VBZ RB JJ WP VBD DT NN .
+"However , clashes between indigenous tribes and migrant farm workers are common in the region .",O O O O O O O O O O O O O O O O,"RB , NNS IN JJ NNS CC JJ NN NNS VBP JJ IN DT NN ."
+"Tensions between the groups have been exacerbated by Ivory Coast 's civil war , which began in 2002 .",O O O O O O O O B-geo I-geo O O O O O O O B-tim O,"NNS IN DT NNS VBP VBN VBN IN NNP NNP POS JJ NN , WDT VBD IN CD ."
+The United Nations peacekeeping mission in Ivory Coast says it has sent patrols to the region to investigate .,O B-org I-org O O O B-geo I-geo O O O O O O O O O O O,DT NNP NNPS VBG NN IN NNP NNP VBZ PRP VBZ VBN NNS TO DT NN TO VB .

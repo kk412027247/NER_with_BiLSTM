@@ -1,0 +1,9 @@
+"Italian defender Marco Materazzi has appeared before a disciplinary committee in Zurich at the headquarters of football 's world governing body , FIFA .",B-gpe O B-per I-per O O O O O O O B-geo O O O O O O O O O O B-org O,"JJ NN NNP NNP VBZ VBN IN DT JJ NN IN NNP IN DT NN IN NN POS NN NN NN , NNP ."
+FIFA wants to find out what he did to provoke French midfielder Zinedine Zidane to head-butt him during Italy 's World Cup title victory over France last Sunday in Berlin .,B-org O O O O O O O O O B-gpe O B-per I-per O O O O B-geo O O O O O O B-geo O B-tim O B-geo O,NNP VBZ TO VB RP WP PRP VBD TO VB JJ NN NNP NNP TO VB PRP IN NNP POS NNP NNP NN NN IN NNP JJ NNP IN NNP .
+A FIFA spokesman refused to provide any details of the meeting .,O B-org O O O O O O O O O O,DT NNP NN VBD TO VB DT NNS IN DT NN .
+"Materazzi is being investigated based on statements by Zidane , who was sent off for ramming his head into the defender 's chest during extra time in the match .",B-per O O O O O O O B-per O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBG VBN VBN IN NNS IN NNP , WP VBD VBN RP IN VBG PRP$ NN IN DT NN POS NN IN JJ NN IN DT NN ."
+Zidane said on French television Wednesday night that Materazzi insulted his mother and sister .,B-per O O B-gpe O B-tim I-tim O B-per O O O O O O,NNP VBD IN JJ NN NNP NN IN NNP VBD PRP$ NN CC NN .
+"Materazzi has admitted insulting Zidane , but denied verbally attacking Zidane 's mother .",B-per O O O B-per O O O O O B-per O O O,"NNP VBZ VBN VBG NNP , CC VBD RB VBG NNP POS NN ."
+Zidane is scheduled to attend a FIFA hearing next Thursday to explain his actions .,B-per O O O O O B-org O O B-tim O O O O O,NNP VBZ VBN TO VB DT NNP NN IN NNP TO VB PRP$ NNS .
+A decision is expected later that day .,O O O O B-tim I-tim I-tim O,DT NN VBZ VBN RB DT NN .
+FIFA has declined to comment on possible punishments for either individuals or teams .,B-org O O O O O O O O O O O O O,NNP VBZ VBN TO VB IN JJ NNS IN DT NNS CC NNS .

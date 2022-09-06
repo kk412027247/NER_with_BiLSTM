@@ -1,0 +1,7 @@
+Costa Rica 's constitutional court has blocked a referendum that would have let voters decide if same-sex civil unions should be allowed in the Central American country .,B-per I-per O O O O O O O O O O O O O O O O O O O O O O O B-gpe O O,NNP NNP POS JJ NN VBZ VBN DT NN WDT MD VB VBN NNS VB IN JJ JJ NNS MD VB VBN IN DT JJ JJ NN .
+The court said Tuesday a referendum would put a minority at a disadvantage in the predominantly Roman Catholic country .,O O O B-tim O O O O O O O O O O O O B-per I-per O O,DT NN VBD NNP DT NN MD VB DT NN IN DT NN IN DT JJ NNP NNP NN .
+"The court said the rights of minorities should be decided by the Costa Rica 's lawmakers , not by a popular vote .",O O O O O O O O O O O O B-per I-per O O O O O O O O O,"DT NN VBD DT NNS IN NNS MD VB VBN IN DT NNP NNP POS NNS , RB IN DT JJ NN ."
+The referendum was originally scheduled for December 5 .,O O O O O O B-tim I-tim O,DT NN VBD RB VBN IN NNP CD .
+"Last month , Argentina became the first country in Latin America to legalize same-sex marriage .",O O O B-geo O O O O O B-geo I-geo O O O O O,"JJ NN , NNP VBD DT JJ NN IN NNP NNP TO VB JJ NN ."
+"Mexico 's Supreme Court ruled last week that same-sex weddings are constitutional in the capital , Mexico City .",B-org I-org I-org I-org O O O O O O O O O O O O B-geo I-geo O,"NNP POS NNP NNP VBD JJ NN IN JJ NNS VBP JJ IN DT NN , NNP NNP ."
+"In Uruguay and Colombia , civil unions are approved nationwide .",O B-geo O B-geo O O O O O O O,"IN NNP CC NNP , JJ NNS VBP VBN JJ ."

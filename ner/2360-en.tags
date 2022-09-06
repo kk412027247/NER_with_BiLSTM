@@ -1,0 +1,7 @@
+A German court has sentenced a prominent neo-Nazi to seven years in prison for planning a bomb attack on a Jewish community center .,O B-gpe O O O O O O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN DT JJ NN TO CD NNS IN NN IN VBG DT NN NN IN DT JJ NN NN .
+The court in the southern city of Munich ruled Wednesday that 29-year-old Martin Wiese was the mastermind of the planned bomb attack .,O O O O O O O B-org O B-tim O O B-per I-per O O O O O O O O O,DT NN IN DT JJ NN IN NNP VBD NNP IN JJ NNP NNP VBD DT NN IN DT JJ NN NN .
+The court also said he was the leader of a neo-Nazi group .,O O O O O O O O O O O O O,DT NN RB VBD PRP VBD DT NN IN DT JJ NN .
+Three co-defendants received jail terms ranging in length from two to six years .,O O O O O O O B-tim I-tim I-tim I-tim I-tim O O,CD NNS VBD NN NNS VBG IN NN IN CD CC CD NNS .
+"Prosecutors charged the defendants with planning to bomb the dedication ceremony of a Munich Jewish center in November , 2003 .",O O O O O O O O O O O O O B-org O O O B-tim I-tim I-tim O,"NNS VBD DT NNS IN VBG TO VB DT NN NN IN DT NNP JJ NN IN NNP , CD ."
+Germany 's president and Jewish leaders were at the ceremony .,B-geo O O O O O O O O O O,NNP POS NN CC JJ NNS VBD IN DT NN .
+Wiese 's lawyer said Tuesday the group had no plans to carry out the attack and denied prosecutors ' assertions that he belongs to a terror group .,B-per O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O,NNP POS NN VBD NNP DT NN VBD DT NNS TO VB RP DT NN CC VBD NNS POS NNS IN PRP VBZ TO DT NN NN .

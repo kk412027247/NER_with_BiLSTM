@@ -1,0 +1,7 @@
+Health officials in Laos say a woman who fell ill near the Lao capital last month with symptoms of bird flu has died .,O O O B-geo O O O O O O O O B-gpe O O O O O O O O O O O,NN NNS IN NNP VBP DT NN WP VBD RB IN DT JJ NN JJ NN IN NNS IN NN NN VBZ VBN .
+Laboratory tests had shown the 42-year-old woman had the H5 flu virus .,B-org O O O O O O O O O O O O,NN NNS VBD VBN DT JJ NN VBD DT NNP NN NN .
+"Hours before the woman 's death in a Vientiane hospital Sunday , authorities said it would take several more days to determine whether she carried the dangerous H5N1 strain .",O O O O O O O O B-tim I-tim I-tim O O O O O O B-tim I-tim O O O O O O O O O O O,"NNS IN DT NN POS NN IN DT NNP NN NNP , NNS VBD PRP MD VB JJ JJR NNS TO VB IN PRP VBD DT JJ NNP NN ."
+The woman lived near a village where bird flu has infected poultry .,O O O O O O O O O O O O O,DT NN VBD IN DT NN WRB NN NN VBZ VBN NN .
+"Last month , health officials confirmed the country 's first known human case of the disease in a 15-year-old girl who also lived near Vientiane .",O O O O O O O O O O O O O O O O O O O O O O O O B-tim O,"JJ NN , NN NNS VBD DT NN POS JJ VBN JJ NN IN DT NN IN DT JJ NN WP RB VBD IN NNP ."
+Bird flu first appeared in Laos in 2004 .,O O O O O B-geo O B-tim O,NN NN RB VBD IN NNP IN CD .
+"It is known to have killed 167 people worldwide since 2003 , mostly in Asia .",O O O O O O O O O O B-tim O O O B-geo O,"PRP VBZ VBN TO VB VBN CD NNS JJ IN CD , RB IN NNP ."

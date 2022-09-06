@@ -1,0 +1,6 @@
+Morocco says security forces have broken up an al-Qaida-linked militant cell that was planning attacks throughout the country .,B-geo O O O O O O O O O O O O O O O O O O,NNP VBZ NN NNS VBP VBN RP DT JJ JJ NN WDT VBD VBG NNS IN DT NN .
+Morocco 's state news agency quotes the Interior Ministry as saying the group consisted of 24 militants .,B-geo O O O O O O B-org I-org O O O O O O O O O,NNP POS NN NN NN VBZ DT NNP NNP IN VBG DT NN VBD IN CD NNS .
+"It said the group was "" planning assassinations and acts of sabotage "" targeting the security services and foreign interests in Morocco .",O O O O O O O O O O O O O O O O O O O O O B-geo O,PRP VBD DT NN VBD LQU VBG NNS CC NNS IN NN LQU VBG DT NN NNS CC JJ NNS IN NNP .
+The agency news report says four of the group 's members had been jailed previously on terror-related charges .,O O O O O O O O O O O O O O O O O O O,DT NN NN NN VBZ CD IN DT NN POS NNS VBD VBN VBN RB IN JJ NNS .
+"It says the group also recruited Moroccan citizens to send to conflict areas such as Afghanistan , Iraq and Somalia .",O O O O O O B-gpe O O O O O O O O B-geo O B-geo O B-geo O,"PRP VBZ DT NN RB VBD JJ NNS TO VB TO NN NNS JJ IN NNP , NNP CC NNP ."
+The suspects were captured after an assault on a police officer in Casablanca .,O O O O O O O O O O O O B-geo O,DT NNS VBD VBN IN DT NN IN DT NN NN IN NNP .

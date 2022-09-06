@@ -1,0 +1,4 @@
+"Gunmen in Iraq attacked a local police chief 's convoy Saturday , wounding him and two others .",O O B-geo O O O O O O O B-tim O O O O O O O,"NNS IN NNP VBD DT JJ NN NN POS NN NNP , VBG PRP CC CD NNS ."
+The police chief was traveling near Mosul when militants fired on the motorcade .,O O O O O O B-geo O O O O O O O,DT NN NN VBD VBG IN NNP WRB NNS VBD IN DT NN .
+The attack sparked a clash between police and militants that left one officer dead and at least one other person wounded .,O O O O O O O O O O O O O O O O O O O O O O,DT NN VBD DT NN IN NNS CC NNS WDT VBD CD NN NN CC IN JJS CD JJ NN VBN .
+Another policeman was killed and at least two others wounded when a roadside bomb exploded near their patrol outside Fallujah .,O O O O O O O O O O O O O O O O O O O B-geo O,DT NN VBD VBN CC IN JJS CD NNS VBD WRB DT NN NN VBD IN PRP$ NN IN NNP .

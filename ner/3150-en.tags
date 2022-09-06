@@ -1,0 +1,6 @@
+"The British Embassy in Sudan 's capital has re-opened to the public , four days after it was closed because of a possible terrorist threat .",O B-gpe O O B-geo O O O O O O O O O O O O O O O O O O O O O,"DT JJ NN IN NNP POS NN VBZ VBN TO DT NN , CD NNS IN PRP VBD VBN IN IN DT JJ JJ NN ."
+"The embassy said in a statement Thursday that "" additional security "" has allowed it to resume normal consular and visa services .",O O O O O O B-tim O O O O O O O O O O O O O O O O,DT NN VBD IN DT NN NNP IN LQU JJ NN RQU VBZ VBN PRP TO VB JJ NN CC NN NNS .
+The statement also thanked the Sudanese government for its cooperation .,O O O O O B-gpe O O O O O,DT NN RB VBD DT JJ NN IN PRP$ NN .
+"Earlier this week , the government said it had broken up a plot to attack several Western diplomatic missions in the capital , Khartoum .",O O O O O O O O O O O O O O O O O O O O O O O B-geo O,"RBR DT NN , DT NN VBD PRP VBD VBN RP DT NN TO VB JJ JJ JJ NNS IN DT NN , NNP ."
+The state news agency reported that police had arrested eight Sudanese men and confiscated arms and explosives .,O O O O O O O O O O B-gpe O O O O O O O,DT NN NN NN VBD IN NNS VBD VBN CD JJ NNS CC VBN NNS CC NNS .
+The British Embassy has advised British citizens to avoid travel to Khartoum .,O B-gpe O O O B-gpe O O O O O B-geo O,DT JJ NN VBZ VBN JJ NNS TO VB NN IN NNP .

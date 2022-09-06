@@ -1,0 +1,6 @@
+"The U.S. State Department says one of its diplomats has been found dead in his home in Ethiopia 's capital , Addis Ababa .",O B-org I-org I-org O O O O O O O O O O O O O B-geo O O O B-geo I-geo O,"DT NNP NNP NNP VBZ CD IN PRP$ NNS VBZ VBN VBN JJ IN PRP$ NN IN NNP POS NN , NNP NNP ."
+"A State Department official , who asked not to be identified , said 25-year-old Brian Adkins was found dead Saturday .",O B-org I-org O O O O O O O O O O O B-per I-per O O O B-tim O,"DT NNP NNP NN , WP VBD RB TO VB VBN , VBD JJ NNP NNP VBD VBN JJ NNP ."
+The official says U.S. diplomatic security is investigating the death as a suspected homicide .,O O O B-geo O O O O O O O O O O O,DT NN VBZ NNP JJ NN VBZ VBG DT NN IN DT JJ NN .
+The State Department has not officially released details of Adkins ' death .,O B-org I-org O O O O O O B-per O O O,DT NNP NNP VBZ RB RB VBN NNS IN NNP POS NN .
+Adkins was a foreign service officer in the consular section of the U.S. Embassy in Addis Ababa .,B-per O O O O O O O O O O O B-org I-org O B-geo I-geo O,NNP VBD DT JJ NN NN IN DT JJ NN IN DT NNP NNP IN NNP NNP .
+He was on his first diplomatic assignment .,O O O O O O O O,PRP VBD IN PRP$ JJ JJ NN .

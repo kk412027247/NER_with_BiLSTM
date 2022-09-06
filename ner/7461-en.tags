@@ -1,0 +1,5 @@
+U.S. stocks were down as much as one percent as Thursday 's trading got underway .,B-geo O O O O O O O O O B-tim O O O O O,NNP NNS VBD RB RB RB IN CD NN IN NNP POS NN VBD NN .
+European shares made modest gains in afternoon trading .,O O O O O O B-tim O O,JJ NNS VBD JJ NNS IN NN NN .
+Many Asian markets declined despite Wednesday 's Senate vote .,O O O O O B-tim O B-org O O,JJ JJ NNS VBD IN NNP POS NNP NN .
+"Tokyo 's Nikkei index lost nearly two percent , while the indexes in Sydney , South Korea and Taiwan also dropped .",B-geo O B-geo O O O O O O O O O O B-geo O B-geo I-geo O B-geo O O O,"NNP POS NNP NN VBD RB CD NN , IN DT NNS IN NNP , NNP NNP CC NNP RB VBD ."
+But Hong Kong 's Hang Seng index gained just over one percent by the close .,O B-geo I-geo O B-geo I-geo O O O O O O O O O O,CC NNP NNP POS NNP NNP NN VBD RB IN CD NN IN DT NN .

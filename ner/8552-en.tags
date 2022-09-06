@@ -1,0 +1,8 @@
+A Russian Soyuz spacecraft carrying two crew members and an American space tourist has returned to earth safely in Kazakhstan .,O B-gpe O O O O O O O O B-gpe O O O O O O O O B-geo O,DT JJ NN NN VBG CD NN NNS CC DT JJ NN NN VBZ VBN TO NN RB IN NNP .
+"The capsule returned with American astronaut Mikhail Tyurin , Russian cosmonaut Michael Lopez-Alegria and Hungarian-born software engineer Charles Simonyi aboard .",O O O O B-gpe O B-per I-per O B-gpe O B-per I-per O O O O B-per I-per O O,"DT NN VBD IN JJ NN NNP NNP , JJ NN NNP NNP CC JJ NN NN NNP NNP RB ."
+It touched down Saturday after a three-hour return trip from the international space station .,O O O B-tim O O B-tim O O O O O O O O,PRP VBD RP NNP IN DT JJ NN NN IN DT JJ NN NN .
+The spacecraft 's homecoming was delayed by one day because of flooding in the original landing site .,O O O O O O O O O O O O O O O O O O,DT NN POS NN VBD VBN IN CD NN IN IN NN IN DT JJ NN NN .
+Lopez-Alegria and Tyurin returned after spending seven months aboard the space station .,B-per O B-per O O O B-tim O O O O O O,NNP CC NNP VBD IN VBG CD NNS IN DT NN NN .
+Simonyi spent two weeks there participating in experiments .,B-per O B-tim O B-tim I-tim O O O,NNP VBD CD NNS RB VBG IN NNS .
+"Two Russians who traveled to the space station with Simonyi earlier this month will remain , along with an American crew member , Sunita Williams .",O B-gpe O O O O O O O B-per O O O O O O O O O B-gpe O O O B-per I-per O,"CD NNS WP VBD TO DT NN NN IN NNP RBR DT NN MD VB , IN IN DT JJ NN NN , NNP NNP ."
+The ride up and back cost the 58-year-old Simonyi $ 25 million .,O O O O O O O O B-per O O O O,DT NN RB CC RB VBD DT JJ NNP $ CD CD .

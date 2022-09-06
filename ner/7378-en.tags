@@ -1,0 +1,7 @@
+Busta Rhymes will face trial on two assault charges after being caught driving with a suspended license .,B-per I-per O O O O O O O O O O O O O O O O,NNP NNP MD VB NN IN CD NN NNS IN VBG VBN VBG IN DT JJ NN .
+"A Manhattan judge Monday , March 26 , withdrew a plea offer which included probation , community service , and a series of lectures to troubled youth .",O B-tim O B-tim O B-tim I-tim O O O O O O O O O O O O O O O O O O O O O,"DT NNP NN NNP , NNP CD , VBD DT NN NN WDT VBD NN , NN NN , CC DT NN IN NNS TO JJ NN ."
+The trial is tentatively set to start May 8 .,O O O O O O O B-tim I-tim O,DT NN VBZ RB VBN TO VB NNP CD .
+"The 34-year-old rapper - real name Trevor Smith , Jr. - is accused of beating his former driver last December in a dispute over back pay .",O O O O O O B-per I-per O B-per I-per O O O O O O O O B-tim O O O O O O O,"DT JJ NN IN JJ NN NNP NNP , NNP : VBZ VBN IN VBG PRP$ JJ NN JJ NNP IN DT NN IN JJ NN ."
+"The other case involves an August , 2006 attack on a fan , who allegedly spit on the rapper 's car .",O O O O O B-tim O O O O O O O O O O O O O O O O,"DT JJ NN VBZ DT NNP , CD NN IN DT NN , WP RB VBP IN DT NN POS NN ."
+"New York City police also want to question Busta Rhymes in connection with the February , 2006 shooting death of his bodyguard , Israel Ramirez .",B-geo I-geo I-geo O O O O O B-per I-per O O O O B-tim O O O O O O O O B-geo I-geo O,"NNP NNP NNP NNS RB VBP TO VB NNP NNP IN NN IN DT NNP , CD NN NN IN PRP$ NN , NNP NNP ."
+They claim he has been uncooperative .,O O O O O O O,PRP VBP PRP VBZ VBN JJ .

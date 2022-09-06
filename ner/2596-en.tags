@@ -1,0 +1,7 @@
+United Nations officials in Somalia say a cargo ship held for nearly 100 days at sea by pirates has finally arrived in port .,B-org I-org O O B-geo O O O O O O O O O O O O O O O O O O O,NNP NNP NNS IN NNP VBP DT NN NN VBD IN RB CD NNS IN NN IN NNS VBZ RB VBN IN NN .
+"The MV Semlow and its 10-man crew arrived Monday in the Somali port of El-Maan , one day after the pirates left .",O B-art I-art O O O O O B-tim O O B-gpe O O O O O O O O O O O,"DT NNP NNP CC PRP$ JJ NN VBD NNP IN DT JJ NN IN NNP , CD NN IN DT NNS VBD ."
+It was towed into port by another cargo ship that had been hijacked several days earlier .,O O O O O O O O O O O O O B-tim O O O,PRP VBD VBN IN NN IN DT NN NN WDT VBD VBN VBN JJ NNS RBR .
+Pirates seized the U.N.-chartered ship on June 27 .,B-org O O O O O B-tim I-tim O,NNP VBD DT JJ NN IN NNP CD .
+It carried 850 metric tons of rice donated by Japan and Germany for Somali victims of last year 's tsunami .,O O O O O O O O O B-geo O B-geo O B-gpe O O O O O O O,PRP VBD CD JJ NNS IN NN VBN IN NNP CC NNP IN JJ NNS IN JJ NN POS NN .
+The pirates frequently changed their demands and reneged on agreements with the World Food Program to free the ship .,O O O O O O O O O O O O B-org I-org I-org O O O O O,DT NNS RB VBD PRP$ NNS CC VBN IN NNS IN DT NNP NNP NNP TO VB DT NN .
+"The vessel will spend the next few days at El-Maan being offloaded before heading back to its home port in Mombasa , Kenya .",O O O O O O B-tim O O O O O O O O O O O O O B-geo O B-geo O,"DT NN MD VB DT JJ JJ NNS IN JJ VBG VBN IN VBG RB TO PRP$ NN NN IN NNP , NNP ."

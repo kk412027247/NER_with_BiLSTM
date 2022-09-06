@@ -1,0 +1,7 @@
+India and South America 's Mercosur trading bloc have signed an agreement slashing tariffs on more than 900 products in a trade boosting measure .,B-org I-org I-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O,NNP CC NNP NNP POS NN NN NN VBP VBN DT NN VBG NNS IN JJR IN CD NNS IN DT NN VBG NN .
+"Under the agreement signed Saturday , India is cutting or eliminating tariffs on 450 products while the South American trading bloc is taking similar action on 452 products .",O O O O B-tim O B-org O O O O O O O O O O O B-gpe O O O O O O O O O O,"IN DT NN VBD NNP , NNP VBZ VBG CC VBG NNS IN CD NNS IN DT JJ JJ NN NN VBZ VBG JJ NN IN CD NNS ."
+Trade between India and Mercosur reached $ 1.5 billion last year .,O O B-org I-org I-org O O O O O O O,NNP IN NNP CC NNP VBD $ CD CD JJ NN .
+"Mercosur comprises Argentina , Brazil , Paraguay and Uruguay .",B-org O B-geo O B-geo O B-org I-org I-org O,"NNP VBZ NNP , NNP , NNP CC NNP ."
+Chile and Bolivia are associate members of the bloc .,B-geo O B-geo O O O O O O O,NNP CC NNP VBP JJ NNS IN DT NN .
+India 's main exports to Mercosur nations included pharmaceutical and chemical products .,B-geo O O O O B-org O O O O O O O,NNP POS JJ NNS TO NNP NNS VBD JJ CC JJ NNS .
+Imports included edible oils and non-electrical machinery .,O O O O O O O O,NNS VBD JJ NNS CC JJ NN .

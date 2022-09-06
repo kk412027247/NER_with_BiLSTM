@@ -1,0 +1,8 @@
+The political party of Ukrainian President Victor Yushchenko has suspended coalition talks with ex-ally Yulia Tymoshenko .,O O O O B-gpe B-per I-per I-per O O O O O O B-org I-org O,DT JJ NN IN JJ NNP NNP NNP VBZ VBN NN NNS IN RB NNP NNP .
+"Our Ukraine party officials say at issue is Tymoshenko 's recent statement that the post of prime minister should go to her supporters , because Mr. Yushchenko is president .",O B-org O O O O O O B-org O O O O O O O O O O O O O O O O B-per B-org O O O,"PRP$ NNP NN NNS VBP IN NN VBZ NNP POS JJ NN IN DT NN IN JJ NN MD VB TO PRP$ NNS , IN NNP NNP VBZ NN ."
+Senior officials of Mr. Yushchenko 's Our Ukraine party have said in the past they will not accept Tymoshenko as prime minister .,O O O B-per B-org O O O O O O O O O O O O O B-geo O O O O,JJ NNS IN NNP NNP POS PRP$ JJ NN VBP VBN IN DT NN PRP MD RB VB NNP IN JJ NN .
+She was fired from that post last year following infighting in the cabinet .,O O O O O O O O O O O O O O,PRP VBD VBN IN DT NN JJ NN VBG NN IN DT NN .
+No party won enough parliamentary seats in the March 26 general election to form a government .,O O O O O O O O B-tim I-tim O O O O O O O,DT NN VBD RB JJ NNS IN DT NNP CD JJ NN TO VB DT NN .
+"The pro-Russian opposition Party of the Regions won 32 percent of the vote , followed by Tymoshenko 's liberal bloc with 22 percent .",O O O O O O O O O O O O O O O O B-geo O O O O O O O,"DT JJ NN NN IN DT NNS VBD CD NN IN DT NN , VBN IN NNP POS JJ NN IN CD NN ."
+Our Ukraine won about 14 percent .,O O O O O O O,PRP$ NNP VBD IN CD NN .
+The new parliament is scheduled to convene on May 25 .,O O O O O O O O B-tim I-tim O,DT JJ NN VBZ VBN TO VB IN NNP CD .

@@ -1,0 +1,8 @@
+The great-granddaughter of South Africa 's anti-apartheid leader Nelson Mandela has been killed in a car crash as she traveled home from the concert kick-off for the 2010 soccer World Cup .,O O O B-geo I-geo O O O B-per I-per O O O O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim O,DT NN IN NNP NNP POS JJ NN NNP NNP VBZ VBN VBN IN DT NN NN IN PRP VBD NN IN DT NN NN IN DT CD NN NNP NNP .
+The Nelson Mandela Foundation said Zenani Mandela died in the one-car accident on a Johannesburg highway .,O B-per I-per I-per O B-per I-per O O O O O O O B-org O O,DT NNP NNP NNP VBD NNP NNP VBD IN DT JJ NN IN DT NNP NN .
+It said no one else was injured in the crash .,O O O O O O O O O O O,PRP VBD DT NN RB VBD VBN IN DT NN .
+"Police in Johannesburg have charged the driver with drunk driving and say they are considering "" culpable homicide "" charges as well .",O O B-org O O O O O O O O O O O O O O O O O O O O,NNS IN NNP VBP VBN DT NN IN JJ NN CC VBP PRP VBP VBG RQU JJ NN LQU NNS RB RB .
+Zenani had celebrated her 13th birthday only two days earlier .,B-per O O O O O O B-tim O O O,NNP VBD VBN PRP$ JJ NN RB CD NNS RBR .
+"She is one of nine great-grandchildren of Mr. Mandela , who was South Africa 's first black president .",O O O O O O O B-per B-geo O O O B-geo I-geo O O O O O,"PRP VBZ CD IN CD NNS IN NNP NNP , WP VBD NNP NNP POS JJ JJ NN ."
+The foundation said the Mandela family asked for privacy as they mourned their loss .,O O O O B-geo O O O O O O O O O O,DT NN VBD DT NNP NN VBD IN NN IN PRP VBD PRP$ NN .
+"The World Cup soccer championship officially begins Friday , with a match-up between South Africa and Mexico in Johannesburg .",O O O O O O O B-tim O O O O O B-geo I-geo O B-geo O B-geo O,"DT NNP NNP NN NN RB VBZ NNP , IN DT NN IN NNP NNP CC NNP IN NNP ."

@@ -1,0 +1,8 @@
+Iran 's intelligence minister says authorities have arrested more than 10 people this year on charges of spying on the country 's nuclear program .,B-geo O O O O O O O O O O O O O O O O O O O O O O O O,NNP POS NN NN VBZ NNS VBP VBN JJR IN CD NNS DT NN IN NNS IN VBG IN DT NN POS JJ NN .
+"The official IRNA news agency quoted Intelligence Minister Ali Yunesi as alleging that those detained since March were working for the U.S. Central Intelligence Agency and the Israeli spy agency , Mossad .",O O B-org O O O O B-per I-per I-per O O O O O B-tim I-tim O O O O B-org I-org I-org I-org O O B-gpe O O O B-geo O,"DT JJ NNP NN NN VBN NNP NNP NNP NNP IN VBG IN DT VBN IN NNP VBD VBG IN DT NNP NNP NNP NNP CC DT JJ NN NN , NNP ."
+He said three of the detainees were staff members of Iran 's Atomic Energy Organization .,O O O O O O O O O O B-geo O B-org I-org I-org O,PRP VBD CD IN DT NNS VBD NN NNS IN NNP POS NNP NNP NNP .
+He did not reveal the identities of the detainees .,O O O O O O O O O O,PRP VBD RB VB DT NNS IN DT NNS .
+"Last month , Iran agreed to suspend its uranium enrichment activities under a deal with European governments .",O O O B-geo O O O O O O O O O O O O O O,"JJ NN , NNP VBD TO VB PRP$ NN NN NNS IN DT NN IN JJ NNS ."
+"But on Tuesday , international diplomats said Tehran is still continuing uranium enrichment , exploiting a loophole in the deal .",O O B-tim O O O O B-per O O O O O O O O O O O O O,"CC IN NNP , JJ NNS VBD NNP VBZ RB VBG NN NN , VBG DT NN IN DT NN ."
+The United States accuses Iran of secretly trying to build nuclear weapons .,O B-geo I-geo O B-geo O O O O O O O O,DT NNP NNPS VBZ NNP IN RB VBG TO VB JJ NNS .
+Tehran denies the charge .,B-per O O O O,NNP VBZ DT NN .

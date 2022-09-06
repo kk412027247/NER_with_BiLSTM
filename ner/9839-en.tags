@@ -1,0 +1,7 @@
+Chinese state media say at least 11 miners are dead and three are missing after a gas explosion at a coal mine in northern China .,B-gpe O O O O O O O O O O O O O O O O O O O O O O O B-geo O,JJ NN NNS VBP IN JJS CD NNS VBP JJ CC CD VBP VBG IN DT NN NN IN DT NN NN IN JJ NNP .
+The official Xinhua news agency says 16 miners were working in the Xingguang Coal Industry Co. mine in Shanxi province at the time of the blast on Monday .,O O B-org O O O O O O O O O B-org I-org I-org I-org O O B-geo O O O O O O O O B-tim O,DT JJ NNP NN NN VBZ CD NNS VBD VBG IN DT NNP NNP NNP NNP NN IN NNP NN IN DT NN IN DT NN IN NNP .
+Xinhua says rescuers have found two workers alive and recovered 11 bodies .,B-org O O O O O O O O O O O O,NNP VBZ NNS VBP VBN CD NNS JJ CC VBD CD NNS .
+It says they are searching for three missing miners .,O O O O O O O O O O,PRP VBZ PRP VBP VBG IN CD VBG NNS .
+China 's mining industry is the world 's deadliest .,B-geo O O O O O O O O O,NNP POS NN NN VBZ DT NN POS JJS .
+"China says 3,200 miners died in accidents last year .",B-geo O O O O O O O O O,NNP VBZ CD NNS VBD IN NNS JJ NN .
+"Government figures show that almost 80 percent of China 's estimated 16,000 mines are illegal .",O O O O O O O O B-geo O O O O O O O,NN NNS VBP IN RB CD NN IN NNP POS VBN CD NNS VBP JJ .

@@ -1,0 +1,8 @@
+Sales of previously-owned homes in the United States declined in May as higher mortgage interest rates cut demand .,O O O O O O B-geo I-geo O O B-tim O O O O O O O O,NNS IN JJ NNS IN DT NNP NNPS VBD IN NNP IN JJR NN NN NNS VBD NN .
+"Tuesday 's report from a business group , the National Association of Realtors , says re-sales fell more than one percent .",B-tim O O O O O O O O B-org I-org I-org I-org O O O O O O O O O,"NNP POS NN IN DT NN NN , DT NNP NNP IN NNPS , VBZ NNS VBD JJR IN CD NN ."
+"If home sales continued at this rate for a full year , 6.7 million homes would change hands .",O O O O O O O O O O O O O O O O O O O,"IN NN NNS VBD IN DT NN IN DT JJ NN , CD CD NNS MD VB NNS ."
+"Tuesday 's report on existing home sales contrasts sharply with Monday 's figures on sales of newly-built homes , which increased .",B-tim O O O O O O O O O B-tim O O O O O O O O O O O,"NNP POS NN IN VBG NN NNS VBZ RB IN NNP POS NNS IN NNS IN JJ NNS , WDT VBD ."
+But analysts say new home sales are likely to decline under pressure from rising interest rates .,O O O O O O O O O O O O O O O O O,CC NNS VBP JJ NN NNS VBP JJ TO VB IN NN IN VBG NN NNS .
+U.S. central bankers are expected to announce another in a long series of interest rate increases later this week .,B-geo O O O O O O O O O O O O O O O B-tim O O O,NNP JJ NNS VBP VBN TO VB DT IN DT JJ NN IN NN NN NNS RB DT NN .
+A separate report said U.S. consumer confidence increased slightly this month .,O O O O B-geo O O O O O O O,DT JJ NN VBD NNP NN NN VBD RB DT NN .
+"Consumer confidence figures give experts clues about consumer spending , which drives most U.S. economic activity .",O O O O O O O O O O O O O B-geo O O O,"NN NN NNS VBP NNS NNS IN NN NN , WDT VBZ RBS NNP JJ NN ."

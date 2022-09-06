@@ -1,0 +1,9 @@
+Indonesian health officials say their tests show two women from the same area have been infected by the bird-flu virus .,B-gpe O O O O O O O O O O O O O O O O O B-tim O O,JJ NN NNS VBP PRP$ NNS VBP CD NNS IN DT JJ NN VBP VBN VBN IN DT NN NN .
+"The two patients , both from a town just east of Indonesia 's capital , Jakarta , are being treated at a hospital there .",O O O O O O O O O O O B-geo O O O B-per O O O O O O O O O,"DT CD NNS , DT IN DT NN RB RB IN NNP POS NN , NNP , VBP VBG VBN IN DT NN RB ."
+The World Health Organization has not confirmed the results yet .,O B-org I-org I-org O O O O O O O,DT NNP NNP NNP VBZ RB VBN DT NNS RB .
+"So far , 23 people have been confirmed as having bird flu in Indonesia .",O O O O O O O O O O O O O B-geo O,"RB RB , CD NNS VBP VBN VBN IN VBG NN NN IN NNP ."
+Seven people who contracted the deadly H5N1 strain of the virus have died .,O O O O O O O O O O O O O O,CD NNS WP VBD DT JJ NNP NN IN DT NN VBP VBN .
+"Elsewhere , Africa 's first outbreak of the H5N1 virus strain was confirmed in Nigeria Wednesday .",O O B-geo O O O O O O O O O O O B-geo B-tim O,"RB , NNP POS JJ NN IN DT NNP NN NN VBD VBN IN NNP NNP ."
+"The ( Paris-based ) World Organization for Animal Health says the virus killed 40,000 chickens on a farm in Kaduna state .",O O O O B-org I-org I-org I-org I-org O O O O O O O O O O B-geo O O,DT LRB JJ RRB NNP NNP IN NNP NNP VBZ DT NN VBD CD NNS IN DT NN IN NNP NN .
+No human cases of bird flu have been reported in the West African nation .,O O O O O O O O O O O O B-gpe O O,DT JJ NNS IN NN NN VBP VBN VBN IN DT JJ JJ NN .
+"Avian flu has killed 88 people in southeast Asia , China , and Turkey since 2003 .",O O O O O O O O B-geo O B-geo O O B-geo B-tim I-tim O,"JJ NN VBZ VBN CD NNS IN JJ NNP , NNP , CC NNP IN CD ."

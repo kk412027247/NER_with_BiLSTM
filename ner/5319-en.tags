@@ -1,0 +1,7 @@
+"Subsistence agriculture , together with forestry , remains the backbone of the economy of the Central African Republic ( CAR ) , with about 60 % of the population living in outlying areas .",O O O O O O O O O O O O O O O B-geo I-geo I-geo O O O O O O O O O O O O O O O O,"NNP NN , RB IN NN , VBZ DT NN IN DT NN IN DT NNP NNP NNP LRB NNP RRB , IN RB CD NN IN DT NN NN IN JJ NNS ."
+The agricultural sector generates more than half of GDP .,O O O O O O O O O O,DT JJ NN VBZ JJR IN NN IN NN .
+"Timber has accounted for about 16 % of export earnings and the diamond industry , for 40 % .",O O O O O O O O O O O O O O O O O O O,"NNP VBZ VBN IN RB CD NN IN NN NNS CC DT NN NN , IN CD NN ."
+"Important constraints to economic development include the CAR 's landlocked position , a poor transportation system , a largely unskilled work force , and a legacy of misdirected macroeconomic policies .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS TO JJ NN VBP DT NNP POS JJ NN , DT JJ NN NN , DT RB JJ NN NN , CC DT NN IN VBN JJ NNS ."
+Factional fighting between the government and its opponents remains a drag on economic revitalization .,O O O O O O O O O O O O O O O,JJ NN IN DT NN CC PRP$ NNS VBZ DT NN IN JJ NN .
+Distribution of income is extraordinarily unequal .,O O O O O O O,NN IN NN VBZ RB JJ .
+Grants from France and the international community can only partially meet humanitarian needs .,O O B-geo O O O O O O O O O O O,NNS IN NNP CC DT JJ NN MD RB RB VB JJ NNS .

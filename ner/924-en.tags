@@ -1,0 +1,8 @@
+"People in China , Korea , Vietnam and elsewhere are ringing in the Lunar New Year Sunday with street celebrations , decorations and gifts .",O O B-geo O B-geo O B-geo O O O O O O B-org I-org I-org B-tim O O O O O O O O,"NNS IN NNP , NNP , NNP CC RB VBP VBG IN DT NNP NNP NNP NNP IN NN NNS , NNS CC NNS ."
+"The 15-day holiday , which is the single most important holiday for Chinese people , is the start of the Year of the Dog .",O B-tim I-tim O O O O O O O O O B-gpe O O O O O O O O O O B-org O,"DT JJ NN , WDT VBZ DT JJ RBS JJ NN IN JJ NNS , VBZ DT NN IN DT NN IN DT NNP ."
+"In Beijing , authorities lifted a 12-year ban on exploding fireworks .",O B-geo O O O O O O O O O O,"IN NNP , NNS VBD DT JJ NN IN VBG NNS ."
+The Beijing Daily newspaper said about three thousand police officers are patrolling downtown areas in case of fire and accidents .,O B-geo O O O O O O O O O O O O O O O O O O O,DT NNP NNP NN VBD IN CD CD NNS NNS VBP VBG NN NNS IN NN IN NN CC NNS .
+"During the new year celebrations , people often give gifts to family and friends .",O O B-tim O O O O O O O O O O O O,"IN DT JJ NN NNS , NNS RB VBP NNS TO NN CC NNS ."
+"Animal protection groups are urging people not to give dogs , fearing the animals will end up abandoned .",O O O O O O O O O O O O O O O O O O O,"JJ NN NNS VBP VBG NNS RB TO VB NNS , VBG DT NNS MD VB RB VBN ."
+"In Vietnam , the new year is known as "" Tet . """,O B-geo O O B-tim O O O O O O O O,"IN NNP , DT JJ NN VBZ VBN IN RQU NNP . LQU"
+"This year , the official media reported a 30 percent increase in the number of foreign tourists arriving just before the holiday .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN , DT JJ NNS VBD DT CD NN NN IN DT NN IN JJ NNS VBG RB IN DT NN ."

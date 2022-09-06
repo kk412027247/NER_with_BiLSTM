@@ -1,0 +1,7 @@
+"The West Indies ' cricket team has scored 240-8 on the first day of its second test match against South Africa at Newlands in Cape Town , South Africa .",O B-org I-org O O O O O O O O O O O O O O O O B-geo I-geo O B-geo O B-geo I-geo O B-geo I-geo O,"DT NNP NNPS POS NN NN VBZ VBN CD IN DT JJ NN IN PRP$ JJ NN NN IN NNP NNP IN NNPS IN NNP NNP , NNP NNP ."
+Shivnarine Chanderpaul of the West Indies led the visitors with 64 runs while Marlon Samuels added another 51 for the Caribbean squad .,B-per I-per O O B-org I-org O O O O O O O B-per I-per O O O O O B-geo O O,NNP NNP IN DT NNP NNPS VBD DT NNS IN CD NNS IN NNP NNP VBD DT CD IN DT NNP NN .
+Chanderpaul was at the crease for 297 minutes and faced 214 deliveries .,B-per O O O O O O O O O O O O,NNP VBD IN DT NN IN CD NNS CC VBD CD NNS .
+South African bowlers Makhaya Ntini and Dale Steyn led the home team with Steyn taking four wickets while allowing 60 runs while Ntini finished at 2-63 .,B-geo B-gpe O B-geo I-geo O B-per I-per O O O O O B-org O O O O O O O O B-geo O O O O,JJ JJ NNS NNP NNP CC NNP NNP VBD DT NN NN IN NNP VBG CD NNS IN VBG CD NNS IN NNP VBD IN CD .
+The West Indies won the first test of the three-match series by 128 runs in Port Elizabeth .,O B-org I-org O O O O O O O O O O O O B-geo I-geo O,DT NNP NNPS VBD DT JJ NN IN DT JJ NNS IN CD NNS IN NNP NNP .
+The third test starts January 10th in Durban .,O O O O B-tim I-tim O B-geo O,DT JJ NN VBZ NNP CD IN NNP .
+The two sides will also play five one-day international matches .,O O O O O O O B-tim O O O,DT CD NNS MD RB VB CD JJ JJ NNS .

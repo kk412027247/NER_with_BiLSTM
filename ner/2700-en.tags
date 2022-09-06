@@ -1,0 +1,7 @@
+"Iraqi security forces say a car bomb exploded at a market in northern Diyala province Friday , killing at least 23 people .",B-gpe O O O O O O O O O O O O B-geo O B-tim O O O O O O O,"JJ NN NNS VBP DT NN NN VBD IN DT NN IN JJ NNP NN NNP , VBG IN JJS CD NNS ."
+Officials say the blast occurred in the town of Khalis and injured more than 50 people .,O O O O O O O O O B-org O O O O O O O,NNS VBP DT NN VBD IN DT NN IN NNP CC VBD JJR IN CD NNS .
+"In late March , at least 42 people were killed in twin bombings near a restaurant in Khalis .",O O B-tim O O O O O O O O O O O O O O B-org O,"IN JJ NNP , IN JJS CD NNS VBD VBN IN JJ NNS IN DT NN IN NNP ."
+The explosions occurred shortly before Iraqi officials announced full preliminary results from the March 7 parliamentary election .,O O O O O B-gpe O O O O O O O B-tim I-tim I-tim I-tim O,DT NNS VBD RB IN JJ NNS VBD JJ JJ NNS IN DT NNP CD JJ NN .
+"Election officials say former Prime Minister Ayad Allawi 's bloc won 91 seats , the most of any political group .",O O O O O O B-per I-per O O O O O O O O O O O O O,"NN NNS VBP JJ JJ NN NNP NNP POS NN VBD CD NNS , DT JJS IN DT JJ NN ."
+Prime Minister Nouri al-Maliki 's coalition won 89 .,O O B-per I-per O O O B-tim O,JJ NN NNP NNP POS NN VBD CD .
+Neither party had the majority needed to form a government .,O O O O O O O O O O O,DT NN VBD DT NN VBN TO VB DT NN .

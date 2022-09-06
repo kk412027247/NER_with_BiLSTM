@@ -1,0 +1,6 @@
+"At least 13 people have been wounded by a powerful explosion near an Indian military camp in Srinagar , summer capital of Indian Kashmir .",O O O O O O O O O O O O O B-gpe O O O B-geo O B-tim O O B-gpe B-org O,"IN JJS CD NNS VBP VBN VBN IN DT JJ NN IN DT JJ JJ NN IN NNP , NN NN IN JJ NNP ."
+Witnesses say at least five Indian soldiers were among the injured .,O O O O O B-gpe O O O O O O,NNS VBP IN JJS CD JJ NNS VBD IN DT NN .
+Police say the blast was caused by a car bomb .,O O O O O O O O O O O,NNS VBP DT NN VBD VBN IN DT NN NN .
+It is unclear who carried out Tuesday 's attack .,O O O O O O B-tim O O O,PRP VBZ JJ WP VBD RP NNP POS NN .
+"Kashmir is divided between India and Pakistan , and rebel groups have been fighting for the region 's independence from India , or its merger with Pakistan , since 1989 .",B-org O O O B-geo O B-geo O O O O O O O O O O O O O B-geo O O O O O B-geo O B-tim I-tim O,"NNP VBZ VBN IN NNP CC NNP , CC NN NNS VBP VBN VBG IN DT NN POS NN IN NNP , CC PRP$ NN IN NNP , IN CD ."
+The explosion came hours after top diplomats from India and Pakistan resumed peace talks in New Delhi .,O O O O O O O O B-org I-org I-org O O O O B-geo I-geo O,DT NN VBD NNS IN JJ NNS IN NNP CC NNP VBD NN NNS IN NNP NNP .

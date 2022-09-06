@@ -1,0 +1,6 @@
+Indiana Jones is returning - and Cate Blanchett may be along for the ride .,B-per I-per O O O O B-per I-per O O O O O O O,NNP NNP VBZ VBG : CC NNP NNP MD VB IN IN DT NN .
+The award-winning actress is reportedly negotiating a role in the fourth installment of the Indiana Jones series .,O O O O O O O O O O O O O O B-per I-per O O,DT JJ NN VBZ RB VBG DT NN IN DT JJ NN IN DT NNP NNP NN .
+Harrison Ford has already signed on to portray the fedora-wearing adventurer .,B-per I-per O O O O O O O O O O,NNP NNP VBZ RB VBN IN TO VB DT JJ NN .
+"Cate Blanchett won a 2005 Best Supporting Actress Academy Award for The Aviator , and this year received a supporting nomination for her role in Notes On A Scandal .",B-per I-per O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBD DT CD JJS VBG NNP NNP NNP IN DT NNP , CC DT NN VBD DT JJ NN IN PRP$ NN IN NNP IN DT NNP ."
+"Steven Spielberg will direct the film , scheduled to begin shooting in June in Los Angeles and undisclosed international locations .",B-per I-per O O O O O O O O O O B-tim O B-geo I-geo O O O O O,"NNP NNP MD VB DT NN , VBN TO VB VBG IN NNP IN NNP NNP CC JJ JJ NNS ."
+"Paramount Pictures will release Indy 4 worldwide on May 22 , 2008 .",B-org I-org O O O O O O B-tim I-tim I-tim I-tim O,"NNP NNP MD VB NNP CD NN IN NNP CD , CD ."

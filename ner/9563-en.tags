@@ -1,0 +1,7 @@
+Iran has accused the British military of equipping and helping the bombers who killed eight people in southern Iran Tuesday .,B-geo O O O B-gpe O O O O O O O O O O O O O B-geo B-tim O,NNP VBZ VBN DT JJ NN IN VBG CC VBG DT NNS WP VBD CD NNS IN JJ NNP NNP .
+Iranian Foreign Minister Manouchehr Mottaki says he has information showing the bombers interacted with British soldiers based in Iraq .,B-gpe O B-per I-per I-per O O O O O O O O O B-gpe O O O B-geo O,JJ NNP NNP NNP NNP VBZ PRP VBZ NN VBG DT NNS VBN IN JJ NNS VBN IN NNP .
+Britain denies the charges and any involvement in the twin bombings in Ahvaz .,B-geo O O O O O O O O O O O B-geo O,NNP VBZ DT NNS CC DT NN IN DT JJ NNS IN NNP .
+"Last year , at least 12 people were killed in Ahvaz in a series of bombings that Iran blamed on Iranian Arab extremists with ties to foreign governments .",O O O O O O O O O O B-geo O O O O O O B-geo O O B-gpe I-gpe O O O O O O O,"JJ NN , IN JJS CD NNS VBD VBN IN NNP IN DT NN IN NNS IN NNP VBD IN JJ JJ NNS IN NNS TO JJ NNS ."
+"In October , an editorial in Iran 's Kayhan International newspaper alleged that British agents were involved in the bombings .",O B-tim O O O O B-geo O B-geo I-geo O O O B-gpe O O O O O O O,"IN NNP , DT NN IN NNP POS NNP NNP NN VBD IN JJ NNS VBD VBN IN DT NNS ."
+Britain also denied involvement in those attacks .,B-geo O O O O O O O,NNP RB VBD NN IN DT NNS .
+It has accused Tehran of backing insurgents fighting British forces in southeastern Iraq .,O O O B-org O O O O B-gpe O O O B-geo O,PRP VBZ VBN NNP IN VBG NNS VBG JJ NNS IN JJ NNP .

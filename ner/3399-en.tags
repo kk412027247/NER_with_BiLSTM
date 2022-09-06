@@ -1,0 +1,9 @@
+A Hungarian government spokesman says the deadly strain of bird flu virus has been found in the southern part of Hungary .,O B-gpe O O O O O O O O O O O O O O O O O O B-geo O,DT JJ NN NN VBZ DT JJ NN IN NN NN NN VBZ VBN VBN IN DT JJ NN IN NNP .
+"The spokesman , Andras Batiz , said Tuesday three wild swans found last week have tested positive for the H5N1 virus .",O O O B-per I-per O O B-tim O O O O O O O O O O O B-nat O O,"DT NN , NNP NNP , VBD NNP CD JJ NNS VBN JJ NN VBP VBN JJ IN DT NNP NN ."
+German veterinary officials Tuesday confirmed 22 new cases of flu in birds on the island of Ruegen bringing the total in the country to 103 .,B-gpe O O B-tim O O O O O O O O O O O O B-geo O O O O O O O O O,JJ JJ NNS NNP VBD CD JJ NNS IN NN IN NNS IN DT NN IN NNP VBG DT NN IN DT NN TO CD .
+The German government announced Monday the virus had spread to the mainland .,O B-gpe O O B-tim O O O O O O O O,DT JJ NN VBD NNP DT NN VBD VBN TO DT NN .
+One hundred three cases have now been found in wild birds in Germany .,O O O O O O O O O O O O B-geo O,CD CD CD NNS VBP RB VBN VBN IN JJ NNS IN NNP .
+Croatia has confirmed the H5N1 virus in a wild swan found dead last week .,B-geo O O O B-nat O O O O O O O O O O,NNP VBZ VBN DT NNP NN IN DT JJ NN VBN JJ JJ NN .
+France and the Netherlands are petitioning EU animal health experts so they can vaccinate their poultry .,B-geo O O B-geo O O B-org O O O O O O O O O O,NNP CC DT NNP VBP VBG NNP NN NN NNS IN PRP MD VB PRP$ NN .
+Some EU countries are skeptical if such inoculations can ward off the deadly virus .,O B-org O O O O O O O O O O O O O,DT NNP NNS VBP JJ IN JJ NNS MD VB RP DT JJ NN .
+Bird flu has killed more than 90 people since 2003 in Asia .,O O O O O O O O O B-tim O B-geo O,NN NN VBZ VBN JJR IN CD NNS IN CD IN NNP .

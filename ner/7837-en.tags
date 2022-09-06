@@ -1,0 +1,7 @@
+"Brad Delp , who committed suicide March 9 , left a note proclaiming himself "" A lonely soul . """,B-per I-per O O O O B-tim I-tim O O O O O O O O O O O O,"NNP NNP , WP VBD NN NNP CD , VBD DT NN VBG PRP LQU DT JJ NN . LQU"
+Police say the 55-year-old lead singer for the rock band Boston paper-clipped the note to his shirt .,O O O O O O O O O O B-geo O O O O O O O,NNS VBP DT JJ NN NN IN DT NN NN NNP VBD DT NN TO PRP$ NN .
+"He was found dead in his Atkinson , New Hampshire home , after committing suicide by carbon monoxide poisoning .",O O O O O O B-geo O B-geo I-geo O O O O O O O O O O,"PRP VBD VBN JJ IN PRP$ NNP , NNP NNP NN , IN VBG NN IN NN NN NN ."
+"In another note , Delp took sole responsibility for the act , and warned that the house contained carbon monoxide gas .",O O O O B-per O O O O O O O O O O O O O O O O O,"IN DT NN , NNP VBD JJ NN IN DT NN , CC VBD IN DT NN VBD NN NN NN ."
+"Police also found four sealed notes to Delp 's fiancee Pamela Sullivan , his children , their mother , Micki Delp , and another couple whose identity was not disclosed .",O O O O O O O B-per O O B-per I-per O O O O O O O B-per I-per O O O O O O O O O O,"NNS RB VBD CD JJ NNS TO NNP POS NN NNP NNP , PRP$ NNS , PRP$ NN , NNP NNP , CC DT NN WP$ NN VBD RB VBN ."
+Police say they will give the letters to family members without reading them .,O O O O O O O O O O O O O O,NNS VBP PRP MD VB DT NNS TO NN NNS IN VBG PRP .
+"Brad Delp was cremated March 14 , following a private funeral .",B-per I-per O O B-tim I-tim O O O O O O,"NNP NNP VBD VBN NNP CD , VBG DT JJ NN ."

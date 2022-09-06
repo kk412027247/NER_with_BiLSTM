@@ -1,0 +1,10 @@
+European stock markets are sharply higher in midday trading Monday .,O O O O O O O O O B-tim O,JJ NN NNS VBP RB JJR IN NN NN NNP .
+"London 's Financial Times 100 index was up 167 points ( 4.4 percent ) , to 3,948 .",B-geo O O O O O O O O O O O O O O O O O,"NNP POS NNP NNP CD NN VBD RB CD NNS LRB CD NN RRB , IN CD ."
+"The CAC-40 in Paris was up 130 points ( 4.5 percent ) , to 3011 .",O O O B-geo O O O O O O O O O O B-tim O,"DT NN IN NNP VBD RB CD NNS LRB CD NN RRB , TO CD ."
+"And the DAX in Frankfurt was up 147 points ( 3.6 percent ) , at 4274 .",O O B-org O B-geo O O O O O O O O O O B-tim O,"CC DT NNP IN NNP VBD RB CD NNS LRB CD NN RRB , IN CD ."
+"The S&P futures contract was up 13 points , indicating a higher opening for U.S. markets .",O O O O O O O O O O O O O O B-geo O O,"DT NNP NNS NN VBD RB CD NNS , VBG DT JJR NN IN NNP NNS ."
+"In Asia , Tokyo markets were closed for a national holiday .",O B-geo O B-geo O O O O O O O O,"IN NNP , NNP NNS VBD VBN IN DT JJ NN ."
+They will reopen Tuesday .,O O O B-tim O,PRP MD VB NNP .
+"In Hong Kong , the Hang Seng index dropped 201 points ( 1.6 percent ) , to close at 12,458 .",O B-geo I-geo O O B-org I-org O O O O O O O O O O O O O O,"IN NNP NNP , DT NNP NNP NN VBD CD NNS LRB CD NN RRB , TO VB IN CD ."
+Gold was trading at $ 816.31 an ounce .,O O O O O O O O O,NN VBD VBG IN $ CD DT NN .
+The U.S. dollar was steady against other major currencies .,O B-geo O O O O O O O O,DT NNP NN VBD JJ IN JJ JJ NNS .

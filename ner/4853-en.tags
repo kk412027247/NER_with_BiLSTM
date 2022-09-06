@@ -1,0 +1,5 @@
+Venezuelan President Hugo Chavez says he plans to raise taxes on foreign oil companies in Venezuela .,B-gpe B-per I-per I-per O O O O O O O O O O O B-geo O,JJ NNP NNP NNP VBZ PRP VBZ TO VB NNS IN JJ NN NNS IN NNP .
+"Mr. Chavez Sunday described the move as a "" tax on extraction , "" saying it would create one billion dollars in new state revenue .",B-per I-per B-tim O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP NNP VBD DT NN IN DT LQU NN IN NN , RQU VBG PRP MD VB CD CD NNS IN JJ NN NN ."
+He made the announcement Sunday during his weekly television and radio program .,O O O O B-tim O O O O O O O O,PRP VBD DT NN NNP IN PRP$ JJ NN CC NN NN .
+The new tax will be 33 percent - up from 16.7 percent .,O O O O O O O O O O O O O,DT JJ NN MD VB CD NN IN RB IN CD NN .
+"Mr. Chavez has accused foreign oil companies of exploiting his country 's vast petroleum reserves without paying sufficient taxes , and has taken steps to increase revenue from the industry .",B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNP VBZ VBN JJ NN NNS IN VBG PRP$ NN POS JJ NN NNS IN VBG JJ NNS , CC VBZ VBN NNS TO VB NN IN DT NN ."

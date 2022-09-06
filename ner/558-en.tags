@@ -1,0 +1,5 @@
+"Seven years ago , the U.S. was struck by the most devastating terrorist attack in its history .",B-tim O O O O B-geo O O O O O O O O O O O O,"CD NNS RB , DT NNP VBD VBN IN DT RBS JJ JJ NN IN PRP$ NN ."
+"The news media responded to the events of September 11 , 2001 , providing live coverage as events unfolded in a tireless and sometimes heroic fashion .",O O O O O O O O B-tim I-tim I-tim I-tim O O O O O O O O O O O O O O O,"DT NN NNS VBD TO DT NNS IN NNP CD , CD , VBG JJ NN IN NNS VBD IN DT JJ CC RB JJ NN ."
+"That reporting is on display in a special gallery at Washington 's Newseum , a museum dedicated to journalism .",O O O O O O O O O O B-geo O B-geo O O O O O O O,"DT NN VBZ IN NN IN DT JJ NN IN NNP POS NNP , DT NN VBN TO NN ."
+VOA 's Tabinda Naeem has more on the exhibit depicting many of the challenges faced that day by the media .,B-org O B-geo I-geo O O O O O O O O O O O O O O O O O,NNP POS NNP NNP VBZ RBR IN DT NN VBG NN IN DT NNS VBD DT NN IN DT NNS .
+Jim Bertel narrates .,B-per I-per O O,NNP NNP VBZ .

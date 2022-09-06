@@ -1,0 +1,8 @@
+British police have charged three more suspects with conspiracy to commit murder in the alleged plot to blow up passenger jets heading to the United States .,B-gpe O O O O O O O O O O O O O O O O O O O O O O O B-geo I-geo O,JJ NNS VBP VBN CD JJR NNS IN NN TO VB NN IN DT JJ NN TO VB RP NN NNS VBG TO DT NNP NNPS .
+"Mohammed Yasar Gulzar , Nabeel Hussain , and Mohammed Shamin Uddin are scheduled to appear before a London judge Wednesday .",B-per I-per I-per O B-per I-per O O B-org I-org I-org O O O O O O B-geo O B-tim O,"NNP NNP NNP , NNP NNP , CC NNP NNP NNP VBP VBN TO VB IN DT NNP NN NNP ."
+This brings the number of suspects charged so far in the alleged terror plot to 15 .,O O O O O O O O O O O O O O O O O,DT VBZ DT NN IN NNS VBN RB RB IN DT JJ NN NN TO CD .
+Five others are still in custody while five have been freed .,O O O O O O O O O O O O,CD NNS VBP RB IN NN IN CD VBP VBN VBN .
+A number of suspects are also being held in Pakistan .,O O O O O O O O O B-geo O,DT NN IN NNS VBP RB VBG VBN IN NNP .
+"British authorities accuse them of planning to use liquid explosives to destroy as many as 10 airliners , killing thousands of people .",B-gpe O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP PRP IN VBG TO VB JJ NNS TO VB RB JJ IN CD NNS , VBG NNS IN NNS ."
+Police had been monitoring the suspects for months .,O O O O O O O O O,NNS VBD VBN VBG DT NNS IN NNS .
+"Authorities made the arrests more than two weeks ago , believing the suspects were about to carry out their deadly plans .",O O O O O O B-tim O O O O O O O O O O O O O O O,"NNS VBD DT NNS RBR IN CD NNS RB , VBG DT NNS VBD IN TO VB RP PRP$ JJ NNS ."

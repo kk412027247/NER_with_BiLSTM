@@ -1,0 +1,6 @@
+Russian lawmakers have voted to extend presidential term limits from four to six years .,B-gpe O O O O O O O O O O O B-tim O O,JJ NNS VBP VBN TO VB JJ NN NNS IN CD CC CD NNS .
+The lower house of parliament overwhelmingly approved the measure during its first reading Friday .,O O O O O O O O O O O O O B-tim O,DT JJR NN IN NN RB VBD DT NN IN PRP$ JJ NN NNP .
+It will need to pass through two more readings to change the constitution and become law .,O O O O O O O O O O O O O O O O O,PRP MD VB TO VB IN CD JJR NNS TO VB DT NN CC VB NN .
+"The lower house has fast tracked the measure , which was announced by President Dmitri Medvedev last week .",O O O O O O O O O O O O O B-per I-per I-per O O O,"DT JJR NN VBZ RB VBN DT NN , WDT VBD VBN IN NNP NNP NNP JJ NN ."
+"Opponents say the measure could allow former Russian President Vladimir Putin , who now is Russia 's prime minister , to quickly seek to return to the presidency .",O O O O O O O B-gpe B-per I-per I-per O O O O B-geo O O O O O O O O O O O O O,"NNS VBP DT NN MD VB JJ JJ NNP NNP NNP , WP RB VBZ NNP POS JJ NN , TO RB VB TO VB TO DT NN ."
+Mr. Medvedev has also proposed extending the term of the State Duma from four to five years .,B-per I-per O O O O O O O O B-org I-org O O O B-tim O O,NNP NNP VBZ RB VBN VBG DT NN IN DT NNP NNP IN CD CC CD NNS .

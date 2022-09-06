@@ -1,0 +1,8 @@
+Doctors treating prominent U.S. Senator Edward Kennedy say his apparent seizure Tuesday was caused by fatigue .,O O O B-geo B-per I-per I-per O O O O B-tim O O O O O,NNS VBG JJ NNP NNP NNP NNP VBP PRP$ JJ NN NNP VBD VBN IN NN .
+"Kennedy , who has brain cancer , collapsed during an inauguration luncheon in honor of President Barack Obama at the Capitol building .",B-per O O O O O O O O O O O O O O B-per I-per I-per O O B-art O O,"NNP , WP VBZ NN NN , VBD IN DT NN NN IN NN IN NNP NNP NNP IN DT NNP NN ."
+"He was taken to a nearby hospital , where he underwent tests .",O O O O O O O O O O O O O,"PRP VBD VBN TO DT JJ NN , WRB PRP VBD NNS ."
+"Doctors say the 76-year-old liberal icon is awake , talking with friends , and feeling well .",O O O O O O O O O O O O O O O O O,"NNS VBP DT JJ JJ NN VBZ JJ , VBG IN NNS , CC VBG RB ."
+He will remain in the hospital overnight for observation .,O O O O O O O O O O,PRP MD VB IN DT NN JJ IN NN .
+"Mr. Obama told dignitaries at the inaugural lunch that he was praying for Kennedy , who he called a warrior for civil rights .",B-per I-per O O O O O O O O O O O B-per O O O O O O O O O O,"NNP NNP VBD NNS IN DT JJ NN IN PRP VBD VBG IN NNP , WP PRP VBD DT NN IN JJ NNS ."
+"Kennedy underwent surgery for a malignant brain tumor last year , after being diagnosed in May .",B-per O O O O O O O O O O O O O O B-tim O,"NNP VBD NN IN DT JJ NN NN JJ NN , IN VBG VBN IN NNP ."
+He has represented the state of Massachusetts in the Senate since 1962 and is the only surviving brother of the late President John Kennedy .,O O O O O O B-geo O O B-org O B-tim O O O O O O O O O B-per I-per I-per O,PRP VBZ VBN DT NN IN NNP IN DT NNP IN CD CC VBZ DT RB VBG NN IN DT JJ NNP NNP NNP .

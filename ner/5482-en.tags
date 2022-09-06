@@ -1,0 +1,7 @@
+A Philippine court has sentenced to death seven members of the Abu Sayyaf terrorist group for an attack four years ago that killed 10 farm workers .,O B-gpe O O O O O O O O O B-org I-org O O O O O B-tim O O O O O O O O,DT JJ NN VBZ VBN TO NN CD NNS IN DT NNP NNP JJ NN IN DT NN CD NNS IN IN VBD CD NN NNS .
+"Dozens of soldiers and police guarded the courthouse on the southern island of Basilan , as the verdict was read to six of the convicted men Wednesday .",O O O O O O O O O O O O O B-geo O O O O O O O O O O O O B-tim O,"NNS IN NNS CC NNS VBD DT NN IN DT JJ NN IN NNP , IN DT NN VBD VBN TO CD IN DT VBN NNS NNP ."
+A seventh man is still at large .,O O O O O O O O,DT JJ NN VBZ RB IN JJ .
+Officials say the attackers were disguised as soldiers when they abducted the farm workers in August of 2001 .,O O O O O O O O O O O O O O O B-tim I-tim I-tim O,NNS VBP DT NNS VBD VBN IN NNS WRB PRP VBD DT NN NNS IN NNP IN CD .
+They beheaded nine of them and shot another before some of the hostages escaped .,O O O O O O O O O O O O O O O,PRP VBD CD IN PRP CC VBD DT IN DT IN DT NNS VBD .
+Abu Sayyaf militants have fought for decades to establish an Islamic state in the southern Philippines .,B-org I-org O O O O O O O O B-org O O O O B-geo O,NNP NNP NNS VBP VBN IN NNS TO VB DT JJ NN IN DT JJ NNP .
+The United States has formally declared it a terrorist group .,O B-geo I-geo O O O O O O O O,DT NNP NNPS VBZ RB VBN PRP DT JJ NN .

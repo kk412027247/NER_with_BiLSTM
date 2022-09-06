@@ -1,0 +1,6 @@
+Saudi Arabia 's King Abdullah has issued new rules regarding political succession in the country .,B-org I-org I-org I-org I-org O O O O O O O O O O O,NNP NNP POS NNP NNP VBZ VBN JJ NNS VBG JJ NN IN DT NN .
+"The rules issued Monday outline who can become members of the Allegiance Commission , the body established last year to vote on future kings .",O O O B-tim O O O O O O O B-org I-org O O O O O O O O O O O O,"DT NNS VBD NNP NN WP MD VB NNS IN DT NNP NNP , DT NN VBN JJ NN TO VB IN JJ NNS ."
+The order also details what should be done if a member dies and how a crown prince should be chosen .,O O O O O O O O O O O O O O O O O O O O O,DT NN RB NNS WP MD VB VBN IN DT NN VBZ CC WRB DT NN NN MD VB VBN .
+Saudi Arabia was founded in 1932 by the Saud family .,B-org I-org O O O B-tim O O B-org O O,NNP NNP VBD VBN IN CD IN DT NNP NN .
+"The country 's current leader , King Abdullah , came to power in 2005 .",O O O O O O B-per I-per O O O O O B-tim O,"DT NN POS JJ NN , NNP NNP , VBD TO NN IN CD ."
+"Saudi rule has traditionally been passed down to the sons of Abdul Aziz bin Saud , the founder of the Islamic kingdom .",O O O O O O O O O O O B-org I-org B-per B-org O O O O O B-geo O O,"JJ NN VBZ RB VBN VBN RP TO DT NNS IN NNP NNP NNP NNP , DT NN IN DT NNP NN ."

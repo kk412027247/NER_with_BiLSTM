@@ -1,0 +1,9 @@
+U.S. stock market indexes posted strong gains in Tuesday 's afternoon trading .,B-geo O O O O O O O B-tim I-tim I-tim O O,NNP NN NN NNS VBD JJ NNS IN NNP POS NN NN .
+"The Dow Jones Industrial Average rose three percent , the S & P 500 advanced 3.6 percent , and the NASDAQ moved up 3.3 percent .",O B-per I-per I-per I-per O O O O O B-org I-org I-org O O O O O O O B-org O O O O O,"DT NNP NNP NNP NNP VBD CD NN , DT NNP CC NNP CD VBD CD NN , CC DT NNP VBD RB CD NN ."
+European stock markets were higher at the close of trading .,O O O O O O O O O O O,JJ NN NNS VBD JJR IN DT NN IN NN .
+"London 's Financial Times 100 index gained 1.4 percent to finish at 4,123 .",B-geo O O O O O O O O O O O O O,NNP POS NNP NNP CD NN VBD CD NN TO VB IN CD .
+"The CAC-40 in Paris rose 2.4 percent to close at 3,153 , and the DAX in Frankfurt moved up 3.1 percent to hit 4,532 .",O O O B-geo O O O O O O O O O O B-org O B-geo O O O O O O O O,"DT NN IN NNP VBD CD NN TO VB IN CD , CC DT NNP IN NNP VBD RB CD NN TO VB CD ."
+"In Asia , Tokyo 's Nikkei index plunged 6.4 percent to finish the day at 7,864 .",O B-geo O B-geo O B-geo O O O O O O O O O O O,"IN NNP , NNP POS NNP NN VBD CD NN TO VB DT NN IN CD ."
+"In Hong Kong , the Hang Seng dropped five percent to end at 13,406 .",O B-geo I-geo O O B-org I-org O O O O O O B-tim O,"IN NNP NNP , DT NNP NNP VBD CD NN TO VB IN CD ."
+The price of gold rose more than $ 11 to trade at $ 780.47 an ounce .,O O O O O O O O O O O O O O O O O,DT NN IN NN VBD JJR IN $ CD TO VB IN $ CD DT NN .
+The dollar was higher against the yen but lost value compared to the euro .,O O O O O O O O O O O O O O O,DT NN VBD JJR IN DT NN CC VBD NN VBN TO DT NN .

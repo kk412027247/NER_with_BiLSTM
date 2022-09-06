@@ -1,0 +1,6 @@
+"The U.S. Embassy in India is warning of likely terror attacks in New Delhi and Mumbai , formerly known as Bombay , in the coming days .",O B-org I-org O B-geo O O O O O O O B-geo I-geo O B-geo O O O O B-geo O O O O O O,"DT NNP NNP IN NNP VBZ VBG IN JJ NN NNS IN NNP NNP CC NNP , RB VBN IN NNP , IN DT JJ NNS ."
+The embassy sent an e-mail to Americans living in India Friday about the alleged plot .,O O O O O O B-gpe O O B-geo B-tim O O O O O,DT NN VBD DT JJ TO NNS VBG IN NNP NNP IN DT JJ NN .
+It says the attacks were believed to be planned for around India 's August 15 Independence Day .,O O O O O O O O O O O B-geo B-tim I-tim I-tim I-tim I-tim O,PRP VBZ DT NNS VBD VBN TO VB VBN IN IN NNP POS NNP CD NNP NNP .
+The embassy urged Americans to maintain a low profile .,O O O B-gpe O O O O O O,DT NN VBD NNS TO VB DT JJ NN .
+Indian officials have not commented on the warning or alleged terror plot .,B-gpe O O O O O O O O O O O O,JJ NNS VBP RB VBN IN DT NN CC VBN NN NN .
+The embassy issued the warning one day after Britain announced it had arrested several suspects in an alleged plot to blow up passenger planes flying from Britain to the United States .,O O O O O O O O B-geo O O O O O O O O O O O O O O O O O B-geo O O B-geo I-geo O,DT NN VBD DT NN CD NN IN NNP VBD PRP VBD VBN JJ NNS IN DT JJ NN TO VB RP NN NNS VBG IN NNP TO DT NNP NNPS .

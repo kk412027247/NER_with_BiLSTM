@@ -1,0 +1,9 @@
+French President Nicolas Sarkozy has called for vigilance against terrorism following the discovery of explosives in a Paris department store .,B-gpe B-per I-per I-per O O O O O O O O O O O O O B-geo O O O,JJ NNP NNP NNP VBZ VBN IN NN IN NN VBG DT NN IN NNS IN DT NNP NN NN .
+Mr. Sarkozy said he will not compromise with terrorists .,B-per I-per O O O O O O O O,NNP NNP VBD PRP MD RB VB IN NNS .
+He spoke to reporters Tuesday at the European Parliament in Strasbourg .,O O O O B-tim O O B-org I-org O B-geo O,PRP VBD TO NNS NNP IN DT NNP NNP IN NNP .
+A group calling itself the Afghan Revolutionary Front is claiming responsibility for placing the explosives .,O O O O O B-gpe B-org I-org O O O O O O O O,DT NN VBG PRP DT JJ NNP NNP VBZ VBG NN IN VBG DT NNS .
+It demanded that France withdraw its troops from Afghanistan by February .,O O O B-geo O O O O B-gpe O B-tim O,PRP VBD IN NNP VB PRP$ NNS IN NNP IN NNP .
+French Interior Minister Michele Alliot-Marie said the group is unknown to police .,B-gpe O B-per I-per I-per O O O O O O O O,JJ NNP NNP NNP NNP VBD DT NN VBZ JJ TO NNS .
+The French news agency ( AFP ) says it alerted police after receiving a letter warning that bombs had been planted in the Printemps store in central Paris .,O B-gpe O O O B-org O O O O O O O O O O O O O O O O O B-geo O O O B-geo O,DT JJ NN NN LRB NNP RRB VBZ PRP VBD NN IN VBG DT NN VBG IN NNS VBD VBN VBN IN DT NNP NN IN JJ NNP .
+Officials say the store was evacuated and the police found the explosives in a bathroom .,O O O O O O O O O O O O O O O O,NNS VBP DT NN VBD VBN CC DT NN VBD DT NNS IN DT NN .
+Alliot-Marie said the explosives appeared relatively old and no detonators were attached .,B-per O O O O O O O O O O O O,NNP VBD DT NNS VBD RB JJ CC DT NNS VBD VBN .

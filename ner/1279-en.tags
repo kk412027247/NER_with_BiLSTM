@@ -1,0 +1,7 @@
+Indonesian health officials say local tests show an eight-year-old boy in Jakarta has died of bird flu .,B-gpe O O O O O O O O O O B-geo O O O O O O,JJ NN NNS VBP JJ NNS VBP DT JJ NN IN NNP VBZ VBN IN NN NN .
+The child died last week .,O O O O O O,DT NN VBD JJ NN .
+A World Health Organization ( WHO ) laboratory in Hong Kong is testing samples from the boy as well as from a 39-year-old man who was earlier reported to have contracted the disease .,O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP NNP LRB NNP RRB NN IN NNP NNP VBZ VBG NNS IN DT NN RB RB IN IN DT JJ NN WP VBD RB VBN TO VB VBN DT NN .
+Indonesian health officials announced Friday that local tests showed the man had died earlier in the week of bird flu .,B-gpe O O O B-tim O O O O O O O O O O O O B-tim I-tim I-tim O,JJ NN NNS VBD NNP IN JJ NNS VBD DT NN VBD VBN RBR IN DT NN IN NN NN .
+Results from the WHO testing are expected in several days .,O O O O O O O O B-tim O O,NNS IN DT NNP NN VBP VBN IN JJ NNS .
+"If the deaths are confirmed to be caused by the bird flu virus , they will bring Indonesia 's human toll from the disease to eleven .",O O O O O O O O O O O O O O O O O B-geo O O O O O O O O O,"IN DT NNS VBP VBN TO VB VBN IN DT NN NN NN , PRP MD VB NNP POS JJ NN IN DT NN IN CD ."
+"So far , avian flu is known to have killed nine people in Indonesia , and more than 70 in Asia since 2003 .",O O O O O O O O O O O O O B-geo O O O O O O B-geo B-tim I-tim O,"RB RB , JJ NN VBZ VBN TO VB VBN CD NNS IN NNP , CC JJR IN CD IN NNP IN CD ."

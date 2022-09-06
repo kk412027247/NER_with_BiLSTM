@@ -1,0 +1,8 @@
+"Kevin Costner is suing a music promoter , alleging the company breached a contract to back his fledgling music career .",B-per I-per O O O O O O O O O O O O O O O O O O O,"NNP NNP VBZ VBG DT NN NN , VBG DT NN VBD DT NN TO VB PRP$ NN NN NN ."
+"The 52-year-old movie actor-turned-musician filed an April 3 lawsuit against Mahee Worldwide Ventures Inc. , accusing it of fraud and breach of contract .",O O O O O O B-tim I-tim O O B-org I-org I-org I-org O O O O O O O O O O,"DT JJ NN NN VBD DT NNP CD NN IN NNP NNP NNP NNP , VBG PRP IN NN CC NN IN NN ."
+Costner is seeking damages in excess of $ 8.5 million .,B-per O O O O O O O O O O,NNP VBZ VBG NNS IN NN IN $ CD CD .
+Kevin Costner is the lead singer and songwriter for the Kevin Costner Band .,B-per I-per O O O O O O O O B-org I-org I-org O,NNP NNP VBZ DT NN NN CC NN IN DT NNP NNP NNP .
+"The lawsuit claims Costner 's music company , Kevin 's Music LLC , entered into a two-year agreement with Mahee Worldwide Ventures which would allow the band to perform as many as five concerts annually .",O O O B-per O O O O B-org I-org I-org I-org O O O O O O O B-org I-org I-org O O O O O O O O O O O O O O,"DT NN VBZ NNP POS NN NN , NNP POS NNP NNP , VBD IN DT JJ NN IN NNP NNP NNP WDT MD VB DT NN TO VB RB JJ IN CD NNS RB ."
+Mahee would also create and maintain a Web site marketing Costner 's band .,B-org O O O O O O O O O B-per O O O,NNP MD RB VB CC VB DT NNP NN VBG NNP POS NN .
+The suit claims Mahee reneged on all its agreements .,O O O B-org O O O O O O,DT NN VBZ NNP VBD IN DT PRP$ NNS .
+Mahee Worldwide Ventures has not responded to requests for comment .,B-org I-org I-org O O O O O O O O,NNP NNP NNP VBZ RB VBN TO NNS IN NN .

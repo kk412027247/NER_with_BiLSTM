@@ -1,0 +1,8 @@
+Royal Dutch Shell says a fire has broken out at one of its oil wells in southern Nigeria .,B-org I-org I-org O O O O O O O O O O O O O O B-geo O,NNP NNP NNP VBZ DT NN VBZ VBN RP IN CD IN PRP$ NN NNS IN JJ NNP .
+"Shell says firefighters are battling the blaze on a wellhead in the Cawthorne Channel , south of the city of Port Harcourt .",B-org O O O O O O O O O O O B-geo I-geo O O O O O O B-geo I-geo O,"NNP VBZ NNS VBP VBG DT NN IN DT NN IN DT NNP NNP , NN IN DT NN IN NNP NNP ."
+"The company says it had to close a flow station , cutting production by almost 38,000 barrels a day .",O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ PRP VBD TO VB DT NN NN , VBG NN IN RB CD NNS DT NN ."
+A spokesman for the oil giant says the cause of the fire is unknown .,O O O O O O O O O O O O O O O,DT NN IN DT NN NN VBZ DT NN IN DT NN VBZ JJ .
+"The blaze comes one day after a local militant group , the Movement for the Emancipation of the Niger Delta threatened to renew attacks against oil installations in the region .",O O O O O O O O O O O O O O O O O O B-gpe B-org O O O O O O O O O O O,"DT NN VBZ CD NN IN DT JJ JJ NN , DT NN IN DT NN IN DT NNP NNP VBD TO VB NNS IN NN NNS IN DT NN ."
+The group said the Nigerian military used a Shell airstrip to launch a helicopter attack .,O O O O B-gpe O O O B-per O O O O O O O,DT NN VBD DT JJ NN VBD DT NNP NN TO VB DT NN NN .
+"The military said it attacked barges used by oil smugglers , while the militants said the attack targeted ethnic Ijaw communities .",O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD PRP VBD NNS VBN IN NN NNS , IN DT NNS VBD DT NN VBD JJ NNP NNS ."
+Militant attacks forced Shell to close other flow stations last month .,O O O B-per O O O O O O O O,NN NNS VBD NNP TO VB JJ NN NNS JJ NN .

@@ -1,0 +1,9 @@
+U.S. stock markets posted slight losses Thursday after briefly making some gains .,B-geo O O O O O B-tim O O O O O O,NNP NN NNS VBD JJ NNS NNP IN RB VBG DT NNS .
+"The Dow Jones Industrial Average , S&P 500 and NASDAQ all fell less than half of one percent .",O B-per I-per I-per I-per O O O O B-org O O B-tim I-tim I-tim I-tim I-tim O O,"DT NNP NNP NNP NNP , NNP CD CC NNP DT VBD JJR IN NN IN CD NN ."
+European markets were down sharply .,O O O O O O,JJ NNS VBD RB RB .
+"Key indexes were off as much as 2.4 percent in early trading , but losses eased to about one percent by the close of trading .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP NNS VBD RP RB JJ IN CD NN IN JJ NN , CC NNS VBD TO IN CD NN IN DT NN IN NN ."
+The stock market troubles began earlier this week on concerns about the health of Chinese markets and the U.S. economy .,O O O O O O O O O O O O O O B-gpe O O O B-geo O O,DT NN NN NNS VBD RBR DT NN IN NNS IN DT NN IN JJ NNS CC DT NNP NN .
+The Shanghai index lost nearly three percent on Thursday .,O O O O O O O O B-tim O,DT NNP NN VBD RB CD NN IN NNP .
+An even more drastic drop in Shanghai shares earlier this week sparked the current market sell-off .,O O O O O O B-geo O O O O O O O O O O,DT RB RBR JJ NN IN NNP NNS RBR DT NN VBD DT JJ NN NN .
+"Shares in Hong Kong dropped 1 1/2 percent , while Japan 's market closed about nine-tenths of a percent lower .",O O B-geo I-geo O O O O O O B-geo O O O O O O O O O O,"NNS IN NNP NNP VBD CD CD NN , IN NNP POS NN VBD IN NNS IN DT NN JJR ."
+Smaller markets in New Zealand and the Philippines rebounded .,O O O B-geo I-geo O O B-org O O,JJR NNS IN NNP NNP CC DT NNPS VBD .

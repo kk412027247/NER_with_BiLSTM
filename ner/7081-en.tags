@@ -1,0 +1,7 @@
+"Indonesia 's Health Ministry says a 29-year-old man has died of bird flu , the latest victim in the country hardest-hit by the virus .",B-geo O B-org I-org O O O O O O O O O O O O O O O O O O O O O,"NNP POS NNP NNP VBZ DT JJ NN VBZ VBN IN NN NN , DT JJS NN IN DT NN NN IN DT NN ."
+The ministry said Saturday that the human death toll from the virus now stands at 74 .,O O O B-tim O O O O O O O O O O O B-tim O,DT NN VBD NNP IN DT JJ NN NN IN DT NN RB VBZ IN CD .
+"However , World Health Organization officials have only recorded 63 deaths .",O O B-org I-org I-org O O O O O O O,"RB , NNP NNP NNP NNS VBP RB VBN CD NNS ."
+"Indonesia only recently agreed to resume sharing its bird flu samples with the WHO , ending a four-month dispute .",B-geo O O O O O O O O O O O O B-org O O O B-tim O O,"NNP RB RB VBD TO VB VBG PRP$ NN NN NNS IN DT NNP , VBG DT JJ NN ."
+Indonesia had refused to share the samples until the health organization guaranteed they would not be used to make expensive commercial vaccines .,B-geo O O O O O O O O O O O O O O O O O O O O O O,NNP VBD VBN TO VB DT NNS IN DT NN NN VBN PRP MD RB VB VBN TO VB JJ JJ NNS .
+Indonesia has more bird flu deaths than any other nation .,B-geo O O O O O O O O O O,NNP VBZ RBR JJ NN NNS IN DT JJ NN .
+"WHO officials say 171 people have died from the virus worldwide since the outbreak began in 2003 , mostly in Asian countries .",B-org O O O O O O O O O O O O O O O B-tim O O O O O O,"NNP NNS VBP CD NNS VBP VBN IN DT NN NN IN DT NN VBD IN CD , RB IN JJ NNS ."

@@ -1,0 +1,9 @@
+The leader of Venezuela 's ruling party is claiming victory in Sunday 's parliamentary elections .,O O O B-geo O O O O O O O B-tim O O O O,DT NN IN NNP POS NN NN VBZ VBG NN IN NNP POS JJ NNS .
+Willian Lara says President Hugo Chavez 's Fifth Republic Movement won 114 seats in the 167-seat National Assembly .,B-per I-per O B-per I-per I-per O B-geo I-geo I-geo O O O O O O O O O,NNP NNP VBZ NNP NNP NNP POS NNP NNP NNP VBD CD NNS IN DT JJ NNP NNP .
+Mr. Lara also says the rest of the Assembly 's contested seats will go to parties supportive of Mr. Chavez .,B-per I-per O O O O O O O O O O O O O O O O B-per I-per O,NNP NNP RB VBZ DT NN IN DT NNP POS VBN NNS MD VB TO NNS JJ IN NNP NNP .
+Official results have yet to be announced .,O O O O O O O O,JJ NNS VBP RB TO VB VBN .
+Venezuela 's election chief estimates voter turnout at just 25 percent .,B-geo O O O O O O O O O O O,NNP POS NN NN VBZ NN NN IN RB CD NN .
+"Most opposition parties boycotted the election , accusing electoral officials of manipulating electronic voting machines and favoring the president .",O O O O O O O O O O O O O O O O O O O O,"JJS NN NNS VBD DT NN , VBG JJ NNS IN VBG JJ NN NNS CC VBG DT NN ."
+Mr. Chavez is accusing the United States of orchestrating the boycott .,B-per I-per O O O B-geo I-geo O O O O O,NNP NNP VBZ VBG DT NNP NNPS IN VBG DT NN .
+Washington denies the charges .,B-geo O O O O,NNP VBZ DT NNS .
+"Meanwhile , officials say an explosion that damaged an oil pipeline in western Venezuelan state of Zulia late Saturday was an attempt to disrupt the elections .",O O O O O O O O O O O O O B-gpe O O B-geo O B-tim O O O O O O O O,"RB , NNS VBP DT NN WDT VBD DT NN NN IN JJ JJ NN IN NNP JJ NNP VBD DT NN TO VB DT NNS ."

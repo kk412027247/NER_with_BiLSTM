@@ -1,0 +1,4 @@
+The European Union has welcomed Sunday 's publication of Iraq 's draft constitution .,O B-org I-org O O B-tim O O O B-geo O O O O,DT NNP NNP VBZ VBN NNP POS NN IN NNP POS NN NN .
+"The EU presidency , held currently by British Prime Minister Tony Blair , issued a statement calling the document an "" important milestone "" in Iraq 's political process .",O B-org O O O O O B-gpe B-per I-per I-per I-per O O O O O O O O O O O O O B-geo O O O O,"DT NNP NN , VBN RB IN JJ NNP NNP NNP NNP , VBD DT NN VBG DT NN DT LQU JJ NN RQU IN NNP POS JJ NN ."
+The EU statement urged all Iraqis to participate in the ratification vote scheduled for October .,O B-org O O O B-gpe O O O O O O O O B-tim O,DT NNP NN VBD DT NNS TO VB IN DT NN NN VBN IN NNP .
+It also offered EU help in preparing for that vote and for national elections scheduled for December .,O O O B-org O O O O O O O O O O O O B-tim O,PRP RB VBD NNP NN IN VBG IN DT NN CC IN JJ NNS VBN IN NNP .

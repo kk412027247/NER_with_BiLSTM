@@ -1,0 +1,6 @@
+British Prime Minister Tony Blair says he hopes to bring the United States back into global warming talks .,B-gpe B-per I-per I-per I-per O O O O O O B-geo I-geo O O O O O O,JJ NNP NNP NNP NNP VBZ PRP VBZ TO VB DT NNP NNPS RB IN JJ NN NNS .
+Mr. Blair said Wednesday - the day the Kyoto pact took effect - that global warming could become a catastrophe and that getting the United States back into a dialogue is one solution .,B-per I-per O B-tim I-tim O B-tim O B-tim O O O O O O O O O O O O O O O B-geo I-geo O O O O O O O O,NNP NNP VBD NNP IN DT NN DT NNP NN VBD NN : IN JJ NN MD VB DT NN CC IN VBG DT NNP NNPS RB IN DT NN VBZ CD NN .
+"President Bush pulled out of Kyoto in 2001 , saying it would hurt the U.S. economy .",B-per I-per O O B-geo I-geo O B-tim O O O O O O B-geo O O,"NNP NNP VBD IN IN NNP IN CD , VBG PRP MD VB DT NNP NN ."
+He has called for new technology as one way to cut greenhouse gases .,O O O O O O O O O O O O O O,PRP VBZ VBN IN JJ NN IN CD NN TO VB NN NNS .
+Some European leaders have criticized the United States for pulling out of the Kyoto treaty .,O O O O O O B-geo I-geo O O O O O B-geo O O,DT JJ NNS VBP VBN DT NNP NNPS IN VBG IN IN DT NNP NN .
+They say they expect Mr. Bush to address the matter when he visits Europe next week .,O O O O B-per I-per O O O O O O O B-geo O O O,PRP VBP PRP VBP NNP NNP TO VB DT NN WRB PRP VBZ NNP JJ NN .

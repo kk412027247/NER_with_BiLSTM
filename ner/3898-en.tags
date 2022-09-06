@@ -1,0 +1,6 @@
+The child molestation trial of pop star Michael Jackson is set to begin in southern California .,O O O O O O O B-per I-per O O O O O B-geo I-geo O,DT NN NN NN IN NN NN NNP NNP VBZ VBN TO VB IN JJ NNP .
+Lawyers are expected to begin screening the first of as many as 750 potential jurors at a Santa Barbara county court Monday for the trial that could last several months .,O O O O O O O O O O O O O O O O O B-geo I-geo O O B-tim O O O O O O B-tim O O,NNS VBP VBN TO VB VBG DT NN IN RB JJ IN CD JJ NNS IN DT NNP NNP NN NN NNP IN DT NN WDT MD VB JJ NNS .
+Mr. Jackson faces 10 charges involving a child under the age of 14 .,B-per I-per O O O O O O O O O O O O,NNP NNP VBZ CD NNS VBG DT NN IN DT NN IN CD .
+"He has pleaded not guilty , saying he is completely innocent .",O O O O O O O O O O O O,"PRP VBZ VBN RB JJ , VBG PRP VBZ RB JJ ."
+"In a court-approved video statement Sunday , Mr. Jackson criticized recent leaks of grand jury testimony on the case , calling them "" malicious , disgusting and false . """,O O O O O B-tim O B-per I-per O O O O O O O O O O O O O O O O O O O O O,"IN DT JJ NN NN NNP , NNP NNP VBD JJ NNS IN JJ NN NN IN DT NN , VBG PRP LQU JJ , JJ CC JJ . LQU"
+"Grand jury testimony , although secret and not publicly released , is often leaked to the media .",B-geo O O O O O O O O O O O O O O O O O,"NNP NN NN , IN JJ CC RB RB VBN , VBZ RB VBN TO DT NNS ."

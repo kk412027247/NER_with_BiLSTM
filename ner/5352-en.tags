@@ -1,0 +1,5 @@
+Jonathan Rhys-Meyers has entered a rehabilitation center to receive treatment for alcohol dependency .,B-per I-per O O O O O O O O O O O O,NNP NNP VBZ VBN DT NN NN TO VB NN IN NN NN .
+"The 29-year-old Irish actor , who currently portrays English monarch Henry VIII on the television series The Tudors , is in an unidentified treatment center .",O O B-gpe O O O O O B-gpe O B-per I-per O O O O B-art I-art O O O O O O O O,"DT JJ JJ NN , WP RB VBZ JJ NN NNP NNP IN DT NN NN DT NNPS , VBZ IN DT JJ NN NN ."
+"His publicist , Meredith O'Sullivan , made the announcement April 25 .",O O O B-per I-per O O O O B-tim I-tim O,"PRP$ NN , NNP NNP , VBD DT NN NNP CD ."
+No further details were revealed .,O O O O O O,DT JJ NNS VBD VBN .
+"Rhys-Meyers ' screen credits include Bend It Like Beckham , Match Point , and the upcoming August Rush , co-starring Robin Williams and Terrence Howard .",B-per O O O O B-art I-art I-art I-art O B-art I-art O O O O B-art I-art O O B-per I-per O B-per I-per O,"NNP POS NN NNS VBP NNP NNP NNP NNP , NNP NNP , CC DT JJ NNP NNP , VBG NNP NNP CC NNP NNP ."

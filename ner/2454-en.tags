@@ -1,0 +1,6 @@
+The exact origins of the Nauruans are unclear since their language does not resemble any other in the Pacific .,O O O O O B-org O O O O O O O O O O O O B-geo O,DT JJ NNS IN DT NNPS VBP JJ IN PRP$ NN VBZ RB VB DT JJ IN DT NNP .
+Germany annexed the island in 1888 .,B-geo O O O O B-tim O,NNP VBD DT NN IN CD .
+A German-British consortium began mining the island 's phosphate deposits early in the 20th century .,O O O O O O O O O O O B-tim O B-tim I-tim O,DT JJ NN VBD VBG DT NN POS NN NNS RB IN DT JJ NN .
+Australian forces occupied Nauru in World War I ; it subsequently became a League of Nations mandate .,B-gpe O O B-geo O B-eve I-eve I-eve O O O O O B-org I-org I-org I-org O,JJ NNS JJ NNP IN NNP NNP NNP ; PRP RB VBD DT NNP IN NNP NN .
+After the Second World War - and a brutal occupation by Japan - Nauru became a UN trust territory .,O O O O O O O O O O O B-geo I-geo I-geo O O B-org O O O,IN DT JJ NNP NNP : CC DT JJ NN IN NNP : NNP VBD DT NNP NN NN .
+It achieved independence in 1968 and joined the UN in 1999 as the world 's smallest independent republic .,O O O O B-tim O O O B-org O B-tim O O O O O O O O,PRP VBD NN IN CD CC VBD DT NNP IN CD IN DT NN POS JJS JJ NN .

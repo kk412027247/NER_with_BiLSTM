@@ -1,0 +1,8 @@
+"The host Italian Olympic team has suffered a blow just days before the start of the Turin Games , with the loss of two ski jumpers .",O O B-gpe O O O O O O O O O O O O O B-eve I-eve O O O O O O O O O,"DT NN JJ NNP NN VBZ VBN DT NN RB NNS IN DT NN IN DT NNP NNPS , IN DT NN IN CD JJ NNS ."
+Marco Beltrame and Stefano Chiapolino were seriously injured Tuesday during pre-Olympic training at Predazzo .,B-per I-per O B-per I-per O O O B-tim O O O O B-geo O,NNP NNP CC NNP NNP VBD RB VBN NNP IN JJ NN IN NNP .
+"The 19-year-old Beltrame was admitted to a local hospital , in Belluno where he had his spleen removed .",O B-tim B-per O O O O O O O O B-geo O O O O O O O,"DT JJ NNP VBD VBN TO DT JJ NN , IN NNP WRB PRP VBD PRP$ NN VBD ."
+"Chiapolino was treated at another hospital , in Cavalese .",B-per O O O O O O O B-geo O,"NNP VBD VBN IN DT NN , IN NNP ."
+The 20-year-old Olympic teammate had several small fractures to his face and a slight concussion .,O O O O O O O O O O O O O O O O,DT JJ NNP NN VBD JJ JJ NNS TO PRP$ NN CC DT JJ NN .
+"With the loss of two of its five ski jumpers , the Italian Olympic team will not be able to field a four-person squad in the team event on February 20 .",O O O O O O O O O O O O B-gpe O O O O O O O O O O O O O O O O B-tim I-tim O,"IN DT NN IN CD IN PRP$ CD NN NNS , DT JJ NNP NN MD RB VB JJ TO VB DT JJ NN IN DT NN NN IN NNP CD ."
+Opening ceremonies for the Games are Friday .,O O O O B-eve O B-tim O,VBG NNS IN DT NNPS VBP NNP .
+The Olympics run through February 26 .,O O O O B-tim I-tim O,DT NNS VBP IN NNP CD .

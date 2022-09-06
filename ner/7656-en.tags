@@ -1,0 +1,8 @@
+The Afghan defense ministry says a top Taleban commander and several of his fighters have been killed in clashes with U.S.-led coalition forces in southern Afghanistan .,O B-gpe O O O O O B-org O O O O O O O O O O O O O O O O B-geo I-geo O,DT JJ NN NN VBZ DT NN NNP NN CC NN IN PRP$ NNS VBP VBN VBN IN NNS IN JJ NN NNS IN JJ NNP .
+"The ministry says the fighting , which also involved air support , took place early Thursday in Helmand province - a known Taleban stronghold .",O O O O O O O O O O O O O O O B-tim O B-geo O O O O B-org O O,"DT NN VBZ DT NN , WDT RB VBD NN NN , VBD NN RB NNP IN NNP NN IN DT VBN NNP NN ."
+"It identified the dead commander , Mullah Brader , as a relative and close associate of Taleban chief Mullah Omar .",O O O O O O B-per I-per O O O O O O O O B-org O B-per I-per O,"PRP VBD DT JJ NN , NNP NNP , IN DT JJ CC JJ NN IN NNP NN NNP NNP ."
+The U.S. military in Afghanistan has not commented .,O B-geo O O B-geo O O O O,DT NNP NN IN NNP VBZ RB VBN .
+"Elsewhere in southern Afghanistan , one NATO soldier and an Afghan interpreter were killed while on patrol in the insurgency-hit southern part of the country",O O B-geo I-geo O O B-org O O O B-gpe O O O O O O O O O O O O O O,"RB IN JJ NNP , CD NNP NN CC DT JJ NN VBD VBN IN IN NN IN DT JJ JJ NN IN DT NN"
+Thursday .,B-tim O,NNP .
+A NATO statement said two other soldiers were wounded .,O B-org O O O O O O O O,DT NNP NN VBD CD JJ NNS VBD VBN .
+It did not give details of the incident .,O O O O O O O O O,PRP VBD RB VB NNS IN DT NN .

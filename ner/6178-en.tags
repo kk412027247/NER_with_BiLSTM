@@ -1,0 +1,6 @@
+Venezuelan media say President Hugo Chavez heads to ally Cuba Monday .,B-gpe O O B-per I-per I-per O O O B-geo B-tim O,JJ NNS VBP NNP NNP NNP VBZ TO VB NNP NNP .
+Reports say Mr. Chavez had planned to start the official trip Sunday .,O O B-per I-per O O O O O O O B-tim O,NNS VBP NNP NNP VBD VBN TO VB DT JJ NN NNP .
+The reason for the delay was not clear .,O O O O O O O O O,DT NN IN DT NN VBD RB JJ .
+"Mr. Chavez visited Cuban leader Fidel Castro last month , in what a newspaper called a "" gesture of solidarity . """,B-per I-per O B-gpe O B-per I-per O O O O O O O O O O O O O O O,"NNP NNP VBD JJ NN NNP NNP JJ NN , IN WP DT NN VBD DT LQU NN IN NN . LQU"
+"The Venezuelan leader also wanted to check on Mr. Castro 's health , following his accidental fall in October .",O B-gpe O O O O O O B-per I-per O O O O O O O O B-tim O,"DT JJ NN RB VBD TO VB IN NNP NNP POS NN , VBG PRP$ JJ NN IN NNP ."
+Venezuela 's opposition accuses Mr. Chavez of trying to impose Cuban-style communism at home .,B-geo O O O B-per I-per O O O O O O O O O,NNP POS NN VBZ NNP NNP IN VBG TO VB JJ NN IN NN .

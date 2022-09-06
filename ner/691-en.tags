@@ -1,0 +1,7 @@
+"A senior Burmese prison official says more than 9,000 inmates promised freedom under the military government 's prisoner release program will be freed by the end of Friday .",O O B-gpe O O O O O O O O O O O O O O O O O O O O O O B-tim I-tim I-tim O,DT JJ JJ NN NN VBZ JJR IN CD NNS VBN NN IN DT JJ NN POS NN NN NN MD VB VBN IN DT NN IN NNP .
+"A senior official at Rangoon 's notorious Insein prison Zaw Win , told reporters about the mass release , Friday .",O O O O B-geo O O B-org I-org I-org I-org O O O O O O O O B-tim O,"DT JJ NN IN NNP POS JJ NNP NN NNP NNP , VBD NNS IN DT NN NN , NNP ."
+"Witnesses say they have only seen 1,000 prisoners released Friday .",O O O O O O O O O B-tim O,NNS VBP PRP VBP RB VBN CD NNS VBN NNP .
+"Sources tell VOA 's Burmese service that of those released Friday , only three were political detainees .",O O B-org O B-gpe O O O O O B-tim O O O O O O O,"NNS VBP NNP POS JJ NN IN IN DT VBN NNP , RB CD VBD JJ NNS ."
+"Burma says the inmates were wrongly detained by the recently-disbanded security apparatus , the National Intelligence Bureau .",B-geo O O O O O O O O O O O O O B-org I-org I-org O,"NNP VBZ DT NNS VBD RB VBN IN DT JJ NN NN , DT NNP NNP NNP ."
+The agency was headed by ousted Burmese Prime Minister General Khin Nyunt .,O O O O O O B-gpe B-per I-per I-per I-per I-per O,DT NN VBD VBN IN JJ JJ NNP NNP NNP NNP NNP .
+Most of those already freed are ordinary prisoners .,O O O O O O O O O,JJS IN DT RB VBN VBP JJ NNS .

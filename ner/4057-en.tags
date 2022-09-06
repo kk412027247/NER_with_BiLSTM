@@ -1,0 +1,9 @@
+France has announced that six major powers will meet on Tuesday to discuss possible sanctions on Iran over its nuclear program .,B-geo O O O O O O O O O B-tim O O O O O B-geo O O O O O,NNP VBZ VBN IN CD JJ NNS MD VB IN NNP TO VB JJ NNS IN NNP IN PRP$ JJ NN .
+France 's foreign ministry spokesman Jean-Baptiste Mattei said senior diplomats from the five permanent members of the U.N. Security Council plus Germany will meet in Paris .,B-geo O O O O B-per I-per O O O O O O O O O O B-org I-org I-org O B-geo O O O B-geo O,NNP POS JJ NN NN NNP NNP VBD JJ NNS IN DT CD JJ NNS IN DT NNP NNP NNP CC NNP MD VB IN NNP .
+A European Union representative is expected to join the talks .,O B-org I-org O O O O O O O O,DT NNP NNP NN VBZ VBN TO VB DT NNS .
+The major powers have been working for weeks on possible sanctions against Iran .,O O O O O O O O O O O O B-geo O,DT JJ NNS VBP VBN VBG IN NNS IN JJ NNS IN NNP .
+"France , Germany and Britain have circulated a draft Security Council sanctions resolution .",B-geo O B-geo O B-geo O O O O B-org I-org O O O,"NNP , NNP CC NNP VBP VBN DT NN NNP NNP NNS NN ."
+But Russia and China favor less stringent sanctions .,O B-geo O B-geo O O O O O,CC NNP CC NNP VBP RBR JJ NNS .
+Iran defied an August 31 U.N. deadline for suspending its nuclear enrichment program .,B-geo O O B-tim I-tim B-org O O O O O O O O,NNP VBD DT NNP CD NNP NN IN VBG PRP$ JJ NN NN .
+Tehran says it has a right to develop nuclear technology for peaceful uses .,B-org O O O O O O O O O O O O O,NNP VBZ PRP VBZ DT NN TO VB JJ NN IN JJ NNS .
+The U.S. and its allies believe Iran is trying to develop a nuclear weapon .,O B-geo O O O O B-geo O O O O O O O O,DT NNP CC PRP$ NNS VBP NNP VBZ VBG TO VB DT JJ NN .

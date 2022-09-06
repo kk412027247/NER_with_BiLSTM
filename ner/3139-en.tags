@@ -1,0 +1,8 @@
+Monday is a national holiday in Japan .,B-tim O O O O O B-geo O,NNP VBZ DT JJ NN IN NNP .
+"It 's "" Coming of Age Day , "" a day of recognition for those who turn 20 years old this year .",O O O B-eve I-eve I-eve I-eve O O O O O O O O O O O O O O O O,"PRP VBZ LQU VBG IN NNP NNP , RQU DT NN IN NN IN DT WP VBP CD NNS JJ DT NN ."
+"Twenty is the age of adulthood in Japan , when a person is old enough to vote , drink or smoke .",O O O O O O O B-geo O O O O O O O O O O O O O O,"CD VBZ DT NN IN NN IN NNP , WRB DT NN VBZ JJ RB TO VB , VB CC VB ."
+Financial markets and many offices are closed for the holiday .,O O O O O O O O O O O,JJ NNS CC JJ NNS VBP VBN IN DT NN .
+Municipal governments host special coming of age ceremonies for the 20-year-olds in their juristictions .,O O O O O O O O O O O O O O O,JJ NNS VBP JJ VBG IN NN NNS IN DT NNS IN PRP$ NNS .
+The ceremonies are held to encourage responsibility and self-reliance .,O O O O O O O O O O,DT NNS VBP VBN TO VB NN CC NN .
+Young men usually wear suits to the ceremony .,O O O O O O O O O,JJ NNS RB VBP NNS TO DT NN .
+Young women usually wear special kimonos bought or rented for the event .,O O O O O O O O O O O O O,JJ NNS RB VBP JJ NNS VBD CC VBD IN DT NN .

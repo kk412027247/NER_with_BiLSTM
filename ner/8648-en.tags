@@ -1,0 +1,8 @@
+"The European Union opened membership talks with Turkey early Tuesday , after settling last-minute objections by Austria .",O B-org I-org O O O O B-geo O B-tim O O O O O O B-geo O,"DT NNP NNP VBD NN NNS IN NNP RB NNP , IN VBG JJ NNS IN NNP ."
+EU foreign ministers ended 30 hours of heated emergency meetings late Monday in Luxembourg with Austrian officials withdrawing Vienna 's demand that the EU retain the option of offering Turkey a limited partnership .,B-org O O O O O O O O O O B-tim O B-geo O B-gpe O O B-geo O O O O B-org O O O O O B-geo O O O O,NNP JJ NNS VBD CD NNS IN JJ NN NNS JJ NNP IN NNP IN JJ NNS VBG NNP POS NN IN DT NNP VBP DT NN IN VBG NNP DT JJ NN .
+Turkey had rejected the option .,B-geo O O O O O,NNP VBD VBN DT NN .
+"Austria 's cooperation paved the way for all 25 EU member-states to agree on a negotiating framework for the membership process , which is expected to take about 10 years .",B-geo O O O O O O O O B-org I-org O O O O O O O O O O O O O O O O O B-tim O O,"NNP POS NN VBD DT NN IN DT CD NNP NNS TO VB IN DT NN NN IN DT NN NN , WDT VBZ VBN TO VB RB CD NNS ."
+A brief ceremony to officially open the talks took place shortly after midnight Tuesday in Luxembourg .,O O O O O O O O O O O O B-tim I-tim O B-geo O,DT JJ NN TO RB VB DT NNS VBD NN RB IN NN NNP IN NNP .
+Talks had been scheduled to open Monday .,O O O O O O B-tim O,NNS VBD VBN VBN TO VB NNP .
+"If accepted , Turkey would be the first country with a majority Muslim population to join the European Union .",O O O B-org O O O O O O O O O O O O O B-org I-org O,"IN VBN , NNP MD VB DT JJ NN IN DT NN NN NN TO VB DT NNP NNP ."
+It has been an associate member of the bloc since 1963 .,O O O O O O O O O B-tim I-tim O,PRP VBZ VBN DT JJ NN IN DT NN IN CD .

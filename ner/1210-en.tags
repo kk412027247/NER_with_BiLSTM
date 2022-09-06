@@ -1,0 +1,8 @@
+Security has been heightened on transit systems in the United States following the latest bombings in London .,O O O O O O O O O B-geo I-geo O O O O O B-geo O,NN VBZ VBN VBN IN NN NNS IN DT NNP NNPS VBG DT JJS NNS IN NNP .
+"An increased police presence was visible Friday in and around transit systems in cities including Boston , New York and Washington .",O O O O O O B-tim O O O O O O O O B-geo O B-geo I-geo O B-geo O,"DT VBN NN NN VBD JJ NNP IN CC IN NN NNS IN NNS VBG NNP , NNP NNP CC NNP ."
+New York City police began randomly searching bags being taken into the city 's subway system .,B-geo I-geo I-geo O O O O O O O O O O O O O O,NNP NNP NNP NN VBD RB VBG NNS VBG VBN IN DT NN POS NN NN .
+Individuals who refuse to comply are being turned away from the station .,O O O O O O O O O O O O O,NNS WP VBP TO VB VBP VBG VBN RB IN DT NN .
+Police are also searching bags on New York City buses and commuter trains .,O O O O O O B-geo I-geo I-geo O O O O O,NNS VBP RB VBG NNS IN NNP NNP NNP NNS CC NN NNS .
+"New York City Mayor Michael Bloomberg Thursday called the searches a little intrusive , but necessary .",B-geo I-geo I-geo B-per I-per I-per B-tim O O O O O O O O O O,"NNP NNP NNP NNP NNP NNP NNP VBD DT NNS DT JJ JJ , CC JJ ."
+Police Commissioner Raymond Kelly said the police will not target people because of their ethnic background .,B-per I-per I-per I-per O O O O O O O O O O O O O,NNP NNP NNP NNP VBD DT NN MD RB VB NNS IN IN PRP$ JJ NN .
+Civil liberty groups have expressed concern that searches could lead to racial profiling and violate an individual 's rights .,O O O O O O O O O O O O O O O O O O O O,JJ NN NNS VBP VBN NN IN NNS MD VB TO JJ NN CC VB DT NN POS NNS .

@@ -1,0 +1,6 @@
+"Riot police have clashed with thousands of demonstrators in Indian Kashmir 's summer capital , Srinagar .",O O O O O O O O O B-geo I-geo O B-tim O O B-geo O,"NN NNS VBP VBN IN NNS IN NNS IN NNP NNP POS NN NN , NNP ."
+"Police fired teargas to disperse up to 4,000 people who took to the streets Saturday to protest the shooting death of a musician by security forces .",O O O O O O O O O O O O O O B-tim O O O O O O O O O O O O,NN VBD NNS TO VB RP TO CD NNS WP VBD TO DT NNS NNP TO VB DT NN NN IN DT NN IN NN NNS .
+At least six police officers were injured in the clashes .,O O O O O O O O O O O,IN JJS CD NNS NNS VBD VBN IN DT NNS .
+Witnesses say police officers fired at 31-year-old composer Inayatullah Bhat late Friday near his home in Srinagar .,O O O O O O O O B-org I-org O B-tim O O O O B-geo O,NNS VBP NN NNS VBD IN JJ NN NNP NNP JJ NNP IN PRP$ NN IN NNP .
+"A police spokesman said police acted when Bhat refused orders to stop , but residents say the musician was on a routine stroll .",O O O O O O O B-org O O O O O O O O O O O O O O O O,"DT NN NN VBD NN VBD WRB NNP VBD NNS TO VB , CC NNS VBP DT NN VBD IN DT JJ NN ."
+India has been fighting a separatist movement in its predominantly Muslim area of divided Kashmir since 1989 .,B-geo O O O O O O O O O O O O O B-geo B-tim I-tim O,NNP VBZ VBN VBG DT JJ NN IN PRP$ RB JJ NN IN VBN NNP IN CD .

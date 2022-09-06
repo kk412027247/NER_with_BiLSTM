@@ -1,0 +1,11 @@
+"Finland has defeated host Italy , 7-4 , to reach the medal round of men 's Olympic curling at the Turin Games .",B-org O O O B-org O B-geo O O O O O O O O O O O O O B-org O O,"NNP VBZ VBN NN NNP , CD , TO VB DT JJ NN IN NNS POS NNP NN IN DT NNP NNPS ."
+The victory Sunday in Pinerolo also allowed the United States and Britain to advance following a ( 9-8 ) U.S. victory over Britain .,O O B-tim O B-geo O O O B-geo I-geo O B-geo O O O O O O O B-geo O O B-geo O,DT NN NNP IN NNP RB VBD DT NNP NNPS CC NNP TO VB VBG DT LRB CD RRB NNP NN IN NNP .
+Italy has fallen into a tie for fifth place with Norway .,B-geo O O O O O O O O O B-geo O,NNP VBZ VBN IN DT NN IN JJ NN IN NNP .
+Canada is currently fourth .,B-geo O O O O,NNP VBZ RB JJ .
+New Zealand is the only team eliminated so far .,B-org I-org O O O O O O O O,NNP NNP VBZ DT JJ NN VBN RB RB .
+Finland will play Britain later Sunday .,B-org O O B-geo B-tim I-tim O,NNP MD VB NNP RB NNP .
+"Also on the schedule , Canada faces New Zealand .",O O O O O B-geo O B-geo I-geo O,"RB IN DT NN , NNP VBZ NNP NNP ."
+Sweden will play Switzerland .,B-org O O B-geo O,NNP MD VB NNP .
+Norway takes on Germany .,B-geo O O B-geo O,NNP VBZ IN NNP .
+Curling is an ancient game which originated prior to the 1500s in Scotland .,O O O O O O O O O O B-org O B-geo O,NNP VBZ DT JJ NN WDT VBD RB TO DT NNS IN NNP .
+"The name refers to the slow , sideways spiral of a sliding stone as it glides to a circular target at the far end of the ice .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ TO DT JJ , JJ NN IN DT VBG NN IN PRP VBZ TO DT JJ NN IN DT JJ NN IN DT NN ."

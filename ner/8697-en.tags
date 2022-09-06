@@ -1,0 +1,5 @@
+There are 27 coral islands in the group .,O O O O O O O O O,EX VBP CD JJ NNS IN DT NN .
+"Captain William KEELING discovered the islands in 1609 , but they remained uninhabited until the 19th century .",O B-per I-per O O O O B-tim O O O O O O O B-tim I-tim O,"NNP NNP NNP VBD DT NNS IN CD , CC PRP VBD JJ IN DT JJ NN ."
+"From the 1820s to 1978 , members of the CLUNIE-ROSS family controlled the islands and the copra produced from local coconuts .",O O B-tim O B-tim O O O O O O O O O O O O O O O O O,"IN DT NNS TO CD , NNS IN DT NNP NN VBD DT NNS CC DT NN VBN IN JJ NNS ."
+"Annexed by the UK in 1857 , the Cocos Islands were transferred to the Australian Government in 1955 .",O O O B-org O B-tim O O B-org I-org O O O O B-gpe B-org O B-tim O,"VBN IN DT NNP IN CD , DT NNP NNP VBD VBN TO DT JJ NN IN CD ."
+The population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island .,O O O O O O O O O O O O O B-gpe O B-geo I-geo O O O B-geo O B-geo I-geo O,DT NN IN DT CD JJ NNS RB VBZ VBN IN DT JJ NNS IN NNP NNP CC DT JJ NNS IN NNP NNP .

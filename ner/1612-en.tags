@@ -1,0 +1,10 @@
+"A powerful storm has smashed apart Russian oil tanker anchored between the Black Sea and the Sea of Azov , creating what some experts are calling an environmental catastrophe .",O O O O O O B-gpe O O O O O B-org I-org O O B-org I-org I-org O O O O O O O O O O O,"DT JJ NN VBZ VBN RB JJ NN NN VBD IN DT NNP NNP CC DT NNP IN NNP , VBG WP DT NNS VBP VBG DT JJ NN ."
+"As much as 2,000 metric tons of fuel oil spilled into the Kerch Strait off Ukraine .",O O O O O O O O O O O O B-geo I-geo O B-geo O,RB RB IN CD JJ NNS IN NN NN VBD IN DT NNP NNP IN NNP .
+Some officials believe it could take several years to clean up .,O O O O O O B-tim O O O O O,DT NNS VBP PRP MD VB JJ NNS TO VB RP .
+The Volganeft-139 was anchored in the strait several kilometers from land to ride out the storm .,O O O O O O O O O O O O O O O O O,DT NNP VBD VBN IN DT NN JJ NNS IN NN TO VB RP DT NN .
+Huge waves split the tanker in two .,O O O O O O B-tim O,JJ NNS VBD DT NN IN CD .
+Thirteen crewmembers were rescued .,O O O O O,CD NNS VBD VBN .
+The storm also sank four other cargo ships - three of which were carrying sulfur .,O O O O O O O O O O O O O O O O,DT NN RB VBD CD JJ NN NNS IN CD IN WDT VBD VBG NN .
+At least eight people from the other ships are still missing .,O O O O O O O O O O O O,IN JJS CD NNS IN DT JJ NNS VBP RB VBG .
+The Kerch Strait is a major migration route for birds and is also home to porpoises .,O B-geo I-geo O O O O O O O O O O O O O O,DT NNP NNP VBZ DT JJ NN NN IN NNS CC VBZ RB NN TO NNS .
+Prosecutors have opened an investigation into possible criminal charges .,O O O O O O O O O O,NNS VBP VBN DT NN IN JJ JJ NNS .

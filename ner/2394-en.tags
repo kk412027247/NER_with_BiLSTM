@@ -1,0 +1,6 @@
+Democratic Party voters in Puerto Rico go to the polls on June 1 in the U.S. territory 's Presidential primary .,B-geo I-geo O O B-geo I-geo O O O O O B-tim I-tim O O B-geo O O O O O,NNP NNP NNS IN NNP NNP VBP TO DT NNS IN NNP CD IN DT NNP NN POS JJ NN .
+"Residents can not vote in the general election for U.S. president , despite being American citizens .",O O O O O O O O O B-geo O O O O B-gpe O O,"NNS MD RB VB IN DT JJ NN IN NNP NN , IN VBG JJ NNS ."
+But they can participate in primaries .,O O O O O O O,CC PRP MD VB IN NNS .
+One poll of Puerto Rican voters puts Senator Hillary Clinton ahead of Senator Barack Obama by more than 10 percent in the battle for the Democratic Party 's nomination .,O O O B-geo B-gpe O O B-per I-per I-per O O B-per B-org B-per O O O O O O O O O O B-geo I-geo O O O,CD NN IN NNP JJ NNS VBZ NNP NNP NNP RB IN NNP NNP NNP IN JJR IN CD NN IN DT NN IN DT NNP NNP POS NN .
+But the Caribbean island 's influence on American politics does not end there .,O O B-geo I-geo O O O B-gpe O O O O O O,CC DT NNP NN POS NN IN JJ NNS VBZ RB VB RB .
+"As Steve Mort reports from Florida , Puerto Ricans now make up an important voting bloc on the United States mainland .",O B-per I-per O O B-geo O B-geo I-geo O O O O O O O O O B-geo I-geo O O,"IN NNP NNP NNS IN NNP , NNP NNPS RB VBP RP DT JJ NN NN IN DT NNP NNPS NN ."

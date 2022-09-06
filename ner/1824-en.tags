@@ -1,0 +1,5 @@
+A strong earthquake has hit southern Iran .,O O O O O O B-geo O,DT JJ NN VBZ VBN JJ NNP .
+"Officials expect some damage , but there are no reports of casualties .",O O O O O O O O O O O O O,"NNS VBP DT NN , CC EX VBP DT NNS IN NNS ."
+"Iranian officials say the magnitude six quake was centered in a lightly-populated rural area north of Bandar Abbas , a major port on the Persian Gulf .",B-gpe O O O O O O O O O O O O O O O B-geo I-geo O O O O O O B-geo I-geo O,"JJ NNS VBP DT NN CD NN VBD VBN IN DT JJ JJ NN NN IN NNP NNP , DT JJ NN IN DT NNP NNP ."
+"Iran 's state-run news agency reported at least two aftershocks , the strongest measuring 4.8 magnitude .",B-geo O O O O O O O O O O O O O O O O,"NNP POS JJ NN NN VBD IN JJS CD NNS , DT JJS NN CD NN ."
+"Last November , a quake of 5.9 magnitude struck Qeshm island , south of Bandar Abbas , killing nine people and injuring scores of others .",O B-tim O O O O O O O B-geo O O O O B-geo I-geo O O O O O O O O O O,"JJ NNP , DT NN IN CD NN VBD NNP NN , NN IN NNP NNP , VBG CD NNS CC VBG NNS IN NNS ."

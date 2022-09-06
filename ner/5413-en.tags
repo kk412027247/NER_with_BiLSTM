@@ -1,0 +1,4 @@
+"All economic activity is concentrated on the largest island of Diego Garcia , where a joint UK-US military facility is located .",O O O O O O O O O O B-geo I-geo O O O O O O O O O O,"DT JJ NN VBZ VBN IN DT JJS NN IN NNP NNP , WRB DT JJ JJ JJ NN VBZ VBN ."
+"Construction projects and various services needed to support the military installation are performed by military and contract employees from the UK , Mauritius , the Philippines , and the US .",O O O O O O O O O O O O O O O O O O O O B-org O B-geo O O B-geo O O O B-org O,"NN NNS CC JJ NNS VBN TO VB DT JJ NN VBP VBN IN JJ CC NN NNS IN DT NNP , NNP , DT NNPS , CC DT NNP ."
+There are no industrial or agricultural activities on the islands .,O O O O O O O O O O O,EX VBP DT JJ CC JJ NNS IN DT NNS .
+The territory earns foreign exchange by selling fishing licenses and postage stamps .,O O O O O O O O O O O O O,DT NN VBZ JJ NN IN VBG NN NNS CC NN NNS .

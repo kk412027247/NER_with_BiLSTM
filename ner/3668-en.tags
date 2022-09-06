@@ -1,0 +1,9 @@
+"England 's national football ( soccer ) team has defeated Paraguay , 1-0 , in a Group-B World Cup match in Frankfurt , Germany .",B-geo O O O O O O O O O B-geo O B-geo O O O O O O O O B-geo O B-geo O,"NNP POS JJ NN LRB NN RRB NN VBZ VBN NNP , CD , IN DT NNP NNP NNP NN IN NNP , NNP ."
+An own-goal by Paraguayan team captain Carlos Gamarra in the fourth minute was all the scoring England needed .,O O O B-gpe O O B-per I-per O O O O O O O O B-geo O O,DT JJ IN JJ NN NN NNP NNP IN DT JJ NN VBD PDT DT VBG NNP VBD .
+David Beckham made a free kick from the left flank and Gamarra inadvertently headed the ball into his own net .,B-per I-per O O O O O O O O O B-per O O O O O O O O O,NNP NNP VBD DT JJ NN IN DT NN NN CC NNP RB VBD DT NN IN PRP$ JJ NN .
+England 's next match is Thursday against Trinidad and Tobago in Nuremberg .,B-geo O O O O B-tim O B-org I-org I-org O B-geo O,NNP POS JJ NN VBZ NNP IN NNP CC NNP IN NNP .
+Paraguay faces Sweden in Berlin on the same day .,B-geo O B-geo O B-geo O O O O O,NNP VBZ NNP IN NNP IN DT JJ NN .
+The Swedes and Trinidad and Tobago played to a scoreless draw in a Group-B match in Dortmund .,O B-gpe O B-org I-org I-org O O O O O O O O O O B-geo O,DT NNS CC NNP CC NNP VBD TO DT JJ NN IN DT NNP NN IN NNP .
+"The so-called "" Soca Warriors "" are making their first appearance in the tournament and held off Sweden despite being a man down .",O O O O O O O O O O O O O O O O O B-geo O O O O O O,DT JJ RQU NNP NNS LQU VBP VBG PRP$ JJ NN IN DT NN CC VBD RP NNP IN VBG DT NN RB .
+John Avery was sent off for a second yellow card shortly after halftime .,B-per I-per O O O O O O O O O O B-tim O,NNP NNP VBD VBN RP IN DT JJ JJ NN RB IN NN .
+Other action Saturday has two-time champion Argentina facing Ivory Coast in Hamburg in a Group-C match .,O O B-tim O O O B-geo O B-geo I-geo O B-geo O O O O O,JJ NN NNP VBZ JJ NN NNP VBG NNP NNP IN NNP IN DT NNP NN .

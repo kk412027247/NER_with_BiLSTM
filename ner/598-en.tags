@@ -1,0 +1,6 @@
+Leaders of 53 Commonwealth nations have gathered in the Mediterranean island of Malta for a summit .,O O O O O O O O O B-geo I-geo I-geo I-geo O O O O,NNS IN CD NNP NNS VBP VBN IN DT JJ NN IN NNP IN DT NN .
+The Commonwealth 's three-day biennial meeting is set to begin Friday .,O B-org O B-tim O O O O O O B-tim O,DT NNP POS JJ JJ NN VBZ VBN TO VB NNP .
+"Most , but not all , members of the Commonwealth were once part of the British Empire .",O O O O O O O O O B-org O O O O O B-gpe B-org O,"JJS , CC RB DT , NNS IN DT NNP VBD RB NN IN DT JJ NN ."
+"Member nations include developed countries such as Australia and Canada , developing nations including India and Pakistan , and island nations such as Vanuatu .",O O O O O O O B-geo O B-geo O O O O B-org I-org I-org O O O O O O B-geo O,"NNP NNS VBP JJ NNS JJ IN NNP CC NNP , VBG NNS VBG NNP CC NNP , CC NN NNS JJ IN NNP ."
+Almost one-third of the world 's population lives in Commonwealth member nations .,O O O O O O O O O B-org O O O,RB NN IN DT NN POS NN VBZ IN NNP NN NNS .
+"The Commonwealth says the group 's values include democracy , good governance , equality and economic development .",O B-org O O O O O O O O O O O O O O O O,"DT NNP VBZ DT NN POS NNS VBP NN , JJ NN , NN CC JJ NN ."

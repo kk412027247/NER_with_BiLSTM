@@ -1,0 +1,9 @@
+Ukraine is observing a national day of mourning for 89 people killed in the worst mining catastrophe in the country 's post-Soviet history .,B-org O O O O O O O O O O O O O O O O O O O O O O O,NNP VBZ VBG DT JJ NN IN VBG IN CD NNS VBN IN DT JJS NN NN IN DT NN POS JJ NN .
+"Flags decorated with black ribbons flew at half-staff Tuesday , as families of the coal miners gathered to bury the dead in and near the eastern industrial city of Donetsk .",O O O O O O O B-tim I-tim O O O O O O O O O O O O O O O O O O O O B-geo O,"NNS VBN IN JJ NNS VBD IN NN NNP , IN NNS IN DT NN NNS VBD TO VB DT NN IN CC IN DT JJ JJ NN IN NNP ."
+Rescue workers have pulled more than 350 people to safety following the coal mine explosion Sunday .,O O O O O O O O O O O O O O O B-tim O,NN NNS VBP VBN JJR IN CD NNS TO VB VBG DT NN NN NN NNP .
+Authorities say at least 11 miners are still missing from the Zasyadko mine .,O O O O O O O O O O O B-geo O O,NNS VBP IN JJS CD NNS VBP RB VBG IN DT NNP NN .
+"The methane gas explosion occurred 1,000 meters underground .",O O O O O O O O O,DT NN NN NN VBD CD NNS RB .
+A subsequent fire hampered rescue efforts .,O O O O O O O,DT JJ NN VBN NN NNS .
+Ukrainian President Viktor Yushchenko visited the area Monday and called on the mining ministry to develop new safety plans for 2008 .,B-gpe B-per I-per I-per O O O B-tim O O O O O O O O O O O O B-tim O,JJ NNP NNP NNP VBD DT NN NNP CC VBN IN DT NN NN TO VB JJ NN NNS IN CD .
+Prime Minister Viktor Yanukovych visited the mine in his native Russian-speaking region on Sunday .,B-per O B-per I-per O O O O O O O O O B-tim O,NNP NNP NNP NNP VBD DT NN IN PRP$ JJ JJ NN IN NNP .
+Russian President Vladimir Putin has sent his condolences to the victims ' families .,B-gpe B-per I-per I-per O O O O O O O O O O,JJ NNP NNP NNP VBZ VBN PRP$ NNS TO DT NNS POS NNS .

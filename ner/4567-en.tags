@@ -1,0 +1,6 @@
+The United Nations ' new envoy to Somalia has held his first talks with President Abdullah Yusuf and other officials in Mogadishu .,O B-org I-org O O O O B-geo O O O O O O B-per I-per I-per O O O O B-geo O,DT NNP NNPS POS JJ NN TO NNP VBZ VBN PRP$ JJ NNS IN NNP NNP NNP CC JJ NNS IN NNP .
+"Upon arriving in the capital , Ahmedou Ould Abdallah called the humanitarian and human rights situation in Somalia "" the worst on the continent . """,O O O O O O B-per I-per I-per O O O O O O O O B-geo O O O O O O O O,"IN VBG IN DT NN , NNP NNP NNP VBD DT JJ CC JJ NNS NN IN NNP LQU DT JJS IN DT NN . RQU"
+"Abdallah , a Mauritanian diplomat , was appointed to the post September 12 .",B-per O O O O O O O O O O B-tim I-tim O,"NNP , DT JJ NN , VBD VBN TO DT NN NNP CD ."
+"The envoy 's meeting with top leaders came as two explosions ripped through Mogadishu 's Bakara market , a site of frequent attacks in recent months .",O O O O O O O O O O O O O B-geo O B-geo O O O O O O O O O O O,"DT NN POS NN IN JJ NNS VBD IN CD NNS VBD IN NNP POS NNP NN , DT NN IN JJ NNS IN JJ NNS ."
+Both explosions went off as government forces drove through the area .,O O O O O O O O O O O O,DT NNS VBD RP IN NN NNS VBD IN DT NN .
+Witnesses say at least five police officers were wounded in one of the attacks .,O O O O O O O O O O O O O O O,NNS VBP IN JJS CD NNS NNS VBD VBN IN CD IN DT NNS .

@@ -1,0 +1,7 @@
+"A published report quotes Iraqi President Jalal Talabani as saying an immediate withdrawal of U.S. troops from Iraq would have "" catastrophic consequences "" for the region .",O O O O B-gpe B-per I-per I-per O O O O O O B-geo O O B-geo O O O O O O O O O O,DT VBN NN VBZ JJ NNP NNP NNP IN VBG DT JJ NN IN NNP NNS IN NNP MD VB RQU JJ NNS LQU IN DT NN .
+"In an interview published Tuesday in the French newspaper Le Figaro , President Talabani warned against a withdrawal of U.S.-led coalition forces at this time .",O O O O B-tim O O B-gpe O B-per I-per O B-per I-per O O O O O O O O O B-tim I-tim O,"IN DT NN VBN NNP IN DT JJ NN NNP NNP , NNP NNP VBD IN DT NN IN JJ NN NNS IN DT NN ."
+He says coalition forces will only withdraw when Iraqi forces are ready to maintain security on their own .,O O O O O O O O B-gpe O O O O O O O O O O,PRP VBZ NN NNS MD RB VB WRB JJ NNS VBP JJ TO VB NN IN PRP$ NN .
+President Talabani also says civil war can still be avoided in Iraq .,B-per I-per O O O O O O O O O B-geo O,NNP NNP RB VBZ JJ NN MD RB VB VBN IN NNP .
+He says Iraqi political leaders understand violence is not an option .,O O B-gpe O O O O O O O O O,PRP VBZ JJ JJ NNS VBP NN VBZ RB DT NN .
+Mr. Talabani is scheduled to arrive in Paris on Wednesday for his first official visit to France .,B-per I-per O O O O O B-geo O B-tim O O O O O O B-geo O,NNP NNP VBZ VBN TO VB IN NNP IN NNP IN PRP$ JJ JJ NN TO NNP .
+He is expected to hold talks with French President Jacques Chirac Thursday .,O O O O O O O B-gpe B-per I-per I-per B-tim O,PRP VBZ VBN TO VB NNS IN JJ NNP NNP NNP NNP .

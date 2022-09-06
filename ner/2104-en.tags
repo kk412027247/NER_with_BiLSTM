@@ -1,0 +1,5 @@
+"Bill was a frequent user of a pay telephone at a popular truck stop , and was greatly inconvenienced when the phone went out of commission .",B-per O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBD DT JJ NN IN DT NN NN IN DT JJ NN NN , CC VBD RB VBN WRB DT NN VBD IN IN NN ."
+Repeated requests for repair brought only promises .,O O O O O O O O,VBN NNS IN NN VBD RB NNS .
+"After several days , Bill again contacted the phone company and told that there was no longer a rush .",O B-tim O O B-per O O O O O O O O O O O O O O O,"IN JJ NNS , NNP RB VBD DT NN NN CC VBD IN EX VBD RB RB DT NN ."
+The phone was now working fine ... except that all money was being returned upon completion of each call .,O O O O O O O O O O O O O O O O O O O O,DT NN VBD RB VBG RB : IN IN DT NN VBD VBG VBN IN NN IN DT NN .
+A repairman arrived within the hour !,O O O O O O O,DT NN VBD IN DT NN .

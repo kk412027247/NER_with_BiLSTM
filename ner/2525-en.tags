@@ -1,0 +1,6 @@
+The U.S. Space Shuttle Atlantis has been moved from its launchpad to assess damage done to it by an intense storm last week .,O B-org O O O O O O O O O O O O O O O O O O O O O O,DT NNP NNP NNP NNP VBZ VBN VBN IN PRP$ NN TO VB NN VBN TO PRP IN DT JJ NN JJ NN .
+"A hailstorm caused more than 1,000 indentations in the foam insulation of the shuttle 's large external fuel tank .",O O O O O O O O O O O O O O O O O O O O,DT NN VBD JJR IN CD NNS IN DT NN NN IN DT NN POS JJ JJ NN NN .
+The 5.5-kilometer trip to the hanger took about seven hours Sunday .,O O O O O O O O O O B-tim O,DT JJ NN TO DT NN VBD RB CD NNS NNP .
+The NASA space agency says the up-close look will allow engineers to determine how long repairs will take .,O B-org O O O O O O O O O O O O O O O O O,DT NNP NN NN VBZ DT JJ NN MD VB NNS TO VB WRB JJ NNS MD VB .
+Atlantis had been scheduled for a March 15 launch for another construction mission to the International Space Station .,O O O O O O B-tim I-tim O O O O O O O B-org O O O,NNP VBD VBN VBN IN DT NNP CD NN IN DT NN NN TO DT NNP NNP NNP .
+NASA says the mission 's crew will continue to train in Houston as they await a new launch date .,B-org O O O O O O O O O O B-geo O O O O O O O O,NNP VBZ DT NN POS NN MD VB TO VB IN NNP IN PRP VBP DT JJ NN NN .

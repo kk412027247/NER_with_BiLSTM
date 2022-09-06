@@ -1,0 +1,6 @@
+The cuts announced Thursday would reduce the bankrupt airline 's workforce by 17 percent and help Delta save $ 3 billion .,O O O B-tim O O O O O O O O O O O O B-org O O O O O,DT NNS VBD NNP MD VB DT JJ NN POS NN IN CD NN CC VB NNP VB $ CD CD .
+"Delta is also cutting wages , starting with a 25 percent reduction for company chief executive Gerald Grinstein .",B-org O O O O O O O O O O O O O O O B-per I-per O,"NNP VBZ RB VBG NNS , VBG IN DT CD NN NN IN NN JJ NN NNP NNP ."
+Lower ranking employees face smaller cuts .,O O O O O O O,NNP JJ NNS VBP JJR NNS .
+"Delta is also cutting scores of aircraft from its fleet , and shifting some other flights from highly-competitive domestic routes to more-profitable overseas destinations .",B-org O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBZ RB VBG NNS IN NN IN PRP$ NN , CC VBG DT JJ NNS IN JJ JJ NNS TO JJ JJ NNS ."
+"The job cuts come atop 24,000 layoffs that have slashed Delta 's workforce since the 2001 terror attacks that hurt business for major airlines .",O O O O O O O O O O B-org O O B-tim O B-tim O O O O O O O O O,DT NN NNS VBP IN CD NNS WDT VBP VBN NNP POS NN IN DT CD NN NNS WDT VBP NN IN JJ NNS .
+They have been battling strong competition from budget-price carriers and soaring fuel prices ever since .,O O O O O O O O O O O O O O O O,PRP VBP VBN VBG JJ NN IN JJ NNS CC VBG NN NNS RB IN .

@@ -1,0 +1,5 @@
+Officials in Afghanistan say two NATO soldiers have been wounded in a bomb attack in the north of the country .,O O B-geo O O B-org O O O O O O O O O O O O O O O,NNS IN NNP VBP CD NNP NNS VBP VBN VBN IN DT NN NN IN DT NN IN DT NN .
+"The roadside blast hit a convoy of the NATO-led International Security Assistance Force Thursday in Baghlan province , 160 kilometers north of Kabul .",O O O O O O O O B-org I-org I-org I-org I-org B-tim O B-geo O O O O O O B-geo O,"DT NN NN VBD DT NN IN DT JJ NNP NNP NNP NNP NNP IN NNP NN , CD NNS RB IN NNP ."
+Local officials say two Dutch soldiers were wounded .,O O O O B-gpe O O O O,JJ NNS VBP CD JJ NNS VBD VBN .
+Taleban fighters have been involved in clashes with U.S. and Afghan government troops in the south and east of the country .,B-org O O O O O O O B-geo O B-gpe O O O O O O O O O O O,NNP NNS VBP VBN VBN IN NNS IN NNP CC JJ NN NNS IN DT NN CC NN IN DT NN .
+"Officials say some anti-government militants operate in the north , but attacks there are rare .",O O O O O O O O O O O O O O O O,"NNS VBP DT JJ NNS VBP IN DT NN , CC NNS EX VBP JJ ."

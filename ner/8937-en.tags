@@ -1,0 +1,7 @@
+"Police in South Korea have arrested a man and six women who they say used the Internet to buy and sell human eggs , in violation of the country 's bioethics law .",O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS IN NNP NNP VBP VBN DT NN CC CD NNS WP PRP VBP VBD DT NN TO VB CC VB JJ NNS , IN NN IN DT NN POS NNS NN ."
+Seoul police arrested the man Saturday .,B-org O O O O B-tim O,NNP NN VBN DT NN NNP .
+They say he is in his late 20s and identified him only as Kim .,O O O O O O O B-tim O O O O O B-geo O,PRP VBP PRP VBZ IN PRP$ JJ NNS CC VBD PRP RB IN NNP .
+"Police say the women sold or bought the eggs , using web sites created by Mr. Kim to arrange the deals .",O O O O O O O O O O O O O O O B-per B-geo O O O O O,"NNS VBP DT NNS VBD CC VBD DT NNS , VBG NN NNS VBN IN NNP NNP TO VB DT NNS ."
+Police said the deals involved thousands of dollars .,O O O O O O O O O,NNS VBD DT NNS VBN NNS IN NNS .
+"Under South Korean law , buyers and sellers of human eggs or sperm face up to three years in prison .",O B-geo B-gpe O O O O O O O O O O O O O O O O O O,"IN JJ JJ NN , NNS CC NNS IN JJ NNS CC NN VBP RP TO CD NNS IN NN ."
+The broker faces two years .,O O O B-tim O O,DT NN VBZ CD NNS .

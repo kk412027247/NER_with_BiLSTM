@@ -1,0 +1,7 @@
+An Iraqi member of al-Qaida has confessed to killing a Jordanian taxi driver and kidnapping two employees of Morocco 's embassy in Baghdad .,O B-gpe O O B-org O O O O O O O O O O O O O B-geo O O O B-geo O,DT JJ NN IN NNP VBZ VBN TO VBG DT JJ NN NN CC VBG CD NNS IN NNP POS NN IN NNP .
+The confession of Ziyad Khalaf Karbouli was broadcast Tuesday on Jordanian state TV .,O O O B-per I-per I-per O O B-tim O O O O O,DT NN IN NNP NNP NNP VBD VBN NNP IN JJ NN NN .
+Jordanian TV says Karbouli worked as a customs agent on the Iraqi side of the border with Jordan .,O B-org O B-per O O O O O O O B-gpe O O O O O B-gpe O,JJ NNP VBZ NNP VBD IN DT NNS NN IN DT JJ NN IN DT NN IN NNP .
+"In his confession , Karbouli described how he shot the Jordanian driver Khaled Desouki twice in the head .",O O O O B-per O O O O O O O B-per I-per O O O O O,"IN PRP$ NN , NNP VBD WRB PRP VBD DT JJ NN NNP NNP RB IN DT NN ."
+Karbouli says he kidnapped the two Moroccans last October as they returned to Iraq after visiting Amman .,B-org O O O O O B-gpe O B-tim O O O O B-geo O O B-org O,NNP VBZ PRP VBD DT CD NNS JJ NNP IN PRP VBD TO NNP IN VBG NNP .
+Jordanian TV credited the country 's intelligence service and its special forces with the capture without releasing details .,B-gpe O O O O O O O O O O O O O O O O O O,JJ NN VBD DT NN POS NN NN CC PRP$ JJ NNS IN DT NN IN VBG NNS .
+It is unclear whether the kidnapped Moroccans are still alive .,O O O O O O B-gpe O O O O,PRP VBZ JJ IN DT VBN NNS VBP RB JJ .

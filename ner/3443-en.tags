@@ -1,0 +1,4 @@
+Democratic Republic of Congo troops who are apparently upset over a pay dispute fired on a United Nations base in the country 's eastern region .,B-geo I-geo I-geo I-geo O O O O O O O O O O O O B-org I-org O O O O O O O O,NNP NNP IN NNP NNS WP VBP RB VBN IN DT NN NN VBN IN DT NNP NNP NN IN DT NN POS JJ NN .
+U.N. officials say 27 soldiers have been arrested for allegedly firing on a U.N. peacekeepers ' base in North Kivu province .,B-org O O O O O O O O O O O O B-org O O O O B-geo I-geo O O,NNP NNS VBP CD NNS VBP VBN VBN IN RB VBG IN DT NNP NNS POS NN IN NNP NNP NN .
+No casualties were reported .,O O O O O,DT NNS VBD VBN .
+United Nations officials say the Congolese troops are upset because they have not been paid for several months .,B-org I-org O O O B-gpe O O O O O O O O O O B-tim O O,NNP NNP NNS VBP DT JJ NNS VBP VBN IN PRP VBP RB VBN VBN IN JJ NNS .

@@ -1,0 +1,5 @@
+"A General Electric subsidiary in Brazil that provides maintenance to Brazil 's financially-troubled Vasp airline , is asking a local court to declare the carrier bankrupt .",O B-org I-org O O B-geo O O O O B-geo O O O O O O O O O O O O O O O O,"DT NNP NNP NN IN NNP WDT VBZ NN TO NNP POS JJ NNP NN , VBZ VBG DT JJ NN TO VB DT NN JJ ."
+"Celma , a subsidiary of the U.S. company , said Wednesday that Brazil 's fourth-largest airline owes it some $ 3.2 million .",B-geo O O O O O B-geo O O O B-tim O B-geo O O O O O O O O O O,"NNP , DT NN IN DT NNP NN , VBD NNP IN NNP POS JJ NN VBZ PRP DT $ CD CD ."
+"The announcement follows Vasp 's firing Tuesday of 380 of its more than 5,000 workers .",O O O O O O B-tim O O O O O O O O O,DT NN VBZ NNP POS NN NNP IN CD IN PRP$ JJR IN CD NNS .
+The airline also took six planes out of service recently .,O O O O O O O O O O O,DT NN RB VBD CD NNS IN IN NN RB .
+Vasp is one of several Brazilian airlines that have suffered financial troubles in recent years due to a drop in passenger demand .,O O O O O B-gpe O O O O O O O O O O O O O O O O O,NNP VBZ CD IN JJ JJ NNS WDT VBP VBN JJ NNS IN JJ NNS JJ TO DT NN IN NN NN .

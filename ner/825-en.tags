@@ -1,0 +1,7 @@
+Turkish media say police have thwarted a bomb attack in Istanbul by arresting a man carrying a bag filled with explosives .,B-gpe O O O O O O O O O B-geo O O O O O O O O O O O,JJ NNS VBP NNS VBP VBN DT NN NN IN NNP IN VBG DT NN VBG DT NN VBN IN NNS .
+Turkish news agencies say the man was detained Monday in central Istanbul 's Sisli district .,B-gpe O O O O O O O B-tim O O B-geo O B-geo O O,JJ NN NNS VBP DT NN VBD VBN NNP IN JJ NNP POS NNP NN .
+They say his bag contained three and a half kilograms of plastic explosives .,O O O O O O O O O O O O O O,PRP VBP PRP$ NN VBD CD CC DT NN NNS IN JJ NNS .
+The reports say police later arrested at least one other suspect .,O O O O O O O O O O O O,DT NNS VBP NNS RB VBN IN JJS CD JJ NN .
+There was no word on the intended target or identity of the suspected bomber .,O O O O O O O O O O O O O O O,EX VBD DT NN IN DT JJ NN CC NN IN DT JJ NN .
+"Turkish militants affiliated to Kurdish , leftist and Islamist groups have carried out bombings in major Turkish cities and resort towns in the past .",B-gpe O O O O O O O O O O O O O O O B-gpe O O O O O O O O,"JJ NNS VBN IN JJ , JJ CC JJ NNS VBP VBN RP NNS IN JJ JJ NNS CC NN NNS IN DT NN ."
+"In May , a member of a militant leftist group blew himself up in Istanbul , killing six people and wounding many others .",O B-tim O O O O O O O O O O O O B-geo O O O O O O O O O,"IN NNP , DT NN IN DT JJ JJ NN VBD PRP RP IN NNP , VBG CD NNS CC VBG JJ NNS ."

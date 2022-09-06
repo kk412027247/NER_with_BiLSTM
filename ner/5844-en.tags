@@ -1,0 +1,7 @@
+"The rector of the Grand Mosque of Paris , Dalil Boubakeur , has been re-elected as president of the French Council of the Muslim Faith .",O O O O B-geo I-geo I-geo I-geo O B-geo I-geo O O O O O O O O B-gpe B-org O O B-org I-org O,"DT NN IN DT NNP NNP IN NNP , NNP NNP , VBZ VBN VBN IN NN IN DT JJ NN IN DT NNP NNP ."
+The council officially represents Islam in relations with government bodies .,O O O O B-geo O O O O O O,DT NN RB VBZ NNP IN NNS IN NN NNS .
+France created the council two years ago to form a single point of contact with the Muslim community .,B-geo O O O B-tim O O O O O O O O O O O B-org O O,NNP VBD DT NN CD NNS RB TO VB DT JJ NN IN NN IN DT NNP NN .
+"Previously , there existed no single channel for communication between the government and French Muslims .",O O O O O O O O O O O O O B-gpe B-org O,"RB , EX VBD DT JJ NN IN NN IN DT NN CC JJ NNS ."
+"Islam is the second most professed faith in France , behind Roman Catholicism .",B-geo O O O O O O O B-geo O O B-per I-per O,"NNP VBZ DT JJ RBS JJ NN IN NNP , IN NNP NNP ."
+"In a congratulatory message to Mr. Boubakeur , French President Jacques Chirac praised the council for its spirit of dialog .",O O O O O B-per B-geo O B-gpe B-per I-per I-per O O O O O O O O O,"IN DT JJ NN TO NNP NNP , JJ NNP NNP NNP VBD DT NN IN PRP$ NN IN NN ."
+"Mr. Boubakeur , a moderate , will serve another two year term as president of the council .",B-per B-geo O O O O O O O B-tim O O O O O O O O,"NNP NNP , DT JJ , MD VB DT CD NN NN IN NN IN DT NN ."

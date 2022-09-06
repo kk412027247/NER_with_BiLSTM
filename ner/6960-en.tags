@@ -1,0 +1,8 @@
+"U.S. military officials say the United States will dispatch up to 1,500 Marines and a ship carrying 20 helicopters to Sri Lanka to help relief efforts in areas devastated by last Sunday 's tsunami .",B-geo O O O O B-geo I-geo O O O O O O O O O O O O O B-per B-gpe O O O O O O O O O B-tim O O O,NNP JJ NNS VBP DT NNP NNPS MD VB RP TO CD NNS CC DT NN VBG CD NNS TO NNP NNP TO VB NN NNS IN NNS VBN IN JJ NNP POS NN .
+"A U.S. spokesman in Colombo said the first contingent of 200 Marines will arrive in Sri Lanka shortly from a base in Okinawa , Japan .",O B-geo O O B-geo O O O O O O O O O O B-geo I-geo O O O O O B-geo O B-geo O,"DT NNP NN IN NNP VBD DT JJ NN IN CD NNS MD VB IN NNP NNP RB IN DT NN IN NNP , NNP ."
+He said the Marines will operate from an offshore platform south of the port city of Galle .,O O O B-org O O O O O O O O O O O O B-geo O,PRP VBD DT NNPS MD VB IN DT JJ NN NN IN DT JJ NN IN NNP .
+"Meanwhile , flash floods in eastern Sri Lanka are hampering relief efforts .",O O O O O O B-gpe I-gpe O O O O O,"RB , NN NNS IN JJ NNP NNP VBP VBG NN NNS ."
+Local officials say heavy rains forced the evacuation of thousands of people already affected by the tsunami .,O O O O O O O O O O O O O O O O O O,JJ NNS VBP JJ NNS VBD DT NN IN NNS IN NNS RB VBN IN DT NN .
+Aid convoys continue to have difficulty reaching some of the hardest-hit areas .,O O O O O O O O O O O O O,NNP NNS VBP TO VB NN VBG DT IN DT JJ NNS .
+Nearly one million Sri Lankans have been displaced and are living in temporary camps .,O O O B-org I-org O O O O O O O O O O,RB CD CD NNP NNPS VBP VBN VBN CC VBP VBG IN JJ NNS .
+"The nationwide death toll is approaching 29,000 .",O O O O O O O O,DT JJ NN NN VBZ VBG CD .

@@ -1,0 +1,4 @@
+America and Israel struck a deal to bolster each others Armies .,B-geo O B-geo O O O O O O O O O,NNP CC NNP VBD DT NN TO VB DT NNS NNS .
+The Israelis said they would like to exchange three generals for three generals .,O B-gpe O O O O O O O O O O O O,DT NNS VBD PRP MD VB TO VB CD NNS IN CD NNS .
+"The Americans agreed , stating they wanted an IDF General to teach tactics , an armor General to teach desert warfare , and a Mossad General to teach espionage .",O B-gpe O O O O O O B-org I-org O O O O O O B-per O O O O O O O B-org I-org O O O O,"DT NNS VBD , VBG PRP VBD DT NNP NNP TO VB NNS , DT NN NNP TO VB NN NN , CC DT NNP NNP TO VB NN ."
+"The Israelis replied and said they wanted General Electric , General Motors , and General Dynamics .",O B-gpe O O O O O B-org I-org O B-org I-org O O B-org I-org O,"DT NNS VBD CC VBD PRP VBD NNP NNP , NNP NNPS , CC NNP NNPS ."

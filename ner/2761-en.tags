@@ -1,0 +1,6 @@
+The chief of the Russian navy says his country is looking to establish a permanent naval base on the Mediterranean Sea .,O O O O B-gpe O O O O O O O O O O O O O O B-geo I-geo O,DT NN IN DT JJ NN VBZ PRP$ NN VBZ VBG TO VB DT JJ JJ NN IN DT NNP NNP .
+"Admiral Vladimir Masorin says the Mediterranean has the highest "" strategic importance "" for his country 's Black Sea fleet .",O B-per I-per O O B-geo O O O O O O O O O O O B-org I-org O O,NNP NNP NNP VBZ DT NNP VBZ DT JJS LQU JJ NN LQU IN PRP$ NN POS NNP NNP NN .
+"He says a "" permanent presence "" of the Russian navy must be restored in the region .",O O O O O O O O O B-gpe O O O O O O O O,PRP VBZ DT LQU JJ NN LQU IN DT JJ NN MD VB VBN IN DT NN .
+Masorin spoke Friday at the existing base of the Black Sea fleet in the Ukrainian port city of Sevastopol .,B-org O B-tim O O O O O O B-org I-org O O O B-gpe O O O B-geo O,NNP VBD NNP IN DT VBG NN IN DT NNP NNP NN IN DT JJ JJ NN IN NNP .
+"Earlier this year , Russian officials denied reports they were looking to build a military base in the Syrian port of Tartus .",O O O O B-gpe O O O O O O O O O O O O O B-gpe O O B-geo O,"RBR DT NN , JJ NNS VBD NNS PRP VBD VBG TO VB DT JJ NN IN DT JJ NN IN NNP ."
+Russia uses that port as a naval maintenance site .,B-geo O O O O O O O O O,NNP VBZ DT NN IN DT JJ NN NN .

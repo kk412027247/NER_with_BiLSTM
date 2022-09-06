@@ -1,0 +1,9 @@
+Sudan has approved the deployment of 105 armored personnel carriers to aid African Union peacekeeping forces in the war-torn western region of Darfur .,B-gpe O O O O O O O O O O O B-geo I-geo O O O O O O O O B-org O,NNP VBZ VBN DT NN IN CD JJ NNS NNS TO VB NNP NNP VBG NNS IN DT JJ JJ NN IN NNP .
+The Sudanese decision follows recent rebel attacks on AU peacekeepers in Darfur .,O B-gpe O O O O O O O O O B-org O,DT JJ NN VBZ JJ NN NNS IN NNP NNS IN NNP .
+"In one of the attacks , five AU soldiers and civilian personnel were killed when rebels with the Sudan Liberation Movement ambushed a convoy .",O O O O O O O O O O O O O O O O O O B-gpe B-per I-per O O O O,"IN CD IN DT NNS , CD NNP NNS CC JJ NNS VBD VBN WRB NNS IN DT NNP NNP NNP VBD DT NN ."
+"Separately , a faction of the rebel Justice and Equality Movement abducted and held hostage 38 AU personnel .",O O O O O O O B-org I-org I-org I-org O O O O O O O O,"RB , DT NN IN DT NN NNP CC NNP NNP VBD CC VBD NN CD NNP NNS ."
+They were later released .,O O O O O,PRP VBD RB VBN .
+The Canadian-donated armored personnel vehicles are expected to begin arriving on Friday .,O O O O O O O O O O O B-tim O,DT JJ JJ NNS NNS VBP VBN TO VB VBG IN NNP .
+Ongoing violence in Darfur has forced aid agencies to evacuate relief workers .,O O O B-org O O O O O O O O O,VBG NN IN NNP VBZ VBN NN NNS TO VB NN NNS .
+"Some 7,000 AU peacekeepers are in Darfur , where fighting between rebels and government-backed Arab militia has killed tens of thousands of people over the past two years .",O O O O O O B-geo O O O O O O O B-gpe O O O O O O O O O O B-tim I-tim O O,"DT CD NNP NNS VBP IN NNP , WRB VBG IN NNS CC JJ JJ NN VBZ VBN NNS IN NNS IN NNS IN DT JJ CD NNS ."
+More than two million others have been driven from their homes .,O O O O O O O O O O O O,JJR IN CD CD NNS VBP VBN VBN IN PRP$ NNS .

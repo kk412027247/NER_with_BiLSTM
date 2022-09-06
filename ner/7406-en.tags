@@ -1,0 +1,5 @@
+Three policemen have been shot dead near the Pakistani capital Islamabad .,O O O O O O O O B-gpe O O O,CD NNS VBP VBN VBN JJ IN DT JJ NN NN .
+A police spokesman said the bodies of the dead men were discovered early Sunday .,O O O O O O O O O O O O O B-tim O,DT NN NN VBD DT NNS IN DT JJ NNS VBD VBN JJ NNP .
+"He said the men were apparently shot in their sleep , each by a single bullet to the head .",O O O O O O O O O O O O O O O O O O O O,"PRP VBD DT NNS VBD RB VBN IN PRP$ NN , DT IN DT JJ NN TO DT NN ."
+"The men were guarding a railway bridge in Hasan Abdal , a town 40 kilometers west of Islamabad .",O O O O O O O O B-geo I-geo O O O O O O O B-geo O,"DT NNS VBD VBG DT NN NN IN NNP NNP , DT NN CD NNS NN IN NNP ."
+"The police spokesman refused to comment on whether the slayings were a criminal act or an attack linked to the Taliban , who frequently target police and security forces .",O O O O O O O O O O O O O O O O O O O O B-org O O O O O O O O O,"DT NN NN VBD TO VB IN IN DT NNS VBD DT JJ NN CC DT NN VBN TO DT NNP , WP RB VBP NN CC NN NNS ."

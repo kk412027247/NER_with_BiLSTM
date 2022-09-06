@@ -1,0 +1,8 @@
+"Voting has begun in Venezuela 's congressional elections , amid calls for a boycott by opponents of President Hugo Chavez .",O O O O B-geo O O O O O O O O O O O O B-per I-per I-per O,"NN VBZ VBN IN NNP POS JJ NNS , IN NNS IN DT NN IN NNS IN NNP NNP NNP ."
+"Five opposition groups are not taking part in the vote , saying the country 's electoral council is biased in favor of the president .",O O O O O O O O O O O O O O O O O O O O O O O O O,"CD NN NNS VBP RB VBG NN IN DT NN , VBG DT NN POS JJ NN VBZ VBN IN NN IN DT NN ."
+The boycott makes it likely that pro-Chavez candidates will win two-thirds of the seats in the National Assembly .,O O O O O O O O O O O O O O O O B-geo I-geo O,DT NN VBZ PRP JJ IN JJ NNS MD VB NNS IN DT NNS IN DT NNP NNP .
+"Analysts say with such a majority , pro-Chavez lawmakers could rewrite portions of the constitution , such as the clause that sets presidential term limits .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP IN JJ DT NN , JJ NNS MD VB NNS IN DT NN , JJ IN DT NN WDT VBZ JJ NN NNS ."
+"Mr. Chavez has said the boycott is a U.S.-backed "" conspiracy "" against his government .",B-per I-per O O O O O O O O O O O O O O,NNP NNP VBZ VBN DT NN VBZ DT JJ LQU NN RQU IN PRP$ NN .
+The U.S. State Department has repeatedly denied the accusations .,O B-org I-org I-org O O O O O O,DT NNP NNP NNP VBZ RB VBN DT NNS .
+The Venezuelan government has deployed thousands of soldiers around the country to maintain order during the vote .,O B-gpe O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN NNS IN NNS IN DT NN TO VB NN IN DT NN .
+Small explosions injured three people in the Caracas area on Friday .,O O O O O O O B-geo O O B-tim O,JJ NNS VBD CD NNS IN DT NNP NN IN NNP .

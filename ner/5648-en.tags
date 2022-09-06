@@ -1,0 +1,8 @@
+U.S. Republicans say the country 's health care costs could be lowered by cutting down on lawsuits and allowing people to buy health insurance plans across state lines .,B-org O O O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP NNS VBP DT NN POS NN NN NNS MD VB VBN IN VBG RP IN NNS CC VBG NNS TO VB NN NN NNS IN NN NNS .
+"Giving the Republican Party 's weekly Saturday radio and Internet address , Illinois Congressman Mark Kirk said his party 's suggested reforms are "" common sense . """,O O B-org I-org O B-tim I-tim O O O O O B-org I-org B-per I-per O O O O O O O O O O O O,"VBG DT NNP NNP POS JJ NNP NN CC NN NN , NNP NNP NNP NNP VBD PRP$ NN POS JJ NNS VBP LQU JJ NN . LQU"
+He said he regrets their health care reform bill was rejected .,O O O O O O O O O O O O,PRP VBD PRP VBZ PRP$ NN NN NN NN VBD VBN .
+"Kirk said the Democrats ' plan is "" a new massive spending program , "" when the national debt already "" tops $ 12 trillion . """,B-per O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBD DT NNPS POS NN VBZ LQU DT JJ JJ NN NN , LQU WRB DT JJ NN RB LQU VBZ $ CD CD . LQU"
+"Last week , Democrats in the House of Representatives passed their plan .",O O O O O O B-org I-org I-org O O O O,"JJ NN , NNPS IN DT NNP IN NNPS VBD PRP$ NN ."
+It includes a government-run option for health insurance and extends coverage to an additional 36 million people .,O O O O O O O O O O O O O O O O O O,PRP VBZ DT JJ NN IN NN NN CC VBZ NN TO DT JJ CD CD NNS .
+The government estimates the new bill would cost about $ 1.2 trillion over 10 years .,O O O O O O O O O O O O B-tim I-tim O O,DT NN VBZ DT JJ NN MD VB IN $ CD CD IN CD NNS .
+The U.S. Senate has yet to pass health care legislation .,O B-org I-org O O O O O O O O,DT NNP NNP VBZ RB TO VB NN NN NN .

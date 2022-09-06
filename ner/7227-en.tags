@@ -1,0 +1,7 @@
+"Afghan officials say two separate accidental explosions killed four children and three police officers in the capital , Kabul , Monday .",B-gpe O O O O O O O O O O O O O O O O O B-org O B-tim O,"JJ NNS VBP CD JJ JJ NNS VBD CD NNS CC CD NNS NNS IN DT NN , NNP , NNP ."
+"In the first incident , authorities said a group of children was playing with an old artillery shell when it exploded .",O O O O O O O O O O O O O O O O O O O O O O,"IN DT JJ NN , NNS VBD DT NN IN NNS VBD VBG IN DT JJ NN NN WRB PRP VBD ."
+The blast killed four of the children .,O O O O O O O O,DT NN VBD CD IN DT NNS .
+Afghanistan remains littered with unexploded munitions and landmines after decades of war .,B-gpe O O O O O O O O O O O O,NNP VBZ VBN IN JJ NNS CC NNS IN NNS IN NN .
+The second blast happened as a group of police officers was preparing for a mission .,O O O O O O O O O O O O O O O O,DT JJ NN VBD IN DT NN IN NN NNS VBD VBG IN DT NN .
+A spokesman for the Interior Ministry said one of the officers accidentally dropped a rocket-propelled grenade .,O O O O B-org I-org O O O O O O O O O O O,DT NN IN DT NNP NNP VBD CD IN DT NNS RB VBD DT JJ NN .
+The explosion killed three officers .,O O O O O O,DT NN VBD CD NNS .

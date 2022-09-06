@@ -1,0 +1,4 @@
+The look of the future has preoccupied philosophers and designers for centuries .,O O O O O O O O O O O O O,DT NN IN DT NN VBZ VBN NNS CC NNS IN NNS .
+"One company in Belgium , Living Tomorrow , is trying to make the future more tangible by bringing together innovative product designers and high-tech companies .",O O O B-geo O B-org I-org O O O O O O O O O O O O O O O O O O O,"CD NN IN NNP , NNP NNP , VBZ VBG TO VB DT NN RBR JJ IN VBG RB JJ NN NNS CC JJ NNS ."
+"The result is the House of the Future , which shows how life could be more comfortable , and more energy efficient , sometime in the future .",O O O O B-art I-art I-art I-art O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ DT NNP IN DT NN , WDT VBZ WRB NN MD VB RBR JJ , CC JJR NN NN , RB IN DT NN ."
+Nina-Maria Potts reports .,B-per I-per O O,NNP NNP VBZ .

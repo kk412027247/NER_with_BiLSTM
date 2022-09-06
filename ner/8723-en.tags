@@ -1,0 +1,4 @@
+"A lawyer charged a man $ 1,000 for legal services .",O O O O O O O O O O O,DT NN VBD DT NN $ CD IN JJ NNS .
+The man paid him in cash with crisp new $ 100 bills .,O O O O O O O O O O O O O,DT NN VBD PRP IN NN IN JJ JJ $ CD NNS .
+"After the client left , the lawyer discovered that two bills had stuck together -- he 'd been overpaid by $ 100 .",O O O O O O O O O O O O O O O O O O O O O O O,"IN DT NN VBD , DT NN VBD IN CD NNS VBD VBN RB : PRP VBD VBN VBN IN $ CD ."
+The ethical dilemma for the lawyer : Should he tell his partner ?,O O O O O O O O O O O O O,DT JJ NN IN DT NN : MD PRP VB PRP$ NN .

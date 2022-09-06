@@ -1,0 +1,9 @@
+A court in central Russia has convicted a scientist on charges of illegally selling technology abroad that authorities say could be used in weapons .,O O O O B-geo O O O O O O O O O O O O O O O O O O O O,DT NN IN JJ NNP VBZ VBN DT NN IN NNS IN RB VBG NN RB IN NNS VBP MD VB VBN IN NNS .
+The Bashkortostan Supreme Court sentenced academic Oskar Kaibyshev Tuesday to a six-year suspended prison term .,O B-org I-org I-org O O B-per I-per B-tim O O O O O O O,DT NNP NNP NNP VBD JJ NNP NNP NNP TO DT JJ JJ NN NN .
+"It also fined him $ 130,000 and barred him from heading research teams for the next three years .",O O O O O O O O O O O O O O O O B-tim O O,PRP RB VBD PRP $ CD CC VBD PRP IN VBG NN NNS IN DT JJ CD NNS .
+The 67-year-old Kaibyshev has steadfastly maintained his innocence .,O O B-per O O O O O O,DT JJ NNP VBZ RB VBN PRP$ NN .
+He claimed the technology developed at a research institute that he headed had already been patented in the United States and other countries .,O O O O O O O O O O O O O O O O O O B-geo I-geo O O O O,PRP VBD DT NN VBN IN DT NN NN IN PRP VBD VBD RB VBN VBN IN DT NNP NNPS CC JJ NNS .
+Defense lawyers say they will appeal .,O O O O O O O,NN NNS VBP PRP MD VB .
+Russia 's Interfax news agency quotes veteran human rights activist Lyudmila Alekseyeva as saying she is grateful for Kaibyshev 's suspended sentence .,B-geo O B-org O O O O O O O B-per I-per O O O O O O B-per O O O O,NNP POS NNP NN NN VBZ JJ JJ NNS NN NNP NNP IN VBG PRP VBZ JJ IN NNP POS JJ NN .
+"However , she called the verdict "" outrageous . """,O O O O O O O O O O,"RB , PRP VBD DT NN LQU JJ . RQU"
+She said she believes that Russian security officials framed the scientist .,O O O O O B-gpe O O O O O O,PRP VBD PRP VBZ IN JJ NN NNS VBD DT NN .

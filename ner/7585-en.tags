@@ -1,0 +1,7 @@
+"Health experts say tests have confirmed a new outbreak of deadly Ebola virus in the Republic of Congo , killing nine people .",O O O O O O O O O O O B-geo O O B-geo I-geo I-geo I-geo O O O O O,"NNP NNS VBP NNS VBP VBN DT JJ NN IN JJ NNP NN IN DT NNP IN NNP , VBG CD NNS ."
+"World Health Organization representative Doctor Alzouma Yada Adamou said Wednesday two others have been diagnosed with Ebola in the northwestern Cuvette region of Congo , near the border with Gabon .",O O O O O B-org I-org I-org O B-tim O O O O O O B-geo O B-geo I-geo I-geo O O B-geo O O O O O B-org O,"NNP NNP NNP NN NNP NNP NNP NNP VBD NNP CD NNS VBP VBN VBN IN NNP IN DT JJ NNP NN IN NNP , IN DT NN IN NNP ."
+He said a total of 11 cases have been reported this month .,O O O O O O O O O O O O O,PRP VBD DT NN IN CD NNS VBP VBN VBN DT NN .
+"In 2003 , more than 120 people died of the highly contagious disease in the same area .",O B-tim O O O O O O O O O O O O O O O O,"IN CD , JJR IN CD NNS VBD IN DT RB JJ NN IN DT JJ NN ."
+"Ebola , a hemorrhagic fever , causes rapid death through internal and external bleeding .",B-geo O O O O O O O O O O O O O O,"NNP , DT JJ NN , VBZ JJ NN IN JJ CC JJ NN ."
+"The World Heath Organization says the disease kills between 50 and 90 percent of victims , depending on the strain .",O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NNP VBZ DT NN VBZ IN CD CC CD NN IN NNS , VBG IN DT NN ."
+Scientists believe outbreaks are caused by people eating infected bush meat .,O O O O O O O O O O O O,NNS VBP NNS VBP VBN IN NNS VBG VBN NN NN .

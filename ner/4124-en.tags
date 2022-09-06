@@ -1,0 +1,8 @@
+The European Union is condemning Ethiopia 's decision to expel two EU diplomats .,O B-org I-org O O B-geo O O O O O B-org O O,DT NNP NNP VBZ VBG NNP POS NN TO VB CD NNP NNS .
+EU Development Commissioner Louis Michel told reporters in Brussels Friday that no reason has been given for the expulsion .,B-org I-org I-org B-per I-per O O O B-geo B-tim O O O O O O O O O O,NNP NNP NNP NNP NNP VBD NNS IN NNP NNP IN DT NN VBZ VBN VBN IN DT NN .
+"He called the situation "" unacceptable "" and said he has asked the Ethiopian ambassador to provide an explanation .",O O O O O O O O O O O O O B-gpe O O O O O O,PRP VBD DT NN LQU JJ RQU CC VBD PRP VBZ VBN DT JJ NN TO VB DT NN .
+It is not clear if the diplomats have already been deported .,O O O O O O O O O O O O,PRP VBZ RB JJ IN DT NNS VBP RB VBN VBN .
+"Ethiopian state-run television Thursday reported that police detained two foreign diplomats in the south , near the Kenyan border .",B-gpe O O B-tim O O O O O O O O O B-geo O O O B-gpe O O,"JJ JJ NN NNP VBD IN NNS VBD CD JJ NNS IN DT NN , IN DT JJ NN ."
+The report said the diplomats are accused of trying to smuggle alleged Ethiopian criminals into Kenya .,O O O O O O O O O O O O B-gpe O O B-geo O,DT NN VBD DT NNS VBP VBN IN VBG TO VB JJ JJ NNS IN NNP .
+The European Union is one of Ethiopia 's largest aid donors .,O B-org I-org O O O B-geo O O O O O,DT NNP NNP VBZ CD IN NNP POS JJS NN NNS .
+"However , EU officials have been critical of the government 's crackdown of opposition leaders and journalists .",O O B-org O O O O O O O O O O O O O O O,"RB , NNP NNS VBP VBN JJ IN DT NN POS NN IN NN NNS CC NNS ."

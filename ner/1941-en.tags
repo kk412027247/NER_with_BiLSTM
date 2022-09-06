@@ -1,0 +1,7 @@
+A key U.S. congressional panel has approved legislation to reform the American health care system .,O O B-geo O O O O O O O O B-gpe O O O O,DT JJ NNP JJ NN VBZ VBN NN TO VB DT JJ NN NN NN .
+The House of Representatives ' Energy and Commerce committee voted 31 to 28 late Friday to back a measure aimed at extending health insurance to Americans not now covered .,B-org I-org I-org I-org I-org I-org I-org I-org O O O O B-tim O B-tim O O O O O O O O O O B-gpe O O O O,DT NNP IN NNP POS NNP CC NNP NN VBD CD TO CD JJ NNP TO VB DT NN VBN IN VBG NN NN TO NNS RB RB VBN .
+Congress is about to adjourn for an August recess .,B-org O O O O O O B-tim O O,NNP VBZ IN TO VB IN DT NNP NN .
+"But now that the committee has approved the bill , it can move to the full House as early as September .",O O O O O O O O O O O O O O O O B-org O O O B-tim O,"CC RB IN DT NN VBZ VBN DT NN , PRP MD VB TO DT JJ NNP RB RB IN NNP ."
+A major part of the legislation involves creating a public health insurance plan .,O O O O O O O O O O O O O O,DT JJ NN IN DT NN VBZ VBG DT JJ NN NN NN .
+House Speaker Nancy Pelosi - a Democrat - says the changes will stop the insurance industry from coming between doctors and patients .,B-per I-per I-per I-per O O O O O O O O O O O O O O O O O O O,NNP NNP NNP NNP IN DT NNP : VBZ DT NNS MD VB DT NN NN IN VBG IN NNS CC NNS .
+But minority Republicans say the proposal costs too much and is the first step toward a government takeover of health care .,O O O O O O O O O O O O O O O O O O O O O O,CC NN NNS VBP DT NN VBZ RB JJ CC VBZ DT JJ NN IN DT NN NN IN NN NN .

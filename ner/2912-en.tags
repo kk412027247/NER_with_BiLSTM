@@ -1,0 +1,5 @@
+"World oil prices hit new record highs Wednesday , as experts worried about production problems that could disrupt output .",O O O O O O O B-tim O O O O O O O O O O O O,"NNP NN NNS VBD JJ NN NNS NNP , IN NNS VBD IN NN NNS WDT MD VB NN ."
+Those concerns include refinery breakdowns and a worse-than-usual hurricane season that could threaten vital offshore wells .,O O O O O O O O O O O O O O O O O,DT NNS VBP NN NNS CC DT JJ NN NN WDT MD VB JJ JJ NNS .
+The production problems come as traders say there is robust demand for oil from growing economies .,O O O O O O O O O O O O O O O O O,DT NN NNS VBP IN NNS VBP EX VBZ JJ NN IN NN IN VBG NNS .
+"In New York , the price of crude oil for September delivery went as high as $ 62.47 a barrel .",O B-geo I-geo O O O O O O O B-tim O O O O O O O O O O,"IN NNP NNP , DT NN IN JJ NN IN NNP NN VBD RB JJ IN $ CD DT NN ."
+London 's benchmark Brent contract also hit a new record high of $ 61.25 .,B-geo O O B-per O O O O O O O O O O O,NNP POS JJ NNP NN RB VBD DT JJ NN NN IN $ CD .

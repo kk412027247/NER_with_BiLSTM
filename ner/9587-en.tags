@@ -1,0 +1,8 @@
+Argentina 's President Cristina Fernandez de Kirchner and Russian Prime Minister Vladimir Putin have held talks in Moscow focusing on trade and economic relations .,B-gpe O B-per I-per I-per I-per I-per O B-gpe O O B-per I-per O O O O B-geo O O O O O O O,NNP POS NNP NNP NNP NNP NNP CC JJ JJ NN NNP NNP VBP VBN NNS IN NNP VBG IN NN CC JJ NNS .
+Mr. Putin Tuesday praised the economic ties between the two countries as he welcomed the Argentine leader .,B-per I-per B-tim O O O O O O O O O O O O B-gpe O O,NNP NNP NNP VBD DT JJ NNS IN DT CD NNS IN PRP VBD DT JJ NN .
+"He said the two countries could cooperate in atomic energy , space and high-technology .",O O O O O O O O O O O O O O O,"PRP VBD DT CD NNS MD VB IN JJ NN , NN CC NN ."
+The Argentine leader expressed support for easing visa restrictions between the two countries .,O B-gpe O O O O O O O O O O O O,DT JJ NN VBD NN IN VBG NN NNS IN DT CD NNS .
+President Fernandez is heading a delegation of some 100 Argentine business leaders during her two-day visit .,B-per I-per O O O O O O O B-gpe O O O O B-tim O O,NNP NNP VBZ VBG DT NN IN DT CD JJ NN NNS IN PRP$ JJ NN .
+The Argentine leader is to meet with Russian President Dmitri Medvedev on Wednesday .,O B-gpe O O O O O B-gpe B-per I-per I-per O B-tim O,DT JJ NN VBZ TO VB IN JJ NNP NNP NNP IN NNP .
+Officials of the two countries will sign a statement on strategic partnership and a number of other documents on bilateral cooperation .,O O O O O O O O O O O O O O O O O O O O O O,NNS IN DT CD NNS MD VB DT NN IN JJ NN CC DT NN IN JJ NNS IN JJ NN .
+This is the first visit to Russia by an Argentine leader in 10 years .,O O O O O O B-geo O O B-gpe O O B-tim O O,DT VBZ DT JJ NN TO NNP IN DT JJ NN IN CD NNS .

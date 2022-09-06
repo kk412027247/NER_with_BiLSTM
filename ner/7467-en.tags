@@ -1,0 +1,4 @@
+"Cameroon officials say two separate train accidents have happened near the capital , Yaounde , killing at least nine people within a 24 hour period .",B-geo O O O O O O O O O O O O B-org O O O O O O O O B-tim I-tim I-tim O,"NNP NNS VBP CD JJ NN NNS VBP VBN IN DT NN , NNP , VBG IN JJS CD NNS IN DT CD NN NN ."
+"On Saturday , authorities say a train carrying 1,000 passengers derailed north of the city , killing at least seven people and injuring some 270 others .",O B-tim O O O O O O O O O O O O O O O O O O O O O O O O O,"IN NNP , NNS VBP DT NN VBG CD NNS VBD NN IN DT NN , VBG IN JJS CD NNS CC VBG DT CD NNS ."
+"On Friday , a train carrying gas exploded and killed two people south of the capital .",O B-tim O O O O O O O O O O O O O O O,"IN NNP , DT NN NN NN VBD CC VBD CD NNS RB IN DT NN ."
+Associated Press reports 100 have been injured .,B-org I-org O O O O O O,NNP NNP VBZ CD VBP VBN VBN .

@@ -1,0 +1,6 @@
+"Iraqi police say a suicide bomber has detonated explosives at a funeral procession , killing at least 10 people .",B-gpe O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP DT NN NN VBZ VBN NNS IN DT JJ NN , VBG IN JJS CD NNS ."
+The attack Sunday in the town of Tikrit also injured about 20 others .,O O B-tim O O O O B-org O O O O O O,DT NN NNP IN DT NN IN NNP RB VBD IN CD NNS .
+"In Baghdad , some 3,700 extra U.S. troops began patrolling the streets in an effort to reduce deadly sectarian violence in the Iraqi capital .",O B-geo O O O O B-geo O O O O O O O O O O O O O O O B-gpe O O,"IN NNP , DT CD JJ NNP NNS VBD VBG DT NNS IN DT NN TO VB JJ JJ NN IN DT JJ NN ."
+The reinforcements were assigned to mostly Sunni neighborhoods in western Baghdad after completing a mission in northern Iraq .,O O O O O O O O O B-geo I-geo O O O O O O B-geo O,DT NNS VBD VBN TO RB VB NNS IN JJ NNP IN VBG DT NN IN JJ NNP .
+Iraq has been engulfed in a wave of sectarian violence between Shi'ite and Sunni Arabs since the February bombing of a Shi'ite mosque in Samarra .,B-geo O O O O O O O O O O O O O B-gpe O O B-tim O O O O O O B-geo O,NNP VBZ VBN VBN IN DT NN IN JJ NN IN NNP CC NNP NNS IN DT NNP NN IN DT NNP NN IN NNP .
+"Authorities say the sectarian violence has displaced more than 180,000 people .",O O O O O O O O O O O O,NNS VBP DT JJ NN VBZ VBN JJR IN CD NNS .

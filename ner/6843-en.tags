@@ -1,0 +1,8 @@
+The International Committee of the Red Cross says one of its aid workers has been killed in Haiti .,O B-org I-org O O B-org I-org O O O O O O O O O O B-geo O,DT NNP NNP IN DT NNP NNP VBZ CD IN PRP$ NN NNS VBZ VBN VBN IN NNP .
+"In Geneva Friday , a spokesman for the aid agency said Joel Cauvin , a Haitian staff member , was found dead Thursday .",O B-tim I-tim O O O O O O O O B-per I-per O O B-gpe O O O O O O B-tim O,"IN NNP NNP , DT NN IN DT NN NN VBD NNP NNP , DT JJ NN NN , VBD VBN JJ NNP ."
+He said Mr. Cauvin was abducted Wednesday night near his home in Port-au-Prince .,O O B-per I-per O O B-tim I-tim O O O O O O,PRP VBD NNP NNP VBD VBN NNP NN IN PRP$ NN IN NN .
+The ICRC said it has no information that the killing was targeted at the agency .,B-org I-org O O O O O O O O O O O O O O,DT NNP VBD PRP VBZ DT NN IN DT NN VBD VBN IN DT NN .
+It said it will continue its humanitarian operations in Haiti .,O O O O O O O O O B-geo O,PRP VBD PRP MD VB PRP$ JJ NNS IN NNP .
+Political and gang violence has plagued the country since President Jean-Bertrand Arrested was ousted in February 2004 following an armed revolt .,O O O O O O O O O B-per I-per I-per O O O B-tim I-tim O O O O O,NN CC NN NN VBZ VBN DT NN IN NNP NNP NNP VBD VBN IN NNP CD VBG DT JJ NN .
+"Last week , the United Nations Security Council agreed to add another 1,000 soldiers and police to the peacekeeping mission ahead of elections later this year .",O O O O B-org I-org I-org I-org O O O O O O O O O O O O O O O B-tim O O O,"JJ NN , DT NNP NNP NNP NNP VBD TO VB DT CD NNS CC NNS TO DT VBG NN RB IN NNS RBR DT NN ."
+"That would bring the number of troops in Haiti to 7,500 .",O O O O O O O O B-geo O O O,DT MD VB DT NN IN NNS IN NNP TO CD .

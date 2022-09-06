@@ -1,0 +1,8 @@
+"Ecuador 's state-run oil company , Petroecuador , has restored some operations that had been interrupted by six days of protests .",B-geo O O O O O B-per O O O O O O O O O O B-tim O B-tim I-tim O,"NNP POS JJ NN NN , NNP , VBZ VBN DT NNS WDT VBD VBN VBN IN CD NNS IN NNS ."
+"Company officials say production totaled around 33,000 barrels of crude oil per day on Saturday .",O O O O O O O O O O O O O O B-tim O,NN NNS VBP NN VBD IN CD NNS IN JJ NN IN NN IN NNP .
+"However , the rate was still far from the normal output of more than 200,000 barrels .",O O O O O O O O O O O O O O O O O,"RB , DT NN VBD RB RB IN DT JJ NN IN JJR IN CD NNS ."
+Army troops and police have been helping to restore order and oil production since the government declared a state of emergency in the Sucumbios and Orellana provinces .,B-org O O O O O O O O O O O O O O O O O O O O O O O O B-per O O,NNP NNS CC NNS VBP VBN VBG TO VB NN CC NN NN IN DT NN VBD DT NN IN NN IN DT NNS CC NNP NNS .
+Protesters there have been demanding new contract negotiations with foreign oil firms .,O O O O O O O O O O O O O,NNS EX VBP VBN VBG JJ NN NNS IN JJ NN NNS .
+They also have called for increased spending on infrastructure and social programs .,O O O O O O O O O O O O O,PRP RB VBP VBN IN JJ NN IN NN CC JJ NNS .
+The demonstrations forced Petroecuador to suspend production and the government to seek a temporary loan of oil from Venezuela to keep up exports .,O O O B-per O O O O O O O O O O O O O O B-geo O O O O O,DT NNS VBD NNP TO VB NN CC DT NN TO VB DT JJ NN IN NN IN NNP TO VB RP NNS .
+Most of Ecuador 's oil exports go to the United States .,O O B-geo O O O O O O B-geo I-geo O,JJS IN NNP POS NN NNS VBP TO DT NNP NNPS .

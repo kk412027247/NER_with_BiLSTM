@@ -1,0 +1,6 @@
+NATO said two U.S. soldiers have been killed in a bomb blast in southern Afghanistan .,B-org O O B-geo O O O O O O O O O B-geo I-geo O,NNP VBD CD NNP NNS VBP VBN VBN IN DT NN NN IN JJ NNP .
+The NATO-led force released no other details of the incident .,O O O O O O O O O O O,DT JJ NN VBN DT JJ NNS IN DT NN .
+The U.S. military confirmed the soldiers were American .,O B-geo O O O O O B-gpe O,DT NNP NN VBD DT NNS VBD JJ .
+July has been the deadliest month for international forces in Afghanistan since the Taliban-led government was ousted in 2001 .,B-tim O O O O O O O O O B-geo O O O O O O O B-tim O,NNP VBZ VBN DT JJS NN IN JJ NNS IN NNP IN DT JJ NN VBD VBN IN CD .
+"In recent weeks , 4,000 U.S. Marines , along with British and Afghan troops , have launched a major offensive in southern Afghanistan , targeting Taliban insurgents in their traditional strongholds .",O O O O O B-geo I-geo O O O B-gpe O B-gpe O O O O O O O O B-geo I-geo O O B-org O O O O O O,"IN JJ NNS , CD NNP NNPS , IN IN JJ CC JJ NNS , VBP VBN DT JJ NN IN JJ NNP , VBG NNP NNS IN PRP$ JJ NNS ."
+The operation is aimed at ensuring security ahead of Afghanistan 's presidential election next month .,O O O O O O O O O B-geo O O B-tim O O O,DT NN VBZ VBN IN VBG NN RB IN NNP POS JJ NN JJ NN .

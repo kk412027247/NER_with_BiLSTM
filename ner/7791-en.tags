@@ -1,0 +1,7 @@
+"Thousands of people in London 's Trafalgar Square protested Israel 's actions , while counter-protesters stationed themselves nearby to call out support for Israel .",O O O O B-geo O B-geo I-geo O B-geo O O O O O O O O O O O O O B-geo O,"NNS IN NNS IN NNP POS NNP NNP VBD NNP POS NNS , IN NNS VBD PRP JJ TO VB RP NN IN NNP ."
+"Thousands also marched in Brussels , Belgium , and in Madrid , Spain .",O O O O B-geo O B-geo O O O B-geo O B-geo O,"NNS RB VBD IN NNP , NNP , CC IN NNP , NNP ."
+The rallies were a continuation of the protests that took place a day earlier in cities worldwide .,O O O O O O O O O O O O B-tim O O O O O,DT NNS VBD DT NN IN DT NNS WDT VBD NN DT NN RBR IN NNS JJ .
+"Saturday , several thousand demonstrators in Washington gathered in a park across the street from the White House to protest Israel 's offensive against Gaza .",B-tim O O O O O B-geo O O O O O O O O O B-org I-org O O B-geo O O O B-geo O,"NNP , JJ CD NNS IN NNP VBD IN DT NN IN DT NN IN DT NNP NNP TO VB NNP POS NN IN NNP ."
+The protesters carried Palestinian flags and shouted slogans in support of the Palestinians in Gaza .,O O O B-gpe O O O O O O O O B-gpe O B-geo O,DT NNS VBD JJ NNS CC VBD NNS IN NN IN DT NNS IN NNP .
+"In France , tens of thousands of people took to the streets of the capital , Paris .",O B-geo O O O O O O O O O O O O O O B-geo O,"IN NNP , NNS IN NNS IN NNS VBD TO DT NNS IN DT NN , NNP ."
+Protests were also held in smaller cities around the country .,O O O O O O O O O O O,NNS VBD RB VBN IN JJR NNS IN DT NN .

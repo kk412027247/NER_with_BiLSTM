@@ -1,0 +1,8 @@
+A U.S. federal appeals court has upheld the convictions of three men who were sentenced for the 1998 bombings of two U.S. embassies in Africa .,O B-geo O O O O O O O O O O O O O O O B-tim I-tim I-tim I-tim B-geo O O B-geo O,DT NNP JJ NNS NN VBZ VBN DT NNS IN CD NNS WP VBD VBN IN DT CD NNS IN CD NNP NNS IN NNP .
+The Second U.S. Circuit Court of Appeals ruled Monday that the men did receive a fair trial .,O O B-org I-org I-org I-org I-org O B-tim O O O O O O O O O,DT JJ NNP NNP NNP IN NNP VBD NNP IN DT NNS VBD VB DT JJ NN .
+"Four men were convicted in 2001 for the August 7 , 1998 bombings of U.S. embassies in Nairobi , Kenya , and Dar es Salaam , Tanzania .",O O O O O B-tim O O B-tim I-tim I-tim I-tim O O B-geo O O B-geo O B-geo O O B-geo I-geo I-geo O B-geo O,"CD NNS VBD VBN IN CD IN DT NNP CD , CD NNS IN NNP NNS IN NNP , NNP , CC NNP NNP NNP , NNP ."
+The attacks killed 224 people - most of them Africans - and wounded thousands .,O O O O O O O O O B-gpe O O O O O,DT NNS VBD CD NNS IN JJS IN PRP NNS : CC VBN NNS .
+12 Americans also were killed .,O B-gpe O O O O,CD NNS RB VBD VBN .
+One of the four defendants later withdrew his appeal .,O O O O O O O O O O,CD IN DT CD NNS RB VBD PRP$ NN .
+The bombings are attributed to Osama bin Laden 's al-Qaida terrorist network .,O O O O O B-per I-per I-per O B-org O O O,DT NNS VBP VBN TO NNP NNP NNP POS NNP JJ NN .
+Bin Laden remains under indictment for the attacks .,B-per I-per O O O O O O O,NNP NNP VBZ IN NN IN DT NNS .

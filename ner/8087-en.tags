@@ -1,0 +1,8 @@
+"A remote-controlled bomb ripped through the vehicle of an influential pro-government figure in southern Afghanistan Friday , wounding several people and killing at least two others .",O O O O O O O O O O O O O B-geo I-geo B-tim O O O O O O O O O O O,"DT JJ NN VBD IN DT NN IN DT JJ NN NN IN JJ NNP NNP , VBG JJ NNS CC VBG IN JJS CD NNS ."
+"Tribal elder Mullah Naqib , as well as some of his family members and guards , were wounded in the blast as their vehicle crossed a bridge in Kandahar province .",O O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O O B-geo O O,"NNP NN NNP NNP , RB RB IN DT IN PRP$ NN NNS CC NNS , VBD VBN IN DT NN IN PRP$ NN VBD DT NN IN NNP NN ."
+Naqib also was a commander during the resistance to the Soviet occupation in the 1980s .,B-per O O O O O O O O O O O O O B-tim O,NNP RB VBD DT NN IN DT NN TO DT JJ NN IN DT NNS .
+Witnesses say two bystanders also were killed .,O O O O O O O O,NNS VBP CD NNS RB VBD VBN .
+"In separate news , authorities in northern Afghanistan say police Friday detained eight suspects in connection with Thursday 's killing of a German aid worker .",O O O O O O O B-geo O O B-tim O O O O O O B-tim O O O O B-gpe O O O,"IN JJ NN , NNS IN JJ NNP VBP NNS NNP VBD CD NNS IN NN IN NNP POS NN IN DT JJ NN NN ."
+It is not clear if the suspects were militants or bandits .,O O O O O O O O O O O O,PRP VBZ RB JJ IN DT NNS VBD NNS CC NNS .
+The foreign aid worker was killed when gunmen attacked his vehicle in Sari Pul province .,O O O O O O O O O O O O B-geo I-geo O O,DT JJ NN NN VBD VBN WRB NNS VBD PRP$ NN IN NNP NNP NN .
+The assailants robbed three Afghan nationals traveling with him .,O O O O B-gpe O O O O O,DT NNS VBN CD JJ NNS VBG IN PRP .

@@ -1,0 +1,8 @@
+Mauritania 's foreign minister says her country has broken diplomatic relations with Israel .,B-geo O O O O O O O O O O O B-geo O,NNP POS JJ NN VBZ PRP$ NN VBZ VBN JJ NNS IN NNP .
+"Speaking in the capital of Nouakchott late Saturday , Naha Mint Hamdi Ould Mouknass said Mauritania has cut ties with Israel in a "" complete and definitive way . """,O O O O O B-geo O B-tim O B-org I-org I-org I-org I-org O B-geo O O O O B-geo O O O O O O O O O,"VBG IN DT NN IN NNP JJ NNP , NNP NNP NNP NNP NNP VBD NNP VBZ VBN NNS IN NNP IN DT LQU JJ CC JJ NN . LQU"
+Mauritania was once one of three Arab states that had diplomatic relations with Israel .,B-geo O O O O O B-gpe O O O O O O B-geo O,NNP VBD RB CD IN CD JJ NNS WDT VBD JJ NNS IN NNP .
+It suspended the ties in January 2009 because of an Israeli offensive in the Gaza Strip .,O O O O O B-tim I-tim O O O B-gpe O O O B-geo I-geo O,PRP VBD DT NNS IN NNP CD IN IN DT JJ NN IN DT NNP NNP .
+"In March , the government expelled Israeli diplomats and ordered the closing of the Israeli embassy .",O B-tim O O O O B-gpe O O O O O O O B-gpe O O,"IN NNP , DT NN VBD JJ NNS CC VBD DT NN IN DT JJ NN ."
+"The 2009 Israeli offensive killed an estimated 1,300 Palestinians .",O B-tim B-gpe O O O O O B-gpe O,DT CD JJ NN VBD DT VBN CD NNS .
+Israel said it launched the offensive to protect itself against rocket attacks by the militant group Hamas .,B-geo O O O O O O O O O O O O O O O B-org O,NNP VBD PRP VBD DT NN TO VB PRP IN NN NNS IN DT JJ NN NNP .
+Mauritania 's move leaves Egypt and Jordan as the only Arab states to maintain relations with Israel .,B-geo O O O B-org O B-gpe O O O B-gpe O O O O O B-geo O,NNP POS NN VBZ NNP CC NNP IN DT JJ JJ NNS TO VB NNS IN NNP .

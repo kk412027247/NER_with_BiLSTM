@@ -1,0 +1,9 @@
+South African Wesley Moodie has reached the second round of the Legg Mason Tennis Classic in Washington .,B-org I-org I-org I-org O O O O O O O B-org I-org I-org I-org O B-geo O,NNP NNP NNP NNP VBZ VBN DT JJ NN IN DT NNP NNP NNP NNP IN NNP .
+"Moodie , ranked 86th in the world , needed four match points Monday to beat American Sam Querrey , 2-6 , 7-6 , 7-6 .",B-org O O B-tim O O O O O O O O B-tim O O B-gpe B-per I-per O O O O O O O,"NNP , VBD CD IN DT NN , VBD CD NN NNS NNP TO VB JJ NNP NNP , CD , CD , CD ."
+Moodie never managed a service break while Querrey fired 19 aces .,B-org O O O O O O B-per O O O O,NNP RB VBD DT NN NN IN NNP VBD CD NNS .
+But Moodie won 10-percent more of his first-serve points to claim just his fifth win this year .,O B-org O O O O O O O O O O O O O O O O,CC NNP VBD JJ JJR IN PRP$ JJ NNS TO VB RB PRP$ JJ NN DT NN .
+Moodie next faces French sixth-seed Sebastien Grosjean .,B-org O O B-gpe O B-per I-per O,NNP RB VBZ JJ JJ NNP NNP .
+"Kenneth Carlsen of Denmark advanced past Danai Udomchoke , 6-1 , 6-2 .",B-per I-per O B-geo O O B-per I-per O B-geo O B-geo O,"NNP NNP IN NNP VBD IN NNP NNP , CD , CD ."
+"Carlsen will face another Thai opponent , 43rd-ranked Paradorn Srichaphan , in the second round .",B-per O O O B-gpe O O O B-per I-per O O O O O O,"NNP MD VB DT JJ NN , JJ NNP NNP , IN DT JJ NN ."
+"American Kevin Kim ousted compatriot Scott Oudsema , 6-1 , 6-3 .",B-org B-per I-per O O B-per I-per O B-geo O B-geo O,"NNP NNP NNP VBD NN NNP NNP , CD , CD ."
+"Kim next plays top-seeded American James Blake , who was the runner-up last year to compatriot Andy Roddick .",B-per O O O B-org B-per I-per O O O O B-tim O O O O B-per I-per O,"NNP JJ NNS JJ NNP NNP NNP , WP VBD DT NN JJ NN TO VB NNP NNP ."

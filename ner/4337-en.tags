@@ -1,0 +1,7 @@
+An Associated Press correspondent left Ethiopia Sunday after getting an expulsion order from the government .,O B-org I-org O O B-tim I-tim O O O O O O O O O,DT NNP NNP NN VBD NNP NNP IN VBG DT NN NN IN DT NN .
+Anthony Mitchell was told by Ethiopian officials on Saturday he had 24 hours to leave the country .,B-per I-per O O O B-gpe O O B-tim O O O O O O O O O,NNP NNP VBD VBN IN JJ NNS IN NNP PRP VBD CD NNS TO VB DT NN .
+The news agency says attempts to appeal the order went unanswered .,O O O O O O O O O O O O,DT NN NN VBZ NNS TO VB DT NN VBD JJ .
+"In a statement , the Ethiopian government accused Mitchell of reporting information "" far from the truth "" and tarnishing the country 's image .",O O O O O B-gpe O O B-per O O O O O O O O O O O O O O O O,"IN DT NN , DT JJ NN VBD NNP IN VBG NN LQU RB IN DT NN LQU CC VBG DT NN POS NN ."
+"Associated Press managing editor Mike Silverman says the news agency will stand behind Mitchell , a British journalist he describes as aggressive and fair .",B-org I-org O O B-per I-per O O O O O O O B-per O O B-gpe O O O O O O O O,"NNP NNP NN NN NNP NNP VBZ DT NN NN MD VB IN NNP , DT JJ NN PRP VBZ IN JJ CC JJ ."
+"Ethiopia recently began a crackdown on the press and opposition groups , charging 129 people with treason and genocide .",O O O O O O O O O O O O O O O O O O O O,"NNP RB VBD DT NN IN DT NN CC NN NNS , VBG CD NNS IN NN CC NN ."
+Among those charged are five Voice of America journalists in Washington .,O O O O B-tim I-tim O B-geo O O B-geo O,IN DT VBN VBP CD NNP IN NNP NNS IN NNP .

@@ -1,0 +1,9 @@
+Pakistani authorities say a bomb blast at a Shi'ite mosque in the North West Frontier Province has killed four people and wounded at least three others .,B-gpe O O O O O O O B-org B-geo O B-geo I-geo I-geo I-geo I-geo O O O O O O O O O O O,JJ NNS VBP DT NN NN IN DT NNP NN IN DT NNP NNP NNP NNP VBZ VBN CD NNS CC VBN IN JJS CD NNS .
+Police say the bomb went off Monday as worshipers were leaving the mosque in Dera Ismail Khan after evening prayers .,O O O O O O B-tim O O O O O O O B-geo I-geo I-geo O B-tim O O,NNS VBP DT NN VBD RB NNP IN NNS VBD VBG DT NN IN NNP NNP NNP IN NN NNS .
+The bomb destroyed the mosque 's front wall and damaged its dome .,O O O O O O O O O O O O O,DT NN VBD DT NN POS NN NN CC VBD PRP$ NN .
+Police cordoned off the area as people searched the rubble for survivors .,O O O O O O O O O O O O O,NNS VBD RP DT NN IN NNS VBD DT NN IN NNS .
+No one has claimed responsibility for the attack .,O O O O O O O O O,DT NN VBZ VBN NN IN DT NN .
+Dera Ismail Khan has a history of sectarian violence .,B-geo I-geo I-geo O O O O O O O,NNP NNP NNP VBZ DT NN IN JJ NN .
+"Last month , gunmen killed at least six Shi'ite Muslims in two suspected sectarian attacks in the city .",O O O O O O O O B-geo I-geo O O O O O O O O O,"JJ NN , NNS VBD IN JJS CD NNP NNPS IN CD JJ JJ NNS IN DT NN ."
+Pakistan has a history of violence between the majority Sunni and minority Shi'ite Muslims .,B-geo O O O O O O O O B-geo O O B-geo I-geo O,NNP VBZ DT NN IN NN IN DT NN NNP CC NN NNP NNPS .
+"The communities generally coexist peacefully , but militants from both sides have attacked each other since the 1980s , killing thousands of people .",O O O O O O O O O O O O O O O O O B-tim O O O O O O,"DT NNS RB VBP RB , CC NNS IN DT NNS VBP VBN DT NN IN DT NNS , VBG NNS IN NNS ."

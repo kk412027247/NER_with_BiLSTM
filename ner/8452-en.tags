@@ -1,0 +1,7 @@
+Italian police say a parcel bomb was found Monday at the Greek embassy in Rome .,B-gpe O O O O O O O B-tim O O B-gpe O O B-geo O,JJ NNS VBP DT NN NN VBD VBN NNP IN DT JJ NN IN NNP .
+Police say the device failed to explode and was defused by bomb disposal experts .,O O O O O O O O O O O O O O O,NNS VBP DT NN VBD TO VB CC VBD VBN IN NN NN NNS .
+The bomb arrived just days after two similar packages exploded at the Chilean and Swiss embassies in the Italian capital .,O O O O O O O O O O O O B-gpe O B-gpe O O O B-gpe O O,DT NN VBD RB NNS IN CD JJ NNS VBD IN DT JJ CC JJ NNS IN DT JJ NN .
+Two staffers were wounded in those blasts .,O O O O O O O O,CD NNS VBD VBN IN DT NNS .
+"Members of an anarchist group claimed responsibility for last week 's parcel bombs , but there was no immediate claim for Monday 's attempt .",O O O O O O O O O O O O O O O O O O O O O B-tim O O O,"NNS IN DT NN NN VBD NN IN JJ NN POS NN NNS , CC EX VBD DT JJ NN IN NNP POS NN ."
+Police across much of Europe have been on heightened alert since a suicide bombing in Stockholm earlier this month killed the suspected bomber and wounded two others .,O O O O B-geo O O O O O O O O O O B-geo O O O O O O O O O O O O,NNS IN NN IN NNP VBP VBN IN JJ NN IN DT NN VBG IN NNP RBR DT NN VBD DT JJ NN CC VBD CD NNS .
+"Last week , 12 terror suspects were arrested in Britain .",O O O O O O O O O B-geo O,"JJ NN , CD NN NNS VBD VBN IN NNP ."

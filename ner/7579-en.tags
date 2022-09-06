@@ -1,0 +1,8 @@
+A police chief in western Iraq says the country began stationing thousands of extra security officers along Iraq 's border with Syria this week in an effort to keep out insurgents .,O O O O B-geo I-geo O O O O O O O O O O O B-geo O O O B-geo O O O O O O O O O O,DT NN NN IN JJ NNP VBZ DT NN VBD VBG NNS IN JJ NN NNS IN NNP POS NN IN NNP DT NN IN DT NN TO VB RP NNS .
+"The chief , Major-General Tariq Youssef , said Friday that Iraqi Prime Minister Nouri al-Maliki ordered the reinforcements , in the wake of August truck bombings in Baghdad that killed more than 100 people .",O O O O B-per I-per O O B-tim O B-gpe B-per I-per I-per I-per O O O O O O O O B-tim O O O B-geo O O O O O O O,"DT NN , NNP NNP NNP , VBD NNP IN JJ NNP NNP NNP NNP VBD DT NNS , IN DT NN IN NNP NN NNS IN NNP WDT VBD JJR IN CD NNS ."
+The Iraqi government has linked the blasts to Baathist sympathizers located in Syria .,O B-gpe O O O O O O B-org O O O B-geo O,DT JJ NN VBZ VBN DT NNS IN NNP NNS VBN IN NNP .
+Syria has demanded Iraqi authorities provide evidence to back up their allegations .,B-geo O O B-gpe O O O O O O O O O,NNP VBZ VBN JJ NNS VBP NN TO VB RP PRP$ NNS .
+Iraq has also demanded that Syria hand over two people that Baghdad suspects played a role in the attacks .,B-org O O O O B-geo O O O O O B-geo O O O O O O O O,NNP VBZ RB VBN IN NNP VB RB CD NNS IN NNP VBZ VBD DT NN IN DT NNS .
+"Syria has refused , demanding proof .",B-org O O O O O O,"NNP VBZ VBN , VBG NN ."
+The bombings have soured relations between Iraq and Syria .,O O O O O O B-geo O B-geo O,DT NNS VBP VBN NNS IN NNP CC NNP .
+Turkey has been holding talks aimed at defusing tensions between the two countries .,B-org O O O O O O O O O O O O O,NNP VBZ VBN VBG NNS VBN IN VBG NNS IN DT CD NNS .

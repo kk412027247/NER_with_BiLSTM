@@ -1,0 +1,5 @@
+"Most Asian stock markets are closed Thursday , for the Christmas holidays .",O O O O O O B-tim O O O B-tim O O,"JJS JJ NN NNS VBP JJ NNP , IN DT NNP NNS ."
+"Tokyo 's Nikkei index rose 82 points , nearly one percent , to finish at 8,599 .",B-geo O B-geo O O O O O O O O O O O O O O,"NNP POS NNP NN VBD CD NNS , RB CD NN , TO VB IN CD ."
+"Share prices closed lower in Shanghai and Taipei , but ended higher in Bangkok .",O O O O O B-geo O B-geo O O O O O B-geo O,"NN NNS VBD JJR IN NNP CC NNP , CC VBD JJR IN NNP ."
+"Markets are closed in Hong Kong , Jakarta , Manila , Mumbai , Seoul , Sydney and Wellington .",O O O O B-geo I-geo O B-geo O B-geo O B-geo O B-geo O B-geo O B-geo O,"NNS VBP VBN IN NNP NNP , NNP , NNP , NNP , NNP , NNP CC NNP ."
+"In currency trading , the dollar was selling at 90.41 yen , down 0.5 yen from Wednesday .",O O O O O O O O O O O O O O O B-tim I-tim O,"IN NN NN , DT NN VBD VBG IN CD NNS , RB CD NN IN NNP ."

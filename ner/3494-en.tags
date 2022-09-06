@@ -1,0 +1,7 @@
+Iraqi police say a string of bomb attacks in Baghdad killed at least 27 people and wounded scores more Thursday .,B-gpe O O O O O O O O B-geo O O O O O O O O O B-tim O,JJ NNS VBP DT NN IN NN NNS IN NNP VBD IN JJS CD NNS CC VBD NNS RBR NNP .
+"Police say a car bomb in eastern Baghdad killed at least five people , while seven died in another car bombing in a largely Shi'ite neighborhood in northwestern Baghdad .",O O O O O O O B-geo O O O O O O O O O O O O O O O O O O O O B-geo O,"NNS VBP DT NN NN IN JJ NNP VBD IN JJS CD NNS , IN CD VBD IN DT NN VBG IN DT RB JJ NN IN JJ NNP ."
+"Hours earlier , two bombs went off in an eastern part of the capital .",O O O O O O O O O O O O O O O,"NNS RB , CD NNS VBD RP IN DT JJ NN IN DT NN ."
+One bomb killed 13 people at a crowded market .,O O O O O O O O O O,CD NN VBD CD NNS IN DT JJ NN .
+The other bomb killed two people near a police patrol .,O O O O O O O O O O O,DT JJ NN VBD CD NNS IN DT NN NN .
+The explosions are the latest in the almost daily bomb blasts and other attacks in Baghdad and across Iraq .,O O O O O O O O O O O O O O O B-geo O O B-geo O,DT NNS VBP DT JJS IN DT RB JJ NN NNS CC JJ NNS IN NNP CC IN NNP .
+"On Wednesday , insurgents killed at least 10 people , including six police officers and a Sunni Arab cleric .",O B-tim O O O O O O O O O O O O O O B-geo I-geo O O,"IN NNP , NNS VBD IN JJS CD NNS , VBG CD NNS NNS CC DT NNP NNP NN ."

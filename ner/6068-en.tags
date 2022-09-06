@@ -1,0 +1,7 @@
+"Conservative Muslim candidates have swept elections in Saudi Arabia 's first nationwide municipal vote , giving rise to complaints that they had an unfair advantage because of religious endorsements .",O O O O O O O B-geo I-geo O O O O O O O O O O O O O O O O O O O O O,"JJ NNP NNS VBP VBN NNS IN NNP NNP POS JJ JJ JJ NN , VBG NN TO NNS IN PRP VBD DT JJ NN IN IN JJ NNS ."
+"Thursday 's voting in the western part of the kingdom completed the three-phase vote , which began in February .",B-tim O O O O O O O O O O O O O O O O O B-tim O,"NNP POS NN IN DT JJ NN IN DT NN VBD DT JJ NN , WDT VBD IN NNP ."
+Western region winners were announced Saturday .,B-org O O O O B-tim O,JJ NN NNS VBD VBN NNP .
+"In the holy city of Medina , as well as in the ultra-conservative town of Buraydah , cleric-supported candidates swept the vote .",O O O O O B-geo O O O O O O O O O B-geo O O O O O O O,"IN DT JJ NN IN NNP , RB RB IN IN DT JJ NN IN NNP , JJ NNS VBD DT NN ."
+"In Jeddah , long considered one of the country 's most liberal cities , voters also chose conservatives .",O B-tim O O O O O O O O O O O O O O O O O,"IN NNP , RB VBN CD IN DT NN POS RBS JJ NNS , NNS RB VBD NNS ."
+Saudi men over age 21 voted for half the members of the kingdom 's municipal councils .,O O O O O O O O O O O O O O O O O,JJ NNS IN NN CD VBD IN PDT DT NNS IN DT NN POS JJ NNS .
+The government will appoint the remaining half .,O O O O O O O O,DT NN MD VB DT VBG NN .

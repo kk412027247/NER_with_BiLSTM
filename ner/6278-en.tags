@@ -1,0 +1,10 @@
+Separate attacks in Afghanistan have wounded five U.S. soldiers and left a local government official dead .,O O O B-geo O O O B-geo O O O O O O O O O,JJ NNS IN NNP VBP VBN CD NNP NNS CC VBD DT JJ NN NN JJ .
+The soldiers were wounded Saturday when their armored vehicle was hit by a bomb in eastern Kunar province .,O O O O B-tim O O O O O O O O O O O B-geo O O,DT NNS VBD VBN NNP WRB PRP$ JJ NN VBD VBN IN DT NN IN JJ NNP NN .
+Coalition forces responded with small arms fire .,O O O O O O O O,NN NNS VBD IN JJ NNS NN .
+"In a separate attack , a suicide bomber targeted Afghan and coalition forces in Kandahar province .",O O O O O O O O O B-gpe O O O O B-geo O O,"IN DT JJ NN , DT NN NN VBD JJ CC NN NNS IN NNP NN ."
+None of the troops was reported killed or wounded .,O O O O O O O O O O,NN IN DT NNS VBD VBN VBN CC VBN .
+"However , security forces shot and killed a suspected accomplice to the attack .",O O O O O O O O O O O O O O,"RB , NN NNS VBN CC VBN DT JJ NN TO DT NN ."
+A purported Taleban spokesman claimed responsibility for the two bombings .,O O B-org O O O O O O O O,DT JJ NNP NN VBD NN IN DT CD NNS .
+"In northern Tahhar province , Afghan officials say unidentified gunmen killed a local government official .",O O B-tim O O B-gpe O O O O O O O O O O,"IN JJ NNP NN , JJ NNS VBP JJ NNS VBD DT JJ NN NN ."
+They say Sayed Sadeq was killed by men who broke into his house early Saturday .,O O B-per I-per O O O O O O O O O O B-tim O,PRP VBP NNP NNP VBD VBN IN NNS WP VBD IN PRP$ NN RB NNP .
+Sadeq was the speaker of the Tahhar provincial assembly .,B-per O O O O O B-tim O O O,NNP VBD DT NN IN DT NNP JJ NN .

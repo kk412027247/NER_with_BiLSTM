@@ -1,0 +1,8 @@
+"Russian President Dmitri Medvedev has arrived the Kazakhstan capital , Astana , on his first trip abroad since taking office earlier this month .",B-gpe B-per I-per I-per O O O B-geo O O B-geo O O O O O O O O O O O O O,"JJ NNP NNP NNP VBZ VBN DT NNP NN , NNP , IN PRP$ JJ NN RB IN VBG NN RBR DT NN ."
+"Mr. Medvedev will also travel to China , arriving in Beijing on Saturday .",B-per I-per O O O O B-geo O O O B-geo O B-tim O,"NNP NNP MD RB VB TO NNP , VBG IN NNP IN NNP ."
+Traditionally new Russian leaders visit European countries on their first official foreign trips .,O O B-gpe O O O O O O O O O O O,RB JJ JJ NNS VBP JJ NNS IN PRP$ JJ JJ JJ NNS .
+"However , the visit to Asia highlights the importance that Russia places on energy resources in the region .",O O O O O B-geo O O O O B-org O O O O O O O O,"RB , DT NN IN NNP VBZ DT NN IN NNP VBZ IN NN NNS IN DT NN ."
+Mr. Medvedev is expected to discuss energy and space cooperation .,B-per I-per O O O O O O O O O,NNP NNP VBZ VBN TO VB NN CC NN NN .
+"Since the collapse of the Soviet Union , Moscow has tried to regain influence over the former Central Asian republics .",O O O O O B-geo I-geo O B-geo O O O O O O O O B-org I-org O O,"IN DT NN IN DT NNP NNP , NNP VBZ VBN TO VB NN IN DT JJ NNP NNP NNS ."
+Russia has competed with the West and China over access to oil and gas reserves in Central Asia .,B-geo O O O O B-geo O B-geo O O O O O O O O B-geo I-geo O,NNP VBZ VBN IN DT NNP CC NNP IN NN TO NN CC NN NNS IN NNP NNP .
+Mr. Medvedev is due to visit Germany in early June on his first official trip to a European country .,B-per I-per O O O O B-geo O O B-tim O O O O O O O O O O,NNP NNP VBZ JJ TO VB NNP IN JJ NNP IN PRP$ JJ JJ NN TO DT JJ NN .

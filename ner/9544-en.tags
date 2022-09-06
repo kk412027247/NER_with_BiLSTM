@@ -1,0 +1,7 @@
+"Home sales in the United States dropped between April and March , evidence that the housing market 's problems are not over .",O O O O B-geo I-geo O B-tim I-tim I-tim I-tim O O O O O O O O O O O O,"NN NNS IN DT NNP NNPS VBD IN NNP CC NNP , NN IN DT NN NN POS NNS VBP RB IN ."
+"Friday 's report from a business group , The National Association of Realtors , says sales of previously-owned homes fell one percent in March .",B-tim O O O O O O O B-org I-org I-org I-org I-org O O O O O O O O O O B-tim O,"NNP POS NN IN DT NN NN , DT NNP NNP IN NNPS , VBZ NNS IN JJ NNS VBD CD NN IN NNP ."
+"That pushed the sales of houses , condominiums , and apartments down to an annual rate of just under 4.9 million units .",O O O O O O O O O O O O O O O O O O O O O O O,"DT VBD DT NNS IN NNS , NNS , CC NNS RB TO DT JJ NN IN RB IN CD CD NNS ."
+The same report says the median sales price for a home fell eight percent from the same period last year .,O O O O O O O O O O O O O O O O O B-tim O O O,DT JJ NN VBZ DT NN NNS NN IN DT NN VBD CD NN IN DT JJ NN JJ NN .
+Sales of previously-owned homes are the largest part of the housing market .,O O O O O O O O O O O O O,NNS IN JJ NNS VBP DT JJS NN IN DT NN NN .
+Sales of newly-constructed homes will be reported next week .,O O O O O O O O O O,NNS IN JJ NNS MD VB VBN JJ NN .
+Problems in the housing market are one key reason for the current economic slowdown in the United States .,O O O O O O O O O O O O O O O O B-geo I-geo O,NNS IN DT NN NN VBP CD JJ NN IN DT JJ JJ NN IN DT NNP NNPS .

@@ -1,0 +1,2 @@
+"First discovered by the Norwegians in the 12th century , the islands served as an international whaling base during the 17th and 18th centuries .",O O O O B-gpe O O B-tim I-tim O O O O O O O O O O O B-tim O B-tim I-tim O,"RB VBN IN DT NNS IN DT JJ NN , DT NNS VBD IN DT JJ NN NN IN DT JJ CC JJ NNS ."
+Norway 's sovereignty was recognized in 1920 ; five years later it officially took over the territory .,B-org O O O O O B-tim O B-tim O B-tim O O O O O O O,NNP POS NN VBD VBN IN CD ; CD NNS RB PRP RB VBD RP DT NN .

@@ -1,0 +1,6 @@
+"A LION roaming through the forest , got a thorn in his foot , and , meeting a Shepherd , asked him to remove it .",O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBG IN DT NN , VBD DT NN IN PRP$ NN , CC , VBG DT NN , VBD PRP TO VB PRP ."
+"The Shepherd did so , and the Lion , having just surfeited himself on another shepherd , went away without harming him .",O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBD RB , CC DT NN , VBG RB VBN PRP IN DT NN , VBD RB IN VBG PRP ."
+Some time afterward the Shepherd was condemned on a false accusation to be cast to the lions in the amphitheatre .,O O O O O O O O O O O O O O O O O O O O O,DT NN RB DT NN VBD VBN IN DT JJ NN TO VB VBN TO DT NNS IN DT NN .
+"When they were about to devour him , one of them said :",O O O O O O O O O O O O O,"WRB PRP VBD IN TO VB PRP , CD IN PRP VBD :"
+""" This is the man who removed the thorn from my foot . """,O O O O O O O O O O O O O O,LQU DT VBZ DT NN WP VBD DT NN IN PRP$ NN . RQU
+"Hearing this , the others honourably abstained , and the claimant ate the Shepherd all himself .",O O O O O O O O O O O O O O O O O,"VBG DT , DT NNS RB VBD , CC DT JJ NN DT NN DT PRP ."

@@ -1,0 +1,9 @@
+"Iraq 's female politicians plan to push for more positions in Prime Minister Nouri al-Maliki 's new Cabinet , which includes only one woman .",B-geo O O O O O O O O O O B-per O B-per I-per O O O O O O O O O O,"NNP POS JJ NNS VBP TO VB IN JJR NNS IN NNP NNP NNP NNP POS JJ NNP , WDT VBZ RB CD NN ."
+Female lawmakers say they will petition Iraq 's top leaders and international organizations for more Cabinet posts .,O O O O O O B-geo O O O O O O O O O O O,NNP NNS VBP PRP MD VB NNP POS JJ NNS CC JJ NNS IN JJR NNP NNS .
+The Cabinet Maliki unveiled Tuesday allocated two posts for women .,O B-org I-org O B-tim O O O O O O,DT NNP NNP VBD NNP VBD CD NNS IN NNS .
+"One woman leads a ministry with no job description , no office and no budget .",O O O O O O O O O O O O O O O O,"CD NN VBZ DT NN IN DT NN NN , DT NN CC DT NN ."
+"The other , a Kurdish lawmaker , was offered the women 's affairs post but turned it down .",O O O O B-org O O O O O O O O O O O O O O,"DT JJ , DT NNP NN , VBD VBN DT NNS POS NNS NN CC VBD PRP RP ."
+"In approving the new government Tuesday , Iraq 's parliament filled 29 of the 42 Cabinet positions .",O O O O O B-tim O B-geo O O O O O O O B-org O O,"IN VBG DT JJ NN NNP , NNP POS NN VBD CD IN DT CD NNP NNS ."
+""" Acting ministers "" comprise the 13 remaining posts until permanent successors are accepted by parliament .",O O O O O O O O O O O O O O O O O,LQU VBG NNS LQU VBP DT CD VBG NNS IN JJ NNS VBP VBN IN NN .
+Approval of the new Cabinet potentially ends a nine-month political stalemate following inconclusive elections in March .,O O O O B-org O O O B-tim O O O O O O B-tim O,NNP IN DT JJ NNP RB VBZ DT JJ JJ NN VBG JJ NNS IN NNP .
+The Cabinet held its first meeting on Wednesday .,O B-org O O O O O B-tim O,DT NNP VBD PRP$ JJ NN IN NNP .

@@ -1,0 +1,6 @@
+Turkish authorities say 20 people have been wounded in a bomb blast at a resort in western Turkey .,B-gpe O O O O O O O O O O O O O O O B-geo I-geo O,JJ NNS VBP CD NNS VBP VBN VBN IN DT NN NN IN DT NN IN JJ NNP .
+"The explosion occurred Sunday in the Aegean coastal town Cesme , a popular tourist destination near the port city of Izmir .",O O O B-tim O O B-geo O O B-geo O O O O O O O O O O B-geo O,"DT NN VBD NNP IN DT NNP JJ NN NNP , DT JJ NN NN IN DT JJ NN IN NNP ."
+There has been no claim of responsibility for the blast .,O O O O O O O O O O O,EX VBZ VBN DT NN IN NN IN DT NN .
+"The regional governor said two foreigners were among the injured , but did not identify their nationalities .",O O O O O O O O O O O O O O O O O O,"DT JJ NN VBD CD NNS VBD IN DT NN , CC VBD RB VB PRP$ NNS ."
+"In April , a bomb attack in the nearby resort town Ksusadasi left a police officer dead .",O B-tim O O O O O O O O O B-per O O O O O O,"IN NNP , DT NN NN IN DT JJ NN NN NNP VBD DT NN NN NN ."
+A Kurdish separatist group claimed responsibility for that blast .,O B-org O O O O O O O O,DT NNP NN NN VBD NN IN DT NN .

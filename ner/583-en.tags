@@ -1,0 +1,6 @@
+A Chinese millionaire has been executed for arranging a contract killing on a man who threatened to expose him for attempting to murder a business partner .,O B-gpe O O O O O O O O O O O O O O O O O O O O O O O O O,DT JJ NN VBZ VBN VBN IN VBG DT NN NN IN DT NN WP VBD TO VB PRP IN VBG TO NN DT NN NN .
+"Yuan Baojing , former president of Beijing-based Jianhao Group , was put to death by lethal injection Saturday in Liaoning province .",B-per I-per O O O O B-org I-org I-org O O O O O O O O B-tim O B-geo O O,"NNP NNP , JJ NN IN JJ NNP NNP , VBD VBN TO NN IN JJ NN NNP IN NNP NN ."
+His brother and cousin were also executed .,O O O O O O O O,PRP$ NN CC NN VBD RB VBN .
+Yuan was sentenced to death last January for hiring a hit man in a failed plot to kill a business partner who caused his company to lose more than $ 10 million .,B-per O O O O O B-tim O O O O O O O O O O O O O O O O O O O O O O O O O O,NNP VBD VBN TO NN JJ NNP IN VBG DT NN NN IN DT JJ NN TO VB DT NN NN WP VBD PRP$ NN TO VB JJR IN $ CD CD .
+The man who found the hit man then began blackmailing Yuan .,O O O O O O O O O O B-per O,DT NN WP VBD DT NN NN RB VBD VBG NNP .
+"The tycoon paid his brother and cousin to kill the blackmailer , who was shot to death in October 2003 .",O O O O O O O O O O O O O O O O O O B-tim I-tim O,"DT NN VBD PRP$ NN CC NN TO VB DT NN , WP VBD VBN TO NN IN NNP CD ."

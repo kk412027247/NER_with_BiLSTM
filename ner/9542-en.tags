@@ -1,0 +1,8 @@
+"World Bank President Paul Wolfowitz is in Rwanda Thursday , for the third stop in his four-nation African tour .",O B-org B-per I-per I-per O O B-geo B-tim O O O O O O O O B-gpe O O,"NNP NNP NNP NNP NNP VBZ IN NNP NNP , IN DT JJ NN IN PRP$ JJ JJ NN ."
+"Mr. Wolfowitz visited the memorial to the some 800,000 victims of Rwanda 's 1994 genocide .",B-per I-per O O O O O O O O O B-geo O B-tim O O,NNP NNP VBD DT NN TO DT DT CD NNS IN NNP POS CD NN .
+He said it is clear the tragedy could have been prevented and said he regrets the international community did n't do more .,O O O O O O O O O O O O O O O O O O O O O O O,PRP VBD PRP VBZ JJ DT NN MD VB VBN VBN CC VBD PRP VBZ DT JJ NN VBD RB VB JJR .
+Mr. Wolfowitz is also scheduled to meet with President Paul Kagame .,B-per I-per O O O O O O B-per I-per I-per O,NNP NNP VBZ RB VBN TO VB IN NNP NNP NNP .
+He will also tour World Bank funded projects in the country .,O O O O O B-org O O O O O O,PRP MD RB VB NNP NNP VBD NNS IN DT NN .
+Mr. Wolfowitz is on his first trip to Africa since he became head of the Washington-based World Bank on June 1 .,B-per I-per O O O O O O B-geo O O O O O O B-org I-org I-org O B-tim I-tim O,NNP NNP VBZ IN PRP$ JJ NN TO NNP IN PRP VBD NN IN DT JJ NNP NNP IN NNP CD .
+"He ended a two-day tour of Burkina Faso Wednesday , and visited Nigeria earlier this week .",O O O B-tim O O B-geo I-geo B-tim O O O B-geo O O O O,"PRP VBD DT JJ NN IN NNP NNP NNP , CC VBD NNP RBR DT NN ."
+He wraps up his African tour Friday in South Africa .,O O O O B-gpe O B-tim O B-geo I-geo O,PRP VBZ RP PRP$ JJ NN NNP IN NNP NNP .

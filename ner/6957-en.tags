@@ -1,0 +1,8 @@
+"A U.S. helicopter has crashed late Friday in eastern Afghanistan , killing all 10 American soldiers on board .",O B-geo O O O O B-tim O B-geo I-geo O O O O B-gpe O O O O,"DT NNP NN VBZ VBN JJ NNP IN JJ NNP , VBG DT CD JJ NNS IN NN ."
+U.S. military officials say the crash late Friday occurred during combat operations in Kunar province .,B-geo O O O O O O B-tim O O O O O B-geo O O,NNP JJ NNS VBP DT NN RB NNP VBD IN NN NNS IN NNP NN .
+"The CH-47 Chinook went down about 240 kilometers east of the capital , Kabul , not far from the Pakistan border .",O B-org I-org O O O O O O O O O O B-per O O O O O B-geo O O,"DT NNP NNP VBD RB RB CD NNS RB IN DT NN , NNP , RB RB IN DT NNP NN ."
+Military spokeswoman Lieutenant Tamara Lawrence says an investigation is under way to determine the cause of the crash .,O O O B-per I-per O O O O O O O O O O O O O O,NNP NN NNP NNP NNP VBZ DT NN VBZ IN NN TO VB DT NN IN DT NN .
+""" But it is important to note that the crash was not due to any hostile action or enemy fire , "" she said .",O O O O O O O O O O O O O O O O O O O O O O O O O,"LQU CC PRP VBZ JJ TO VB IN DT NN VBD RB JJ TO DT JJ NN CC NN NN , RQU PRP VBD ."
+She says the bodies of all 10 soldiers have been recovered .,O O O O O O O O O O O O,PRP VBZ DT NNS IN DT CD NNS VBP VBN VBN .
+"More than 2,000 U.S. and Afghan soldiers have been targeting al-Qaida and Taleban insurgents in Kunar province since last month .",O O O B-geo O B-gpe O O O O B-org O B-org O O B-geo O B-tim O O O,JJR IN CD NNP CC JJ NNS VBP VBN VBG NNP CC NNP NNS IN NNP NN IN JJ NN .
+It is one of the largest offensives since the U.S.-led coalition ousted the Taleban from power in 2001 .,O O O O O O O O O O O O O B-org O O O B-tim O,PRP VBZ CD IN DT JJS NNS IN DT JJ NN VBD DT NNP IN NN IN CD .

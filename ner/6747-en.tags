@@ -1,0 +1,6 @@
+Kenya 's President Mwai Kibaki has announced the resignation of two senior cabinet members implicated in corruption scandals .,B-geo O B-per I-per I-per O O O O O O O O O O O O O O,NNP POS NNP NNP NNP VBZ VBN DT NN IN CD JJ NN NNS VBN IN NN NNS .
+"Speaking on state television today , Mr. Kibaki said his energy minister and education minister have stepped down so investigations into the scandals can proceed .",O O O O B-tim O B-per I-per O O O O O O O O O O O O O O O O O O,"VBG IN NN NN NN , NNP NNP VBD PRP$ NN NN CC NN NN VBP VBN RP RB NNS IN DT NNS MD VB ."
+"The Kibaki government has been shaken by accusations of multi-million dollar graft against several top officials , including Vice President Moody Awori .",O B-per O O O O O O O O O O O O O O O O B-per I-per I-per I-per O,"DT NNP NN VBZ VBN VBN IN NNS IN JJ NN NN IN JJ JJ NNS , VBG NNP NNP NNP NNP ."
+The allegations led former finance minister David Mwiraria to resign last month .,O O O O O O B-per I-per O O O O O,DT NNS VBD JJ NN NN NNP NNP TO VB JJ NN .
+The accused officials have denied any wrongdoing .,O O O O O O O O,DT VBN NNS VBP VBN DT NN .
+"The Kibaki government took power in 2002 pledging to stamp out corruption , which was prevalent under previous Kenyan governments .",O B-per O O O O B-tim O O O O O O O O O O O B-gpe O O,"DT NNP NN VBD NN IN CD VBG TO VB RP NN , WDT VBD JJ IN JJ JJ NNS ."

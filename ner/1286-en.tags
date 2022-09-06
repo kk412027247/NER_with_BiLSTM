@@ -1,0 +1,3 @@
+The next U.S. president is likely to have an impact that extends far beyond a four-year term .,O O B-org O O O O O O O O O O O O B-tim O O,DT JJ NNP NN VBZ JJ TO VB DT NN WDT VBZ RB IN DT JJ NN .
+"As president , Republican John McCain or Democrat Barack Obama would have the chance to appoint at least one new justice to the U.S. Supreme Court .",O O O B-org B-per I-per O B-org B-per I-per O O O O O O O O O O O O O B-org I-org I-org O,"IN NN , NNP NNP NNP CC NNP NNP NNP MD VB DT NN TO VB IN JJS CD JJ NN TO DT NNP NNP NNP ."
+"Alex Moradi has this report , narrated by Leta Hong Fincher .",B-per I-per O O O O O O B-per I-per I-per O,"NNP NNP VBZ DT NN , VBN IN NNP NNP NNP ."

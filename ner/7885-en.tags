@@ -1,0 +1,10 @@
+Iraq 's foreign minister says four Iraqi military officers have been detained in the kidnapping this week of an Iranian diplomat .,B-geo O O O O O B-gpe O O O O O O O O O O O O B-gpe O O,NNP POS JJ NN VBZ CD JJ JJ NNS VBP VBN VBN IN DT NN DT NN IN DT JJ NN .
+"Foreign minister Hoshyar Zebari told reporters in Baghdad Wednesday that the four men , although military officers , were apparently not linked to the government .",O O B-per I-per O O O B-geo B-tim O O O O O O O O O O O O O O O O O,"JJ NN NNP NNP VBD NNS IN NNP NNP IN DT CD NNS , IN JJ NNS , VBD RB RB VBN TO DT NN ."
+He did not elaborate .,O O O O O,PRP VBD RB VB .
+He said the men are being questioned about who ordered the kidnapping .,O O O O O O O O O O O O O,PRP VBD DT NNS VBP VBG VBN IN WP VBD DT NN .
+Gunmen in Iraqi army uniforms kidnapped the Iranian diplomat on Sunday .,O O B-gpe O O O O B-gpe O O B-tim O,NNS IN JJ NN VBZ VBN DT JJ NN IN NNP .
+Iran has said it holds the United States responsible for the safety of the diplomat .,B-geo O O O O O B-geo I-geo O O O O O O O O,NNP VBZ VBN PRP VBZ DT NNP NNPS JJ IN DT NN IN DT NN .
+"An Iranian spokesman said the kidnappers are linked to Iraq 's defense ministry , which , he said , "" works under the supervision of American forces . """,O B-gpe O O O O O O O B-geo O O O O O O O O O O O O O O O B-gpe O O O,"DT JJ NN VBD DT NNS VBP VBN TO NNP POS NN NN , WDT , PRP VBD , LQU VBZ IN DT NN IN JJ NNS . LQU"
+The U.S. has denied involvement in the incident .,O B-geo O O O O O O O,DT NNP VBZ VBN NN IN DT NN .
+U.S. forces in Iraq arrested a number of Iranians recently .,B-geo O O B-geo O O O O B-gpe O O,NNP NNS IN NNP VBN DT NN IN NNS RB .
+Washington has accused Tehran of aiding Shi'ite militants involved in sectarian attacks .,B-geo O O B-org O O O O O O O O O,NNP VBZ VBN NNP IN VBG NNP NNS VBN IN JJ NNS .

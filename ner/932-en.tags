@@ -1,0 +1,5 @@
+Astronomers using the giant Keck One telescope atop a volcano in Hawaii have discovered a thermal hot spot on Saturn .,O O O O B-org O O O O O O B-geo O O O O O O O O O,NNS VBG DT JJ NNP CD NN IN DT NN IN NNP VBP VBN DT JJ JJ NN IN NNP .
+"Infrared images show a warm polar vortex swirling at Saturn 's south pole , and scientists say the hot spot has the highest temperatures on the planet .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"JJ NNS VBP DT JJ JJ NN VBG IN NNP POS JJ NN , CC NNS VBP DT JJ NN VBZ DT JJS NNS IN DT NN ."
+"A polar vortex is a large-scale weather pattern , similar to a jet stream in Earth 's upper atmosphere .",O O O O O O O O O O O O O O O B-geo O O O O,"DT JJ NN VBZ DT JJ NN NN , JJ TO DT NN NN IN NNP POS JJ NN ."
+"Polar vortices found on Earth , Mars , Venus and Jupiter are significantly colder than their surroundings .",O O O O B-geo O B-geo O B-per O B-per O O O O O O O,"NNP NNS VBD IN NNP , NNP , NNP CC NNP VBP RB JJR IN PRP$ NNS ."
+Saturn 's hot spot is the first warm polar vortex ever seen in our solar system .,O O O O O O O O O O O O O O O O O,NNP POS JJ NN VBZ DT JJ JJ NN NN RB VBN IN PRP$ JJ NN .

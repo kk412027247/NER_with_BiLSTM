@@ -1,0 +1,8 @@
+Veterinary experts meeting in Paris say all countries regardless of their economic problems must fight bird flu .,O O O O B-geo O O O O O O O O O O O O O,JJ NNS VBG IN NNP VBP DT NNS RB IN PRP$ JJ NNS MD VB NN NN .
+The World Organization for Animal Health said Tuesday just one country failing to control bird flu can endanger the whole planet .,O B-org I-org I-org I-org I-org O B-tim O O O O O O O O O O O O O O,DT NNP NNP IN NNP NNP VBD NNP RB CD NN VBG TO VB NN NN MD VB DT JJ NN .
+The experts warned that the deadly H5N1 virus is highly likely to infect domestic poultry in Europe as migrating wild birds return from Africa and the Mideast .,O O O O O O O O O O O O O O O O B-geo O O O O O O B-geo O O O O,DT NNS VBD IN DT JJ NNP NN VBZ RB JJ TO VB JJ NN IN NNP IN VBG JJ NNS NN IN NNP CC DT NN .
+Bird flu has already struck a turkey farm in France .,O O O O O O O O O B-geo O,NN NN VBZ RB VBN DT NN NN IN NNP .
+France says 43 countries have either banned or curbed exports of French poultry .,B-geo O O O O O O O O O O B-gpe O O,NNP VBZ CD NNS VBP DT VBN CC VBN NNS IN JJ NN .
+"Meanwhile , Sweden reported its first bird flu case in wild ducks Tuesday .",O O B-per O O O O O O O O O B-tim O,"RB , NNP VBD PRP$ JJ NN NN NN IN JJ NNS NNP ."
+"And bird flu was found in a cat on the German Baltic Sea island of Ruegen , where bird flu killed a number of wild birds .",O O O O O O O O O O B-gpe B-org I-org O O B-geo O O O O O O O O O O O,"CC NN NN VBD VBN IN DT NN IN DT JJ NNP NNP NN IN NNP , WRB NN NN VBD DT NN IN JJ NNS ."
+Experts say there is no evidence cats can spread the disease to humans .,O O O O O O O O O O O O O O,NNS VBP EX VBZ DT NN NNS MD VB DT NN TO NNS .

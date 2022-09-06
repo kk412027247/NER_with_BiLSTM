@@ -1,0 +1,3 @@
+New Zealand occupied the German protectorate of Western Samoa at the outbreak of World War I in 1914 .,B-geo I-geo O O B-gpe O O B-org I-org O O O O B-eve I-eve I-eve O B-tim O,NNP NNP VBD DT JJ NN IN JJ NNP IN DT NN IN NNP NNP NNP IN CD .
+"It continued to administer the islands as a mandate and then as a trust territory until 1962 , when the islands became the first Polynesian nation to reestablish independence in the 20th century .",O O O O O O O O O O O O O O O O B-tim O O O O O O O O O O O O O O B-tim I-tim O,"PRP VBD TO VB DT NNS IN DT NN CC RB IN DT NN NN IN CD , WRB DT NNS VBD DT JJ JJ NN TO VB NN IN DT JJ NN ."
+"The country dropped the "" Western "" from its name in 1997 .",O O O O O B-org I-org O O O O B-tim O,DT NN VBD DT LQU JJ LQU IN PRP$ NN IN CD .

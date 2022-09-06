@@ -1,0 +1,5 @@
+The island was uninhabited when first settled by the British in 1627 .,O O O O O O O O O B-gpe O B-tim O,DT NN VBD JJ WRB RB VBN IN DT NNS IN CD .
+Slaves worked the sugar plantations established on the island until 1834 when slavery was abolished .,O O O O O O O O O O B-tim O O O O O,NNS VBD DT NN NNS VBN IN DT NN IN CD WRB NN VBD VBN .
+"The economy remained heavily dependent on sugar , rum , and molasses production through most of the 20th century .",O O O O O O O O O O O O O O O O O B-tim I-tim O,"DT NN VBD RB JJ IN NN , NN , CC VBZ NN IN JJS IN DT JJ NN ."
+The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966 .,O O O O O O O O O O B-tim O B-tim O O O O O O B-org O B-tim O,DT JJ NN IN JJ CC JJ NNS IN DT NNS CC NNS VBD TO JJ NN IN DT NNP IN CD .
+"In the 1990s , tourism and manufacturing surpassed the sugar industry in economic importance .",O O B-tim O O O O O O O O O O O O,"IN DT NNS , NN CC NN VBD DT NN NN IN JJ NN ."

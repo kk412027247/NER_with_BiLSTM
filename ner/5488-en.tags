@@ -1,0 +1,7 @@
+"Police in London arrested and questioned Hugh Grant , after a photographer claimed the actor attacked him with a tub of baked beans .",O O B-geo O O O B-per I-per O O O O O O O O O O O O O O O O,"NNS IN NNP VBN CC VBN NNP NNP , IN DT NN VBD DT NN VBD PRP IN DT NN IN JJ NNS ."
+"Speaking to the Daily Star newspaper , photographer Ian Whittaker said the 46-year-old Grant abused and kicked him on April 24 , prior to lobbing the beans .",O O O B-org I-org O O O B-per I-per O O O O O O O O O B-tim I-tim O O O O O O O,"VBG TO DT NNP NNP NN , NN NNP NNP VBD DT JJ NNP VBD CC VBD PRP IN NNP CD , RB TO VBG DT NNS ."
+The paper printed photos of Grant with a plastic tub of food raised over his head .,O O O O O O O O O O O O O O O O O,DT NN VBD NNS IN NNP IN DT JJ NN IN NN VBN IN PRP$ NN .
+A police spokeswoman said a 46-year-old man had been arrested April 25 and questioned over an assault in west London .,O O O O O O O O O O B-tim I-tim O O O O O O O B-geo O,DT NN NN VBD DT JJ NN VBD VBN VBN NNP CD CC VBD IN DT NN IN JJ NNP .
+He was freed on bail and ordered to return in May .,O O O O O O O O O O B-tim O,PRP VBD VBN IN NN CC VBN TO VB IN NNP .
+His lawyers were not immediately available for comment .,O O O O O O O O O,PRP$ NNS VBD RB RB JJ IN NN .
+"Hugh Grant 's screen credits include Four Weddings And A Funeral , Notting Hill , and Love Actually .",B-per I-per O O O O B-art I-art I-art I-art I-art O B-art I-art O O B-art I-art O,"NNP NNP POS NN NNS VBP NNP NNS NNP NNP NNP , NNP NNP , CC NNP NNPS ."

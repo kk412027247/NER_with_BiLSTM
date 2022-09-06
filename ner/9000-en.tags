@@ -1,0 +1,8 @@
+South Africa 's cricket team has scored 218-5 in its first innings in response to the West Indies ' total of 243 on the second day of their second test match at Newlands in Cape Town .,B-geo I-geo O O O O O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O B-geo O B-geo I-geo O,NNP NNP POS NN NN VBZ VBN CD IN PRP$ JJ NN IN NN TO DT NNP NNPS POS NN IN CD IN DT JJ NN IN PRP$ JJ NN NN IN NNP IN NNP NNP .
+Ashwell Prince and Mark Boucher had an 87-run partnership for South Africa after the home side fell to 131-5 .,B-per I-per O B-per I-per O O O O O B-geo I-geo O O O O O O O O,NNP NNP CC NNP NNP VBD DT JJ NN IN NNP NNP IN DT NN NN VBD TO CD .
+Prince and Boucher scored 52 runs in the last 10 overs .,B-per O B-per O O O O O O B-tim I-tim O,NNP CC NNP VBD CD NNS IN DT JJ CD NNS .
+West Indian bowler Dwayne Bravo was 3-46 and Jerome Taylor was 2-45 .,B-geo B-gpe O B-per I-per O O O B-per I-per O O O,NNP JJ NN NNP NNP VBD CD CC NNP NNP VBD CD .
+"The West Indies leads the three-match series , 1-0 , after taking the first test by 128 runs .",O B-geo I-geo O O O O O O O O O O O O O O O O,"DT NNP NNPS VBZ DT JJ NN , CD , IN VBG DT JJ NN IN CD NNS ."
+The win was the Caribbean squad 's first in South Africa and its first significant road win since 2000 .,O O O O B-geo O O O O B-geo I-geo O O O O O O B-tim I-tim O,DT NN VBD DT NNP NN POS JJ IN NNP NNP CC PRP$ JJ JJ NN NN IN CD .
+The third test begins January 10th in Durban .,O O O O B-tim I-tim O B-geo O,DT JJ NN VBZ NNP CD IN NNP .
+The two sides also will play five one-day international matches beginning January 20th in Centurion .,O O O O O O O B-tim O O O B-tim I-tim O B-geo O,DT CD NNS RB MD VB CD JJ JJ NNS VBG NNP JJ IN NNP .

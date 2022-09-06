@@ -1,0 +1,7 @@
+Weather forecasters say Tropical Storm Delta has winds of 104 kilometers per hour and is gaining strength in the central Atlantic .,O O O O O B-eve O O O O O O O O O O O O O O B-geo O,NNP NNS VBP JJ NN NNP VBZ NNS IN CD NNS IN NN CC VBZ VBG NN IN DT JJ NNP .
+The storm could become a hurricane later Thursday .,O O O O O O B-tim I-tim O,DT NN MD VB DT NN RB NNP .
+Meteorologists designate storms with winds stronger than 119 kilometers per hour as hurricanes .,O O O O O O O O O O O O O O,NNS VBP NNS IN NNS JJR IN CD NNS IN NN IN NNS .
+Tropical Storm Delta formed late Wednesday .,O O O O O B-tim O,NNP NNP NNP VBD JJ NNP .
+"At last report , it was located about 18,000 kilometers southwest of the Azores Islands , and was not a threat to land .",O O O O O O O O O O O O O B-org I-org O O O O O O O O O,"IN JJ NN , PRP VBD VBN IN CD NNS JJS IN DT NNP NNP , CC VBD RB DT NN TO NN ."
+"Delta is the 25th named storm of this record-breaking Atlantic hurricane season , which runs from June 1 to November 30 .",B-org O O B-tim O O O O O B-geo O O O O O O B-tim I-tim I-tim I-tim I-tim O,"NNP VBZ DT JJ VBN NN IN DT JJ NNP NN NN , WDT VBZ IN NNP CD TO NNP CD ."
+Forecasters began using Greek letters to name the storms after they ran through their usual list of names in English .,O O O B-gpe O O O O O O O O O O O O O O O B-art O,NNS VBD VBG JJ NNS TO VB DT NNS IN PRP VBD IN PRP$ JJ NN IN NNS IN NNP .

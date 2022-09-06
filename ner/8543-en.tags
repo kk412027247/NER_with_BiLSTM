@@ -1,0 +1,7 @@
+Somali gunmen hijacked a freight ship off the eastern coast of Somalia on Monday .,B-gpe O O O O O O O O O O B-geo O B-tim O,JJ NNS VBD DT NN NN IN DT JJ NN IN NNP IN NNP .
+"The Kenya-based MV Torgelow was on its way to Somalia 's port of El-Maan to bring fuel and supplies to another ship , the MV Semlow , that was recently freed by hijackers .",O O O O O O O O O B-geo O O O O O O O O O O O O O O B-org I-org O O O O O O O O,"DT JJ NNP NNP VBD IN PRP$ NN TO NNP POS NN IN NNP TO VB NN CC NNS TO DT NN , DT NNP NNP , WDT VBD RB VBN IN NNS ."
+Both ships are owned by the same company .,O O O O O O O O O,DT NNS VBP VBN IN DT JJ NN .
+The MV Torgelow was expected to arrive in El-Maan on Monday .,O O O O O O O O O O B-tim O,DT NNP NNP VBD VBN TO VB IN JJ IN NNP .
+"The ships owner , Inayet Kudrati , said he lost contact with the vessel and its 10-man crew on Saturday .",O O O O B-per I-per O O O O O O O O O O O O O B-tim O,"DT NNS NN , NNP NNP , VBD PRP VBD NN IN DT NN CC PRP$ JJ NN IN NNP ."
+"In June , the MV Semlow and its 10-member crew were hijacked as it sailed from Kenya to Somalia .",O B-tim O O B-org I-org O O O O O O O O O O B-geo O B-geo O,"IN NNP , DT NNP NNP CC PRP$ JJ NN VBD VBN IN PRP VBD IN NNP TO NNP ."
+The United Nations World Food Program had hired the Kenyan vessel to carry 850 metric tons of rice donated by Japan and Germany .,O B-org I-org I-org I-org I-org O O O B-gpe O O O O O O O O O O B-geo O B-geo O,DT NNP NNP NNP NNP NNP VBD VBN DT JJ NN TO VB CD JJ NNS IN NN VBN IN NNP CC NNP .

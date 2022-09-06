@@ -1,0 +1,7 @@
+Kenyan runners have swept the top three places at the Philadelphia Marathon in Pennsylvania .,B-gpe O O O O O O O O O B-eve I-eve O B-geo O,JJ NNS VBP VBN DT JJ CD NNS IN DT NNP NNP IN NNP .
+Joseph Nderitu covered the 42-kilometer course Sunday in 2:21.02 .,B-per I-per O O O O B-tim O O O,NNP NNP VBD DT JJ NN NNP IN CD .
+He outdistanced countrymen Joshua Koros by almost two minutes ( 2:22.52 ) and another minute ahead of Joseph Kamau ( 2:23.57 ) .,O O O B-per I-per O O O O O O O O O O O O B-per I-per O O O O,PRP VBD NNS NNP NNP IN RB CD NNS LRB CD RRB CC DT NN RB IN NNP NNP LRB CD RRB .
+"Nderitu , the 2003 race winner , made his move in the 37th kilometer , dropping Koros with a surge that left him in front by 25 seconds at the 39th kilometer mark .",B-per O O B-tim O O O O O O O O O O O O B-per O O O O O O O O O O O O O O O O O,"NNP , DT CD NN NN , VBD PRP$ NN IN DT JJ NN , VBG NNP IN DT NN WDT VBD PRP IN NN IN CD NNS IN DT JJ NN NN ."
+"Among the women , Philadelphia resident Emily Kroshus took the title in her first marathon with a time of 2:43.07 .",O O O O B-geo O B-per I-per O O O O O O O O O O O O O,"IN DT NNS , NNP NN NNP NNP VBD DT NN IN PRP$ JJ NN IN DT NN IN CD ."
+Kroshus pulled away from runner-up Larisa Michailova of Russia after 19 kilometers .,B-per O O O O B-per I-per O B-geo O O O O,NNP VBD RB IN JJ NNP NNP IN NNP IN CD NNS .
+Kroshus attempted the New York City Marathon last year but did n't finish .,B-per O O B-eve I-eve I-eve I-eve O O O O O O O,NNP VBD DT NNP NNP NNP NNP JJ NN CC VBD RB VB .

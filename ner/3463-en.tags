@@ -1,0 +1,8 @@
+"The U.S. State Department has expressed its sympathy and solidarity with Poland over the death this week of its first post-communist Foreign Minister , Krzysztof Skubiszewski .",O B-org I-org I-org O O O O O O O B-geo O O O O O O O O O O O O B-org I-org O,"DT NNP NNP NNP VBZ VBN PRP$ NN CC NN IN NNP IN DT NN DT NN IN PRP$ JJ JJ NNP NNP , NNP NNP ."
+State Department spokesman P.J. Crowley says Skubiszewski paved the way for Poland 's eventual membership in NATO and the strong alliance between Poland and the United States .,B-org I-org O B-per I-per O B-org O O O O B-geo O O O O B-org O O O O O B-geo O O B-geo I-geo O,NNP NNP NN NNP NNP VBZ NNP VBD DT NN IN NNP POS JJ NN IN NNP CC DT JJ NN IN NNP CC DT NNP NNPS .
+He called Skubiszewski a great statesman and visionary .,O O B-org O O O O O O,PRP VBD NNP DT JJ NN CC NN .
+Skubiszewski died Monday at age 83 .,B-org O B-tim O O B-tim O,NNP VBD NNP IN NN CD .
+No cause of death was announced .,O O O O O O O,DT NN IN NN VBD VBN .
+He was Poland 's first foreign minister after the fall of communism in 1989 .,O O B-geo O O O O O O O O O O B-tim O,PRP VBD NNP POS JJ JJ NN IN DT NN IN NN IN CD .
+He held the post until 1993 .,O O O O O B-tim O,PRP VBD DT NN IN CD .
+Skubiszewski opened talks with NATO and worked towards reconciliation with Germany .,B-org O O O B-org O O O O O B-geo O,NNP VBD NNS IN NNP CC VBD IN NN IN NNP .

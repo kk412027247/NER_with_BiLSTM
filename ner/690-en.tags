@@ -1,0 +1,8 @@
+"Authorities in Spain and Morocco closed airports Tuesday , as ash from an Icelandic volcano once again disrupts air travel .",O O B-gpe O B-per O O B-tim O O O O O B-gpe O O O O O O O,"NNS IN NNP CC NNP VBD NNS NNP , IN NN IN DT JJ NN RB RB VBZ NN NN ."
+Spain 's air traffic control agency ( Aena ) said Tuesday that four airports in the Canary Islands and three airports in southern Spain have been shut down .,B-gpe O O O O O O B-org O O B-tim O O O O O B-geo I-geo O O O O B-geo I-geo O O O O O,NNP POS NN NN NN NN LRB NNP RRB VBD NNP IN CD NNS IN DT NNP NNP CC CD NNS IN JJ NNP VBP VBN VBN RP .
+Morocco closed several of its airports including Casablanca .,B-per O O O O O O B-org O,NNP VBD JJ IN PRP$ NNS VBG NNP .
+The volcano continued belching ash on Tuesday .,O O O O O O B-tim O,DT NN VBD VBG NN IN NNP .
+Officials say they do not know how long the eruption will continue .,O O O O O O O O O O O O O,NNS VBP PRP VBP RB VB WRB JJ DT NN MD VB .
+Volcanic activity has shut down sections of European airspace on-and-off for more than a month .,O O O O O O O O O O O O O O O O,NNP NN VBZ VBN RP NNS IN JJ NN NN IN JJR IN DT NN .
+The cloud of abrasive ash can damage aircraft engines and cause other problems for airplanes in flight .,O O O O O O O O O O O O O O O O O O,DT NN IN JJ NN MD VB NN NNS CC VB JJ NNS IN NNS IN NN .
+The European Union says airlines lost more than $ 3 billion when ash from the same volcano crippled air travel across Europe for nearly a week in April .,O B-org I-org O O O O O O O O O O O O O O O O O O B-geo O O O O B-tim I-tim O,DT NNP NNP VBZ NNS VBD JJR IN $ CD CD WRB NN IN DT JJ NN VBD NN NN IN NNP IN RB DT NN IN NNP .

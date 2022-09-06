@@ -1,0 +1,8 @@
+Witnesses in the Gaza Strip say gunmen have fired on the vehicle carrying the director of the United Nations refugee mission in Gaza .,O O O B-geo I-geo O O O O O O O O O O O O B-org I-org O O O B-geo O,NNS IN DT NNP NNP VBP NNS VBP VBN IN DT NN VBG DT NN IN DT NNP NNP NN NN IN NNP .
+"The sources say 11 bullets hit the armored car of John Ging , the Gaza director of the U.N. Relief and Works Agency .",O O O O O O O O O O B-geo I-geo O O B-geo O O O B-org I-org I-org I-org I-org O,"DT NNS VBP CD NNS VBD DT JJ NN IN NNP NNP , DT NNP NN IN DT NNP NNP CC NNP NNP ."
+No one was hurt in the attack .,O O O O O O O O,DT NN VBD VBN IN DT NN .
+"The Associated Press quotes Ging as saying the gunmen tried to force open the car , and that the attackers continued firing as his driver sped away .",O B-org I-org O B-per O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP VBZ NNP IN VBG DT NNS VBD TO VB JJ DT NN , CC IN DT NNS VBD VBG IN PRP$ NN VBD RB ."
+"He is quoted as describing the incident as a "" shocking development . """,O O O O O O O O O O O O O O,PRP VBZ VBN IN VBG DT NN IN DT LQU JJ NN . LQU
+"On Monday in Gaza , Palestinian gunmen abducted BBC reporter Alan Johnston .",O B-tim O B-geo O B-gpe O O B-org O B-per I-per O,"IN NNP IN NNP , JJ NNS VBD NNP NN NNP NNP ."
+He has not been heard from since .,O O O O O O O O,PRP VBZ RB VBN VBN IN IN .
+"There has been a series of kidnappings of foreigners in the Gaza Strip over the past year , with most of the hostages released within hours .",O O O O O O O O O O O B-geo I-geo O O B-tim O O O O O O O O O O O,"EX VBZ VBN DT NN IN NNS IN NNS IN DT NNP NNP IN DT JJ NN , IN JJS IN DT NNS VBN IN NNS ."

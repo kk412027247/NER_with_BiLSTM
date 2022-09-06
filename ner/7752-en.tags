@@ -1,0 +1,8 @@
+"England 's bowlers have picked apart Sri Lanka 's lineup , with the host nation dismissed for only 188 runs on the first day of their first test match at Asgiriya Stadium in Kandy , Sri Lanka .",B-org O O O O O B-org I-org O O O O O O O O O O O O O O O O O O O O O O B-org I-org O B-geo O B-geo I-geo O,"NNP POS NNS VBP VBN RP NNP NNP POS NN , IN DT NN NN VBD IN RB CD NNS IN DT JJ NN IN PRP$ JJ NN NN IN NNP NNP IN NNP , NNP NNP ."
+"England lost the toss , but seam bowler Matthew Hoggard and spinner Monty Panesar took a total of seven wickets .",B-org O O O O O O O B-per I-per O O B-per I-per O O O O O O O,"NNP VBD DT NN , CC JJ NN NNP NNP CC NN NNP NNP VBD DT NN IN CD NNS ."
+Hoggard finished at 4-29 while Panesar was 3-46 .,B-per O O O O B-per O O O,NNP VBD IN CD IN NNP VBD CD .
+"Kumar Sangakkara top scored for Sri Lanka with 92 runs , including 13 fours before being caught out by Paul Collingwood .",B-per I-per O O O B-org I-org O O O O O O O O O O O O B-per I-per O,"NNP NNP NN VBD IN NNP NNP IN CD NNS , VBG CD NNS IN VBG VBN RP IN NNP NNP ."
+Prasanna Jayawardene added another 51 runs but he was caught out by Alastair Cook on a ball bowled by Panesar .,B-per I-per O O O O O O O O O O B-per I-per O O O O O B-per O,NNP NNP VBD DT CD NNS CC PRP VBD VBN RP IN NNP NNP IN DT NN VBN IN NNP .
+The second test at the Sinhalese Sports Club in Colombo starts December ninth .,O O O O O B-org I-org I-org O B-geo O B-tim I-tim O,DT JJ NN IN DT NNP NNP NNP IN NNP VBZ NNP NN .
+The third test is scheduled for Galle International Stadium beginning December 18th .,O O O O O O B-org I-org I-org O B-tim I-tim O,DT JJ NN VBZ VBN IN NNP NNP NNP VBG NNP CD .
+"England won the five-match , one-day series , 3-2 .",B-org O O O O O O O O O,"NNP VBD DT JJ , JJ NN , CD ."

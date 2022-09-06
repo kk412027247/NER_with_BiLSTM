@@ -1,0 +1,6 @@
+The Ethiopian government says it has resolved a pay dispute with soldiers who served in the United Nations Peacekeeping Mission in Liberia .,O B-gpe O O O O O O O O O O O O O O B-org I-org I-org I-org O B-geo O,DT JJ NN VBZ PRP VBZ VBN DT NN NN IN NNS WP VBD IN DT NNP NNP NNP NNP IN NNP .
+"A government spokesman says about 150 soldiers staged a protest near the town of Fiche yesterday , demanding cash for their service in Liberia .",O O O O O O O O O O O O O O B-tim I-tim O O O O O O O B-geo O,"DT NN NN VBZ IN CD NNS VBD DT NN IN DT NN IN NNP NN , VBG NN IN PRP$ NN IN NNP ."
+Reports from Ethiopia said the troops claimed they had only received a fraction of their promised pay .,O O B-gpe O O O O O O O O O O O O O O O,NNS IN NNP VBD DT NNS VBD PRP VBD RB VBN DT NN IN PRP$ JJ NN .
+"Ethiopia ’s minister of information , Bereket Simon , talked with English to Africa reporter about the protests .",B-gpe O O O O O B-per I-per O O O B-org I-org I-org O O O O O,"NNP POS NN IN NN , NNP NNP , VBD IN NNP TO NNP NN IN DT NNS ."
+"Mr. Bereket says the soldiers had been paid , but their money was deposited in bank accounts .",B-per I-per O O O O O O O O O O O O O O O O,"NNP NNP VBZ DT NNS VBD VBN VBN , CC PRP$ NN VBD VBN IN NN NNS ."
+"He says the dispute has been solved "" amicably . """,O O O O O O O O O O O,PRP VBZ DT NN VBZ VBN VBN LQU RB . RQU

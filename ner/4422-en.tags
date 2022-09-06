@@ -1,0 +1,9 @@
+Insurgents have killed at least 11 people in attacks across Iraq .,O O O O O O O O O O B-geo O,NNS VBP VBN IN JJS CD NNS IN NNS IN NNP .
+"In the deadliest attack , a roadside bomb killed a police officer and his four children in Tikrit .",O O O O O O O O O O O O O O O O O B-geo O,"IN DT JJS NN , DT NN NN VBD DT NN NN CC PRP$ CD NNS IN NNP ."
+Another roadside bomb killed at least one person in Kirkuk .,O O O O O O O O O B-geo O,DT NN NN VBD IN JJS CD NN IN NNP .
+"In Baghdad , a suicide car bomber killed four people , included two police officers .",O B-geo O O O O O O O O O O O O O O,"IN NNP , DT NN NN NN VBD CD NNS , VBD CD NNS NNS ."
+Other attacks across the city wounded five U.S. soldiers .,O O O O O O O B-geo O O,JJ NNS IN DT NN VBD CD NNP NNS .
+"And in Baquba , a police officer was killed in a drive-by shooting .",O O B-geo O O O O O O O O O O O,"CC IN NNP , DT NN NN VBD VBN IN DT JJ NN ."
+"Meanwhile , the U.S. military says soldiers killed two suspected members of al-Qaida in Iraq and detained 22 others during raids in Mosul and Ramadi .",O O O B-geo O O O O O O O O B-org O B-geo O O O O O O O B-geo O B-geo O,"RB , DT NNP NN VBZ NNS VBD CD JJ NNS IN NNP IN NNP CC VBD CD NNS IN NNS IN NNP CC NNP ."
+The violence comes after Iraq 's Independent Electoral Commission said it found no serious election fraud in Iraq 's recent constitutional referendum .,O O O O B-geo O B-org I-org I-org O O O O O O O O B-geo O O O O O,DT NN VBZ IN NNP POS NNP NNP NNP VBD PRP VBD DT JJ NN NN IN NNP POS JJ JJ NN .
+Official results have not yet been announced .,O O O O O O O O,JJ NNS VBP RB RB VBN VBN .

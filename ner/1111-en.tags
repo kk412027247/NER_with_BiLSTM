@@ -1,0 +1,9 @@
+"Afghan border police say a suicide car bomber has attacked a police post in southeastern Afghanistan , near the Pakistani border .",B-gpe O O O O O O O O O O O O O O B-geo O O O B-gpe O O,"JJ NN NNS VBP DT NN NN NN VBZ VBN DT NN NN IN JJ NNP , IN DT JJ NN ."
+"There are conflicting reports about the casualties , but officials said the attack in Spin Boldak on Thursday wounded at least four police officers and one civilian .",O O O O O O O O O O O O O O B-org I-org O B-tim O O O O O O O O O O,"EX VBP VBG NNS IN DT NNS , CC NNS VBD DT NN IN NNP NNP IN NNP VBD IN JJS CD NN NNS CC CD JJ ."
+Two reports said one of the policemen later died .,O O O O O O O O O O,CD NNS VBD CD IN DT NNS RB VBD .
+Police officials said the driver blew up his vehicle as he approached a police position .,O O O O O O O O O O O O O O O O,NN NNS VBD DT NN VBD RP PRP$ NN IN PRP VBD DT NN NN .
+Spin Boldak is one of the major border crossing points between Afghanistan and Pakistan .,B-org I-org O O O O O O O O O B-geo O B-geo O,NNP NNP VBZ CD IN DT JJ NN VBG NNS IN NNP CC NNP .
+A Taliban spokesman claimed responsibility for the attack .,O B-org O O O O O O O,DT NNP NN VBD NN IN DT NN .
+"Elsewhere in southern Afghanistan , NATO says a British pilot suffered minor injuries when his fighter jet crashed after takeoff in Kandahar province .",O O B-geo I-geo O B-org O O B-gpe O O O O O O O O O O O O B-geo O O,"RB IN JJ NNP , NNP VBZ DT JJ NN VBD JJ NNS WRB PRP$ NN NN VBD IN NN IN NNP NN ."
+A NATO spokesman says the pilot ejected from the aircraft and was taken to a medical facility .,O B-org O O O O O O O O O O O O O O O O,DT NNP NN VBZ DT NN VBN IN DT NN CC VBD VBN TO DT JJ NN .
+He said the crash did not appear to be the result of hostile fire .,O O O O O O O O O O O O O O O,PRP VBD DT NN VBD RB VB TO VB DT NN IN JJ NN .

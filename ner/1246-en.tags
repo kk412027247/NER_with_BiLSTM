@@ -1,0 +1,9 @@
+"The World Health Organization says that despite a global effort to eradicate polio by the end of 2005 , the number of cases rose by almost 30 percent last year .",O B-org I-org I-org O O O O O O O O O O O B-tim I-tim I-tim O O O O O O O O O O O O O,"DT NNP NNP NNP VBZ IN IN DT JJ NN TO VB NN IN DT NN IN CD , DT NN IN NNS VBD IN RB CD NN JJ NN ."
+"Organization officials say more than 1,170 cases were reported last year compared to 784 in 2003 .",O O O O O O O O O O O O O O O B-tim O,NNP NNS VBP JJR IN CD NNS VBD VBN JJ NN VBN TO CD IN CD .
+"Ninety percent of the incidents occurred in Nigeria , India and Pakistan .",O O O O O O O B-geo O B-geo O B-geo O,"CD NN IN DT NNS VBD IN NNP , NNP CC NNP ."
+"Nigeria , Africa 's most populous country , accounts for 65 percent of the 2004 total .",B-geo O B-geo O O O O O O O O O O O B-tim O O,"NNP , NNP POS JJS JJ NN , NNS IN CD NN IN DT CD NN ."
+Eradication efforts have been hampered by a months-long vaccine boycott in that country 's northern region .,O O O O O O O B-tim O O O O O O O O O,NNP NNS VBP VBN VBN IN DT JJ NN NN IN DT NN POS JJ NN .
+Opponents there had said the polio vaccine was contaminated with infertility agents .,O O O O O O O O O O O O O,NNS RB VBD VBN DT NN NN VBD VBN IN NN NNS .
+"That boycott led to the spread of the virus to neighboring countries , including Ghana , Benin , Chad and Togo .",O O O O O O O O O O O O O O B-geo O B-geo O B-geo O B-geo O,"DT NN VBD TO DT NN IN DT NN TO JJ NNS , VBG NNP , NNP , NNP CC NNP ."
+Conflicts in Ivory Coast and Sudan also have hindered eradication efforts .,O O B-geo I-geo O B-geo O O O O O O,NNS IN NNP NNP CC NNP RB VBP VBN NN NNS .
+"Polio is a disease that attacks the nervous system , causing paralysis , muscle atrophy and sometimes death .",O O O O O O O O O O O O O O O O O O O,"NNP VBZ DT NN WDT VBZ DT JJ NN , VBG NN , NN NN CC RB NN ."

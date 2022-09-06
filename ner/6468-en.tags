@@ -1,0 +1,7 @@
+"Spain 's National Court has sentenced a Spanish citizen , released last year from the U.S. detention facility at Guantanamo Bay , Cuba , to six years in prison for membership in al-Qaida .",B-org O B-org I-org O O O B-gpe O O O O O B-tim O B-geo O O O B-geo I-geo O B-geo O O B-tim O O O O O O B-org O,"NNP POS NNP NNP VBZ VBN DT JJ NN , VBN JJ NN IN DT NNP NN NN IN NNP NNP , NNP , IN CD NNS IN NN IN NN IN NNP ."
+The court announced the sentence in the case of Hamed Aberrahman Ahmed Wednesday .,O O O O O O O O O B-per I-per I-per B-tim O,DT NN VBD DT NN IN DT NN IN NNP NNP NNP NNP .
+Prosecutors say Mr. Ahmed had gone to Afghanistan to train with Osama bin Laden 's followers .,O O B-per I-per O O O B-geo O O O B-per I-per I-per O O O,NNS VBP NNP NNP VBD VBN TO NNP TO VB IN NNP NNP NNP POS NNS .
+He has denied al-Qaida membership .,O O O B-org O O,PRP VBZ VBN NNP NN .
+Mr. Ahmed was arrested in Pakistan in late 2001 .,B-per I-per O O O B-geo O O B-tim O,NNP NNP VBD VBN IN NNP IN JJ CD .
+"Pakistani authorities later handed him over to U.S. forces , who sent him to the military detention facility at Guantanamo Bay .",B-gpe O O O O O O B-geo O O O O O O O O O O O B-geo I-geo O,"JJ NNS RB VBD PRP IN TO NNP NNS , WP VBD PRP TO DT JJ NN NN IN NNP NNP ."
+U.S authorities turned him over to Spain in February of last year .,B-org O O O O O B-geo O B-tim I-tim O O O,NNP NNS VBD PRP RP TO NNP IN NNP IN JJ NN .

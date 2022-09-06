@@ -1,0 +1,7 @@
+Israel 's Security Cabinet has decided to continue military strikes against Palestinian militants firing rockets from Gaza into Israel .,B-geo O B-org I-org O O O O O O O B-gpe O O O O B-geo O B-geo O,NNP POS NNP NNP VBZ VBN TO VB JJ NNS IN JJ NNS VBG NNS IN NNP IN NNP .
+The cabinet said it based the decision on the relative decrease in rocket attacks since Israeli airstrikes started almost two weeks ago .,O O O O O O O O O O O O O O O B-gpe O O O B-tim O O O,DT NN VBD PRP VBD DT NN IN DT JJ NN IN NN NNS IN JJ NNS VBD RB CD NNS RB .
+Israel has also conducted a limited number of ground raids against the militants .,B-geo O O O O O O O O O O O O O,NNP VBZ RB VBN DT JJ NN IN NN NNS IN DT NNS .
+A statement from the office of Israeli Prime Minister Ehud Olmert added that Israel is not involved in any cease-fire talks with the militants .,O O O O O O B-gpe B-per I-per I-per I-per O O B-geo O O O O O O O O O O O,DT NN IN DT NN IN JJ NNP NNP NNP NNP VBD IN NNP VBZ RB VBN IN DT NN NNS IN DT NNS .
+"Earlier Wednesday , an Israeli airstrike killed two Hamas militants in a northern Gaza refugee camp .",O B-tim O O B-gpe O O B-tim I-tim O O O O B-geo O O O,"RBR NNP , DT JJ NN VBD CD NNP NNS IN DT JJ NNP NN NN ."
+"About 50 Palestinians , mostly militants , have been killed in the Israeli attacks .",O B-tim B-gpe O O O O O O O O O B-gpe O O,"IN CD NNS , RB NNS , VBP VBN VBN IN DT JJ NNS ."
+Palestinian rockets have killed two Israelis since mid-May .,B-gpe O O O O B-gpe O B-tim O,JJ NNS VBP VBN CD NNS IN NNP .

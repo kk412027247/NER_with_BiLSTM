@@ -1,0 +1,6 @@
+The Israeli military says Israeli warplanes have destroyed offices of an armed wing of the Fatah Movement of Palestinian President Mahmoud Abbas .,O B-gpe O O B-gpe O O O O O O O O O O B-org O O B-gpe B-per I-per I-per O,DT JJ NN VBZ JJ NNS VBP VBN NNS IN DT JJ NN IN DT NNP NN IN JJ NNP NNP NNP .
+Military officials say helicopters fired missiles at two offices Friday of the Al-Aqsa Martyrs Brigades in Gaza City .,O O O O O O O O O B-tim O O B-org I-org I-org O B-geo I-geo O,JJ NNS VBP NNS VBD NNS IN CD NNS NNP IN DT NNP NNP NNP IN NNP NNP .
+Palestinian sources say there were no casualties .,B-gpe O O O O O O O,JJ NNS VBP EX VBD DT NNS .
+Israel blamed Al-Aqsa for firing rockets at its towns and cities on Thursday .,B-geo O B-org O O O O O O O O O B-tim O,NNP VBD NNP IN VBG NNS IN PRP$ NNS CC NNS IN NNP .
+"The Israeli army says one of the rockets fired from Gaza struck an Israeli factory near the town of Ashkelon and set it ablaze , injuring one Israeli .",O B-gpe O O O O O O O O B-geo O O B-gpe O O O O O B-org O O O O O O O B-gpe O,"DT JJ NN VBZ CD IN DT NNS VBN IN NNP VBD DT JJ NN IN DT NN IN NNP CC VBD PRP VB , VBG CD NN ."
+The army says another rocket hit in the town of Sderot but caused no injuries or damage .,O O O O O O O O O O B-org O O O O O O O,DT NN VBZ DT NN VBD IN DT NN IN NNP CC VBD DT NNS CC NN .

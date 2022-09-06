@@ -1,0 +1,8 @@
+Hong Kong health officials say a nine-month old girl has tested positive for a mild strain of the bird flu virus .,B-geo I-geo O O O O B-tim O O O O O O O O O O O O O O O,NNP NNP NN NNS VBP DT JJ JJ NN VBZ VBN JJ IN DT JJ NN IN DT NN NN NN .
+Officials said Tuesday that it was most likely the baby was infected when she was taken to a food market that sold live poultry .,O O B-tim O O O O O O O O O O O O O O O O O O O O O O,NNS VBD NNP IN PRP VBD RBS JJ DT NN VBD VBN WRB PRP VBD VBN TO DT NN NN WDT VBD JJ NN .
+"Doctors have isolated the baby at a local hospital , but say her condition is not that serious .",O O O O O O O O O O O O O O O O O O O,"NNS VBP VBN DT NN IN DT JJ NN , CC VBP PRP$ NN VBZ RB IN JJ ."
+"The head of Hong Kong 's Center for Health Protection , Thomas Tsang , says the baby 's case is the third time that the H9N2 strain of bird flu has been detected in humans .",O O O B-geo I-geo O B-org I-org I-org I-org O B-per I-per O O O O O O O O O O O O O O O O O O O O O O O,"DT NN IN NNP NNP POS NNP IN NNP NNP , NNP NNP , VBZ DT NN POS NN VBZ DT JJ NN IN DT NNP NN IN NN NN VBZ VBN VBN IN NNS ."
+Bird flu has many subtypes .,O O O O O O,NN NN VBZ JJ NNS .
+The more dangerous H5N1 strain of the virus has killed more than 160 people since 2003 .,O O O B-nat O O O O O O O O O O B-tim I-tim O,DT RBR JJ NNP NN IN DT NN VBZ VBN JJR IN CD NNS IN CD .
+Bird flu first appeared in Hong Kong in 1997 .,O O O O O B-geo I-geo O B-tim O,NN NN RB VBD IN NNP NNP IN CD .
+The virus killed six people and led to the slaughter of more than a million birds .,O O O O O O O O O O O O O O O O O,DT NN VBD CD NNS CC VBD TO DT NN IN JJR IN DT CD NNS .

@@ -1,0 +1,7 @@
+"A United Nations worker from Burma was among the three people killed by Saturday 's bombing at an Internet cafe in Kabul , Afghanistan .",O B-org I-org O O B-geo O O O O O O O B-tim O O O O O O O B-geo O B-geo O,"DT NNP NNPS NN IN NNP VBD IN DT CD NNS VBN IN NNP POS NN IN DT NNP NN IN NNP , NNP ."
+"U.N. officials said Sunday the victim worked for the U.N. Office of Project Services , but did not release his name .",B-org O O B-tim O O O O O B-org I-org I-org I-org I-org O O O O O O O O,"NNP NNS VBD NNP DT NN VBD IN DT NNP NNP IN NNP NNPS , CC VBD RB VB PRP$ NN ."
+The man had been living at a guest house connected to the Internet cafe .,O O O O O O O O O O O O O O O,DT NN VBD VBN VBG IN DT NN NN VBN TO DT NNP NN .
+"The other two men killed were Afghans , and authorities in Kabul suspect one of them was a suicide bomber .",O O O O O O B-gpe O O O O B-geo O O O O O O O O O,"DT JJ CD NNS VBN VBD NNS , CC NNS IN NNP VBP CD IN PRP VBD DT NN NN ."
+At least five other people were wounded .,O O O O O O O O,IN JJS CD JJ NNS VBD VBN .
+"The blast destroyed the cafe , which was frequented by foreigners .",O O O O O O O O O O O O,"DT NN VBD DT NN , WDT VBD VBN IN NNS ."
+There has been no claim of responsibility .,O O O O O O O O,EX VBZ VBN DT NN IN NN .

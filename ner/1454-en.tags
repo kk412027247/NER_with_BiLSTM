@@ -1,0 +1,8 @@
+"Afghan officials say two suicide bombers wearing police uniforms blew themselves up at a provincial police headquarters in eastern Afghanistan , killing at least 10 police officers and wounding at least 13 others .",B-gpe O O O O O O O O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O O,"JJ NNS VBP CD NN NNS VBG NN NNS VBD PRP RP IN DT JJ NN NN IN JJ NNP , VBG IN JJ CD NNS NNS CC VBG IN JJS CD NNS ."
+Authorities say Saturday 's attack occurred in Paktika province .,O O B-tim O O O O B-geo O O,NNS VBP NNP POS NN VBD IN NNP NN .
+The Taliban has claimed responsibility for the assault .,O B-org O O O O O O O,DT NNP VBZ VBN NN IN DT NN .
+Reuters news service reports a Taliban spokesman says the attackers had undergone police training at the center .,B-org O O O O B-org O O O O O O O O O O O O,NNP NN NN VBZ DT NNP NN VBZ DT NNS VBD VBN NN NN IN DT NN .
+"In eastern Afghanistan , Afghan and coalition forces killed at least 15 insurgents in Nangarhar province .",O B-geo I-geo O B-gpe O O O O O O O O O B-geo O O,"IN JJ NNP , JJ CC NN NNS VBN IN JJS CD NNS IN NNP NN ."
+Officials say the security force had come under fire as it approached a compound in search of a Taliban leader .,O O O O O O O O O O O O O O O O O O B-org O O,NNS VBP DT NN NN VBD VBN IN NN IN PRP VBD DT NN IN NN IN DT NNP NN .
+"Separately , coalition forces say an improvised explosive blast killed one service member Saturday in eastern Afghanistan .",O O O O O O O O O O O O O B-tim O B-geo I-geo O,"RB , NN NNS VBP DT JJ JJ NN VBD CD NN NN NNP IN JJ NNP ."
+Officials did not reveal the soldier 's nationality or identity .,O O O O O O O O O O O,NNS VBD RB VB DT NN POS NN CC NN .

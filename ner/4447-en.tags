@@ -1,0 +1,8 @@
+Australia 's cricket team has scored 337-9 at stumps on the first day of its first test against India in Melbourne .,B-geo O O O O O O O O O O O O O O O O O B-geo O B-geo O,NNP POS NN NN VBZ VBN CD IN NNS IN DT JJ NN IN PRP$ JJ NN IN NNP IN NNP .
+"Matthew Hayden scored his 28th test century in the match , making 124 before being caught out by Sourav Ganguly .",B-per I-per O O B-tim O O O O O O O O O O O O O B-per I-per O,"NNP NNP VBD PRP$ JJ NN NN IN DT NN , VBG CD IN VBG VBN RP IN NNP NNP ."
+"The century was Hayden 's 19th in Australia , surpassing countrymen Donald Bradman and Ricky Ponting , who have 18 each .",O O O B-per O B-tim O B-geo O O O B-per I-per O B-per I-per O O O O O O,"DT NN VBD NNP POS JJ IN NNP , VBG NNS NNP NNP CC NNP NNP , WP VBP CD DT ."
+But India 's bowlers put a damper on Australia 's lineup with Anil Kumble 5-84 .,O B-geo O O O O O O B-geo O O O B-per I-per O O,CC NNP POS NNS VBD DT NN IN NNP POS NN IN NNP NNP CD .
+Zaheer Khan was 3-93 for India .,B-per I-per O O O B-geo O,NNP NNP VBD CD IN NNP .
+"The test is being played on the Melbourne Cricket Ground in front of more than 65,000 fans .",O O O O O O O B-org I-org I-org O O O O O O O O,DT NN VBZ VBG VBN IN DT NNP NNP NNP IN NN IN JJR IN CD NNS .
+"Police say that 110 persons were ejected from the grounds Wednesday , most for throwing objects in the air .",O O O O O O O O O O B-tim O O O O O O O O O,"NNS VBP IN CD NNS VBD VBN IN DT NNS NNP , JJS IN VBG NNS IN DT NN ."
+Twelve people were arrested .,O O O O O,CD NNS VBD VBN .

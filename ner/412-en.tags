@@ -1,0 +1,8 @@
+Police in central India say nine policemen were killed Monday by a series of landmine blasts in Chhattisgarh state .,O O O B-geo O O O O O B-tim O O O O O O O B-geo O O,NNS IN JJ NNP VBP CD NNS VBD VBN NNP IN DT NN IN NN NNS IN NNP NN .
+Authorities blame Maoist rebels for the explosions .,O O O O O O O O,NNS VBP JJ NNS IN DT NNS .
+The police were on patrol at the time of the blasts .,O O O O O O O O O O O O,DT NNS VBD IN NN IN DT NN IN DT NNS .
+At least three other policemen were wounded .,O O O O O O O O,IN JJS CD JJ NNS VBD VBN .
+"India 's Maoist rebels have a strong presence in Chhattisgarh , which is one of India 's poorest states .",B-geo O O O O O O O O B-geo O O O O O B-geo O O O O,"NNP POS NNP NNS VBP DT JJ NN IN NNP , WDT VBZ CD IN NNP POS JJS NNS ."
+They are active in several eastern and central Indian states .,O O O O B-tim I-tim O O B-gpe O O,PRP VBP JJ IN JJ JJ CC JJ JJ NNS .
+"Thousands of people have died in the insurgency , which began 40 years ago .",O O O O O O O O O O O B-tim O O O,"NNS IN NNS VBP VBN IN DT NN , WDT VBD CD NNS RB ."
+The rebels say they are fighting for the rights of poor and landless farmers .,O O O O O O O O O O O O O O O,DT NNS VBP PRP VBP VBG IN DT NNS IN JJ CC JJ NNS .

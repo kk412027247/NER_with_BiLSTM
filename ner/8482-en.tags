@@ -1,0 +1,4 @@
+"After centuries of Danish , Swedish , German , and Russian rule , Estonia attained independence in 1918 .",O O O B-gpe O B-gpe O B-gpe O O B-gpe O O B-org O O O B-tim O,"IN NNS IN JJ , JJ , JJ , CC JJ NN , NNP VBD NN IN CD ."
+Forcibly incorporated into the USSR in 1940 - an action never recognized by the US - it regained its freedom in 1991 with the collapse of the Soviet Union .,O O O O B-geo O B-tim O O O O O O O B-geo O O O O O O B-tim O O O O O B-geo I-geo O,RB VBN IN DT NNP IN CD IN DT NN RB VBN IN DT NNP IN PRP VBD PRP$ NN IN CD IN DT NN IN DT NNP NNP .
+"Since the last Russian troops left in 1994 , Estonia has been free to promote economic and political ties with the West .",O O O B-gpe O O O B-tim O B-org O O O O O O O O O O O B-geo O,"IN DT JJ JJ NNS VBD IN CD , NNP VBZ VBN JJ TO VB JJ CC JJ NNS IN DT NNP ."
+It joined both NATO and the EU in the spring of 2004 .,O O O B-org O O B-org O O B-tim I-tim I-tim O,PRP VBD DT NNP CC DT NNP IN DT NN IN CD .

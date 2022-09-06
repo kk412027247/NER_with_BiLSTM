@@ -1,0 +1,8 @@
+Venezuela 's president has vowed to reject the U.S. nominee for ambassador to the South American country .,B-gpe O O O O O O O B-geo O O O O O B-org I-org O O,NNP POS NN VBZ VBN TO VB DT NNP NN IN NN TO DT NNP NNP NN .
+Hugo Chavez said Saturday in a televised speech Larry Palmer will not be allowed to take up his post because the diplomat has been critical of Caracas .,B-per I-per O B-tim O O O O B-per I-per O O O O O O O O O O O O O O O O B-geo O,NNP NNP VBD NNP IN DT JJ NN NNP NNP MD RB VB VBN TO VB RP PRP$ NN IN DT NN VBZ VBN JJ IN NNP .
+Palmer upset the Chavez administration when he told a U.S. senator that morale was low in the Venezuelan military .,B-per O O B-per O O O O O B-geo O O O O O O O B-gpe O O,NNP VB DT NNP NN WRB PRP VBD DT NNP NN IN NN VBD JJ IN DT JJ NN .
+Palmer also expressed concern about Colombian rebels finding refuge in Venezuela .,B-per O O O O B-gpe O O O O B-geo O,NNP RB VBD NN IN JJ NNS VBG NN IN NNP .
+President Chavez says he has told Foreign Minister Nicolas Maduro to detain Palmer if he tries to enter Venezuela .,O B-per O O O O O B-per I-per I-per O O B-per O O O O O B-geo O,NNP NNP VBZ PRP VBZ VBN NNP NNP NNP NNP TO VB NNP IN PRP VBZ TO VB NNP .
+The U.S. Senate is expected to confirm Palmer 's appointment soon .,O B-org I-org O O O O B-per O O O O,DT NNP NNP VBZ VBN TO VB NNP POS NN RB .
+"On Friday , Venezuelan lawmakers voted to allow Chavez to bypass parliament and rule by decree for 18 months .",O B-tim O B-gpe O O O O B-per O O O O O O O O B-tim O O,"IN NNP , JJ NNS VBD TO VB NNP TO VB NN CC NN IN NN IN CD NNS ."
+That move was denounced by opposition rivals and the U.S. government .,O O O O O O O O O B-geo O O,DT NN VBD VBN IN NN NNS CC DT NNP NN .

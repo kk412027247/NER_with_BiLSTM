@@ -1,0 +1,7 @@
+Lebanese authorities say four people are dead after an apparent assassination attempt against a top Lebanese police official near the southern city of Sidon .,B-gpe O O O O O O O O O O O O O O B-gpe O O O O O O O B-geo O,JJ NNS VBP CD NNS VBP JJ IN DT JJ NN NN IN DT JJ JJ NN NN IN DT JJ NN IN NNP .
+"Officials say Colonel Samir Shehade was wounded , but in stable condition after a bomb exploded near his car Tuesday .",O O B-org I-org I-org O O O O O O O O O O O O O O B-tim O,"NNS VBP NNP NNP NNP VBD VBN , CC IN JJ NN IN DT NN VBD IN PRP$ NN NNP ."
+"The blast killed four of his aides and bodyguards , and wounded four others .",O O O O O O O O O O O O O O O,"DT NN VBD CD IN PRP$ NNS CC NNS , CC VBD CD NNS ."
+"There was no immediate word on a possible motive for the attack against Shehade , a senior officer in Lebanon 's internal security force .",O O O O O O O O O O O O O B-org O O O O O B-geo O O O O O,"EX VBD DT JJ NN IN DT JJ NN IN DT NN IN NNP , DT JJ NN IN NNP POS JJ NN NN ."
+He was involved in the investigation of last year 's killing of former Prime Minister Rafik Hariri .,O O O O O O O O O O O O O B-per I-per I-per I-per O,PRP VBD VBN IN DT NN IN JJ NN POS NN IN JJ NNP NNP NNP NNP .
+"Many in Lebanon blame Syria for the Hariri murder , which the United Nations also is investigating separately .",O O B-geo O B-geo O O B-per O O O O B-org I-org O O O O O,"JJ IN NNP VBP NNP IN DT NNP NN , WDT DT NNP NNP RB VBZ VBG RB ."
+Syria denies any involvement .,B-geo O O O O,NNP VBZ DT NN .

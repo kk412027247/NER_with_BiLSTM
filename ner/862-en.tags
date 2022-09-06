@@ -1,0 +1,7 @@
+European Union foreign policy chief Javier Solana says EU officials will likely decide Tuesday to sharply cut the number of peacekeepers in Bosnia-Herzegovina .,B-org I-org O O O B-per I-per O B-org O O O O B-tim O O O O O O O O B-geo O,NNP NNP JJ NN NN NNP NNP VBZ NNP NNS MD RB VB NNP TO RB VB DT NN IN NNS IN NNP .
+Solana said Monday the security situation in Bosnia is much improved .,B-per O B-tim O O O O B-geo O O O O,NNP VBD NNP DT NN NN IN NNP VBZ RB VBN .
+"EU officials will likely reduce the number of troops from the current 6,000 to 2,500 .",B-org O O O O O O O O O O O O O O O,NNP NNS MD RB VB DT NN IN NNS IN DT JJ CD TO CD .
+The ministers are also expected to formally decide today on whether to extend the Bosnian peacekeeping mission for another year .,O O O O O O O O B-tim O O O O O B-gpe O O O B-tim O O,DT NNS VBP RB VBN TO RB VB NN IN IN TO VB DT JJ NN NN IN DT NN .
+The current mandate expires on June 30 .,O O O O O B-tim I-tim O,DT JJ NN VBZ IN NNP CD .
+NATO peacekeepers were deployed to Bosnia as part of the 1995 Dayton Peace Accords that ended the fighting in the former Yugoslavia .,B-org O O O O B-geo O O O O B-tim I-tim I-tim I-tim O O O O O O O B-geo O,NNP NNS VBD VBN TO NNP IN NN IN DT CD NNP NNP NNP WDT VBD DT NN IN DT JJ NNP .
+NATO turned over peacekeeping duties to the European Union in 2004 .,B-org O O O O O O B-org I-org O B-tim O,NNP VBD RP VBG NNS TO DT NNP NNP IN CD .

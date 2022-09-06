@@ -1,0 +1,6 @@
+South Korea 's foreign minister says he is willing to travel to Pyongyang if it will help bring North Korea back to international nuclear disarmament talks .,B-geo I-geo O O O O O O O O O O B-geo O O O O O B-geo I-geo O O O O O O O,NNP NNP POS JJ NN VBZ PRP VBZ JJ TO VB TO NNP IN PRP MD VB VB NNP NNP RB TO JJ JJ NN NNS .
+Ban Ki-moon did not say if North Korea had extended an invitation .,B-per I-per O O O O B-geo I-geo O O O O O,NNP NNP VBD RB VB IN NNP NNP VBD VBN DT NN .
+But he said he is willing to make the trip if his efforts will help .,O O O O O O O O O O O O O O O O,CC PRP VBD PRP VBZ JJ TO VB DT NN IN PRP$ NNS MD VB .
+Six country talks on North Korea 's nuclear program have been stalled since last November .,O O O O B-geo I-geo O O O O O O O O B-tim O,CD NN NNS IN NNP NNP POS JJ NN VBP VBN VBN IN JJ NNP .
+"The United States , China , Russia , Japan and South Korea were trying to convince North Korea to abandon its nuclear program entirely .",O B-geo I-geo O B-geo O B-geo O B-geo O B-geo I-geo O O O O B-geo I-geo O O O O O O O,"DT NNP NNPS , NNP , NNP , NNP CC NNP NNP VBD VBG TO VB NNP NNP TO VB PRP$ JJ NN RB ."
+Work toward resuming negotiations intensified last month when North Korea test-fired several missiles .,O O O O O O O O B-geo I-geo O O O O,NN IN VBG NNS VBN JJ NN WRB NNP NNP VBD JJ NNS .

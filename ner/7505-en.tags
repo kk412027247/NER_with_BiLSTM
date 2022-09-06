@@ -1,0 +1,6 @@
+"Sylvester Stallone faces stiff fines in Australia , where he is accused of importing a muscle-building hormone .",B-per I-per O O O O B-geo O O O O O O O O O O O,"NNP NNP VBZ JJ NNS IN NNP , WRB PRP VBZ VBN IN VBG DT JJ NN ."
+"The movie star was detained Feb. 16 in the Sydney airport , while authorities searched his hotel room .",O O O O O B-tim I-tim O B-geo I-geo I-geo O O O O O O O O,"DT NN NN VBD VBN NNP CD IN DT NNP NN , IN NNS VBD PRP$ NN NN ."
+"He and his group subsequently left the country , and he was not compelled to attend the March 13 hearing .",O O O O O O O O O O O O O O O O O B-tim I-tim O O,"PRP CC PRP$ NN RB VBD DT NN , CC PRP VBD RB VBN TO VB DT NNP CD NN ."
+"He is accused of possessing human growth hormone , classified in Australia as a restricted performance-enhancing drug .",O O O O O O O O O O O B-geo O O O O O O,"PRP VBZ VBN IN VBG JJ NN NN , VBN IN NNP IN DT JJ JJ NN ."
+"The maximum penalty for illegal possession is a fine of $ 86,000 and five years in prison .",O O O O O O O O O O O O O B-tim O O O O,DT NN NN IN JJ NN VBZ DT NN IN $ CD CC CD NNS IN NN .
+Stallone is unlikely to face such a sentence .,B-per O O O O O O O O,NNP VBZ JJ TO VB PDT DT NN .

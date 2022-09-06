@@ -1,0 +1,8 @@
+"Norwegian Frode Andresen has won a World Cup men 's biathlon sprint event in Ruhpolding , Germany , but Frenchman Raphael Poiree is the overall leader .",B-gpe B-per I-per O O O O O O O O O O O B-geo O B-geo O O B-org I-org I-org O O O O O,"JJ NNP NNP VBZ VBN DT NNP NNP NNS POS NN NN NN IN NNP , NNP , CC NNP NNP NNP VBZ DT JJ NN ."
+Andresen finished the 10-kilometer event in 25:03.5 seconds with one shooting miss .,B-per O O O O O O O O O O O O,NNP VBD DT JJ NN IN CD NNS IN CD NN VBP .
+Michael Rösch of Germany was second 3.8 seconds back with no penalties .,B-per I-per O B-geo O O O O O O O O O,NNP NNP IN NNP VBD JJ CD NNS RB IN DT NNS .
+"Michael Greis of German was third , 11.8 seconds behind Andresen with one shooting miss .",B-per I-per O B-gpe O O O O O O B-per O O O O O,"NNP NNP IN JJ VBD JJ , CD NNS IN NNP IN CD NN VBP ."
+"Poiree finished fourth in the race , more than 15 seconds behind the Norwegian , but leads the overall World Cup standings with 298 points after 10 events .",B-per O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNP VBD RB IN DT NN , JJR IN CD NNS IN DT NN , CC VBZ DT JJ NNP NNP NNS IN CD NNS IN CD NNS ."
+The men 's 12.5-kilometer pursuit race is Sunday at the same venue .,O O O O O O O B-tim O O O O O,DT NNS POS JJ NN NN VBZ NNP IN DT JJ NN .
+Biathlon combines cross-country skiing and rifle shooting from a variety of positions .,O O O O O O O O O O O O O,NNP VBZ NN NN CC NN NN IN DT NN IN NNS .
+Athletes must ski penalty laps for shooting misses .,O O O O O O O O O,NNS MD VB NN NNS IN VBG NNS .

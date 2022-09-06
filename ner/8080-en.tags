@@ -1,0 +1,6 @@
+Bosnian officials say DNA tests on human remains taken from mass graves have identified 50 victims of the war in Croatia in the early 1990s .,B-gpe O O O O O O O O O O O O O O O O O O O B-geo O O O B-tim O,JJ NNS VBP NN NNS IN JJ NNS VBN IN NN NNS VBP VBN CD NNS IN DT NN IN NNP IN DT JJ NNS .
+Experts in Bosnian and Croatian laboratories compared the DNA with blood samples taken from more than 750 families who have reported missing relatives .,O O B-gpe O B-gpe O O O O O O O O O O O O O O O O O O O,NNS IN JJ CC JJ NNS VBN DT NN IN NN NNS VBN IN JJR IN CD NNS WP VBP VBN VBG NNS .
+Fifty of the samples led to positive identifications .,O O O O O O O O O,CD IN DT NNS VBD TO JJ NNS .
+A Bosnian official calls the results extraordinary .,O B-gpe O O O O O O,DT JJ NN VBZ DT NNS JJ .
+The Sarajevo-based International Commission for Missing Persons runs one of the world 's most sophisticated DNA laboratories,O O B-org I-org I-org I-org I-org O O O O O O O O O O,DT JJ NNP NNP IN VBG NNS VBZ CD IN DT NN POS RBS JJ NN NNS
+"The lab helped identify victims of the September 11 , 2001 terror attacks on the United States and last year 's Asian tsunami .",O O O O O O O B-tim I-tim I-tim I-tim O O O O B-geo I-geo O O O O O O O,"DT NN VBD VB NNS IN DT NNP CD , CD NN NNS IN DT NNP NNPS CC JJ NN POS JJ NN ."

@@ -1,0 +1,8 @@
+President Bush will visit the U.S. Gulf Coast Sunday as the region continues to clean-up from Hurricane Katrina .,B-per I-per O O O B-geo I-geo I-geo B-tim O O O O O O O B-nat I-nat O,NNP NNP MD VB DT NNP NNP NNP NNP IN DT NN VBZ TO VB IN NNP NNP .
+The visit will be Mr. Bush 's third trip to the area since the devastating storm hit nearly two weeks ago .,O O O O B-per I-per O O O O O O O O O O O O B-tim O O O,DT NN MD VB NNP NNP POS JJ NN TO DT NN IN DT JJ NN VBD RB CD NNS RB .
+Cleanup and recovery efforts in New Orleans are showing signs of progress .,O O O O O B-geo I-geo O O O O O O,NN CC NN NNS IN NNP NNP VBP VBG NNS IN NN .
+"The U.S. Army Corps of Engineers now says it will take 40 days to pump the floodwaters out of the city , cutting its original estimate in half .",O B-org I-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O O O O O,"DT NNP NNP NNP IN NNPS RB VBZ PRP MD VB CD NNS TO VB DT NNS IN IN DT NN , VBG PRP$ JJ NN IN NN ."
+The city 's Louis Armstrong International Airport will reopen to passenger traffic on Tuesday .,O O O B-geo I-geo I-geo I-geo O O O O O O B-tim O,DT NN POS NNP NNP NNP NNP MD VB TO NN NN IN NNP .
+"Meanwhile , the block-to-block search continues for those killed when Katrina hit landfall .",O O O O O O O O O O B-nat O O O,"RB , DT JJ NN VBZ IN DT VBN WRB NNP VBD NN ."
+Officials now cautiously say the death toll may be far lower than the thousands originally feared .,O O O O O O O O O O O O O O O O O,NNS RB RB VBP DT NN NN MD VB RB JJR IN DT NNS RB VBN .
+"The death toll now stands at nearly 400 across the region , with 154 in New Orleans .",O O O O O O O O O O O O O O O B-geo I-geo O,"DT NN NN RB VBZ IN RB CD IN DT NN , IN CD IN NNP NNP ."

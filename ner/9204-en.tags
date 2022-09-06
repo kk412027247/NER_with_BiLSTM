@@ -1,0 +1,8 @@
+Washington D.C. has moved a step closer to formally returning Major League Baseball to the U.S. capital .,B-geo I-geo O O O O O O O O O O O O O B-geo O O,NNP NNP VBZ VBN DT NN RBR TO RB VBG NNP NNP NN TO DT NNP NN .
+The D.C. City Council initially approved Tuesday a debt and tax-backed financing plan to build a new stadium .,O B-geo I-geo B-org O O B-tim O O O O O O O O O O O O,DT NNP NNP NNP RB VBD NNP DT NN CC JJ NN NN TO VB DT JJ NN .
+"Under the proposal , Washington would sell about $ 500 million in bonds along with an increased stadium sales tax and a new tax on large businesses in the city .",O O O O B-geo O O O O O O O O O O O O O O O O O O O O O O O O O O,"IN DT NN , NNP MD VB IN $ CD CD IN NNS IN IN DT VBN NN NNS NN CC DT JJ NN IN JJ NNS IN DT NN ."
+The financing needs final approval by December 31 under Mayor Anthony Williams ' agreement with Major League Baseball .,O O O O O O B-tim I-tim O B-per I-per I-per O O O O O O O,DT NN VBZ JJ NN IN NNP CD IN NNP NNP NNP POS NN IN NNP NNP NNP .
+The mayor has said a new stadium would cost about $ 440 million .,O O O O O O O O O O O O O O,DT NN VBZ VBN DT JJ NN MD VB IN $ CD CD .
+But other estimates boost the total by more than $ 140 million .,O O O O O O O O O O O O O,CC JJ NNS VBP DT NN IN JJR IN $ CD CD .
+The league announced in September the Montreal Expos would move to Washington .,O O O O B-tim O B-org I-org O O O B-geo O,DT NN VBD IN NNP DT NNP NNP MD VB TO NNP .
+The team was later renamed the Nationals .,O O O O O O B-org O,DT NN VBD RB VBN DT NNPS .

@@ -1,0 +1,8 @@
+"Tourism is the primary economic activity , accounting for 80 % of GDP and employment .",O O O O O O O O O O O O O O O O,"NNP VBZ DT JJ JJ NN , NN IN CD NN IN NN CC NN ."
+The islands hosted 2.4 million visitors in 2008 .,O O O O O O O B-tim O,DT NNS VBD CD CD NNS IN CD .
+"The manufacturing sector consists of petroleum refining , rum distilling , textiles , electronics , pharmaceuticals , and watch assembly .",O O O O O O O O O O O O O O O O O O O O O,"DT NN NN VBZ IN NN NN , NN NN , NNS , NNS , NNS , CC NN NN ."
+One of the world 's largest petroleum refineries is at Saint Croix .,O O O O O O O O O O B-geo I-geo O,CD IN DT NN POS JJS NN NNS VBZ IN NNP NNP .
+"The agricultural sector is small , with most food being imported .",O O O O O O O O O O O O,"DT JJ NN VBZ JJ , IN JJS NN VBG VBN ."
+International business and financial services are small but growing components of the economy .,O O O O O O O O O O O O O O,NNP NN CC JJ NNS VBP JJ CC JJ NNS IN DT NN .
+The islands are vulnerable to substantial damage from storms .,O O O O O O O O O O,DT NNS VBP JJ TO JJ NN IN NNS .
+"The government is working to improve fiscal discipline , to support construction projects in the private sector , to expand tourist facilities , to reduce crime , and to protect the environment .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"DT NN VBZ VBG TO VB JJ NN , TO VB NN NNS IN DT JJ NN , TO VB NN NNS , TO VB NN , CC TO VB DT NN ."

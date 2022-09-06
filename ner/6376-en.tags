@@ -1,0 +1,8 @@
+Pakistani President Pervez Musharraf has expressed hope to leaders at the Non-Aligned Movement ( NAM ) summit that talks with his Indian counterpart could ease Kashmir border tensions .,B-gpe B-per I-per I-per O O O O O O O O O O B-org O O O O O O B-gpe O O O O O O O,JJ NNP NNP NNP VBZ VBN NN TO NNS IN DT JJ NN LRB NNP RRB NN IN NNS IN PRP$ JJ NN MD VB NNP NN NNS .
+"General Musharraf and Indian Prime Minister Manmohan Singh are expected to meet Saturday on the sidelines of the summit in Havana , Cuba .",B-per I-per O B-gpe B-per I-per I-per I-per O O O O B-tim O O O O O O O B-geo O B-geo O,"NNP NNP CC JJ NNP NNP NNP NNP VBP VBN TO VB NNP IN DT NNS IN DT NN IN NNP , NNP ."
+"Unlike Pakistan 's president , Mr. Singh did not speak directly about the Kashmir issue during his speech at the summit Friday .",B-org I-org O O O B-per I-per O O O O O O O O O O O O O O B-tim O,"IN NNP POS NN , NNP NNP VBD RB VB RB IN DT NNP NN IN PRP$ NN IN DT NN NNP ."
+"However , he urged N.A.M. leaders to renew their group 's efforts against terrorism .",O O O O O O O O O O O O O O O,"RB , PRP VBD NNP NNS TO VB PRP$ NN POS NNS IN NN ."
+Both India and Pakistan claim ownership of Kashmir .,O B-geo O B-geo O O O O O,DT NNP CC NNP VBP NN IN NNP .
+The countries agreed on a ceasefire in 2003 .,O O O O O O O B-tim O,DT NNS VBD IN DT NN IN CD .
+"Kashmir is suffering from a 17-year insurgency that has killed more than 45,000 people .",O O O O O O O O O O O O O O O,NNP VBZ VBG IN DT JJ NN WDT VBZ VBN JJR IN CD NNS .
+A number of rebel groups are fighting for independence from India or a merger with Muslim-majority Pakistan .,O O O O O O O O O O B-geo O O O O B-org I-org O,DT NN IN NN NNS VBP VBG IN NN IN NNP CC DT NN IN NNP NNP .

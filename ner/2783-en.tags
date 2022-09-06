@@ -1,0 +1,8 @@
+Venezuelan President Hugo Chavez has criticized U.S. President George Bush for his handling of the U.S. financial crisis .,B-gpe B-per I-per I-per O O B-org B-per I-per I-per O O O O O B-geo O O O,JJ NNP NNP NNP VBZ VBN NNP NNP NNP NNP IN PRP$ NN IN DT NNP JJ NN .
+Mr. Chavez said Friday that the crisis has put the world economy at risk .,B-per I-per O B-tim O O O O O O O O O O O,NNP NNP VBD NNP IN DT NN VBZ VBN DT NN NN IN NN .
+The Venezuelan leader spoke to reporters from the presidential palace in Paris following a meeting with French President Nicolas Sarkozy .,O B-gpe O O O O O O O O O B-geo O O O O B-gpe B-per I-per I-per O,DT JJ NN VBD TO NNS IN DT JJ NN IN NNP VBG DT NN IN JJ NNP NNP NNP .
+Mr. Chavez praised President Sarkozy and said the two discussed technology transfers and energy issues .,B-per I-per O B-per I-per O O O O O O O O O O O,NNP NNP VBD NNP NNP CC VBD DT CD VBN NN NNS CC NN NNS .
+"Earlier Friday , Mr. Chavez was in Russia where he signed an energy cooperation pact with Russian President Dmitry Medvedev .",O B-tim O B-per I-per O O B-geo O O O O O O O O B-gpe B-per I-per I-per O,"RBR NNP , NNP NNP VBD IN NNP WRB PRP VBD DT NN NN NN IN JJ NNP NNP NNP ."
+Russian energy officials recently said they will expand their investment in Venezuela 's oil industry .,B-gpe O O O O O O O O O O B-geo O O O O,JJ NN NNS RB VBD PRP MD VB PRP$ NN IN NNP POS NN NN .
+The Venezuelan leader 's trip has also taken him to Cuba and China .,O B-gpe O O O O O O O O B-geo O B-geo O,DT JJ NN POS NN VBZ RB VBN PRP TO NNP CC NNP .
+He plans to stop in Portugal before returning home .,O O O O O B-geo O O O O,PRP VBZ TO VB IN NNP IN VBG NN .

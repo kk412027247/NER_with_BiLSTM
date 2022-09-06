@@ -1,0 +1,6 @@
+France 's lower house of parliament has approved a new anti-terrorism bill that includes increasing the use of video surveillance .,B-geo O O O O O O O O O O O O O O O O O O O O,NNP POS JJR NN IN NN VBZ VBN DT JJ JJ NN WDT VBZ VBG DT NN IN NN NN .
+The National Assembly voted 373 to 27 in favor of the legislation .,O B-org I-org O O O O O O O O O O,DT NNP NNP VBD CD TO CD IN NN IN DT NN .
+"The bill now requires approval by the Senate , which begins debate in January .",O O O O O O O B-org O O O O O B-tim O,"DT NN RB VBZ NN IN DT NNP , WDT VBZ NN IN NNP ."
+The draft law extends the detention period without charges for terrorism suspects from four days to six days .,O O O O O O O O O O O O B-tim I-tim O B-tim I-tim O O,DT NN NN VBZ DT NN NN IN NNS IN NN NNS IN CD NNS TO CD NNS .
+"It also provides for an increase of video surveillance in French subways , airports and train stations , and requires Internet cafes to keep more detailed information about their clients .",O O O O O O O O O O B-gpe O O O O O O O O O O O O O O O O O O O O,"PRP RB VBZ IN DT NN IN NN NN IN JJ NNS , NNS CC NN NNS , CC VBZ NNP NNS TO VB RBR JJ NN IN PRP$ NNS ."
+Critics of the bill say it will erode basic civil liberties .,O O O O O O O O O O O O,NNS IN DT NN VBP PRP MD VB JJ JJ NNS .

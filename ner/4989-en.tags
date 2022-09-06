@@ -1,0 +1,8 @@
+Angola has imposed travel restrictions on people who have visited an area hit hard by an outbreak of the deadly Marburg virus .,B-gpe O O O O O O O O O O O O O O O O O O O B-nat O O,NNP VBZ VBN NN NNS IN NNS WP VBP VBN DT NN VBN RB IN DT NN IN DT JJ NNP NN .
+"Angola 's deputy health minister , Jose Van Dunem , says anyone who has visited northern Uige province will not be allowed to leave the country for 21 days .",B-gpe O O O O O B-per I-per I-per O O O O O O O B-org O O O O O O O O O O B-tim O O,"NNP POS JJ NN NN , NNP NNP NNP , VBZ DT WP VBZ VBN JJ NNP NN MD RB VB VBN TO VB DT NN IN CD NNS ."
+He said the measure is necessary to stop the spread of the Marburg virus to neighboring countries .,O O O O O O O O O O O O B-nat O O O O O,PRP VBD DT NN VBZ JJ TO VB DT NN IN DT NNP NN TO JJ NNS .
+"Health officials say the disease has killed at least 117 people , mostly children .",O O O O O O O O O O O O O O O,"NN NNS VBP DT NN VBZ VBN IN JJS CD NNS , RB NNS ."
+All of those who died contracted the disease in Uige .,O O O O O O O O O B-geo O,DT IN DT WP VBD VBD DT NN IN NNP .
+"Two deaths took place in Angola 's capital , Luanda .",O O O O O B-gpe O O O B-geo O,"CD NNS VBD NN IN NNP POS NN , NNP ."
+Several neighboring countries have put their health workers on alert for people showing symptoms of the disease .,O O O O O O O O O O O O O O O O O O,JJ JJ NNS VBP VBN PRP$ NN NNS IN NN IN NNS VBG NNS IN DT NN .
+"Marburg virus , similar to the deadly Ebola virus , causes high fever , vomiting , and bloody discharges .",B-nat O O O O O O B-nat O O O O O O O O O O O O,"NNP NN , JJ TO DT JJ NNP NN , VBZ JJ NN , VBG , CC JJ NNS ."

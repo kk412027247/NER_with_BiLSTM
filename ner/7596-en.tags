@@ -1,0 +1,9 @@
+Zimbabwe 's High Court has ruled that 64 suspected mercenaries may appeal their jail terms on convictions related to a coup plot in oil-rich Equatorial Guinea .,B-org I-org I-org I-org O O O O O O O O O O O O O O O O O O O B-org I-org I-org O,NNP POS NNP NNP VBZ VBN IN CD JJ NNS MD VB PRP$ NN NNS IN NNS VBN TO DT NN NN IN JJ NNP NNP .
+"A court judge , Chenembiri Bhunu , granted their petition to appeal to Zimbabwe 's Supreme Court .",O O O O B-per I-per O O O O O O O B-org I-org I-org I-org O,"DT NN NN , NNP NNP , VBD PRP$ NN TO VB TO NNP POS NNP NNP ."
+No date has been set .,O O O O O O,DT NN VBZ VBN VBN .
+"The 64 men , mostly South Africans , were convicted in September on minor immigration and aviation charges .",O O O O O B-org B-gpe O O O O B-tim O O O O O O O,"DT CD NNS , RB NNP NNS , VBD VBN IN NNP IN JJ NN CC NN NNS ."
+Sentences ranged from 12 to 16 months in prison .,O O B-tim I-tim I-tim I-tim O O O O,NNS VBD IN CD CC CD NNS IN NN .
+They were among 70 men arrested last March when their plane landed in Harare .,O O O O O O O B-tim O O O O O B-geo O,PRP VBD IN CD NNS VBN JJ NNP WRB PRP$ NN VBD IN NNP .
+"Zimbabwe accused the group of involvement in a plot to oust the president of Equatorial Guinea , Teodoro Obiang Nguema .",B-org O O O O O O O O O O O O O B-org I-org O B-org I-org I-org O,"NNP VBD DT NN IN NN IN DT NN TO VB DT NN IN NNP NNP , NNP NNP NNP ."
+"The defendants denied the charges , insisting they were headed to Congo to guard mining installations .",O O O O O O O O O O O B-geo O O O O O,"DT NNS VBD DT NNS , VBG PRP VBD VBN TO NNP TO VB NN NNS ."
+"Last month , a court in Equatorial Guinea handed down stiff prison sentences to some 24 suspects convicted of involvement in the foiled plot .",O O O O O O B-org I-org O O O O O O O O O O O O O O O O O,"JJ NN , DT NN IN NNP NNP VBD RP JJ NN NNS TO DT CD NNS VBN IN NN IN DT VBN NN ."

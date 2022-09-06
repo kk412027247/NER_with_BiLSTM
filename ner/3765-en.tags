@@ -1,0 +1,5 @@
+President Bush said nations around the world need to stand with moderate reformers in the MIddle East .,B-per I-per O O O O O O O O O O O O O B-geo I-geo O,NNP NNP VBD NNS IN DT NN VBP TO VB IN JJ NNS IN DT NNP NNP .
+He said the world must seek stability in the region through the establishment of free and just societies .,O O O O O O O O O O O O O O O O O O O,PRP VBD DT NN MD VB NN IN DT NN IN DT NN IN JJ CC RB NNS .
+Mr. Bush also pledged to continue to support the government of Iraq in its struggle with terrorists .,B-per I-per O O O O O O O O O B-geo O O O O O O,NNP NNP RB VBD TO VB TO VB DT NN IN NNP IN PRP$ NN IN NNS .
+"In addition , the president said Iran must abandon what he called its ambition for nuclear weapons .",O O O O O O B-geo O O O O O O O O O O O,"IN NN , DT NN VBD NNP MD VB WP PRP VBD PRP$ NN IN JJ NNS ."
+"He said the United States is working for a diplomatic solution to the issue , and said the U.S. does not oppose a truly peaceful nuclear program for Iran .",O O O B-geo I-geo O O O O O O O O O O O O O B-geo O O O O O O O O O B-geo O,"PRP VBD DT NNP NNPS VBZ VBG IN DT JJ NN TO DT NN , CC VBD DT NNP VBZ RB VB DT RB JJ JJ NN IN NNP ."

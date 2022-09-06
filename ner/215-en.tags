@@ -1,0 +1,7 @@
+"Mexican authorities are investigating an explosion at an oil pipeline in Puebla State that killed at least 28 people , including at least 12 children .",B-gpe O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O,"JJ NNS VBP VBG DT NN IN DT NN NN IN NNP NNP WDT VBD IN JJS CD NNS , VBG IN JJS CD NNS ."
+"Officials say the blast may have been set off by thieves trying to steal crude oil , but have not ruled out a possible mechanical malfunction .",O O O O O O O O O O O O O O O O O O O O O O O O O O O,"NNS VBP DT NN MD VB VBN VBN RP IN NNS VBG TO VB JJ NN , CC VBP RB VBN IN DT JJ JJ NN ."
+"Puebla state officials described the scene in the town of San Martin Texmelucan as "" rivers of fire in the streets . """,B-geo O O O O O O O O O B-geo B-per I-per O O O O O O O O O O,NNP NN NNS VBD DT NN IN DT NN IN NNP NNP NNP IN RQU NNS IN NN IN DT NNS . LQU
+"At least 30 homes were destroyed and dozens more damaged , forcing people to flee for their lives .",O O O O O O O O O O O O O O O O O O O,"IN JJS CD NNS VBD VBN CC NNS RBR JJ , VBG NNS TO VB IN PRP$ NNS ."
+More than 50 people were injured .,O O O O O O O,JJR IN CD NNS VBD VBN .
+The state-owned Pemex oil company said the pipeline was carrying crude oil under high pressure .,O O O O O O O O O O O O O O O O,DT JJ NNP NN NN VBD DT NN VBD VBG JJ NN IN JJ NN .
+"Fuel theft is rampant in the area , with hundreds of millions of dollars lost each year .",O O O O O O O O O O O O O O O B-tim O O,"NN NN VBZ JJ IN DT NN , IN NNS IN NNS IN NNS VBN DT NN ."

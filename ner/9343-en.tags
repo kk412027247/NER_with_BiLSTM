@@ -1,0 +1,6 @@
+"Seismologists say a strong earthquake has struck off the coast of the South Pacific island nation , Vanuatu .",O O O O O O O O O O O O B-geo I-geo O O O B-geo O,"NNS VBP DT JJ NN VBZ VBN RP DT NN IN DT NNP NNP NN NN , NNP ."
+Officials at the Pacific Tsunami Warning Center in the U.S. state of Hawaii say there is no threat of a tsunami .,O O O B-org I-org I-org I-org O O B-geo O O B-geo O O O O O O O O O,NNS IN DT NNP NNP NNP NNP IN DT NNP NN IN NNP VBP EX VBZ DT NN IN DT NN .
+The U.S. Geological Survey says the 6.7 magnitude quake hit 75 kilometers southeast of the city of Lugansville on Vanuatu 's second largest island of Espiritu Santo .,O B-org I-org I-org O O O O O O O O O O O O O B-geo O B-geo O O O O O B-geo I-geo O,DT NNP NNP NNP VBZ DT CD NN NN VBD CD NNS NN IN DT NN IN NNP IN NNP POS JJ JJS NN IN NNP NNP .
+Scientists say the earthquake 's epicenter was 150 kilometer below the earth 's surface .,O O O O O O O O O O O B-geo O O O,NNS VBP DT NN POS NN VBD CD NN IN DT NN POS NN .
+There are no immediate reports of any injuries or major property damage .,O O O O O O O O O O O O O,EX VBP DT JJ NNS IN DT NNS CC JJ NN NN .
+"Vanuatu is an archipelago of some 80 islands located about 2,200 kilometers off the northeast coast of Australia .",B-geo O O O O O O O O O O O O O O O O B-geo O,NNP VBZ DT NN IN DT CD NNS VBN IN CD NNS IN DT NN NN IN NNP .

@@ -1,0 +1,6 @@
+U.S. border officials have found a tunnel under the U.S.-Mexican border in southern California and say they suspect it was used to smuggle drugs or people .,B-geo O O O O O O O O O O O B-geo I-geo O O O O O O O O O O O O O,NNP NN NNS VBP VBN DT NN IN DT JJ NN IN JJ NNP CC VB PRP VBP PRP VBD VBN TO VB NNS CC NNS .
+"A spokeswoman for the Immigration and Customs Enforcement Agency says the tunnel is near the border town of San Ysidro , south of San Diego .",O O O O B-org I-org I-org I-org I-org O O O O O O O O O B-geo I-geo O O O B-geo I-geo O,"DT NN IN DT NNP CC NNP NNP NNP VBZ DT NN VBZ IN DT NN NN IN NNP NNP , RB IN NNP NNP ."
+She says the tunnel is about 11 meters long and one meter square in diameter .,O O O O O O O O O O O O O O O O,PRP VBZ DT NN VBZ IN CD NNS RB CC CD NN NN IN NN .
+She says trash and other evidence was found in the tunnel indicating it had been used recently .,O O O O O O O O O O O O O O O O O O,PRP VBZ NN CC JJ NN VBD VBN IN DT NN VBG PRP VBD VBN VBN RB .
+"Each year , thousands of people illegally enter the United States from Mexico .",O O O O O O O O O B-geo I-geo O B-geo O,"DT NN , NNS IN NNS RB VBP DT NNP NNPS IN NNP ."
+U.S. lawmakers recently ordered construction of security fencing along the border to curb illegal crossing .,B-geo O O O O O O O O O O O O O O O,NNP NNS RB VBD NN IN NN VBG IN DT NN TO VB JJ VBG .

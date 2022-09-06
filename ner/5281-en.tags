@@ -1,0 +1,7 @@
+Blades Of Glory continues to keep the competition on ice .,B-art I-art I-art O O O O O O O O,NNP NNP NNP VBZ TO VB DT NN IN NN .
+"The skating comedy retained the U.S. box office championship , taking in $ 23 million over the Easter weekend .",O O O O O B-geo O O O O O O O O O O O B-tim I-tim O,"DT VBG NN VBD DT NNP NN NN NN , VBG IN $ CD CD IN DT NNP NN ."
+Its 10-day total now stands at $ 68.4 million .,O O O O O O O O O O,PRP$ JJ NN RB VBZ IN $ CD CD .
+"Occupying second place was Disney 's animated comedy Meet The Robinsons , at $ 17 million .",O O O O B-per O O O B-org I-org I-org O O O O O O,"VBG JJ NN VBD NNP POS JJ NN NNP NNP NNP , IN $ CD CD ."
+"Ice Cube 's family comedy Are We Done Yet ? opened in third place , taking in $ 15 million .",O O O O O O O O O O O O O O O O O O O O O,"NNP NNP POS NN NN VBP PRP VB RB . VBD IN JJ NN , VBG IN $ CD CD ."
+"Quentin Tarantino and Robert Rodriguez ' Grindhouse , a much-publicized homage to 1970s exploitation movies , debuted a disappointing fourth with $ 11.6 million .",B-per I-per O B-per I-per O B-art O O O O O B-tim O O O O O O O O O O O O,"NNP NNP CC NNP NNP POS NNP , DT JJ NN TO NNS NN NNS , VBD DT JJ JJ IN $ CD CD ."
+Media tracker Paul Dergarabedian says the film 's three-hour running time limited its total screenings .,O O B-per I-per O O O O O O O O O O O O,NN NN NNP NNP VBZ DT NN POS JJ JJ NN VBN PRP$ JJ NNS .

@@ -1,0 +1,8 @@
+China 's official news agency says the death toll from Tropical Storm Bilis has risen to 518 .,B-geo O O O O O O O O O B-org I-org I-org O O O O O,NNP POS JJ NN NN VBZ DT NN NN IN NNP NNP NNP VBZ VBN TO CD .
+Xinhua says Guangdong province reported an additional 36 deaths Saturday .,B-org O B-org O O O O O O B-tim O,NNP VBZ NNP NN VBD DT JJ CD NNS NNP .
+"On Friday , the official death toll doubled from previous counts .",O B-tim O O O O O O O O O O,"IN NNP , DT JJ NN NN VBD IN JJ NNS ."
+The Xinhua report did not say how the newly reported deaths occurred .,O B-org O O O O O O O O O O O,DT NNP NN VBD RB VB WRB DT RB VBN NNS VBD .
+Rains from the tropical storm caused massive flooding and triggered landslides in several provinces .,O O O O O O O O O O O O O O O,NNS IN DT JJ NN VBD JJ NN CC VBD NNS IN JJ NNS .
+"Hardest hit was Hunan , where the storm is blamed for the deaths of 346 people .",O O O B-geo O O O O O O O O O O O O O,"JJS NN VBD NNP , WRB DT NN VBZ VBN IN DT NNS IN CD NNS ."
+"Bilis hit China 's southeastern coast July 14 , after first striking the Philippines , where it left 28 dead .",B-org O B-geo O O O B-tim I-tim O O O O O B-geo O O O O O O O,"NNP VBD NNP POS JJ NN NNP CD , IN RB VBG DT NNP , WRB PRP VBD CD JJ ."
+One person was killed in Taiwan .,O O O O O B-geo O,CD NN VBD VBN IN NNP .

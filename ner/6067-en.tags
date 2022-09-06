@@ -1,0 +1,10 @@
+Germany 's defense ministry says it is investigating photos published by a popular newspaper that appear to show German troops in Afghanistan posing with a skull .,B-geo O O O O O O O O O O O O O O O O O B-gpe O O B-geo O O O O O,NNP POS NN NN VBZ PRP VBZ VBG NNS VBN IN DT JJ NN WDT VBP TO VB JJ NNS IN NNP VBG IN DT NN .
+"The daily Bildnewspaper says the pictures were taken near Afghanistan 's capital , Kabul , in 2003 .",O O B-org O O O O O O B-geo O O O B-per O O B-tim O,"DT JJ NNP VBZ DT NNS VBD VBN IN NNP POS NN , NNP , IN CD ."
+The paper says it does not know where the soldiers obtained the skull or how old it was .,O O O O O O O O O O O O O O O O O O O,DT NN VBZ PRP VBZ RB VB WRB DT NNS VBD DT NN CC WRB JJ PRP VBD .
+German Defense Minister Josef Jung called the pictures disgusting and incomprehensible .,B-gpe O O B-per I-per O O O O O O O,JJ NNP NNP NNP NNP VBD DT NNS VBG CC JJ .
+He said such behavior by German soldiers will not be tolerated .,O O O O O B-gpe O O O O O O,PRP VBD JJ NN IN JJ NNS MD RB VB VBN .
+"Germany has about 2,800 troops in Afghanistan as part of the NATO peacekeeping mission .",B-geo O O O O O B-geo O O O O B-org O O O,NNP VBZ IN CD NNS IN NNP IN NN IN DT NNP NN NN .
+Germany 's parliament voted last month to extend their deployment for another year .,B-geo O O O O O O O O O O B-tim O O,NNP POS NN VBD JJ NN TO VB PRP$ NN IN DT NN .
+The photos show the soldiers holding the skull up and fastening it to a vehicle like a hood ornament .,O O O O O O O O O O O O O O O O O O O O,DT NNS VBP DT NNS VBG DT NN RB CC VBG PRP TO DT NN IN DT NN NN .
+Another soldier is shown exposing himself next to the skull .,O O O O O O O O O O O,DT NN VBZ VBN VBG PRP JJ TO DT NN .
+The newspaper did not say how it obtained the photos .,O O O O O O O O O O O,DT NN VBD RB VB WRB PRP VBD DT NNS .

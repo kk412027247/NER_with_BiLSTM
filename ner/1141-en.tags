@@ -1,0 +1,3 @@
+"This isolated island was named for John CLIPPERTON , a pirate who made it his hideout early in the 18th century .",O O O O O O B-per I-per O O O O O O O O O O O B-tim I-tim O,"DT JJ NN VBD VBN IN NNP NNP , DT NN WP VBD PRP PRP$ NN RB IN DT JJ NN ."
+"Annexed by France in 1855 , it was seized by Mexico in 1897 .",O O B-org O B-tim O O O O O B-org O B-tim O,"VBN IN NNP IN CD , PRP VBD VBN IN NNP IN CD ."
+"Arbitration eventually awarded the island to France , which took possession in 1935 .",O O O O O O B-org O O O O O B-tim O,"NNP RB VBD DT NN TO NNP , WDT VBD NN IN CD ."

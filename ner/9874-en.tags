@@ -1,0 +1,7 @@
+"Dozens of Palestinian refugees are leaving a refugee camp in northern Lebanon , clearing the way for a possible renewed army assault on Islamic militants in the camp .",O O B-gpe O O O O O O O O B-geo O O O O O O O O O O O O O O O O O,"NNS IN JJ NNS VBP VBG DT NN NN IN JJ NNP , VBG DT NN IN DT JJ JJ NN NN IN JJ NNS IN DT NN ."
+Some of the last remaining refugees in the Nahr al-Bared camp near the city of Tripoli left the camp Wednesday .,O O O O O O O O B-geo I-geo O O O O O B-geo O O O B-tim O,DT IN DT JJ VBG NNS IN DT NNP JJ NN IN DT NN IN NNP VBD DT NN NNP .
+The Lebanese army has been battling Fatah al-Islam militants inside the camp since May 20 .,O B-gpe O O O O B-org I-org O O O O O B-tim I-tim O,DT JJ NN VBZ VBN VBG NNP NNP NNS IN DT NN IN NNP CD .
+"Almost all of the 31,000 Palestinian refugees have now left the camp .",O O O O O B-gpe O O O O O O O,RB DT IN DT CD JJ NNS VBP RB VBN DT NN .
+More than 170 people have been killed in the fighting .,O O O O O O O O O O O,JJR IN CD NNS VBP VBN VBN IN DT NN .
+A sniper killed a Lebanese soldier Tuesday .,O O O O B-gpe O B-tim O,DT NN VBD DT JJ NN NNP .
+The army says it has seized all the militants ' positions on the outskirts of the camp and is poised for a final assault on the remaining militants in the camp .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,DT NN VBZ PRP VBZ VBN PDT DT NNS POS NNS IN DT NNS IN DT NN CC VBZ VBN IN DT JJ NN IN DT VBG NNS IN DT NN .

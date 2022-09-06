@@ -1,0 +1,7 @@
+Cuban president Fidel Castro has called for a march outside the U.S. mission in Havana to protest new electronic signs that have been installed by the Americans .,B-gpe O B-per I-per O O O O O O O B-geo O O B-geo O O O O O O O O O O O B-gpe O,JJ NN NNP NNP VBZ VBN IN DT NN IN DT NNP NN IN NNP TO VB JJ JJ NNS WDT VBP VBN VBN IN DT NNS .
+Mr. Castro made the appeal Sunday on Cuban television .,B-per I-per O O O B-tim O B-gpe O O,NNP NNP VBD DT NN NNP IN JJ NN .
+He complained about large electronic signs that have been spelling out messages to passersby .,O O O O O O O O O O O O O O O,PRP VBD IN JJ JJ NNS WDT VBP VBN VBG RP NNS TO VB .
+"The signs have displayed human rights sayings of the Reverend Martin Luther King , Junior .",O O O O O O O O O B-org I-org B-per I-per O O O,"DT NNS VBP VBN JJ NNS NNS IN DT NNP NNP NNP NNP , NNP ."
+They have also quoted parts of the Universal Declaration of Human Rights that Cuba signed .,O O O O O O O B-org I-org I-org I-org I-org O B-geo O O,PRP VBP RB VBN NNS IN DT NNP NNP IN NNP NNP IN NNP VBD .
+Mr. Castro said the Americans have no authority on the subject of human rights .,B-per I-per O O B-gpe O O O O O O O O O O,NNP NNP VBD DT NNS VBP DT NN IN DT NN IN JJ NNS .
+"He also accused the U.S. of protecting Posada Carriles , a Cuban exile wanted for a 1976 airliner bombing .",O O O O B-geo O O B-per I-per O O B-gpe O O O O B-tim O O O,"PRP RB VBD DT NNP IN VBG NNP NNP , DT JJ NN VBN IN DT CD NN NN ."

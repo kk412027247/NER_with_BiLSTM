@@ -1,0 +1,4 @@
+"Authorities in Ethiopia say several people were injured Tuesday from two explosions in the capital , Addis Ababa .",O O B-geo O O O O O B-tim O O O O O O O B-per I-per O,"NNS IN NNP VBP JJ NNS VBD VBN NNP IN CD NNS IN DT NN , NNP NNP ."
+"Officials say the first blast occurred at a hotel , injuring four people and damaging the building .",O O O O O O O O O O O O O O O O O O,"NNS VBP DT JJ NN VBD IN DT NN , VBG CD NNS CC VBG DT NN ."
+"They say the second explosion happened in a market in Addis Ababa , but no injuries were reported there .",O O O O O O O O O O B-per I-per O O O O O O O O,"PRP VBP DT JJ NN VBD IN DT NN IN NNP NNP , CC DT NNS VBD VBN RB ."
+There was no immediate indication of what caused the explosions .,O O O O O O O O O O O,EX VBD DT JJ NN IN WP VBD DT NNS .
