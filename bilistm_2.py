@@ -90,15 +90,17 @@ print(model.summary())
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 X = x_pad
+
 total_sentences = ner_config.get('document_count')
-test_size = round(total_sentences / BATCH_SIZE * 0.2)
-test_size = BATCH_SIZE * test_size
+train_size = round(round(total_sentences / BATCH_SIZE) * 0.8) * BATCH_SIZE
+test_size = round(round(total_sentences / BATCH_SIZE) * BATCH_SIZE)
+print(train_size, test_size)
 
-X_train = X[test_size:]
-Y_train = Y[test_size:]
+X_train = X[0: train_size]
+Y_train = Y[0: train_size]
 
-X_test = X[0:test_size]
-Y_test = Y[0:test_size]
+X_test = X[train_size: test_size]
+Y_test = Y[train_size: test_size]
 
 model.fit(X_train, Y_train, batch_size=BATCH_SIZE, epochs=15)
 
