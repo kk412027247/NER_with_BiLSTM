@@ -120,7 +120,7 @@ for i in range(10):
     x = 'sentence=> ' + text_tok.sequences_to_texts([X_test[i]])[0]
     ground_true = 'ground_true=> ' + ner_tok.sequences_to_texts([y_ground_true_pnp[i]])[0]
     prediction = 'prediction=> ' + ner_tok.sequences_to_texts([y_pnp[i]])[0]
-    template = '|'.join(['{' + str(index) + ': <15}' for index, x in enumerate(x.split(' '))])
+    template = '|'.join(['{' + str(index) + ': <15}' for index, x in enumerate(x.split(' ')) if x != '<OOV>'])
     print(template.format(*x.split(' ')))
     print(template.format(*ground_true.split(' ')))
     print(template.format(*prediction.split(' ')))
