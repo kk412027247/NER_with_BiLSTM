@@ -89,6 +89,7 @@ model = build_model_bilstm(vocab_size=vocab_size, embedding_dim=embedding_dim, r
 print(model.summary())
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
+
 X = x_pad
 
 total_sentences = ner_config.get('document_count')
