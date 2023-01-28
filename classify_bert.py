@@ -127,6 +127,15 @@ inp_dict = {"input_ids": inp_ids, "attention_mask": att_mask, "token_type_ids": 
 outputs = bert(inp_dict)
 
 
+# outputs[0] refer to last_hidden_state. 
+# Sequence of hidden-states at the output of the last layer of the model.
+
+# outputs[1] refer to pooler_output.
+# Last layer hidden-state of the first token of the sequence (classification token) further processed by a Linear layer and a Tanh activation function. 
+# The Linear layer weights are trained from the next sentence prediction (classification) objective during pretraining.
+
+
+
 x = tf.keras.layers.Dropout(0.2)(outputs[1])
 x = tf.keras.layers.Dense(200, activation="relu")(x)
 x = tf.keras.layers.Dropout(0.2)(x)
